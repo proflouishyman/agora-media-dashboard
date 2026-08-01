@@ -69,7 +69,7 @@ function renderStats(meta) {
     kpiTileHtml({ label: 'People tracked', value: formatNumber(db.total_tracked_people) }),
     kpiTileHtml({ label: 'CES scholars', value: formatNumber(db.total_ces_people) }),
     kpiTileHtml({ label: 'Mentions logged', value: formatNumber(db.total_mentions), note: windowNote }),
-    kpiTileHtml({ label: 'Fetches so far', value: formatNumber(observedCount), note: 'Backfill, not a daily feed' }),
+    kpiTileHtml({ label: 'Days of coverage', value: formatNumber(observedCount), note: 'Confirmed fetch, not estimated' }),
   ];
 
   row.innerHTML = tiles.join('');
