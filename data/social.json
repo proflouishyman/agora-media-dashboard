@@ -1,5 +1,834 @@
 {
-  "generated_at": "2026-08-01T13:31:43-04:00",
-  "count": 0,
-  "picks": []
+  "generated_at": "2026-08-01T13:46:48-04:00",
+  "count": 23,
+  "picks": [
+    {
+      "id": 38,
+      "mention_id": 2,
+      "digest_date": "2026-07-31",
+      "person": "SNF Agora Institute",
+      "person_id": "snf-agora-institute",
+      "person_ids": [
+        "snf-agora-institute"
+      ],
+      "is_ces": false,
+      "punchy_title": "New Agora Institute Research Cited in Wire Story on Primary Turnout",
+      "headline": "New Agora Institute Research Cited in Wire Story on Primary Turnout",
+      "pull_quote": "... politics, according to research from the Stavros Niarchos Foundation Agora Institute at Johns Hopkins University. Amy Anderson, ...",
+      "rationale": "... politics, according to research from the Stavros Niarchos Foundation Agora Institute at Johns Hopkins University. Amy Anderson, ...",
+      "url": "https://www.miamiherald.com/news/nation-world/national/article316722048.html",
+      "story_url": "https://www.miamiherald.com/news/nation-world/national/article316722048.html",
+      "created_at": "2026-08-01 17:45:25",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "New Agora Institute Research Cited in Wire Story on Primary Turnout https://www.miamiherald.com/news/nation-world/national/article316722048.html",
+          "chars": 144,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=New%20Agora%20Institute%20Research%20Cited%20in%20Wire%20Story%20on%20Primary%20Turnout%20https%3A//www.miamiherald.com/news/nation-world/national/article316722048.html"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "New Agora Institute Research Cited in Wire Story on Primary Turnout https://www.miamiherald.com/news/nation-world/national/article316722048.html",
+          "chars": 144,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=New%20Agora%20Institute%20Research%20Cited%20in%20Wire%20Story%20on%20Primary%20Turnout%20https%3A//www.miamiherald.com/news/nation-world/national/article316722048.html"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "mention_id": 1,
+      "digest_date": "2026-07-30",
+      "person": "Mara Karlin",
+      "person_id": "mara-karlin",
+      "person_ids": [
+        "mara-karlin"
+      ],
+      "is_ces": false,
+      "punchy_title": "German and Portuguese Press Pick Up Mara Karlin's Warning on US Munitions",
+      "headline": "German and Portuguese Press Pick Up Mara Karlin's Warning on US Munitions",
+      "pull_quote": "... breit angelegte, hochintensive Kampagne geführt wird“, sagte Mara Karlin, ehemalige stellvertretende Unterstaatssekretärin für ...",
+      "rationale": "... breit angelegte, hochintensive Kampagne geführt wird“, sagte Mara Karlin, ehemalige stellvertretende Unterstaatssekretärin für ...",
+      "url": "https://www.merkur.de/politik/iran-krieg-usa-geht-die-munition-aus-aber-trump-hat-noch-groesseres-problem-zr-94421438.html",
+      "story_url": "https://www.merkur.de/politik/iran-krieg-usa-geht-die-munition-aus-aber-trump-hat-noch-groesseres-problem-zr-94421438.html",
+      "created_at": "2026-08-01 17:45:25",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "German and Portuguese Press Pick Up Mara Karlin's Warning on US Munitions https://www.merkur.de/politik/iran-krieg-usa-geht-die-munition-aus-aber-trump-hat-noch-groesseres-problem-zr-94421438.html",
+          "chars": 196,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=German%20and%20Portuguese%20Press%20Pick%20Up%20Mara%20Karlin%27s%20Warning%20on%20US%20Munitions%20https%3A//www.merkur.de/politik/iran-krieg-usa-geht-die-munition-aus-aber-trump-hat-noch-groesseres-problem-zr-94421438.html"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "German and Portuguese Press Pick Up Mara Karlin's Warning on US Munitions https://www.merkur.de/politik/iran-krieg-usa-geht-die-munition-aus-aber-trump-hat-noch-groesseres-problem-zr-94421438.html",
+          "chars": 196,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=German%20and%20Portuguese%20Press%20Pick%20Up%20Mara%20Karlin%27s%20Warning%20on%20US%20Munitions%20https%3A//www.merkur.de/politik/iran-krieg-usa-geht-die-munition-aus-aber-trump-hat-noch-groesseres-problem-zr-94421438.html"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "mention_id": 172,
+      "digest_date": "2026-07-29",
+      "person": "Mara Karlin",
+      "person_id": "mara-karlin",
+      "person_ids": [
+        "mara-karlin"
+      ],
+      "is_ces": false,
+      "punchy_title": "Mara Karlin: The US Is Running Low on Ammo, Not Trump's Top Priority",
+      "headline": "Mara Karlin: The US Is Running Low on Ammo, Not Trump's Top Priority",
+      "pull_quote": "... months of a widespread and high-intensity campaign,\" Mara Karlin, former deputy Under Secretary of Defense for Policy now serving as ...",
+      "rationale": "... months of a widespread and high-intensity campaign,\" Mara Karlin, former deputy Under Secretary of Defense for Policy now serving as ...",
+      "url": "https://www.newsweek.com/us-running-low-ammo-not-trump-top-iran-war-problem-12257621",
+      "story_url": "https://www.newsweek.com/us-running-low-ammo-not-trump-top-iran-war-problem-12257621",
+      "created_at": "2026-08-01 17:45:25",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Mara Karlin: The US Is Running Low on Ammo, Not Trump's Top Priority https://www.newsweek.com/us-running-low-ammo-not-trump-top-iran-war-problem-12257621",
+          "chars": 153,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Mara%20Karlin%3A%20The%20US%20Is%20Running%20Low%20on%20Ammo%2C%20Not%20Trump%27s%20Top%20Priority%20https%3A//www.newsweek.com/us-running-low-ammo-not-trump-top-iran-war-problem-12257621"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Mara Karlin: The US Is Running Low on Ammo, Not Trump's Top Priority https://www.newsweek.com/us-running-low-ammo-not-trump-top-iran-war-problem-12257621",
+          "chars": 153,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Mara%20Karlin%3A%20The%20US%20Is%20Running%20Low%20on%20Ammo%2C%20Not%20Trump%27s%20Top%20Priority%20https%3A//www.newsweek.com/us-running-low-ammo-not-trump-top-iran-war-problem-12257621"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "mention_id": 181,
+      "digest_date": "2026-07-28",
+      "person": "Eliot  Cohen",
+      "person_id": "eliot-cohen-2",
+      "person_ids": [
+        "eliot-cohen-2"
+      ],
+      "is_ces": false,
+      "punchy_title": "Eliot Cohen on the Wartime Checks Keeping Ukraine's Presidency in Check",
+      "headline": "Eliot Cohen on the Wartime Checks Keeping Ukraine's Presidency in Check",
+      "pull_quote": "“This is unusual, but Ukraine is an unusual country,” said Eliot Cohen, professor emeritus at Johns Hopkins University and a former ...",
+      "rationale": "“This is unusual, but Ukraine is an unusual country,” said Eliot Cohen, professor emeritus at Johns Hopkins University and a former ...",
+      "url": "https://www.hindustantimes.com/world-news/even-at-war-ukrainian-society-keeps-presidential-power-in-check-101785232781556.html",
+      "story_url": "https://www.hindustantimes.com/world-news/even-at-war-ukrainian-society-keeps-presidential-power-in-check-101785232781556.html",
+      "created_at": "2026-08-01 17:45:25",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Eliot Cohen on the Wartime Checks Keeping Ukraine's Presidency in Check https://www.hindustantimes.com/world-news/even-at-war-ukrainian-society-keeps-presidential-power-in-check-101785232781556.html",
+          "chars": 198,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Eliot%20Cohen%20on%20the%20Wartime%20Checks%20Keeping%20Ukraine%27s%20Presidency%20in%20Check%20https%3A//www.hindustantimes.com/world-news/even-at-war-ukrainian-society-keeps-presidential-power-in-check-101785232781556.html"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Eliot Cohen on the Wartime Checks Keeping Ukraine's Presidency in Check https://www.hindustantimes.com/world-news/even-at-war-ukrainian-society-keeps-presidential-power-in-check-101785232781556.html",
+          "chars": 198,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Eliot%20Cohen%20on%20the%20Wartime%20Checks%20Keeping%20Ukraine%27s%20Presidency%20in%20Check%20https%3A//www.hindustantimes.com/world-news/even-at-war-ukrainian-society-keeps-presidential-power-in-check-101785232781556.html"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "mention_id": 186,
+      "digest_date": "2026-07-27",
+      "person": "Henry Farrell",
+      "person_id": "henry-farrell",
+      "person_ids": [
+        "henry-farrell"
+      ],
+      "is_ces": true,
+      "punchy_title": "Henry Farrell's Keynote: Inside the Weaponised World Economy",
+      "headline": "Henry Farrell's Keynote: Inside the Weaponised World Economy",
+      "pull_quote": "The Weaponised World Economy - Keynote session with Henry Farrell Professor of International Affairs at John Hopkins at #PowerSummit2026. .. ...",
+      "rationale": "The Weaponised World Economy - Keynote session with Henry Farrell Professor of International Affairs at John Hopkins at #PowerSummit2026. .. ...",
+      "url": "https://www.youtube.com/watch?v=k1aMQrIRhF8",
+      "story_url": "https://www.youtube.com/watch?v=k1aMQrIRhF8",
+      "created_at": "2026-08-01 17:45:25",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Henry Farrell's Keynote: Inside the Weaponised World Economy https://www.youtube.com/watch?v=k1aMQrIRhF8",
+          "chars": 104,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Henry%20Farrell%27s%20Keynote%3A%20Inside%20the%20Weaponised%20World%20Economy%20https%3A//www.youtube.com/watch%3Fv%3Dk1aMQrIRhF8"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Henry Farrell's Keynote: Inside the Weaponised World Economy https://www.youtube.com/watch?v=k1aMQrIRhF8",
+          "chars": 104,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Henry%20Farrell%27s%20Keynote%3A%20Inside%20the%20Weaponised%20World%20Economy%20https%3A//www.youtube.com/watch%3Fv%3Dk1aMQrIRhF8"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "mention_id": 173,
+      "digest_date": "2026-07-26",
+      "person": "Steven Teles",
+      "person_id": "steven-teles",
+      "person_ids": [
+        "steven-teles"
+      ],
+      "is_ces": true,
+      "punchy_title": "Steven Teles Talks Ideological Diversity in Academia on The Glenn Show",
+      "headline": "Steven Teles Talks Ideological Diversity in Academia on The Glenn Show",
+      "pull_quote": "... Day, who came on to talk about Iran. The other was my friend Steven Teles, political scientist at Johns Hopkins University and a force ...",
+      "rationale": "... Day, who came on to talk about Iran. The other was my friend Steven Teles, political scientist at Johns Hopkins University and a force ...",
+      "url": "https://glennloury.substack.com/p/tgs-live-bonus-episode-steven-teles",
+      "story_url": "https://glennloury.substack.com/p/tgs-live-bonus-episode-steven-teles",
+      "created_at": "2026-08-01 17:45:25",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Steven Teles Talks Ideological Diversity in Academia on The Glenn Show https://glennloury.substack.com/p/tgs-live-bonus-episode-steven-teles",
+          "chars": 140,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Steven%20Teles%20Talks%20Ideological%20Diversity%20in%20Academia%20on%20The%20Glenn%20Show%20https%3A//glennloury.substack.com/p/tgs-live-bonus-episode-steven-teles"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Steven Teles Talks Ideological Diversity in Academia on The Glenn Show https://glennloury.substack.com/p/tgs-live-bonus-episode-steven-teles",
+          "chars": 140,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Steven%20Teles%20Talks%20Ideological%20Diversity%20in%20Academia%20on%20The%20Glenn%20Show%20https%3A//glennloury.substack.com/p/tgs-live-bonus-episode-steven-teles"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "mention_id": 69,
+      "digest_date": "2026-07-25",
+      "person": "Eugene Scott",
+      "person_id": "eugene-scott",
+      "person_ids": [
+        "eugene-scott"
+      ],
+      "is_ces": false,
+      "punchy_title": "Eugene Scott: Men Need More Than a Mental Health Talk",
+      "headline": "Eugene Scott: Men Need More Than a Mental Health Talk",
+      "pull_quote": "... help and be officially diagnosed with a disorder. lulu/Adobe Eugene Scott, a journalist based in Washington, D.C., and a visiting fellow ...",
+      "rationale": "... help and be officially diagnosed with a disorder. lulu/Adobe Eugene Scott, a journalist based in Washington, D.C., and a visiting fellow ...",
+      "url": "https://www.bostonglobe.com/2026/07/25/opinion/men-mental-health-congress/",
+      "story_url": "https://www.bostonglobe.com/2026/07/25/opinion/men-mental-health-congress/",
+      "created_at": "2026-08-01 17:45:25",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Eugene Scott: Men Need More Than a Mental Health Talk https://www.bostonglobe.com/2026/07/25/opinion/men-mental-health-congress/",
+          "chars": 128,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Eugene%20Scott%3A%20Men%20Need%20More%20Than%20a%20Mental%20Health%20Talk%20https%3A//www.bostonglobe.com/2026/07/25/opinion/men-mental-health-congress/"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Eugene Scott: Men Need More Than a Mental Health Talk https://www.bostonglobe.com/2026/07/25/opinion/men-mental-health-congress/",
+          "chars": 128,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Eugene%20Scott%3A%20Men%20Need%20More%20Than%20a%20Mental%20Health%20Talk%20https%3A//www.bostonglobe.com/2026/07/25/opinion/men-mental-health-congress/"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "mention_id": 85,
+      "digest_date": "2026-07-21",
+      "person": "Felix Maradiaga",
+      "person_id": "felix-maradiaga",
+      "person_ids": [
+        "felix-maradiaga"
+      ],
+      "is_ces": false,
+      "punchy_title": "Felix Maradiaga on Ortega's Cancelled Election: 'Full Family Dictatorship'",
+      "headline": "Felix Maradiaga on Ortega's Cancelled Election: 'Full Family Dictatorship'",
+      "pull_quote": "... eliminar completamente a competição eleitoral.” O opositor Felix Maradiaga, candidato à presidência pela oposição que já foi preso ...",
+      "rationale": "... eliminar completamente a competição eleitoral.” O opositor Felix Maradiaga, candidato à presidência pela oposição que já foi preso ...",
+      "url": "https://g1.globo.com/mundo/noticia/2026/07/21/ditadura-familiar-plena-por-que-daniel-ortega-cancelou-eleicoes-na-nicaragua.ghtml",
+      "story_url": "https://g1.globo.com/mundo/noticia/2026/07/21/ditadura-familiar-plena-por-que-daniel-ortega-cancelou-eleicoes-na-nicaragua.ghtml",
+      "created_at": "2026-08-01 17:45:25",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Felix Maradiaga on Ortega's Cancelled Election: 'Full Family Dictatorship' https://g1.globo.com/mundo/noticia/2026/07/21/ditadura-familiar-plena-por-que-daniel-ortega-cancelou-eleicoes-na-nicaragua.ghtml",
+          "chars": 203,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Felix%20Maradiaga%20on%20Ortega%27s%20Cancelled%20Election%3A%20%27Full%20Family%20Dictatorship%27%20https%3A//g1.globo.com/mundo/noticia/2026/07/21/ditadura-familiar-plena-por-que-daniel-ortega-cancelou-eleicoes-na-nicaragua.ghtml"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Felix Maradiaga on Ortega's Cancelled Election: 'Full Family Dictatorship' https://g1.globo.com/mundo/noticia/2026/07/21/ditadura-familiar-plena-por-que-daniel-ortega-cancelou-eleicoes-na-nicaragua.ghtml",
+          "chars": 203,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Felix%20Maradiaga%20on%20Ortega%27s%20Cancelled%20Election%3A%20%27Full%20Family%20Dictatorship%27%20https%3A//g1.globo.com/mundo/noticia/2026/07/21/ditadura-familiar-plena-por-que-daniel-ortega-cancelou-eleicoes-na-nicaragua.ghtml"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "mention_id": 59,
+      "digest_date": "2026-07-20",
+      "person": "Ruth Braunstein",
+      "person_id": "ruth-braunstein",
+      "person_ids": [
+        "ruth-braunstein"
+      ],
+      "is_ces": false,
+      "punchy_title": "It's Official: Ruth Braunstein to Lead the SNF Agora Institute",
+      "headline": "It's Official: Ruth Braunstein to Lead the SNF Agora Institute",
+      "pull_quote": "... 2025 MacArthur Fellow Hahrie Han , who has led the institute since 2019 and will remain on the faculty of both the SNF Agora Institute and ...",
+      "rationale": "... 2025 MacArthur Fellow Hahrie Han , who has led the institute since 2019 and will remain on the faculty of both the SNF Agora Institute and ...",
+      "url": "https://baltimorefishbowl.com/stories/ruth-braunstein-named-director-of-the-stavros-niarchos-foundation-agora-institute-at-johns-hopkins-university/",
+      "story_url": "https://baltimorefishbowl.com/stories/ruth-braunstein-named-director-of-the-stavros-niarchos-foundation-agora-institute-at-johns-hopkins-university/",
+      "created_at": "2026-08-01 17:45:25",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "It's Official: Ruth Braunstein to Lead the SNF Agora Institute https://baltimorefishbowl.com/stories/ruth-braunstein-named-director-of-the-stavros-niarchos-foundation-agora-institute-at-johns-hopkins-university/",
+          "chars": 211,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=It%27s%20Official%3A%20Ruth%20Braunstein%20to%20Lead%20the%20SNF%20Agora%20Institute%20https%3A//baltimorefishbowl.com/stories/ruth-braunstein-named-director-of-the-stavros-niarchos-foundation-agora-institute-at-johns-hopkins-university/"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "It's Official: Ruth Braunstein to Lead the SNF Agora Institute https://baltimorefishbowl.com/stories/ruth-braunstein-named-director-of-the-stavros-niarchos-foundation-agora-institute-at-johns-hopkins-university/",
+          "chars": 211,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=It%27s%20Official%3A%20Ruth%20Braunstein%20to%20Lead%20the%20SNF%20Agora%20Institute%20https%3A//baltimorefishbowl.com/stories/ruth-braunstein-named-director-of-the-stavros-niarchos-foundation-agora-institute-at-johns-hopkins-university/"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "mention_id": 66,
+      "digest_date": "2026-07-19",
+      "person": "Louis Hyman",
+      "person_id": "louis-hyman",
+      "person_ids": [
+        "louis-hyman"
+      ],
+      "is_ces": true,
+      "punchy_title": "Inside Johns Hopkins' Push to Bring More Conservatives to Campus",
+      "headline": "Inside Johns Hopkins' Push to Bring More Conservatives to Campus",
+      "pull_quote": "... conservative professors, Johns Hopkins has done more to promote ideological pluralism than most, placing it near or at \"the top of the ...",
+      "rationale": "... conservative professors, Johns Hopkins has done more to promote ideological pluralism than most, placing it near or at \"the top of the ...",
+      "url": "https://www.wnd.com/2026/07/inside-one-major-schools-campaign-bring-conservatives-campus/",
+      "story_url": "https://www.wnd.com/2026/07/inside-one-major-schools-campaign-bring-conservatives-campus/",
+      "created_at": "2026-08-01 17:45:25",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Inside Johns Hopkins' Push to Bring More Conservatives to Campus https://www.wnd.com/2026/07/inside-one-major-schools-campaign-bring-conservatives-campus/",
+          "chars": 154,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Inside%20Johns%20Hopkins%27%20Push%20to%20Bring%20More%20Conservatives%20to%20Campus%20https%3A//www.wnd.com/2026/07/inside-one-major-schools-campaign-bring-conservatives-campus/"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Inside Johns Hopkins' Push to Bring More Conservatives to Campus https://www.wnd.com/2026/07/inside-one-major-schools-campaign-bring-conservatives-campus/",
+          "chars": 154,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Inside%20Johns%20Hopkins%27%20Push%20to%20Bring%20More%20Conservatives%20to%20Campus%20https%3A//www.wnd.com/2026/07/inside-one-major-schools-campaign-bring-conservatives-campus/"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "mention_id": 109,
+      "digest_date": "2026-07-17",
+      "person": "Leah Wright",
+      "person_id": "leah-wright",
+      "person_ids": [
+        "leah-wright"
+      ],
+      "is_ces": false,
+      "punchy_title": "Leah Wright Rigueur on the New Insider-Outsider Politics of Black Candidates",
+      "headline": "Leah Wright Rigueur on the New Insider-Outsider Politics of Black Candidates",
+      "pull_quote": "... into the phenomenon of outsider-versus-insider politics,” said Leah Wright Rigueur, a political historian at Johns Hopkins University. In ...",
+      "rationale": "... into the phenomenon of outsider-versus-insider politics,” said Leah Wright Rigueur, a political historian at Johns Hopkins University. In ...",
+      "url": "https://www.nytimes.com/2026/07/17/us/politics/black-representation-voting-rights-act.html",
+      "story_url": "https://www.nytimes.com/2026/07/17/us/politics/black-representation-voting-rights-act.html",
+      "created_at": "2026-08-01 17:45:25",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Leah Wright Rigueur on the New Insider-Outsider Politics of Black Candidates https://www.nytimes.com/2026/07/17/us/politics/black-representation-voting-rights-act.html",
+          "chars": 167,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Leah%20Wright%20Rigueur%20on%20the%20New%20Insider-Outsider%20Politics%20of%20Black%20Candidates%20https%3A//www.nytimes.com/2026/07/17/us/politics/black-representation-voting-rights-act.html"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Leah Wright Rigueur on the New Insider-Outsider Politics of Black Candidates https://www.nytimes.com/2026/07/17/us/politics/black-representation-voting-rights-act.html",
+          "chars": 167,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Leah%20Wright%20Rigueur%20on%20the%20New%20Insider-Outsider%20Politics%20of%20Black%20Candidates%20https%3A//www.nytimes.com/2026/07/17/us/politics/black-representation-voting-rights-act.html"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "mention_id": 107,
+      "digest_date": "2026-07-16",
+      "person": "Ruth Braunstein",
+      "person_id": "ruth-braunstein",
+      "person_ids": [
+        "ruth-braunstein"
+      ],
+      "is_ces": false,
+      "punchy_title": "Ruth Braunstein Named Next Director of the SNF Agora Institute",
+      "headline": "Ruth Braunstein Named Next Director of the SNF Agora Institute",
+      "pull_quote": "... on Aug. 1. She succeeds Hahrie Han , the institute's inaugural director, who has led the SNF Agora Institute since 2019 and who will remain ...",
+      "rationale": "... on Aug. 1. She succeeds Hahrie Han , the institute's inaugural director, who has led the SNF Agora Institute since 2019 and who will remain ...",
+      "url": "https://hub.jhu.edu/2026/07/16/ruth-braunstein-named-snf-agora-institute-director/",
+      "story_url": "https://hub.jhu.edu/2026/07/16/ruth-braunstein-named-snf-agora-institute-director/",
+      "created_at": "2026-08-01 17:45:25",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Ruth Braunstein Named Next Director of the SNF Agora Institute https://hub.jhu.edu/2026/07/16/ruth-braunstein-named-snf-agora-institute-director/",
+          "chars": 145,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Ruth%20Braunstein%20Named%20Next%20Director%20of%20the%20SNF%20Agora%20Institute%20https%3A//hub.jhu.edu/2026/07/16/ruth-braunstein-named-snf-agora-institute-director/"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Ruth Braunstein Named Next Director of the SNF Agora Institute https://hub.jhu.edu/2026/07/16/ruth-braunstein-named-snf-agora-institute-director/",
+          "chars": 145,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Ruth%20Braunstein%20Named%20Next%20Director%20of%20the%20SNF%20Agora%20Institute%20https%3A//hub.jhu.edu/2026/07/16/ruth-braunstein-named-snf-agora-institute-director/"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "mention_id": 110,
+      "digest_date": "2026-07-15",
+      "person": "Louis Hyman",
+      "person_id": "louis-hyman",
+      "person_ids": [
+        "louis-hyman"
+      ],
+      "is_ces": true,
+      "punchy_title": "Louis Hyman: Johns Hopkins Ranks Near the Top on Ideological Pluralism",
+      "headline": "Louis Hyman: Johns Hopkins Ranks Near the Top on Ideological Pluralism",
+      "pull_quote": "... conservative professors, Johns Hopkins has done more to promote ideological pluralism than most, placing it near or at “the top of the ...",
+      "rationale": "... conservative professors, Johns Hopkins has done more to promote ideological pluralism than most, placing it near or at “the top of the ...",
+      "url": "https://www.realclearinvestigations.com/articles/2026/07/15/inside_elite_universitys_campaign_to_bring_conservatives_to_campus_1194546.html",
+      "story_url": "https://www.realclearinvestigations.com/articles/2026/07/15/inside_elite_universitys_campaign_to_bring_conservatives_to_campus_1194546.html",
+      "created_at": "2026-08-01 17:45:25",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Louis Hyman: Johns Hopkins Ranks Near the Top on Ideological Pluralism https://www.realclearinvestigations.com/articles/2026/07/15/inside_elite_universitys_campaign_to_bring_conservatives_to_campus_1194546.html",
+          "chars": 210,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Louis%20Hyman%3A%20Johns%20Hopkins%20Ranks%20Near%20the%20Top%20on%20Ideological%20Pluralism%20https%3A//www.realclearinvestigations.com/articles/2026/07/15/inside_elite_universitys_campaign_to_bring_conservatives_to_campus_1194546.html"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Louis Hyman: Johns Hopkins Ranks Near the Top on Ideological Pluralism https://www.realclearinvestigations.com/articles/2026/07/15/inside_elite_universitys_campaign_to_bring_conservatives_to_campus_1194546.html",
+          "chars": 210,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Louis%20Hyman%3A%20Johns%20Hopkins%20Ranks%20Near%20the%20Top%20on%20Ideological%20Pluralism%20https%3A//www.realclearinvestigations.com/articles/2026/07/15/inside_elite_universitys_campaign_to_bring_conservatives_to_campus_1194546.html"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "mention_id": 116,
+      "digest_date": "2026-07-14",
+      "person": "Yuen Yuen Ang",
+      "person_id": "yuen-yuen-ang",
+      "person_ids": [
+        "yuen-yuen-ang"
+      ],
+      "is_ces": true,
+      "punchy_title": "Yuen Yuen Ang on the Land Seizure That Explains China's Development Playbook",
+      "headline": "Yuen Yuen Ang on the Land Seizure That Explains China's Development Playbook",
+      "pull_quote": "... that has sunk the prospects of many other developing economies. Yuen Yuen Ang, a political scientist at Johns Hopkins University, came up ...",
+      "rationale": "... that has sunk the prospects of many other developing economies. Yuen Yuen Ang, a political scientist at Johns Hopkins University, came up ...",
+      "url": "https://www.semafor.com/article/07/14/2026/the-man-who-stole-a-golf-course",
+      "story_url": "https://www.semafor.com/article/07/14/2026/the-man-who-stole-a-golf-course",
+      "created_at": "2026-08-01 17:45:25",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Yuen Yuen Ang on the Land Seizure That Explains China's Development Playbook https://www.semafor.com/article/07/14/2026/the-man-who-stole-a-golf-course",
+          "chars": 151,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Yuen%20Yuen%20Ang%20on%20the%20Land%20Seizure%20That%20Explains%20China%27s%20Development%20Playbook%20https%3A//www.semafor.com/article/07/14/2026/the-man-who-stole-a-golf-course"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Yuen Yuen Ang on the Land Seizure That Explains China's Development Playbook https://www.semafor.com/article/07/14/2026/the-man-who-stole-a-golf-course",
+          "chars": 151,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Yuen%20Yuen%20Ang%20on%20the%20Land%20Seizure%20That%20Explains%20China%27s%20Development%20Playbook%20https%3A//www.semafor.com/article/07/14/2026/the-man-who-stole-a-golf-course"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "mention_id": 122,
+      "digest_date": "2026-07-13",
+      "person": "Anne Applebaum",
+      "person_id": "anne-applebaum",
+      "person_ids": [
+        "anne-applebaum"
+      ],
+      "is_ces": false,
+      "punchy_title": "Anne Applebaum: The Chart Behind Trump's Diverted Funds",
+      "headline": "Anne Applebaum: The Chart Behind Trump's Diverted Funds",
+      "pull_quote": "... Read my original article, Kleptocracy Inc and check out the SNF Agora Institute chart ) June 27 Trump diverted funds from more than 900 ...",
+      "rationale": "... Read my original article, Kleptocracy Inc and check out the SNF Agora Institute chart ) June 27 Trump diverted funds from more than 900 ...",
+      "url": "https://anneapplebaum.substack.com/p/the-quintessential-trump-era-politician",
+      "story_url": "https://anneapplebaum.substack.com/p/the-quintessential-trump-era-politician",
+      "created_at": "2026-08-01 17:45:25",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Anne Applebaum: The Chart Behind Trump's Diverted Funds https://anneapplebaum.substack.com/p/the-quintessential-trump-era-politician",
+          "chars": 132,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Anne%20Applebaum%3A%20The%20Chart%20Behind%20Trump%27s%20Diverted%20Funds%20https%3A//anneapplebaum.substack.com/p/the-quintessential-trump-era-politician"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Anne Applebaum: The Chart Behind Trump's Diverted Funds https://anneapplebaum.substack.com/p/the-quintessential-trump-era-politician",
+          "chars": 132,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Anne%20Applebaum%3A%20The%20Chart%20Behind%20Trump%27s%20Diverted%20Funds%20https%3A//anneapplebaum.substack.com/p/the-quintessential-trump-era-politician"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "mention_id": 125,
+      "digest_date": "2026-07-12",
+      "person": "Christopher Krupenye",
+      "person_id": "christopher-krupenye",
+      "person_ids": [
+        "christopher-krupenye"
+      ],
+      "is_ces": false,
+      "punchy_title": "What Primates Reveal About Complex Thought: Christopher Krupenye's New Study",
+      "headline": "What Primates Reveal About Complex Thought: Christopher Krupenye's New Study",
+      "pull_quote": "... complejas de los primates Investigadores de la Universidad Johns Hopkins y de la Universidad de St. Andrews se preguntaron si el ...",
+      "rationale": "... complejas de los primates Investigadores de la Universidad Johns Hopkins y de la Universidad de St. Andrews se preguntaron si el ...",
+      "url": "https://larepublica.pe/ciencia/2026/07/12/unos-cientificos-pusieron-dos-tazas-frente-a-un-primate-y-el-animal-hizo-algo-que-se-creia-exclusivo-de-los-humanos-269892",
+      "story_url": "https://larepublica.pe/ciencia/2026/07/12/unos-cientificos-pusieron-dos-tazas-frente-a-un-primate-y-el-animal-hizo-algo-que-se-creia-exclusivo-de-los-humanos-269892",
+      "created_at": "2026-08-01 17:45:25",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "What Primates Reveal About Complex Thought: Christopher Krupenye's New Study https://larepublica.pe/ciencia/2026/07/12/unos-cientificos-pusieron-dos-tazas-frente-a-un-primate-y-el-animal-hizo-algo-que-se-creia-exclusivo-de-los-humanos-269892",
+          "chars": 241,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=What%20Primates%20Reveal%20About%20Complex%20Thought%3A%20Christopher%20Krupenye%27s%20New%20Study%20https%3A//larepublica.pe/ciencia/2026/07/12/unos-cientificos-pusieron-dos-tazas-frente-a-un-primate-y-el-animal-hizo-algo-que-se-creia-exclusivo-de-los-humanos-269892"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "What Primates Reveal About Complex Thought: Christopher Krupenye's New Study https://larepublica.pe/ciencia/2026/07/12/unos-cientificos-pusieron-dos-tazas-frente-a-un-primate-y-el-animal-hizo-algo-que-se-creia-exclusivo-de-los-humanos-269892",
+          "chars": 241,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=What%20Primates%20Reveal%20About%20Complex%20Thought%3A%20Christopher%20Krupenye%27s%20New%20Study%20https%3A//larepublica.pe/ciencia/2026/07/12/unos-cientificos-pusieron-dos-tazas-frente-a-un-primate-y-el-animal-hizo-algo-que-se-creia-exclusivo-de-los-humanos-269892"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "mention_id": 114,
+      "digest_date": "2026-07-11",
+      "person": "Scott Warren",
+      "person_id": "scott-warren",
+      "person_ids": [
+        "scott-warren"
+      ],
+      "is_ces": false,
+      "punchy_title": "Scott Warren on What America's 250th Anniversary Should Actually Mean",
+      "headline": "Scott Warren on What America's 250th Anniversary Should Actually Mean",
+      "pull_quote": "... Corporation, Stand Together and the Bezos Family Foundation. Scott Warren, a fellow at the SNF Agora Institute at Johns Hopkins ...",
+      "rationale": "... Corporation, Stand Together and the Bezos Family Foundation. Scott Warren, a fellow at the SNF Agora Institute at Johns Hopkins ...",
+      "url": "https://www.denvergazette.com/2026/07/11/half-of-americans-dont-know-what-the-250th-anniversary-celebrates-vince-bzdek/",
+      "story_url": "https://www.denvergazette.com/2026/07/11/half-of-americans-dont-know-what-the-250th-anniversary-celebrates-vince-bzdek/",
+      "created_at": "2026-08-01 17:45:25",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Scott Warren on What America's 250th Anniversary Should Actually Mean https://www.denvergazette.com/2026/07/11/half-of-americans-dont-know-what-the-250th-anniversary-celebrates-vince-bzdek/",
+          "chars": 189,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Scott%20Warren%20on%20What%20America%27s%20250th%20Anniversary%20Should%20Actually%20Mean%20https%3A//www.denvergazette.com/2026/07/11/half-of-americans-dont-know-what-the-250th-anniversary-celebrates-vince-bzdek/"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Scott Warren on What America's 250th Anniversary Should Actually Mean https://www.denvergazette.com/2026/07/11/half-of-americans-dont-know-what-the-250th-anniversary-celebrates-vince-bzdek/",
+          "chars": 189,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Scott%20Warren%20on%20What%20America%27s%20250th%20Anniversary%20Should%20Actually%20Mean%20https%3A//www.denvergazette.com/2026/07/11/half-of-americans-dont-know-what-the-250th-anniversary-celebrates-vince-bzdek/"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "mention_id": 127,
+      "digest_date": "2026-07-10",
+      "person": "Martha S. Jones",
+      "person_id": "martha-s-jones",
+      "person_ids": [
+        "martha-s-jones"
+      ],
+      "is_ces": false,
+      "punchy_title": "Martha S. Jones's 'Birthright Citizens' Cited in the Birthright-Citizenship Debate",
+      "headline": "Martha S. Jones's 'Birthright Citizens' Cited in the Birthright-Citizenship Debate",
+      "pull_quote": "Dred Scott. Óleo sobre tela de Louis Schultze, 1888. (Detalhe) Acervo do Museu de História do Missouri. n23864. HENRIQUE GIROUX ...",
+      "rationale": "Dred Scott. Óleo sobre tela de Louis Schultze, 1888. (Detalhe) Acervo do Museu de História do Missouri. n23864. HENRIQUE GIROUX ...",
+      "url": "https://alemdarena.blogspot.com/2026/07/roubando-democracia-o-ataque-de-trump.html",
+      "story_url": "https://alemdarena.blogspot.com/2026/07/roubando-democracia-o-ataque-de-trump.html",
+      "created_at": "2026-08-01 17:45:25",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Martha S. Jones's 'Birthright Citizens' Cited in the Birthright-Citizenship Debate https://alemdarena.blogspot.com/2026/07/roubando-democracia-o-ataque-de-trump.html",
+          "chars": 165,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Martha%20S.%20Jones%27s%20%27Birthright%20Citizens%27%20Cited%20in%20the%20Birthright-Citizenship%20Debate%20https%3A//alemdarena.blogspot.com/2026/07/roubando-democracia-o-ataque-de-trump.html"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Martha S. Jones's 'Birthright Citizens' Cited in the Birthright-Citizenship Debate https://alemdarena.blogspot.com/2026/07/roubando-democracia-o-ataque-de-trump.html",
+          "chars": 165,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Martha%20S.%20Jones%27s%20%27Birthright%20Citizens%27%20Cited%20in%20the%20Birthright-Citizenship%20Debate%20https%3A//alemdarena.blogspot.com/2026/07/roubando-democracia-o-ataque-de-trump.html"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "mention_id": 23,
+      "digest_date": "2026-07-09",
+      "person": "Martha S. Jones",
+      "person_id": "martha-s-jones",
+      "person_ids": [
+        "martha-s-jones"
+      ],
+      "is_ces": false,
+      "punchy_title": "Birthright Citizenship Fight Heads Back to Court — Martha S. Jones Weighs In",
+      "headline": "Birthright Citizenship Fight Heads Back to Court — Martha S. Jones Weighs In",
+      "pull_quote": "... , Wang said. The second session of Wednesday’s event featured Johns Hopkins professor Martha S. Jones, whose research into views on ...",
+      "rationale": "... , Wang said. The second session of Wednesday’s event featured Johns Hopkins professor Martha S. Jones, whose research into views on ...",
+      "url": "https://www.scotusblog.com/2026/07/trump-wants-court-to-rehear-birthright-citizenship-case/",
+      "story_url": "https://www.scotusblog.com/2026/07/trump-wants-court-to-rehear-birthright-citizenship-case/",
+      "created_at": "2026-08-01 17:45:25",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Birthright Citizenship Fight Heads Back to Court — Martha S. Jones Weighs In https://www.scotusblog.com/2026/07/trump-wants-court-to-rehear-birthright-citizenship-case/",
+          "chars": 168,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Birthright%20Citizenship%20Fight%20Heads%20Back%20to%20Court%20%E2%80%94%20Martha%20S.%20Jones%20Weighs%20In%20https%3A//www.scotusblog.com/2026/07/trump-wants-court-to-rehear-birthright-citizenship-case/"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Birthright Citizenship Fight Heads Back to Court — Martha S. Jones Weighs In https://www.scotusblog.com/2026/07/trump-wants-court-to-rehear-birthright-citizenship-case/",
+          "chars": 168,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Birthright%20Citizenship%20Fight%20Heads%20Back%20to%20Court%20%E2%80%94%20Martha%20S.%20Jones%20Weighs%20In%20https%3A//www.scotusblog.com/2026/07/trump-wants-court-to-rehear-birthright-citizenship-case/"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "mention_id": 22,
+      "digest_date": "2026-07-08",
+      "person": "Lilliana Mason",
+      "person_id": "lilliana-mason",
+      "person_ids": [
+        "lilliana-mason"
+      ],
+      "is_ces": false,
+      "punchy_title": "Why Do Voters Keep Picking Politicians Who Let Them Down? Lilliana Mason Explains",
+      "headline": "Why Do Voters Keep Picking Politicians Who Let Them Down? Lilliana Mason Explains",
+      "pull_quote": "... to a game than a banker carefully choosing investments,\" said Lilliana Mason, professor of political science at Johns Hopkins University. ...",
+      "rationale": "... to a game than a banker carefully choosing investments,\" said Lilliana Mason, professor of political science at Johns Hopkins University. ...",
+      "url": "https://english.news.cn/20260708/938e509a0aee45999cc2eef451c9183b/c.html",
+      "story_url": "https://english.news.cn/20260708/938e509a0aee45999cc2eef451c9183b/c.html",
+      "created_at": "2026-08-01 17:45:25",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Why Do Voters Keep Picking Politicians Who Let Them Down? Lilliana Mason Explains https://english.news.cn/20260708/938e509a0aee45999cc2eef451c9183b/c.html",
+          "chars": 154,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Why%20Do%20Voters%20Keep%20Picking%20Politicians%20Who%20Let%20Them%20Down%3F%20Lilliana%20Mason%20Explains%20https%3A//english.news.cn/20260708/938e509a0aee45999cc2eef451c9183b/c.html"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Why Do Voters Keep Picking Politicians Who Let Them Down? Lilliana Mason Explains https://english.news.cn/20260708/938e509a0aee45999cc2eef451c9183b/c.html",
+          "chars": 154,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Why%20Do%20Voters%20Keep%20Picking%20Politicians%20Who%20Let%20Them%20Down%3F%20Lilliana%20Mason%20Explains%20https%3A//english.news.cn/20260708/938e509a0aee45999cc2eef451c9183b/c.html"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "mention_id": 31,
+      "digest_date": "2026-07-07",
+      "person": "Yuen Yuen Ang",
+      "person_id": "yuen-yuen-ang",
+      "person_ids": [
+        "yuen-yuen-ang"
+      ],
+      "is_ces": true,
+      "punchy_title": "Yuen Yuen Ang Breaks Down China's 15th Five-Year Plan",
+      "headline": "Yuen Yuen Ang Breaks Down China's 15th Five-Year Plan",
+      "pull_quote": "China's 15th Five-Year Plan sets the course for the country's next stage of economic development, with a stronger focus on domestic demand, ...",
+      "rationale": "China's 15th Five-Year Plan sets the course for the country's next stage of economic development, with a stronger focus on domestic demand, ...",
+      "url": "https://www.youtube.com/watch?v=mFAnLe-2rs4",
+      "story_url": "https://www.youtube.com/watch?v=mFAnLe-2rs4",
+      "created_at": "2026-08-01 17:45:25",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Yuen Yuen Ang Breaks Down China's 15th Five-Year Plan https://www.youtube.com/watch?v=mFAnLe-2rs4",
+          "chars": 97,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Yuen%20Yuen%20Ang%20Breaks%20Down%20China%27s%2015th%20Five-Year%20Plan%20https%3A//www.youtube.com/watch%3Fv%3DmFAnLe-2rs4"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Yuen Yuen Ang Breaks Down China's 15th Five-Year Plan https://www.youtube.com/watch?v=mFAnLe-2rs4",
+          "chars": 97,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Yuen%20Yuen%20Ang%20Breaks%20Down%20China%27s%2015th%20Five-Year%20Plan%20https%3A//www.youtube.com/watch%3Fv%3DmFAnLe-2rs4"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "mention_id": 29,
+      "digest_date": "2026-07-05",
+      "person": "SNF Agora Institute",
+      "person_id": "snf-agora-institute",
+      "person_ids": [
+        "snf-agora-institute"
+      ],
+      "is_ces": false,
+      "punchy_title": "SNF Agora's 'Once Upon a Time in the Web' Escape Room Heads to Switzerland's Estival Jazz",
+      "headline": "SNF Agora's 'Once Upon a Time in the Web' Escape Room Heads to Switzerland's Estival Jazz",
+      "pull_quote": "... : luganoeventi.ch). Oltre a queste proposte, il progetto SNF Agora “Once Upon a Time in the Web” presenterà l’escape room ...",
+      "rationale": "... : luganoeventi.ch). Oltre a queste proposte, il progetto SNF Agora “Once Upon a Time in the Web” presenterà l’escape room ...",
+      "url": "https://maeci.askanews.it/2026/07/05/svizzera-primo-weekend-di-estival-jazz-lugano-diventa-un-festival-2/",
+      "story_url": "https://maeci.askanews.it/2026/07/05/svizzera-primo-weekend-di-estival-jazz-lugano-diventa-un-festival-2/",
+      "created_at": "2026-08-01 17:45:25",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "SNF Agora's 'Once Upon a Time in the Web' Escape Room Heads to Switzerland's Estival Jazz https://maeci.askanews.it/2026/07/05/svizzera-primo-weekend-di-estival-jazz-lugano-diventa-un-festival-2/",
+          "chars": 195,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=SNF%20Agora%27s%20%27Once%20Upon%20a%20Time%20in%20the%20Web%27%20Escape%20Room%20Heads%20to%20Switzerland%27s%20Estival%20Jazz%20https%3A//maeci.askanews.it/2026/07/05/svizzera-primo-weekend-di-estival-jazz-lugano-diventa-un-festival-2/"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "SNF Agora's 'Once Upon a Time in the Web' Escape Room Heads to Switzerland's Estival Jazz https://maeci.askanews.it/2026/07/05/svizzera-primo-weekend-di-estival-jazz-lugano-diventa-un-festival-2/",
+          "chars": 195,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=SNF%20Agora%27s%20%27Once%20Upon%20a%20Time%20in%20the%20Web%27%20Escape%20Room%20Heads%20to%20Switzerland%27s%20Estival%20Jazz%20https%3A//maeci.askanews.it/2026/07/05/svizzera-primo-weekend-di-estival-jazz-lugano-diventa-un-festival-2/"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "mention_id": 35,
+      "digest_date": "2026-07-02",
+      "person": "Thomas Cudjoe",
+      "person_id": "thomas-cudjoe-m-d",
+      "person_ids": [
+        "thomas-cudjoe-m-d"
+      ],
+      "is_ces": false,
+      "punchy_title": "Loneliness Is a Health Risk, Says Johns Hopkins' Thomas Cudjoe",
+      "headline": "Loneliness Is a Health Risk, Says Johns Hopkins' Thomas Cudjoe",
+      "pull_quote": "... coexistir y amplificar sus efectos sobre la salud”, comenta Thomas Cudjoe, profesor asociado de la Universidad Johns Hopkins, quien ...",
+      "rationale": "... coexistir y amplificar sus efectos sobre la salud”, comenta Thomas Cudjoe, profesor asociado de la Universidad Johns Hopkins, quien ...",
+      "url": "https://www.pantallazosnoticias.com.co/estar-solos-nos-esta-enfermando-mas-de-lo-que-creemos/",
+      "story_url": "https://www.pantallazosnoticias.com.co/estar-solos-nos-esta-enfermando-mas-de-lo-que-creemos/",
+      "created_at": "2026-08-01 17:45:25",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Loneliness Is a Health Risk, Says Johns Hopkins' Thomas Cudjoe https://www.pantallazosnoticias.com.co/estar-solos-nos-esta-enfermando-mas-de-lo-que-creemos/",
+          "chars": 156,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Loneliness%20Is%20a%20Health%20Risk%2C%20Says%20Johns%20Hopkins%27%20Thomas%20Cudjoe%20https%3A//www.pantallazosnoticias.com.co/estar-solos-nos-esta-enfermando-mas-de-lo-que-creemos/"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Loneliness Is a Health Risk, Says Johns Hopkins' Thomas Cudjoe https://www.pantallazosnoticias.com.co/estar-solos-nos-esta-enfermando-mas-de-lo-que-creemos/",
+          "chars": 156,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Loneliness%20Is%20a%20Health%20Risk%2C%20Says%20Johns%20Hopkins%27%20Thomas%20Cudjoe%20https%3A//www.pantallazosnoticias.com.co/estar-solos-nos-esta-enfermando-mas-de-lo-que-creemos/"
+        }
+      ]
+    }
+  ]
 }
