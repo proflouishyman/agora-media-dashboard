@@ -85,7 +85,7 @@ function repostCardHtml(pick) {
   const panels = posts.map((p, i) => {
     const overLimit = p.char_limit != null && p.chars > p.char_limit;
     const openBtn = p.compose_url
-      ? `<a class="btn btn--pill--ghost btn--sm" href="${escAttr(p.compose_url)}" target="_blank" rel="noopener">Open in ${escHtml(p.label)}<span class="btn__arrow">↗</span></a>`
+      ? `<a class="btn btn--pill--ghost btn--sm" href="${escAttr(p.compose_url)}" target="_blank" rel="noopener noreferrer">Open in ${escHtml(p.label)}<span class="btn__arrow">↗</span></a>`
       : '';
     const note = p.platform === 'linkedin'
       ? `<p class="repost-panel__note">LinkedIn doesn't support prefilled posts.</p>`
@@ -120,7 +120,7 @@ function repostCardHtml(pick) {
         <p class="eyebrow eyebrow--teal">${escHtml(formatDateLong(pick.digest_date))}${pick.is_ces ? ' <span class="tag tag--ces">CES</span>' : ''}</p>
         <p class="repost-card__headline">${escHtml(pick.punchy_title)}</p>
         ${quoteHtml}
-        ${pick.story_url ? `<p class="repost-card__source"><a href="${escAttr(pick.story_url)}" target="_blank" rel="noopener">Read the source ↗</a></p>` : ''}
+        ${pick.story_url ? `<p class="repost-card__source"><a href="${escHref(pick.story_url)}" target="_blank" rel="noopener noreferrer">Read the source ↗</a></p>` : ''}
       </div>
       <div class="repost-tabs" role="tablist">${tabs}</div>
       ${panels}

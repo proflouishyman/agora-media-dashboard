@@ -277,7 +277,7 @@ function renderSourceTypes(scopeTrends) {
   `).join('');
 
   container.innerHTML = `
-    <div class="sentiment-bar" role="img" aria-label="Source types: ${rowsRaw.map(r => `${r.count} ${LABEL[r.source_type] || r.source_type}`).join(', ')}">${segs}</div>
+    <div class="sentiment-bar" role="img" aria-label="Source types: ${escHtml(rowsRaw.map(r => `${r.count} ${LABEL[r.source_type] || r.source_type}`).join(', '))}">${segs}</div>
     <div class="sentiment-legend" style="margin-top: 0.75rem;">${legend}</div>
     <details class="chart-table-toggle">
       <summary>View as table</summary>
@@ -480,7 +480,7 @@ function renderSentimentDriverPanel(kind, data) {
  */
 function sentimentExampleRowHtml(story, kind) {
   const titleHtml = story.url
-    ? `<a href="${escAttr(story.url)}" target="_blank" rel="noopener">${escHtml(story.title)}</a>`
+    ? `<a href="${escHref(story.url)}" target="_blank" rel="noopener noreferrer">${escHtml(story.title)}</a>`
     : `<span class="story-row__title--no-link">${escHtml(story.title)}</span>`;
   return `
     <div class="story-row" data-story-id="${story.id}">
