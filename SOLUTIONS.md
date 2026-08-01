@@ -125,11 +125,12 @@ list gated by the `.js-reveal` CSS rule in `css/style.css` §17) MUST call
 already called `initScrollReveal()` itself earlier in the same page load —
 it is not a substitute for it, and there is no cross-page fallback since
 `__revealObserver` is a fresh, per-page-load JS module variable, not
-persisted state. `trends.html`/`js/trends.js` does not hit this bug because
-none of its chart containers use any of the gated classes above — worth
-re-checking before reusing this pattern on `people.html`/`stories.html`,
-which will render `.person-card`/`.story-row` and do need the
-`initScrollReveal()` call.
+persisted state. At the time this was written, `trends.html`/`js/trends.js`
+did not hit this bug because none of its chart containers used any of the
+gated classes above — that changed the same day the "what's driving
+coverage" `.story-row` panels were added to `trends.js` (see the
+[2026-08-01] entry below); re-check this before reusing `.story-row`/
+`.person-card`/etc. on `people.html`/`stories.html` too.
 
 ---
 
@@ -180,3 +181,59 @@ old alias field names and its own card instance, out of scope for this fix.
 this backfill (only `x`/`bluesky`); `repostCardHtml()`'s LinkedIn branch is
 dead code today but harmless and left in place since it's not a symptom of
 this bug.
+
+---
+
+[2026-08-01] - New trends.html "sentiment drivers" story rows rendered permanently invisible
+
+## Problem
+While adding the person×sentiment/source-type×sentiment crosstab tables and
+a new "what's driving positive/negative coverage" section to `trends.html`
+(listing the real stories behind `trends.json`'s new `sentiment_examples`
+data), the new `.story-row` elements in the driver panels rendered into the
+DOM correctly but were invisible — confirmed via a Playwright screenshot
+(a large blank gap between the panel heading and the keyphrase chips below
+it) and a computed-style check (`getComputedStyle(el).opacity === '0'` on
+every row immediately after render).
+
+## Root Cause
+Exact same root cause as the `[2026-08-01] - repost.html's story rows...`
+entry above: `trends.html`'s `<head>` script adds `.js-reveal` to
+`<html>`, which per `css/style.css` §17 starts every `.story-row` at
+`opacity: 0` until the shared `__revealObserver` (created once, inside
+`initScrollReveal()`) adds `.is-in`. `js/trends.js` had never rendered any
+`.story-row`/`.kpi-tile`/etc. element before this change, so it had never
+called `initScrollReveal()` — the SOLUTIONS.md note attached to the
+`repost.js` fix above flagged exactly this risk ("re-check before reusing
+this pattern on `people.html`/`stories.html`") but did not name
+`trends.js`, since at the time `trends.js` used none of the gated classes.
+Adding the first `.story-row` usage to `trends.js` without also adding the
+`initScrollReveal()` call reproduced the identical bug in a third file.
+
+## Solution
+Added a single `initScrollReveal('.story-row')` call at the end of
+`js/trends.js`'s main IIFE, after `renderSentimentDrivers()` (and every
+other render call) has run, mirroring `index.js`/`person.js`/`repost.js`'s
+existing placement. Also hardened the "Show N more stories" `<details>`
+toggle in `renderSentimentDriverPanel()`: rows inside a closed `<details>`
+aren't laid out, so on open they explicitly re-register with
+`observeRevealTargets()` rather than relying solely on the observer
+noticing the display change. Verified via headless Chrome: before the fix,
+every driver-panel row was stuck at opacity `'0'`; after the fix, rows
+above the fold showed `'1'` immediately, simulated scrolling brought every
+row (including ones revealed later by opening the "Show more" toggle) to
+`'1'`, and zero console errors were logged.
+
+## Notes
+Any future `trends.js` render function that introduces a new gated class
+(`.story-row`, `.kpi-tile`, `.person-card`, `.activity-card`, `.work-item`,
+`.pub-card`, `.repost-card` — see `css/style.css` §17) must add/confirm the
+corresponding `initScrollReveal()` call in the same change; this class of
+bug has now recurred twice (`repost.js`, `trends.js`) from the same "safe
+in isolation, broken once the gated markup shows up" trap. Separately, the
+five negative vs. twenty-four positive story counts in the live "all"
+scope export made a naive side-by-side two-column layout badly lopsided
+(one column mostly whitespace); `renderSentimentDriverPanel()` caps each
+panel to 6 directly-visible stories and folds the rest behind the same
+`<details class="chart-table-toggle">` idiom the rest of this page already
+uses for bulky tables, rather than rendering an unbounded list flat.

@@ -26,9 +26,20 @@
   renderSentimentWeeks(scopeTrends);
   renderTopSources(scopeTrends);
   renderSourceTypes(scopeTrends);
+  renderPersonSentimentCrosstab(scopeTrends);
+  renderSourceTypeSentimentCrosstab(scopeTrends);
+  renderSentimentDrivers(scopeTrends);
   renderPeopleHeatmap(people, scope, scopeTrends);
   renderWowTable(scopeTrends);
   renderFooterGeneratedAt(meta);
+
+  // The sentiment-drivers panels are the first .story-row elements this
+  // page has ever rendered. trends.html marks <html> with .js-reveal (see
+  // its <head> script), which — per css/style.css's shared reveal rule —
+  // starts every .story-row at opacity:0 until the IntersectionObserver
+  // this call sets up adds .is-in. Without it, these rows would stay
+  // invisible forever (no other code on this page observes .story-row).
+  initScrollReveal('.story-row');
 
   propagateScopeLinks();
   setupHeaderNav();
@@ -279,6 +290,209 @@ function renderSourceTypes(scopeTrends) {
         </table>
       </div>
     </details>
+  `;
+}
+
+// ── SENTIMENT CROSSTABS (person × sentiment, source type × sentiment) ──
+
+/**
+ * sentimentCellHtml(value, kind) -> one <td>, lightly tinted by sentiment.
+ * kind: 'positive' | 'neutral' | 'negative' | 'unknown'. A zero count
+ * renders as the muted/untinted "zero" variant instead of a colored zero —
+ * same "honest zero" convention as the coverage heatmap's zero cell below
+ * — so a tinted cell always means "at least one mention landed here."
+ */
+function sentimentCellHtml(value, kind) {
+  const v = value || 0;
+  const cls = v > 0 ? `sentiment-cell sentiment-cell--${kind}` : 'sentiment-cell sentiment-cell--zero';
+  return `<td class="${cls}">${formatNumber(v)}</td>`;
+}
+
+/**
+ * renderPersonSentimentCrosstab(scopeTrends) — plain table, one row per
+ * person with ≥1 mention in this scope (trends.json's
+ * person_sentiment_crosstab, already sorted by total desc — no client-side
+ * re-sort/re-filter here). Row header links to person.html like the
+ * heatmap's row headers do.
+ */
+function renderPersonSentimentCrosstab(scopeTrends) {
+  const container = document.getElementById('chart-person-sentiment-crosstab');
+  if (!container) return;
+  container.removeAttribute('data-loading');
+  const rows = scopeTrends.person_sentiment_crosstab || [];
+  if (!rows.length) {
+    container.innerHTML = `<p class="empty-state">No per-person sentiment data yet.</p>`;
+    return;
+  }
+  const body = rows.map(r => `
+    <tr>
+      <th><a href="${personLink(r.person_id)}">${escHtml(r.row_label)}</a></th>
+      ${sentimentCellHtml(r.positive, 'positive')}
+      ${sentimentCellHtml(r.neutral, 'neutral')}
+      ${sentimentCellHtml(r.negative, 'negative')}
+      ${sentimentCellHtml(r.unknown, 'unknown')}
+      <td class="sentiment-cell sentiment-cell--total">${formatNumber(r.total)}</td>
+    </tr>
+  `).join('');
+  container.innerHTML = `
+    <div style="overflow-x:auto;">
+      <table class="data-table data-table--crosstab">
+        <thead><tr><th>Person</th><th>Positive</th><th>Neutral</th><th>Negative</th><th>Unresolved</th><th>Total</th></tr></thead>
+        <tbody>${body}</tbody>
+      </table>
+    </div>
+  `;
+}
+
+/**
+ * renderSourceTypeSentimentCrosstab(scopeTrends) — the fixed 4-row
+ * source_type_sentiment_crosstab, same row order/labels as renderSourceTypes
+ * above (LABEL map duplicated here rather than shared because the two
+ * renderers touch different DOM/markup shapes — not worth a shared const
+ * for 4 short strings).
+ */
+function renderSourceTypeSentimentCrosstab(scopeTrends) {
+  const container = document.getElementById('chart-source-type-sentiment-crosstab');
+  if (!container) return;
+  container.removeAttribute('data-loading');
+  const rows = scopeTrends.source_type_sentiment_crosstab || [];
+  const LABEL = {
+    'online news': 'Online news',
+    'social network': 'Social network',
+    'blog': 'Blog',
+    'unresolved': 'Unresolved',
+  };
+  if (!rows.length) {
+    container.innerHTML = `<p class="empty-state">No source-type sentiment data yet.</p>`;
+    return;
+  }
+  const body = rows.map(r => `
+    <tr>
+      <th>${escHtml(LABEL[r.row_label] || r.row_label)}</th>
+      ${sentimentCellHtml(r.positive, 'positive')}
+      ${sentimentCellHtml(r.neutral, 'neutral')}
+      ${sentimentCellHtml(r.negative, 'negative')}
+      ${sentimentCellHtml(r.unknown, 'unknown')}
+      <td class="sentiment-cell sentiment-cell--total">${formatNumber(r.total)}</td>
+    </tr>
+  `).join('');
+  container.innerHTML = `
+    <div style="overflow-x:auto;">
+      <table class="data-table data-table--crosstab">
+        <thead><tr><th>Source type</th><th>Positive</th><th>Neutral</th><th>Negative</th><th>Unresolved</th><th>Total</th></tr></thead>
+        <tbody>${body}</tbody>
+      </table>
+    </div>
+  `;
+}
+
+// ── SENTIMENT DRIVERS ("what's driving positive/negative coverage") ─────
+
+/**
+ * renderSentimentDrivers(scopeTrends) — fans out to the two panels below.
+ * Guards scopeTrends.sentiment_examples being absent (older cached export)
+ * by passing an empty object down rather than throwing.
+ */
+function renderSentimentDrivers(scopeTrends) {
+  const examples = scopeTrends.sentiment_examples || {};
+  renderSentimentDriverPanel('negative', examples.negative);
+  renderSentimentDriverPanel('positive', examples.positive);
+}
+
+// Negative and positive counts are rarely close in practice (e.g. 5 vs 24
+// in the live export) — side-by-side panels with every story shown flat
+// would put a huge dead-whitespace gap under whichever bucket is smaller.
+// Capping the directly-visible rows and folding the rest behind the same
+// <details class="chart-table-toggle"> idiom every other bulky list on
+// this page already uses (weekly table, sentiment table, top sources)
+// keeps both panels a comparable height without ever hiding data — the
+// rest is one click away, not gone.
+const SENTIMENT_DRIVER_VISIBLE_CAP = 6;
+
+/**
+ * renderSentimentDriverPanel(kind, data) — one panel's worth of story rows
+ * (sentiment_examples.<kind>.stories, real data — first
+ * SENTIMENT_DRIVER_VISIBLE_CAP shown directly, the remainder behind a
+ * "Show N more" toggle, never truncated/dropped) plus that bucket's top-10
+ * keyphrases when the export produced any. Empty story list renders the
+ * standard .empty-state message (e.g. CES scope has 0 negative stories)
+ * rather than an empty <div>.
+ */
+function renderSentimentDriverPanel(kind, data) {
+  const container = document.getElementById(`sentiment-drivers-${kind}`);
+  if (!container) return;
+  container.removeAttribute('data-loading');
+  const stories = (data && data.stories) || [];
+  const keyphrases = (data && data.top_keyphrases) || [];
+
+  let storiesHtml;
+  if (!stories.length) {
+    storiesHtml = `<p class="empty-state">No ${kind} stories in this view yet.</p>`;
+  } else {
+    const visible = stories.slice(0, SENTIMENT_DRIVER_VISIBLE_CAP);
+    const rest = stories.slice(SENTIMENT_DRIVER_VISIBLE_CAP);
+    const visibleHtml = `<div class="story-list">${visible.map(s => sentimentExampleRowHtml(s, kind)).join('')}</div>`;
+    const restHtml = rest.length
+      ? `
+        <details class="chart-table-toggle">
+          <summary>Show ${rest.length} more ${kind} ${rest.length === 1 ? 'story' : 'stories'}</summary>
+          <div class="story-list">${rest.map(s => sentimentExampleRowHtml(s, kind)).join('')}</div>
+        </details>
+      `
+      : '';
+    storiesHtml = `${visibleHtml}${restHtml}`;
+  }
+
+  const keyphrasesHtml = keyphrases.length
+    ? `
+      <p class="sentiment-drivers__subhead">Common keyphrases in ${kind} coverage</p>
+      <div class="keyphrase-list">${keyphrases.map(k => `
+        <span class="tag tag--keyphrase tag--keyphrase--${kind}">${escHtml(k.keyphrase)}<span class="keyphrase-list__count">${formatNumber(k.count)}</span></span>
+      `).join('')}</div>
+    `
+    : '';
+
+  container.innerHTML = `${storiesHtml}${keyphrasesHtml}`;
+
+  // Belt-and-suspenders: the "Show N more" rows start out inside a closed
+  // <details>, so re-observe them the moment it opens rather than relying
+  // solely on the IntersectionObserver noticing the display change (it
+  // reliably does in evergreen browsers, but this costs nothing and
+  // guarantees the reveal-on-open .story-row rule from utils.js never
+  // leaves a row stuck at opacity:0).
+  container.querySelectorAll('details.chart-table-toggle').forEach(details => {
+    details.addEventListener('toggle', () => {
+      if (details.open) observeRevealTargets(details.querySelectorAll('.story-row'));
+    });
+  });
+}
+
+/**
+ * sentimentExampleRowHtml(story, kind) -> one .story-row for the driving-
+ * coverage panels. story: a sentiment_examples record — {id, person,
+ * person_id, is_ces, title, url, source, date} — a narrower shape than a
+ * full data/stories.json record (no share/source_type/similar_mention_count),
+ * so this can't call utils.js's storyActionsHtml/storyRowHtml directly; it
+ * reuses the same .story-row/.story-row__* classes for visual consistency
+ * but renders only a plain "read the original" link (or the italic
+ * no-link title, same convention as storyRowHtml) instead of share buttons
+ * this data shape doesn't carry.
+ */
+function sentimentExampleRowHtml(story, kind) {
+  const titleHtml = story.url
+    ? `<a href="${escAttr(story.url)}" target="_blank" rel="noopener">${escHtml(story.title)}</a>`
+    : `<span class="story-row__title--no-link">${escHtml(story.title)}</span>`;
+  return `
+    <div class="story-row" data-story-id="${story.id}">
+      <div class="story-row__sentiment">${sentimentDotHtml(kind)}</div>
+      <div class="story-row__body">
+        <p class="story-row__title">
+          <a class="story-row__person" href="${personLink(story.person_id)}">${escHtml(story.person)}</a><br>
+          ${titleHtml}
+        </p>
+        <p class="story-row__meta">${escHtml(story.source)} · ${formatDateShort(story.date)}</p>
+      </div>
+    </div>
   `;
 }
 
