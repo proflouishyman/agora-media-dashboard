@@ -103,6 +103,42 @@
 
     <div class="container">
       <div class="page-head" style="padding-block: 2.5rem 1rem;">
+        <p class="page-head__eyebrow eyebrow eyebrow--teal">Person × sentiment</p>
+        <h2 class="page-head__title" style="font-size: var(--fs-h2);">How sentiment breaks down per person</h2>
+        <p class="page-head__intro">Every person with at least one mention in this view, sentiment counts side by side — sorted by total mentions, same four buckets as every chart above.</p>
+      </div>
+      <div id="chart-person-sentiment-crosstab" data-loading="true"></div>
+    </div>
+
+    <div class="container">
+      <div class="page-head" style="padding-block: 2.5rem 1rem;">
+        <p class="page-head__eyebrow eyebrow eyebrow--teal">Source type × sentiment</p>
+        <h2 class="page-head__title" style="font-size: var(--fs-h2);">How sentiment breaks down per source type</h2>
+        <p class="page-head__intro">The same online news / social network / blog / unresolved split as the chart above, cross-tabbed against sentiment.</p>
+      </div>
+      <div id="chart-source-type-sentiment-crosstab" data-loading="true"></div>
+    </div>
+
+    <section class="section-divider section-divider--light" aria-labelledby="sentiment-drivers-head">
+      <div class="section-divider__inner container">
+        <p class="section-divider__eyebrow eyebrow eyebrow--teal" id="sentiment-drivers-head">What's driving coverage</p>
+        <h2 class="section-divider__title">The stories behind the positive and negative counts</h2>
+        <p class="section-divider__intro">Every negative and positive story in this view — actual headline, link, person, and source — plus the phrases that recur across that bucket's raw coverage, so a number on the charts above traces back to real coverage rather than a black box.</p>
+        <div class="sentiment-drivers-grid" style="margin-top: 2rem;">
+          <div class="sentiment-drivers__panel">
+            <p class="sentiment-drivers__panel-head sentiment-drivers__panel-head--negative">Negative coverage</p>
+            <div id="sentiment-drivers-negative" data-loading="true"></div>
+          </div>
+          <div class="sentiment-drivers__panel">
+            <p class="sentiment-drivers__panel-head sentiment-drivers__panel-head--positive">Positive coverage</p>
+            <div id="sentiment-drivers-positive" data-loading="true"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="container">
+      <div class="page-head" style="padding-block: 2.5rem 1rem;">
         <p class="page-head__eyebrow eyebrow eyebrow--teal">Coverage heatmap</p>
         <h2 class="page-head__title" style="font-size: var(--fs-h2);">Who's covered, and in which weeks</h2>
         <p class="page-head__intro" id="heatmap-intro">The most-covered people in this view, one row each, darker cells meaning more mentions that week.</p>

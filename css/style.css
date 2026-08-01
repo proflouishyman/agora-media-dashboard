@@ -1317,3 +1317,68 @@ table { border-collapse: collapse; width: 100%; }
   white-space: nowrap;
 }
 .data-table--heatmap tbody th a:hover { color: var(--blue); }
+
+/* Sentiment crosstab tables (#chart-person-sentiment-crosstab,
+   #chart-source-type-sentiment-crosstab): plain .data-table with per-column
+   tint. Tints are derived from the SAME --pos/--mid/--neg tokens every
+   other sentiment surface on the site uses (sentiment-dot, sentiment-bar —
+   see §19.3/19.1), via color-mix, rather than a new ad hoc palette. A zero
+   count is intentionally left untinted and dimmed (.sentiment-cell--zero)
+   rather than a colored zero — same "honest zero" convention as the
+   heatmap's zero cell above. */
+.data-table--crosstab th, .data-table--crosstab td { text-align: center; font-variant-numeric: tabular-nums; }
+.data-table--crosstab thead th:first-child,
+.data-table--crosstab tbody th {
+  text-align: left;
+  text-transform: none;
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: var(--fs-small);
+  color: var(--navy);
+  opacity: 1;
+}
+.data-table--crosstab tbody th a:hover { color: var(--blue); }
+
+.sentiment-cell--positive { background: color-mix(in srgb, var(--pos) 16%, var(--white)); font-weight: 600; }
+.sentiment-cell--neutral  { background: color-mix(in srgb, var(--mid) 55%, var(--white)); }
+.sentiment-cell--negative { background: color-mix(in srgb, var(--neg) 16%, var(--white)); font-weight: 600; color: var(--neg); }
+.sentiment-cell--unknown  { color: var(--ink); opacity: 0.55; }
+.sentiment-cell--zero     { color: var(--ink); opacity: 0.35; }
+.sentiment-cell--total    { font-weight: 600; color: var(--navy); }
+
+/* "What's driving positive/negative coverage" panels
+   (#sentiment-drivers-negative / #sentiment-drivers-positive): two columns
+   on wide screens, stacking to one on narrow (same auto-fit idiom as
+   .kpi-row/.activity-grid). Story rows inside each panel reuse
+   .story-list/.story-row from §19.7 as-is (see sentimentExampleRowHtml in
+   trends.js); only the panel head and keyphrase chips are new here. */
+.sentiment-drivers-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 2.5rem;
+}
+.sentiment-drivers__panel-head {
+  font-family: var(--font-label);
+  font-size: 0.8125rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding-bottom: 0.6rem;
+  margin-bottom: 0.4rem;
+  border-bottom: 2px solid var(--lightgray);
+}
+.sentiment-drivers__panel-head--negative { color: var(--neg); border-color: color-mix(in srgb, var(--neg) 30%, var(--lightgray)); }
+.sentiment-drivers__panel-head--positive { color: var(--pos); border-color: color-mix(in srgb, var(--pos) 30%, var(--lightgray)); }
+.sentiment-drivers__subhead {
+  font-family: var(--font-label);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ink);
+  opacity: 0.6;
+  margin-top: 1.5rem;
+  margin-bottom: 0.6rem;
+}
+.keyphrase-list { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.keyphrase-list__count { opacity: 0.6; font-size: 0.85em; margin-left: 0.35em; }
+.tag--keyphrase--negative { background: color-mix(in srgb, var(--neg) 12%, var(--offwhite)); color: var(--ink); }
+.tag--keyphrase--positive { background: color-mix(in srgb, var(--pos) 12%, var(--offwhite)); color: var(--ink); }

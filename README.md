@@ -94,19 +94,25 @@ now built. `trends.html` reuses `weeklyBarChartHtml`/`sentimentBarHtml`/
 `barListHtml` from `js/utils.js` for its weekly-volume, weekly-reach,
 per-week-sentiment, and top-sources sections rather than a second
 chart implementation each; its one genuinely new chart (`#chart-source-types`,
-a 100%-stacked categorical bar) and the person×week `#chart-people-heatmap`
-are page-local, added under `css/style.css` §20 ("Trends page primitives" —
-only 3 small classes; everything else reuses §19). `repost.html`'s tier-2
-"post any story" list reuses `storyRowHtml` unchanged; its tier-1 curated
-card is a page-local, multi-card generalization of `index.js`'s single-pick
-`renderTodayRepost()` (scoped per card via `data-pick="{digest_date}"` so
-several cards' platform tabs don't cross-wire). **Both call
-`initScrollReveal(...)` themselves** for the reveal-gated classes they
-render (`.story-row`/`.repost-card` on `repost.html`; nothing gated on
-`trends.html`, whose chart containers use none of those classes) — see
-`SOLUTIONS.md`'s 2026-08-01 "repost.html rendered permanently invisible"
-entry for why this call is mandatory on every page that renders
-`.story-row`/`.repost-card`/`.kpi-tile`/`.person-card`/etc., not optional.
+a 100%-stacked categorical bar), the person×week `#chart-people-heatmap`,
+the person×sentiment/source-type×sentiment crosstab tables
+(`#chart-person-sentiment-crosstab`/`#chart-source-type-sentiment-crosstab`,
+reusing `.data-table` with a small `.sentiment-cell--*` tint modifier), and
+the "what's driving coverage" story panels (`#sentiment-drivers-negative`/
+`#sentiment-drivers-positive`, from `trends.json`'s `sentiment_examples`)
+are page-local, added under `css/style.css` §20 ("Trends page primitives").
+`repost.html`'s tier-2 "post any story" list reuses `storyRowHtml`
+unchanged; its tier-1 curated card is a page-local, multi-card
+generalization of `index.js`'s single-pick `renderTodayRepost()` (scoped
+per card via `data-pick="{digest_date}"` so several cards' platform tabs
+don't cross-wire). **Every page that renders a reveal-gated class calls
+`initScrollReveal(...)` itself**: `.story-row`/`.repost-card` on
+`repost.html`; `.story-row` on `trends.html` (added along with the
+sentiment-drivers panels above — `trends.js` had nothing gated before
+that and so had no such call; see `SOLUTIONS.md`'s two 2026-08-01
+"rendered permanently invisible" entries, `repost.html` and `trends.html`,
+for why this call is mandatory, not optional, on every page/every new
+gated class, and recurs easily if skipped).
 
 ## JS helper contract (`js/utils.js`)
 
@@ -189,10 +195,13 @@ states constantly).
 - `.scope-banner` — the "Showing only the 17 CES people…" strip for `ces.html`
 - `.coverage-band__head` (+ `--muted`) — the "Covered" / "Tracked, no coverage logged" section labels on `people.html`
 
-**New in §20** (`trends.html` only, added this pass) — deliberately tiny,
-since almost every `trends.html` chart reuses a §19 primitive instead:
+**New in §20** (`trends.html` only) — deliberately small, since most
+`trends.html` charts reuse a §19 primitive instead:
 - `.trends-week-rows` / `.trends-week-row__label` — the per-week label above each reused `.sentiment-bar` in `#chart-sentiment-weeks`
 - `.data-table--heatmap` — alignment/type tweaks for `#chart-people-heatmap`'s numeric cells (cell background colors are set inline per-cell against the validated `--seq-1..7` ramp, not via new CSS classes)
+- `.data-table--crosstab` / `.sentiment-cell--positive/neutral/negative/unknown/zero/total` — the person×sentiment and source-type×sentiment tables' per-column tint, derived from the same `--pos`/`--mid`/`--neg` tokens as `.sentiment-dot`/`.sentiment-bar` via `color-mix()` (never a new hue); a zero count renders as the untinted, dimmed `--zero` variant rather than a colored zero, matching `.data-table--heatmap`'s zero-cell convention
+- `.sentiment-drivers-grid` / `.sentiment-drivers__panel-head` (+ `--negative/--positive`) / `.sentiment-drivers__subhead` — the "what's driving coverage" two-column layout; the story rows inside each panel are plain `.story-list`/`.story-row` (§19), not a new row class
+- `.keyphrase-list` / `.tag--keyphrase--negative/--positive` — the per-bucket keyphrase chips, built on the existing `.tag` primitive (§4) rather than a new chip component
 
 ### Chart color contract
 
