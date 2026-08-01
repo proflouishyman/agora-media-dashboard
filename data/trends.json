@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T13:46:48-04:00",
+  "generated_at": "2026-08-01T14:20:12-04:00",
   "window": {
     "start": "2026-07-02",
     "end": "2026-07-31"
@@ -257,10 +257,10 @@
           "in_digest": 18,
           "people": 15,
           "sentiment": {
-            "positive": 4,
-            "neutral": 6,
+            "positive": 5,
+            "neutral": 19,
             "negative": 1,
-            "unknown": 15
+            "unknown": 1
           }
         },
         {
@@ -270,10 +270,10 @@
           "in_digest": 17,
           "people": 14,
           "sentiment": {
-            "positive": 0,
-            "neutral": 5,
+            "positive": 3,
+            "neutral": 20,
             "negative": 0,
-            "unknown": 37
+            "unknown": 19
           }
         },
         {
@@ -283,10 +283,10 @@
           "in_digest": 29,
           "people": 23,
           "sentiment": {
-            "positive": 9,
-            "neutral": 9,
+            "positive": 13,
+            "neutral": 27,
             "negative": 2,
-            "unknown": 28
+            "unknown": 6
           }
         },
         {
@@ -296,10 +296,10 @@
           "in_digest": 24,
           "people": 19,
           "sentiment": {
-            "positive": 9,
-            "neutral": 6,
+            "positive": 12,
+            "neutral": 23,
             "negative": 2,
-            "unknown": 21
+            "unknown": 1
           }
         },
         {
@@ -309,18 +309,18 @@
           "in_digest": 24,
           "people": 15,
           "sentiment": {
-            "positive": 2,
-            "neutral": 3,
+            "positive": 8,
+            "neutral": 21,
             "negative": 0,
-            "unknown": 34
+            "unknown": 10
           }
         }
       ],
       "sentiment": {
-        "positive": 24,
-        "neutral": 29,
+        "positive": 41,
+        "neutral": 110,
         "negative": 5,
-        "unknown": 135
+        "unknown": 37
       },
       "top_people": [
         {
@@ -480,20 +480,20 @@
           "row_label": "SNF Agora Institute",
           "person_id": "snf-agora-institute",
           "is_ces": false,
-          "positive": 4,
-          "neutral": 6,
+          "positive": 6,
+          "neutral": 17,
           "negative": 0,
-          "unknown": 25,
+          "unknown": 12,
           "total": 35
         },
         {
           "row_label": "Anne Applebaum",
           "person_id": "anne-applebaum",
           "is_ces": false,
-          "positive": 5,
-          "neutral": 1,
+          "positive": 6,
+          "neutral": 9,
           "negative": 3,
-          "unknown": 12,
+          "unknown": 3,
           "total": 21
         },
         {
@@ -501,9 +501,9 @@
           "person_id": "yascha-mounk",
           "is_ces": false,
           "positive": 0,
-          "neutral": 4,
+          "neutral": 6,
           "negative": 1,
-          "unknown": 9,
+          "unknown": 7,
           "total": 14
         },
         {
@@ -511,29 +511,29 @@
           "person_id": "louis-hyman",
           "is_ces": true,
           "positive": 2,
-          "neutral": 0,
+          "neutral": 2,
           "negative": 0,
-          "unknown": 10,
+          "unknown": 8,
           "total": 12
         },
         {
           "row_label": "Martha S. Jones",
           "person_id": "martha-s-jones",
           "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
+          "positive": 3,
+          "neutral": 7,
           "negative": 0,
-          "unknown": 10,
+          "unknown": 0,
           "total": 10
         },
         {
           "row_label": "Sean Carroll",
           "person_id": "sean-carroll",
           "is_ces": false,
-          "positive": 2,
-          "neutral": 4,
+          "positive": 3,
+          "neutral": 7,
           "negative": 0,
-          "unknown": 4,
+          "unknown": 0,
           "total": 10
         },
         {
@@ -541,49 +541,49 @@
           "person_id": "yuen-yuen-ang",
           "is_ces": true,
           "positive": 2,
-          "neutral": 1,
+          "neutral": 8,
           "negative": 0,
-          "unknown": 7,
+          "unknown": 0,
           "total": 10
         },
         {
           "row_label": "Hahrie Han",
           "person_id": "hahrie-han",
           "is_ces": false,
-          "positive": 2,
+          "positive": 4,
           "neutral": 2,
           "negative": 0,
-          "unknown": 5,
+          "unknown": 3,
           "total": 9
         },
         {
           "row_label": "Ruth Braunstein",
           "person_id": "ruth-braunstein",
           "is_ces": false,
-          "positive": 3,
-          "neutral": 1,
+          "positive": 5,
+          "neutral": 4,
           "negative": 0,
-          "unknown": 5,
+          "unknown": 0,
           "total": 9
         },
         {
           "row_label": "David Park",
           "person_id": "david-park",
           "is_ces": false,
-          "positive": 0,
-          "neutral": 1,
+          "positive": 1,
+          "neutral": 5,
           "negative": 0,
-          "unknown": 7,
+          "unknown": 2,
           "total": 8
         },
         {
           "row_label": "Eugene Scott",
           "person_id": "eugene-scott",
           "is_ces": false,
-          "positive": 0,
-          "neutral": 1,
+          "positive": 1,
+          "neutral": 4,
           "negative": 0,
-          "unknown": 5,
+          "unknown": 1,
           "total": 6
         },
         {
@@ -591,19 +591,19 @@
           "person_id": "max-cohen",
           "is_ces": false,
           "positive": 0,
-          "neutral": 0,
+          "neutral": 5,
           "negative": 0,
-          "unknown": 6,
+          "unknown": 1,
           "total": 6
         },
         {
           "row_label": "Henry Farrell",
           "person_id": "henry-farrell",
           "is_ces": true,
-          "positive": 0,
-          "neutral": 0,
+          "positive": 1,
+          "neutral": 4,
           "negative": 0,
-          "unknown": 5,
+          "unknown": 0,
           "total": 5
         },
         {
@@ -611,9 +611,9 @@
           "person_id": "mara-karlin",
           "is_ces": false,
           "positive": 0,
-          "neutral": 1,
+          "neutral": 4,
           "negative": 0,
-          "unknown": 3,
+          "unknown": 0,
           "total": 4
         },
         {
@@ -621,9 +621,9 @@
           "person_id": "scott-warren",
           "is_ces": false,
           "positive": 1,
-          "neutral": 1,
+          "neutral": 3,
           "negative": 0,
-          "unknown": 2,
+          "unknown": 0,
           "total": 4
         },
         {
@@ -631,9 +631,9 @@
           "person_id": "lilliana-mason",
           "is_ces": false,
           "positive": 0,
-          "neutral": 1,
+          "neutral": 3,
           "negative": 0,
-          "unknown": 2,
+          "unknown": 0,
           "total": 3
         },
         {
@@ -641,9 +641,9 @@
           "person_id": "amy-binder",
           "is_ces": false,
           "positive": 0,
-          "neutral": 1,
+          "neutral": 2,
           "negative": 0,
-          "unknown": 1,
+          "unknown": 0,
           "total": 2
         },
         {
@@ -651,19 +651,19 @@
           "person_id": "denise-dresser",
           "is_ces": false,
           "positive": 0,
-          "neutral": 1,
+          "neutral": 2,
           "negative": 0,
-          "unknown": 1,
+          "unknown": 0,
           "total": 2
         },
         {
           "row_label": "Leah Wright",
           "person_id": "leah-wright",
           "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
+          "positive": 1,
+          "neutral": 1,
           "negative": 0,
-          "unknown": 2,
+          "unknown": 0,
           "total": 2
         },
         {
@@ -671,9 +671,9 @@
           "person_id": "simon-halliday",
           "is_ces": true,
           "positive": 0,
-          "neutral": 0,
+          "neutral": 2,
           "negative": 0,
-          "unknown": 2,
+          "unknown": 0,
           "total": 2
         },
         {
@@ -681,9 +681,9 @@
           "person_id": "steven-teles",
           "is_ces": true,
           "positive": 1,
-          "neutral": 0,
+          "neutral": 1,
           "negative": 0,
-          "unknown": 1,
+          "unknown": 0,
           "total": 2
         },
         {
@@ -701,9 +701,9 @@
           "person_id": "adam-seth-levine",
           "is_ces": false,
           "positive": 0,
-          "neutral": 0,
+          "neutral": 1,
           "negative": 0,
-          "unknown": 1,
+          "unknown": 0,
           "total": 1
         },
         {
@@ -711,19 +711,19 @@
           "person_id": "andre-nogueira",
           "is_ces": false,
           "positive": 0,
-          "neutral": 0,
+          "neutral": 1,
           "negative": 0,
-          "unknown": 1,
+          "unknown": 0,
           "total": 1
         },
         {
           "row_label": "Angus Burgin",
           "person_id": "angus-burgin",
           "is_ces": true,
-          "positive": 0,
+          "positive": 1,
           "neutral": 0,
           "negative": 0,
-          "unknown": 1,
+          "unknown": 0,
           "total": 1
         },
         {
@@ -731,9 +731,9 @@
           "person_id": "christopher-krupenye",
           "is_ces": false,
           "positive": 0,
-          "neutral": 0,
+          "neutral": 1,
           "negative": 0,
-          "unknown": 1,
+          "unknown": 0,
           "total": 1
         },
         {
@@ -751,9 +751,9 @@
           "person_id": "eliot-cohen-2",
           "is_ces": false,
           "positive": 0,
-          "neutral": 0,
+          "neutral": 1,
           "negative": 0,
-          "unknown": 1,
+          "unknown": 0,
           "total": 1
         },
         {
@@ -780,10 +780,10 @@
           "row_label": "Glory Liu",
           "person_id": "glory-m-liu",
           "is_ces": true,
-          "positive": 0,
+          "positive": 1,
           "neutral": 0,
           "negative": 0,
-          "unknown": 1,
+          "unknown": 0,
           "total": 1
         },
         {
@@ -801,9 +801,9 @@
           "person_id": "johnnie-moore",
           "is_ces": false,
           "positive": 0,
-          "neutral": 0,
+          "neutral": 1,
           "negative": 0,
-          "unknown": 1,
+          "unknown": 0,
           "total": 1
         },
         {
@@ -811,9 +811,9 @@
           "person_id": "ling-chen",
           "is_ces": false,
           "positive": 0,
-          "neutral": 0,
+          "neutral": 1,
           "negative": 0,
-          "unknown": 1,
+          "unknown": 0,
           "total": 1
         },
         {
@@ -821,9 +821,9 @@
           "person_id": "mary-mcbride",
           "is_ces": false,
           "positive": 0,
-          "neutral": 0,
+          "neutral": 1,
           "negative": 0,
-          "unknown": 1,
+          "unknown": 0,
           "total": 1
         },
         {
@@ -831,9 +831,9 @@
           "person_id": "matthew-denney",
           "is_ces": false,
           "positive": 0,
-          "neutral": 0,
+          "neutral": 1,
           "negative": 0,
-          "unknown": 1,
+          "unknown": 0,
           "total": 1
         },
         {
@@ -841,43 +841,43 @@
           "person_id": "trevor-brown",
           "is_ces": true,
           "positive": 0,
-          "neutral": 0,
+          "neutral": 1,
           "negative": 0,
-          "unknown": 1,
+          "unknown": 0,
           "total": 1
         }
       ],
       "source_type_sentiment_crosstab": [
         {
           "row_label": "online news",
-          "positive": 12,
-          "neutral": 10,
+          "positive": 18,
+          "neutral": 74,
           "negative": 2,
-          "unknown": 70,
+          "unknown": 0,
           "total": 94
         },
         {
           "row_label": "social network",
-          "positive": 9,
-          "neutral": 14,
+          "positive": 17,
+          "neutral": 24,
           "negative": 0,
-          "unknown": 25,
+          "unknown": 7,
           "total": 48
         },
         {
           "row_label": "blog",
-          "positive": 1,
-          "neutral": 0,
+          "positive": 4,
+          "neutral": 5,
           "negative": 0,
-          "unknown": 8,
+          "unknown": 0,
           "total": 9
         },
         {
           "row_label": "unresolved",
           "positive": 2,
-          "neutral": 5,
+          "neutral": 7,
           "negative": 3,
-          "unknown": 32,
+          "unknown": 30,
           "total": 42
         }
       ],
@@ -991,6 +991,46 @@
               "date": "2026-07-31"
             },
             {
+              "id": 10,
+              "person": "SNF Agora Institute",
+              "person_id": "snf-agora-institute",
+              "is_ces": false,
+              "title": "New Visiting Fellow announces 2026-27 year at Agora",
+              "url": "https://www.linkedin.com/feed/update/urn:li:share:7488982241428148224",
+              "source": "LinkedIn",
+              "date": "2026-07-31"
+            },
+            {
+              "id": 13,
+              "person": "Sean Carroll",
+              "person_id": "sean-carroll",
+              "is_ces": false,
+              "title": "QUANTUM RULES?",
+              "url": "https://www.youtube.com/watch?v=LwOkWntcoKs",
+              "source": "Youtube",
+              "date": "2026-07-30"
+            },
+            {
+              "id": 7,
+              "person": "Ruth Braunstein",
+              "person_id": "ruth-braunstein",
+              "is_ces": false,
+              "title": "LinkedIn reaction to Braunstein's new director role",
+              "url": "https://www.linkedin.com/feed/update/urn:li:share:7488638280717201409",
+              "source": "LinkedIn",
+              "date": "2026-07-30"
+            },
+            {
+              "id": 6,
+              "person": "Ruth Braunstein",
+              "person_id": "ruth-braunstein",
+              "is_ces": false,
+              "title": "Ruth Braunstein named director of the SNF Agora Institute",
+              "url": "https://wiareport.com/2026/07/five-women-scholars-selected-for-new-academic-appointments/#respond",
+              "source": "Women in Academia Report",
+              "date": "2026-07-30"
+            },
+            {
               "id": 182,
               "person": "Anne Applebaum",
               "person_id": "anne-applebaum",
@@ -999,6 +1039,26 @@
               "url": "https://anneapplebaum.substack.com/p/one-eyed-monsters",
               "source": "Substack",
               "date": "2026-07-28"
+            },
+            {
+              "id": 188,
+              "person": "Hahrie Han",
+              "person_id": "hahrie-han",
+              "is_ces": false,
+              "title": "YouTube short: Hahrie Han on 'working our democracy muscles'",
+              "url": "https://www.youtube.com/watch?v=WgrzBrWzLzs",
+              "source": "YouTube",
+              "date": "2026-07-27"
+            },
+            {
+              "id": 187,
+              "person": "Hahrie Han",
+              "person_id": "hahrie-han",
+              "is_ces": false,
+              "title": "British Brief profiles craftivist protest movement, quotes Hahrie Han",
+              "url": "https://britbrief.co.uk/environment/activism/us-craftivists-use-knitting-to-protest-trump-policies.html",
+              "source": "British Brief",
+              "date": "2026-07-27"
             },
             {
               "id": 190,
@@ -1018,6 +1078,16 @@
               "title": "YouTube lecture: Anne Applebaum on 'The Next Stage Is Collapse -- How Democracies Fall'",
               "url": "https://www.youtube.com/watch?v=FsERKPBfxwI",
               "source": "YouTube",
+              "date": "2026-07-26"
+            },
+            {
+              "id": 72,
+              "person": "Martha S. Jones",
+              "person_id": "martha-s-jones",
+              "is_ces": false,
+              "title": "Martha S. Jones",
+              "url": "https://blackstudiespodcast.com/2026/07/25/martha-s-jones/",
+              "source": "wordpress.com",
               "date": "2026-07-26"
             },
             {
@@ -1048,6 +1118,26 @@
               "title": "CDE Conversations with Anne Applebaum: The rise of authoritarianism and the future of democracy",
               "url": "https://www.youtube.com/watch?v=tr_PqAJsGhU",
               "source": "Youtube",
+              "date": "2026-07-21"
+            },
+            {
+              "id": 82,
+              "person": "Eugene Scott",
+              "person_id": "eugene-scott",
+              "is_ces": false,
+              "title": "Who gets to tell the American story? -- Leah Wright & Eugene Scott panel announcement (July 30)",
+              "url": "https://bsky.app/profile/did:plc:77csjuvjtaisujakuiknywko/post/3mr6qv5btn22u",
+              "source": "Bluesky",
+              "date": "2026-07-21"
+            },
+            {
+              "id": 81,
+              "person": "Leah Wright",
+              "person_id": "leah-wright",
+              "is_ces": false,
+              "title": "Who gets to tell the American story? -- Leah Wright & Eugene Scott panel announcement (July 30)",
+              "url": "https://bsky.app/profile/did:plc:77csjuvjtaisujakuiknywko/post/3mr6qv5btn22u",
+              "source": "Bluesky",
               "date": "2026-07-21"
             },
             {
@@ -1121,6 +1211,26 @@
               "date": "2026-07-17"
             },
             {
+              "id": 134,
+              "person": "Glory Liu",
+              "person_id": "glory-m-liu",
+              "is_ces": true,
+              "title": "Same Cambridge journal article also acknowledges Glory Liu's feedback",
+              "url": "https://www.cambridge.org/core/journals/modern-intellectual-history/article/postwar-american-economics-and-the-fate-of-countervailing-power/9274591C8FF980F4F1A26A5F76F60E38",
+              "source": "Modern Intellectual History (Cambridge)",
+              "date": "2026-07-16"
+            },
+            {
+              "id": 133,
+              "person": "Angus Burgin",
+              "person_id": "angus-burgin",
+              "is_ces": true,
+              "title": "Cambridge journal article on postwar economics acknowledges Angus Burgin's feedback",
+              "url": "https://www.cambridge.org/core/journals/modern-intellectual-history/article/postwar-american-economics-and-the-fate-of-countervailing-power/9274591C8FF980F4F1A26A5F76F60E38",
+              "source": "Modern Intellectual History (Cambridge)",
+              "date": "2026-07-16"
+            },
+            {
               "id": 132,
               "person": "Steven Teles",
               "person_id": "steven-teles",
@@ -1149,6 +1259,26 @@
               "url": "https://hub.jhu.edu/2026/07/16/ruth-braunstein-named-snf-agora-institute-director/",
               "source": "JHU Hub",
               "date": "2026-07-16"
+            },
+            {
+              "id": 148,
+              "person": "David Park",
+              "person_id": "david-park",
+              "is_ces": false,
+              "title": "YouTube science-explainer videos mention a 'David Park' alongside Johns Hopkins sleep research (namesake, not our Visiting Fellow)",
+              "url": "https://www.youtube.com/watch?v=cQQ4LPVTxm4",
+              "source": "YouTube",
+              "date": "2026-07-15"
+            },
+            {
+              "id": 126,
+              "person": "Martha S. Jones",
+              "person_id": "martha-s-jones",
+              "is_ces": false,
+              "title": "Northwestern historian's SCOTUS-cited research piece credits Martha S. Jones as amicus co-author",
+              "url": "https://news.northwestern.edu/stories/2026/07/northwestern-historian-kate-masur-research-cited-in-supreme-court-birthright-citizenship-ruling",
+              "source": "Northwestern Now",
+              "date": "2026-07-15"
             },
             {
               "id": 110,
@@ -1181,6 +1311,36 @@
               "date": "2026-07-14"
             },
             {
+              "id": 158,
+              "person": "SNF Agora Institute",
+              "person_id": "snf-agora-institute",
+              "is_ces": false,
+              "title": "New Visiting Fellow announces 2026-27 year at Agora (fellow named 'John Kahl' not found in data/faculty.json -- roster gap, flagged)",
+              "url": "https://www.linkedin.com/feed/update/urn:li:share:7481322358033596417",
+              "source": "LinkedIn",
+              "date": "2026-07-10"
+            },
+            {
+              "id": 127,
+              "person": "Martha S. Jones",
+              "person_id": "martha-s-jones",
+              "is_ces": false,
+              "title": "Portuguese-language blog on birthright citizenship cites Jones's 'Birthright Citizens'",
+              "url": "https://alemdarena.blogspot.com/2026/07/roubando-democracia-o-ataque-de-trump.html",
+              "source": "Alem da Arena (blog)",
+              "date": "2026-07-10"
+            },
+            {
+              "id": 58,
+              "person": "Anne Applebaum",
+              "person_id": "anne-applebaum",
+              "is_ces": false,
+              "title": "Anne Applebaum w Grudziądzu - wieczór z jedną z najgłośniejszych autorek",
+              "url": "https://wrotagrudziadza.pl/20260709535733/anne-applebaum-w-grudziadzu-wieczor-z-jedna-z-najglosniejszych-autorek",
+              "source": "WrotaGrudziadza",
+              "date": "2026-07-09"
+            },
+            {
               "id": 37,
               "person": "Anne Applebaum",
               "person_id": "anne-applebaum",
@@ -1199,6 +1359,16 @@
               "url": "https://bsky.app/profile/headdoc35.bsky.social/post/3mpvw6avmrc2h",
               "source": "Bluesky",
               "date": "2026-07-05"
+            },
+            {
+              "id": 43,
+              "person": "Henry Farrell",
+              "person_id": "henry-farrell",
+              "is_ces": true,
+              "title": "Narada Muni and the Architecture of Cosmic Disruption: From Mythological Catalyst to Geopolitical Reality (cites Farrell's 'weaponized interdependence' concept)",
+              "url": "https://amitsmusingsonstuff.blogspot.com/2026/07/narada-muni-and-architecture-of-cosmic.html",
+              "source": "Amit's Musings (blog)",
+              "date": "2026-07-04"
             },
             {
               "id": 41,
@@ -1227,6 +1397,22 @@
               "count": 5
             },
             {
+              "keyphrase": "organization",
+              "count": 4
+            },
+            {
+              "keyphrase": "campus",
+              "count": 3
+            },
+            {
+              "keyphrase": "director",
+              "count": 3
+            },
+            {
+              "keyphrase": "author",
+              "count": 3
+            },
+            {
               "keyphrase": "ancient athenian agora",
               "count": 3
             },
@@ -1245,22 +1431,6 @@
             {
               "keyphrase": "faculty",
               "count": 3
-            },
-            {
-              "keyphrase": "country",
-              "count": 2
-            },
-            {
-              "keyphrase": "editorial board",
-              "count": 2
-            },
-            {
-              "keyphrase": "organization",
-              "count": 2
-            },
-            {
-              "keyphrase": "aei and hopkins talk",
-              "count": 2
             }
           ]
         }
@@ -1518,10 +1688,10 @@
           "in_digest": 3,
           "people": 3,
           "sentiment": {
-            "positive": 1,
+            "positive": 2,
             "neutral": 1,
             "negative": 0,
-            "unknown": 1
+            "unknown": 0
           }
         },
         {
@@ -1532,9 +1702,9 @@
           "people": 3,
           "sentiment": {
             "positive": 0,
-            "neutral": 1,
+            "neutral": 3,
             "negative": 0,
-            "unknown": 10
+            "unknown": 8
           }
         },
         {
@@ -1544,10 +1714,10 @@
           "in_digest": 10,
           "people": 6,
           "sentiment": {
-            "positive": 4,
-            "neutral": 0,
+            "positive": 6,
+            "neutral": 4,
             "negative": 0,
-            "unknown": 6
+            "unknown": 0
           }
         },
         {
@@ -1558,9 +1728,9 @@
           "people": 3,
           "sentiment": {
             "positive": 0,
-            "neutral": 0,
+            "neutral": 5,
             "negative": 0,
-            "unknown": 5
+            "unknown": 0
           }
         },
         {
@@ -1571,17 +1741,17 @@
           "people": 3,
           "sentiment": {
             "positive": 0,
-            "neutral": 0,
+            "neutral": 6,
             "negative": 0,
-            "unknown": 6
+            "unknown": 0
           }
         }
       ],
       "sentiment": {
-        "positive": 5,
-        "neutral": 2,
+        "positive": 8,
+        "neutral": 19,
         "negative": 0,
-        "unknown": 28
+        "unknown": 8
       },
       "top_people": [
         {
@@ -1729,9 +1899,9 @@
           "person_id": "louis-hyman",
           "is_ces": true,
           "positive": 2,
-          "neutral": 0,
+          "neutral": 2,
           "negative": 0,
-          "unknown": 10,
+          "unknown": 8,
           "total": 12
         },
         {
@@ -1739,19 +1909,19 @@
           "person_id": "yuen-yuen-ang",
           "is_ces": true,
           "positive": 2,
-          "neutral": 1,
+          "neutral": 8,
           "negative": 0,
-          "unknown": 7,
+          "unknown": 0,
           "total": 10
         },
         {
           "row_label": "Henry Farrell",
           "person_id": "henry-farrell",
           "is_ces": true,
-          "positive": 0,
-          "neutral": 0,
+          "positive": 1,
+          "neutral": 4,
           "negative": 0,
-          "unknown": 5,
+          "unknown": 0,
           "total": 5
         },
         {
@@ -1759,9 +1929,9 @@
           "person_id": "simon-halliday",
           "is_ces": true,
           "positive": 0,
-          "neutral": 0,
+          "neutral": 2,
           "negative": 0,
-          "unknown": 2,
+          "unknown": 0,
           "total": 2
         },
         {
@@ -1769,29 +1939,29 @@
           "person_id": "steven-teles",
           "is_ces": true,
           "positive": 1,
-          "neutral": 0,
+          "neutral": 1,
           "negative": 0,
-          "unknown": 1,
+          "unknown": 0,
           "total": 2
         },
         {
           "row_label": "Angus Burgin",
           "person_id": "angus-burgin",
           "is_ces": true,
-          "positive": 0,
+          "positive": 1,
           "neutral": 0,
           "negative": 0,
-          "unknown": 1,
+          "unknown": 0,
           "total": 1
         },
         {
           "row_label": "Glory Liu",
           "person_id": "glory-m-liu",
           "is_ces": true,
-          "positive": 0,
+          "positive": 1,
           "neutral": 0,
           "negative": 0,
-          "unknown": 1,
+          "unknown": 0,
           "total": 1
         },
         {
@@ -1809,35 +1979,35 @@
           "person_id": "trevor-brown",
           "is_ces": true,
           "positive": 0,
-          "neutral": 0,
+          "neutral": 1,
           "negative": 0,
-          "unknown": 1,
+          "unknown": 0,
           "total": 1
         }
       ],
       "source_type_sentiment_crosstab": [
         {
           "row_label": "online news",
-          "positive": 5,
-          "neutral": 0,
+          "positive": 7,
+          "neutral": 12,
           "negative": 0,
-          "unknown": 14,
+          "unknown": 0,
           "total": 19
         },
         {
           "row_label": "social network",
           "positive": 0,
-          "neutral": 2,
+          "neutral": 6,
           "negative": 0,
-          "unknown": 4,
+          "unknown": 0,
           "total": 6
         },
         {
           "row_label": "blog",
-          "positive": 0,
-          "neutral": 0,
+          "positive": 1,
+          "neutral": 1,
           "negative": 0,
-          "unknown": 2,
+          "unknown": 0,
           "total": 2
         },
         {
@@ -1865,6 +2035,26 @@
               "url": "https://www.wnd.com/2026/07/inside-one-major-schools-campaign-bring-conservatives-campus/",
               "source": "WND",
               "date": "2026-07-19"
+            },
+            {
+              "id": 134,
+              "person": "Glory Liu",
+              "person_id": "glory-m-liu",
+              "is_ces": true,
+              "title": "Same Cambridge journal article also acknowledges Glory Liu's feedback",
+              "url": "https://www.cambridge.org/core/journals/modern-intellectual-history/article/postwar-american-economics-and-the-fate-of-countervailing-power/9274591C8FF980F4F1A26A5F76F60E38",
+              "source": "Modern Intellectual History (Cambridge)",
+              "date": "2026-07-16"
+            },
+            {
+              "id": 133,
+              "person": "Angus Burgin",
+              "person_id": "angus-burgin",
+              "is_ces": true,
+              "title": "Cambridge journal article on postwar economics acknowledges Angus Burgin's feedback",
+              "url": "https://www.cambridge.org/core/journals/modern-intellectual-history/article/postwar-american-economics-and-the-fate-of-countervailing-power/9274591C8FF980F4F1A26A5F76F60E38",
+              "source": "Modern Intellectual History (Cambridge)",
+              "date": "2026-07-16"
             },
             {
               "id": 132,
@@ -1895,6 +2085,16 @@
               "url": "https://www.semafor.com/article/07/14/2026/the-man-who-stole-a-golf-course",
               "source": "Semafor",
               "date": "2026-07-14"
+            },
+            {
+              "id": 43,
+              "person": "Henry Farrell",
+              "person_id": "henry-farrell",
+              "is_ces": true,
+              "title": "Narada Muni and the Architecture of Cosmic Disruption: From Mythological Catalyst to Geopolitical Reality (cites Farrell's 'weaponized interdependence' concept)",
+              "url": "https://amitsmusingsonstuff.blogspot.com/2026/07/narada-muni-and-architecture-of-cosmic.html",
+              "source": "Amit's Musings (blog)",
+              "date": "2026-07-04"
             },
             {
               "id": 41,
@@ -1945,8 +2145,8 @@
               "count": 2
             },
             {
-              "keyphrase": "agora's director",
-              "count": 1
+              "keyphrase": "aea meeting",
+              "count": 2
             }
           ]
         }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-01T13:46:48-04:00",
+  "generated_at": "2026-08-01T14:20:12-04:00",
   "generated_date": "2026-08-01",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
@@ -58,7 +58,7 @@
   "data_quality": {
     "mentions_missing_url": 40,
     "mentions_no_text_captured": 49,
-    "mentions_sentiment_unknown": 135,
+    "mentions_sentiment_unknown": 37,
     "mentions_shareable": 139,
     "unmatched_persons": [
       {
