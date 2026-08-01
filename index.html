@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SNF Agora Institute | Media Monitor</title>
+<meta name="description" content="Where the SNF Agora Institute's people are being quoted, cited, and mentioned in the press and on social platforms — tracked honestly, gaps and all.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script>
+  // Flags that JS is running early enough to drive the scroll-reveal
+  // animation (see css/style.css .js-reveal rules). If this never runs
+  // (JS blocked/disabled) the .js-reveal class is absent and every card
+  // renders at its default visible opacity — nothing is ever permanently
+  // invisible with JS off.
+  document.documentElement.classList.add('js-reveal');
+</script>
+<script src="js/utils.js" defer></script>
+<script src="js/index.js" defer></script>
+</head>
+<body>
+
+<a class="skip-link" href="#main">Skip to main content</a>
+
+<header id="site-header" class="site-header">
+  <div class="site-header__inner container">
+    <a class="site-header__brand" href="index.html">
+      <span class="site-header__superlabel">SNF Agora Institute · Johns Hopkins</span>
+      <span class="site-header__wordmark">Media Monitor</span>
+    </a>
+    <nav class="site-header__nav" aria-label="Primary">
+      <a class="site-header__link site-header__link--active" href="index.html">Overview</a>
+      <a class="site-header__link" href="people.html">People</a>
+      <a class="site-header__link" href="stories.html">Stories</a>
+      <a class="site-header__link" href="trends.html">Trends</a>
+      <a class="site-header__link" href="repost.html">Repost</a>
+      <a class="site-header__link" href="ces.html">CES</a>
+      <a class="site-header__link" href="about.html">About</a>
+    </nav>
+    <a class="site-header__cta btn btn--pill" href="repost.html">Repost today<span class="btn__arrow">→</span></a>
+    <button class="site-header__toggle" type="button" aria-expanded="false" aria-controls="site-header-nav" aria-label="Toggle navigation menu"></button>
+  </div>
+</header>
+
+<main id="main">
+
+  <section id="hero" class="hero">
+    <div class="hero__bg" aria-hidden="true"></div>
+    <div class="hero__inner container">
+      <p class="hero__eyebrow eyebrow">SNF Agora Institute · Media Monitor</p>
+      <h1 class="hero__headline">Where the Institute is being <span class="hero__mark">quoted, cited, and mentioned</span></h1>
+      <p class="hero__lede" id="hero-lede">Loading the latest snapshot…</p>
+      <div class="hero__actions">
+        <a class="btn btn--pill" href="stories.html">View all stories<span class="btn__arrow">→</span></a>
+        <a class="btn btn--pill--ghost" href="people.html">Explore the full roster<span class="btn__arrow">→</span></a>
+      </div>
+    </div>
+  </section>
+
+  <section id="overview-root" aria-label="Overview">
+
+    <div class="container">
+      <div id="kpi-row" class="kpi-row" data-loading="true">
+        <!-- JS-rendered: 4 stat tiles from data/trends.json (scoped) + data/meta.json -->
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="page-head" style="padding-block: 2rem 1rem;">
+        <p class="page-head__eyebrow eyebrow eyebrow--teal">Mentions per day</p>
+        <h2 class="page-head__title" style="font-size: var(--fs-h2);">A backfill snapshot, not a daily feed</h2>
+        <p class="page-head__intro">This pipeline has fetched five times so far — the shaded bands mark the days nothing was fetched. Nothing is guessed into those gaps.</p>
+      </div>
+      <div id="chart-timeline" class="timeline-chart" data-loading="true">
+        <!-- JS-rendered: data/trends.json scopes[scope].daily, gaps hatched per meta.db_snapshot.observed_dates -->
+      </div>
+    </div>
+
+    <section class="section-divider section-divider--light" aria-labelledby="sentiment-head">
+      <div class="section-divider__inner container">
+        <p class="section-divider__eyebrow eyebrow eyebrow--teal" id="sentiment-head">Sentiment</p>
+        <h2 class="section-divider__title">Entity-level sentiment across the window</h2>
+        <p class="section-divider__intro">Sentiment is assessed on the mention of the person or institute, not the article as a whole — and most of it is still unresolved.</p>
+        <div id="chart-sentiment" data-loading="true" style="margin-top: 2rem; max-width: 640px;">
+          <!-- JS-rendered: data/trends.json scopes[scope].sentiment (diverging bar + unknown track) -->
+        </div>
+      </div>
+    </section>
+
+    <div class="container" id="today-repost-wrap">
+      <!-- JS-rendered: data/social.json picks[0] (today-repost card). The
+           entire wrapper is removed from the DOM when there is no pick for
+           the latest digest date — no empty promo slot on a quiet day. -->
+    </div>
+
+    <div class="container">
+      <div class="page-head" style="padding-block: 2.5rem 1rem;">
+        <p class="page-head__eyebrow eyebrow eyebrow--teal" id="today-stories-head">Latest coverage</p>
+        <h2 class="page-head__title" style="font-size: var(--fs-h2);" id="today-stories-title">Loading…</h2>
+      </div>
+      <div id="today-stories" data-loading="true" aria-labelledby="today-stories-head">
+        <!-- JS-rendered: data/stories.json filtered to the most recent observed
+             date, grouped by person -->
+      </div>
+    </div>
+
+    <section class="section-divider section-divider--navy" aria-labelledby="top-people-head">
+      <div class="section-divider__inner container">
+        <p class="section-divider__eyebrow eyebrow eyebrow--olive" id="top-people-head">Most covered this week</p>
+        <h2 class="section-divider__title is-italic">The six people carrying the most coverage right now</h2>
+        <div id="top-people-strip" data-loading="true" style="margin-top: 2rem; max-width: 640px;">
+          <!-- JS-rendered: data/trends.json scopes[scope].top_people, top 6 -->
+        </div>
+      </div>
+    </section>
+
+  </section>
+
+</main>
+
+<footer id="site-footer" class="site-footer">
+  <div class="site-footer__inner container">
+    <div class="site-footer__brand">SNF Agora Institute Media Monitor</div>
+
+    <div class="site-footer__col">
+      <p class="site-footer__col-head eyebrow eyebrow--sky">Explore</p>
+      <a class="site-footer__link" href="people.html">People</a>
+      <a class="site-footer__link" href="stories.html">Stories</a>
+      <a class="site-footer__link" href="trends.html">Trends</a>
+      <a class="site-footer__link" href="repost.html">Repost</a>
+    </div>
+
+    <div class="site-footer__col">
+      <p class="site-footer__col-head eyebrow eyebrow--sky">Views</p>
+      <a class="site-footer__link" href="ces.html">Center on Economy and Society</a>
+      <a class="site-footer__link" href="about.html">Methodology</a>
+    </div>
+
+    <div class="site-footer__col">
+      <p class="site-footer__col-head eyebrow eyebrow--sky">Data</p>
+      <span class="site-footer__link" id="footer-generated-at">Generated —</span>
+    </div>
+
+    <p class="site-footer__attribution">This dashboard tracks press and social mentions of people affiliated with the <a class="site-footer__attribution-link" href="https://snfagora.jhu.edu">SNF Agora Institute at Johns Hopkins University</a>. It is an internal monitoring tool, not a public claim about reach or impact — see the Methodology page for what each number does and does not mean.</p>
+    <p class="site-footer__legal">© 2026 SNF Agora Institute. Internal use.</p>
+  </div>
+</footer>
+
+</body>
+</html>
