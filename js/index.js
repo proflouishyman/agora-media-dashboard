@@ -47,8 +47,7 @@
 function renderHeroLede(meta, scopeTrends, scope) {
   const el = document.getElementById('hero-lede');
   if (!el || !meta) return;
-  const observedCount = (meta.db_snapshot.observed_dates || []).length;
-  el.textContent = `${formatNumber(scopeTrends.totals.mentions)} mentions of ${formatNumber(scopeTrends.totals.people_covered)} people across ${formatNumber(scopeTrends.totals.sources)} sources since ${formatDateShort(meta.db_snapshot.first_mention_date)} — ${observedCount} fetches, not a daily feed.`;
+  el.textContent = `${formatNumber(scopeTrends.totals.mentions)} mentions of ${formatNumber(scopeTrends.totals.people_covered)} people across ${formatNumber(scopeTrends.totals.sources)} sources since ${formatDateShort(meta.db_snapshot.first_mention_date)}.`;
 }
 
 function renderFooterGeneratedAt(meta) {
@@ -223,7 +222,7 @@ function renderTimeline(scopeTrends, meta) {
   }).join('');
 
   container.innerHTML = `
-    <svg viewBox="0 0 ${width} ${height}" role="img" aria-label="Mentions per day; hatched bands mark days not yet fetched">
+    <svg viewBox="0 0 ${width} ${height}" role="img" aria-label="Mentions per day; hatched bands mark days with no confirmed fetch">
       <defs>
         <pattern id="no-fetch-hatch" width="8" height="8" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
           <rect width="8" height="8" fill="var(--offwhite)"></rect>
@@ -238,7 +237,7 @@ function renderTimeline(scopeTrends, meta) {
     <div class="timeline-chart__tooltip" id="timeline-tooltip"></div>
     <div class="timeline-chart__legend">
       <span class="timeline-chart__legend-item"><span class="timeline-chart__legend-swatch timeline-chart__legend-swatch--line"></span>Mentions on a fetched day</span>
-      <span class="timeline-chart__legend-item"><span class="timeline-chart__legend-swatch timeline-chart__legend-swatch--hatch"></span>No fetch (backfill gap)</span>
+      <span class="timeline-chart__legend-item"><span class="timeline-chart__legend-swatch timeline-chart__legend-swatch--hatch"></span>No fetch that day</span>
     </div>
     <details class="chart-table-toggle">
       <summary>View as table</summary>
