@@ -71,3 +71,62 @@ This pattern (clamp text-anchor at the first/last index of any x-scaled SVG
 series) should be reused by anyone adding another home-grown SVG chart to
 this site (e.g. `trends.html`'s weekly-volume/heatmap charts) rather than
 rediscovering the same clipping bug independently.
+
+---
+
+[2026-08-01] - repost.html's story rows and repost cards rendered permanently invisible
+
+## Problem
+On `repost.html`, `#repost-adhoc`'s 139 `.story-row` elements and any
+`.repost-card`s rendered into the DOM correctly (confirmed via
+`querySelectorAll('.story-row').length === 139` and a console check that
+showed zero page errors) but were invisible on screen — the container
+appeared blank below the filter row, both in a Playwright screenshot and in
+a headless computed-style check (`getComputedStyle(el).opacity === '0'` on
+every row).
+
+## Root Cause
+`css/style.css` §17 (Motion) hides `.story-row`/`.repost-card`/etc. at
+`opacity: 0` by default whenever an ancestor carries the `.js-reveal` class
+(added by an inline `<script>` in every page's `<head>`), and only removes
+that hidden state when the element also gets `.is-in` — which
+`js/utils.js`'s `observeRevealTargets()` adds via a *shared, module-level*
+`IntersectionObserver` (`__revealObserver`). That observer is created
+exactly once, inside `initScrollReveal(selector)` — `observeRevealTargets()`
+itself is a pure register-with-the-existing-observer call and silently
+no-ops (`if (!__revealObserver) return;`) if `initScrollReveal()` was never
+called first. `js/repost.js` called `observeRevealTargets()` after
+rendering story rows and repost cards (mirroring `index.js`'s pattern for
+its own re-renders) but never called `initScrollReveal()` itself —
+`index.js` gets away with the same call shape only because *it* is the
+file that calls `initScrollReveal('.kpi-tile, .story-row, .repost-card')`
+once, late in its own IIFE; `repost.js` had no equivalent call anywhere, so
+on `repost.html` the observer that both files' `observeRevealTargets()`
+calls depend on never came into existence, and every reveal-gated element
+was stuck at its permanent `opacity: 0` starting state.
+
+## Solution
+Added a single `initScrollReveal('.story-row, .repost-card')` call at the
+end of `js/repost.js`'s main IIFE, after `renderCuratedPicks()` and
+`setupAdhocSection()` have already run (so its first internal
+`querySelectorAll` sweep picks up every already-rendered card/row, exactly
+as `index.js` does after its own renders). Verified with a headless Chrome
+check: before the fix, `story-row` opacity was `'0'` on all 139 rows after
+render; after the fix, the first-in-viewport row was `'1'` immediately and
+scrolling through the full page (simulated via repeated `mouse.wheel`
+calls) brought every row's opacity to `'1'` with zero left at `'0'`.
+
+## Notes
+**Any new page that renders `.story-row`, `.repost-card`, `.kpi-tile`,
+`.person-card`, `.activity-card`, `.work-item`, or `.pub-card` (the full
+list gated by the `.js-reveal` CSS rule in `css/style.css` §17) MUST call
+`initScrollReveal(selector)` at least once, in its own script.**
+`observeRevealTargets()` alone is only safe to call from a page that has
+already called `initScrollReveal()` itself earlier in the same page load —
+it is not a substitute for it, and there is no cross-page fallback since
+`__revealObserver` is a fresh, per-page-load JS module variable, not
+persisted state. `trends.html`/`js/trends.js` does not hit this bug because
+none of its chart containers use any of the gated classes above — worth
+re-checking before reusing this pattern on `people.html`/`stories.html`,
+which will render `.person-card`/`.story-row` and do need the
+`initScrollReveal()` call.

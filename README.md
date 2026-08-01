@@ -20,12 +20,12 @@ Eight real, separately-loadable HTML pages — not one long scrolling page:
 
 | File | Root element | Status |
 |---|---|---|
-| `index.html` | `#overview-root` | **Built** (this pass) |
-| `people.html` | `#people-root` | Not yet built |
-| `person.html?id={id}` | `#person-root` | Not yet built |
+| `index.html` | `#overview-root` | **Built** |
+| `people.html` | `#people-root` | **Built** |
+| `person.html?id={id}` | `#person-root` | **Built** |
 | `stories.html` | `#stories-root` | Not yet built |
-| `trends.html` | `#trends-root` | Not yet built |
-| `repost.html` | `#repost-root` | Not yet built |
+| `trends.html` | `#trends-root` | **Built** (this pass) |
+| `repost.html` | `#repost-root` | **Built** (this pass) |
 | `ces.html` | `#overview-root` + `#ces-roster`, `data-scope="ces"` | **Built** |
 | `about.html` | `#about-root` | Not yet built |
 
@@ -69,10 +69,9 @@ function from `index.js`.
   is the template the other pages should match.
 - `.nojekyll`, this README, `data/*.json`.
 
-**Not built here — owned by later agents:** `people.html`, `person.html`,
-`stories.html`, `trends.html`, `repost.html`, `about.html`, and whatever
-page-specific `js/{page}.js` each of those needs. Each of those scripts
-should load `js/utils.js` first (`<script src="js/utils.js"></script>
+**Not built here — owned by later agents:** `stories.html`, `about.html`,
+and whatever page-specific `js/{page}.js` each of those needs. Each of those
+scripts should load `js/utils.js` first (`<script src="js/utils.js"></script>
 <script src="js/{page}.js" defer></script>`), the same way `index.js` does,
 and call into the helpers below rather than re-implementing them.
 
@@ -89,6 +88,25 @@ own `initScrollReveal('.person-card')` instead of `observeRevealTargets()`,
 which sidesteps any ordering dependency on `index.js`'s own
 `initScrollReveal()` call (the two scripts' `async` `main()`s run
 concurrently with no guaranteed order).
+
+`trends.html` (`js/trends.js`) and `repost.html` (`js/repost.js`) are also
+now built. `trends.html` reuses `weeklyBarChartHtml`/`sentimentBarHtml`/
+`barListHtml` from `js/utils.js` for its weekly-volume, weekly-reach,
+per-week-sentiment, and top-sources sections rather than a second
+chart implementation each; its one genuinely new chart (`#chart-source-types`,
+a 100%-stacked categorical bar) and the person×week `#chart-people-heatmap`
+are page-local, added under `css/style.css` §20 ("Trends page primitives" —
+only 3 small classes; everything else reuses §19). `repost.html`'s tier-2
+"post any story" list reuses `storyRowHtml` unchanged; its tier-1 curated
+card is a page-local, multi-card generalization of `index.js`'s single-pick
+`renderTodayRepost()` (scoped per card via `data-pick="{digest_date}"` so
+several cards' platform tabs don't cross-wire). **Both call
+`initScrollReveal(...)` themselves** for the reveal-gated classes they
+render (`.story-row`/`.repost-card` on `repost.html`; nothing gated on
+`trends.html`, whose chart containers use none of those classes) — see
+`SOLUTIONS.md`'s 2026-08-01 "repost.html rendered permanently invisible"
+entry for why this call is mandatory on every page that renders
+`.story-row`/`.repost-card`/`.kpi-tile`/`.person-card`/etc., not optional.
 
 ## JS helper contract (`js/utils.js`)
 
@@ -170,6 +188,11 @@ states constantly).
 - `.filter-row` / `.filter-chip` — for `people.html`/`stories.html`/`trends.html`'s one-row filter bar
 - `.scope-banner` — the "Showing only the 17 CES people…" strip for `ces.html`
 - `.coverage-band__head` (+ `--muted`) — the "Covered" / "Tracked, no coverage logged" section labels on `people.html`
+
+**New in §20** (`trends.html` only, added this pass) — deliberately tiny,
+since almost every `trends.html` chart reuses a §19 primitive instead:
+- `.trends-week-rows` / `.trends-week-row__label` — the per-week label above each reused `.sentiment-bar` in `#chart-sentiment-weeks`
+- `.data-table--heatmap` — alignment/type tweaks for `#chart-people-heatmap`'s numeric cells (cell background colors are set inline per-cell against the validated `--seq-1..7` ramp, not via new CSS classes)
 
 ### Chart color contract
 
