@@ -15,10 +15,10 @@
     "first_mention_date": "2026-07-04",
     "last_mention_date": "2026-07-31",
     "sentiment": {
-      "positive": 4,
-      "neutral": 6,
+      "positive": 6,
+      "neutral": 17,
       "negative": 0,
-      "unknown": 25
+      "unknown": 12
     },
     "top_sources": [
       {
@@ -123,10 +123,10 @@
     "first_mention_date": "2026-07-02",
     "last_mention_date": "2026-07-31",
     "sentiment": {
-      "positive": 5,
-      "neutral": 1,
+      "positive": 6,
+      "neutral": 9,
       "negative": 3,
-      "unknown": 12
+      "unknown": 3
     },
     "top_sources": [
       {
@@ -232,9 +232,9 @@
     "last_mention_date": "2026-07-31",
     "sentiment": {
       "positive": 0,
-      "neutral": 4,
+      "neutral": 6,
       "negative": 1,
-      "unknown": 9
+      "unknown": 7
     },
     "top_sources": [
       {
@@ -340,9 +340,9 @@
     "last_mention_date": "2026-07-30",
     "sentiment": {
       "positive": 2,
-      "neutral": 0,
+      "neutral": 2,
       "negative": 0,
-      "unknown": 10
+      "unknown": 8
     },
     "top_sources": [
       {
@@ -447,10 +447,10 @@
     "first_mention_date": "2026-07-02",
     "last_mention_date": "2026-07-26",
     "sentiment": {
-      "positive": 0,
-      "neutral": 0,
+      "positive": 3,
+      "neutral": 7,
       "negative": 0,
-      "unknown": 10
+      "unknown": 0
     },
     "top_sources": [
       {
@@ -555,10 +555,10 @@
     "first_mention_date": "2026-07-03",
     "last_mention_date": "2026-07-30",
     "sentiment": {
-      "positive": 2,
-      "neutral": 4,
+      "positive": 3,
+      "neutral": 7,
       "negative": 0,
-      "unknown": 4
+      "unknown": 0
     },
     "top_sources": [
       {
@@ -664,9 +664,9 @@
     "last_mention_date": "2026-07-29",
     "sentiment": {
       "positive": 2,
-      "neutral": 1,
+      "neutral": 8,
       "negative": 0,
-      "unknown": 7
+      "unknown": 0
     },
     "top_sources": [
       {
@@ -771,10 +771,10 @@
     "first_mention_date": "2026-07-02",
     "last_mention_date": "2026-07-31",
     "sentiment": {
-      "positive": 2,
+      "positive": 4,
       "neutral": 2,
       "negative": 0,
-      "unknown": 5
+      "unknown": 3
     },
     "top_sources": [
       {
@@ -879,10 +879,10 @@
     "first_mention_date": "2026-07-04",
     "last_mention_date": "2026-07-30",
     "sentiment": {
-      "positive": 3,
-      "neutral": 1,
+      "positive": 5,
+      "neutral": 4,
       "negative": 0,
-      "unknown": 5
+      "unknown": 0
     },
     "top_sources": [
       {
@@ -987,10 +987,10 @@
     "first_mention_date": "2026-07-02",
     "last_mention_date": "2026-07-29",
     "sentiment": {
-      "positive": 0,
-      "neutral": 1,
+      "positive": 1,
+      "neutral": 5,
       "negative": 0,
-      "unknown": 7
+      "unknown": 2
     },
     "top_sources": [
       {
@@ -1095,10 +1095,10 @@
     "first_mention_date": "2026-07-13",
     "last_mention_date": "2026-07-29",
     "sentiment": {
-      "positive": 0,
-      "neutral": 1,
+      "positive": 1,
+      "neutral": 4,
       "negative": 0,
-      "unknown": 5
+      "unknown": 1
     },
     "top_sources": [
       {
@@ -1204,9 +1204,9 @@
     "last_mention_date": "2026-07-18",
     "sentiment": {
       "positive": 0,
-      "neutral": 0,
+      "neutral": 5,
       "negative": 0,
-      "unknown": 6
+      "unknown": 1
     },
     "top_sources": [
       {
@@ -1303,10 +1303,10 @@
     "first_mention_date": "2026-07-04",
     "last_mention_date": "2026-07-27",
     "sentiment": {
-      "positive": 0,
-      "neutral": 0,
+      "positive": 1,
+      "neutral": 4,
       "negative": 0,
-      "unknown": 5
+      "unknown": 0
     },
     "top_sources": [
       {
@@ -1412,9 +1412,9 @@
     "last_mention_date": "2026-07-30",
     "sentiment": {
       "positive": 0,
-      "neutral": 1,
+      "neutral": 4,
       "negative": 0,
-      "unknown": 3
+      "unknown": 0
     },
     "top_sources": [
       {
@@ -1516,9 +1516,9 @@
     "last_mention_date": "2026-07-30",
     "sentiment": {
       "positive": 1,
-      "neutral": 1,
+      "neutral": 3,
       "negative": 0,
-      "unknown": 2
+      "unknown": 0
     },
     "top_sources": [
       {
@@ -1604,7 +1604,7 @@
     "tracked": true,
     "title": "SNF Agora Institute Professor of Political Science",
     "profile_url": "https://snfagora.jhu.edu/directory/lilliana-mason/",
-    "photo_url": null,
+    "photo_url": "images/people/lilliana-mason.jpeg",
     "categories": [
       "Core Faculty"
     ],
@@ -1616,9 +1616,9 @@
     "last_mention_date": "2026-07-11",
     "sentiment": {
       "positive": 0,
-      "neutral": 1,
+      "neutral": 3,
       "negative": 0,
-      "unknown": 2
+      "unknown": 0
     },
     "top_sources": [
       {
@@ -1716,9 +1716,9 @@
     "last_mention_date": "2026-07-30",
     "sentiment": {
       "positive": 0,
-      "neutral": 1,
+      "neutral": 2,
       "negative": 0,
-      "unknown": 1
+      "unknown": 0
     },
     "top_sources": [
       {
@@ -1812,9 +1812,9 @@
     "last_mention_date": "2026-07-20",
     "sentiment": {
       "positive": 0,
-      "neutral": 1,
+      "neutral": 2,
       "negative": 0,
-      "unknown": 1
+      "unknown": 0
     },
     "top_sources": [
       {
@@ -1896,7 +1896,7 @@
     "tracked": true,
     "title": "SNF Agora Institute Associate Professor of History",
     "profile_url": "https://snfagora.jhu.edu/directory/leah-wright/",
-    "photo_url": null,
+    "photo_url": "images/people/leah-wright.jpg",
     "categories": [
       "Core Faculty"
     ],
@@ -1907,10 +1907,10 @@
     "first_mention_date": "2026-07-17",
     "last_mention_date": "2026-07-21",
     "sentiment": {
-      "positive": 0,
-      "neutral": 0,
+      "positive": 1,
+      "neutral": 1,
       "negative": 0,
-      "unknown": 2
+      "unknown": 0
     },
     "top_sources": [
       {
@@ -2004,9 +2004,9 @@
     "last_mention_date": "2026-07-19",
     "sentiment": {
       "positive": 0,
-      "neutral": 0,
+      "neutral": 2,
       "negative": 0,
-      "unknown": 2
+      "unknown": 0
     },
     "top_sources": [
       {
@@ -2100,9 +2100,9 @@
     "last_mention_date": "2026-07-26",
     "sentiment": {
       "positive": 1,
-      "neutral": 0,
+      "neutral": 1,
       "negative": 0,
-      "unknown": 1
+      "unknown": 0
     },
     "top_sources": [
       {
@@ -2292,9 +2292,9 @@
     "last_mention_date": "2026-07-21",
     "sentiment": {
       "positive": 0,
-      "neutral": 0,
+      "neutral": 1,
       "negative": 0,
-      "unknown": 1
+      "unknown": 0
     },
     "top_sources": [
       {
@@ -2384,9 +2384,9 @@
     "last_mention_date": "2026-07-02",
     "sentiment": {
       "positive": 0,
-      "neutral": 0,
+      "neutral": 1,
       "negative": 0,
-      "unknown": 1
+      "unknown": 0
     },
     "top_sources": [
       {
@@ -2475,10 +2475,10 @@
     "first_mention_date": "2026-07-16",
     "last_mention_date": "2026-07-16",
     "sentiment": {
-      "positive": 0,
+      "positive": 1,
       "neutral": 0,
       "negative": 0,
-      "unknown": 1
+      "unknown": 0
     },
     "top_sources": [
       {
@@ -2568,9 +2568,9 @@
     "last_mention_date": "2026-07-12",
     "sentiment": {
       "positive": 0,
-      "neutral": 0,
+      "neutral": 1,
       "negative": 0,
-      "unknown": 1
+      "unknown": 0
     },
     "top_sources": [
       {
@@ -2752,9 +2752,9 @@
     "last_mention_date": "2026-07-28",
     "sentiment": {
       "positive": 0,
-      "neutral": 0,
+      "neutral": 1,
       "negative": 0,
-      "unknown": 1
+      "unknown": 0
     },
     "top_sources": [
       {
@@ -3027,10 +3027,10 @@
     "first_mention_date": "2026-07-16",
     "last_mention_date": "2026-07-16",
     "sentiment": {
-      "positive": 0,
+      "positive": 1,
       "neutral": 0,
       "negative": 0,
-      "unknown": 1
+      "unknown": 0
     },
     "top_sources": [
       {
@@ -3210,9 +3210,9 @@
     "last_mention_date": "2026-07-15",
     "sentiment": {
       "positive": 0,
-      "neutral": 0,
+      "neutral": 1,
       "negative": 0,
-      "unknown": 1
+      "unknown": 0
     },
     "top_sources": [
       {
@@ -3302,9 +3302,9 @@
     "last_mention_date": "2026-07-21",
     "sentiment": {
       "positive": 0,
-      "neutral": 0,
+      "neutral": 1,
       "negative": 0,
-      "unknown": 1
+      "unknown": 0
     },
     "top_sources": [
       {
@@ -3394,9 +3394,9 @@
     "last_mention_date": "2026-07-24",
     "sentiment": {
       "positive": 0,
-      "neutral": 0,
+      "neutral": 1,
       "negative": 0,
-      "unknown": 1
+      "unknown": 0
     },
     "top_sources": [
       {
@@ -3486,9 +3486,9 @@
     "last_mention_date": "2026-07-15",
     "sentiment": {
       "positive": 0,
-      "neutral": 0,
+      "neutral": 1,
       "negative": 0,
-      "unknown": 1
+      "unknown": 0
     },
     "top_sources": [
       {
@@ -3578,9 +3578,9 @@
     "last_mention_date": "2026-07-08",
     "sentiment": {
       "positive": 0,
-      "neutral": 0,
+      "neutral": 1,
       "negative": 0,
-      "unknown": 1
+      "unknown": 0
     },
     "top_sources": [
       {
@@ -3832,7 +3832,7 @@
     "tracked": true,
     "title": "SNF Agora Institute Professor of Sociology",
     "profile_url": "https://snfagora.jhu.edu/directory/andrew-perrin/",
-    "photo_url": null,
+    "photo_url": "images/people/andrew-perrin.jpg",
     "categories": [
       "Core Faculty"
     ],
@@ -4441,7 +4441,7 @@
     "tracked": true,
     "title": "Professor of Applied Mathematics and Statistics at Johns Hopkins University",
     "profile_url": "https://snfagora.jhu.edu/directory/carey-priebe/",
-    "photo_url": null,
+    "photo_url": "images/people/carey-priebe.jpg",
     "categories": [
       "Affiliated Faculty"
     ],
@@ -4789,7 +4789,7 @@
     "tracked": true,
     "title": "Associate Professor of Public Policy at University College London",
     "profile_url": "https://snfagora.jhu.edu/directory/dan-honig/",
-    "photo_url": null,
+    "photo_url": "images/people/dan-honig.jpg",
     "categories": [
       "Affiliated Faculty"
     ],
@@ -5920,7 +5920,7 @@
     "tracked": true,
     "title": "Associate Teaching Professor",
     "profile_url": "https://snfagora.jhu.edu/directory/healan-gaston/",
-    "photo_url": null,
+    "photo_url": "images/people/healan-gaston.jpg",
     "categories": [
       "Continuing Faculty + Fellows"
     ],
@@ -7747,7 +7747,7 @@
     "tracked": true,
     "title": "Professor of Biostatistics at Johns Hopkins University",
     "profile_url": "https://snfagora.jhu.edu/directory/michael-rosenblum/",
-    "photo_url": null,
+    "photo_url": "images/people/michael-rosenblum.jpg",
     "categories": [
       "Affiliated Faculty"
     ],
@@ -8008,7 +8008,7 @@
     "tracked": true,
     "title": "Professor of Government, chair of the Women’s and Gender Studies Program at Georgetown University",
     "profile_url": "https://snfagora.jhu.edu/directory/nadia-brown/",
-    "photo_url": null,
+    "photo_url": "images/people/nadia-brown.jpg",
     "categories": [
       "Affiliated Faculty"
     ],
@@ -8443,7 +8443,7 @@
     "tracked": true,
     "title": "SNF Agora Senior Fellow",
     "profile_url": "https://snfagora.jhu.edu/directory/peter-pomerantsev/",
-    "photo_url": null,
+    "photo_url": "images/people/peter-pomerantsev.jpg",
     "categories": [
       "Continuing Faculty + Fellows"
     ],
@@ -8878,7 +8878,7 @@
     "tracked": true,
     "title": "Professor in Pediatric Population Health and Health Equity Research at the Johns Hopkins School of Medicine",
     "profile_url": "https://snfagora.jhu.edu/directory/sara-johnson/",
-    "photo_url": null,
+    "photo_url": "images/people/sara-johnson.jpg",
     "categories": [
       "Affiliated Faculty"
     ],
