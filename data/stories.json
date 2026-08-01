@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-08-01T14:20:12-04:00",
-  "count": 193,
+  "generated_at": "2026-08-01T14:29:37-04:00",
+  "count": 194,
   "stories": [
+    {
+      "id": 195,
+      "date": "2026-08-01",
+      "week_start": "2026-07-27",
+      "person_id": "eliot-cohen",
+      "person": "Eliot Cohen",
+      "is_ces": false,
+      "title": "Interview - Selim Koru",
+      "has_text": true,
+      "url": "https://www.e-ir.org/p/interview-selim-koru",
+      "source": "Substack (E-International Relations)",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Interview - Selim Koru https://www.e-ir.org/p/interview-selim-koru",
+          "chars": 46
+        },
+        "bluesky": {
+          "text": "Interview - Selim Koru https://www.e-ir.org/p/interview-selim-koru",
+          "chars": 66
+        }
+      }
+    },
     {
       "id": 2,
       "date": "2026-07-31",
