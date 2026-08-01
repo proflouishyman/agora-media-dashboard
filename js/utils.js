@@ -199,6 +199,22 @@ function escAttr(str) {
   return String(str == null ? '' : str).replace(/"/g, '&quot;').replace(/'/g, '&#39;');
 }
 
+// escAttr() only quote-escapes -- it does not validate a URL's scheme.
+// Found by adversarial review 2026-08-02: story.url / pick.story_url /
+// p.profile_url all originate from external, less-trusted sources
+// (Meltwater API results, a scraped JHU directory page) with no scheme
+// validation anywhere in the ingestion pipeline. A javascript:/data: URI
+// in that data would render as a normal-looking, script-executing link
+// via plain escAttr(). Use this for every href that points at one of
+// those external fields; only allow http(s) and protocol-relative URLs
+// through, otherwise fall back to a harmless "#" so the link renders
+// inert instead of either breaking the page or executing script.
+function escHref(url) {
+  const str = String(url == null ? '' : url).trim();
+  if (/^(https?:)?\/\//i.test(str)) return escAttr(str);
+  return '#';
+}
+
 // ── IDENTITY (avatar / person link / coverage cue) ──────────────────────
 
 /** initialsOf("Louis Hyman") -> "LH" */
@@ -489,12 +505,12 @@ function storyActionsHtml(story) {
   const xText = story.share.x.text;
   const bsText = story.share.bluesky.text;
   const readBtn = story.url
-    ? `<a class="story-row__action" href="${escAttr(story.url)}" target="_blank" rel="noopener" aria-label="Read the original story" title="Read ↗">↗</a>`
+    ? `<a class="story-row__action" href="${escHref(story.url)}" target="_blank" rel="noopener noreferrer" aria-label="Read the original story" title="Read ↗">↗</a>`
     : '';
   return `
     ${readBtn}
-    <a class="story-row__action" href="${escAttr(composeUrl('x', xText))}" target="_blank" rel="noopener" aria-label="Post to X" title="Post to X">𝕏</a>
-    <a class="story-row__action" href="${escAttr(composeUrl('bluesky', bsText))}" target="_blank" rel="noopener" aria-label="Post to Bluesky" title="Post to Bluesky">🦋</a>
+    <a class="story-row__action" href="${escAttr(composeUrl('x', xText))}" target="_blank" rel="noopener noreferrer" aria-label="Post to X" title="Post to X">𝕏</a>
+    <a class="story-row__action" href="${escAttr(composeUrl('bluesky', bsText))}" target="_blank" rel="noopener noreferrer" aria-label="Post to Bluesky" title="Post to Bluesky">🦋</a>
     <button type="button" class="story-row__action" data-copy-text="${escAttr(xText)}" aria-label="Copy post text" title="Copy">⧉</button>
   `;
 }
@@ -511,7 +527,7 @@ function storyRowHtml(story, opts = {}) {
     ? `<a class="story-row__person" href="${personLink(story.person_id)}">${escHtml(story.person)}</a><br>`
     : '';
   const titleHtml = story.url
-    ? `<a href="${escAttr(story.url)}" target="_blank" rel="noopener">${escHtml(story.title)}</a>`
+    ? `<a href="${escHref(story.url)}" target="_blank" rel="noopener noreferrer">${escHtml(story.title)}</a>`
     : `<span class="story-row__title--no-link">${escHtml(story.title)}</span>`;
   const similar = story.similar_mention_count > 1 ? ` · ${story.similar_mention_count} similar` : '';
   return `

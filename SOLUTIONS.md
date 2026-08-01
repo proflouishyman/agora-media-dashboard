@@ -360,3 +360,51 @@ script. If a future pass needs the missing photos specifically, the
 practical path is re-running this same script from a different network
 (e.g. the production deploy host, once it exists) rather than debugging
 this one further.
+
+---
+
+[2026-08-02] - Adversarial review: unescaped attribute, unvalidated URL scheme, missing referrer control, 10 uncommitted photos
+
+## Problem
+An adversarial code-review workflow (4 reviewers, 3-vote refutation per
+finding) confirmed: `js/trends.js`'s `renderSourceTypes()` interpolated
+`source_type` raw into an `aria-label` while the identical field was
+`escHtml`'d two lines earlier and again two lines later in the same
+function; every `href` pointing at an external field (`story.url`,
+`pick.story_url`, `p.profile_url`) went through `escAttr()`, which only
+quote-escapes and never validates the URL scheme, so a `javascript:`/`data:`
+URI in that data would render as a normal, script-executing link; every
+`target="_blank"` link used `rel="noopener"` but never `noreferrer`; and
+`git status` showed 10 real photo files `download_photos.py` had written
+to `images/people/` were never `git add`ed — `people.json` already
+referenced them, so the live GitHub Pages site was serving broken avatars
+for all 10.
+
+## Root Cause
+The escaping inconsistency and missing scheme validation were both
+oversights, not deliberate design — `escAttr()` was written as pure
+quote-escaping with no documented scope beyond that, and the aria-label
+site was added without reusing the pattern used two lines away. The
+uncommitted photos were a real process gap in the (now-fixed, see the
+sibling `agora_media` repo's own SOLUTIONS.md) daily sync step, which
+staged only `data/`.
+
+## Solution
+Added `escHref()` to `js/utils.js` (allowlists `http(s)://` and
+protocol-relative URLs, falls back to `#` otherwise) and applied it at
+every external-field `href` site across `js/trends.js`, `js/index.js`,
+`js/repost.js`, `js/person.js`, `js/utils.js`; left `escAttr()` for the
+internally-generated compose URLs (already a fixed `https://` prefix
+from `scripts/social_links.py`, not attacker-influenced). Every
+`target="_blank"` link now carries `rel="noopener noreferrer"`. The
+`aria-label` in `trends.js` is now wrapped in `escHtml()` like its
+neighbors. The 10 missing photos were staged and pushed immediately.
+
+## Notes
+Re-ran a full headless-Chrome pass (index/trends/person/repost/stories)
+after every change — zero console errors, confirmed no visual/functional
+regression. The XSS findings are latent, not observed in today's real
+data — Meltwater/the scraped directory haven't actually returned a
+malicious payload — but the fix is real defense-in-depth against an
+external, less-trusted data source, not theoretical hardening against
+nothing.

@@ -72,7 +72,7 @@ function tagsHtml(p) {
 
 function heroHtml(p) {
   const linkChips = p.profile_url
-    ? `<a class="link-chip" href="${escAttr(p.profile_url)}" target="_blank" rel="noopener">Directory ↗</a>`
+    ? `<a class="link-chip" href="${escHref(p.profile_url)}" target="_blank" rel="noopener noreferrer">Directory ↗</a>`
     : '';
   const kindLabel = p.kind === 'org' ? 'Organization' : (p.categories && p.categories[0]) || 'Tracked person';
   return `
@@ -94,7 +94,7 @@ function heroHtml(p) {
 function zeroCoverageProfileHtml(p, meta) {
   const since = meta && meta.pipeline_live_since ? formatDateLong(meta.pipeline_live_since) : 'the pipeline’s launch';
   const directoryLink = p.profile_url
-    ? `<p style="margin-top: 1.25rem;"><a class="link-chip" href="${escAttr(p.profile_url)}" target="_blank" rel="noopener">View directory profile ↗</a></p>`
+    ? `<p style="margin-top: 1.25rem;"><a class="link-chip" href="${escHref(p.profile_url)}" target="_blank" rel="noopener noreferrer">View directory profile ↗</a></p>`
     : '';
   return `
     ${heroHtml(p)}
