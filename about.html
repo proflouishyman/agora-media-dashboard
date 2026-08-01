@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About | SNF Agora Institute Media Monitor</title>
+<meta name="description" content="What this dashboard is, what data feeds it (Meltwater ingestion plus the SNF Agora Institute directory), and what each of its six views shows.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script>
+  // Flags that JS is running early enough to drive the scroll-reveal
+  // animation (see css/style.css .js-reveal rules). If this never runs
+  // (JS blocked/disabled) the .js-reveal class is absent and every card
+  // renders at its default visible opacity — nothing is ever permanently
+  // invisible with JS off.
+  document.documentElement.classList.add('js-reveal');
+</script>
+<script src="js/utils.js" defer></script>
+<script src="js/about.js" defer></script>
+</head>
+<body>
+
+<a class="skip-link" href="#main">Skip to main content</a>
+
+<header id="site-header" class="site-header">
+  <div class="site-header__inner container">
+    <a class="site-header__brand" href="index.html">
+      <span class="site-header__superlabel">SNF Agora Institute · Johns Hopkins</span>
+      <span class="site-header__wordmark">Media Monitor</span>
+    </a>
+    <nav class="site-header__nav" aria-label="Primary">
+      <a class="site-header__link" href="index.html">Overview</a>
+      <a class="site-header__link" href="people.html">People</a>
+      <a class="site-header__link" href="stories.html">Stories</a>
+      <a class="site-header__link" href="trends.html">Trends</a>
+      <a class="site-header__link" href="repost.html">Repost</a>
+      <a class="site-header__link" href="ces.html">CES</a>
+      <a class="site-header__link site-header__link--active" href="about.html">About</a>
+    </nav>
+    <a class="site-header__cta btn btn--pill" href="repost.html">Repost today<span class="btn__arrow">→</span></a>
+    <button class="site-header__toggle" type="button" aria-expanded="false" aria-controls="site-header-nav" aria-label="Toggle navigation menu"></button>
+  </div>
+</header>
+
+<main id="main">
+
+  <div class="page-head container">
+    <p class="page-head__eyebrow eyebrow eyebrow--teal" id="about-head">About</p>
+    <h2 class="page-head__title">How this dashboard works</h2>
+    <p class="page-head__intro">A plain accounting of what this tool is, where its numbers come from, and what each view shows — so a reader can trust a count here as far as it actually goes, and no further.</p>
+  </div>
+
+  <section id="about-root" aria-labelledby="about-head">
+
+    <div class="container">
+      <p class="page-head__intro" style="max-width: var(--maxw-read);">The Media Monitor tracks press and social mentions of people affiliated with the SNF Agora Institute at Johns Hopkins University. It is an internal monitoring tool for the Institute's communications team, not a public metric of reach or influence — a mention logged here means the pipeline found and matched a document, nothing more, and a person with zero mentions logged is very likely still doing plenty of public-facing work the pipeline simply hasn't picked up yet.</p>
+    </div>
+
+    <div class="container">
+      <div id="about-stats" class="kpi-row" data-loading="true" style="margin-block: 1rem 0;">
+        <!-- JS-rendered: 4 stat tiles from data/meta.json's db_snapshot — see js/about.js -->
+      </div>
+    </div>
+
+    <section class="section-divider section-divider--light" aria-labelledby="sources-head">
+      <div class="section-divider__inner container">
+        <p class="section-divider__eyebrow eyebrow eyebrow--teal" id="sources-head">Where the data comes from</p>
+        <h2 class="section-divider__title">Two feeds, kept honest on purpose</h2>
+        <p class="section-divider__intro">Every number on this site traces back to one of two sources.</p>
+
+        <div style="max-width: var(--maxw-read); margin-top: 1.5rem; display: flex; flex-direction: column; gap: 1.25rem;">
+          <p><strong>The roster</strong> — who gets tracked at all — comes from the SNF Agora Institute's own public directory at <a href="https://snfagora.jhu.edu/directory/" target="_blank" rel="noopener" style="text-decoration: underline;">snfagora.jhu.edu/directory</a>: name, title, category (Core Faculty, Affiliated Faculty, Postdoctoral + Student Fellows, Visiting Fellows, Continuing Faculty + Fellows, Staff), profile link, and photo. It is re-pulled periodically so people who join or leave the Institute are picked up automatically, rather than relying on a hand-maintained list.</p>
+          <p><strong>The mentions</strong> — every story, post, and citation — come from Meltwater, a commercial media-monitoring API, via a dedicated saved search built from that same roster (name variants OR'd together, required to co-occur with "Johns Hopkins", "Hopkins", "Agora", or "SNF"). Meltwater returns the raw hits; a filtering pass removes off-topic noise and syndication duplicates (the same wire story often runs under dozens of outlets in one pull) before anything is logged as a mention.</p>
+        </div>
+
+        <p class="section-divider__intro" style="margin-top: 2rem; max-width: var(--maxw-read); font-weight: 600;">What "honest" means in practice here:</p>
+        <ul class="person-aside__list" style="max-width: var(--maxw-read); margin-top: 0.75rem;">
+          <li class="person-aside__list-item">This is a backfilled snapshot, not a live daily feed — the pipeline has fetched a handful of times so far, and the timeline chart on the Overview page shades the days nothing was fetched rather than pretending they were quiet.</li>
+          <li class="person-aside__list-item">Sentiment is scored per mention of the person or the Institute, not per whole article, and most mentions today have no resolved sentiment at all — that "unresolved" share is always shown as its own honest bucket, never folded into "neutral" to make a chart look cleaner.</li>
+          <li class="person-aside__list-item">A person with no coverage logged is labeled "No coverage logged yet," never a fabricated zero-height bar or a hidden row.</li>
+          <li class="person-aside__list-item">A story missing a captured link or a shareable quote renders a plain "No link captured" note instead of a dead button.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="section-divider section-divider--navy" aria-labelledby="views-head">
+      <div class="section-divider__inner container">
+        <p class="section-divider__eyebrow eyebrow eyebrow--olive" id="views-head">Views</p>
+        <h2 class="section-divider__title is-italic">Six ways to look at the same underlying data</h2>
+        <p class="section-divider__intro">Nothing here is a second dataset — every view below reads the same five JSON exports, just sliced or scoped differently.</p>
+
+        <div class="activity-grid" style="padding-block: 2rem 0.5rem;">
+          <a class="activity-card activity-card--program" href="index.html">
+            <h3 class="activity-card__title">Overview</h3>
+            <p class="activity-card__desc">The institute-wide snapshot: headline stats, the mentions-per-day timeline (gaps and all), sentiment, today's repost pick, latest coverage, and the most-covered people this week.</p>
+          </a>
+          <a class="activity-card activity-card--activity" href="people.html">
+            <h3 class="activity-card__title">People</h3>
+            <p class="activity-card__desc">The full tracked roster — all 100 people, filterable by category, split honestly into "Covered" and "Tracked, no coverage logged."</p>
+          </a>
+          <a class="activity-card activity-card--opportunity" href="stories.html">
+            <h3 class="activity-card__title">Stories</h3>
+            <p class="activity-card__desc">Every story the pipeline has logged, not just the latest teaser — filterable by scope, sentiment, and free-text search.</p>
+          </a>
+          <a class="activity-card activity-card--program" href="trends.html">
+            <h3 class="activity-card__title">Trends</h3>
+            <p class="activity-card__desc">Week-over-week volume, reach, sentiment, source mix, and a person-by-week heatmap — the "is coverage changing" view.</p>
+          </a>
+          <a class="activity-card activity-card--activity" href="repost.html">
+            <h3 class="activity-card__title">Repost</h3>
+            <p class="activity-card__desc">Curated picks ready to share, plus the full archive of any shareable story, each with one-click X/Bluesky compose links and a copy button.</p>
+          </a>
+          <a class="activity-card activity-card--opportunity" href="ces.html">
+            <h3 class="activity-card__title">CES</h3>
+            <p class="activity-card__desc">The same institute-wide Overview, filtered to just the 17 people affiliated with the Center on Economy and Society — a scope, not a separate site.</p>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <div class="container">
+      <p class="page-head__intro" style="max-width: var(--maxw-read); padding-block: 2rem;">Questions about a specific number, or a mention that looks wrong? This is an internal tool built and maintained for the Institute's communications team — flag it directly rather than treating anything here as a final public claim.</p>
+    </div>
+
+  </section>
+
+</main>
+
+<footer id="site-footer" class="site-footer">
+  <div class="site-footer__inner container">
+    <div class="site-footer__brand">SNF Agora Institute Media Monitor</div>
+
+    <div class="site-footer__col">
+      <p class="site-footer__col-head eyebrow eyebrow--sky">Explore</p>
+      <a class="site-footer__link" href="people.html">People</a>
+      <a class="site-footer__link" href="stories.html">Stories</a>
+      <a class="site-footer__link" href="trends.html">Trends</a>
+      <a class="site-footer__link" href="repost.html">Repost</a>
+    </div>
+
+    <div class="site-footer__col">
+      <p class="site-footer__col-head eyebrow eyebrow--sky">Views</p>
+      <a class="site-footer__link" href="ces.html">Center on Economy and Society</a>
+      <a class="site-footer__link" href="about.html">Methodology</a>
+    </div>
+
+    <div class="site-footer__col">
+      <p class="site-footer__col-head eyebrow eyebrow--sky">Data</p>
+      <span class="site-footer__link" id="footer-generated-at">Generated —</span>
+    </div>
+
+    <p class="site-footer__attribution">This dashboard tracks press and social mentions of people affiliated with the <a class="site-footer__attribution-link" href="https://snfagora.jhu.edu">SNF Agora Institute at Johns Hopkins University</a>. It is an internal monitoring tool, not a public claim about reach or impact — see the Methodology page for what each number does and does not mean.</p>
+    <p class="site-footer__legal">© 2026 SNF Agora Institute. Internal use.</p>
+  </div>
+</footer>
+
+</body>
+</html>

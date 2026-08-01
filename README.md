@@ -23,11 +23,11 @@ Eight real, separately-loadable HTML pages — not one long scrolling page:
 | `index.html` | `#overview-root` | **Built** |
 | `people.html` | `#people-root` | **Built** |
 | `person.html?id={id}` | `#person-root` | **Built** |
-| `stories.html` | `#stories-root` | Not yet built |
+| `stories.html` | `#stories-root` | **Built** |
 | `trends.html` | `#trends-root` | **Built** (this pass) |
 | `repost.html` | `#repost-root` | **Built** (this pass) |
 | `ces.html` | `#overview-root` + `#ces-roster`, `data-scope="ces"` | **Built** |
-| `about.html` | `#about-root` | Not yet built |
+| `about.html` | `#about-root` | **Built** |
 
 Nav across all eight pages: **Overview · People · Stories · Trends · Repost
 · CES · About**. Nav links are plain relative `<a href="people.html">`s — no
@@ -69,11 +69,11 @@ function from `index.js`.
   is the template the other pages should match.
 - `.nojekyll`, this README, `data/*.json`.
 
-**Not built here — owned by later agents:** `stories.html`, `about.html`,
-and whatever page-specific `js/{page}.js` each of those needs. Each of those
-scripts should load `js/utils.js` first (`<script src="js/utils.js"></script>
+**Built by later agents:** `stories.html`/`js/stories.js` and
+`about.html`/`js/about.js` (both now built, see below). Each loads
+`js/utils.js` first (`<script src="js/utils.js"></script>
 <script src="js/{page}.js" defer></script>`), the same way `index.js` does,
-and call into the helpers below rather than re-implementing them.
+and calls into the helpers below rather than re-implementing them.
 
 `ces.html` is now built (see below) as the reference example of this pattern:
 it loads `js/utils.js` + `js/index.js` unmodified (`<body data-scope="ces">`
@@ -113,6 +113,24 @@ that and so had no such call; see `SOLUTIONS.md`'s two 2026-08-01
 "rendered permanently invisible" entries, `repost.html` and `trends.html`,
 for why this call is mandatory, not optional, on every page/every new
 gated class, and recurs easily if skipped).
+
+`stories.html` (`js/stories.js`) is the full, filterable archive of every
+`data/stories.json` record — scope chips, sentiment chips, free-text search
+(person/title), and a sort select, all filtering the one already-fetched
+array client-side. Reuses `storyRowHtml`/`setupShareButtons` unchanged, same
+as `repost.js`'s tier-2 list, and calls `initScrollReveal('.story-row')`
+itself per the mandatory-reveal-call rule above.
+
+`about.html` (`js/about.js`) is mostly static prose (what the dashboard is,
+where the roster and the mentions each come from, the honesty conventions
+this site holds itself to) plus one small live element: a 4-tile stat strip
+pulled from `data/meta.json`'s `db_snapshot` at render time, so the counts
+on this page can't drift out of sync with the actual pipeline state the way
+hand-typed numbers would. The "Views" section reuses `.activity-grid`/
+`.activity-card` (§14 — "kept for contract parity," inherited verbatim from
+`ces_website`) as a 6-card grid linking every view (Overview, People,
+Stories, Trends, Repost, CES). Calls `initScrollReveal('.kpi-tile,
+.activity-card')` itself, again per the mandatory-reveal-call rule above.
 
 ## JS helper contract (`js/utils.js`)
 
@@ -238,7 +256,36 @@ json.dump(d, open('$f','w'), separators=(',',':'), ensure_ascii=False)
 python3 -m json.tool data/meta.json > /dev/null && echo "valid"
 ```
 
-## Local preview
+**One exception to "don't hand-edit `data/`":** `people.json`'s `photo_url`
+values are patched locally by `scripts/download_photos.py`, not by the
+upstream export (see "Photos" below). **Re-running the `cp` refresh above
+re-introduces the raw `https://snfagora.jhu.edu/wp-content/uploads/...`
+hotlinks and undoes that patch — re-run `scripts/download_photos.py`
+immediately afterward** or every avatar on the site goes back to broken.
+
+### Photos (`images/people/`, `scripts/download_photos.py`)
+
+`people.json`'s `photo_url` fields, as exported upstream, point directly at
+`https://snfagora.jhu.edu/wp-content/uploads/...` — hotlinking those from
+this site's own pages doesn't work: JHU's server (fronted by Cloudflare)
+returns a `403 Forbidden` to a real fraction of those requests regardless
+of headers, confirmed via `curl -I`, a plain `urllib` request, and a full
+headless-Chromium request all hitting the same block. `scripts/
+download_photos.py` downloads each photo once to `images/people/<id>.<ext>`
+and rewrites that person's `photo_url` to the local relative path
+(`images/people/anne-applebaum.jpg`) so the site serves its own copy
+instead of re-requesting JHU's server on every visitor's page load. A photo
+that fails to download (still `403`/`404`/timeout after the script's own
+attempt) is set to `null`, never left pointing at a URL just confirmed
+dead — `avatarHtml()` in `js/utils.js` already renders a clean initials
+tile for `null` and needs no change to do so.
+
+The block above is intermittent, not a hard 100% wall — of the 100 tracked
+people with a photo, one run typically recovers a couple dozen, with the
+rest still 403ing even on a slow, spaced-out retry. Re-running the script
+is safe (idempotent: it skips any `photo_url` that's already a local
+`images/people/...` path) and may recover a few more on a given day, but
+don't expect to reach 100% from any single environment/IP.
 
 No build step — just serve the directory:
 

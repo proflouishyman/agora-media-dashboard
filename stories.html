@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Stories | SNF Agora Institute Media Monitor</title>
+<meta name="description" content="Every story logged by the SNF Agora Institute Media Monitor — filterable by scope, sentiment, and free-text search, not just the latest teaser.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script>
+  document.documentElement.classList.add('js-reveal');
+</script>
+<script src="js/utils.js" defer></script>
+<script src="js/stories.js" defer></script>
+</head>
+<body>
+
+<a class="skip-link" href="#main">Skip to main content</a>
+
+<header id="site-header" class="site-header">
+  <div class="site-header__inner container">
+    <a class="site-header__brand" href="index.html">
+      <span class="site-header__superlabel">SNF Agora Institute · Johns Hopkins</span>
+      <span class="site-header__wordmark">Media Monitor</span>
+    </a>
+    <nav class="site-header__nav" aria-label="Primary">
+      <a class="site-header__link" href="index.html">Overview</a>
+      <a class="site-header__link" href="people.html">People</a>
+      <a class="site-header__link site-header__link--active" href="stories.html">Stories</a>
+      <a class="site-header__link" href="trends.html">Trends</a>
+      <a class="site-header__link" href="repost.html">Repost</a>
+      <a class="site-header__link" href="ces.html">CES</a>
+      <a class="site-header__link" href="about.html">About</a>
+    </nav>
+    <a class="site-header__cta btn btn--pill" href="repost.html">Repost today<span class="btn__arrow">→</span></a>
+    <button class="site-header__toggle" type="button" aria-expanded="false" aria-controls="site-header-nav" aria-label="Toggle navigation menu"></button>
+  </div>
+</header>
+
+<main id="main">
+
+  <div class="page-head container">
+    <p class="page-head__eyebrow eyebrow eyebrow--teal" id="stories-head">Coverage</p>
+    <h2 class="page-head__title" id="stories-title">Loading the full story archive…</h2>
+    <p class="page-head__intro">Every story the pipeline has logged, not just the latest-coverage teaser on the Overview page — filter by scope, sentiment, or search by person and title.</p>
+  </div>
+
+  <section id="stories-root" aria-labelledby="stories-head">
+
+    <div class="container">
+      <div class="filter-row" id="stories-filters" role="group" aria-label="Filter the story archive">
+        <button class="filter-chip is-active" type="button" data-scope-filter="all">All people</button>
+        <button class="filter-chip" type="button" data-scope-filter="ces">CES only</button>
+        <button class="filter-chip is-active" type="button" data-sentiment-filter="all">Any sentiment</button>
+        <button class="filter-chip" type="button" data-sentiment-filter="positive">Positive</button>
+        <button class="filter-chip" type="button" data-sentiment-filter="neutral">Neutral</button>
+        <button class="filter-chip" type="button" data-sentiment-filter="negative">Negative</button>
+        <button class="filter-chip" type="button" data-sentiment-filter="unknown">Unresolved</button>
+        <input type="search" id="stories-search" aria-label="Search stories by person or title" placeholder="Search person or title…">
+        <label style="margin-left:auto; display:flex; align-items:center; gap:0.5rem; font-family:var(--font-label); font-size:0.75rem; text-transform:uppercase; letter-spacing:0.04em; color:var(--ink); opacity:0.7;">
+          Sort
+          <select id="stories-sort" aria-label="Sort the story archive">
+            <option value="recent">Most recent</option>
+            <option value="oldest">Oldest first</option>
+            <option value="similar">Most similar mentions</option>
+            <option value="person">Person A–Z</option>
+          </select>
+        </label>
+      </div>
+    </div>
+
+    <div class="container">
+      <p class="coverage-band__head" id="stories-count">Loading…</p>
+      <div id="stories-list" class="story-list" data-loading="true">
+        <!-- JS-rendered: data/stories.json, filtered/sorted client-side -->
+      </div>
+    </div>
+
+  </section>
+
+</main>
+
+<footer id="site-footer" class="site-footer">
+  <div class="site-footer__inner container">
+    <div class="site-footer__brand">SNF Agora Institute Media Monitor</div>
+
+    <div class="site-footer__col">
+      <p class="site-footer__col-head eyebrow eyebrow--sky">Explore</p>
+      <a class="site-footer__link" href="people.html">People</a>
+      <a class="site-footer__link" href="stories.html">Stories</a>
+      <a class="site-footer__link" href="trends.html">Trends</a>
+      <a class="site-footer__link" href="repost.html">Repost</a>
+    </div>
+
+    <div class="site-footer__col">
+      <p class="site-footer__col-head eyebrow eyebrow--sky">Views</p>
+      <a class="site-footer__link" href="ces.html">Center on Economy and Society</a>
+      <a class="site-footer__link" href="about.html">Methodology</a>
+    </div>
+
+    <div class="site-footer__col">
+      <p class="site-footer__col-head eyebrow eyebrow--sky">Data</p>
+      <span class="site-footer__link" id="footer-generated-at">Generated —</span>
+    </div>
+
+    <p class="site-footer__attribution">This dashboard tracks press and social mentions of people affiliated with the <a class="site-footer__attribution-link" href="https://snfagora.jhu.edu">SNF Agora Institute at Johns Hopkins University</a>. It is an internal monitoring tool, not a public claim about reach or impact — see the Methodology page for what each number does and does not mean.</p>
+    <p class="site-footer__legal">© 2026 SNF Agora Institute. Internal use.</p>
+  </div>
+</footer>
+
+</body>
+</html>
