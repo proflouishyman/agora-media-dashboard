@@ -18,9 +18,18 @@ browser too.
 Usage:
     python3 scripts/download_photos.py
 
-Idempotent / safe to re-run: a person whose photo_url already points at
-images/people/... is left alone (skipped, not re-downloaded), and a fresh
-run only touches people whose photo_url is still an external http(s) URL.
+Idempotent / safe to re-run — and safe against people.json being
+wholesale overwritten by a fresh upstream export (which resets photo_url
+back to raw JHU URLs every time, see docs/daily_digest_runbook.md step 7
+in the agora_media repo): the skip check is based on whether
+images/people/<id>.* already EXISTS ON DISK, not on the current
+photo_url value in the JSON. A person with an already-downloaded file
+gets photo_url repointed to it directly, with zero network requests.
+Confirmed failures are recorded in images/people/.failed_ids.json and
+are not retried automatically on subsequent runs (JHU's block looked
+reputation/rate-based on investigation, not a one-off — retrying the
+same ~74 ids daily would just keep hammering a server that's already
+blocking us). Pass --retry-failed to force a fresh attempt on those.
 
 Contract:
     - Reads data/people.json (a list of person records — id, name,
@@ -119,28 +128,73 @@ def download_one(person_id, url):
     return f"{LOCAL_PREFIX}{filename}"
 
 
+FAILED_IDS_PATH = os.path.join(IMAGES_DIR, ".failed_ids.json")
+
+
+def load_failed_ids():
+    if os.path.exists(FAILED_IDS_PATH):
+        with open(FAILED_IDS_PATH, "r", encoding="utf-8") as f:
+            return set(json.load(f))
+    return set()
+
+
+def save_failed_ids(ids):
+    with open(FAILED_IDS_PATH, "w", encoding="utf-8") as f:
+        json.dump(sorted(ids), f, indent=2)
+        f.write("\n")
+
+
+def existing_local_file(person_id):
+    """Return the local relative path if images/people/<id>.* already
+    exists on disk, regardless of what people.json currently says."""
+    if not os.path.isdir(IMAGES_DIR):
+        return None
+    for fname in os.listdir(IMAGES_DIR):
+        stem, ext = os.path.splitext(fname)
+        if stem == person_id and ext:
+            return f"{LOCAL_PREFIX}{fname}"
+    return None
+
+
 def main():
+    retry_failed = "--retry-failed" in sys.argv
     os.makedirs(IMAGES_DIR, exist_ok=True)
 
     with open(PEOPLE_JSON, "r", encoding="utf-8") as f:
         people = json.load(f)
 
+    failed_ids = set() if retry_failed else load_failed_ids()
+
     succeeded = 0
     failed = 0
     skipped_already_local = 0
     skipped_null = 0
+    skipped_known_failed = 0
 
     for person in people:
-        photo_url = person.get("photo_url")
         person_id = person.get("id", "<unknown>")
 
-        if not photo_url:
-            skipped_null += 1
+        # Disk state wins over whatever people.json currently says — an
+        # upstream export refresh resets photo_url to the raw JHU URL,
+        # but the already-downloaded file is still sitting on disk.
+        local_file = existing_local_file(person_id)
+        if local_file:
+            person["photo_url"] = local_file
+            skipped_already_local += 1
             continue
 
-        if photo_url.startswith(LOCAL_PREFIX):
-            # Already fixed by a previous run of this script.
-            skipped_already_local += 1
+        if person_id in failed_ids:
+            person["photo_url"] = None
+            skipped_known_failed += 1
+            continue
+
+        photo_url = person.get("photo_url")
+        if not photo_url or photo_url.startswith(LOCAL_PREFIX):
+            # startswith(LOCAL_PREFIX) with no real file on disk means a
+            # stale/incorrect local reference from some other source —
+            # treat as no photo rather than serving a 404 image tag.
+            person["photo_url"] = None
+            skipped_null += 1
             continue
 
         local_path = download_one(person_id, photo_url)
@@ -154,18 +208,23 @@ def main():
             # null, so this degrades gracefully rather than showing a
             # broken-image icon.
             person["photo_url"] = None
+            failed_ids.add(person_id)
             failed += 1
 
     with open(PEOPLE_JSON, "w", encoding="utf-8") as f:
         json.dump(people, f, indent=2, ensure_ascii=False)
         f.write("\n")
+    save_failed_ids(failed_ids)
 
     print()
-    print(f"Downloaded:            {succeeded}")
-    print(f"Failed (set to null):  {failed}")
-    print(f"Already local (kept):  {skipped_already_local}")
-    print(f"No photo_url (kept):   {skipped_null}")
-    print(f"Total records:         {len(people)}")
+    print(f"Downloaded this run:        {succeeded}")
+    print(f"Newly failed (set to null): {failed}")
+    print(f"Already local on disk:      {skipped_already_local}")
+    print(f"Known-failed, not retried:  {skipped_known_failed}")
+    print(f"No photo_url:               {skipped_null}")
+    print(f"Total records:              {len(people)}")
+    print(f"\nTotal confirmed-failed ids on record: {len(failed_ids)}")
+    print("Pass --retry-failed to force a fresh attempt on those.")
 
 
 if __name__ == "__main__":
