@@ -237,3 +237,126 @@ scope export made a naive side-by-side two-column layout badly lopsided
 panel to 6 directly-visible stories and folds the rest behind the same
 `<details class="chart-table-toggle">` idiom the rest of this page already
 uses for bulky tables, rather than rendering an unbounded list flat.
+
+---
+
+[2026-08-01] - `about.html`/`stories.html` were dead nav links (real 404s) on every page
+
+## Problem
+Every page's header nav, CTA buttons, and footer "Views"/"Explore" columns
+link to `about.html` and `stories.html`, but a headless-browser QA pass
+confirmed both were genuine 404s — neither file had ever been built, even
+though `index.html`'s hero CTA ("View all stories") and footer ("Methodology")
+already promised them, and `ces.html`/`people.html`/`trends.html`/
+`repost.html` all shipped nav links to both.
+
+## Root Cause
+Not a code bug — a build-sequencing gap. README.md's own routing table
+tracked both as "Not yet built" from the first pass onward; every
+subsequent pass built its own page but never circled back to these two.
+
+## Solution
+Built both, following this site's established copy-paste-header/footer,
+`js/utils.js`-first convention exactly (no templating, matching
+`ces.html`/`people.html`/`trends.html`/`repost.html`):
+- `stories.html` + `js/stories.js` — the full, filterable archive of all
+  193 `data/stories.json` records (index.html's "Latest coverage" section
+  is only the most recent observed day, not the archive that page's own
+  "View all stories" button promises). Scope chips, sentiment chips,
+  free-text search (person/title), and a sort select, all filtering the
+  one already-fetched array client-side; reuses `storyRowHtml`/
+  `setupShareButtons` unchanged from `js/utils.js`.
+- `about.html` + `js/about.js` — what the dashboard is, the two real data
+  sources (the SNF Agora directory scrape for the roster, Meltwater for
+  mentions — see `agora_media/docs/architecture.md`), the honesty
+  conventions this site holds itself to (backfill not a daily feed,
+  unresolved sentiment shown as its own bucket, no fabricated zeros/dead
+  buttons), a small live stat strip pulled from `data/meta.json` rather
+  than hand-typed counts, and a 6-card "Views" explainer (Overview,
+  People, Stories, Trends, Repost, CES) reusing the inherited-but-unused
+  `.activity-grid`/`.activity-card` (§14, "kept for contract parity").
+- Both call `initScrollReveal(...)` themselves for the reveal-gated
+  classes they render (`.story-row` on `stories.html`; `.kpi-tile`/
+  `.activity-card` on `about.html`) — this is the third time this
+  mandatory-call rule has come up (`repost.js`, `trends.js`, now these
+  two); see the two "rendered permanently invisible" entries above for why
+  skipping it silently leaves everything at `opacity: 0`.
+- No changes to `css/style.css` or `js/utils.js` — both pages render
+  entirely from the existing shared class/helper contract.
+
+Verified: both pages return `200` (previously `404`) via `curl`, and a
+Playwright pass confirmed real data renders (193/193 stories, 4/4 stat
+tiles, 6/6 view cards), zero console errors, and every reveal-gated
+element reaches `opacity: 1` after scrolling into view (none stuck at the
+`.js-reveal` default).
+
+## Notes
+README.md's routing table now marks both `**Built**`; update it again if
+either page is ever reworked enough to change its root-element contract
+(`#stories-root`/`#about-root`).
+
+---
+
+[2026-08-01] - Every profile photo broken (hotlinked directly to JHU's server, which 403s)
+
+## Problem
+`data/people.json`'s `photo_url` fields point directly at
+`https://snfagora.jhu.edu/wp-content/uploads/...`. Confirmed via `curl -I`
+that JHU's server (fronted by Cloudflare) returns a real `403 Forbidden` to
+a large fraction of these requests — not a sandbox artifact, not fixable by
+changing request headers (tried a realistic browser `User-Agent`, a
+`Referer` matching the directory page, `Googlebot`'s UA, and HTTP/1.1 vs
+HTTP/2 — same `403` "Attention Required" Cloudflare challenge page every
+time; a full headless-Chromium request hit the identical block). Every
+avatar on the dashboard rendered broken as a result.
+
+## Root Cause
+The upstream export (`agora_media/scripts/export_dashboard_data.py`) copies
+`photo_url` straight from the SNF Agora directory scrape without ever
+re-hosting the image, so this site was hotlinking a third-party server that
+does not allow it. Separately, the block itself is not a simple static
+"external referrers forbidden" rule: repeated single-URL requests spaced
+1-45 seconds apart stayed blocked, but a slow, spaced-out (~2s/request)
+pass over the full roster recovered roughly a quarter of the photos that a
+rapid back-to-back pass over the same URLs had missed — consistent with a
+rate/reputation-based Cloudflare rule rather than a hard per-URL block, and
+meaning no single client-side fix (headers, retries, backoff) reliably
+reaches 100%.
+
+## Solution
+1. Added `scripts/download_photos.py`: reads `data/people.json`,
+   downloads every non-null `photo_url` to `images/people/<id>.<ext>` (stdlib
+   `urllib`, realistic browser `User-Agent`, 20s timeout, one bad photo
+   logged and skipped rather than aborting the run), and rewrites that
+   record's `photo_url` to the local relative path on success. On failure,
+   sets `photo_url` to `null` rather than leaving a value just confirmed
+   dead — `avatarHtml()` in `js/utils.js` already renders a clean initials
+   tile for `null` (verified: no changes needed to that function, it was
+   already correct).
+2. Ran it for real against the live 102-record `data/people.json` (100
+   tracked people with a photo_url + org + 1 unmatched-person, both already
+   `null`): first pass got 11/100 downloaded. A slower, ~2s-spaced retry
+   pass over the 89 still-null records (recovering each one's original URL
+   from git history, since the first pass had already overwritten failures
+   to `null`) recovered 15 more, for **26 of 100 downloaded successfully,
+   74 confirmed broken (`null`, honest fallback)**. Verified every
+   downloaded file is a real, valid, non-empty image (`file`, size check —
+   zero corrupt/empty files) and, via Playwright on `people.html`, that all
+   26 `<img>` avatars load at their real dimensions and all 76 without a
+   photo render the clean initials-tile fallback with zero broken-image
+   icons and zero console errors.
+3. Documented the operational gotcha in README.md: refreshing `data/` from
+   the upstream export re-introduces the raw JHU URLs and undoes this
+   patch — `scripts/download_photos.py` must be re-run after every such
+   refresh.
+
+## Notes
+`scripts/download_photos.py` is idempotent (skips any `photo_url` already
+under `images/people/...`), so re-running it periodically is safe and may
+recover a few more of the 74 over time, but nothing observed suggests any
+client-side technique reaches 100% from a given IP — this looks like a
+standing constraint of JHU's Cloudflare configuration, not a bug in this
+script. If a future pass needs the missing photos specifically, the
+practical path is re-running this same script from a different network
+(e.g. the production deploy host, once it exists) rather than debugging
+this one further.
