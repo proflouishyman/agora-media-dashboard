@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SNF Agora Institute | Media Monitor — Trends</title>
+<meta name="description" content="Weekly volume, reach, and sentiment trends for SNF Agora Institute media coverage — top sources, source types, and a per-person coverage heatmap.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script>
+  document.documentElement.classList.add('js-reveal');
+</script>
+<script src="js/utils.js" defer></script>
+<script src="js/trends.js" defer></script>
+</head>
+<body>
+
+<a class="skip-link" href="#main">Skip to main content</a>
+
+<header id="site-header" class="site-header">
+  <div class="site-header__inner container">
+    <a class="site-header__brand" href="index.html">
+      <span class="site-header__superlabel">SNF Agora Institute · Johns Hopkins</span>
+      <span class="site-header__wordmark">Media Monitor</span>
+    </a>
+    <nav class="site-header__nav" aria-label="Primary">
+      <a class="site-header__link" href="index.html">Overview</a>
+      <a class="site-header__link" href="people.html">People</a>
+      <a class="site-header__link" href="stories.html">Stories</a>
+      <a class="site-header__link site-header__link--active" href="trends.html">Trends</a>
+      <a class="site-header__link" href="repost.html">Repost</a>
+      <a class="site-header__link" href="ces.html">CES</a>
+      <a class="site-header__link" href="about.html">About</a>
+    </nav>
+    <a class="site-header__cta btn btn--pill" href="repost.html">Repost today<span class="btn__arrow">→</span></a>
+    <button class="site-header__toggle" type="button" aria-expanded="false" aria-controls="site-header-nav" aria-label="Toggle navigation menu"></button>
+  </div>
+</header>
+
+<main id="main">
+
+  <div class="page-head container">
+    <p class="page-head__eyebrow eyebrow eyebrow--teal">Trends</p>
+    <h1 class="page-head__title">Volume, reach, and sentiment over the window</h1>
+    <p class="page-head__intro" id="page-intro">Loading the latest snapshot…</p>
+  </div>
+
+  <div class="container">
+    <div class="filter-row" id="scope-filter-row">
+      <span class="eyebrow" style="margin-right:0.25rem;">Scope</span>
+      <a class="filter-chip" id="scope-chip-all" href="trends.html">All Institute</a>
+      <a class="filter-chip" id="scope-chip-ces" href="trends.html?scope=ces">CES Only</a>
+    </div>
+  </div>
+
+  <section id="trends-root" aria-label="Trends">
+
+    <div class="container">
+      <div class="page-head" style="padding-block: 2rem 1rem;">
+        <p class="page-head__eyebrow eyebrow eyebrow--teal">Weekly volume</p>
+        <h2 class="page-head__title" style="font-size: var(--fs-h2);">Mentions per week</h2>
+        <p class="page-head__intro">Every ISO week across the window, zero-filled — five complete weeks so far.</p>
+      </div>
+      <div id="chart-weekly-volume" data-loading="true"></div>
+    </div>
+
+    <div class="container">
+      <div class="page-head" style="padding-block: 2.5rem 1rem;">
+        <p class="page-head__eyebrow eyebrow eyebrow--teal">Weekly reach</p>
+        <h2 class="page-head__title" style="font-size: var(--fs-h2);">Reach proxy per week</h2>
+        <p class="page-head__intro">A syndication proxy (summed similar-mention counts), not impressions — plotted as its own chart, never a second axis on the volume chart above.</p>
+      </div>
+      <div id="chart-weekly-reach" data-loading="true"></div>
+    </div>
+
+    <section class="section-divider section-divider--light" aria-labelledby="sentiment-weeks-head">
+      <div class="section-divider__inner container">
+        <p class="section-divider__eyebrow eyebrow eyebrow--teal" id="sentiment-weeks-head">Sentiment by week</p>
+        <h2 class="section-divider__title">How entity sentiment has moved week to week</h2>
+        <p class="section-divider__intro">Each week's diverging bar, with that week's unresolved share tracked separately beneath it — unresolved is never folded into neutral.</p>
+        <div id="chart-sentiment-weeks" data-loading="true" style="margin-top: 2rem; max-width: 720px;"></div>
+      </div>
+    </section>
+
+    <div class="container">
+      <div class="page-head" style="padding-block: 2.5rem 1rem;">
+        <p class="page-head__eyebrow eyebrow eyebrow--teal">Top sources</p>
+        <h2 class="page-head__title" style="font-size: var(--fs-h2);">Where the coverage is coming from</h2>
+        <p class="page-head__intro">Top 8 sources by mention count, folded to a single "Other" row beyond that — never a 9th generated hue.</p>
+      </div>
+      <div id="chart-top-sources" data-loading="true" style="max-width: 640px;"></div>
+    </div>
+
+    <div class="container">
+      <div class="page-head" style="padding-block: 2.5rem 1rem;">
+        <p class="page-head__eyebrow eyebrow eyebrow--teal">Source types</p>
+        <h2 class="page-head__title" style="font-size: var(--fs-h2);">Online news, social, blog — and what didn't resolve</h2>
+        <p class="page-head__intro">Source type is joined from the raw-document record where the URL matches; it doesn't always join cleanly, so "unresolved" is shown honestly rather than guessed.</p>
+      </div>
+      <div id="chart-source-types" data-loading="true" style="max-width: 720px;"></div>
+    </div>
+
+    <div class="container">
+      <div class="page-head" style="padding-block: 2.5rem 1rem;">
+        <p class="page-head__eyebrow eyebrow eyebrow--teal">Coverage heatmap</p>
+        <h2 class="page-head__title" style="font-size: var(--fs-h2);">Who's covered, and in which weeks</h2>
+        <p class="page-head__intro" id="heatmap-intro">The most-covered people in this view, one row each, darker cells meaning more mentions that week.</p>
+      </div>
+      <div id="chart-people-heatmap" data-loading="true"></div>
+    </div>
+
+    <div class="container">
+      <div class="page-head" style="padding-block: 2.5rem 1rem;">
+        <p class="page-head__eyebrow eyebrow eyebrow--teal">Week over week</p>
+        <h2 class="page-head__title" style="font-size: var(--fs-h2);">The full weekly table</h2>
+        <p class="page-head__intro">The honest fallback for every chart above, in one place — this table is never gated behind a chart.</p>
+      </div>
+      <div id="wow-table" data-loading="true" style="overflow-x:auto;"></div>
+    </div>
+
+  </section>
+
+</main>
+
+<footer id="site-footer" class="site-footer">
+  <div class="site-footer__inner container">
+    <div class="site-footer__brand">SNF Agora Institute Media Monitor</div>
+
+    <div class="site-footer__col">
+      <p class="site-footer__col-head eyebrow eyebrow--sky">Explore</p>
+      <a class="site-footer__link" href="people.html">People</a>
+      <a class="site-footer__link" href="stories.html">Stories</a>
+      <a class="site-footer__link" href="trends.html">Trends</a>
+      <a class="site-footer__link" href="repost.html">Repost</a>
+    </div>
+
+    <div class="site-footer__col">
+      <p class="site-footer__col-head eyebrow eyebrow--sky">Views</p>
+      <a class="site-footer__link" href="ces.html">Center on Economy and Society</a>
+      <a class="site-footer__link" href="about.html">Methodology</a>
+    </div>
+
+    <div class="site-footer__col">
+      <p class="site-footer__col-head eyebrow eyebrow--sky">Data</p>
+      <span class="site-footer__link" id="footer-generated-at">Generated —</span>
+    </div>
+
+    <p class="site-footer__attribution">This dashboard tracks press and social mentions of people affiliated with the <a class="site-footer__attribution-link" href="https://snfagora.jhu.edu">SNF Agora Institute at Johns Hopkins University</a>. It is an internal monitoring tool, not a public claim about reach or impact — see the Methodology page for what each number does and does not mean.</p>
+    <p class="site-footer__legal">© 2026 SNF Agora Institute. Internal use.</p>
+  </div>
+</footer>
+
+</body>
+</html>

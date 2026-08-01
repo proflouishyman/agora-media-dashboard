@@ -1262,3 +1262,42 @@ table { border-collapse: collapse; width: 100%; }
 
 .coverage-band__head { font-family: var(--font-label); font-size: 0.8125rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--blue); padding-top: 2rem; }
 .coverage-band__head--muted { color: var(--ink); opacity: 0.55; }
+
+/* --------------------------------------------------------------------------
+   20. Trends page primitives (NEW — trends.html only)
+   -------------------------------------------------------------------------- */
+
+/* Per-week diverging sentiment bars (#chart-sentiment-weeks): a small label
+   above each week's reused .sentiment-bar (see §19.4) instead of repeating
+   the shared legend on every row. */
+.trends-week-rows { display: flex; flex-direction: column; gap: 1.25rem; }
+.trends-week-row__label {
+  font-family: var(--font-label);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--blue);
+  opacity: 0.75;
+  margin-bottom: 0.4rem;
+}
+
+/* Coverage heatmap (#chart-people-heatmap): numeric cells reuse .data-table's
+   layout/border rules; this modifier only tightens alignment for a grid of
+   short numbers (background color is set inline per cell by trends.js,
+   mapped to the validated --seq-1..7 ramp). */
+.data-table--heatmap th.heat-col,
+.data-table--heatmap td.heat-cell {
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+  min-width: 2.75rem;
+}
+.data-table--heatmap tbody th {
+  text-transform: none;
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: var(--fs-small);
+  color: var(--navy);
+  opacity: 1;
+  white-space: nowrap;
+}
+.data-table--heatmap tbody th a:hover { color: var(--blue); }

@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SNF Agora Institute | Media Monitor — Repost</title>
+<meta name="description" content="One-click X, Bluesky, and LinkedIn copy for the day's curated pick, plus every shareable story in the archive — ready for Agora's own channels.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script>
+  document.documentElement.classList.add('js-reveal');
+</script>
+<script src="js/utils.js" defer></script>
+<script src="js/repost.js" defer></script>
+</head>
+<body>
+
+<a class="skip-link" href="#main">Skip to main content</a>
+
+<header id="site-header" class="site-header">
+  <div class="site-header__inner container">
+    <a class="site-header__brand" href="index.html">
+      <span class="site-header__superlabel">SNF Agora Institute · Johns Hopkins</span>
+      <span class="site-header__wordmark">Media Monitor</span>
+    </a>
+    <nav class="site-header__nav" aria-label="Primary">
+      <a class="site-header__link" href="index.html">Overview</a>
+      <a class="site-header__link" href="people.html">People</a>
+      <a class="site-header__link" href="stories.html">Stories</a>
+      <a class="site-header__link" href="trends.html">Trends</a>
+      <a class="site-header__link site-header__link--active" href="repost.html">Repost</a>
+      <a class="site-header__link" href="ces.html">CES</a>
+      <a class="site-header__link" href="about.html">About</a>
+    </nav>
+    <a class="site-header__cta btn btn--pill" href="repost.html">Repost today<span class="btn__arrow">→</span></a>
+    <button class="site-header__toggle" type="button" aria-expanded="false" aria-controls="site-header-nav" aria-label="Toggle navigation menu"></button>
+  </div>
+</header>
+
+<main id="main">
+
+  <div class="page-head container">
+    <p class="page-head__eyebrow eyebrow eyebrow--teal">Repost</p>
+    <h1 class="page-head__title">Share it — the caption's already written</h1>
+    <p class="page-head__intro">One-click X and Bluesky links, and always a Copy button, so posting from Agora's own channels never means retyping a headline.</p>
+  </div>
+
+  <section id="repost-root" aria-label="Repost">
+
+    <div class="container">
+      <div class="page-head" style="padding-block: 1rem 1rem;">
+        <p class="page-head__eyebrow eyebrow eyebrow--teal" id="curated-head">Curated picks</p>
+        <h2 class="page-head__title" style="font-size: var(--fs-h2);">Today's picks, ready to post</h2>
+        <p class="page-head__intro">One per digest day — the story judged most worth sharing from Agora's own channels, with rationale, not just the highest-reach headline.</p>
+      </div>
+      <div id="repost-curated" data-loading="true" aria-labelledby="curated-head">
+        <!-- JS-rendered: data/social.json picks, newest first, scoped -->
+      </div>
+    </div>
+
+    <section class="section-divider section-divider--light" aria-labelledby="adhoc-head">
+      <div class="section-divider__inner container">
+        <p class="section-divider__eyebrow eyebrow eyebrow--teal" id="adhoc-head">Post any story</p>
+        <h2 class="section-divider__title">Every shareable story in the archive</h2>
+        <p class="section-divider__intro">Newest first. Compose links are built the moment you click — nothing here is pre-generated or stale. Stories with no captured link or no captured text simply aren't shareable, and aren't listed.</p>
+      </div>
+    </section>
+
+    <div class="container">
+      <div class="filter-row" id="adhoc-filter-row">
+        <span class="eyebrow" style="margin-right:0.25rem;">Scope</span>
+        <button type="button" class="filter-chip is-active" id="adhoc-scope-all" data-scope-filter="all">All Institute</button>
+        <button type="button" class="filter-chip" id="adhoc-scope-ces" data-scope-filter="ces">CES Only</button>
+        <input type="search" id="adhoc-search" placeholder="Filter by person or title…" aria-label="Filter stories by person or title" style="margin-left:auto; min-width: 220px;">
+      </div>
+      <p class="empty-state" id="adhoc-count" style="padding-block: 0.75rem 0;"></p>
+      <div id="repost-adhoc" data-loading="true">
+        <!-- JS-rendered: data/stories.json filtered to share !== null -->
+      </div>
+    </div>
+
+  </section>
+
+</main>
+
+<footer id="site-footer" class="site-footer">
+  <div class="site-footer__inner container">
+    <div class="site-footer__brand">SNF Agora Institute Media Monitor</div>
+
+    <div class="site-footer__col">
+      <p class="site-footer__col-head eyebrow eyebrow--sky">Explore</p>
+      <a class="site-footer__link" href="people.html">People</a>
+      <a class="site-footer__link" href="stories.html">Stories</a>
+      <a class="site-footer__link" href="trends.html">Trends</a>
+      <a class="site-footer__link" href="repost.html">Repost</a>
+    </div>
+
+    <div class="site-footer__col">
+      <p class="site-footer__col-head eyebrow eyebrow--sky">Views</p>
+      <a class="site-footer__link" href="ces.html">Center on Economy and Society</a>
+      <a class="site-footer__link" href="about.html">Methodology</a>
+    </div>
+
+    <div class="site-footer__col">
+      <p class="site-footer__col-head eyebrow eyebrow--sky">Data</p>
+      <span class="site-footer__link" id="footer-generated-at">Generated —</span>
+    </div>
+
+    <p class="site-footer__attribution">This dashboard tracks press and social mentions of people affiliated with the <a class="site-footer__attribution-link" href="https://snfagora.jhu.edu">SNF Agora Institute at Johns Hopkins University</a>. It is an internal monitoring tool, not a public claim about reach or impact — see the Methodology page for what each number does and does not mean.</p>
+    <p class="site-footer__legal">© 2026 SNF Agora Institute. Internal use.</p>
+  </div>
+</footer>
+
+</body>
+</html>
