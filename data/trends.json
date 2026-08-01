@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-01T14:20:12-04:00",
+  "generated_at": "2026-08-01T14:29:37-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-07-31"
+    "end": "2026-08-01"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 193,
-        "in_digest": 112,
-        "reach_proxy": 374,
-        "people_covered": 37,
+        "mentions": 194,
+        "in_digest": 113,
+        "reach_proxy": 375,
+        "people_covered": 38,
         "people_tracked": 100,
-        "sources": 92,
+        "sources": 93,
         "negative": 5
       },
       "deltas": {
@@ -247,6 +247,13 @@
           "reach": 37,
           "in_digest": 3,
           "observed": true
+        },
+        {
+          "date": "2026-08-01",
+          "count": 1,
+          "reach": 1,
+          "in_digest": 1,
+          "observed": true
         }
       ],
       "weekly": [
@@ -304,15 +311,15 @@
         },
         {
           "week_start": "2026-07-27",
-          "count": 39,
-          "reach": 156,
-          "in_digest": 24,
-          "people": 15,
+          "count": 40,
+          "reach": 157,
+          "in_digest": 25,
+          "people": 16,
           "sentiment": {
             "positive": 8,
             "neutral": 21,
             "negative": 0,
-            "unknown": 10
+            "unknown": 11
           }
         }
       ],
@@ -320,7 +327,7 @@
         "positive": 41,
         "neutral": 110,
         "negative": 5,
-        "unknown": 37
+        "unknown": 38
       },
       "top_people": [
         {
@@ -445,15 +452,15 @@
         },
         {
           "source": "Other",
-          "count": 106,
-          "reach": 278,
+          "count": 107,
+          "reach": 279,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 94
+          "count": 95
         },
         {
           "source_type": "social network",
@@ -757,6 +764,16 @@
           "total": 1
         },
         {
+          "row_label": "Eliot Cohen",
+          "person_id": "eliot-cohen",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
           "row_label": "Emily White",
           "person_id": "emily-white",
           "is_ces": false,
@@ -853,8 +870,8 @@
           "positive": 18,
           "neutral": 74,
           "negative": 2,
-          "unknown": 0,
-          "total": 94
+          "unknown": 1,
+          "total": 95
         },
         {
           "row_label": "social network",
@@ -1674,6 +1691,13 @@
         },
         {
           "date": "2026-07-31",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
+          "observed": true
+        },
+        {
+          "date": "2026-08-01",
           "count": 0,
           "reach": 0,
           "in_digest": 0,
