@@ -105,12 +105,21 @@ function repostCardHtml(pick) {
     `;
   }).join('');
 
+  // punchy_title is the hand-authored headline; pull_quote is a verbatim
+  // excerpt from the source story (both real per-story data — see the
+  // export contract's judgment call #1: punchy_title is curated per
+  // mention, not templated). Neither is guaranteed non-empty, so each
+  // renders only when present rather than showing an empty block.
+  const quoteHtml = pick.pull_quote
+    ? `<blockquote class="repost-card__quote">${escHtml(pick.pull_quote)}</blockquote>`
+    : '';
+
   return `
     <div class="repost-card" data-pick="${escAttr(pick.digest_date)}">
       <div class="repost-card__head">
         <p class="eyebrow eyebrow--teal">${escHtml(formatDateLong(pick.digest_date))}${pick.is_ces ? ' <span class="tag tag--ces">CES</span>' : ''}</p>
-        <p class="repost-card__headline">${escHtml(pick.headline)}</p>
-        ${pick.rationale ? `<p class="repost-card__rationale">${escHtml(pick.rationale)}</p>` : ''}
+        <p class="repost-card__headline">${escHtml(pick.punchy_title)}</p>
+        ${quoteHtml}
         ${pick.story_url ? `<p class="repost-card__source"><a href="${escAttr(pick.story_url)}" target="_blank" rel="noopener">Read the source ↗</a></p>` : ''}
       </div>
       <div class="repost-tabs" role="tablist">${tabs}</div>

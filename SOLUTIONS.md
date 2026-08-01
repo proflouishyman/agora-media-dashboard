@@ -130,3 +130,53 @@ none of its chart containers use any of the gated classes above — worth
 re-checking before reusing this pattern on `people.html`/`stories.html`,
 which will render `.person-card`/`.story-row` and do need the
 `initScrollReveal()` call.
+
+---
+
+[2026-08-01] - Repost curated picks rendered as a permanent empty state
+
+## Problem
+`repost.html`'s "Curated picks" section always rendered the "No curated
+picks have been logged for this view yet" empty-state panel, even though
+`js/repost.js`'s `renderCuratedPicks()`/`repostCardHtml()` were fully built
+and correct against the documented `social.json` contract.
+
+## Root Cause
+Not a code bug: `data/social.json` in this repo was a stale stub with
+`picks: []` (0 of 0), copied over before the upstream `agora_media` pipeline
+had ever produced real `social_posts` rows. The rendering code had nothing
+to render. Separately, once real data arrived, the curated card's copy was
+mislabeled: `pick.rationale` (aliased to the real `pull_quote` field) is a
+verbatim excerpt lifted from the source story, not an editor's rationale for
+the pick, and it was rendered as generic italic text indistinguishable from
+a caption.
+
+## Solution
+1. Copied the refreshed `meta.json`/`people.json`/`social.json`/
+   `stories.json`/`trends.json` from
+   `/Users/louishyman/coding/agora_media/data/dashboard_export/` into
+   `data/` (23 real curated picks, up from 0).
+2. In `js/repost.js`'s `repostCardHtml()`, switched to the canonical
+   `punchy_title`/`pull_quote` field names (both real per-story data; see
+   the upstream export contract) and gave the pull quote its own
+   `<blockquote class="repost-card__quote">` treatment (left accent rule +
+   serif italic) instead of reusing the generic `.repost-card__rationale`
+   paragraph, so it visually reads as a quotation. Renders only when
+   `pull_quote` is present — never an empty quote block or a fake
+   placeholder — matching the existing `pick.story_url` omission pattern
+   right below it.
+3. The one-click X/Bluesky links were already correct: `social.json`'s
+   `posts[].compose_url` is pre-built server-side by
+   `agora_media/scripts/social_links.py`'s `quote()`-based encoder, and
+   `repostCardHtml()` already rendered it as a real `<a href>` — verified
+   by re-deriving the same rendering logic in a standalone Node script
+   against all 23 picks with zero `undefined` leaks.
+
+## Notes
+Left `js/index.js`'s own `renderTodayRepost()` and the
+`.repost-card__rationale` CSS rule untouched — that widget still uses the
+old alias field names and its own card instance, out of scope for this fix.
+`data/social.json` never has a `linkedin` entry in any pick's `posts[]` in
+this backfill (only `x`/`bluesky`); `repostCardHtml()`'s LinkedIn branch is
+dead code today but harmless and left in place since it's not a symptom of
+this bug.

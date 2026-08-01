@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T13:31:43-04:00",
+  "generated_at": "2026-08-01T13:46:48-04:00",
   "window": {
     "start": "2026-07-02",
     "end": "2026-07-31"
@@ -474,7 +474,797 @@
         99,
         74,
         51
-      ]
+      ],
+      "person_sentiment_crosstab": [
+        {
+          "row_label": "SNF Agora Institute",
+          "person_id": "snf-agora-institute",
+          "is_ces": false,
+          "positive": 4,
+          "neutral": 6,
+          "negative": 0,
+          "unknown": 25,
+          "total": 35
+        },
+        {
+          "row_label": "Anne Applebaum",
+          "person_id": "anne-applebaum",
+          "is_ces": false,
+          "positive": 5,
+          "neutral": 1,
+          "negative": 3,
+          "unknown": 12,
+          "total": 21
+        },
+        {
+          "row_label": "Yascha Mounk",
+          "person_id": "yascha-mounk",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 4,
+          "negative": 1,
+          "unknown": 9,
+          "total": 14
+        },
+        {
+          "row_label": "Louis Hyman",
+          "person_id": "louis-hyman",
+          "is_ces": true,
+          "positive": 2,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 10,
+          "total": 12
+        },
+        {
+          "row_label": "Martha S. Jones",
+          "person_id": "martha-s-jones",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 10,
+          "total": 10
+        },
+        {
+          "row_label": "Sean Carroll",
+          "person_id": "sean-carroll",
+          "is_ces": false,
+          "positive": 2,
+          "neutral": 4,
+          "negative": 0,
+          "unknown": 4,
+          "total": 10
+        },
+        {
+          "row_label": "Yuen Yuen Ang",
+          "person_id": "yuen-yuen-ang",
+          "is_ces": true,
+          "positive": 2,
+          "neutral": 1,
+          "negative": 0,
+          "unknown": 7,
+          "total": 10
+        },
+        {
+          "row_label": "Hahrie Han",
+          "person_id": "hahrie-han",
+          "is_ces": false,
+          "positive": 2,
+          "neutral": 2,
+          "negative": 0,
+          "unknown": 5,
+          "total": 9
+        },
+        {
+          "row_label": "Ruth Braunstein",
+          "person_id": "ruth-braunstein",
+          "is_ces": false,
+          "positive": 3,
+          "neutral": 1,
+          "negative": 0,
+          "unknown": 5,
+          "total": 9
+        },
+        {
+          "row_label": "David Park",
+          "person_id": "david-park",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 1,
+          "negative": 0,
+          "unknown": 7,
+          "total": 8
+        },
+        {
+          "row_label": "Eugene Scott",
+          "person_id": "eugene-scott",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 1,
+          "negative": 0,
+          "unknown": 5,
+          "total": 6
+        },
+        {
+          "row_label": "Max Cohen",
+          "person_id": "max-cohen",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 6,
+          "total": 6
+        },
+        {
+          "row_label": "Henry Farrell",
+          "person_id": "henry-farrell",
+          "is_ces": true,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 5,
+          "total": 5
+        },
+        {
+          "row_label": "Mara Karlin",
+          "person_id": "mara-karlin",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 1,
+          "negative": 0,
+          "unknown": 3,
+          "total": 4
+        },
+        {
+          "row_label": "Scott Warren",
+          "person_id": "scott-warren",
+          "is_ces": false,
+          "positive": 1,
+          "neutral": 1,
+          "negative": 0,
+          "unknown": 2,
+          "total": 4
+        },
+        {
+          "row_label": "Lilliana Mason",
+          "person_id": "lilliana-mason",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 1,
+          "negative": 0,
+          "unknown": 2,
+          "total": 3
+        },
+        {
+          "row_label": "Amy Binder",
+          "person_id": "amy-binder",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 1,
+          "negative": 0,
+          "unknown": 1,
+          "total": 2
+        },
+        {
+          "row_label": "Denise Dresser",
+          "person_id": "denise-dresser",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 1,
+          "negative": 0,
+          "unknown": 1,
+          "total": 2
+        },
+        {
+          "row_label": "Leah Wright",
+          "person_id": "leah-wright",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 2,
+          "total": 2
+        },
+        {
+          "row_label": "Simon Halliday",
+          "person_id": "simon-halliday",
+          "is_ces": true,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 2,
+          "total": 2
+        },
+        {
+          "row_label": "Steven Teles",
+          "person_id": "steven-teles",
+          "is_ces": true,
+          "positive": 1,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 2
+        },
+        {
+          "row_label": "Thomas Cudjoe",
+          "person_id": "thomas-cudjoe-m-d",
+          "is_ces": false,
+          "positive": 1,
+          "neutral": 1,
+          "negative": 0,
+          "unknown": 0,
+          "total": 2
+        },
+        {
+          "row_label": "Adam Seth Levine",
+          "person_id": "adam-seth-levine",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "André Nogueira",
+          "person_id": "andre-nogueira",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Angus Burgin",
+          "person_id": "angus-burgin",
+          "is_ces": true,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Christopher Krupenye",
+          "person_id": "christopher-krupenye",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Dylan Selterman",
+          "person_id": "dylan-selterman",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 1,
+          "negative": 0,
+          "unknown": 0,
+          "total": 1
+        },
+        {
+          "row_label": "Eliot  Cohen",
+          "person_id": "eliot-cohen-2",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Emily White",
+          "person_id": "emily-white",
+          "is_ces": false,
+          "positive": 1,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 0,
+          "total": 1
+        },
+        {
+          "row_label": "Felix Maradiaga",
+          "person_id": "felix-maradiaga",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 1,
+          "unknown": 0,
+          "total": 1
+        },
+        {
+          "row_label": "Glory Liu",
+          "person_id": "glory-m-liu",
+          "is_ces": true,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Jacob Roundtree",
+          "person_id": "jacob-roundtree",
+          "is_ces": true,
+          "positive": 0,
+          "neutral": 1,
+          "negative": 0,
+          "unknown": 0,
+          "total": 1
+        },
+        {
+          "row_label": "Johnnie Moore",
+          "person_id": "johnnie-moore",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Ling Chen",
+          "person_id": "ling-chen",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Mary McBride",
+          "person_id": "mary-mcbride",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Matthew Denney",
+          "person_id": "matthew-denney",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Trevor Brown",
+          "person_id": "trevor-brown",
+          "is_ces": true,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        }
+      ],
+      "source_type_sentiment_crosstab": [
+        {
+          "row_label": "online news",
+          "positive": 12,
+          "neutral": 10,
+          "negative": 2,
+          "unknown": 70,
+          "total": 94
+        },
+        {
+          "row_label": "social network",
+          "positive": 9,
+          "neutral": 14,
+          "negative": 0,
+          "unknown": 25,
+          "total": 48
+        },
+        {
+          "row_label": "blog",
+          "positive": 1,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 8,
+          "total": 9
+        },
+        {
+          "row_label": "unresolved",
+          "positive": 2,
+          "neutral": 5,
+          "negative": 3,
+          "unknown": 32,
+          "total": 42
+        }
+      ],
+      "sentiment_examples": {
+        "negative": {
+          "stories": [
+            {
+              "id": 191,
+              "person": "Anne Applebaum",
+              "person_id": "anne-applebaum",
+              "is_ces": false,
+              "title": "No text captured (matched: Agora|Anne Applebaum|Hahrie Han|Hopkins|Peter Pomerantsev|SNF|SNF Agora|SNF Agora institute) -- FLAG: entity-level sentiment negative for both Applebaum and Pomerantsev despite no captured text",
+              "url": null,
+              "source": "Twitter",
+              "date": "2026-07-26"
+            },
+            {
+              "id": 85,
+              "person": "Felix Maradiaga",
+              "person_id": "felix-maradiaga",
+              "is_ces": false,
+              "title": "'Ditadura familiar plena': oposição e analista criticam decisão de Ortega de cancelar eleições na Nicarágua",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/21/ditadura-familiar-plena-por-que-daniel-ortega-cancelou-eleicoes-na-nicaragua.ghtml",
+              "source": "G1",
+              "date": "2026-07-21"
+            },
+            {
+              "id": 99,
+              "person": "Anne Applebaum",
+              "person_id": "anne-applebaum",
+              "is_ces": false,
+              "title": "Bilderberg, o encontro dos 'Masters of the Universe' (passing namedrop among journalists, not substantively about her work)",
+              "url": "https://24noticias.sapo.pt/opiniao/artigos/bilderberg-o-encontro-dos-masters-of-the-universe",
+              "source": "SAPO",
+              "date": "2026-07-18"
+            },
+            {
+              "id": 74,
+              "person": "Yascha Mounk",
+              "person_id": "yascha-mounk",
+              "is_ces": false,
+              "title": "Twitter discussion of Mounk's book 'The Identity Trap' (Spanish edition)",
+              "url": null,
+              "source": "Twitter",
+              "date": "2026-07-18"
+            },
+            {
+              "id": 51,
+              "person": "Anne Applebaum",
+              "person_id": "anne-applebaum",
+              "is_ces": false,
+              "title": "Social post discusses Anne Applebaum alongside other public intellectuals (Ezra Klein, Curtis Yarvin, Helen Andrews)",
+              "url": null,
+              "source": "Twitter/X",
+              "date": "2026-07-02"
+            }
+          ],
+          "top_keyphrases": [
+            {
+              "keyphrase": "analista sênior",
+              "count": 1
+            },
+            {
+              "keyphrase": "aspectos do governo",
+              "count": 1
+            },
+            {
+              "keyphrase": "atual presidente",
+              "count": 1
+            },
+            {
+              "keyphrase": "direitos humanos",
+              "count": 1
+            },
+            {
+              "keyphrase": "ditadura familiar",
+              "count": 1
+            },
+            {
+              "keyphrase": "líderes de oposição",
+              "count": 1
+            },
+            {
+              "keyphrase": "políticos da oposição exilados",
+              "count": 1
+            },
+            {
+              "keyphrase": "presidência pela oposição",
+              "count": 1
+            },
+            {
+              "keyphrase": "330 milhões de pessoas",
+              "count": 1
+            },
+            {
+              "keyphrase": "encontro dos “masters of",
+              "count": 1
+            }
+          ]
+        },
+        "positive": {
+          "stories": [
+            {
+              "id": 171,
+              "person": "Anne Applebaum",
+              "person_id": "anne-applebaum",
+              "is_ces": false,
+              "title": "'On this day in history' blog profiles Applebaum's move of LSE's Arena program to SNF Agora",
+              "url": "https://nonwhitewashedhistorytogether.wordpress.com/2026/07/31/on-july-31-in-non-whitewashed-history-together-we-learn-about-3/",
+              "source": "Non-Whitewashed History (WordPress)",
+              "date": "2026-07-31"
+            },
+            {
+              "id": 182,
+              "person": "Anne Applebaum",
+              "person_id": "anne-applebaum",
+              "is_ces": false,
+              "title": "Applebaum's own Substack post: 'One-Eyed Monsters'",
+              "url": "https://anneapplebaum.substack.com/p/one-eyed-monsters",
+              "source": "Substack",
+              "date": "2026-07-28"
+            },
+            {
+              "id": 190,
+              "person": "Ruth Braunstein",
+              "person_id": "ruth-braunstein",
+              "is_ces": false,
+              "title": "No text captured (matched: Hopkins|Johns|Ruth Braunstein|SNF Agora Institute)",
+              "url": null,
+              "source": "Twitter",
+              "date": "2026-07-26"
+            },
+            {
+              "id": 189,
+              "person": "Anne Applebaum",
+              "person_id": "anne-applebaum",
+              "is_ces": false,
+              "title": "YouTube lecture: Anne Applebaum on 'The Next Stage Is Collapse -- How Democracies Fall'",
+              "url": "https://www.youtube.com/watch?v=FsERKPBfxwI",
+              "source": "YouTube",
+              "date": "2026-07-26"
+            },
+            {
+              "id": 90,
+              "person": "Sean Carroll",
+              "person_id": "sean-carroll",
+              "is_ces": false,
+              "title": "No text captured (matched: Johns|Hopkins|Sean Carroll)",
+              "url": "https://www.reddit.com/r/philosophypodcasts/comments/1v68pm2/sean_carrolls_mindscape_361_bonnie_bassler_on_how/",
+              "source": "reddit.com",
+              "date": "2026-07-25"
+            },
+            {
+              "id": 86,
+              "person": "Sean Carroll",
+              "person_id": "sean-carroll",
+              "is_ces": false,
+              "title": "Exploring the Deep Mysteries of Physics | World Science Festival",
+              "url": "https://www.youtube.com/watch?v=-U-OLazb3eU",
+              "source": "Youtube",
+              "date": "2026-07-24"
+            },
+            {
+              "id": 98,
+              "person": "Anne Applebaum",
+              "person_id": "anne-applebaum",
+              "is_ces": false,
+              "title": "CDE Conversations with Anne Applebaum: The rise of authoritarianism and the future of democracy",
+              "url": "https://www.youtube.com/watch?v=tr_PqAJsGhU",
+              "source": "Youtube",
+              "date": "2026-07-21"
+            },
+            {
+              "id": 79,
+              "person": "SNF Agora Institute",
+              "person_id": "snf-agora-institute",
+              "is_ces": false,
+              "title": "No text captured (matched: Johns|Hopkins|SNF Agora Institute) -- LinkedIn thanks to SNF Agora for conference travel support",
+              "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7484924202827956224",
+              "source": "LinkedIn",
+              "date": "2026-07-20"
+            },
+            {
+              "id": 77,
+              "person": "Scott Warren",
+              "person_id": "scott-warren",
+              "is_ces": false,
+              "title": "No text captured (matched: Scott Warren|SNF Agora Institute|Johns|Hopkins) -- LinkedIn reaction to Scott Warren's civic-education piece",
+              "url": "https://www.linkedin.com/feed/update/urn:li:share:7485030802259591173",
+              "source": "LinkedIn",
+              "date": "2026-07-20"
+            },
+            {
+              "id": 76,
+              "person": "SNF Agora Institute",
+              "person_id": "snf-agora-institute",
+              "is_ces": false,
+              "title": "No text captured (matched: SNF Agora Institute|Johns|Hopkins) -- LinkedIn post on sharing Agora data models at a political consultants conference",
+              "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7485114161107116032",
+              "source": "LinkedIn",
+              "date": "2026-07-20"
+            },
+            {
+              "id": 59,
+              "person": "Ruth Braunstein",
+              "person_id": "ruth-braunstein",
+              "is_ces": false,
+              "title": "Ruth Braunstein named Director of the Stavros Niarchos Foundation Agora Institute at Johns Hopkins University",
+              "url": "https://baltimorefishbowl.com/stories/ruth-braunstein-named-director-of-the-stavros-niarchos-foundation-agora-institute-at-johns-hopkins-university/",
+              "source": "Baltimore Fishbowl",
+              "date": "2026-07-20"
+            },
+            {
+              "id": 66,
+              "person": "Louis Hyman",
+              "person_id": "louis-hyman",
+              "is_ces": true,
+              "title": "Inside one major school's campaign to bring conservatives to campus",
+              "url": "https://www.wnd.com/2026/07/inside-one-major-schools-campaign-bring-conservatives-campus/",
+              "source": "WND",
+              "date": "2026-07-19"
+            },
+            {
+              "id": 104,
+              "person": "SNF Agora Institute",
+              "person_id": "snf-agora-institute",
+              "is_ces": false,
+              "title": "No text captured (matched: SNF Agora Institute|Hopkins)",
+              "url": null,
+              "source": "Twitter",
+              "date": "2026-07-18"
+            },
+            {
+              "id": 131,
+              "person": "Emily White",
+              "person_id": "emily-white",
+              "is_ces": false,
+              "title": "Substack post promotes a Women's Summit panel featuring SNF Agora Fellow Emily White",
+              "url": "https://fridaypowerlunch.substack.com/p/no-show-today-remember-people-have",
+              "source": "Substack (Friday Power Lunch)",
+              "date": "2026-07-17"
+            },
+            {
+              "id": 132,
+              "person": "Steven Teles",
+              "person_id": "steven-teles",
+              "is_ces": true,
+              "title": "Glenn Loury's Substack previews a TGS Live conversation with Steven Teles",
+              "url": "https://glennloury.substack.com/p/on-the-next-tgs-live-andrew-day-on",
+              "source": "Substack (Glenn Loury)",
+              "date": "2026-07-16"
+            },
+            {
+              "id": 108,
+              "person": "Hahrie Han",
+              "person_id": "hahrie-han",
+              "is_ces": false,
+              "title": "Hahrie Han's succession as outgoing SNF Agora Institute director covered in the Braunstein announcement",
+              "url": "https://hub.jhu.edu/2026/07/16/ruth-braunstein-named-snf-agora-institute-director/",
+              "source": "JHU Hub",
+              "date": "2026-07-16"
+            },
+            {
+              "id": 107,
+              "person": "Ruth Braunstein",
+              "person_id": "ruth-braunstein",
+              "is_ces": false,
+              "title": "Sociologist Ruth Braunstein named next SNF Agora Institute director",
+              "url": "https://hub.jhu.edu/2026/07/16/ruth-braunstein-named-snf-agora-institute-director/",
+              "source": "JHU Hub",
+              "date": "2026-07-16"
+            },
+            {
+              "id": 110,
+              "person": "Louis Hyman",
+              "person_id": "louis-hyman",
+              "is_ces": true,
+              "title": "RealClearInvestigations piece on Agora's conservative-outreach campaign quotes Louis Hyman",
+              "url": "https://www.realclearinvestigations.com/articles/2026/07/15/inside_elite_universitys_campaign_to_bring_conservatives_to_campus_1194546.html",
+              "source": "RealClearInvestigations",
+              "date": "2026-07-15"
+            },
+            {
+              "id": 170,
+              "person": "Hahrie Han",
+              "person_id": "hahrie-han",
+              "is_ces": false,
+              "title": "YouTube panel video features Hahrie Han on civic power-building",
+              "url": "https://www.youtube.com/watch?v=wjaeEuws0ro",
+              "source": "YouTube",
+              "date": "2026-07-14"
+            },
+            {
+              "id": 116,
+              "person": "Yuen Yuen Ang",
+              "person_id": "yuen-yuen-ang",
+              "is_ces": true,
+              "title": "Semafor feature on a Chinese golf-course land seizure quotes Yuen Yuen Ang",
+              "url": "https://www.semafor.com/article/07/14/2026/the-man-who-stole-a-golf-course",
+              "source": "Semafor",
+              "date": "2026-07-14"
+            },
+            {
+              "id": 37,
+              "person": "Anne Applebaum",
+              "person_id": "anne-applebaum",
+              "is_ces": false,
+              "title": "Anne Applebaum is an American journalist and historian",
+              "url": "https://poland.news-pravda.com/en/poland/2026/07/05/61976.html",
+              "source": "Pravda Polska",
+              "date": "2026-07-05"
+            },
+            {
+              "id": 36,
+              "person": "SNF Agora Institute",
+              "person_id": "snf-agora-institute",
+              "is_ces": false,
+              "title": "Bluesky post quotes the SNF Agora Institute's ethnographic research project on conservatives (Wyoming/Michigan/South Carolina, with ReD Associates)",
+              "url": "https://bsky.app/profile/headdoc35.bsky.social/post/3mpvw6avmrc2h",
+              "source": "Bluesky",
+              "date": "2026-07-05"
+            },
+            {
+              "id": 41,
+              "person": "Yuen Yuen Ang",
+              "person_id": "yuen-yuen-ang",
+              "is_ces": true,
+              "title": "Insights | One-character shift, governance upgrade: why China's 15th Five-Year Plan become a global focus",
+              "url": "http://www.ecns.cn/cns-wire/2026-07-04/detail-ihffyeqp1388197.shtml",
+              "source": "ECNS.cn",
+              "date": "2026-07-04"
+            },
+            {
+              "id": 35,
+              "person": "Thomas Cudjoe",
+              "person_id": "thomas-cudjoe-m-d",
+              "is_ces": false,
+              "title": "¿Estar solos nos está enfermando más de lo que creemos?",
+              "url": "https://www.pantallazosnoticias.com.co/estar-solos-nos-esta-enfermando-mas-de-lo-que-creemos/",
+              "source": "Pantallazos Noticias",
+              "date": "2026-07-02"
+            }
+          ],
+          "top_keyphrases": [
+            {
+              "keyphrase": "democracy",
+              "count": 5
+            },
+            {
+              "keyphrase": "ancient athenian agora",
+              "count": 3
+            },
+            {
+              "keyphrase": "board of directors",
+              "count": 3
+            },
+            {
+              "keyphrase": "civic engagement",
+              "count": 3
+            },
+            {
+              "keyphrase": "civil dialogue",
+              "count": 3
+            },
+            {
+              "keyphrase": "faculty",
+              "count": 3
+            },
+            {
+              "keyphrase": "country",
+              "count": 2
+            },
+            {
+              "keyphrase": "editorial board",
+              "count": 2
+            },
+            {
+              "keyphrase": "organization",
+              "count": 2
+            },
+            {
+              "keyphrase": "aei and hopkins talk",
+              "count": 2
+            }
+          ]
+        }
+      }
     },
     "ces": {
       "totals": {
@@ -932,7 +1722,235 @@
           "count": 8
         }
       ],
-      "negative_stories": []
+      "negative_stories": [],
+      "person_sentiment_crosstab": [
+        {
+          "row_label": "Louis Hyman",
+          "person_id": "louis-hyman",
+          "is_ces": true,
+          "positive": 2,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 10,
+          "total": 12
+        },
+        {
+          "row_label": "Yuen Yuen Ang",
+          "person_id": "yuen-yuen-ang",
+          "is_ces": true,
+          "positive": 2,
+          "neutral": 1,
+          "negative": 0,
+          "unknown": 7,
+          "total": 10
+        },
+        {
+          "row_label": "Henry Farrell",
+          "person_id": "henry-farrell",
+          "is_ces": true,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 5,
+          "total": 5
+        },
+        {
+          "row_label": "Simon Halliday",
+          "person_id": "simon-halliday",
+          "is_ces": true,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 2,
+          "total": 2
+        },
+        {
+          "row_label": "Steven Teles",
+          "person_id": "steven-teles",
+          "is_ces": true,
+          "positive": 1,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 2
+        },
+        {
+          "row_label": "Angus Burgin",
+          "person_id": "angus-burgin",
+          "is_ces": true,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Glory Liu",
+          "person_id": "glory-m-liu",
+          "is_ces": true,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Jacob Roundtree",
+          "person_id": "jacob-roundtree",
+          "is_ces": true,
+          "positive": 0,
+          "neutral": 1,
+          "negative": 0,
+          "unknown": 0,
+          "total": 1
+        },
+        {
+          "row_label": "Trevor Brown",
+          "person_id": "trevor-brown",
+          "is_ces": true,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        }
+      ],
+      "source_type_sentiment_crosstab": [
+        {
+          "row_label": "online news",
+          "positive": 5,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 14,
+          "total": 19
+        },
+        {
+          "row_label": "social network",
+          "positive": 0,
+          "neutral": 2,
+          "negative": 0,
+          "unknown": 4,
+          "total": 6
+        },
+        {
+          "row_label": "blog",
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 2,
+          "total": 2
+        },
+        {
+          "row_label": "unresolved",
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 8,
+          "total": 8
+        }
+      ],
+      "sentiment_examples": {
+        "negative": {
+          "stories": [],
+          "top_keyphrases": []
+        },
+        "positive": {
+          "stories": [
+            {
+              "id": 66,
+              "person": "Louis Hyman",
+              "person_id": "louis-hyman",
+              "is_ces": true,
+              "title": "Inside one major school's campaign to bring conservatives to campus",
+              "url": "https://www.wnd.com/2026/07/inside-one-major-schools-campaign-bring-conservatives-campus/",
+              "source": "WND",
+              "date": "2026-07-19"
+            },
+            {
+              "id": 132,
+              "person": "Steven Teles",
+              "person_id": "steven-teles",
+              "is_ces": true,
+              "title": "Glenn Loury's Substack previews a TGS Live conversation with Steven Teles",
+              "url": "https://glennloury.substack.com/p/on-the-next-tgs-live-andrew-day-on",
+              "source": "Substack (Glenn Loury)",
+              "date": "2026-07-16"
+            },
+            {
+              "id": 110,
+              "person": "Louis Hyman",
+              "person_id": "louis-hyman",
+              "is_ces": true,
+              "title": "RealClearInvestigations piece on Agora's conservative-outreach campaign quotes Louis Hyman",
+              "url": "https://www.realclearinvestigations.com/articles/2026/07/15/inside_elite_universitys_campaign_to_bring_conservatives_to_campus_1194546.html",
+              "source": "RealClearInvestigations",
+              "date": "2026-07-15"
+            },
+            {
+              "id": 116,
+              "person": "Yuen Yuen Ang",
+              "person_id": "yuen-yuen-ang",
+              "is_ces": true,
+              "title": "Semafor feature on a Chinese golf-course land seizure quotes Yuen Yuen Ang",
+              "url": "https://www.semafor.com/article/07/14/2026/the-man-who-stole-a-golf-course",
+              "source": "Semafor",
+              "date": "2026-07-14"
+            },
+            {
+              "id": 41,
+              "person": "Yuen Yuen Ang",
+              "person_id": "yuen-yuen-ang",
+              "is_ces": true,
+              "title": "Insights | One-character shift, governance upgrade: why China's 15th Five-Year Plan become a global focus",
+              "url": "http://www.ecns.cn/cns-wire/2026-07-04/detail-ihffyeqp1388197.shtml",
+              "source": "ECNS.cn",
+              "date": "2026-07-04"
+            }
+          ],
+          "top_keyphrases": [
+            {
+              "keyphrase": "aei and hopkins talk",
+              "count": 2
+            },
+            {
+              "keyphrase": "aei fellowship program awards",
+              "count": 2
+            },
+            {
+              "keyphrase": "affirmative action",
+              "count": 2
+            },
+            {
+              "keyphrase": "agora professor",
+              "count": 2
+            },
+            {
+              "keyphrase": "better research university",
+              "count": 2
+            },
+            {
+              "keyphrase": "cajoling by presidents",
+              "count": 2
+            },
+            {
+              "keyphrase": "campus",
+              "count": 2
+            },
+            {
+              "keyphrase": "center",
+              "count": 2
+            },
+            {
+              "keyphrase": "civics schools",
+              "count": 2
+            },
+            {
+              "keyphrase": "agora's director",
+              "count": 1
+            }
+          ]
+        }
+      }
     }
   }
 }
