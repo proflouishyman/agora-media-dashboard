@@ -26,7 +26,7 @@ Eight real, separately-loadable HTML pages — not one long scrolling page:
 | `stories.html` | `#stories-root` | Not yet built |
 | `trends.html` | `#trends-root` | Not yet built |
 | `repost.html` | `#repost-root` | Not yet built |
-| `ces.html` | `#overview-root` + `#ces-roster`, `data-scope="ces"` | Not yet built |
+| `ces.html` | `#overview-root` + `#ces-roster`, `data-scope="ces"` | **Built** |
 | `about.html` | `#about-root` | Not yet built |
 
 Nav across all eight pages: **Overview · People · Stories · Trends · Repost
@@ -70,11 +70,25 @@ function from `index.js`.
 - `.nojekyll`, this README, `data/*.json`.
 
 **Not built here — owned by later agents:** `people.html`, `person.html`,
-`stories.html`, `trends.html`, `repost.html`, `ces.html`, `about.html`, and
-whatever page-specific `js/{page}.js` each of those needs. Each of those
-scripts should load `js/utils.js` first (`<script src="js/utils.js"></script>
+`stories.html`, `trends.html`, `repost.html`, `about.html`, and whatever
+page-specific `js/{page}.js` each of those needs. Each of those scripts
+should load `js/utils.js` first (`<script src="js/utils.js"></script>
 <script src="js/{page}.js" defer></script>`), the same way `index.js` does,
 and call into the helpers below rather than re-implementing them.
+
+`ces.html` is now built (see below) as the reference example of this pattern:
+it loads `js/utils.js` + `js/index.js` unmodified (`<body data-scope="ces">`
+makes every render function in `index.js` resolve to CES scope automatically
+via `getScope()`), plus its own small `js/ces.js` that renders only the new
+`#ces-roster` grids. `js/ces.js` deliberately does not call
+`setupHeaderNav()` or `propagateScopeLinks()` — those are already called once
+by `index.js` on this page, and calling `setupHeaderNav()` a second time
+would double-bind the mobile nav toggle's click listener (two listeners
+flipping `aria-expanded` on one click net-cancel each other). It calls its
+own `initScrollReveal('.person-card')` instead of `observeRevealTargets()`,
+which sidesteps any ordering dependency on `index.js`'s own
+`initScrollReveal()` call (the two scripts' `async` `main()`s run
+concurrently with no guaranteed order).
 
 ## JS helper contract (`js/utils.js`)
 
