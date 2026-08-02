@@ -9,16 +9,16 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 35,
+    "mentions_total": 36,
     "mentions_in_digest": 17,
     "reach_proxy": 59,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-07-31",
+    "last_mention_date": "2026-08-01",
     "sentiment": {
       "positive": 6,
       "neutral": 17,
       "negative": 0,
-      "unknown": 12
+      "unknown": 13
     },
     "top_sources": [
       {
@@ -100,7 +100,7 @@
       },
       {
         "week_start": "2026-07-27",
-        "count": 12,
+        "count": 13,
         "reach": 45
       }
     ]

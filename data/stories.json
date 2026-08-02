@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T14:40:27-04:00",
-  "count": 194,
+  "generated_at": "2026-08-02T07:04:27-04:00",
+  "count": 195,
   "stories": [
     {
       "id": 195,
@@ -27,6 +27,23 @@
           "chars": 66
         }
       }
+    },
+    {
+      "id": 196,
+      "date": "2026-08-01",
+      "week_start": "2026-07-27",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "No text captured (matched: SNF Agora)",
+      "has_text": false,
+      "url": "https://www.reddit.com/r/ClassicalLiberalism/comments/1vd19re/can_democracy_survive_if_we_stand_on_different/",
+      "source": "reddit.com/r/ClassicalLiberalism",
+      "source_type": "social network",
+      "similar_mention_count": 0,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
     },
     {
       "id": 2,
