@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T14:40:27-04:00",
+  "generated_at": "2026-08-02T07:04:27-04:00",
   "window": {
     "start": "2026-07-02",
     "end": "2026-08-01"
@@ -7,12 +7,12 @@
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 194,
+        "mentions": 195,
         "in_digest": 113,
         "reach_proxy": 375,
         "people_covered": 38,
         "people_tracked": 100,
-        "sources": 93,
+        "sources": 94,
         "negative": 5
       },
       "deltas": {
@@ -250,7 +250,7 @@
         },
         {
           "date": "2026-08-01",
-          "count": 1,
+          "count": 2,
           "reach": 1,
           "in_digest": 1,
           "observed": true
@@ -311,7 +311,7 @@
         },
         {
           "week_start": "2026-07-27",
-          "count": 40,
+          "count": 41,
           "reach": 157,
           "in_digest": 25,
           "people": 16,
@@ -319,7 +319,7 @@
             "positive": 8,
             "neutral": 21,
             "negative": 0,
-            "unknown": 11
+            "unknown": 12
           }
         }
       ],
@@ -327,13 +327,13 @@
         "positive": 41,
         "neutral": 110,
         "negative": 5,
-        "unknown": 38
+        "unknown": 39
       },
       "top_people": [
         {
           "person_id": "snf-agora-institute",
           "name": "SNF Agora Institute",
-          "count": 35,
+          "count": 36,
           "reach": 59,
           "is_ces": false
         },
@@ -452,7 +452,7 @@
         },
         {
           "source": "Other",
-          "count": 107,
+          "count": 108,
           "reach": 279,
           "is_other": true
         }
@@ -464,7 +464,7 @@
         },
         {
           "source_type": "social network",
-          "count": 48
+          "count": 49
         },
         {
           "source_type": "blog",
@@ -490,8 +490,8 @@
           "positive": 6,
           "neutral": 17,
           "negative": 0,
-          "unknown": 12,
-          "total": 35
+          "unknown": 13,
+          "total": 36
         },
         {
           "row_label": "Anne Applebaum",
@@ -878,8 +878,8 @@
           "positive": 17,
           "neutral": 24,
           "negative": 0,
-          "unknown": 7,
-          "total": 48
+          "unknown": 8,
+          "total": 49
         },
         {
           "row_label": "blog",
