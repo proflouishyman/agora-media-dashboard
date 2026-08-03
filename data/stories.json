@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-08-02T07:04:27-04:00",
-  "count": 195,
+  "generated_at": "2026-08-03T07:07:01-04:00",
+  "count": 196,
   "stories": [
+    {
+      "id": 197,
+      "date": "2026-08-03",
+      "week_start": "2026-08-03",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "The Far-Right Playbook in Action",
+      "has_text": true,
+      "url": "https://anneapplebaum.substack.com/p/the-far-right-playbook-in-action",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "The Far-Right Playbook in Action https://anneapplebaum.substack.com/p/the-far-right-playbook-in-action",
+          "chars": 56
+        },
+        "bluesky": {
+          "text": "The Far-Right Playbook in Action https://anneapplebaum.substack.com/p/the-far-right-playbook-in-action",
+          "chars": 102
+        }
+      }
+    },
     {
       "id": 195,
       "date": "2026-08-01",
