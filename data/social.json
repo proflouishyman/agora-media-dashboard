@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-02T07:04:27-04:00",
-  "count": 23,
+  "generated_at": "2026-08-03T07:07:01-04:00",
+  "count": 24,
   "picks": [
+    {
+      "id": 39,
+      "mention_id": 197,
+      "digest_date": "2026-08-03",
+      "person": "Anne Applebaum",
+      "person_id": "anne-applebaum",
+      "person_ids": [
+        "anne-applebaum"
+      ],
+      "is_ces": false,
+      "punchy_title": "Anne Applebaum Exposes the Far-Right's Migration Fear Tactics",
+      "headline": "Anne Applebaum Exposes the Far-Right's Migration Fear Tactics",
+      "pull_quote": "Read my original article, Kleptocracy Inc, and check out the SNF Agora Institute chart",
+      "rationale": "Read my original article, Kleptocracy Inc, and check out the SNF Agora Institute chart",
+      "url": "https://anneapplebaum.substack.com/p/the-far-right-playbook-in-action",
+      "story_url": "https://anneapplebaum.substack.com/p/the-far-right-playbook-in-action",
+      "created_at": "2026-08-03 11:06:53",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Anne Applebaum (SNF Agora Senior Fellow) breaks down how far-right politicians misrepresented the Ceuta border crisis to stoke fear, then rounds up her latest Kleptocracy Tracker findings. https://anneapplebaum.substack.com/p/the-far-right-playbook-in-action",
+          "chars": 258,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Anne%20Applebaum%20%28SNF%20Agora%20Senior%20Fellow%29%20breaks%20down%20how%20far-right%20politicians%20misrepresented%20the%20Ceuta%20border%20crisis%20to%20stoke%20fear%2C%20then%20rounds%20up%20her%20latest%20Kleptocracy%20Tracker%20findings.%20https%3A//anneapplebaum.substack.com/p/the-far-right-playbook-in-action"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Anne Applebaum (SNF Agora Senior Fellow) on how far-right politicians misrepresented the Ceuta border crisis to stoke fear, then rounds up her latest Kleptocracy Tracker findings. https://anneapplebaum.substack.com/p/the-far-right-playbook-in-action",
+          "chars": 249,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Anne%20Applebaum%20%28SNF%20Agora%20Senior%20Fellow%29%20on%20how%20far-right%20politicians%20misrepresented%20the%20Ceuta%20border%20crisis%20to%20stoke%20fear%2C%20then%20rounds%20up%20her%20latest%20Kleptocracy%20Tracker%20findings.%20https%3A//anneapplebaum.substack.com/p/the-far-right-playbook-in-action"
+        }
+      ]
+    },
     {
       "id": 38,
       "mention_id": 2,
