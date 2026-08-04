@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-03T07:07:01-04:00",
-  "count": 24,
+  "generated_at": "2026-08-04T07:13:57-04:00",
+  "count": 25,
   "picks": [
+    {
+      "id": 40,
+      "mention_id": 198,
+      "digest_date": "2026-08-04",
+      "person": "Anne Applebaum",
+      "person_id": "anne-applebaum",
+      "person_ids": [
+        "anne-applebaum"
+      ],
+      "is_ces": false,
+      "punchy_title": "Applebaum: American Democracy Is Entering Its Most Dangerous Phase Yet",
+      "headline": "Applebaum: American Democracy Is Entering Its Most Dangerous Phase Yet",
+      "pull_quote": "Anne Applebaum is a Pulitzer Prize-winning historian, staff writer at The Atlantic, host of the Autocracy in America podcast, and Senior Fellow at the SNF Agora Institute at Johns Hopkins University.",
+      "rationale": "Anne Applebaum is a Pulitzer Prize-winning historian, staff writer at The Atlantic, host of the Autocracy in America podcast, and Senior Fellow at the SNF Agora Institute at Johns Hopkins University.",
+      "url": "https://www.youtube.com/watch?v=y3RuIhpc-CY",
+      "story_url": "https://www.youtube.com/watch?v=y3RuIhpc-CY",
+      "created_at": "2026-08-04 11:13:41",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Anne Applebaum (SNF Agora Senior Fellow) warns America's democracy is entering its most dangerous phase, in a new Diary of a CEO interview covering the forces reshaping the US and the world. https://www.youtube.com/watch?v=y3RuIhpc-CY",
+          "chars": 234,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Anne%20Applebaum%20%28SNF%20Agora%20Senior%20Fellow%29%20warns%20America%27s%20democracy%20is%20entering%20its%20most%20dangerous%20phase%2C%20in%20a%20new%20Diary%20of%20a%20CEO%20interview%20covering%20the%20forces%20reshaping%20the%20US%20and%20the%20world.%20https%3A//www.youtube.com/watch%3Fv%3Dy3RuIhpc-CY"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Anne Applebaum (SNF Agora Senior Fellow) on the Diary of a CEO podcast: American democracy is entering its most dangerous phase. She unpacks the forces reshaping the US and the world. https://www.youtube.com/watch?v=y3RuIhpc-CY",
+          "chars": 227,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Anne%20Applebaum%20%28SNF%20Agora%20Senior%20Fellow%29%20on%20the%20Diary%20of%20a%20CEO%20podcast%3A%20American%20democracy%20is%20entering%20its%20most%20dangerous%20phase.%20She%20unpacks%20the%20forces%20reshaping%20the%20US%20and%20the%20world.%20https%3A//www.youtube.com/watch%3Fv%3Dy3RuIhpc-CY"
+        }
+      ]
+    },
     {
       "id": 39,
       "mention_id": 197,

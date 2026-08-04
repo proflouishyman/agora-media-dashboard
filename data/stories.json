@@ -1,7 +1,540 @@
 {
-  "generated_at": "2026-08-03T07:07:01-04:00",
-  "count": 196,
+  "generated_at": "2026-08-04T07:13:57-04:00",
+  "count": 221,
   "stories": [
+    {
+      "id": 204,
+      "date": "2026-08-04",
+      "week_start": "2026-08-03",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "Daron Acemoglu on Why Liberalism Became a Victim of Its Own Success",
+      "has_text": true,
+      "url": "https://writing.yaschamounk.com/p/daron-acemoglu-2",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Daron Acemoglu on Why Liberalism Became a Victim of Its Own Success https://writing.yaschamounk.com/p/daron-acemoglu-2",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "Daron Acemoglu on Why Liberalism Became a Victim of Its Own Success https://writing.yaschamounk.com/p/daron-acemoglu-2",
+          "chars": 118
+        }
+      }
+    },
+    {
+      "id": 201,
+      "date": "2026-08-04",
+      "week_start": "2026-08-03",
+      "person_id": "yuen-yuen-ang",
+      "person": "Yuen Yuen Ang",
+      "is_ces": true,
+      "title": "Who Gets to Explain Development?",
+      "has_text": true,
+      "url": "https://uscnpm.substack.com/p/who-gets-to-explain-development",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Who Gets to Explain Development? https://uscnpm.substack.com/p/who-gets-to-explain-development",
+          "chars": 56
+        },
+        "bluesky": {
+          "text": "Who Gets to Explain Development? https://uscnpm.substack.com/p/who-gets-to-explain-development",
+          "chars": 94
+        }
+      }
+    },
+    {
+      "id": 198,
+      "date": "2026-08-04",
+      "week_start": "2026-08-03",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Pulitzer Historian Warns: America's Democracy Is Entering Its Most Dangerous Phase (Diary of a CEO)",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=y3RuIhpc-CY",
+      "source": "YouTube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Pulitzer Historian Warns: America's Democracy Is Entering Its Most Dangerous Phase (Diary of a CEO) https://www.youtube.com/watch?v=y3RuIhpc-CY",
+          "chars": 123
+        },
+        "bluesky": {
+          "text": "Pulitzer Historian Warns: America's Democracy Is Entering Its Most Dangerous Phase (Diary of a CEO) https://www.youtube.com/watch?v=y3RuIhpc-CY",
+          "chars": 143
+        }
+      }
+    },
+    {
+      "id": 210,
+      "date": "2026-08-03",
+      "week_start": "2026-08-03",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": "No text captured (matched: Johns|Hopkins|Sean Carroll) -- FLAG: ~26 posts, consistently negative entity sentiment for Sean Carroll alongside NASA's Gavin Schmidt and 'lie' (science-Twitter dispute)",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter/Bluesky",
+      "source_type": null,
+      "similar_mention_count": 26,
+      "entity_sentiment": "negative",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 211,
+      "date": "2026-08-03",
+      "week_start": "2026-08-03",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "No text captured (matched: SNF Agora|SNF|Hopkins) -- FLAG: ~12 posts tying SNF Agora to Michelle Obama's Civic Nation/'When We All Vote' via Valerie Jarrett and the White House, consistently negative, apparently from a partisan account referenced by The Federalist",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 12,
+      "entity_sentiment": "negative",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 222,
+      "date": "2026-08-03",
+      "week_start": "2026-08-03",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "No text captured (matched: SNF agora|SNF Agora) -- Democracy Funders Network / Daniel Stid context, positive",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 6,
+      "entity_sentiment": "positive",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 213,
+      "date": "2026-08-03",
+      "week_start": "2026-08-03",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": "No text captured (matched: SNF Agora|Hahrie Han) -- Change Collective/Civic Nation funders-network context, positive entity sentiment for Hahrie Han",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 6,
+      "entity_sentiment": "positive",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 212,
+      "date": "2026-08-03",
+      "week_start": "2026-08-03",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "No text captured (matched: SNF Agora institute|SNF Agora|SNF|Hopkins|Agora|Anne Applebaum|Peter Pomerantsev|Hahrie Han) -- FLAG: 6 posts, negative entity sentiment for both Applebaum and Pomerantsev (Arena/LSE/Open Government Partnership context)",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 6,
+      "entity_sentiment": "negative",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 220,
+      "date": "2026-08-03",
+      "week_start": "2026-08-03",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "No text captured (matched: SNF Agora|Johns|Hopkins|SNF) -- Stavros Niarchos Foundation Parkway Theatre/Baltimore/Maryland Film Festival context, positive",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 4,
+      "entity_sentiment": "positive",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 219,
+      "date": "2026-08-03",
+      "week_start": "2026-08-03",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "No text captured (matched: SNF|Johns|Hopkins|SNF Agora Institute) -- Biden School/University of Delaware/Ithaca Initiative context, positive",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 4,
+      "entity_sentiment": "positive",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 217,
+      "date": "2026-08-03",
+      "week_start": "2026-08-03",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": "No text captured (matched: Johns|Hopkins|Hahrie Han|SNF Agora) -- P3 Lab/Ford Foundation/Arabella funders-network context, positive entity sentiment for Hahrie Han",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 4,
+      "entity_sentiment": "positive",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 216,
+      "date": "2026-08-03",
+      "week_start": "2026-08-03",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "No text captured (matched: SNF Agora|Hopkins) -- DPI/Ford Foundation/Rockefeller funders context, positive",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 4,
+      "entity_sentiment": "positive",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 218,
+      "date": "2026-08-03",
+      "week_start": "2026-08-03",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "No text captured (matched: SNF|SNF Agora Institute|Hopkins) -- Chatham House context, positive",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 3,
+      "entity_sentiment": "positive",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 215,
+      "date": "2026-08-03",
+      "week_start": "2026-08-03",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "No text captured (matched: SNF Agora|Johns|Hopkins) -- Trump/USAID-related tweet, neutral for SNF Agora",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 3,
+      "entity_sentiment": "neutral",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 214,
+      "date": "2026-08-03",
+      "week_start": "2026-08-03",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "No text captured (matched: Hopkins|SNF Agora) -- generic positive mention",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "positive",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 200,
+      "date": "2026-08-03",
+      "week_start": "2026-08-03",
+      "person_id": "yuen-yuen-ang",
+      "person": "Yuen Yuen Ang",
+      "is_ces": true,
+      "title": "Política industrial para una era de incertidumbre (Project Syndicate, syndicated)",
+      "has_text": true,
+      "url": "https://vanguardia.com.mx/opinion/politica-industrial-para-una-era-de-incertidumbre-OM22595083",
+      "source": "Vanguardia",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Política industrial para una era de incertidumbre (Project Syndicate, syndicated) https://vanguardia.com.mx/opinion/politica-industrial-para-una-era-de-incertidumbre-OM22595083",
+          "chars": 105
+        },
+        "bluesky": {
+          "text": "Política industrial para una era de incertidumbre (Project Syndicate, syndicated) https://vanguardia.com.mx/opinion/politica-industrial-para-una-era-de-incertidumbre-OM22595083",
+          "chars": 176
+        }
+      }
+    },
+    {
+      "id": 221,
+      "date": "2026-08-03",
+      "week_start": "2026-08-03",
+      "person_id": "yuen-yuen-ang",
+      "person": "Yuen Yuen Ang",
+      "is_ces": true,
+      "title": "No text captured (matched: Yuen Yuen Ang|Hopkins) -- development-economics discourse citing Weber, Lant Pritchett, Michael Woolcock, positive entity sentiment for Ang",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 209,
+      "date": "2026-08-03",
+      "week_start": "2026-08-03",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "LOW VALUE: passing citation of Applebaum's book title in a long list of other authors, not about her",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=oM7SHugr-Vw",
+      "source": "YouTube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "LOW VALUE: passing citation of Applebaum's book title in a long list of other authors, not about her https://www.youtube.com/watch?v=oM7SHugr-Vw",
+          "chars": 124
+        },
+        "bluesky": {
+          "text": "LOW VALUE: passing citation of Applebaum's book title in a long list of other authors, not about her https://www.youtube.com/watch?v=oM7SHugr-Vw",
+          "chars": 144
+        }
+      }
+    },
+    {
+      "id": 208,
+      "date": "2026-08-03",
+      "week_start": "2026-08-03",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "NOT RELEVANT: 'agora' matched the Portuguese word 'now,' not the Institute; no Lilliana Mason entity found",
+      "has_text": true,
+      "url": "https://blog.indiecinema.co/pt/performance-nas-redes-sociais/",
+      "source": "Indiecinema",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "NOT RELEVANT: 'agora' matched the Portuguese word 'now,' not the Institute; no Lilliana Mason entity found https://blog.indiecinema.co/pt/performance-nas-redes-sociais/",
+          "chars": 130
+        },
+        "bluesky": {
+          "text": "NOT RELEVANT: 'agora' matched the Portuguese word 'now,' not the Institute; no Lilliana Mason entity found https://blog.indiecinema.co/pt/performance-nas-redes-sociais/",
+          "chars": 168
+        }
+      }
+    },
+    {
+      "id": 207,
+      "date": "2026-08-03",
+      "week_start": "2026-08-03",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Meet our SKAT graduate student & postdoc members (Hsu Huang, Center for Economy and Society)",
+      "has_text": true,
+      "url": "https://asaskat.com/2026/08/03/meet-our-skat-graduate-student-and-postdoc-members/",
+      "source": "wordpress.com (ASA SKAT)",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Meet our SKAT graduate student & postdoc members (Hsu Huang, Center for Economy and Society) https://asaskat.com/2026/08/03/meet-our-skat-graduate-student-and-postdoc-members/",
+          "chars": 116
+        },
+        "bluesky": {
+          "text": "Meet our SKAT graduate student & postdoc members (Hsu Huang, Center for Economy and Society) https://asaskat.com/2026/08/03/meet-our-skat-graduate-student-and-postdoc-members/",
+          "chars": 175
+        }
+      }
+    },
+    {
+      "id": 206,
+      "date": "2026-08-03",
+      "week_start": "2026-08-03",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Democracy Narratives Alliance LinkedIn post (SNF Agora Institute credited as partner)",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7490076243749560321",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Democracy Narratives Alliance LinkedIn post (SNF Agora Institute credited as partner) https://www.linkedin.com/feed/update/urn:li:share:7490076243749560321",
+          "chars": 109
+        },
+        "bluesky": {
+          "text": "Democracy Narratives Alliance LinkedIn post (SNF Agora Institute credited as partner) https://www.linkedin.com/feed/update/urn:li:share:7490076243749560321",
+          "chars": 155
+        }
+      }
+    },
+    {
+      "id": 205,
+      "date": "2026-08-03",
+      "week_start": "2026-08-03",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": "Why Support Diversity, Equity, and Inclusion? (Ask Me Anything clip)",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=0ciIQfAtfl8",
+      "source": "YouTube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Why Support Diversity, Equity, and Inclusion? (Ask Me Anything clip) https://www.youtube.com/watch?v=0ciIQfAtfl8",
+          "chars": 92
+        },
+        "bluesky": {
+          "text": "Why Support Diversity, Equity, and Inclusion? (Ask Me Anything clip) https://www.youtube.com/watch?v=0ciIQfAtfl8",
+          "chars": 112
+        }
+      }
+    },
+    {
+      "id": 203,
+      "date": "2026-08-03",
+      "week_start": "2026-08-03",
+      "person_id": "jenna-storey",
+      "person": "Jenna Silber Storey",
+      "is_ces": false,
+      "title": "Trump Officials Try Again to Reform Colleges, With Higher Ed's Help",
+      "has_text": true,
+      "url": "https://www.insidehighered.com/news/government/2026/08/03/mcmahon-sends-reform-questionnaire-colleges",
+      "source": "Inside Higher Ed",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Trump Officials Try Again to Reform Colleges, With Higher Ed's Help https://www.insidehighered.com/news/government/2026/08/03/mcmahon-sends-reform-questionnaire-colleges",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "Trump Officials Try Again to Reform Colleges, With Higher Ed's Help https://www.insidehighered.com/news/government/2026/08/03/mcmahon-sends-reform-questionnaire-colleges",
+          "chars": 169
+        }
+      }
+    },
+    {
+      "id": 202,
+      "date": "2026-08-03",
+      "week_start": "2026-08-03",
+      "person_id": "yuen-yuen-ang",
+      "person": "Yuen Yuen Ang",
+      "is_ces": true,
+      "title": "Blue sweep in Negeri Sembilan and Johor - what it means for Anwar's Pakatan Harapan (Ang WEF interview cited)",
+      "has_text": true,
+      "url": "https://sg.headtopics.com/news/blue-sweep-in-negeri-sembilan-and-johor-what-it-means-86239719",
+      "source": "Headtopics",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Blue sweep in Negeri Sembilan and Johor - what it means for Anwar's Pakatan Harapan (Ang WEF interview cited) https://sg.headtopics.com/news/blue-sweep-in-negeri-sembilan-and-johor-what-it-means-86239719",
+          "chars": 133
+        },
+        "bluesky": {
+          "text": "Blue sweep in Negeri Sembilan and Johor - what it means for Anwar's Pakatan Harapan (Ang WEF interview cited) https://sg.headtopics.com/news/blue-sweep-in-negeri-sembilan-and-johor-what-it-means-86239719",
+          "chars": 203
+        }
+      }
+    },
+    {
+      "id": 199,
+      "date": "2026-08-03",
+      "week_start": "2026-08-03",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Anne Applebaum: Obrazki z Ceuty tak bardzo przypominały \"inwazję\"",
+      "has_text": true,
+      "url": "https://wyborcza.pl/magazyn/7,124059,32947413,anne-applebaum-obrazki-z-ceuty-tak-bardzo-przypominaly-inwazje.html",
+      "source": "Gazeta Wyborcza",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Anne Applebaum: Obrazki z Ceuty tak bardzo przypominały \"inwazję\" https://wyborcza.pl/magazyn/7,124059,32947413,anne-applebaum-obrazki-z-ceuty-tak-bardzo-przypominaly-inwazje.html",
+          "chars": 89
+        },
+        "bluesky": {
+          "text": "Anne Applebaum: Obrazki z Ceuty tak bardzo przypominały \"inwazję\" https://wyborcza.pl/magazyn/7,124059,32947413,anne-applebaum-obrazki-z-ceuty-tak-bardzo-przypominaly-inwazje.html",
+          "chars": 179
+        }
+      }
+    },
     {
       "id": 197,
       "date": "2026-08-03",
