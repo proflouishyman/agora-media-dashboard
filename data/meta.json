@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-03T07:07:01-04:00",
-  "generated_date": "2026-08-03",
+  "generated_at": "2026-08-04T07:13:57-04:00",
+  "generated_date": "2026-08-04",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-08-03",
+    "last_mention_date": "2026-08-04",
     "observed_dates": [
       "2026-07-02",
       "2026-07-03",
@@ -38,10 +38,11 @@
       "2026-07-30",
       "2026-07-31",
       "2026-08-01",
-      "2026-08-03"
+      "2026-08-03",
+      "2026-08-04"
     ],
-    "total_mentions": 196,
-    "total_raw_documents": 435,
+    "total_mentions": 221,
+    "total_raw_documents": 529,
     "total_tracked_people": 100,
     "total_ces_people": 17
   },
@@ -49,19 +50,19 @@
     "all": {
       "label": "SNF Agora Institute",
       "people": 100,
-      "mentions": 196
+      "mentions": 221
     },
     "ces": {
       "label": "Center on Economy and Society",
       "people": 17,
-      "mentions": 35
+      "mentions": 39
     }
   },
   "data_quality": {
-    "mentions_missing_url": 40,
-    "mentions_no_text_captured": 50,
-    "mentions_sentiment_unknown": 40,
-    "mentions_shareable": 141,
+    "mentions_missing_url": 53,
+    "mentions_no_text_captured": 63,
+    "mentions_sentiment_unknown": 44,
+    "mentions_shareable": 153,
     "unmatched_persons": [
       {
         "person": "Eliot Cohen",

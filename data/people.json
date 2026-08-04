@@ -9,25 +9,25 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 36,
-    "mentions_in_digest": 17,
-    "reach_proxy": 59,
+    "mentions_total": 46,
+    "mentions_in_digest": 19,
+    "reach_proxy": 99,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-08-01",
+    "last_mention_date": "2026-08-03",
     "sentiment": {
-      "positive": 6,
-      "neutral": 17,
-      "negative": 0,
+      "positive": 13,
+      "neutral": 19,
+      "negative": 1,
       "unknown": 13
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 12
+        "count": 20
       },
       {
         "source": "LinkedIn",
-        "count": 6
+        "count": 7
       },
       {
         "source": "Medium",
@@ -100,8 +100,8 @@
       },
       {
         "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
+        "count": 10,
+        "reach": 40
       }
     ]
   },
@@ -117,36 +117,36 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 22,
-    "mentions_in_digest": 15,
-    "reach_proxy": 14,
+    "mentions_total": 26,
+    "mentions_in_digest": 17,
+    "reach_proxy": 23,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-08-03",
+    "last_mention_date": "2026-08-04",
     "sentiment": {
-      "positive": 6,
+      "positive": 7,
       "neutral": 9,
-      "negative": 3,
-      "unknown": 4
+      "negative": 4,
+      "unknown": 6
     },
     "top_sources": [
       {
+        "source": "YouTube",
+        "count": 4
+      },
+      {
         "source": "Gazeta Wyborcza",
-        "count": 2
+        "count": 3
+      },
+      {
+        "source": "Twitter",
+        "count": 3
       },
       {
         "source": "Substack",
         "count": 2
       },
       {
-        "source": "Twitter",
-        "count": 2
-      },
-      {
         "source": "WrotaGrudziadza",
-        "count": 2
-      },
-      {
-        "source": "YouTube",
         "count": 2
       }
     ],
@@ -208,8 +208,8 @@
       },
       {
         "week_start": "2026-08-03",
-        "count": 1,
-        "reach": 1
+        "count": 5,
+        "reach": 10
       }
     ]
   },
@@ -225,14 +225,14 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 14,
-    "mentions_in_digest": 4,
-    "reach_proxy": 12,
+    "mentions_total": 15,
+    "mentions_in_digest": 5,
+    "reach_proxy": 13,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-07-31",
+    "last_mention_date": "2026-08-04",
     "sentiment": {
       "positive": 0,
-      "neutral": 6,
+      "neutral": 7,
       "negative": 1,
       "unknown": 7
     },
@@ -242,11 +242,11 @@
         "count": 7
       },
       {
-        "source": "A Medley of Potpourri (blog)",
-        "count": 1
+        "source": "Substack",
+        "count": 2
       },
       {
-        "source": "Substack",
+        "source": "A Medley of Potpourri (blog)",
         "count": 1
       },
       {
@@ -316,8 +316,116 @@
       },
       {
         "week_start": "2026-08-03",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
+    "id": "yuen-yuen-ang",
+    "name": "Yuen Yuen Ang",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Alfred Chandler Chair Professor of Political Economy",
+    "profile_url": "https://snfagora.jhu.edu/directory/yuen-yuen-ang/",
+    "photo_url": "images/people/yuen-yuen-ang.jpg",
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": true,
+    "mentions_total": 14,
+    "mentions_in_digest": 13,
+    "reach_proxy": 23,
+    "first_mention_date": "2026-07-04",
+    "last_mention_date": "2026-08-04",
+    "sentiment": {
+      "positive": 4,
+      "neutral": 9,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "YouTube",
+        "count": 3
+      },
+      {
+        "source": "Brand Inside (Thailand)",
+        "count": 1
+      },
+      {
+        "source": "Brasil Soberano e Livre (blog)",
+        "count": 1
+      },
+      {
+        "source": "Channel NewsAsia (CNA)",
+        "count": 1
+      },
+      {
+        "source": "ECNS.cn",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-05-18",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-05-25",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-01",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 2,
+        "reach": 4
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 3,
+        "reach": 4
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 4,
+        "reach": 10
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 4,
+        "reach": 5
       }
     ]
   },
@@ -430,6 +538,222 @@
     ]
   },
   {
+    "id": "sean-carroll",
+    "name": "Sean Carroll",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Homewood Professor of Natural Philosophy at Johns Hopkins University",
+    "profile_url": "https://snfagora.jhu.edu/directory/sean-carroll/",
+    "photo_url": "images/people/sean-carroll.jpeg",
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 12,
+    "mentions_in_digest": 3,
+    "reach_proxy": 30,
+    "first_mention_date": "2026-07-03",
+    "last_mention_date": "2026-08-03",
+    "sentiment": {
+      "positive": 3,
+      "neutral": 8,
+      "negative": 1,
+      "unknown": 0
+    },
+    "top_sources": [
+      {
+        "source": "Youtube",
+        "count": 3
+      },
+      {
+        "source": "YouTube",
+        "count": 2
+      },
+      {
+        "source": "Bluesky",
+        "count": 1
+      },
+      {
+        "source": "Medium",
+        "count": 1
+      },
+      {
+        "source": "Reddit",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-05-18",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-05-25",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-01",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 2,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 5,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 2,
+        "reach": 27
+      }
+    ]
+  },
+  {
+    "id": "hahrie-han",
+    "name": "Hahrie Han",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Institute Professor of Political Science",
+    "profile_url": "https://snfagora.jhu.edu/directory/hahrie-han/",
+    "photo_url": "images/people/hahrie-han.jpg",
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 11,
+    "mentions_in_digest": 6,
+    "reach_proxy": 24,
+    "first_mention_date": "2026-07-02",
+    "last_mention_date": "2026-08-03",
+    "sentiment": {
+      "positive": 6,
+      "neutral": 2,
+      "negative": 0,
+      "unknown": 3
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 5
+      },
+      {
+        "source": "YouTube",
+        "count": 2
+      },
+      {
+        "source": "Baltimore Fishbowl",
+        "count": 1
+      },
+      {
+        "source": "British Brief",
+        "count": 1
+      },
+      {
+        "source": "JHU Hub",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-05-18",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-05-25",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-01",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 2,
+        "reach": 9
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 3,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 2,
+        "reach": 10
+      }
+    ]
+  },
+  {
     "id": "martha-s-jones",
     "name": "Martha S. Jones",
     "kind": "faculty",
@@ -529,330 +853,6 @@
         "week_start": "2026-07-27",
         "count": 0,
         "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "sean-carroll",
-    "name": "Sean Carroll",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Homewood Professor of Natural Philosophy at Johns Hopkins University",
-    "profile_url": "https://snfagora.jhu.edu/directory/sean-carroll/",
-    "photo_url": "images/people/sean-carroll.jpeg",
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 10,
-    "mentions_in_digest": 2,
-    "reach_proxy": 3,
-    "first_mention_date": "2026-07-03",
-    "last_mention_date": "2026-07-30",
-    "sentiment": {
-      "positive": 3,
-      "neutral": 7,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [
-      {
-        "source": "Youtube",
-        "count": 3
-      },
-      {
-        "source": "Bluesky",
-        "count": 1
-      },
-      {
-        "source": "Medium",
-        "count": 1
-      },
-      {
-        "source": "Reddit",
-        "count": 1
-      },
-      {
-        "source": "Teo's Lab (blog)",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-05-18",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-05-25",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-01",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-08",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 2,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 5,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "yuen-yuen-ang",
-    "name": "Yuen Yuen Ang",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Alfred Chandler Chair Professor of Political Economy",
-    "profile_url": "https://snfagora.jhu.edu/directory/yuen-yuen-ang/",
-    "photo_url": "images/people/yuen-yuen-ang.jpg",
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": true,
-    "mentions_total": 10,
-    "mentions_in_digest": 10,
-    "reach_proxy": 18,
-    "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-07-29",
-    "sentiment": {
-      "positive": 2,
-      "neutral": 8,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [
-      {
-        "source": "YouTube",
-        "count": 3
-      },
-      {
-        "source": "Brand Inside (Thailand)",
-        "count": 1
-      },
-      {
-        "source": "Brasil Soberano e Livre (blog)",
-        "count": 1
-      },
-      {
-        "source": "Channel NewsAsia (CNA)",
-        "count": 1
-      },
-      {
-        "source": "ECNS.cn",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-05-18",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-05-25",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-01",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-08",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 2,
-        "reach": 4
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 3,
-        "reach": 4
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 4,
-        "reach": 10
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "hahrie-han",
-    "name": "Hahrie Han",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Institute Professor of Political Science",
-    "profile_url": "https://snfagora.jhu.edu/directory/hahrie-han/",
-    "photo_url": "images/people/hahrie-han.jpg",
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 9,
-    "mentions_in_digest": 6,
-    "reach_proxy": 14,
-    "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-07-31",
-    "sentiment": {
-      "positive": 4,
-      "neutral": 2,
-      "negative": 0,
-      "unknown": 3
-    },
-    "top_sources": [
-      {
-        "source": "Twitter",
-        "count": 3
-      },
-      {
-        "source": "YouTube",
-        "count": 2
-      },
-      {
-        "source": "Baltimore Fishbowl",
-        "count": 1
-      },
-      {
-        "source": "British Brief",
-        "count": 1
-      },
-      {
-        "source": "JHU Hub",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-05-18",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-05-25",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-01",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-08",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 2,
-        "reach": 9
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 3,
-        "reach": 3
       },
       {
         "week_start": "2026-08-03",
@@ -1394,6 +1394,110 @@
     ]
   },
   {
+    "id": "lilliana-mason",
+    "name": "Lilliana Mason",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Institute Professor of Political Science",
+    "profile_url": "https://snfagora.jhu.edu/directory/lilliana-mason/",
+    "photo_url": "images/people/lilliana-mason.jpeg",
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 4,
+    "mentions_in_digest": 3,
+    "reach_proxy": 33,
+    "first_mention_date": "2026-07-08",
+    "last_mention_date": "2026-08-03",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Indiecinema",
+        "count": 1
+      },
+      {
+        "source": "MSN.com",
+        "count": 1
+      },
+      {
+        "source": "Xinhua (Portuguese)",
+        "count": 1
+      },
+      {
+        "source": "Xinhua (news.cn)",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-05-18",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-05-25",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-01",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 3,
+        "reach": 32
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "mara-karlin",
     "name": "Mara Karlin",
     "kind": "faculty",
@@ -1589,106 +1693,6 @@
         "week_start": "2026-07-27",
         "count": 1,
         "reach": 1
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "lilliana-mason",
-    "name": "Lilliana Mason",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Institute Professor of Political Science",
-    "profile_url": "https://snfagora.jhu.edu/directory/lilliana-mason/",
-    "photo_url": "images/people/lilliana-mason.jpeg",
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 3,
-    "mentions_in_digest": 3,
-    "reach_proxy": 32,
-    "first_mention_date": "2026-07-08",
-    "last_mention_date": "2026-07-11",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 3,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [
-      {
-        "source": "MSN.com",
-        "count": 1
-      },
-      {
-        "source": "Xinhua (Portuguese)",
-        "count": 1
-      },
-      {
-        "source": "Xinhua (news.cn)",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-05-18",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-05-25",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-01",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-08",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 3,
-        "reach": 32
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
       },
       {
         "week_start": "2026-08-03",
@@ -3280,6 +3284,98 @@
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "jenna-storey",
+    "name": "Jenna Silber Storey",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Visiting Fellow, AY25-26",
+    "profile_url": "https://snfagora.jhu.edu/directory/jenna-storey/",
+    "photo_url": "images/people/jenna-storey.jpg",
+    "categories": [
+      "Visiting Fellows"
+    ],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 1,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-08-03",
+    "last_mention_date": "2026-08-03",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 0
+    },
+    "top_sources": [
+      {
+        "source": "Inside Higher Ed",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-05-18",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-05-25",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-01",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -6276,93 +6372,6 @@
       "Affiliated Faculty"
     ],
     "is_ces": true,
-    "mentions_total": 0,
-    "mentions_in_digest": 0,
-    "reach_proxy": 0,
-    "first_mention_date": null,
-    "last_mention_date": null,
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [],
-    "weekly": [
-      {
-        "week_start": "2026-05-18",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-05-25",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-01",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-08",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "jenna-storey",
-    "name": "Jenna Silber Storey",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Visiting Fellow, AY25-26",
-    "profile_url": "https://snfagora.jhu.edu/directory/jenna-storey/",
-    "photo_url": "images/people/jenna-storey.jpg",
-    "categories": [
-      "Visiting Fellows"
-    ],
-    "is_ces": false,
     "mentions_total": 0,
     "mentions_in_digest": 0,
     "reach_proxy": 0,

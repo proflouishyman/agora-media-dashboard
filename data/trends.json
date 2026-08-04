@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-03T07:07:01-04:00",
+  "generated_at": "2026-08-04T07:13:57-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-08-03"
+    "end": "2026-08-04"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 196,
-        "in_digest": 114,
-        "reach_proxy": 376,
-        "people_covered": 38,
+        "mentions": 221,
+        "in_digest": 124,
+        "reach_proxy": 470,
+        "people_covered": 39,
         "people_tracked": 100,
-        "sources": 94,
-        "negative": 5
+        "sources": 99,
+        "negative": 8
       },
       "deltas": {
         "week_start": "2026-07-27",
@@ -264,9 +264,16 @@
         },
         {
           "date": "2026-08-03",
-          "count": 1,
-          "reach": 1,
-          "in_digest": 1,
+          "count": 23,
+          "reach": 92,
+          "in_digest": 8,
+          "observed": true
+        },
+        {
+          "date": "2026-08-04",
+          "count": 3,
+          "reach": 3,
+          "in_digest": 3,
           "observed": true
         }
       ],
@@ -338,45 +345,52 @@
         },
         {
           "week_start": "2026-08-03",
-          "count": 1,
-          "reach": 1,
-          "in_digest": 1,
-          "people": 1,
+          "count": 26,
+          "reach": 95,
+          "in_digest": 11,
+          "people": 8,
           "sentiment": {
-            "positive": 0,
-            "neutral": 0,
-            "negative": 0,
-            "unknown": 1
+            "positive": 13,
+            "neutral": 5,
+            "negative": 3,
+            "unknown": 5
           }
         }
       ],
       "sentiment": {
-        "positive": 41,
-        "neutral": 110,
-        "negative": 5,
-        "unknown": 40
+        "positive": 54,
+        "neutral": 115,
+        "negative": 8,
+        "unknown": 44
       },
       "top_people": [
         {
           "person_id": "snf-agora-institute",
           "name": "SNF Agora Institute",
-          "count": 36,
-          "reach": 59,
+          "count": 46,
+          "reach": 99,
           "is_ces": false
         },
         {
           "person_id": "anne-applebaum",
           "name": "Anne Applebaum",
-          "count": 22,
-          "reach": 14,
+          "count": 26,
+          "reach": 23,
           "is_ces": false
         },
         {
           "person_id": "yascha-mounk",
           "name": "Yascha Mounk",
-          "count": 14,
-          "reach": 12,
+          "count": 15,
+          "reach": 13,
           "is_ces": false
+        },
+        {
+          "person_id": "yuen-yuen-ang",
+          "name": "Yuen Yuen Ang",
+          "count": 14,
+          "reach": 23,
+          "is_ces": true
         },
         {
           "person_id": "louis-hyman",
@@ -386,31 +400,24 @@
           "is_ces": true
         },
         {
-          "person_id": "martha-s-jones",
-          "name": "Martha S. Jones",
-          "count": 10,
-          "reach": 8,
-          "is_ces": false
-        },
-        {
           "person_id": "sean-carroll",
           "name": "Sean Carroll",
-          "count": 10,
-          "reach": 3,
+          "count": 12,
+          "reach": 30,
           "is_ces": false
-        },
-        {
-          "person_id": "yuen-yuen-ang",
-          "name": "Yuen Yuen Ang",
-          "count": 10,
-          "reach": 18,
-          "is_ces": true
         },
         {
           "person_id": "hahrie-han",
           "name": "Hahrie Han",
-          "count": 9,
-          "reach": 14,
+          "count": 11,
+          "reach": 24,
+          "is_ces": false
+        },
+        {
+          "person_id": "martha-s-jones",
+          "name": "Martha S. Jones",
+          "count": 10,
+          "reach": 8,
           "is_ces": false
         },
         {
@@ -431,20 +438,20 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 36,
-          "reach": 35,
+          "count": 48,
+          "reach": 90,
           "is_other": false
         },
         {
           "source": "YouTube",
-          "count": 15,
-          "reach": 14,
+          "count": 18,
+          "reach": 17,
           "is_other": false
         },
         {
           "source": "LinkedIn",
-          "count": 10,
-          "reach": 7,
+          "count": 11,
+          "reach": 8,
           "is_other": false
         },
         {
@@ -455,6 +462,12 @@
         },
         {
           "source": "Bluesky",
+          "count": 6,
+          "reach": 5,
+          "is_other": false
+        },
+        {
+          "source": "Substack",
           "count": 6,
           "reach": 5,
           "is_other": false
@@ -472,37 +485,34 @@
           "is_other": false
         },
         {
-          "source": "RealClearInvestigations",
-          "count": 4,
-          "reach": 24,
-          "is_other": false
-        },
-        {
           "source": "Other",
-          "count": 109,
-          "reach": 280,
+          "count": 116,
+          "reach": 334,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 96
+          "count": 102
         },
         {
           "source_type": "social network",
-          "count": 49
+          "count": 53
         },
         {
           "source_type": "blog",
-          "count": 9
+          "count": 10
         },
         {
           "source_type": "unresolved",
-          "count": 42
+          "count": 56
         }
       ],
       "negative_stories": [
+        212,
+        211,
+        210,
         191,
         85,
         99,
@@ -514,30 +524,40 @@
           "row_label": "SNF Agora Institute",
           "person_id": "snf-agora-institute",
           "is_ces": false,
-          "positive": 6,
-          "neutral": 17,
-          "negative": 0,
+          "positive": 13,
+          "neutral": 19,
+          "negative": 1,
           "unknown": 13,
-          "total": 36
+          "total": 46
         },
         {
           "row_label": "Anne Applebaum",
           "person_id": "anne-applebaum",
           "is_ces": false,
-          "positive": 6,
+          "positive": 7,
           "neutral": 9,
-          "negative": 3,
-          "unknown": 4,
-          "total": 22
+          "negative": 4,
+          "unknown": 6,
+          "total": 26
         },
         {
           "row_label": "Yascha Mounk",
           "person_id": "yascha-mounk",
           "is_ces": false,
           "positive": 0,
-          "neutral": 6,
+          "neutral": 7,
           "negative": 1,
           "unknown": 7,
+          "total": 15
+        },
+        {
+          "row_label": "Yuen Yuen Ang",
+          "person_id": "yuen-yuen-ang",
+          "is_ces": true,
+          "positive": 4,
+          "neutral": 9,
+          "negative": 0,
+          "unknown": 1,
           "total": 14
         },
         {
@@ -551,6 +571,26 @@
           "total": 12
         },
         {
+          "row_label": "Sean Carroll",
+          "person_id": "sean-carroll",
+          "is_ces": false,
+          "positive": 3,
+          "neutral": 8,
+          "negative": 1,
+          "unknown": 0,
+          "total": 12
+        },
+        {
+          "row_label": "Hahrie Han",
+          "person_id": "hahrie-han",
+          "is_ces": false,
+          "positive": 6,
+          "neutral": 2,
+          "negative": 0,
+          "unknown": 3,
+          "total": 11
+        },
+        {
           "row_label": "Martha S. Jones",
           "person_id": "martha-s-jones",
           "is_ces": false,
@@ -559,36 +599,6 @@
           "negative": 0,
           "unknown": 0,
           "total": 10
-        },
-        {
-          "row_label": "Sean Carroll",
-          "person_id": "sean-carroll",
-          "is_ces": false,
-          "positive": 3,
-          "neutral": 7,
-          "negative": 0,
-          "unknown": 0,
-          "total": 10
-        },
-        {
-          "row_label": "Yuen Yuen Ang",
-          "person_id": "yuen-yuen-ang",
-          "is_ces": true,
-          "positive": 2,
-          "neutral": 8,
-          "negative": 0,
-          "unknown": 0,
-          "total": 10
-        },
-        {
-          "row_label": "Hahrie Han",
-          "person_id": "hahrie-han",
-          "is_ces": false,
-          "positive": 4,
-          "neutral": 2,
-          "negative": 0,
-          "unknown": 3,
-          "total": 9
         },
         {
           "row_label": "Ruth Braunstein",
@@ -641,6 +651,16 @@
           "total": 5
         },
         {
+          "row_label": "Lilliana Mason",
+          "person_id": "lilliana-mason",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 3,
+          "negative": 0,
+          "unknown": 1,
+          "total": 4
+        },
+        {
           "row_label": "Mara Karlin",
           "person_id": "mara-karlin",
           "is_ces": false,
@@ -659,16 +679,6 @@
           "negative": 0,
           "unknown": 0,
           "total": 4
-        },
-        {
-          "row_label": "Lilliana Mason",
-          "person_id": "lilliana-mason",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 3,
-          "negative": 0,
-          "unknown": 0,
-          "total": 3
         },
         {
           "row_label": "Amy Binder",
@@ -841,6 +851,16 @@
           "total": 1
         },
         {
+          "row_label": "Jenna Silber Storey",
+          "person_id": "jenna-storey",
+          "is_ces": false,
+          "positive": 1,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 0,
+          "total": 1
+        },
+        {
           "row_label": "Johnnie Moore",
           "person_id": "johnnie-moore",
           "is_ces": false,
@@ -894,40 +914,70 @@
       "source_type_sentiment_crosstab": [
         {
           "row_label": "online news",
-          "positive": 18,
-          "neutral": 74,
+          "positive": 20,
+          "neutral": 76,
           "negative": 2,
-          "unknown": 2,
-          "total": 96
+          "unknown": 4,
+          "total": 102
         },
         {
           "row_label": "social network",
-          "positive": 17,
-          "neutral": 24,
+          "positive": 19,
+          "neutral": 25,
           "negative": 0,
-          "unknown": 8,
-          "total": 49
+          "unknown": 9,
+          "total": 53
         },
         {
           "row_label": "blog",
           "positive": 4,
-          "neutral": 5,
+          "neutral": 6,
           "negative": 0,
           "unknown": 0,
-          "total": 9
+          "total": 10
         },
         {
           "row_label": "unresolved",
-          "positive": 2,
-          "neutral": 7,
-          "negative": 3,
-          "unknown": 30,
-          "total": 42
+          "positive": 11,
+          "neutral": 8,
+          "negative": 6,
+          "unknown": 31,
+          "total": 56
         }
       ],
       "sentiment_examples": {
         "negative": {
           "stories": [
+            {
+              "id": 212,
+              "person": "Anne Applebaum",
+              "person_id": "anne-applebaum",
+              "is_ces": false,
+              "title": "No text captured (matched: SNF Agora institute|SNF Agora|SNF|Hopkins|Agora|Anne Applebaum|Peter Pomerantsev|Hahrie Han) -- FLAG: 6 posts, negative entity sentiment for both Applebaum and Pomerantsev (Arena/LSE/Open Government Partnership context)",
+              "url": null,
+              "source": "Twitter",
+              "date": "2026-08-03"
+            },
+            {
+              "id": 211,
+              "person": "SNF Agora Institute",
+              "person_id": "snf-agora-institute",
+              "is_ces": false,
+              "title": "No text captured (matched: SNF Agora|SNF|Hopkins) -- FLAG: ~12 posts tying SNF Agora to Michelle Obama's Civic Nation/'When We All Vote' via Valerie Jarrett and the White House, consistently negative, apparently from a partisan account referenced by The Federalist",
+              "url": null,
+              "source": "Twitter",
+              "date": "2026-08-03"
+            },
+            {
+              "id": 210,
+              "person": "Sean Carroll",
+              "person_id": "sean-carroll",
+              "is_ces": false,
+              "title": "No text captured (matched: Johns|Hopkins|Sean Carroll) -- FLAG: ~26 posts, consistently negative entity sentiment for Sean Carroll alongside NASA's Gavin Schmidt and 'lie' (science-Twitter dispute)",
+              "url": null,
+              "source": "Twitter/Bluesky",
+              "date": "2026-08-03"
+            },
             {
               "id": 191,
               "person": "Anne Applebaum",
@@ -1024,6 +1074,136 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 201,
+              "person": "Yuen Yuen Ang",
+              "person_id": "yuen-yuen-ang",
+              "is_ces": true,
+              "title": "Who Gets to Explain Development?",
+              "url": "https://uscnpm.substack.com/p/who-gets-to-explain-development",
+              "source": "Substack",
+              "date": "2026-08-04"
+            },
+            {
+              "id": 198,
+              "person": "Anne Applebaum",
+              "person_id": "anne-applebaum",
+              "is_ces": false,
+              "title": "Pulitzer Historian Warns: America's Democracy Is Entering Its Most Dangerous Phase (Diary of a CEO)",
+              "url": "https://www.youtube.com/watch?v=y3RuIhpc-CY",
+              "source": "YouTube",
+              "date": "2026-08-04"
+            },
+            {
+              "id": 222,
+              "person": "SNF Agora Institute",
+              "person_id": "snf-agora-institute",
+              "is_ces": false,
+              "title": "No text captured (matched: SNF agora|SNF Agora) -- Democracy Funders Network / Daniel Stid context, positive",
+              "url": null,
+              "source": "Twitter",
+              "date": "2026-08-03"
+            },
+            {
+              "id": 221,
+              "person": "Yuen Yuen Ang",
+              "person_id": "yuen-yuen-ang",
+              "is_ces": true,
+              "title": "No text captured (matched: Yuen Yuen Ang|Hopkins) -- development-economics discourse citing Weber, Lant Pritchett, Michael Woolcock, positive entity sentiment for Ang",
+              "url": null,
+              "source": "Twitter",
+              "date": "2026-08-03"
+            },
+            {
+              "id": 220,
+              "person": "SNF Agora Institute",
+              "person_id": "snf-agora-institute",
+              "is_ces": false,
+              "title": "No text captured (matched: SNF Agora|Johns|Hopkins|SNF) -- Stavros Niarchos Foundation Parkway Theatre/Baltimore/Maryland Film Festival context, positive",
+              "url": null,
+              "source": "Twitter",
+              "date": "2026-08-03"
+            },
+            {
+              "id": 219,
+              "person": "SNF Agora Institute",
+              "person_id": "snf-agora-institute",
+              "is_ces": false,
+              "title": "No text captured (matched: SNF|Johns|Hopkins|SNF Agora Institute) -- Biden School/University of Delaware/Ithaca Initiative context, positive",
+              "url": null,
+              "source": "Twitter",
+              "date": "2026-08-03"
+            },
+            {
+              "id": 218,
+              "person": "SNF Agora Institute",
+              "person_id": "snf-agora-institute",
+              "is_ces": false,
+              "title": "No text captured (matched: SNF|SNF Agora Institute|Hopkins) -- Chatham House context, positive",
+              "url": null,
+              "source": "Twitter",
+              "date": "2026-08-03"
+            },
+            {
+              "id": 217,
+              "person": "Hahrie Han",
+              "person_id": "hahrie-han",
+              "is_ces": false,
+              "title": "No text captured (matched: Johns|Hopkins|Hahrie Han|SNF Agora) -- P3 Lab/Ford Foundation/Arabella funders-network context, positive entity sentiment for Hahrie Han",
+              "url": null,
+              "source": "Twitter",
+              "date": "2026-08-03"
+            },
+            {
+              "id": 216,
+              "person": "SNF Agora Institute",
+              "person_id": "snf-agora-institute",
+              "is_ces": false,
+              "title": "No text captured (matched: SNF Agora|Hopkins) -- DPI/Ford Foundation/Rockefeller funders context, positive",
+              "url": null,
+              "source": "Twitter",
+              "date": "2026-08-03"
+            },
+            {
+              "id": 214,
+              "person": "SNF Agora Institute",
+              "person_id": "snf-agora-institute",
+              "is_ces": false,
+              "title": "No text captured (matched: Hopkins|SNF Agora) -- generic positive mention",
+              "url": null,
+              "source": "Twitter",
+              "date": "2026-08-03"
+            },
+            {
+              "id": 213,
+              "person": "Hahrie Han",
+              "person_id": "hahrie-han",
+              "is_ces": false,
+              "title": "No text captured (matched: SNF Agora|Hahrie Han) -- Change Collective/Civic Nation funders-network context, positive entity sentiment for Hahrie Han",
+              "url": null,
+              "source": "Twitter",
+              "date": "2026-08-03"
+            },
+            {
+              "id": 206,
+              "person": "SNF Agora Institute",
+              "person_id": "snf-agora-institute",
+              "is_ces": false,
+              "title": "Democracy Narratives Alliance LinkedIn post (SNF Agora Institute credited as partner)",
+              "url": "https://www.linkedin.com/feed/update/urn:li:share:7490076243749560321",
+              "source": "LinkedIn",
+              "date": "2026-08-03"
+            },
+            {
+              "id": 203,
+              "person": "Jenna Silber Storey",
+              "person_id": "jenna-storey",
+              "is_ces": false,
+              "title": "Trump Officials Try Again to Reform Colleges, With Higher Ed's Help",
+              "url": "https://www.insidehighered.com/news/government/2026/08/03/mcmahon-sends-reform-questionnaire-colleges",
+              "source": "Inside Higher Ed",
+              "date": "2026-08-03"
+            },
             {
               "id": 171,
               "person": "Anne Applebaum",
@@ -1437,12 +1617,16 @@
           ],
           "top_keyphrases": [
             {
+              "keyphrase": "organization",
+              "count": 5
+            },
+            {
               "keyphrase": "democracy",
               "count": 5
             },
             {
-              "keyphrase": "organization",
-              "count": 4
+              "keyphrase": "book",
+              "count": 3
             },
             {
               "keyphrase": "campus",
@@ -1471,10 +1655,6 @@
             {
               "keyphrase": "civil dialogue",
               "count": 3
-            },
-            {
-              "keyphrase": "faculty",
-              "count": 3
             }
           ]
         }
@@ -1482,12 +1662,12 @@
     },
     "ces": {
       "totals": {
-        "mentions": 35,
-        "in_digest": 26,
-        "reach_proxy": 56,
+        "mentions": 39,
+        "in_digest": 29,
+        "reach_proxy": 61,
         "people_covered": 9,
         "people_tracked": 17,
-        "sources": 21,
+        "sources": 24,
         "negative": 0
       },
       "deltas": {
@@ -1739,9 +1919,16 @@
         },
         {
           "date": "2026-08-03",
-          "count": 0,
-          "reach": 0,
-          "in_digest": 0,
+          "count": 3,
+          "reach": 4,
+          "in_digest": 2,
+          "observed": true
+        },
+        {
+          "date": "2026-08-04",
+          "count": 1,
+          "reach": 1,
+          "in_digest": 1,
           "observed": true
         }
       ],
@@ -1813,37 +2000,37 @@
         },
         {
           "week_start": "2026-08-03",
-          "count": 0,
-          "reach": 0,
-          "in_digest": 0,
-          "people": 0,
+          "count": 4,
+          "reach": 5,
+          "in_digest": 3,
+          "people": 1,
           "sentiment": {
-            "positive": 0,
-            "neutral": 0,
+            "positive": 2,
+            "neutral": 1,
             "negative": 0,
-            "unknown": 0
+            "unknown": 1
           }
         }
       ],
       "sentiment": {
-        "positive": 8,
-        "neutral": 19,
+        "positive": 10,
+        "neutral": 20,
         "negative": 0,
-        "unknown": 8
+        "unknown": 9
       },
       "top_people": [
+        {
+          "person_id": "yuen-yuen-ang",
+          "name": "Yuen Yuen Ang",
+          "count": 14,
+          "reach": 23,
+          "is_ces": true
+        },
         {
           "person_id": "louis-hyman",
           "name": "Louis Hyman",
           "count": 12,
           "reach": 19,
-          "is_ces": true
-        },
-        {
-          "person_id": "yuen-yuen-ang",
-          "name": "Yuen Yuen Ang",
-          "count": 10,
-          "reach": 18,
           "is_ces": true
         },
         {
@@ -1899,8 +2086,8 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 8,
-          "reach": 8,
+          "count": 9,
+          "reach": 9,
           "is_other": false
         },
         {
@@ -1947,15 +2134,15 @@
         },
         {
           "source": "Other",
-          "count": 13,
-          "reach": 28,
+          "count": 16,
+          "reach": 32,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 19
+          "count": 22
         },
         {
           "source_type": "social network",
@@ -1967,11 +2154,21 @@
         },
         {
           "source_type": "unresolved",
-          "count": 8
+          "count": 9
         }
       ],
       "negative_stories": [],
       "person_sentiment_crosstab": [
+        {
+          "row_label": "Yuen Yuen Ang",
+          "person_id": "yuen-yuen-ang",
+          "is_ces": true,
+          "positive": 4,
+          "neutral": 9,
+          "negative": 0,
+          "unknown": 1,
+          "total": 14
+        },
         {
           "row_label": "Louis Hyman",
           "person_id": "louis-hyman",
@@ -1981,16 +2178,6 @@
           "negative": 0,
           "unknown": 8,
           "total": 12
-        },
-        {
-          "row_label": "Yuen Yuen Ang",
-          "person_id": "yuen-yuen-ang",
-          "is_ces": true,
-          "positive": 2,
-          "neutral": 8,
-          "negative": 0,
-          "unknown": 0,
-          "total": 10
         },
         {
           "row_label": "Henry Farrell",
@@ -2066,11 +2253,11 @@
       "source_type_sentiment_crosstab": [
         {
           "row_label": "online news",
-          "positive": 7,
-          "neutral": 12,
+          "positive": 8,
+          "neutral": 13,
           "negative": 0,
-          "unknown": 0,
-          "total": 19
+          "unknown": 1,
+          "total": 22
         },
         {
           "row_label": "social network",
@@ -2090,11 +2277,11 @@
         },
         {
           "row_label": "unresolved",
-          "positive": 0,
+          "positive": 1,
           "neutral": 0,
           "negative": 0,
           "unknown": 8,
-          "total": 8
+          "total": 9
         }
       ],
       "sentiment_examples": {
@@ -2104,6 +2291,26 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 201,
+              "person": "Yuen Yuen Ang",
+              "person_id": "yuen-yuen-ang",
+              "is_ces": true,
+              "title": "Who Gets to Explain Development?",
+              "url": "https://uscnpm.substack.com/p/who-gets-to-explain-development",
+              "source": "Substack",
+              "date": "2026-08-04"
+            },
+            {
+              "id": 221,
+              "person": "Yuen Yuen Ang",
+              "person_id": "yuen-yuen-ang",
+              "is_ces": true,
+              "title": "No text captured (matched: Yuen Yuen Ang|Hopkins) -- development-economics discourse citing Weber, Lant Pritchett, Michael Woolcock, positive entity sentiment for Ang",
+              "url": null,
+              "source": "Twitter",
+              "date": "2026-08-03"
+            },
             {
               "id": 66,
               "person": "Louis Hyman",
