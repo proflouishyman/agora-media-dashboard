@@ -1,7 +1,384 @@
 {
-  "generated_at": "2026-08-04T07:13:57-04:00",
-  "count": 221,
+  "generated_at": "2026-08-05T07:11:26-04:00",
+  "count": 240,
   "stories": [
+    {
+      "id": 230,
+      "date": "2026-08-04",
+      "week_start": "2026-08-03",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "No text captured (matched: SNF Agora|SNF) -- Civic Nation/Michelle Obama/Valerie Jarrett/White House context via The Federalist, consistently negative (continuation of yesterday's ~12-post cluster, down to ~8 today)",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 8,
+      "entity_sentiment": "negative",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 234,
+      "date": "2026-08-04",
+      "week_start": "2026-08-03",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": "No text captured (matched: Johns|Hopkins|Hahrie Han|SNF Agora) -- P3 Lab/Ford Foundation/Arabella New Venture Fund grant-activity context, positive entity sentiment for Hahrie Han",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 3,
+      "entity_sentiment": "positive",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 232,
+      "date": "2026-08-04",
+      "week_start": "2026-08-03",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "No text captured (matched: SNF Agora institute|SNF Agora|SNF|Hopkins|Agora|Anne Applebaum|Peter Pomerantsev|Hahrie Han) -- Arena/LSE/Open Government Partnership context, negative entity sentiment for both Applebaum and Pomerantsev (continuation of yesterday's 6-post cluster, down to 3 today)",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 3,
+      "entity_sentiment": "negative",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 231,
+      "date": "2026-08-04",
+      "week_start": "2026-08-03",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "No text captured (matched: SNF Agora|Johns|Hopkins|SNF) -- Stavros Niarchos Foundation Parkway Theatre/Baltimore/Maryland Film Festival context, positive",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 3,
+      "entity_sentiment": "positive",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 240,
+      "date": "2026-08-04",
+      "week_start": "2026-08-03",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "No text captured (matched: SNF|Johns|Hopkins|SNF Agora Institute) -- Biden School/University of Delaware/Ithaca Initiative context, positive",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "positive",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 239,
+      "date": "2026-08-04",
+      "week_start": "2026-08-03",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "No text captured (matched: SNF Agora|Johns|Hopkins) -- Trump/USAID 'coup' context, neutral entity sentiment for SNF Agora despite negative Trump sentiment",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "neutral",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 233,
+      "date": "2026-08-04",
+      "week_start": "2026-08-03",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": "No text captured (matched: SNF Agora|Hahrie Han) -- Civic Nation/Change Collective/Valerie Jarrett/Obama Foundation funders-network context, positive entity sentiment for Hahrie Han",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "positive",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 241,
+      "date": "2026-08-04",
+      "week_start": "2026-08-03",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "No text captured (matched: SNF|SNF Agora Institute|Hopkins) -- Chatham House context, positive",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 238,
+      "date": "2026-08-04",
+      "week_start": "2026-08-03",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "No text captured (matched: Hopkins|SNF Agora) -- unrelated true-crime/investigation thread incidentally naming 'John Hopkins', positive entity sentiment but likely noise",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 237,
+      "date": "2026-08-04",
+      "week_start": "2026-08-03",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "No text captured (matched: SNF agora|SNF Agora) -- Democracy Funders Network/Daniel Stid thread context, positive",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 236,
+      "date": "2026-08-04",
+      "week_start": "2026-08-03",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "No text captured (matched: Anne Applebaum|SNF Agora Institute|Johns|Hopkins) -- Arabic-language tweet, no 'anne applebaum' entity found (only unrelated ideology terms), sentiment unknown",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 235,
+      "date": "2026-08-04",
+      "week_start": "2026-08-03",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "No text captured (matched: SNF Agora Institute|Johns|Hopkins) -- Pulitzer Prize/fall of communism/senior fellow book-context keyphrases, neutral entity sentiment",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 229,
+      "date": "2026-08-04",
+      "week_start": "2026-08-03",
+      "person_id": "louis-hyman",
+      "person": "Louis Hyman",
+      "is_ces": true,
+      "title": "NOT RELEVANT: 'agora' matched the Portuguese word 'now,' not the Institute; no Louis Hyman entity found",
+      "has_text": true,
+      "url": "https://blog.indiecinema.co/pt/trabalho-precario-e-sonhos-em-espera/",
+      "source": "Indiecinema",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "NOT RELEVANT: 'agora' matched the Portuguese word 'now,' not the Institute; no Louis Hyman entity found https://blog.indiecinema.co/pt/trabalho-precario-e-sonhos-em-espera/",
+          "chars": 127
+        },
+        "bluesky": {
+          "text": "NOT RELEVANT: 'agora' matched the Portuguese word 'now,' not the Institute; no Louis Hyman entity found https://blog.indiecinema.co/pt/trabalho-precario-e-sonhos-em-espera/",
+          "chars": 172
+        }
+      }
+    },
+    {
+      "id": 228,
+      "date": "2026-08-04",
+      "week_start": "2026-08-03",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "No text captured (matched: Anne Applebaum|Johns|Hopkins) -- Reddit r/poland comment, zero captured text",
+      "has_text": false,
+      "url": "https://www.reddit.com/r/poland/comments/1veeq66/comment/p1qb9f0/",
+      "source": "reddit.com/r/poland",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 227,
+      "date": "2026-08-04",
+      "week_start": "2026-08-03",
+      "person_id": "jenna-storey",
+      "person": "Jenna Silber Storey",
+      "is_ces": false,
+      "title": "DUPLICATE: McMahon Sends Reform 'Questionnaire' to Colleges (EUROPE SAYS republish of yesterday's Inside Higher Ed story, already covered in 2026-08-04 digest)",
+      "has_text": true,
+      "url": "https://www.europesays.com/news/61097/",
+      "source": "EUROPE SAYS",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "DUPLICATE: McMahon Sends Reform 'Questionnaire' to Colleges (EUROPE SAYS republish of yesterday's Inside Higher Ed story, already covered in 2026-08-04 digest) https://www.europesays.com/news/61097/",
+          "chars": 183
+        },
+        "bluesky": {
+          "text": "DUPLICATE: McMahon Sends Reform 'Questionnaire' to Colleges (EUROPE SAYS republish of yesterday's Inside Higher Ed story, already covered in 2026-08-04 digest) https://www.europesays.com/news/61097/",
+          "chars": 198
+        }
+      }
+    },
+    {
+      "id": 226,
+      "date": "2026-08-04",
+      "week_start": "2026-08-03",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "LinkedIn post on The Great Battlefield podcast interview (ReD Associates ethnography collaboration)",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7490420922705686528",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "LinkedIn post on The Great Battlefield podcast interview (ReD Associates ethnography collaboration) https://www.linkedin.com/feed/update/urn:li:share:7490420922705686528",
+          "chars": 123
+        },
+        "bluesky": {
+          "text": "LinkedIn post on The Great Battlefield podcast interview (ReD Associates ethnography collaboration) https://www.linkedin.com/feed/update/urn:li:share:7490420922705686528",
+          "chars": 169
+        }
+      }
+    },
+    {
+      "id": 225,
+      "date": "2026-08-04",
+      "week_start": "2026-08-03",
+      "person_id": "nina-hall",
+      "person": "Nina Hall",
+      "is_ces": false,
+      "title": "Interview – Nina Hall",
+      "has_text": true,
+      "url": "https://www.e-ir.org/p/interview-nina-hall",
+      "source": "Substack (E-International Relations)",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Interview – Nina Hall https://www.e-ir.org/p/interview-nina-hall",
+          "chars": 45
+        },
+        "bluesky": {
+          "text": "Interview – Nina Hall https://www.e-ir.org/p/interview-nina-hall",
+          "chars": 64
+        }
+      }
+    },
+    {
+      "id": 224,
+      "date": "2026-08-04",
+      "week_start": "2026-08-03",
+      "person_id": "mara-karlin",
+      "person": "Mara Karlin",
+      "is_ces": false,
+      "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
+      "has_text": true,
+      "url": "https://www.europesays.com/iran/236407/",
+      "source": "EUROPE SAYS",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States https://www.europesays.com/iran/236407/",
+          "chars": 97
+        },
+        "bluesky": {
+          "text": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States https://www.europesays.com/iran/236407/",
+          "chars": 113
+        }
+      }
+    },
+    {
+      "id": 223,
+      "date": "2026-08-04",
+      "week_start": "2026-08-03",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "From Gulag to Autocracy Inc: Anne Applebaum on why democracies can still win",
+      "has_text": true,
+      "url": "https://www.news24.com/opinions/analysis/from-gulag-to-autocracy-inc-anne-applebaum-on-why-democracies-can-still-win-20260804-0730",
+      "source": "News24",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "From Gulag to Autocracy Inc: Anne Applebaum on why democracies can still win https://www.news24.com/opinions/analysis/from-gulag-to-autocracy-inc-anne-applebaum-on-why-democracies-can-still-win-20260804-0730",
+          "chars": 100
+        },
+        "bluesky": {
+          "text": "From Gulag to Autocracy Inc: Anne Applebaum on why democracies can still win https://www.news24.com/opinions/analysis/from-gulag-to-autocracy-inc-anne-applebaum-on-why-democracies-can-still-win-20260804-0730",
+          "chars": 207
+        }
+      }
+    },
     {
       "id": 204,
       "date": "2026-08-04",
