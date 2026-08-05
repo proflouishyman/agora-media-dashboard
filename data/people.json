@@ -9,25 +9,25 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 46,
-    "mentions_in_digest": 19,
-    "reach_proxy": 99,
+    "mentions_total": 54,
+    "mentions_in_digest": 20,
+    "reach_proxy": 118,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-08-03",
+    "last_mention_date": "2026-08-04",
     "sentiment": {
-      "positive": 13,
-      "neutral": 19,
-      "negative": 1,
+      "positive": 18,
+      "neutral": 21,
+      "negative": 2,
       "unknown": 13
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 20
+        "count": 27
       },
       {
         "source": "LinkedIn",
-        "count": 7
+        "count": 8
       },
       {
         "source": "Medium",
@@ -100,8 +100,8 @@
       },
       {
         "week_start": "2026-08-03",
-        "count": 10,
-        "reach": 40
+        "count": 18,
+        "reach": 59
       }
     ]
   },
@@ -117,28 +117,28 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 26,
-    "mentions_in_digest": 17,
-    "reach_proxy": 23,
+    "mentions_total": 31,
+    "mentions_in_digest": 18,
+    "reach_proxy": 30,
     "first_mention_date": "2026-07-02",
     "last_mention_date": "2026-08-04",
     "sentiment": {
-      "positive": 7,
-      "neutral": 9,
-      "negative": 4,
-      "unknown": 6
+      "positive": 8,
+      "neutral": 10,
+      "negative": 5,
+      "unknown": 8
     },
     "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 6
+      },
       {
         "source": "YouTube",
         "count": 4
       },
       {
         "source": "Gazeta Wyborcza",
-        "count": 3
-      },
-      {
-        "source": "Twitter",
         "count": 3
       },
       {
@@ -208,8 +208,8 @@
       },
       {
         "week_start": "2026-08-03",
-        "count": 5,
-        "reach": 10
+        "count": 10,
+        "reach": 17
       }
     ]
   },
@@ -430,6 +430,114 @@
     ]
   },
   {
+    "id": "hahrie-han",
+    "name": "Hahrie Han",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Institute Professor of Political Science",
+    "profile_url": "https://snfagora.jhu.edu/directory/hahrie-han/",
+    "photo_url": "images/people/hahrie-han.jpg",
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 13,
+    "mentions_in_digest": 6,
+    "reach_proxy": 29,
+    "first_mention_date": "2026-07-02",
+    "last_mention_date": "2026-08-04",
+    "sentiment": {
+      "positive": 8,
+      "neutral": 2,
+      "negative": 0,
+      "unknown": 3
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 7
+      },
+      {
+        "source": "YouTube",
+        "count": 2
+      },
+      {
+        "source": "Baltimore Fishbowl",
+        "count": 1
+      },
+      {
+        "source": "British Brief",
+        "count": 1
+      },
+      {
+        "source": "JHU Hub",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-05-18",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-05-25",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-01",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 2,
+        "reach": 9
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 3,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 4,
+        "reach": 15
+      }
+    ]
+  },
+  {
     "id": "louis-hyman",
     "name": "Louis Hyman",
     "kind": "faculty",
@@ -441,16 +549,16 @@
       "Core Faculty"
     ],
     "is_ces": true,
-    "mentions_total": 12,
+    "mentions_total": 13,
     "mentions_in_digest": 4,
-    "reach_proxy": 19,
+    "reach_proxy": 20,
     "first_mention_date": "2026-07-10",
-    "last_mention_date": "2026-07-30",
+    "last_mention_date": "2026-08-04",
     "sentiment": {
       "positive": 2,
       "neutral": 2,
       "negative": 0,
-      "unknown": 8
+      "unknown": 9
     },
     "top_sources": [
       {
@@ -462,15 +570,15 @@
         "count": 1
       },
       {
+        "source": "Indiecinema",
+        "count": 1
+      },
+      {
         "source": "RealClearInvestigations",
         "count": 1
       },
       {
         "source": "Vox",
-        "count": 1
-      },
-      {
-        "source": "WND",
         "count": 1
       }
     ],
@@ -532,8 +640,8 @@
       },
       {
         "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -642,114 +750,6 @@
         "week_start": "2026-08-03",
         "count": 2,
         "reach": 27
-      }
-    ]
-  },
-  {
-    "id": "hahrie-han",
-    "name": "Hahrie Han",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Institute Professor of Political Science",
-    "profile_url": "https://snfagora.jhu.edu/directory/hahrie-han/",
-    "photo_url": "images/people/hahrie-han.jpg",
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 11,
-    "mentions_in_digest": 6,
-    "reach_proxy": 24,
-    "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-08-03",
-    "sentiment": {
-      "positive": 6,
-      "neutral": 2,
-      "negative": 0,
-      "unknown": 3
-    },
-    "top_sources": [
-      {
-        "source": "Twitter",
-        "count": 5
-      },
-      {
-        "source": "YouTube",
-        "count": 2
-      },
-      {
-        "source": "Baltimore Fishbowl",
-        "count": 1
-      },
-      {
-        "source": "British Brief",
-        "count": 1
-      },
-      {
-        "source": "JHU Hub",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-05-18",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-05-25",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-01",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-08",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 2,
-        "reach": 9
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 3,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 2,
-        "reach": 10
       }
     ]
   },
@@ -1394,6 +1394,114 @@
     ]
   },
   {
+    "id": "mara-karlin",
+    "name": "Mara Karlin",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Director of the Foreign Policy Institute at Johns Hopkins School of Advanced International Studies",
+    "profile_url": "https://snfagora.jhu.edu/directory/mara-karlin/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 5,
+    "mentions_in_digest": 3,
+    "reach_proxy": 81,
+    "first_mention_date": "2026-07-19",
+    "last_mention_date": "2026-08-04",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "EUROPE SAYS",
+        "count": 1
+      },
+      {
+        "source": "Münchner Merkur",
+        "count": 1
+      },
+      {
+        "source": "Newsweek",
+        "count": 1
+      },
+      {
+        "source": "The Cipher Brief",
+        "count": 1
+      },
+      {
+        "source": "The New York Times",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-05-18",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-05-25",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-01",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 1,
+        "reach": 8
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 1,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 2,
+        "reach": 69
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "lilliana-mason",
     "name": "Lilliana Mason",
     "kind": "faculty",
@@ -1494,110 +1602,6 @@
         "week_start": "2026-08-03",
         "count": 1,
         "reach": 1
-      }
-    ]
-  },
-  {
-    "id": "mara-karlin",
-    "name": "Mara Karlin",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Director of the Foreign Policy Institute at Johns Hopkins School of Advanced International Studies",
-    "profile_url": "https://snfagora.jhu.edu/directory/mara-karlin/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 4,
-    "mentions_in_digest": 2,
-    "reach_proxy": 80,
-    "first_mention_date": "2026-07-19",
-    "last_mention_date": "2026-07-30",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 4,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [
-      {
-        "source": "Münchner Merkur",
-        "count": 1
-      },
-      {
-        "source": "Newsweek",
-        "count": 1
-      },
-      {
-        "source": "The Cipher Brief",
-        "count": 1
-      },
-      {
-        "source": "The New York Times",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-05-18",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-05-25",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-01",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-08",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 1,
-        "reach": 8
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 1,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 2,
-        "reach": 69
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
       }
     ]
   },
@@ -1890,6 +1894,102 @@
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "jenna-storey",
+    "name": "Jenna Silber Storey",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Visiting Fellow, AY25-26",
+    "profile_url": "https://snfagora.jhu.edu/directory/jenna-storey/",
+    "photo_url": "images/people/jenna-storey.jpg",
+    "categories": [
+      "Visiting Fellows"
+    ],
+    "is_ces": false,
+    "mentions_total": 2,
+    "mentions_in_digest": 1,
+    "reach_proxy": 2,
+    "first_mention_date": "2026-08-03",
+    "last_mention_date": "2026-08-04",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "EUROPE SAYS",
+        "count": 1
+      },
+      {
+        "source": "Inside Higher Ed",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-05-18",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-05-25",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-01",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 2,
+        "reach": 2
       }
     ]
   },
@@ -3288,98 +3388,6 @@
     ]
   },
   {
-    "id": "jenna-storey",
-    "name": "Jenna Silber Storey",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Visiting Fellow, AY25-26",
-    "profile_url": "https://snfagora.jhu.edu/directory/jenna-storey/",
-    "photo_url": "images/people/jenna-storey.jpg",
-    "categories": [
-      "Visiting Fellows"
-    ],
-    "is_ces": false,
-    "mentions_total": 1,
-    "mentions_in_digest": 1,
-    "reach_proxy": 1,
-    "first_mention_date": "2026-08-03",
-    "last_mention_date": "2026-08-03",
-    "sentiment": {
-      "positive": 1,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [
-      {
-        "source": "Inside Higher Ed",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-05-18",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-05-25",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-01",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-08",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 1,
-        "reach": 1
-      }
-    ]
-  },
-  {
     "id": "johnnie-moore",
     "name": "Johnnie Moore",
     "kind": "unmatched",
@@ -3742,6 +3750,98 @@
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "nina-hall",
+    "name": "Nina Hall",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Assistant Professor in International Relations",
+    "profile_url": "https://snfagora.jhu.edu/directory/nina-hall/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 1,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-08-04",
+    "last_mention_date": "2026-08-04",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 0
+    },
+    "top_sources": [
+      {
+        "source": "Substack (E-International Relations)",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-05-18",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-05-25",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-01",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -8284,93 +8384,6 @@
     "photo_url": "images/people/nigel-semaj.jpg",
     "categories": [
       "Visiting Fellows"
-    ],
-    "is_ces": false,
-    "mentions_total": 0,
-    "mentions_in_digest": 0,
-    "reach_proxy": 0,
-    "first_mention_date": null,
-    "last_mention_date": null,
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [],
-    "weekly": [
-      {
-        "week_start": "2026-05-18",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-05-25",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-01",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-08",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "nina-hall",
-    "name": "Nina Hall",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Assistant Professor in International Relations",
-    "profile_url": "https://snfagora.jhu.edu/directory/nina-hall/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
     ],
     "is_ces": false,
     "mentions_total": 0,

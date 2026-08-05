@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-04T07:13:57-04:00",
-  "count": 25,
+  "generated_at": "2026-08-05T07:11:26-04:00",
+  "count": 26,
   "picks": [
+    {
+      "id": 41,
+      "mention_id": 223,
+      "digest_date": "2026-08-04",
+      "person": "Anne Applebaum",
+      "person_id": "anne-applebaum",
+      "person_ids": [
+        "anne-applebaum"
+      ],
+      "is_ces": false,
+      "punchy_title": "Applebaum on Why Democracies Can Still Beat Autocracy",
+      "headline": "Applebaum on Why Democracies Can Still Beat Autocracy",
+      "pull_quote": "... interview with CDE's Ann Bernstein. Ann Bernstein: Anne Applebaum is a Pulitzer Prize-winning historian and senior fellow at ...",
+      "rationale": "... interview with CDE's Ann Bernstein. Ann Bernstein: Anne Applebaum is a Pulitzer Prize-winning historian and senior fellow at ...",
+      "url": "https://www.news24.com/opinions/analysis/from-gulag-to-autocracy-inc-anne-applebaum-on-why-democracies-can-still-win-20260804-0730",
+      "story_url": "https://www.news24.com/opinions/analysis/from-gulag-to-autocracy-inc-anne-applebaum-on-why-democracies-can-still-win-20260804-0730",
+      "created_at": "2026-08-05 11:11:13",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Anne Applebaum (SNF Agora Senior Fellow) on how modern autocracies cooperate and why democracies can still fight back. https://www.news24.com/opinions/analysis/from-gulag-to-autocracy-inc-anne-applebaum-on-why-democracies-can-still-win-20260804-0730",
+          "chars": 249,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Anne%20Applebaum%20%28SNF%20Agora%20Senior%20Fellow%29%20on%20how%20modern%20autocracies%20cooperate%20and%20why%20democracies%20can%20still%20fight%20back.%20https%3A//www.news24.com/opinions/analysis/from-gulag-to-autocracy-inc-anne-applebaum-on-why-democracies-can-still-win-20260804-0730"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Anne Applebaum (SNF Agora Senior Fellow) on how modern autocracies cooperate and why democracies can still fight back. https://www.news24.com/opinions/analysis/from-gulag-to-autocracy-inc-anne-applebaum-on-why-democracies-can-still-win-20260804-0730",
+          "chars": 249,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Anne%20Applebaum%20%28SNF%20Agora%20Senior%20Fellow%29%20on%20how%20modern%20autocracies%20cooperate%20and%20why%20democracies%20can%20still%20fight%20back.%20https%3A//www.news24.com/opinions/analysis/from-gulag-to-autocracy-inc-anne-applebaum-on-why-democracies-can-still-win-20260804-0730"
+        }
+      ]
+    },
     {
       "id": 40,
       "mention_id": 198,

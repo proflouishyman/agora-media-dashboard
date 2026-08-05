@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T07:13:57-04:00",
+  "generated_at": "2026-08-05T07:11:26-04:00",
   "window": {
     "start": "2026-07-02",
     "end": "2026-08-04"
@@ -7,13 +7,13 @@
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 221,
-        "in_digest": 124,
-        "reach_proxy": 470,
-        "people_covered": 39,
+        "mentions": 240,
+        "in_digest": 128,
+        "reach_proxy": 505,
+        "people_covered": 40,
         "people_tracked": 100,
-        "sources": 99,
-        "negative": 8
+        "sources": 102,
+        "negative": 10
       },
       "deltas": {
         "week_start": "2026-07-27",
@@ -271,9 +271,9 @@
         },
         {
           "date": "2026-08-04",
-          "count": 3,
-          "reach": 3,
-          "in_digest": 3,
+          "count": 22,
+          "reach": 38,
+          "in_digest": 7,
           "observed": true
         }
       ],
@@ -345,37 +345,37 @@
         },
         {
           "week_start": "2026-08-03",
-          "count": 26,
-          "reach": 95,
-          "in_digest": 11,
-          "people": 8,
+          "count": 45,
+          "reach": 130,
+          "in_digest": 15,
+          "people": 11,
           "sentiment": {
-            "positive": 13,
-            "neutral": 5,
-            "negative": 3,
-            "unknown": 5
+            "positive": 22,
+            "neutral": 8,
+            "negative": 5,
+            "unknown": 10
           }
         }
       ],
       "sentiment": {
-        "positive": 54,
-        "neutral": 115,
-        "negative": 8,
-        "unknown": 44
+        "positive": 63,
+        "neutral": 118,
+        "negative": 10,
+        "unknown": 49
       },
       "top_people": [
         {
           "person_id": "snf-agora-institute",
           "name": "SNF Agora Institute",
-          "count": 46,
-          "reach": 99,
+          "count": 54,
+          "reach": 118,
           "is_ces": false
         },
         {
           "person_id": "anne-applebaum",
           "name": "Anne Applebaum",
-          "count": 26,
-          "reach": 23,
+          "count": 31,
+          "reach": 30,
           "is_ces": false
         },
         {
@@ -393,10 +393,17 @@
           "is_ces": true
         },
         {
+          "person_id": "hahrie-han",
+          "name": "Hahrie Han",
+          "count": 13,
+          "reach": 29,
+          "is_ces": false
+        },
+        {
           "person_id": "louis-hyman",
           "name": "Louis Hyman",
-          "count": 12,
-          "reach": 19,
+          "count": 13,
+          "reach": 20,
           "is_ces": true
         },
         {
@@ -404,13 +411,6 @@
           "name": "Sean Carroll",
           "count": 12,
           "reach": 30,
-          "is_ces": false
-        },
-        {
-          "person_id": "hahrie-han",
-          "name": "Hahrie Han",
-          "count": 11,
-          "reach": 24,
           "is_ces": false
         },
         {
@@ -438,8 +438,8 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 48,
-          "reach": 90,
+          "count": 60,
+          "reach": 118,
           "is_other": false
         },
         {
@@ -450,8 +450,8 @@
         },
         {
           "source": "LinkedIn",
-          "count": 11,
-          "reach": 8,
+          "count": 12,
+          "reach": 9,
           "is_other": false
         },
         {
@@ -479,26 +479,26 @@
           "is_other": false
         },
         {
-          "source": "Medium",
+          "source": "Indiecinema",
           "count": 4,
-          "reach": 1,
+          "reach": 8,
           "is_other": false
         },
         {
           "source": "Other",
-          "count": 116,
-          "reach": 334,
+          "count": 122,
+          "reach": 333,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 102
+          "count": 106
         },
         {
           "source_type": "social network",
-          "count": 53
+          "count": 55
         },
         {
           "source_type": "blog",
@@ -506,10 +506,12 @@
         },
         {
           "source_type": "unresolved",
-          "count": 56
+          "count": 69
         }
       ],
       "negative_stories": [
+        232,
+        230,
         212,
         211,
         210,
@@ -524,21 +526,21 @@
           "row_label": "SNF Agora Institute",
           "person_id": "snf-agora-institute",
           "is_ces": false,
-          "positive": 13,
-          "neutral": 19,
-          "negative": 1,
+          "positive": 18,
+          "neutral": 21,
+          "negative": 2,
           "unknown": 13,
-          "total": 46
+          "total": 54
         },
         {
           "row_label": "Anne Applebaum",
           "person_id": "anne-applebaum",
           "is_ces": false,
-          "positive": 7,
-          "neutral": 9,
-          "negative": 4,
-          "unknown": 6,
-          "total": 26
+          "positive": 8,
+          "neutral": 10,
+          "negative": 5,
+          "unknown": 8,
+          "total": 31
         },
         {
           "row_label": "Yascha Mounk",
@@ -561,14 +563,24 @@
           "total": 14
         },
         {
+          "row_label": "Hahrie Han",
+          "person_id": "hahrie-han",
+          "is_ces": false,
+          "positive": 8,
+          "neutral": 2,
+          "negative": 0,
+          "unknown": 3,
+          "total": 13
+        },
+        {
           "row_label": "Louis Hyman",
           "person_id": "louis-hyman",
           "is_ces": true,
           "positive": 2,
           "neutral": 2,
           "negative": 0,
-          "unknown": 8,
-          "total": 12
+          "unknown": 9,
+          "total": 13
         },
         {
           "row_label": "Sean Carroll",
@@ -579,16 +591,6 @@
           "negative": 1,
           "unknown": 0,
           "total": 12
-        },
-        {
-          "row_label": "Hahrie Han",
-          "person_id": "hahrie-han",
-          "is_ces": false,
-          "positive": 6,
-          "neutral": 2,
-          "negative": 0,
-          "unknown": 3,
-          "total": 11
         },
         {
           "row_label": "Martha S. Jones",
@@ -651,6 +653,16 @@
           "total": 5
         },
         {
+          "row_label": "Mara Karlin",
+          "person_id": "mara-karlin",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 4,
+          "negative": 0,
+          "unknown": 1,
+          "total": 5
+        },
+        {
           "row_label": "Lilliana Mason",
           "person_id": "lilliana-mason",
           "is_ces": false,
@@ -658,16 +670,6 @@
           "neutral": 3,
           "negative": 0,
           "unknown": 1,
-          "total": 4
-        },
-        {
-          "row_label": "Mara Karlin",
-          "person_id": "mara-karlin",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 4,
-          "negative": 0,
-          "unknown": 0,
           "total": 4
         },
         {
@@ -698,6 +700,16 @@
           "neutral": 2,
           "negative": 0,
           "unknown": 0,
+          "total": 2
+        },
+        {
+          "row_label": "Jenna Silber Storey",
+          "person_id": "jenna-storey",
+          "is_ces": false,
+          "positive": 1,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
           "total": 2
         },
         {
@@ -851,16 +863,6 @@
           "total": 1
         },
         {
-          "row_label": "Jenna Silber Storey",
-          "person_id": "jenna-storey",
-          "is_ces": false,
-          "positive": 1,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 0,
-          "total": 1
-        },
-        {
           "row_label": "Johnnie Moore",
           "person_id": "johnnie-moore",
           "is_ces": false,
@@ -901,6 +903,16 @@
           "total": 1
         },
         {
+          "row_label": "Nina Hall",
+          "person_id": "nina-hall",
+          "is_ces": false,
+          "positive": 1,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 0,
+          "total": 1
+        },
+        {
           "row_label": "Trevor Brown",
           "person_id": "trevor-brown",
           "is_ces": true,
@@ -914,19 +926,19 @@
       "source_type_sentiment_crosstab": [
         {
           "row_label": "online news",
-          "positive": 20,
+          "positive": 22,
           "neutral": 76,
           "negative": 2,
-          "unknown": 4,
-          "total": 102
+          "unknown": 6,
+          "total": 106
         },
         {
           "row_label": "social network",
           "positive": 19,
-          "neutral": 25,
+          "neutral": 26,
           "negative": 0,
-          "unknown": 9,
-          "total": 53
+          "unknown": 10,
+          "total": 55
         },
         {
           "row_label": "blog",
@@ -938,16 +950,36 @@
         },
         {
           "row_label": "unresolved",
-          "positive": 11,
-          "neutral": 8,
-          "negative": 6,
-          "unknown": 31,
-          "total": 56
+          "positive": 18,
+          "neutral": 10,
+          "negative": 8,
+          "unknown": 33,
+          "total": 69
         }
       ],
       "sentiment_examples": {
         "negative": {
           "stories": [
+            {
+              "id": 232,
+              "person": "Anne Applebaum",
+              "person_id": "anne-applebaum",
+              "is_ces": false,
+              "title": "No text captured (matched: SNF Agora institute|SNF Agora|SNF|Hopkins|Agora|Anne Applebaum|Peter Pomerantsev|Hahrie Han) -- Arena/LSE/Open Government Partnership context, negative entity sentiment for both Applebaum and Pomerantsev (continuation of yesterday's 6-post cluster, down to 3 today)",
+              "url": null,
+              "source": "Twitter",
+              "date": "2026-08-04"
+            },
+            {
+              "id": 230,
+              "person": "SNF Agora Institute",
+              "person_id": "snf-agora-institute",
+              "is_ces": false,
+              "title": "No text captured (matched: SNF Agora|SNF) -- Civic Nation/Michelle Obama/Valerie Jarrett/White House context via The Federalist, consistently negative (continuation of yesterday's ~12-post cluster, down to ~8 today)",
+              "url": null,
+              "source": "Twitter",
+              "date": "2026-08-04"
+            },
             {
               "id": 212,
               "person": "Anne Applebaum",
@@ -1074,6 +1106,96 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 241,
+              "person": "SNF Agora Institute",
+              "person_id": "snf-agora-institute",
+              "is_ces": false,
+              "title": "No text captured (matched: SNF|SNF Agora Institute|Hopkins) -- Chatham House context, positive",
+              "url": null,
+              "source": "Twitter",
+              "date": "2026-08-04"
+            },
+            {
+              "id": 240,
+              "person": "SNF Agora Institute",
+              "person_id": "snf-agora-institute",
+              "is_ces": false,
+              "title": "No text captured (matched: SNF|Johns|Hopkins|SNF Agora Institute) -- Biden School/University of Delaware/Ithaca Initiative context, positive",
+              "url": null,
+              "source": "Twitter",
+              "date": "2026-08-04"
+            },
+            {
+              "id": 238,
+              "person": "SNF Agora Institute",
+              "person_id": "snf-agora-institute",
+              "is_ces": false,
+              "title": "No text captured (matched: Hopkins|SNF Agora) -- unrelated true-crime/investigation thread incidentally naming 'John Hopkins', positive entity sentiment but likely noise",
+              "url": null,
+              "source": "Twitter",
+              "date": "2026-08-04"
+            },
+            {
+              "id": 237,
+              "person": "SNF Agora Institute",
+              "person_id": "snf-agora-institute",
+              "is_ces": false,
+              "title": "No text captured (matched: SNF agora|SNF Agora) -- Democracy Funders Network/Daniel Stid thread context, positive",
+              "url": null,
+              "source": "Twitter",
+              "date": "2026-08-04"
+            },
+            {
+              "id": 234,
+              "person": "Hahrie Han",
+              "person_id": "hahrie-han",
+              "is_ces": false,
+              "title": "No text captured (matched: Johns|Hopkins|Hahrie Han|SNF Agora) -- P3 Lab/Ford Foundation/Arabella New Venture Fund grant-activity context, positive entity sentiment for Hahrie Han",
+              "url": null,
+              "source": "Twitter",
+              "date": "2026-08-04"
+            },
+            {
+              "id": 233,
+              "person": "Hahrie Han",
+              "person_id": "hahrie-han",
+              "is_ces": false,
+              "title": "No text captured (matched: SNF Agora|Hahrie Han) -- Civic Nation/Change Collective/Valerie Jarrett/Obama Foundation funders-network context, positive entity sentiment for Hahrie Han",
+              "url": null,
+              "source": "Twitter",
+              "date": "2026-08-04"
+            },
+            {
+              "id": 231,
+              "person": "SNF Agora Institute",
+              "person_id": "snf-agora-institute",
+              "is_ces": false,
+              "title": "No text captured (matched: SNF Agora|Johns|Hopkins|SNF) -- Stavros Niarchos Foundation Parkway Theatre/Baltimore/Maryland Film Festival context, positive",
+              "url": null,
+              "source": "Twitter",
+              "date": "2026-08-04"
+            },
+            {
+              "id": 225,
+              "person": "Nina Hall",
+              "person_id": "nina-hall",
+              "is_ces": false,
+              "title": "Interview – Nina Hall",
+              "url": "https://www.e-ir.org/p/interview-nina-hall",
+              "source": "Substack (E-International Relations)",
+              "date": "2026-08-04"
+            },
+            {
+              "id": 223,
+              "person": "Anne Applebaum",
+              "person_id": "anne-applebaum",
+              "is_ces": false,
+              "title": "From Gulag to Autocracy Inc: Anne Applebaum on why democracies can still win",
+              "url": "https://www.news24.com/opinions/analysis/from-gulag-to-autocracy-inc-anne-applebaum-on-why-democracies-can-still-win-20260804-0730",
+              "source": "News24",
+              "date": "2026-08-04"
+            },
             {
               "id": 201,
               "person": "Yuen Yuen Ang",
@@ -1626,6 +1748,10 @@
             },
             {
               "keyphrase": "book",
+              "count": 4
+            },
+            {
+              "keyphrase": "country",
               "count": 3
             },
             {
@@ -1651,10 +1777,6 @@
             {
               "keyphrase": "civic engagement",
               "count": 3
-            },
-            {
-              "keyphrase": "civil dialogue",
-              "count": 3
             }
           ]
         }
@@ -1662,12 +1784,12 @@
     },
     "ces": {
       "totals": {
-        "mentions": 39,
+        "mentions": 40,
         "in_digest": 29,
-        "reach_proxy": 61,
+        "reach_proxy": 62,
         "people_covered": 9,
         "people_tracked": 17,
-        "sources": 24,
+        "sources": 25,
         "negative": 0
       },
       "deltas": {
@@ -1926,8 +2048,8 @@
         },
         {
           "date": "2026-08-04",
-          "count": 1,
-          "reach": 1,
+          "count": 2,
+          "reach": 2,
           "in_digest": 1,
           "observed": true
         }
@@ -2000,15 +2122,15 @@
         },
         {
           "week_start": "2026-08-03",
-          "count": 4,
-          "reach": 5,
+          "count": 5,
+          "reach": 6,
           "in_digest": 3,
-          "people": 1,
+          "people": 2,
           "sentiment": {
             "positive": 2,
             "neutral": 1,
             "negative": 0,
-            "unknown": 1
+            "unknown": 2
           }
         }
       ],
@@ -2016,7 +2138,7 @@
         "positive": 10,
         "neutral": 20,
         "negative": 0,
-        "unknown": 9
+        "unknown": 10
       },
       "top_people": [
         {
@@ -2029,8 +2151,8 @@
         {
           "person_id": "louis-hyman",
           "name": "Louis Hyman",
-          "count": 12,
-          "reach": 19,
+          "count": 13,
+          "reach": 20,
           "is_ces": true
         },
         {
@@ -2134,8 +2256,8 @@
         },
         {
           "source": "Other",
-          "count": 16,
-          "reach": 32,
+          "count": 17,
+          "reach": 33,
           "is_other": true
         }
       ],
@@ -2154,7 +2276,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 9
+          "count": 10
         }
       ],
       "negative_stories": [],
@@ -2176,8 +2298,8 @@
           "positive": 2,
           "neutral": 2,
           "negative": 0,
-          "unknown": 8,
-          "total": 12
+          "unknown": 9,
+          "total": 13
         },
         {
           "row_label": "Henry Farrell",
@@ -2280,8 +2402,8 @@
           "positive": 1,
           "neutral": 0,
           "negative": 0,
-          "unknown": 8,
-          "total": 9
+          "unknown": 9,
+          "total": 10
         }
       ],
       "sentiment_examples": {
