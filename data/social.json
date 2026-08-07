@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-05T07:11:26-04:00",
-  "count": 26,
+  "generated_at": "2026-08-07T07:09:04-04:00",
+  "count": 27,
   "picks": [
+    {
+      "id": 42,
+      "mention_id": 242,
+      "digest_date": "2026-08-06",
+      "person": "Leah Wright Rigueur",
+      "person_id": "leah-wright-rigueur",
+      "person_ids": [
+        "leah-wright-rigueur"
+      ],
+      "is_ces": false,
+      "punchy_title": "Historian Leah Wright Rigueur weighs in as experts call Trump's citizenship scheme 'horrifying'",
+      "headline": "Historian Leah Wright Rigueur weighs in as experts call Trump's citizenship scheme 'horrifying'",
+      "pull_quote": null,
+      "rationale": null,
+      "url": "https://www.rawstory.com/trump-birthright-citizenship-2677668451/",
+      "story_url": "https://www.rawstory.com/trump-birthright-citizenship-2677668451/",
+      "created_at": "2026-08-07 11:08:52",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Trump's new birthright citizenship scheme is being called \"just horrifying\" by legal experts, and SNF Agora Institute historian Leah Wright Rigueur weighs in on where it goes next. https://www.rawstory.com/trump-birthright-citizenship-2677668451/",
+          "chars": 246,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Trump%27s%20new%20birthright%20citizenship%20scheme%20is%20being%20called%20%22just%20horrifying%22%20by%20legal%20experts%2C%20and%20SNF%20Agora%20Institute%20historian%20Leah%20Wright%20Rigueur%20weighs%20in%20on%20where%20it%20goes%20next.%20https%3A//www.rawstory.com/trump-birthright-citizenship-2677668451/"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Trump's new birthright citizenship scheme is being called \"just horrifying\" by legal experts. SNF Agora Institute historian Leah Wright Rigueur weighs in on what comes next. https://www.rawstory.com/trump-birthright-citizenship-2677668451/",
+          "chars": 239,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Trump%27s%20new%20birthright%20citizenship%20scheme%20is%20being%20called%20%22just%20horrifying%22%20by%20legal%20experts.%20SNF%20Agora%20Institute%20historian%20Leah%20Wright%20Rigueur%20weighs%20in%20on%20what%20comes%20next.%20https%3A//www.rawstory.com/trump-birthright-citizenship-2677668451/"
+        }
+      ]
+    },
     {
       "id": 41,
       "mention_id": 223,

@@ -9,16 +9,16 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 54,
-    "mentions_in_digest": 20,
-    "reach_proxy": 118,
+    "mentions_total": 55,
+    "mentions_in_digest": 21,
+    "reach_proxy": 119,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-08-04",
+    "last_mention_date": "2026-08-07",
     "sentiment": {
       "positive": 18,
       "neutral": 21,
       "negative": 2,
-      "unknown": 13
+      "unknown": 14
     },
     "top_sources": [
       {
@@ -100,8 +100,8 @@
       },
       {
         "week_start": "2026-08-03",
-        "count": 18,
-        "reach": 59
+        "count": 19,
+        "reach": 60
       }
     ]
   },
@@ -333,13 +333,13 @@
       "Core Faculty"
     ],
     "is_ces": true,
-    "mentions_total": 14,
+    "mentions_total": 15,
     "mentions_in_digest": 13,
-    "reach_proxy": 23,
+    "reach_proxy": 25,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-08-04",
+    "last_mention_date": "2026-08-07",
     "sentiment": {
-      "positive": 4,
+      "positive": 5,
       "neutral": 9,
       "negative": 0,
       "unknown": 1
@@ -348,6 +348,10 @@
       {
         "source": "YouTube",
         "count": 3
+      },
+      {
+        "source": "Twitter",
+        "count": 2
       },
       {
         "source": "Brand Inside (Thailand)",
@@ -359,10 +363,6 @@
       },
       {
         "source": "Channel NewsAsia (CNA)",
-        "count": 1
-      },
-      {
-        "source": "ECNS.cn",
         "count": 1
       }
     ],
@@ -424,8 +424,116 @@
       },
       {
         "week_start": "2026-08-03",
-        "count": 4,
-        "reach": 5
+        "count": 5,
+        "reach": 7
+      }
+    ]
+  },
+  {
+    "id": "louis-hyman",
+    "name": "Louis Hyman",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Dorothy Ross Professor of History",
+    "profile_url": "https://snfagora.jhu.edu/directory/louis-hyman/",
+    "photo_url": "images/people/louis-hyman.jpg",
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": true,
+    "mentions_total": 14,
+    "mentions_in_digest": 4,
+    "reach_proxy": 21,
+    "first_mention_date": "2026-07-10",
+    "last_mention_date": "2026-08-06",
+    "sentiment": {
+      "positive": 2,
+      "neutral": 3,
+      "negative": 0,
+      "unknown": 9
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 9
+      },
+      {
+        "source": "Baltimore Fishbowl",
+        "count": 1
+      },
+      {
+        "source": "Indiecinema",
+        "count": 1
+      },
+      {
+        "source": "RealClearInvestigations",
+        "count": 1
+      },
+      {
+        "source": "Vox",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-05-18",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-05-25",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-01",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 8,
+        "reach": 8
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 2,
+        "reach": 7
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 1,
+        "reach": 4
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 2,
+        "reach": 2
       }
     ]
   },
@@ -534,114 +642,6 @@
         "week_start": "2026-08-03",
         "count": 4,
         "reach": 15
-      }
-    ]
-  },
-  {
-    "id": "louis-hyman",
-    "name": "Louis Hyman",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Dorothy Ross Professor of History",
-    "profile_url": "https://snfagora.jhu.edu/directory/louis-hyman/",
-    "photo_url": "images/people/louis-hyman.jpg",
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": true,
-    "mentions_total": 13,
-    "mentions_in_digest": 4,
-    "reach_proxy": 20,
-    "first_mention_date": "2026-07-10",
-    "last_mention_date": "2026-08-04",
-    "sentiment": {
-      "positive": 2,
-      "neutral": 2,
-      "negative": 0,
-      "unknown": 9
-    },
-    "top_sources": [
-      {
-        "source": "Twitter",
-        "count": 8
-      },
-      {
-        "source": "Baltimore Fishbowl",
-        "count": 1
-      },
-      {
-        "source": "Indiecinema",
-        "count": 1
-      },
-      {
-        "source": "RealClearInvestigations",
-        "count": 1
-      },
-      {
-        "source": "Vox",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-05-18",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-05-25",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-01",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-08",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 8,
-        "reach": 8
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 2,
-        "reach": 7
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 4
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 1,
-        "reach": 1
       }
     ]
   },
@@ -1706,6 +1706,106 @@
     ]
   },
   {
+    "id": "denise-dresser",
+    "name": "Denise Dresser",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Professor of Political Science at the Instituto Tecnológico Autónomo de México",
+    "profile_url": "https://snfagora.jhu.edu/directory/denise-dresser/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 3,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-07-02",
+    "last_mention_date": "2026-08-07",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Invest News",
+        "count": 1
+      },
+      {
+        "source": "Mix Vale",
+        "count": 1
+      },
+      {
+        "source": "Substack",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-05-18",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-05-25",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-01",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "amy-binder",
     "name": "Amy Binder",
     "kind": "faculty",
@@ -1793,102 +1893,6 @@
         "week_start": "2026-07-27",
         "count": 1,
         "reach": 6
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "denise-dresser",
-    "name": "Denise Dresser",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Professor of Political Science at the Instituto Tecnológico Autónomo de México",
-    "profile_url": "https://snfagora.jhu.edu/directory/denise-dresser/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 2,
-    "mentions_in_digest": 0,
-    "reach_proxy": 0,
-    "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-07-20",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 2,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [
-      {
-        "source": "Mix Vale",
-        "count": 1
-      },
-      {
-        "source": "Substack",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-05-18",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-05-25",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-01",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-08",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
       },
       {
         "week_start": "2026-08-03",
@@ -3474,6 +3478,96 @@
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "leah-wright-rigueur",
+    "name": "Leah Wright Rigueur",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 1,
+    "reach_proxy": 3,
+    "first_mention_date": "2026-08-06",
+    "last_mention_date": "2026-08-06",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0,
+      "unknown": 0
+    },
+    "top_sources": [
+      {
+        "source": "Raw Story",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-05-18",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-05-25",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-01",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 1,
+        "reach": 3
       }
     ]
   },
