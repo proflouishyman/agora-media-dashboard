@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-05T07:11:26-04:00",
+  "generated_at": "2026-08-07T07:09:04-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-08-04"
+    "end": "2026-08-07"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 240,
-        "in_digest": 128,
-        "reach_proxy": 505,
-        "people_covered": 40,
+        "mentions": 245,
+        "in_digest": 130,
+        "reach_proxy": 513,
+        "people_covered": 41,
         "people_tracked": 100,
-        "sources": 102,
+        "sources": 105,
         "negative": 10
       },
       "deltas": {
@@ -275,6 +275,27 @@
           "reach": 38,
           "in_digest": 7,
           "observed": true
+        },
+        {
+          "date": "2026-08-05",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
+          "observed": false
+        },
+        {
+          "date": "2026-08-06",
+          "count": 2,
+          "reach": 4,
+          "in_digest": 1,
+          "observed": true
+        },
+        {
+          "date": "2026-08-07",
+          "count": 3,
+          "reach": 4,
+          "in_digest": 1,
+          "observed": true
         }
       ],
       "weekly": [
@@ -345,30 +366,30 @@
         },
         {
           "week_start": "2026-08-03",
-          "count": 45,
-          "reach": 130,
-          "in_digest": 15,
-          "people": 11,
+          "count": 50,
+          "reach": 138,
+          "in_digest": 17,
+          "people": 13,
           "sentiment": {
-            "positive": 22,
-            "neutral": 8,
+            "positive": 23,
+            "neutral": 10,
             "negative": 5,
-            "unknown": 10
+            "unknown": 12
           }
         }
       ],
       "sentiment": {
-        "positive": 63,
-        "neutral": 118,
+        "positive": 64,
+        "neutral": 120,
         "negative": 10,
-        "unknown": 49
+        "unknown": 51
       },
       "top_people": [
         {
           "person_id": "snf-agora-institute",
           "name": "SNF Agora Institute",
-          "count": 54,
-          "reach": 118,
+          "count": 55,
+          "reach": 119,
           "is_ces": false
         },
         {
@@ -388,8 +409,15 @@
         {
           "person_id": "yuen-yuen-ang",
           "name": "Yuen Yuen Ang",
+          "count": 15,
+          "reach": 25,
+          "is_ces": true
+        },
+        {
+          "person_id": "louis-hyman",
+          "name": "Louis Hyman",
           "count": 14,
-          "reach": 23,
+          "reach": 21,
           "is_ces": true
         },
         {
@@ -398,13 +426,6 @@
           "count": 13,
           "reach": 29,
           "is_ces": false
-        },
-        {
-          "person_id": "louis-hyman",
-          "name": "Louis Hyman",
-          "count": 13,
-          "reach": 20,
-          "is_ces": true
         },
         {
           "person_id": "sean-carroll",
@@ -438,8 +459,8 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 60,
-          "reach": 118,
+          "count": 62,
+          "reach": 121,
           "is_other": false
         },
         {
@@ -486,15 +507,15 @@
         },
         {
           "source": "Other",
-          "count": 122,
-          "reach": 333,
+          "count": 125,
+          "reach": 338,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 106
+          "count": 109
         },
         {
           "source_type": "social network",
@@ -506,7 +527,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 69
+          "count": 71
         }
       ],
       "negative_stories": [
@@ -529,8 +550,8 @@
           "positive": 18,
           "neutral": 21,
           "negative": 2,
-          "unknown": 13,
-          "total": 54
+          "unknown": 14,
+          "total": 55
         },
         {
           "row_label": "Anne Applebaum",
@@ -556,10 +577,20 @@
           "row_label": "Yuen Yuen Ang",
           "person_id": "yuen-yuen-ang",
           "is_ces": true,
-          "positive": 4,
+          "positive": 5,
           "neutral": 9,
           "negative": 0,
           "unknown": 1,
+          "total": 15
+        },
+        {
+          "row_label": "Louis Hyman",
+          "person_id": "louis-hyman",
+          "is_ces": true,
+          "positive": 2,
+          "neutral": 3,
+          "negative": 0,
+          "unknown": 9,
           "total": 14
         },
         {
@@ -570,16 +601,6 @@
           "neutral": 2,
           "negative": 0,
           "unknown": 3,
-          "total": 13
-        },
-        {
-          "row_label": "Louis Hyman",
-          "person_id": "louis-hyman",
-          "is_ces": true,
-          "positive": 2,
-          "neutral": 2,
-          "negative": 0,
-          "unknown": 9,
           "total": 13
         },
         {
@@ -683,18 +704,18 @@
           "total": 4
         },
         {
-          "row_label": "Amy Binder",
-          "person_id": "amy-binder",
+          "row_label": "Denise Dresser",
+          "person_id": "denise-dresser",
           "is_ces": false,
           "positive": 0,
           "neutral": 2,
           "negative": 0,
-          "unknown": 0,
-          "total": 2
+          "unknown": 1,
+          "total": 3
         },
         {
-          "row_label": "Denise Dresser",
-          "person_id": "denise-dresser",
+          "row_label": "Amy Binder",
+          "person_id": "amy-binder",
           "is_ces": false,
           "positive": 0,
           "neutral": 2,
@@ -873,6 +894,16 @@
           "total": 1
         },
         {
+          "row_label": "Leah Wright Rigueur",
+          "person_id": "leah-wright-rigueur",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 1,
+          "negative": 0,
+          "unknown": 0,
+          "total": 1
+        },
+        {
           "row_label": "Ling Chen",
           "person_id": "ling-chen",
           "is_ces": false,
@@ -927,10 +958,10 @@
         {
           "row_label": "online news",
           "positive": 22,
-          "neutral": 76,
+          "neutral": 77,
           "negative": 2,
-          "unknown": 6,
-          "total": 106
+          "unknown": 8,
+          "total": 109
         },
         {
           "row_label": "social network",
@@ -950,11 +981,11 @@
         },
         {
           "row_label": "unresolved",
-          "positive": 18,
-          "neutral": 10,
+          "positive": 19,
+          "neutral": 11,
           "negative": 8,
           "unknown": 33,
-          "total": 69
+          "total": 71
         }
       ],
       "sentiment_examples": {
@@ -1106,6 +1137,16 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 244,
+              "person": "Yuen Yuen Ang",
+              "person_id": "yuen-yuen-ang",
+              "is_ces": true,
+              "title": "No text captured (matched: Yuen Yuen Ang|Johns|Hopkins) -- World Economic Forum podcast 'From Polycrisis to Polytunity' context, positive entity sentiment",
+              "url": null,
+              "source": "Twitter",
+              "date": "2026-08-07"
+            },
             {
               "id": 241,
               "person": "SNF Agora Institute",
@@ -1784,9 +1825,9 @@
     },
     "ces": {
       "totals": {
-        "mentions": 40,
+        "mentions": 42,
         "in_digest": 29,
-        "reach_proxy": 62,
+        "reach_proxy": 65,
         "people_covered": 9,
         "people_tracked": 17,
         "sources": 25,
@@ -2052,6 +2093,27 @@
           "reach": 2,
           "in_digest": 1,
           "observed": true
+        },
+        {
+          "date": "2026-08-05",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
+          "observed": false
+        },
+        {
+          "date": "2026-08-06",
+          "count": 1,
+          "reach": 1,
+          "in_digest": 0,
+          "observed": true
+        },
+        {
+          "date": "2026-08-07",
+          "count": 1,
+          "reach": 2,
+          "in_digest": 0,
+          "observed": true
         }
       ],
       "weekly": [
@@ -2122,21 +2184,21 @@
         },
         {
           "week_start": "2026-08-03",
-          "count": 5,
-          "reach": 6,
+          "count": 7,
+          "reach": 9,
           "in_digest": 3,
           "people": 2,
           "sentiment": {
-            "positive": 2,
-            "neutral": 1,
+            "positive": 3,
+            "neutral": 2,
             "negative": 0,
             "unknown": 2
           }
         }
       ],
       "sentiment": {
-        "positive": 10,
-        "neutral": 20,
+        "positive": 11,
+        "neutral": 21,
         "negative": 0,
         "unknown": 10
       },
@@ -2144,15 +2206,15 @@
         {
           "person_id": "yuen-yuen-ang",
           "name": "Yuen Yuen Ang",
-          "count": 14,
-          "reach": 23,
+          "count": 15,
+          "reach": 25,
           "is_ces": true
         },
         {
           "person_id": "louis-hyman",
           "name": "Louis Hyman",
-          "count": 13,
-          "reach": 20,
+          "count": 14,
+          "reach": 21,
           "is_ces": true
         },
         {
@@ -2208,8 +2270,8 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 9,
-          "reach": 9,
+          "count": 11,
+          "reach": 12,
           "is_other": false
         },
         {
@@ -2276,7 +2338,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 10
+          "count": 12
         }
       ],
       "negative_stories": [],
@@ -2285,21 +2347,21 @@
           "row_label": "Yuen Yuen Ang",
           "person_id": "yuen-yuen-ang",
           "is_ces": true,
-          "positive": 4,
+          "positive": 5,
           "neutral": 9,
           "negative": 0,
           "unknown": 1,
-          "total": 14
+          "total": 15
         },
         {
           "row_label": "Louis Hyman",
           "person_id": "louis-hyman",
           "is_ces": true,
           "positive": 2,
-          "neutral": 2,
+          "neutral": 3,
           "negative": 0,
           "unknown": 9,
-          "total": 13
+          "total": 14
         },
         {
           "row_label": "Henry Farrell",
@@ -2399,11 +2461,11 @@
         },
         {
           "row_label": "unresolved",
-          "positive": 1,
-          "neutral": 0,
+          "positive": 2,
+          "neutral": 1,
           "negative": 0,
           "unknown": 9,
-          "total": 10
+          "total": 12
         }
       ],
       "sentiment_examples": {
@@ -2413,6 +2475,16 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 244,
+              "person": "Yuen Yuen Ang",
+              "person_id": "yuen-yuen-ang",
+              "is_ces": true,
+              "title": "No text captured (matched: Yuen Yuen Ang|Johns|Hopkins) -- World Economic Forum podcast 'From Polycrisis to Polytunity' context, positive entity sentiment",
+              "url": null,
+              "source": "Twitter",
+              "date": "2026-08-07"
+            },
             {
               "id": 201,
               "person": "Yuen Yuen Ang",

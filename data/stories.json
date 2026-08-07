@@ -1,7 +1,119 @@
 {
-  "generated_at": "2026-08-05T07:11:26-04:00",
-  "count": 240,
+  "generated_at": "2026-08-07T07:09:04-04:00",
+  "count": 245,
   "stories": [
+    {
+      "id": 244,
+      "date": "2026-08-07",
+      "week_start": "2026-08-03",
+      "person_id": "yuen-yuen-ang",
+      "person": "Yuen Yuen Ang",
+      "is_ces": true,
+      "title": "No text captured (matched: Yuen Yuen Ang|Johns|Hopkins) -- World Economic Forum podcast 'From Polycrisis to Polytunity' context, positive entity sentiment",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "positive",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 245,
+      "date": "2026-08-07",
+      "week_start": "2026-08-03",
+      "person_id": "denise-dresser",
+      "person": "Denise Dresser",
+      "is_ces": false,
+      "title": "Como a OpenAI perdeu a lideranca em IA -- e a batalha para recupera-la",
+      "has_text": true,
+      "url": "https://investnews.com.br/the-wall-street-journal/como-a-openai-perdeu-a-lideranca-em-ia-e-a-batalha-para-recupera-la/",
+      "source": "Invest News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Como a OpenAI perdeu a lideranca em IA -- e a batalha para recupera-la https://investnews.com.br/the-wall-street-journal/como-a-openai-perdeu-a-lideranca-em-ia-e-a-batalha-para-recupera-la/",
+          "chars": 94
+        },
+        "bluesky": {
+          "text": "Como a OpenAI perdeu a lideranca em IA -- e a batalha para recupera-la https://investnews.com.br/the-wall-street-journal/como-a-openai-perdeu-a-lideranca-em-ia-e-a-batalha-para-recupera-la/",
+          "chars": 189
+        }
+      }
+    },
+    {
+      "id": 243,
+      "date": "2026-08-07",
+      "week_start": "2026-08-03",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Renzo Piano World Tour 2026, ottava edizione in partenza. Rotta verso Ovest",
+      "has_text": true,
+      "url": "https://www.professionearchitetto.it/news/notizie/34314/renzo-piano-world-tour-2026-ottava-edizione-in-partenza-rotta-verso-ovest?utm_source=01pa&utm_medium=textADS&utm_campaign=paNews",
+      "source": "Professione Architetto",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Renzo Piano World Tour 2026, ottava edizione in partenza. Rotta verso Ovest https://www.professionearchitetto.it/news/notizie/34314/renzo-piano-world-tour-2026-ottava-edizione-in-partenza-rotta-verso-ovest?utm_source=01pa&utm_medium=textADS&utm_campaign=paNews",
+          "chars": 99
+        },
+        "bluesky": {
+          "text": "Renzo Piano World Tour 2026, ottava edizione in partenza. Rotta verso Ovest https://www.professionearchitetto.it/news/notizie/34314/renzo-piano-world-tour-2026-ottava-edizione-in-partenza-rotta-verso-ovest?utm_source=01pa&utm_medium=textADS&utm_campaign=paNews",
+          "chars": 260
+        }
+      }
+    },
+    {
+      "id": 242,
+      "date": "2026-08-06",
+      "week_start": "2026-08-03",
+      "person_id": "leah-wright-rigueur",
+      "person": "Leah Wright Rigueur",
+      "is_ces": false,
+      "title": "Trump's dubious new citizenship scheme leaves experts aghast: 'Just horrifying'",
+      "has_text": true,
+      "url": "https://www.rawstory.com/trump-birthright-citizenship-2677668451/",
+      "source": "Raw Story",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Trump's dubious new citizenship scheme leaves experts aghast: 'Just horrifying' https://www.rawstory.com/trump-birthright-citizenship-2677668451/",
+          "chars": 103
+        },
+        "bluesky": {
+          "text": "Trump's dubious new citizenship scheme leaves experts aghast: 'Just horrifying' https://www.rawstory.com/trump-birthright-citizenship-2677668451/",
+          "chars": 145
+        }
+      }
+    },
+    {
+      "id": 246,
+      "date": "2026-08-06",
+      "week_start": "2026-08-03",
+      "person_id": "louis-hyman",
+      "person": "Louis Hyman",
+      "is_ces": true,
+      "title": "No text captured (matched: Johns|Hopkins|Louis Hyman) -- Johns Hopkins Bloomberg Center panel with Mary Beard, Guido Alfani, Catherine Rampell context, neutral entity sentiment",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": false,
+      "share": null
+    },
     {
       "id": 230,
       "date": "2026-08-04",

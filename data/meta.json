@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-05T07:11:26-04:00",
-  "generated_date": "2026-08-05",
+  "generated_at": "2026-08-07T07:09:04-04:00",
+  "generated_date": "2026-08-07",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-08-04",
+    "last_mention_date": "2026-08-07",
     "observed_dates": [
       "2026-07-02",
       "2026-07-03",
@@ -39,10 +39,12 @@
       "2026-07-31",
       "2026-08-01",
       "2026-08-03",
-      "2026-08-04"
+      "2026-08-04",
+      "2026-08-06",
+      "2026-08-07"
     ],
-    "total_mentions": 240,
-    "total_raw_documents": 564,
+    "total_mentions": 245,
+    "total_raw_documents": 572,
     "total_tracked_people": 100,
     "total_ces_people": 17
   },
@@ -50,19 +52,19 @@
     "all": {
       "label": "SNF Agora Institute",
       "people": 100,
-      "mentions": 240
+      "mentions": 245
     },
     "ces": {
       "label": "Center on Economy and Society",
       "people": 17,
-      "mentions": 40
+      "mentions": 42
     }
   },
   "data_quality": {
-    "mentions_missing_url": 65,
-    "mentions_no_text_captured": 76,
-    "mentions_sentiment_unknown": 49,
-    "mentions_shareable": 159,
+    "mentions_missing_url": 67,
+    "mentions_no_text_captured": 78,
+    "mentions_sentiment_unknown": 51,
+    "mentions_shareable": 162,
     "unmatched_persons": [
       {
         "person": "Eliot Cohen",
@@ -70,6 +72,10 @@
       },
       {
         "person": "Johnnie Moore",
+        "mentions": 1
+      },
+      {
+        "person": "Leah Wright Rigueur",
         "mentions": 1
       }
     ]
