@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-07T07:09:04-04:00",
-  "count": 27,
+  "generated_at": "2026-08-08T07:09:01-04:00",
+  "count": 28,
   "picks": [
+    {
+      "id": 43,
+      "mention_id": 248,
+      "digest_date": "2026-08-07",
+      "person": "Yuen Yuen Ang",
+      "person_id": "yuen-yuen-ang",
+      "person_ids": [
+        "yuen-yuen-ang"
+      ],
+      "is_ces": true,
+      "punchy_title": "Development as a creative act: Yuen Yuen Ang on turning polycrisis into polytunity",
+      "headline": "Development as a creative act: Yuen Yuen Ang on turning polycrisis into polytunity",
+      "pull_quote": "For the final episode of our 'Future of' series, we're welcoming Yuen Yuen Ang (Alfred Chandler Chair Professor of Political Economy, The Johns Hopkins University), to explore how development can, and should, be viewed as a creative endeavour.",
+      "rationale": "For the final episode of our 'Future of' series, we're welcoming Yuen Yuen Ang (Alfred Chandler Chair Professor of Political Economy, The Johns Hopkins University), to explore how development can, and should, be viewed as a creative endeavour.",
+      "url": "https://www.youtube.com/watch?v=Jby8lBqom3U",
+      "story_url": "https://www.youtube.com/watch?v=Jby8lBqom3U",
+      "created_at": "2026-08-08 11:08:55",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "What if development is a creative act rather than a delivery problem? Johns Hopkins political economist Yuen Yuen Ang joins ODI Global's Lead Change series on moving from polycrisis to what she calls polytunity. https://www.youtube.com/watch?v=Jby8lBqom3U",
+          "chars": 255,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=What%20if%20development%20is%20a%20creative%20act%20rather%20than%20a%20delivery%20problem%3F%20Johns%20Hopkins%20political%20economist%20Yuen%20Yuen%20Ang%20joins%20ODI%20Global%27s%20Lead%20Change%20series%20on%20moving%20from%20polycrisis%20to%20what%20she%20calls%20polytunity.%20https%3A//www.youtube.com/watch%3Fv%3DJby8lBqom3U"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "What if development is a creative act rather than a delivery problem? Johns Hopkins political economist Yuen Yuen Ang closes out ODI Global's Future of series with a conversation on moving from polycrisis to what she calls polytunity. https://www.youtube.com/watch?v=Jby8lBqom3U",
+          "chars": 278,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=What%20if%20development%20is%20a%20creative%20act%20rather%20than%20a%20delivery%20problem%3F%20Johns%20Hopkins%20political%20economist%20Yuen%20Yuen%20Ang%20closes%20out%20ODI%20Global%27s%20Future%20of%20series%20with%20a%20conversation%20on%20moving%20from%20polycrisis%20to%20what%20she%20calls%20polytunity.%20https%3A//www.youtube.com/watch%3Fv%3DJby8lBqom3U"
+        }
+      ]
+    },
     {
       "id": 42,
       "mention_id": 242,

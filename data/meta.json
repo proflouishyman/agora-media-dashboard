@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-07T07:09:04-04:00",
-  "generated_date": "2026-08-07",
+  "generated_at": "2026-08-08T07:09:01-04:00",
+  "generated_date": "2026-08-08",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-08-07",
+    "last_mention_date": "2026-08-08",
     "observed_dates": [
       "2026-07-02",
       "2026-07-03",
@@ -41,10 +41,11 @@
       "2026-08-03",
       "2026-08-04",
       "2026-08-06",
-      "2026-08-07"
+      "2026-08-07",
+      "2026-08-08"
     ],
-    "total_mentions": 245,
-    "total_raw_documents": 572,
+    "total_mentions": 256,
+    "total_raw_documents": 598,
     "total_tracked_people": 100,
     "total_ces_people": 17
   },
@@ -52,20 +53,24 @@
     "all": {
       "label": "SNF Agora Institute",
       "people": 100,
-      "mentions": 245
+      "mentions": 256
     },
     "ces": {
       "label": "Center on Economy and Society",
       "people": 17,
-      "mentions": 42
+      "mentions": 46
     }
   },
   "data_quality": {
-    "mentions_missing_url": 67,
-    "mentions_no_text_captured": 78,
-    "mentions_sentiment_unknown": 51,
-    "mentions_shareable": 162,
+    "mentions_missing_url": 70,
+    "mentions_no_text_captured": 81,
+    "mentions_sentiment_unknown": 61,
+    "mentions_shareable": 170,
     "unmatched_persons": [
+      {
+        "person": "Andre Nogueira",
+        "mentions": 2
+      },
       {
         "person": "Eliot Cohen",
         "mentions": 1
