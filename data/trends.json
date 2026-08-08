@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-07T07:09:04-04:00",
+  "generated_at": "2026-08-08T07:09:01-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-08-07"
+    "end": "2026-08-08"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 245,
-        "in_digest": 130,
-        "reach_proxy": 513,
-        "people_covered": 41,
+        "mentions": 256,
+        "in_digest": 135,
+        "reach_proxy": 539,
+        "people_covered": 43,
         "people_tracked": 100,
-        "sources": 105,
+        "sources": 110,
         "negative": 10
       },
       "deltas": {
@@ -292,9 +292,16 @@
         },
         {
           "date": "2026-08-07",
-          "count": 3,
-          "reach": 4,
-          "in_digest": 1,
+          "count": 13,
+          "reach": 27,
+          "in_digest": 6,
+          "observed": true
+        },
+        {
+          "date": "2026-08-08",
+          "count": 1,
+          "reach": 3,
+          "in_digest": 0,
           "observed": true
         }
       ],
@@ -366,23 +373,23 @@
         },
         {
           "week_start": "2026-08-03",
-          "count": 50,
-          "reach": 138,
-          "in_digest": 17,
-          "people": 13,
+          "count": 61,
+          "reach": 164,
+          "in_digest": 22,
+          "people": 16,
           "sentiment": {
-            "positive": 23,
+            "positive": 24,
             "neutral": 10,
             "negative": 5,
-            "unknown": 12
+            "unknown": 22
           }
         }
       ],
       "sentiment": {
-        "positive": 64,
+        "positive": 65,
         "neutral": 120,
         "negative": 10,
-        "unknown": 51
+        "unknown": 61
       },
       "top_people": [
         {
@@ -395,9 +402,16 @@
         {
           "person_id": "anne-applebaum",
           "name": "Anne Applebaum",
-          "count": 31,
-          "reach": 30,
+          "count": 32,
+          "reach": 31,
           "is_ces": false
+        },
+        {
+          "person_id": "yuen-yuen-ang",
+          "name": "Yuen Yuen Ang",
+          "count": 19,
+          "reach": 32,
+          "is_ces": true
         },
         {
           "person_id": "yascha-mounk",
@@ -405,13 +419,6 @@
           "count": 15,
           "reach": 13,
           "is_ces": false
-        },
-        {
-          "person_id": "yuen-yuen-ang",
-          "name": "Yuen Yuen Ang",
-          "count": 15,
-          "reach": 25,
-          "is_ces": true
         },
         {
           "person_id": "louis-hyman",
@@ -430,8 +437,8 @@
         {
           "person_id": "sean-carroll",
           "name": "Sean Carroll",
-          "count": 12,
-          "reach": 30,
+          "count": 13,
+          "reach": 31,
           "is_ces": false
         },
         {
@@ -459,8 +466,8 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 62,
-          "reach": 121,
+          "count": 65,
+          "reach": 126,
           "is_other": false
         },
         {
@@ -482,13 +489,13 @@
           "is_other": false
         },
         {
-          "source": "Bluesky",
-          "count": 6,
-          "reach": 5,
+          "source": "Substack",
+          "count": 7,
+          "reach": 6,
           "is_other": false
         },
         {
-          "source": "Substack",
+          "source": "Bluesky",
           "count": 6,
           "reach": 5,
           "is_other": false
@@ -507,19 +514,19 @@
         },
         {
           "source": "Other",
-          "count": 125,
-          "reach": 338,
+          "count": 132,
+          "reach": 358,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 109
+          "count": 116
         },
         {
           "source_type": "social network",
-          "count": 55
+          "count": 56
         },
         {
           "source_type": "blog",
@@ -527,7 +534,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 71
+          "count": 74
         }
       ],
       "negative_stories": [
@@ -560,8 +567,18 @@
           "positive": 8,
           "neutral": 10,
           "negative": 5,
-          "unknown": 8,
-          "total": 31
+          "unknown": 9,
+          "total": 32
+        },
+        {
+          "row_label": "Yuen Yuen Ang",
+          "person_id": "yuen-yuen-ang",
+          "is_ces": true,
+          "positive": 6,
+          "neutral": 9,
+          "negative": 0,
+          "unknown": 4,
+          "total": 19
         },
         {
           "row_label": "Yascha Mounk",
@@ -571,16 +588,6 @@
           "neutral": 7,
           "negative": 1,
           "unknown": 7,
-          "total": 15
-        },
-        {
-          "row_label": "Yuen Yuen Ang",
-          "person_id": "yuen-yuen-ang",
-          "is_ces": true,
-          "positive": 5,
-          "neutral": 9,
-          "negative": 0,
-          "unknown": 1,
           "total": 15
         },
         {
@@ -610,8 +617,8 @@
           "positive": 3,
           "neutral": 8,
           "negative": 1,
-          "unknown": 0,
-          "total": 12
+          "unknown": 1,
+          "total": 13
         },
         {
           "row_label": "Martha S. Jones",
@@ -684,6 +691,26 @@
           "total": 5
         },
         {
+          "row_label": "Scott Warren",
+          "person_id": "scott-warren",
+          "is_ces": false,
+          "positive": 1,
+          "neutral": 3,
+          "negative": 0,
+          "unknown": 1,
+          "total": 5
+        },
+        {
+          "row_label": "Denise Dresser",
+          "person_id": "denise-dresser",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 2,
+          "negative": 0,
+          "unknown": 2,
+          "total": 4
+        },
+        {
           "row_label": "Lilliana Mason",
           "person_id": "lilliana-mason",
           "is_ces": false,
@@ -694,26 +721,6 @@
           "total": 4
         },
         {
-          "row_label": "Scott Warren",
-          "person_id": "scott-warren",
-          "is_ces": false,
-          "positive": 1,
-          "neutral": 3,
-          "negative": 0,
-          "unknown": 0,
-          "total": 4
-        },
-        {
-          "row_label": "Denise Dresser",
-          "person_id": "denise-dresser",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 2,
-          "negative": 0,
-          "unknown": 1,
-          "total": 3
-        },
-        {
           "row_label": "Amy Binder",
           "person_id": "amy-binder",
           "is_ces": false,
@@ -721,6 +728,16 @@
           "neutral": 2,
           "negative": 0,
           "unknown": 0,
+          "total": 2
+        },
+        {
+          "row_label": "Andre Nogueira",
+          "person_id": "andre-nogueira",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 2,
           "total": 2
         },
         {
@@ -811,6 +828,16 @@
           "neutral": 1,
           "negative": 0,
           "unknown": 0,
+          "total": 1
+        },
+        {
+          "row_label": "Dawn Teele",
+          "person_id": "dawn-teele",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
           "total": 1
         },
         {
@@ -960,16 +987,16 @@
           "positive": 22,
           "neutral": 77,
           "negative": 2,
-          "unknown": 8,
-          "total": 109
+          "unknown": 15,
+          "total": 116
         },
         {
           "row_label": "social network",
-          "positive": 19,
+          "positive": 20,
           "neutral": 26,
           "negative": 0,
           "unknown": 10,
-          "total": 55
+          "total": 56
         },
         {
           "row_label": "blog",
@@ -984,8 +1011,8 @@
           "positive": 19,
           "neutral": 11,
           "negative": 8,
-          "unknown": 33,
-          "total": 71
+          "unknown": 36,
+          "total": 74
         }
       ],
       "sentiment_examples": {
@@ -1137,6 +1164,16 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 248,
+              "person": "Yuen Yuen Ang",
+              "person_id": "yuen-yuen-ang",
+              "is_ces": true,
+              "title": "Lead Change: Yuen Yuen Ang on how we go from polycrisis to polytunity",
+              "url": "https://www.youtube.com/watch?v=Jby8lBqom3U",
+              "source": "YouTube (ODI Global)",
+              "date": "2026-08-07"
+            },
             {
               "id": 244,
               "person": "Yuen Yuen Ang",
@@ -1825,12 +1862,12 @@
     },
     "ces": {
       "totals": {
-        "mentions": 42,
-        "in_digest": 29,
-        "reach_proxy": 65,
+        "mentions": 46,
+        "in_digest": 31,
+        "reach_proxy": 72,
         "people_covered": 9,
         "people_tracked": 17,
-        "sources": 25,
+        "sources": 27,
         "negative": 0
       },
       "deltas": {
@@ -2110,8 +2147,15 @@
         },
         {
           "date": "2026-08-07",
-          "count": 1,
-          "reach": 2,
+          "count": 5,
+          "reach": 9,
+          "in_digest": 2,
+          "observed": true
+        },
+        {
+          "date": "2026-08-08",
+          "count": 0,
+          "reach": 0,
           "in_digest": 0,
           "observed": true
         }
@@ -2184,30 +2228,30 @@
         },
         {
           "week_start": "2026-08-03",
-          "count": 7,
-          "reach": 9,
-          "in_digest": 3,
+          "count": 11,
+          "reach": 16,
+          "in_digest": 5,
           "people": 2,
           "sentiment": {
-            "positive": 3,
+            "positive": 4,
             "neutral": 2,
             "negative": 0,
-            "unknown": 2
+            "unknown": 5
           }
         }
       ],
       "sentiment": {
-        "positive": 11,
+        "positive": 12,
         "neutral": 21,
         "negative": 0,
-        "unknown": 10
+        "unknown": 13
       },
       "top_people": [
         {
           "person_id": "yuen-yuen-ang",
           "name": "Yuen Yuen Ang",
-          "count": 15,
-          "reach": 25,
+          "count": 19,
+          "reach": 32,
           "is_ces": true
         },
         {
@@ -2270,8 +2314,8 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 11,
-          "reach": 12,
+          "count": 13,
+          "reach": 16,
           "is_other": false
         },
         {
@@ -2318,19 +2362,19 @@
         },
         {
           "source": "Other",
-          "count": 17,
-          "reach": 33,
+          "count": 19,
+          "reach": 36,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 22
+          "count": 23
         },
         {
           "source_type": "social network",
-          "count": 6
+          "count": 7
         },
         {
           "source_type": "blog",
@@ -2338,7 +2382,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 12
+          "count": 14
         }
       ],
       "negative_stories": [],
@@ -2347,11 +2391,11 @@
           "row_label": "Yuen Yuen Ang",
           "person_id": "yuen-yuen-ang",
           "is_ces": true,
-          "positive": 5,
+          "positive": 6,
           "neutral": 9,
           "negative": 0,
-          "unknown": 1,
-          "total": 15
+          "unknown": 4,
+          "total": 19
         },
         {
           "row_label": "Louis Hyman",
@@ -2440,16 +2484,16 @@
           "positive": 8,
           "neutral": 13,
           "negative": 0,
-          "unknown": 1,
-          "total": 22
+          "unknown": 2,
+          "total": 23
         },
         {
           "row_label": "social network",
-          "positive": 0,
+          "positive": 1,
           "neutral": 6,
           "negative": 0,
           "unknown": 0,
-          "total": 6
+          "total": 7
         },
         {
           "row_label": "blog",
@@ -2464,8 +2508,8 @@
           "positive": 2,
           "neutral": 1,
           "negative": 0,
-          "unknown": 9,
-          "total": 12
+          "unknown": 11,
+          "total": 14
         }
       ],
       "sentiment_examples": {
@@ -2475,6 +2519,16 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 248,
+              "person": "Yuen Yuen Ang",
+              "person_id": "yuen-yuen-ang",
+              "is_ces": true,
+              "title": "Lead Change: Yuen Yuen Ang on how we go from polycrisis to polytunity",
+              "url": "https://www.youtube.com/watch?v=Jby8lBqom3U",
+              "source": "YouTube (ODI Global)",
+              "date": "2026-08-07"
+            },
             {
               "id": 244,
               "person": "Yuen Yuen Ang",

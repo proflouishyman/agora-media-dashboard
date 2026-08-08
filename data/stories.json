@@ -1,7 +1,119 @@
 {
-  "generated_at": "2026-08-07T07:09:04-04:00",
-  "count": 245,
+  "generated_at": "2026-08-08T07:09:01-04:00",
+  "count": 256,
   "stories": [
+    {
+      "id": 253,
+      "date": "2026-08-08",
+      "week_start": "2026-08-03",
+      "person_id": "andre-nogueira",
+      "person": "Andre Nogueira",
+      "is_ces": false,
+      "title": "NOT RELEVANT: 3 SAPO articles matched the Portuguese word 'agora' ('now') in SAPO's newsletter boilerplate, not the Institute; no Andre Nogueira entity found",
+      "has_text": true,
+      "url": "https://sapo.pt/artigo/mulher-detida-por-simular-furto-de-980-euros-em-leiria-6a76cf8c0c60413700a58a6c",
+      "source": "SAPO",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "NOT RELEVANT: 3 SAPO articles matched the Portuguese word 'agora' ('now') in SAPO's newsletter boilerplate, not the Institute; no Andre Nogueira entity found https://sapo.pt/artigo/mulher-detida-por-simular-furto-de-980-euros-em-leiria-6a76cf8c0c60413700a58a6c",
+          "chars": 181
+        },
+        "bluesky": {
+          "text": "NOT RELEVANT: 3 SAPO articles matched the Portuguese word 'agora' ('now') in SAPO's newsletter boilerplate, not the Institute; no Andre Nogueira entity found https://sapo.pt/artigo/mulher-detida-por-simular-furto-de-980-euros-em-leiria-6a76cf8c0c60413700a58a6c",
+          "chars": 260
+        }
+      }
+    },
+    {
+      "id": 252,
+      "date": "2026-08-07",
+      "week_start": "2026-08-03",
+      "person_id": "andre-nogueira",
+      "person": "Andre Nogueira",
+      "is_ces": false,
+      "title": "NOT RELEVANT: 11 SAPO articles matched the Portuguese word 'agora' ('now') in SAPO's newsletter boilerplate, not the Institute; no Andre Nogueira entity found",
+      "has_text": true,
+      "url": "https://sapo.pt/artigo/ribeira-brava-continuara-a-ser-ponte-entre-a-madeira-e-a-venezuela-6a76357b371d60cfe810c6e6",
+      "source": "SAPO",
+      "source_type": "online news",
+      "similar_mention_count": 11,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "NOT RELEVANT: 11 SAPO articles matched the Portuguese word 'agora' ('now') in SAPO's newsletter boilerplate, not the Institute; no Andre Nogueira entity found https://sapo.pt/artigo/ribeira-brava-continuara-a-ser-ponte-entre-a-madeira-e-a-venezuela-6a76357b371d60cfe810c6e6",
+          "chars": 182
+        },
+        "bluesky": {
+          "text": "NOT RELEVANT: 11 SAPO articles matched the Portuguese word 'agora' ('now') in SAPO's newsletter boilerplate, not the Institute; no Andre Nogueira entity found https://sapo.pt/artigo/ribeira-brava-continuara-a-ser-ponte-entre-a-madeira-e-a-venezuela-6a76357b371d60cfe810c6e6",
+          "chars": 273
+        }
+      }
+    },
+    {
+      "id": 256,
+      "date": "2026-08-07",
+      "week_start": "2026-08-03",
+      "person_id": "yuen-yuen-ang",
+      "person": "Yuen Yuen Ang",
+      "is_ces": true,
+      "title": "No text captured (matched: Yuen Yuen Ang|Johns|Hopkins) -- reshares of the World Economic Forum 'polycrisis to polytunity' episode with CNA, positive entity sentiment",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 255,
+      "date": "2026-08-07",
+      "week_start": "2026-08-03",
+      "person_id": "yuen-yuen-ang",
+      "person": "Yuen Yuen Ang",
+      "is_ces": true,
+      "title": "No text captured (matched: Yuen Yuen Ang|Johns|Hopkins) -- Atif Mian / Yousuf Nazar thread on China and Western economic history, neutral entity sentiment",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 247,
+      "date": "2026-08-07",
+      "week_start": "2026-08-03",
+      "person_id": "yuen-yuen-ang",
+      "person": "Yuen Yuen Ang",
+      "is_ces": true,
+      "title": "Iran-US war widens and other geopolitical stories to know this month",
+      "has_text": true,
+      "url": "https://www.weforum.org/stories/geo-economics-and-politics/iran-us-war-and-other-geopolitical-stories-to-know-this-month/",
+      "source": "World Economic Forum",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Iran-US war widens and other geopolitical stories to know this month https://www.weforum.org/stories/geo-economics-and-politics/iran-us-war-and-other-geopolitical-stories-to-know-this-month/",
+          "chars": 92
+        },
+        "bluesky": {
+          "text": "Iran-US war widens and other geopolitical stories to know this month https://www.weforum.org/stories/geo-economics-and-politics/iran-us-war-and-other-geopolitical-stories-to-know-this-month/",
+          "chars": 190
+        }
+      }
+    },
     {
       "id": 244,
       "date": "2026-08-07",
@@ -18,6 +130,153 @@
       "entity_sentiment": "positive",
       "in_digest": false,
       "share": null
+    },
+    {
+      "id": 257,
+      "date": "2026-08-07",
+      "week_start": "2026-08-03",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": "No text captured (matched: Johns|Hopkins|Sean Carroll) -- climate-Twitter exchange involving Gavin Schmidt and NASA, NEGATIVE entity sentiment on Sean Carroll",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 254,
+      "date": "2026-08-07",
+      "week_start": "2026-08-03",
+      "person_id": "denise-dresser",
+      "person": "Denise Dresser",
+      "is_ces": false,
+      "title": "NOT RELEVANT: The New News in AI: 8/7/26 Edition -- matched a passing line on Johns Hopkins academic-integrity policy, nothing about Dresser",
+      "has_text": true,
+      "url": "https://markmcneilly.substack.com/p/the-new-news-in-ai-8726-edition",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "NOT RELEVANT: The New News in AI: 8/7/26 Edition -- matched a passing line on Johns Hopkins academic-integrity policy, nothing about Dresser https://markmcneilly.substack.com/p/the-new-news-in-ai-8726-edition",
+          "chars": 164
+        },
+        "bluesky": {
+          "text": "NOT RELEVANT: The New News in AI: 8/7/26 Edition -- matched a passing line on Johns Hopkins academic-integrity policy, nothing about Dresser https://markmcneilly.substack.com/p/the-new-news-in-ai-8726-edition",
+          "chars": 208
+        }
+      }
+    },
+    {
+      "id": 251,
+      "date": "2026-08-07",
+      "week_start": "2026-08-03",
+      "person_id": "dawn-teele",
+      "person": "Dawn Teele",
+      "is_ces": false,
+      "title": "Shatema Threadcraft Receives the 2026 Victoria Schuck Award for \"The Labors of Resurrection: Black Women, Necromancy, and Morrisonian\"",
+      "has_text": true,
+      "url": "https://politicalsciencenow.com/shatema-threadcraft-receives-the-2026-victoria-schuck-award-for-the-labors-of-resurrection-black-women-necromancy-and-morrisonian/",
+      "source": "Political Science Now",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Shatema Threadcraft Receives the 2026 Victoria Schuck Award for \"The Labors of Resurrection: Black Women, Necromancy, and Morrisonian\" https://politicalsciencenow.com/shatema-threadcraft-receives-the-2026-victoria-schuck-award-for-the-labors-of-resurrection-black-women-necromancy-and-morrisonian/",
+          "chars": 158
+        },
+        "bluesky": {
+          "text": "Shatema Threadcraft Receives the 2026 Victoria Schuck Award for \"The Labors of Resurrection: Black Women, Necromancy, and Morrisonian\" https://politicalsciencenow.com/shatema-threadcraft-receives-the-2026-victoria-schuck-award-for-the-labors-of-resurrection-black-women-necromancy-and-morrisonian/",
+          "chars": 297
+        }
+      }
+    },
+    {
+      "id": 250,
+      "date": "2026-08-07",
+      "week_start": "2026-08-03",
+      "person_id": "scott-warren",
+      "person": "Scott Warren",
+      "is_ces": false,
+      "title": "You Missed the New Voters 250 Summit? Walk with us.",
+      "has_text": true,
+      "url": "https://newvoters.substack.com/p/you-missed-the-new-voters-250-summit",
+      "source": "Substack (New Voters 250)",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "You Missed the New Voters 250 Summit? Walk with us. https://newvoters.substack.com/p/you-missed-the-new-voters-250-summit",
+          "chars": 75
+        },
+        "bluesky": {
+          "text": "You Missed the New Voters 250 Summit? Walk with us. https://newvoters.substack.com/p/you-missed-the-new-voters-250-summit",
+          "chars": 121
+        }
+      }
+    },
+    {
+      "id": 249,
+      "date": "2026-08-07",
+      "week_start": "2026-08-03",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Spotkanie za znana w USA i Polsce dziennikarka, autorka ksiazek Anne Applebaum odbylo sie w ogrodach Biblioteki Miejskiej w Grudziadzu",
+      "has_text": true,
+      "url": "https://polityka.co.pl/spotkanie-za-znana-w-usa-i-polsce-dziennikarka-autorka-ksiazek-anne-applebaum-odbylo-sie-w-ogrodach-41655831.html",
+      "source": "Polityka",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Spotkanie za znana w USA i Polsce dziennikarka, autorka ksiazek Anne Applebaum odbylo sie w ogrodach Biblioteki Miejskiej w Grudziadzu https://polityka.co.pl/spotkanie-za-znana-w-usa-i-polsce-dziennikarka-autorka-ksiazek-anne-applebaum-odbylo-sie-w-ogrodach-41655831.html",
+          "chars": 158
+        },
+        "bluesky": {
+          "text": "Spotkanie za znana w USA i Polsce dziennikarka, autorka ksiazek Anne Applebaum odbylo sie w ogrodach Biblioteki Miejskiej w Grudziadzu https://polityka.co.pl/spotkanie-za-znana-w-usa-i-polsce-dziennikarka-autorka-ksiazek-anne-applebaum-odbylo-sie-w-ogrodach-41655831.html",
+          "chars": 271
+        }
+      }
+    },
+    {
+      "id": 248,
+      "date": "2026-08-07",
+      "week_start": "2026-08-03",
+      "person_id": "yuen-yuen-ang",
+      "person": "Yuen Yuen Ang",
+      "is_ces": true,
+      "title": "Lead Change: Yuen Yuen Ang on how we go from polycrisis to polytunity",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=Jby8lBqom3U",
+      "source": "YouTube (ODI Global)",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Lead Change: Yuen Yuen Ang on how we go from polycrisis to polytunity https://www.youtube.com/watch?v=Jby8lBqom3U",
+          "chars": 93
+        },
+        "bluesky": {
+          "text": "Lead Change: Yuen Yuen Ang on how we go from polycrisis to polytunity https://www.youtube.com/watch?v=Jby8lBqom3U",
+          "chars": 113
+        }
+      }
     },
     {
       "id": 245,
