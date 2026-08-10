@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-08-09T07:04:04-04:00",
+  "generated_at": "2026-08-10T07:06:43-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-08-08"
+    "end": "2026-08-10"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 256,
-        "in_digest": 135,
-        "reach_proxy": 539,
+        "mentions": 259,
+        "in_digest": 137,
+        "reach_proxy": 543,
         "people_covered": 43,
         "people_tracked": 100,
-        "sources": 110,
+        "sources": 111,
         "negative": 10
       },
       "deltas": {
-        "week_start": "2026-07-27",
-        "prev_week_start": "2026-07-20",
+        "week_start": "2026-08-03",
+        "prev_week_start": "2026-07-27",
         "mentions": {
-          "current": 41,
-          "previous": 37,
-          "change": 4,
-          "pct_change": 10.8
+          "current": 63,
+          "previous": 41,
+          "change": 22,
+          "pct_change": 53.7
         },
         "reach_proxy": {
-          "current": 157,
-          "previous": 34,
-          "change": 123,
-          "pct_change": 361.8
+          "current": 166,
+          "previous": 157,
+          "change": 9,
+          "pct_change": 5.7
         },
         "people_covered": {
           "current": 16,
-          "previous": 19,
-          "change": -3,
-          "pct_change": -15.8
+          "previous": 16,
+          "change": 0,
+          "pct_change": 0.0
         }
       },
       "daily": [
@@ -303,6 +303,20 @@
           "reach": 3,
           "in_digest": 0,
           "observed": true
+        },
+        {
+          "date": "2026-08-09",
+          "count": 2,
+          "reach": 2,
+          "in_digest": 1,
+          "observed": true
+        },
+        {
+          "date": "2026-08-10",
+          "count": 1,
+          "reach": 2,
+          "in_digest": 1,
+          "observed": true
         }
       ],
       "weekly": [
@@ -373,23 +387,36 @@
         },
         {
           "week_start": "2026-08-03",
-          "count": 61,
-          "reach": 164,
-          "in_digest": 22,
+          "count": 63,
+          "reach": 166,
+          "in_digest": 23,
           "people": 16,
           "sentiment": {
             "positive": 24,
             "neutral": 10,
             "negative": 5,
-            "unknown": 22
+            "unknown": 24
+          }
+        },
+        {
+          "week_start": "2026-08-10",
+          "count": 1,
+          "reach": 2,
+          "in_digest": 1,
+          "people": 1,
+          "sentiment": {
+            "positive": 0,
+            "neutral": 1,
+            "negative": 0,
+            "unknown": 0
           }
         }
       ],
       "sentiment": {
         "positive": 65,
-        "neutral": 120,
+        "neutral": 121,
         "negative": 10,
-        "unknown": 61
+        "unknown": 63
       },
       "top_people": [
         {
@@ -402,8 +429,8 @@
         {
           "person_id": "anne-applebaum",
           "name": "Anne Applebaum",
-          "count": 32,
-          "reach": 31,
+          "count": 33,
+          "reach": 33,
           "is_ces": false
         },
         {
@@ -428,17 +455,17 @@
           "is_ces": true
         },
         {
+          "person_id": "sean-carroll",
+          "name": "Sean Carroll",
+          "count": 14,
+          "reach": 32,
+          "is_ces": false
+        },
+        {
           "person_id": "hahrie-han",
           "name": "Hahrie Han",
           "count": 13,
           "reach": 29,
-          "is_ces": false
-        },
-        {
-          "person_id": "sean-carroll",
-          "name": "Sean Carroll",
-          "count": 13,
-          "reach": 31,
           "is_ces": false
         },
         {
@@ -478,20 +505,20 @@
         },
         {
           "source": "LinkedIn",
-          "count": 12,
-          "reach": 9,
+          "count": 13,
+          "reach": 10,
+          "is_other": false
+        },
+        {
+          "source": "Substack",
+          "count": 8,
+          "reach": 8,
           "is_other": false
         },
         {
           "source": "Baltimore Fishbowl",
           "count": 7,
           "reach": 8,
-          "is_other": false
-        },
-        {
-          "source": "Substack",
-          "count": 7,
-          "reach": 6,
           "is_other": false
         },
         {
@@ -514,19 +541,19 @@
         },
         {
           "source": "Other",
-          "count": 132,
-          "reach": 358,
+          "count": 133,
+          "reach": 359,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 116
+          "count": 117
         },
         {
           "source_type": "social network",
-          "count": 56
+          "count": 58
         },
         {
           "source_type": "blog",
@@ -565,10 +592,10 @@
           "person_id": "anne-applebaum",
           "is_ces": false,
           "positive": 8,
-          "neutral": 10,
+          "neutral": 11,
           "negative": 5,
           "unknown": 9,
-          "total": 32
+          "total": 33
         },
         {
           "row_label": "Yuen Yuen Ang",
@@ -601,6 +628,16 @@
           "total": 14
         },
         {
+          "row_label": "Sean Carroll",
+          "person_id": "sean-carroll",
+          "is_ces": false,
+          "positive": 3,
+          "neutral": 8,
+          "negative": 1,
+          "unknown": 2,
+          "total": 14
+        },
+        {
           "row_label": "Hahrie Han",
           "person_id": "hahrie-han",
           "is_ces": false,
@@ -608,16 +645,6 @@
           "neutral": 2,
           "negative": 0,
           "unknown": 3,
-          "total": 13
-        },
-        {
-          "row_label": "Sean Carroll",
-          "person_id": "sean-carroll",
-          "is_ces": false,
-          "positive": 3,
-          "neutral": 8,
-          "negative": 1,
-          "unknown": 1,
           "total": 13
         },
         {
@@ -671,6 +698,16 @@
           "total": 6
         },
         {
+          "row_label": "Scott Warren",
+          "person_id": "scott-warren",
+          "is_ces": false,
+          "positive": 1,
+          "neutral": 3,
+          "negative": 0,
+          "unknown": 2,
+          "total": 6
+        },
+        {
           "row_label": "Henry Farrell",
           "person_id": "henry-farrell",
           "is_ces": true,
@@ -686,16 +723,6 @@
           "is_ces": false,
           "positive": 0,
           "neutral": 4,
-          "negative": 0,
-          "unknown": 1,
-          "total": 5
-        },
-        {
-          "row_label": "Scott Warren",
-          "person_id": "scott-warren",
-          "is_ces": false,
-          "positive": 1,
-          "neutral": 3,
           "negative": 0,
           "unknown": 1,
           "total": 5
@@ -985,18 +1012,18 @@
         {
           "row_label": "online news",
           "positive": 22,
-          "neutral": 77,
+          "neutral": 78,
           "negative": 2,
           "unknown": 15,
-          "total": 116
+          "total": 117
         },
         {
           "row_label": "social network",
           "positive": 20,
           "neutral": 26,
           "negative": 0,
-          "unknown": 10,
-          "total": 56
+          "unknown": 12,
+          "total": 58
         },
         {
           "row_label": "blog",
@@ -1871,25 +1898,25 @@
         "negative": 0
       },
       "deltas": {
-        "week_start": "2026-07-27",
-        "prev_week_start": "2026-07-20",
+        "week_start": "2026-08-03",
+        "prev_week_start": "2026-07-27",
         "mentions": {
-          "current": 6,
-          "previous": 5,
-          "change": 1,
-          "pct_change": 20.0
+          "current": 11,
+          "previous": 6,
+          "change": 5,
+          "pct_change": 83.3
         },
         "reach_proxy": {
-          "current": 15,
-          "previous": 3,
-          "change": 12,
-          "pct_change": 400.0
+          "current": 16,
+          "previous": 15,
+          "change": 1,
+          "pct_change": 6.7
         },
         "people_covered": {
-          "current": 3,
+          "current": 2,
           "previous": 3,
-          "change": 0,
-          "pct_change": 0.0
+          "change": -1,
+          "pct_change": -33.3
         }
       },
       "daily": [
@@ -2158,6 +2185,20 @@
           "reach": 0,
           "in_digest": 0,
           "observed": true
+        },
+        {
+          "date": "2026-08-09",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
+          "observed": true
+        },
+        {
+          "date": "2026-08-10",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
+          "observed": true
         }
       ],
       "weekly": [
@@ -2237,6 +2278,19 @@
             "neutral": 2,
             "negative": 0,
             "unknown": 5
+          }
+        },
+        {
+          "week_start": "2026-08-10",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
+          "people": 0,
+          "sentiment": {
+            "positive": 0,
+            "neutral": 0,
+            "negative": 0,
+            "unknown": 0
           }
         }
       ],

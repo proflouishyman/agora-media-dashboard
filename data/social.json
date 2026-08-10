@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-09T07:04:04-04:00",
-  "count": 28,
+  "generated_at": "2026-08-10T07:06:43-04:00",
+  "count": 29,
   "picks": [
+    {
+      "id": 44,
+      "mention_id": 258,
+      "digest_date": "2026-08-10",
+      "person": "Anne Applebaum",
+      "person_id": "anne-applebaum",
+      "person_ids": [
+        "anne-applebaum"
+      ],
+      "is_ces": false,
+      "punchy_title": "The \"human safari\" over Kherson is a preview of every future war",
+      "headline": "The \"human safari\" over Kherson is a preview of every future war",
+      "pull_quote": null,
+      "rationale": null,
+      "url": "https://anneapplebaum.substack.com/p/the-dystopian-future-of-war",
+      "story_url": "https://anneapplebaum.substack.com/p/the-dystopian-future-of-war",
+      "created_at": "2026-08-10 11:06:34",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Anne Applebaum, SNF Agora senior fellow, on the \"human safari\" of Russian drones over Kherson, and why she thinks drone war is the dystopian future the rest of the world will soon live with. https://anneapplebaum.substack.com/p/the-dystopian-future-of-war",
+          "chars": 255,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Anne%20Applebaum%2C%20SNF%20Agora%20senior%20fellow%2C%20on%20the%20%22human%20safari%22%20of%20Russian%20drones%20over%20Kherson%2C%20and%20why%20she%20thinks%20drone%20war%20is%20the%20dystopian%20future%20the%20rest%20of%20the%20world%20will%20soon%20live%20with.%20https%3A//anneapplebaum.substack.com/p/the-dystopian-future-of-war"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Anne Applebaum, SNF Agora senior fellow, on the \"human safari\" of Russian drones over Kherson and the operators who decide who lives, and why she thinks this is the dystopian future of war the rest of the world will soon experience. https://anneapplebaum.substack.com/p/the-dystopian-future-of-war",
+          "chars": 297,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Anne%20Applebaum%2C%20SNF%20Agora%20senior%20fellow%2C%20on%20the%20%22human%20safari%22%20of%20Russian%20drones%20over%20Kherson%20and%20the%20operators%20who%20decide%20who%20lives%2C%20and%20why%20she%20thinks%20this%20is%20the%20dystopian%20future%20of%20war%20the%20rest%20of%20the%20world%20will%20soon%20experience.%20https%3A//anneapplebaum.substack.com/p/the-dystopian-future-of-war"
+        }
+      ]
+    },
     {
       "id": 43,
       "mention_id": 248,
