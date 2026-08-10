@@ -1,7 +1,85 @@
 {
-  "generated_at": "2026-08-09T07:04:04-04:00",
-  "count": 256,
+  "generated_at": "2026-08-10T07:06:43-04:00",
+  "count": 259,
   "stories": [
+    {
+      "id": 258,
+      "date": "2026-08-10",
+      "week_start": "2026-08-10",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "The Dystopian Future of War",
+      "has_text": true,
+      "url": "https://anneapplebaum.substack.com/p/the-dystopian-future-of-war",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "The Dystopian Future of War https://anneapplebaum.substack.com/p/the-dystopian-future-of-war",
+          "chars": 51
+        },
+        "bluesky": {
+          "text": "The Dystopian Future of War https://anneapplebaum.substack.com/p/the-dystopian-future-of-war",
+          "chars": 92
+        }
+      }
+    },
+    {
+      "id": 260,
+      "date": "2026-08-09",
+      "week_start": "2026-08-03",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "https://www.reddit.com/r/AskPhysics/comments/1vjl9f4/comment/p2qiq36/",
+      "source": "reddit.com/r/AskPhysics",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " https://www.reddit.com/r/AskPhysics/comments/1vjl9f4/comment/p2qiq36/",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://www.reddit.com/r/AskPhysics/comments/1vjl9f4/comment/p2qiq36/",
+          "chars": 70
+        }
+      }
+    },
+    {
+      "id": 259,
+      "date": "2026-08-09",
+      "week_start": "2026-08-03",
+      "person_id": "scott-warren",
+      "person": "Scott Warren",
+      "is_ces": false,
+      "title": "Open letter criticizing the ReD Associates / SNF Agora study \"Faith, Freedom, Family, Place\"",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7492364938317922304",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Open letter criticizing the ReD Associates / SNF Agora study \"Faith, Freedom, Family, Place\" https://www.linkedin.com/feed/update/urn:li:ugcPost:7492364938317922304",
+          "chars": 116
+        },
+        "bluesky": {
+          "text": "Open letter criticizing the ReD Associates / SNF Agora study \"Faith, Freedom, Family, Place\" https://www.linkedin.com/feed/update/urn:li:ugcPost:7492364938317922304",
+          "chars": 164
+        }
+      }
+    },
     {
       "id": 253,
       "date": "2026-08-08",
