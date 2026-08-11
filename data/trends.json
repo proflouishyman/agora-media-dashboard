@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-10T07:06:43-04:00",
+  "generated_at": "2026-08-11T10:03:45-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-08-10"
+    "end": "2026-08-11"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 259,
-        "in_digest": 137,
-        "reach_proxy": 543,
+        "mentions": 263,
+        "in_digest": 140,
+        "reach_proxy": 549,
         "people_covered": 43,
         "people_tracked": 100,
-        "sources": 111,
+        "sources": 113,
         "negative": 10
       },
       "deltas": {
@@ -313,8 +313,15 @@
         },
         {
           "date": "2026-08-10",
-          "count": 1,
-          "reach": 2,
+          "count": 3,
+          "reach": 4,
+          "in_digest": 3,
+          "observed": true
+        },
+        {
+          "date": "2026-08-11",
+          "count": 2,
+          "reach": 4,
           "in_digest": 1,
           "observed": true
         }
@@ -400,15 +407,15 @@
         },
         {
           "week_start": "2026-08-10",
-          "count": 1,
-          "reach": 2,
-          "in_digest": 1,
-          "people": 1,
+          "count": 5,
+          "reach": 8,
+          "in_digest": 4,
+          "people": 4,
           "sentiment": {
             "positive": 0,
             "neutral": 1,
             "negative": 0,
-            "unknown": 0
+            "unknown": 4
           }
         }
       ],
@@ -416,7 +423,7 @@
         "positive": 65,
         "neutral": 121,
         "negative": 10,
-        "unknown": 63
+        "unknown": 67
       },
       "top_people": [
         {
@@ -436,8 +443,8 @@
         {
           "person_id": "yuen-yuen-ang",
           "name": "Yuen Yuen Ang",
-          "count": 19,
-          "reach": 32,
+          "count": 21,
+          "reach": 34,
           "is_ces": true
         },
         {
@@ -493,8 +500,8 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 65,
-          "reach": 126,
+          "count": 66,
+          "reach": 129,
           "is_other": false
         },
         {
@@ -511,8 +518,8 @@
         },
         {
           "source": "Substack",
-          "count": 8,
-          "reach": 8,
+          "count": 9,
+          "reach": 9,
           "is_other": false
         },
         {
@@ -541,15 +548,15 @@
         },
         {
           "source": "Other",
-          "count": 133,
-          "reach": 359,
+          "count": 135,
+          "reach": 361,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 117
+          "count": 120
         },
         {
           "source_type": "social network",
@@ -561,7 +568,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 74
+          "count": 75
         }
       ],
       "negative_stories": [
@@ -604,8 +611,8 @@
           "positive": 6,
           "neutral": 9,
           "negative": 0,
-          "unknown": 4,
-          "total": 19
+          "unknown": 6,
+          "total": 21
         },
         {
           "row_label": "Yascha Mounk",
@@ -748,6 +755,16 @@
           "total": 4
         },
         {
+          "row_label": "Steven Teles",
+          "person_id": "steven-teles",
+          "is_ces": true,
+          "positive": 1,
+          "neutral": 1,
+          "negative": 0,
+          "unknown": 1,
+          "total": 3
+        },
+        {
           "row_label": "Amy Binder",
           "person_id": "amy-binder",
           "is_ces": false,
@@ -765,6 +782,16 @@
           "neutral": 0,
           "negative": 0,
           "unknown": 2,
+          "total": 2
+        },
+        {
+          "row_label": "Angus Burgin",
+          "person_id": "angus-burgin",
+          "is_ces": true,
+          "positive": 1,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
           "total": 2
         },
         {
@@ -798,16 +825,6 @@
           "total": 2
         },
         {
-          "row_label": "Steven Teles",
-          "person_id": "steven-teles",
-          "is_ces": true,
-          "positive": 1,
-          "neutral": 1,
-          "negative": 0,
-          "unknown": 0,
-          "total": 2
-        },
-        {
           "row_label": "Thomas Cudjoe",
           "person_id": "thomas-cudjoe-m-d",
           "is_ces": false,
@@ -833,16 +850,6 @@
           "is_ces": false,
           "positive": 0,
           "neutral": 1,
-          "negative": 0,
-          "unknown": 0,
-          "total": 1
-        },
-        {
-          "row_label": "Angus Burgin",
-          "person_id": "angus-burgin",
-          "is_ces": true,
-          "positive": 1,
-          "neutral": 0,
           "negative": 0,
           "unknown": 0,
           "total": 1
@@ -1014,8 +1021,8 @@
           "positive": 22,
           "neutral": 78,
           "negative": 2,
-          "unknown": 15,
-          "total": 117
+          "unknown": 18,
+          "total": 120
         },
         {
           "row_label": "social network",
@@ -1038,8 +1045,8 @@
           "positive": 19,
           "neutral": 11,
           "negative": 8,
-          "unknown": 36,
-          "total": 74
+          "unknown": 37,
+          "total": 75
         }
       ],
       "sentiment_examples": {
@@ -1889,12 +1896,12 @@
     },
     "ces": {
       "totals": {
-        "mentions": 46,
-        "in_digest": 31,
-        "reach_proxy": 72,
+        "mentions": 50,
+        "in_digest": 34,
+        "reach_proxy": 78,
         "people_covered": 9,
         "people_tracked": 17,
-        "sources": 27,
+        "sources": 29,
         "negative": 0
       },
       "deltas": {
@@ -2195,9 +2202,16 @@
         },
         {
           "date": "2026-08-10",
-          "count": 0,
-          "reach": 0,
-          "in_digest": 0,
+          "count": 2,
+          "reach": 2,
+          "in_digest": 2,
+          "observed": true
+        },
+        {
+          "date": "2026-08-11",
+          "count": 2,
+          "reach": 4,
+          "in_digest": 1,
           "observed": true
         }
       ],
@@ -2282,15 +2296,15 @@
         },
         {
           "week_start": "2026-08-10",
-          "count": 0,
-          "reach": 0,
-          "in_digest": 0,
-          "people": 0,
+          "count": 4,
+          "reach": 6,
+          "in_digest": 3,
+          "people": 3,
           "sentiment": {
             "positive": 0,
             "neutral": 0,
             "negative": 0,
-            "unknown": 0
+            "unknown": 4
           }
         }
       ],
@@ -2298,14 +2312,14 @@
         "positive": 12,
         "neutral": 21,
         "negative": 0,
-        "unknown": 13
+        "unknown": 17
       },
       "top_people": [
         {
           "person_id": "yuen-yuen-ang",
           "name": "Yuen Yuen Ang",
-          "count": 19,
-          "reach": 32,
+          "count": 21,
+          "reach": 34,
           "is_ces": true
         },
         {
@@ -2323,24 +2337,24 @@
           "is_ces": true
         },
         {
-          "person_id": "simon-halliday",
-          "name": "Simon Halliday",
-          "count": 2,
-          "reach": 7,
-          "is_ces": true
-        },
-        {
           "person_id": "steven-teles",
           "name": "Steven Teles",
-          "count": 2,
-          "reach": 4,
+          "count": 3,
+          "reach": 7,
           "is_ces": true
         },
         {
           "person_id": "angus-burgin",
           "name": "Angus Burgin",
-          "count": 1,
-          "reach": 1,
+          "count": 2,
+          "reach": 2,
+          "is_ces": true
+        },
+        {
+          "person_id": "simon-halliday",
+          "name": "Simon Halliday",
+          "count": 2,
+          "reach": 7,
           "is_ces": true
         },
         {
@@ -2368,8 +2382,8 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 13,
-          "reach": 16,
+          "count": 14,
+          "reach": 19,
           "is_other": false
         },
         {
@@ -2397,6 +2411,12 @@
           "is_other": false
         },
         {
+          "source": "Substack",
+          "count": 2,
+          "reach": 2,
+          "is_other": false
+        },
+        {
           "source": "WND",
           "count": 2,
           "reach": 2,
@@ -2409,22 +2429,16 @@
           "is_other": false
         },
         {
-          "source": "Amit's Musings",
-          "count": 1,
-          "reach": 0,
-          "is_other": false
-        },
-        {
           "source": "Other",
-          "count": 19,
-          "reach": 36,
+          "count": 21,
+          "reach": 37,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 23
+          "count": 26
         },
         {
           "source_type": "social network",
@@ -2436,7 +2450,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 14
+          "count": 15
         }
       ],
       "negative_stories": [],
@@ -2448,8 +2462,8 @@
           "positive": 6,
           "neutral": 9,
           "negative": 0,
-          "unknown": 4,
-          "total": 19
+          "unknown": 6,
+          "total": 21
         },
         {
           "row_label": "Louis Hyman",
@@ -2472,24 +2486,14 @@
           "total": 5
         },
         {
-          "row_label": "Simon Halliday",
-          "person_id": "simon-halliday",
-          "is_ces": true,
-          "positive": 0,
-          "neutral": 2,
-          "negative": 0,
-          "unknown": 0,
-          "total": 2
-        },
-        {
           "row_label": "Steven Teles",
           "person_id": "steven-teles",
           "is_ces": true,
           "positive": 1,
           "neutral": 1,
           "negative": 0,
-          "unknown": 0,
-          "total": 2
+          "unknown": 1,
+          "total": 3
         },
         {
           "row_label": "Angus Burgin",
@@ -2498,8 +2502,18 @@
           "positive": 1,
           "neutral": 0,
           "negative": 0,
+          "unknown": 1,
+          "total": 2
+        },
+        {
+          "row_label": "Simon Halliday",
+          "person_id": "simon-halliday",
+          "is_ces": true,
+          "positive": 0,
+          "neutral": 2,
+          "negative": 0,
           "unknown": 0,
-          "total": 1
+          "total": 2
         },
         {
           "row_label": "Glory Liu",
@@ -2538,8 +2552,8 @@
           "positive": 8,
           "neutral": 13,
           "negative": 0,
-          "unknown": 2,
-          "total": 23
+          "unknown": 5,
+          "total": 26
         },
         {
           "row_label": "social network",
@@ -2562,8 +2576,8 @@
           "positive": 2,
           "neutral": 1,
           "negative": 0,
-          "unknown": 11,
-          "total": 14
+          "unknown": 12,
+          "total": 15
         }
       ],
       "sentiment_examples": {

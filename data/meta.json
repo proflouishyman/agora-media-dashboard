@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-10T07:06:43-04:00",
-  "generated_date": "2026-08-10",
+  "generated_at": "2026-08-11T10:03:45-04:00",
+  "generated_date": "2026-08-11",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-08-10",
+    "last_mention_date": "2026-08-11",
     "observed_dates": [
       "2026-07-02",
       "2026-07-03",
@@ -44,10 +44,11 @@
       "2026-08-07",
       "2026-08-08",
       "2026-08-09",
-      "2026-08-10"
+      "2026-08-10",
+      "2026-08-11"
     ],
-    "total_mentions": 259,
-    "total_raw_documents": 602,
+    "total_mentions": 263,
+    "total_raw_documents": 608,
     "total_tracked_people": 100,
     "total_ces_people": 17
   },
@@ -55,19 +56,19 @@
     "all": {
       "label": "SNF Agora Institute",
       "people": 100,
-      "mentions": 259
+      "mentions": 263
     },
     "ces": {
       "label": "Center on Economy and Society",
       "people": 17,
-      "mentions": 46
+      "mentions": 50
     }
   },
   "data_quality": {
-    "mentions_missing_url": 70,
+    "mentions_missing_url": 71,
     "mentions_no_text_captured": 81,
-    "mentions_sentiment_unknown": 63,
-    "mentions_shareable": 173,
+    "mentions_sentiment_unknown": 67,
+    "mentions_shareable": 176,
     "unmatched_persons": [
       {
         "person": "Andre Nogueira",
