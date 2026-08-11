@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-10T07:06:43-04:00",
-  "count": 29,
+  "generated_at": "2026-08-11T10:03:45-04:00",
+  "count": 30,
   "picks": [
+    {
+      "id": 45,
+      "mention_id": 264,
+      "digest_date": "2026-08-10",
+      "person": "Yuen Yuen Ang",
+      "person_id": "yuen-yuen-ang",
+      "person_ids": [
+        "yuen-yuen-ang"
+      ],
+      "is_ces": true,
+      "punchy_title": "Yuen Yuen Ang: Institutions and Markets Coevolve, Not a ‘Western Fairy Tale’",
+      "headline": "Yuen Yuen Ang: Institutions and Markets Coevolve, Not a ‘Western Fairy Tale’",
+      "pull_quote": "... and one that uses it to distribute rents and protect elites. Yuen Yuen Ang, Alfred Chandler Chair Professor of Political Economy at ...",
+      "rationale": "... and one that uses it to distribute rents and protect elites. Yuen Yuen Ang, Alfred Chandler Chair Professor of Political Economy at ...",
+      "url": "https://www.thefridaytimes.com/10-Aug-2026/one-theory-development-authoritarianism-vs-democracy",
+      "story_url": "https://www.thefridaytimes.com/10-Aug-2026/one-theory-development-authoritarianism-vs-democracy",
+      "created_at": "2026-08-11 14:03:25",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Johns Hopkins political economist Yuen Yuen Ang: markets and institutions coevolve, rather than good institutions needing to come first. Cited in a new piece on development theory. https://www.thefridaytimes.com/10-Aug-2026/one-theory-development-authoritarianism-vs-democracy",
+          "chars": 276,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Johns%20Hopkins%20political%20economist%20Yuen%20Yuen%20Ang%3A%20markets%20and%20institutions%20coevolve%2C%20rather%20than%20good%20institutions%20needing%20to%20come%20first.%20Cited%20in%20a%20new%20piece%20on%20development%20theory.%20https%3A//www.thefridaytimes.com/10-Aug-2026/one-theory-development-authoritarianism-vs-democracy"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Johns Hopkins political economist Yuen Yuen Ang is cited in a new piece on development theory: markets and institutions coevolve, she argues, rather than needing good institutions in place first. https://www.thefridaytimes.com/10-Aug-2026/one-theory-development-authoritarianism-vs-democracy",
+          "chars": 291,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Johns%20Hopkins%20political%20economist%20Yuen%20Yuen%20Ang%20is%20cited%20in%20a%20new%20piece%20on%20development%20theory%3A%20markets%20and%20institutions%20coevolve%2C%20she%20argues%2C%20rather%20than%20needing%20good%20institutions%20in%20place%20first.%20https%3A//www.thefridaytimes.com/10-Aug-2026/one-theory-development-authoritarianism-vs-democracy"
+        }
+      ]
+    },
     {
       "id": 44,
       "mention_id": 258,

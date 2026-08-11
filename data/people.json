@@ -225,16 +225,16 @@
       "Core Faculty"
     ],
     "is_ces": true,
-    "mentions_total": 19,
-    "mentions_in_digest": 15,
-    "reach_proxy": 32,
+    "mentions_total": 21,
+    "mentions_in_digest": 17,
+    "reach_proxy": 34,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-08-07",
+    "last_mention_date": "2026-08-10",
     "sentiment": {
       "positive": 6,
       "neutral": 9,
       "negative": 0,
-      "unknown": 4
+      "unknown": 6
     },
     "top_sources": [
       {
@@ -316,8 +316,8 @@
       },
       {
         "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
+        "count": 2,
+        "reach": 2
       }
     ]
   },
@@ -1810,6 +1810,106 @@
     ]
   },
   {
+    "id": "steven-teles",
+    "name": "Steven Teles",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Professor of Political Science",
+    "profile_url": "https://snfagora.jhu.edu/directory/steven-teles/",
+    "photo_url": null,
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": true,
+    "mentions_total": 3,
+    "mentions_in_digest": 2,
+    "reach_proxy": 7,
+    "first_mention_date": "2026-07-16",
+    "last_mention_date": "2026-08-11",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Substack (Glenn Loury)",
+        "count": 1
+      },
+      {
+        "source": "The Glenn Show (Substack)",
+        "count": 1
+      },
+      {
+        "source": "Twitter",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-05-25",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-01",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 1,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 1,
+        "reach": 3
+      }
+    ]
+  },
+  {
     "id": "amy-binder",
     "name": "Amy Binder",
     "kind": "faculty",
@@ -1992,6 +2092,102 @@
         "week_start": "2026-08-10",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "angus-burgin",
+    "name": "Angus Burgin",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Associate Professor of History at Johns Hopkins University",
+    "profile_url": "https://snfagora.jhu.edu/directory/angus-burgin/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": true,
+    "mentions_total": 2,
+    "mentions_in_digest": 2,
+    "reach_proxy": 2,
+    "first_mention_date": "2026-07-16",
+    "last_mention_date": "2026-08-11",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Modern Intellectual History (Cambridge)",
+        "count": 1
+      },
+      {
+        "source": "Substack",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-05-25",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-01",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -2284,102 +2480,6 @@
     ]
   },
   {
-    "id": "steven-teles",
-    "name": "Steven Teles",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Professor of Political Science",
-    "profile_url": "https://snfagora.jhu.edu/directory/steven-teles/",
-    "photo_url": null,
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": true,
-    "mentions_total": 2,
-    "mentions_in_digest": 2,
-    "reach_proxy": 4,
-    "first_mention_date": "2026-07-16",
-    "last_mention_date": "2026-07-26",
-    "sentiment": {
-      "positive": 1,
-      "neutral": 1,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [
-      {
-        "source": "Substack (Glenn Loury)",
-        "count": 1
-      },
-      {
-        "source": "The Glenn Show (Substack)",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-05-25",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-01",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-08",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 1,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
     "id": "thomas-cudjoe-m-d",
     "name": "Thomas Cudjoe",
     "kind": "faculty",
@@ -2636,98 +2736,6 @@
         "week_start": "2026-07-13",
         "count": 0,
         "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "angus-burgin",
-    "name": "Angus Burgin",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Associate Professor of History at Johns Hopkins University",
-    "profile_url": "https://snfagora.jhu.edu/directory/angus-burgin/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": true,
-    "mentions_total": 1,
-    "mentions_in_digest": 1,
-    "reach_proxy": 1,
-    "first_mention_date": "2026-07-16",
-    "last_mention_date": "2026-07-16",
-    "sentiment": {
-      "positive": 1,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [
-      {
-        "source": "Modern Intellectual History (Cambridge)",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-05-25",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-01",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-08",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 1,
-        "reach": 1
       },
       {
         "week_start": "2026-07-20",

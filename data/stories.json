@@ -1,7 +1,50 @@
 {
-  "generated_at": "2026-08-10T07:06:43-04:00",
-  "count": 259,
+  "generated_at": "2026-08-11T10:03:45-04:00",
+  "count": 263,
   "stories": [
+    {
+      "id": 261,
+      "date": "2026-08-11",
+      "week_start": "2026-08-10",
+      "person_id": "steven-teles",
+      "person": "Steven Teles",
+      "is_ces": true,
+      "title": null,
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 262,
+      "date": "2026-08-11",
+      "week_start": "2026-08-10",
+      "person_id": "angus-burgin",
+      "person": "Angus Burgin",
+      "is_ces": true,
+      "title": "Half-baked II: The stuffed bodies of the rich",
+      "has_text": true,
+      "url": "https://joehendren.substack.com/p/half-baked-ii-the-stuffed-bodies",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Half-baked II: The stuffed bodies of the rich https://joehendren.substack.com/p/half-baked-ii-the-stuffed-bodies",
+          "chars": 69
+        },
+        "bluesky": {
+          "text": "Half-baked II: The stuffed bodies of the rich https://joehendren.substack.com/p/half-baked-ii-the-stuffed-bodies",
+          "chars": 112
+        }
+      }
+    },
     {
       "id": 258,
       "date": "2026-08-10",
@@ -25,6 +68,58 @@
         "bluesky": {
           "text": "The Dystopian Future of War https://anneapplebaum.substack.com/p/the-dystopian-future-of-war",
           "chars": 92
+        }
+      }
+    },
+    {
+      "id": 264,
+      "date": "2026-08-10",
+      "week_start": "2026-08-10",
+      "person_id": "yuen-yuen-ang",
+      "person": "Yuen Yuen Ang",
+      "is_ces": true,
+      "title": "There Is No One Theory of Development: Authoritarianism vs Democracy",
+      "has_text": true,
+      "url": "https://www.thefridaytimes.com/10-Aug-2026/one-theory-development-authoritarianism-vs-democracy",
+      "source": "The Friday Times",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "There Is No One Theory of Development: Authoritarianism vs Democracy https://www.thefridaytimes.com/10-Aug-2026/one-theory-development-authoritarianism-vs-democracy",
+          "chars": 92
+        },
+        "bluesky": {
+          "text": "There Is No One Theory of Development: Authoritarianism vs Democracy https://www.thefridaytimes.com/10-Aug-2026/one-theory-development-authoritarianism-vs-democracy",
+          "chars": 164
+        }
+      }
+    },
+    {
+      "id": 263,
+      "date": "2026-08-10",
+      "week_start": "2026-08-10",
+      "person_id": "yuen-yuen-ang",
+      "person": "Yuen Yuen Ang",
+      "is_ces": true,
+      "title": "Law Versus Development",
+      "has_text": true,
+      "url": "https://chinaglobalsouth.com/analysis/china-ethiopia-law-development-immunity-on-trial/",
+      "source": "China Global South",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Law Versus Development https://chinaglobalsouth.com/analysis/china-ethiopia-law-development-immunity-on-trial/",
+          "chars": 46
+        },
+        "bluesky": {
+          "text": "Law Versus Development https://chinaglobalsouth.com/analysis/china-ethiopia-law-development-immunity-on-trial/",
+          "chars": 110
         }
       }
     },
