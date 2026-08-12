@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-11T10:03:45-04:00",
-  "count": 30,
+  "generated_at": "2026-08-12T09:50:18-04:00",
+  "count": 31,
   "picks": [
+    {
+      "id": 46,
+      "mention_id": 265,
+      "digest_date": "2026-08-11",
+      "person": "Yuen Yuen Ang",
+      "person_id": "yuen-yuen-ang",
+      "person_ids": [
+        "yuen-yuen-ang"
+      ],
+      "is_ces": true,
+      "punchy_title": "No country has ever tried this economic gamble before, says Agora's Yuen Yuen Ang",
+      "headline": "No country has ever tried this economic gamble before, says Agora's Yuen Yuen Ang",
+      "pull_quote": "a slowing economy and a local-government debt crisis, notes Yuen Yuen Ang of Johns Hopkins University",
+      "rationale": "a slowing economy and a local-government debt crisis, notes Yuen Yuen Ang of Johns Hopkins University",
+      "url": "https://www.tradingview.com/news/moodys:cdc1cfb528fa9:0-china-is-innovative-its-economy-is-a-mess-which-matters-more/",
+      "story_url": "https://www.tradingview.com/news/moodys:cdc1cfb528fa9:0-china-is-innovative-its-economy-is-a-mess-which-matters-more/",
+      "created_at": "2026-08-12 13:49:57",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "SNF Agora's Yuen Yuen Ang in The Economist: no large country has gone all in on high-end tech while facing a slowing economy and local debt crisis, like China has. https://www.livemint.com/global/china-is-innovative-its-economy-is-a-mess-which-matters-more-11786451898169.html",
+          "chars": 276,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=SNF%20Agora%27s%20Yuen%20Yuen%20Ang%20in%20The%20Economist%3A%20no%20large%20country%20has%20gone%20all%20in%20on%20high-end%20tech%20while%20facing%20a%20slowing%20economy%20and%20local%20debt%20crisis%2C%20like%20China%20has.%20https%3A//www.livemint.com/global/china-is-innovative-its-economy-is-a-mess-which-matters-more-11786451898169.html"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "SNF Agora's Yuen Yuen Ang in The Economist: no large country has gone all in on high-end tech while facing a slowing economy and local debt crisis, like China has. https://www.livemint.com/global/china-is-innovative-its-economy-is-a-mess-which-matters-more-11786451898169.html",
+          "chars": 276,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=SNF%20Agora%27s%20Yuen%20Yuen%20Ang%20in%20The%20Economist%3A%20no%20large%20country%20has%20gone%20all%20in%20on%20high-end%20tech%20while%20facing%20a%20slowing%20economy%20and%20local%20debt%20crisis%2C%20like%20China%20has.%20https%3A//www.livemint.com/global/china-is-innovative-its-economy-is-a-mess-which-matters-more-11786451898169.html"
+        }
+      ]
+    },
     {
       "id": 45,
       "mention_id": 264,

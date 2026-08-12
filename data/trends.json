@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-11T10:03:45-04:00",
+  "generated_at": "2026-08-12T09:50:18-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-08-11"
+    "end": "2026-08-12"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 263,
-        "in_digest": 140,
-        "reach_proxy": 549,
-        "people_covered": 43,
+        "mentions": 268,
+        "in_digest": 142,
+        "reach_proxy": 557,
+        "people_covered": 45,
         "people_tracked": 100,
-        "sources": 113,
+        "sources": 118,
         "negative": 10
       },
       "deltas": {
@@ -320,9 +320,16 @@
         },
         {
           "date": "2026-08-11",
+          "count": 5,
+          "reach": 9,
+          "in_digest": 3,
+          "observed": true
+        },
+        {
+          "date": "2026-08-12",
           "count": 2,
-          "reach": 4,
-          "in_digest": 1,
+          "reach": 3,
+          "in_digest": 0,
           "observed": true
         }
       ],
@@ -407,23 +414,23 @@
         },
         {
           "week_start": "2026-08-10",
-          "count": 5,
-          "reach": 8,
-          "in_digest": 4,
-          "people": 4,
+          "count": 10,
+          "reach": 16,
+          "in_digest": 6,
+          "people": 6,
           "sentiment": {
             "positive": 0,
-            "neutral": 1,
+            "neutral": 2,
             "negative": 0,
-            "unknown": 4
+            "unknown": 8
           }
         }
       ],
       "sentiment": {
         "positive": 65,
-        "neutral": 121,
+        "neutral": 122,
         "negative": 10,
-        "unknown": 67
+        "unknown": 71
       },
       "top_people": [
         {
@@ -443,8 +450,8 @@
         {
           "person_id": "yuen-yuen-ang",
           "name": "Yuen Yuen Ang",
-          "count": 21,
-          "reach": 34,
+          "count": 23,
+          "reach": 38,
           "is_ces": true
         },
         {
@@ -548,15 +555,15 @@
         },
         {
           "source": "Other",
-          "count": 135,
-          "reach": 361,
+          "count": 140,
+          "reach": 369,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 120
+          "count": 125
         },
         {
           "source_type": "social network",
@@ -609,10 +616,10 @@
           "person_id": "yuen-yuen-ang",
           "is_ces": true,
           "positive": 6,
-          "neutral": 9,
+          "neutral": 10,
           "negative": 0,
-          "unknown": 6,
-          "total": 21
+          "unknown": 7,
+          "total": 23
         },
         {
           "row_label": "Yascha Mounk",
@@ -795,6 +802,16 @@
           "total": 2
         },
         {
+          "row_label": "Denise Dresser (namesake, OpenAI)",
+          "person_id": "denise-dresser-namesake-openai",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 2,
+          "total": 2
+        },
+        {
           "row_label": "Jenna Silber Storey",
           "person_id": "jenna-storey",
           "is_ces": false,
@@ -867,6 +884,16 @@
         {
           "row_label": "Dawn Teele",
           "person_id": "dawn-teele",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Denise Dresser (namesake, no Agora relevance)",
+          "person_id": "denise-dresser-namesake-no-agora-relevance",
           "is_ces": false,
           "positive": 0,
           "neutral": 0,
@@ -1019,10 +1046,10 @@
         {
           "row_label": "online news",
           "positive": 22,
-          "neutral": 78,
+          "neutral": 79,
           "negative": 2,
-          "unknown": 18,
-          "total": 120
+          "unknown": 22,
+          "total": 125
         },
         {
           "row_label": "social network",
@@ -1896,12 +1923,12 @@
     },
     "ces": {
       "totals": {
-        "mentions": 50,
-        "in_digest": 34,
-        "reach_proxy": 78,
+        "mentions": 52,
+        "in_digest": 36,
+        "reach_proxy": 82,
         "people_covered": 9,
         "people_tracked": 17,
-        "sources": 29,
+        "sources": 31,
         "negative": 0
       },
       "deltas": {
@@ -2209,9 +2236,16 @@
         },
         {
           "date": "2026-08-11",
-          "count": 2,
-          "reach": 4,
-          "in_digest": 1,
+          "count": 4,
+          "reach": 8,
+          "in_digest": 3,
+          "observed": true
+        },
+        {
+          "date": "2026-08-12",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
           "observed": true
         }
       ],
@@ -2296,30 +2330,30 @@
         },
         {
           "week_start": "2026-08-10",
-          "count": 4,
-          "reach": 6,
-          "in_digest": 3,
+          "count": 6,
+          "reach": 10,
+          "in_digest": 5,
           "people": 3,
           "sentiment": {
             "positive": 0,
-            "neutral": 0,
+            "neutral": 1,
             "negative": 0,
-            "unknown": 4
+            "unknown": 5
           }
         }
       ],
       "sentiment": {
         "positive": 12,
-        "neutral": 21,
+        "neutral": 22,
         "negative": 0,
-        "unknown": 17
+        "unknown": 18
       },
       "top_people": [
         {
           "person_id": "yuen-yuen-ang",
           "name": "Yuen Yuen Ang",
-          "count": 21,
-          "reach": 34,
+          "count": 23,
+          "reach": 38,
           "is_ces": true
         },
         {
@@ -2430,15 +2464,15 @@
         },
         {
           "source": "Other",
-          "count": 21,
-          "reach": 37,
+          "count": 23,
+          "reach": 41,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 26
+          "count": 28
         },
         {
           "source_type": "social network",
@@ -2460,10 +2494,10 @@
           "person_id": "yuen-yuen-ang",
           "is_ces": true,
           "positive": 6,
-          "neutral": 9,
+          "neutral": 10,
           "negative": 0,
-          "unknown": 6,
-          "total": 21
+          "unknown": 7,
+          "total": 23
         },
         {
           "row_label": "Louis Hyman",
@@ -2550,10 +2584,10 @@
         {
           "row_label": "online news",
           "positive": 8,
-          "neutral": 13,
+          "neutral": 14,
           "negative": 0,
-          "unknown": 5,
-          "total": 26
+          "unknown": 6,
+          "total": 28
         },
         {
           "row_label": "social network",
