@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-12T09:50:18-04:00",
+  "generated_at": "2026-08-13T07:06:04-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-08-12"
+    "end": "2026-08-13"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 268,
-        "in_digest": 142,
-        "reach_proxy": 557,
-        "people_covered": 45,
+        "mentions": 274,
+        "in_digest": 147,
+        "reach_proxy": 570,
+        "people_covered": 46,
         "people_tracked": 100,
-        "sources": 118,
+        "sources": 120,
         "negative": 10
       },
       "deltas": {
@@ -327,9 +327,16 @@
         },
         {
           "date": "2026-08-12",
-          "count": 2,
-          "reach": 3,
-          "in_digest": 0,
+          "count": 5,
+          "reach": 8,
+          "in_digest": 3,
+          "observed": true
+        },
+        {
+          "date": "2026-08-13",
+          "count": 3,
+          "reach": 8,
+          "in_digest": 2,
           "observed": true
         }
       ],
@@ -414,23 +421,23 @@
         },
         {
           "week_start": "2026-08-10",
-          "count": 10,
-          "reach": 16,
-          "in_digest": 6,
-          "people": 6,
+          "count": 16,
+          "reach": 29,
+          "in_digest": 11,
+          "people": 9,
           "sentiment": {
-            "positive": 0,
-            "neutral": 2,
+            "positive": 1,
+            "neutral": 4,
             "negative": 0,
-            "unknown": 8
+            "unknown": 11
           }
         }
       ],
       "sentiment": {
-        "positive": 65,
-        "neutral": 122,
+        "positive": 66,
+        "neutral": 124,
         "negative": 10,
-        "unknown": 71
+        "unknown": 74
       },
       "top_people": [
         {
@@ -443,15 +450,15 @@
         {
           "person_id": "anne-applebaum",
           "name": "Anne Applebaum",
-          "count": 33,
-          "reach": 33,
+          "count": 34,
+          "reach": 35,
           "is_ces": false
         },
         {
           "person_id": "yuen-yuen-ang",
           "name": "Yuen Yuen Ang",
-          "count": 23,
-          "reach": 38,
+          "count": 24,
+          "reach": 41,
           "is_ces": true
         },
         {
@@ -459,6 +466,13 @@
           "name": "Yascha Mounk",
           "count": 15,
           "reach": 13,
+          "is_ces": false
+        },
+        {
+          "person_id": "hahrie-han",
+          "name": "Hahrie Han",
+          "count": 14,
+          "reach": 30,
           "is_ces": false
         },
         {
@@ -473,13 +487,6 @@
           "name": "Sean Carroll",
           "count": 14,
           "reach": 32,
-          "is_ces": false
-        },
-        {
-          "person_id": "hahrie-han",
-          "name": "Hahrie Han",
-          "count": 13,
-          "reach": 29,
           "is_ces": false
         },
         {
@@ -507,14 +514,14 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 66,
-          "reach": 129,
+          "count": 67,
+          "reach": 133,
           "is_other": false
         },
         {
           "source": "YouTube",
-          "count": 18,
-          "reach": 17,
+          "count": 20,
+          "reach": 20,
           "is_other": false
         },
         {
@@ -537,8 +544,8 @@
         },
         {
           "source": "Bluesky",
-          "count": 6,
-          "reach": 5,
+          "count": 7,
+          "reach": 7,
           "is_other": false
         },
         {
@@ -555,19 +562,19 @@
         },
         {
           "source": "Other",
-          "count": 140,
-          "reach": 369,
+          "count": 142,
+          "reach": 373,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 125
+          "count": 127
         },
         {
           "source_type": "social network",
-          "count": 58
+          "count": 61
         },
         {
           "source_type": "blog",
@@ -575,7 +582,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 75
+          "count": 76
         }
       ],
       "negative_stories": [
@@ -606,10 +613,10 @@
           "person_id": "anne-applebaum",
           "is_ces": false,
           "positive": 8,
-          "neutral": 11,
+          "neutral": 12,
           "negative": 5,
           "unknown": 9,
-          "total": 33
+          "total": 34
         },
         {
           "row_label": "Yuen Yuen Ang",
@@ -618,8 +625,8 @@
           "positive": 6,
           "neutral": 10,
           "negative": 0,
-          "unknown": 7,
-          "total": 23
+          "unknown": 8,
+          "total": 24
         },
         {
           "row_label": "Yascha Mounk",
@@ -630,6 +637,16 @@
           "negative": 1,
           "unknown": 7,
           "total": 15
+        },
+        {
+          "row_label": "Hahrie Han",
+          "person_id": "hahrie-han",
+          "is_ces": false,
+          "positive": 9,
+          "neutral": 2,
+          "negative": 0,
+          "unknown": 3,
+          "total": 14
         },
         {
           "row_label": "Louis Hyman",
@@ -650,16 +667,6 @@
           "negative": 1,
           "unknown": 2,
           "total": 14
-        },
-        {
-          "row_label": "Hahrie Han",
-          "person_id": "hahrie-han",
-          "is_ces": false,
-          "positive": 8,
-          "neutral": 2,
-          "negative": 0,
-          "unknown": 3,
-          "total": 13
         },
         {
           "row_label": "Martha S. Jones",
@@ -732,6 +739,16 @@
           "total": 5
         },
         {
+          "row_label": "Lilliana Mason",
+          "person_id": "lilliana-mason",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 4,
+          "negative": 0,
+          "unknown": 1,
+          "total": 5
+        },
+        {
           "row_label": "Mara Karlin",
           "person_id": "mara-karlin",
           "is_ces": false,
@@ -749,16 +766,6 @@
           "neutral": 2,
           "negative": 0,
           "unknown": 2,
-          "total": 4
-        },
-        {
-          "row_label": "Lilliana Mason",
-          "person_id": "lilliana-mason",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 3,
-          "negative": 0,
-          "unknown": 1,
           "total": 4
         },
         {
@@ -829,6 +836,16 @@
           "neutral": 1,
           "negative": 0,
           "unknown": 0,
+          "total": 2
+        },
+        {
+          "row_label": "Peter Pomerantsev",
+          "person_id": "peter-pomerantsev",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 2,
           "total": 2
         },
         {
@@ -1048,16 +1065,16 @@
           "positive": 22,
           "neutral": 79,
           "negative": 2,
-          "unknown": 22,
-          "total": 125
+          "unknown": 24,
+          "total": 127
         },
         {
           "row_label": "social network",
-          "positive": 20,
-          "neutral": 26,
+          "positive": 21,
+          "neutral": 28,
           "negative": 0,
           "unknown": 12,
-          "total": 58
+          "total": 61
         },
         {
           "row_label": "blog",
@@ -1072,8 +1089,8 @@
           "positive": 19,
           "neutral": 11,
           "negative": 8,
-          "unknown": 37,
-          "total": 75
+          "unknown": 38,
+          "total": 76
         }
       ],
       "sentiment_examples": {
@@ -1225,6 +1242,16 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 274,
+              "person": "Hahrie Han",
+              "person_id": "hahrie-han",
+              "is_ces": false,
+              "title": "Why You Build Belonging Before Belief: Hahrie Han",
+              "url": "https://www.youtube.com/watch?v=3_Y5M-Fv3ow",
+              "source": "YouTube",
+              "date": "2026-08-12"
+            },
             {
               "id": 248,
               "person": "Yuen Yuen Ang",
@@ -1886,6 +1913,14 @@
               "count": 5
             },
             {
+              "keyphrase": "author",
+              "count": 4
+            },
+            {
+              "keyphrase": "civic engagement",
+              "count": 4
+            },
+            {
               "keyphrase": "book",
               "count": 4
             },
@@ -1902,19 +1937,11 @@
               "count": 3
             },
             {
-              "keyphrase": "author",
-              "count": 3
-            },
-            {
               "keyphrase": "ancient athenian agora",
               "count": 3
             },
             {
               "keyphrase": "board of directors",
-              "count": 3
-            },
-            {
-              "keyphrase": "civic engagement",
               "count": 3
             }
           ]
@@ -1923,12 +1950,12 @@
     },
     "ces": {
       "totals": {
-        "mentions": 52,
-        "in_digest": 36,
-        "reach_proxy": 82,
+        "mentions": 53,
+        "in_digest": 37,
+        "reach_proxy": 85,
         "people_covered": 9,
         "people_tracked": 17,
-        "sources": 31,
+        "sources": 32,
         "negative": 0
       },
       "deltas": {
@@ -2243,6 +2270,13 @@
         },
         {
           "date": "2026-08-12",
+          "count": 1,
+          "reach": 3,
+          "in_digest": 1,
+          "observed": true
+        },
+        {
+          "date": "2026-08-13",
           "count": 0,
           "reach": 0,
           "in_digest": 0,
@@ -2330,15 +2364,15 @@
         },
         {
           "week_start": "2026-08-10",
-          "count": 6,
-          "reach": 10,
-          "in_digest": 5,
+          "count": 7,
+          "reach": 13,
+          "in_digest": 6,
           "people": 3,
           "sentiment": {
             "positive": 0,
             "neutral": 1,
             "negative": 0,
-            "unknown": 5
+            "unknown": 6
           }
         }
       ],
@@ -2346,14 +2380,14 @@
         "positive": 12,
         "neutral": 22,
         "negative": 0,
-        "unknown": 18
+        "unknown": 19
       },
       "top_people": [
         {
           "person_id": "yuen-yuen-ang",
           "name": "Yuen Yuen Ang",
-          "count": 23,
-          "reach": 38,
+          "count": 24,
+          "reach": 41,
           "is_ces": true
         },
         {
@@ -2464,15 +2498,15 @@
         },
         {
           "source": "Other",
-          "count": 23,
-          "reach": 41,
+          "count": 24,
+          "reach": 44,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 28
+          "count": 29
         },
         {
           "source_type": "social network",
@@ -2496,8 +2530,8 @@
           "positive": 6,
           "neutral": 10,
           "negative": 0,
-          "unknown": 7,
-          "total": 23
+          "unknown": 8,
+          "total": 24
         },
         {
           "row_label": "Louis Hyman",
@@ -2586,8 +2620,8 @@
           "positive": 8,
           "neutral": 14,
           "negative": 0,
-          "unknown": 6,
-          "total": 28
+          "unknown": 7,
+          "total": 29
         },
         {
           "row_label": "social network",

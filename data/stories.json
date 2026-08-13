@@ -1,7 +1,102 @@
 {
-  "generated_at": "2026-08-12T09:50:18-04:00",
-  "count": 268,
+  "generated_at": "2026-08-13T07:06:04-04:00",
+  "count": 274,
   "stories": [
+    {
+      "id": 275,
+      "date": "2026-08-13",
+      "week_start": "2026-08-10",
+      "person_id": "peter-pomerantsev",
+      "person": "Peter Pomerantsev",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 4,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 272,
+      "date": "2026-08-13",
+      "week_start": "2026-08-10",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "https://bsky.app/profile/yoks79.bsky.social/post/3msx3uzbz4c22",
+      "source": "Bluesky",
+      "source_type": "social network",
+      "similar_mention_count": 2,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": " https://bsky.app/profile/yoks79.bsky.social/post/3msx3uzbz4c22",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://bsky.app/profile/yoks79.bsky.social/post/3msx3uzbz4c22",
+          "chars": 63
+        }
+      }
+    },
+    {
+      "id": 271,
+      "date": "2026-08-13",
+      "week_start": "2026-08-10",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Paneldebatt med Anne Applebaum om geopolitisk uro og konsekvenser for kapitalmarkedene",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=MmzI8XD9PuU",
+      "source": "YouTube",
+      "source_type": "social network",
+      "similar_mention_count": 2,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Paneldebatt med Anne Applebaum om geopolitisk uro og konsekvenser for kapitalmarkedene https://www.youtube.com/watch?v=MmzI8XD9PuU",
+          "chars": 110
+        },
+        "bluesky": {
+          "text": "Paneldebatt med Anne Applebaum om geopolitisk uro og konsekvenser for kapitalmarkedene https://www.youtube.com/watch?v=MmzI8XD9PuU",
+          "chars": 130
+        }
+      }
+    },
+    {
+      "id": 270,
+      "date": "2026-08-12",
+      "week_start": "2026-08-10",
+      "person_id": "yuen-yuen-ang",
+      "person": "Yuen Yuen Ang",
+      "is_ces": true,
+      "title": "My Say: The World Cup and the world: 2026 edition",
+      "has_text": true,
+      "url": "https://theedgemalaysia.com/node/813953",
+      "source": "The Edge Malaysia",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "My Say: The World Cup and the world: 2026 edition https://theedgemalaysia.com/node/813953",
+          "chars": 73
+        },
+        "bluesky": {
+          "text": "My Say: The World Cup and the world: 2026 edition https://theedgemalaysia.com/node/813953",
+          "chars": 89
+        }
+      }
+    },
     {
       "id": 268,
       "date": "2026-08-12",
@@ -25,6 +120,58 @@
         "bluesky": {
           "text": "Saída de executivo da OpenAI: Lightcap deixa o cargo enquanto se aproxima IPO de 852 mil milhões de dólares https://pt.cryptonomist.ch/2026/08/12/saida-de-executivo-da-openai-lightcap-deixa-o-cargo-enquanto-se-aproxima-ipo-de-852-mil-milhoes-de-dolares/",
           "chars": 253
+        }
+      }
+    },
+    {
+      "id": 274,
+      "date": "2026-08-12",
+      "week_start": "2026-08-10",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": "Why You Build Belonging Before Belief: Hahrie Han",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=3_Y5M-Fv3ow",
+      "source": "YouTube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Why You Build Belonging Before Belief: Hahrie Han https://www.youtube.com/watch?v=3_Y5M-Fv3ow",
+          "chars": 73
+        },
+        "bluesky": {
+          "text": "Why You Build Belonging Before Belief: Hahrie Han https://www.youtube.com/watch?v=3_Y5M-Fv3ow",
+          "chars": 93
+        }
+      }
+    },
+    {
+      "id": 273,
+      "date": "2026-08-12",
+      "week_start": "2026-08-10",
+      "person_id": "peter-pomerantsev",
+      "person": "Peter Pomerantsev",
+      "is_ces": false,
+      "title": "《共識的終結》：在臥底調查、追捕網軍過程中，他們發現的事",
+      "has_text": true,
+      "url": "https://www.twreporter.org/a/bookreview-this-is-not-propaganda-adventures-in-the-war-against-reality",
+      "source": "Twreporter",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "《共識的終結》：在臥底調查、追捕網軍過程中，他們發現的事 https://www.twreporter.org/a/bookreview-this-is-not-propaganda-adventures-in-the-war-against-reality",
+          "chars": 52
+        },
+        "bluesky": {
+          "text": "《共識的終結》：在臥底調查、追捕網軍過程中，他們發現的事 https://www.twreporter.org/a/bookreview-this-is-not-propaganda-adventures-in-the-war-against-reality",
+          "chars": 129
         }
       }
     },
