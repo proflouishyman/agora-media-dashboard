@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-12T09:50:18-04:00",
-  "count": 31,
+  "generated_at": "2026-08-13T07:06:04-04:00",
+  "count": 32,
   "picks": [
+    {
+      "id": 47,
+      "mention_id": 270,
+      "digest_date": "2026-08-12",
+      "person": "Yuen Yuen Ang",
+      "person_id": "yuen-yuen-ang",
+      "person_ids": [
+        "yuen-yuen-ang"
+      ],
+      "is_ces": true,
+      "punchy_title": "Yuen Yuen Ang: Why winning nations aren't just copied, they're built",
+      "headline": "Yuen Yuen Ang: Why winning nations aren't just copied, they're built",
+      "pull_quote": "a point made most poignantly by Johns Hopkins University Professor Yuen Yuen Ang. You can't just be a ...",
+      "rationale": "a point made most poignantly by Johns Hopkins University Professor Yuen Yuen Ang. You can't just be a ...",
+      "url": "https://theedgemalaysia.com/node/813953",
+      "story_url": "https://theedgemalaysia.com/node/813953",
+      "created_at": "2026-08-13 11:05:58",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Development isn't just copying what winning countries have. SNF Agora's Yuen Yuen Ang on the World Cup as a lesson in institution-building. https://theedgemalaysia.com/node/813953",
+          "chars": 179,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Development%20isn%27t%20just%20copying%20what%20winning%20countries%20have.%20SNF%20Agora%27s%20Yuen%20Yuen%20Ang%20on%20the%20World%20Cup%20as%20a%20lesson%20in%20institution-building.%20https%3A//theedgemalaysia.com/node/813953"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Development isn't just copying what winning countries have. SNF Agora's Yuen Yuen Ang on the World Cup as a lesson in institution-building. https://theedgemalaysia.com/node/813953",
+          "chars": 179,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Development%20isn%27t%20just%20copying%20what%20winning%20countries%20have.%20SNF%20Agora%27s%20Yuen%20Yuen%20Ang%20on%20the%20World%20Cup%20as%20a%20lesson%20in%20institution-building.%20https%3A//theedgemalaysia.com/node/813953"
+        }
+      ]
+    },
     {
       "id": 46,
       "mention_id": 265,
