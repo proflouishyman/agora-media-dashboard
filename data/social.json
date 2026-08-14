@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-13T07:06:04-04:00",
-  "count": 32,
+  "generated_at": "2026-08-14T07:07:48-04:00",
+  "count": 33,
   "picks": [
+    {
+      "id": 48,
+      "mention_id": 276,
+      "digest_date": "2026-08-13",
+      "person": "Hahrie Han",
+      "person_id": "hahrie-han",
+      "person_ids": [
+        "hahrie-han"
+      ],
+      "is_ces": false,
+      "punchy_title": "Abbott's campaign app wants your contacts. Hahrie Han says that could cost him votes.",
+      "headline": "Abbott's campaign app wants your contacts. Hahrie Han says that could cost him votes.",
+      "pull_quote": "intrusive nature could threaten to turn off some voters, said Hahrie Han, a political scientist at Johns Hopkins University",
+      "rationale": "intrusive nature could threaten to turn off some voters, said Hahrie Han, a political scientist at Johns Hopkins University",
+      "url": "https://www.houstonchronicle.com/politics/texas/article/greg-abbott-campaign-app-22385067.php",
+      "story_url": "https://www.houstonchronicle.com/politics/texas/article/greg-abbott-campaign-app-22385067.php",
+      "created_at": "2026-08-14 11:06:44",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Would you hand over your phone contacts for a campaign app? Johns Hopkins political scientist Hahrie Han says the intrusiveness could backfire on Greg Abbott, turning off some voters. https://www.houstonchronicle.com/politics/texas/article/greg-abbott-campaign-app-22385067.php",
+          "chars": 277,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Would%20you%20hand%20over%20your%20phone%20contacts%20for%20a%20campaign%20app%3F%20Johns%20Hopkins%20political%20scientist%20Hahrie%20Han%20says%20the%20intrusiveness%20could%20backfire%20on%20Greg%20Abbott%2C%20turning%20off%20some%20voters.%20https%3A//www.houstonchronicle.com/politics/texas/article/greg-abbott-campaign-app-22385067.php"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Would you hand over your phone contacts for a campaign app? Johns Hopkins political scientist Hahrie Han says the intrusiveness could backfire on Greg Abbott, turning off some voters. https://www.houstonchronicle.com/politics/texas/article/greg-abbott-campaign-app-22385067.php",
+          "chars": 277,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Would%20you%20hand%20over%20your%20phone%20contacts%20for%20a%20campaign%20app%3F%20Johns%20Hopkins%20political%20scientist%20Hahrie%20Han%20says%20the%20intrusiveness%20could%20backfire%20on%20Greg%20Abbott%2C%20turning%20off%20some%20voters.%20https%3A//www.houstonchronicle.com/politics/texas/article/greg-abbott-campaign-app-22385067.php"
+        }
+      ]
+    },
     {
       "id": 47,
       "mention_id": 270,
