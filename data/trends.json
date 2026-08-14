@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-13T07:06:04-04:00",
+  "generated_at": "2026-08-14T07:07:48-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-08-13"
+    "end": "2026-08-14"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 274,
-        "in_digest": 147,
-        "reach_proxy": 570,
+        "mentions": 278,
+        "in_digest": 149,
+        "reach_proxy": 597,
         "people_covered": 46,
         "people_tracked": 100,
-        "sources": 120,
+        "sources": 122,
         "negative": 10
       },
       "deltas": {
@@ -334,9 +334,16 @@
         },
         {
           "date": "2026-08-13",
-          "count": 3,
-          "reach": 8,
-          "in_digest": 2,
+          "count": 6,
+          "reach": 21,
+          "in_digest": 4,
+          "observed": true
+        },
+        {
+          "date": "2026-08-14",
+          "count": 1,
+          "reach": 14,
+          "in_digest": 0,
           "observed": true
         }
       ],
@@ -421,23 +428,23 @@
         },
         {
           "week_start": "2026-08-10",
-          "count": 16,
-          "reach": 29,
-          "in_digest": 11,
-          "people": 9,
+          "count": 20,
+          "reach": 56,
+          "in_digest": 13,
+          "people": 11,
           "sentiment": {
-            "positive": 1,
-            "neutral": 4,
+            "positive": 2,
+            "neutral": 5,
             "negative": 0,
-            "unknown": 11
+            "unknown": 13
           }
         }
       ],
       "sentiment": {
-        "positive": 66,
-        "neutral": 124,
+        "positive": 67,
+        "neutral": 125,
         "negative": 10,
-        "unknown": 74
+        "unknown": 76
       },
       "top_people": [
         {
@@ -464,15 +471,15 @@
         {
           "person_id": "yascha-mounk",
           "name": "Yascha Mounk",
-          "count": 15,
-          "reach": 13,
+          "count": 16,
+          "reach": 15,
           "is_ces": false
         },
         {
           "person_id": "hahrie-han",
           "name": "Hahrie Han",
-          "count": 14,
-          "reach": 30,
+          "count": 15,
+          "reach": 35,
           "is_ces": false
         },
         {
@@ -514,8 +521,8 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 67,
-          "reach": 133,
+          "count": 68,
+          "reach": 147,
           "is_other": false
         },
         {
@@ -562,15 +569,15 @@
         },
         {
           "source": "Other",
-          "count": 142,
-          "reach": 373,
+          "count": 145,
+          "reach": 386,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 127
+          "count": 129
         },
         {
           "source_type": "social network",
@@ -582,7 +589,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 76
+          "count": 78
         }
       ],
       "negative_stories": [
@@ -632,21 +639,21 @@
           "row_label": "Yascha Mounk",
           "person_id": "yascha-mounk",
           "is_ces": false,
-          "positive": 0,
+          "positive": 1,
           "neutral": 7,
           "negative": 1,
           "unknown": 7,
-          "total": 15
+          "total": 16
         },
         {
           "row_label": "Hahrie Han",
           "person_id": "hahrie-han",
           "is_ces": false,
           "positive": 9,
-          "neutral": 2,
+          "neutral": 3,
           "negative": 0,
           "unknown": 3,
-          "total": 14
+          "total": 15
         },
         {
           "row_label": "Louis Hyman",
@@ -729,6 +736,16 @@
           "total": 6
         },
         {
+          "row_label": "Denise Dresser",
+          "person_id": "denise-dresser",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 2,
+          "negative": 0,
+          "unknown": 3,
+          "total": 5
+        },
+        {
           "row_label": "Henry Farrell",
           "person_id": "henry-farrell",
           "is_ces": true,
@@ -759,14 +776,14 @@
           "total": 5
         },
         {
-          "row_label": "Denise Dresser",
-          "person_id": "denise-dresser",
+          "row_label": "Peter Pomerantsev",
+          "person_id": "peter-pomerantsev",
           "is_ces": false,
           "positive": 0,
-          "neutral": 2,
+          "neutral": 0,
           "negative": 0,
-          "unknown": 2,
-          "total": 4
+          "unknown": 3,
+          "total": 3
         },
         {
           "row_label": "Steven Teles",
@@ -836,16 +853,6 @@
           "neutral": 1,
           "negative": 0,
           "unknown": 0,
-          "total": 2
-        },
-        {
-          "row_label": "Peter Pomerantsev",
-          "person_id": "peter-pomerantsev",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 2,
           "total": 2
         },
         {
@@ -1062,11 +1069,11 @@
       "source_type_sentiment_crosstab": [
         {
           "row_label": "online news",
-          "positive": 22,
-          "neutral": 79,
+          "positive": 23,
+          "neutral": 80,
           "negative": 2,
           "unknown": 24,
-          "total": 127
+          "total": 129
         },
         {
           "row_label": "social network",
@@ -1089,8 +1096,8 @@
           "positive": 19,
           "neutral": 11,
           "negative": 8,
-          "unknown": 38,
-          "total": 76
+          "unknown": 40,
+          "total": 78
         }
       ],
       "sentiment_examples": {
@@ -1242,6 +1249,16 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 277,
+              "person": "Yascha Mounk",
+              "person_id": "yascha-mounk",
+              "is_ces": false,
+              "title": "Yascha Mounk : « La montée de la frange radicale du Parti démocrate pourrait aider les républicains à remporter les midterms »",
+              "url": "https://www.lefigaro.fr/vox/monde/yascha-mounk-la-montee-de-la-frange-radicale-du-parti-democrate-pourrait-aider-les-republicains-a-remporter-les-midterms-20260813",
+              "source": "Le Figaro",
+              "date": "2026-08-13"
+            },
             {
               "id": 274,
               "person": "Hahrie Han",
@@ -2277,6 +2294,13 @@
         },
         {
           "date": "2026-08-13",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
+          "observed": true
+        },
+        {
+          "date": "2026-08-14",
           "count": 0,
           "reach": 0,
           "in_digest": 0,

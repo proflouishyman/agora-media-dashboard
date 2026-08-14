@@ -1,7 +1,76 @@
 {
-  "generated_at": "2026-08-13T07:06:04-04:00",
-  "count": 274,
+  "generated_at": "2026-08-14T07:07:48-04:00",
+  "count": 278,
   "stories": [
+    {
+      "id": 279,
+      "date": "2026-08-14",
+      "week_start": "2026-08-10",
+      "person_id": "peter-pomerantsev",
+      "person": "Peter Pomerantsev",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 14,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 278,
+      "date": "2026-08-13",
+      "week_start": "2026-08-10",
+      "person_id": "denise-dresser",
+      "person": "Denise Dresser",
+      "is_ces": false,
+      "title": "Diretora de receita da OpenAI vai deixar cargo menos de um ano após contratação",
+      "has_text": true,
+      "url": "https://br.headtopics.com",
+      "source": "Head Topics",
+      "source_type": null,
+      "similar_mention_count": 6,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Diretora de receita da OpenAI vai deixar cargo menos de um ano após contratação https://br.headtopics.com",
+          "chars": 103
+        },
+        "bluesky": {
+          "text": "Diretora de receita da OpenAI vai deixar cargo menos de um ano após contratação https://br.headtopics.com",
+          "chars": 105
+        }
+      }
+    },
+    {
+      "id": 276,
+      "date": "2026-08-13",
+      "week_start": "2026-08-10",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": "Would you share your phone contacts with Greg Abbott? His campaign wants you to.",
+      "has_text": true,
+      "url": "https://www.houstonchronicle.com/politics/texas/article/greg-abbott-campaign-app-22385067.php",
+      "source": "Yahoo! News",
+      "source_type": "online news",
+      "similar_mention_count": 5,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Would you share your phone contacts with Greg Abbott? His campaign wants you to. https://www.houstonchronicle.com/politics/texas/article/greg-abbott-campaign-app-22385067.php",
+          "chars": 104
+        },
+        "bluesky": {
+          "text": "Would you share your phone contacts with Greg Abbott? His campaign wants you to. https://www.houstonchronicle.com/politics/texas/article/greg-abbott-campaign-app-22385067.php",
+          "chars": 174
+        }
+      }
+    },
     {
       "id": 275,
       "date": "2026-08-13",
@@ -18,6 +87,32 @@
       "entity_sentiment": "unknown",
       "in_digest": false,
       "share": null
+    },
+    {
+      "id": 277,
+      "date": "2026-08-13",
+      "week_start": "2026-08-10",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "Yascha Mounk : « La montée de la frange radicale du Parti démocrate pourrait aider les républicains à remporter les midterms »",
+      "has_text": true,
+      "url": "https://www.lefigaro.fr/vox/monde/yascha-mounk-la-montee-de-la-frange-radicale-du-parti-democrate-pourrait-aider-les-republicains-a-remporter-les-midterms-20260813",
+      "source": "Le Figaro",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Yascha Mounk : « La montée de la frange radicale du Parti démocrate pourrait aider les républicains à remporter les midterms » https://www.lefigaro.fr/vox/monde/yascha-mounk-la-montee-de-la-frange-radicale-du-parti-democrate-pourrait-aider-les-republicains-a-remporter-les-midterms-20260813",
+          "chars": 150
+        },
+        "bluesky": {
+          "text": "Yascha Mounk : « La montée de la frange radicale du Parti démocrate pourrait aider les républicains à remporter les midterms » https://www.lefigaro.fr/vox/monde/yascha-mounk-la-montee-de-la-frange-radicale-du-parti-democrate-pourrait-aider-les-republicains-a-remporter-les-midterms-20260813",
+          "chars": 290
+        }
+      }
     },
     {
       "id": 272,
