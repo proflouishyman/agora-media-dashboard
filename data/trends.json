@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:07:48-04:00",
+  "generated_at": "2026-08-15T07:04:48-04:00",
   "window": {
     "start": "2026-07-02",
     "end": "2026-08-14"
@@ -7,12 +7,12 @@
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 278,
+        "mentions": 283,
         "in_digest": 149,
-        "reach_proxy": 597,
-        "people_covered": 46,
+        "reach_proxy": 606,
+        "people_covered": 47,
         "people_tracked": 100,
-        "sources": 122,
+        "sources": 125,
         "negative": 10
       },
       "deltas": {
@@ -341,8 +341,8 @@
         },
         {
           "date": "2026-08-14",
-          "count": 1,
-          "reach": 14,
+          "count": 6,
+          "reach": 23,
           "in_digest": 0,
           "observed": true
         }
@@ -428,15 +428,15 @@
         },
         {
           "week_start": "2026-08-10",
-          "count": 20,
-          "reach": 56,
+          "count": 25,
+          "reach": 65,
           "in_digest": 13,
-          "people": 11,
+          "people": 13,
           "sentiment": {
             "positive": 2,
             "neutral": 5,
             "negative": 0,
-            "unknown": 13
+            "unknown": 18
           }
         }
       ],
@@ -444,7 +444,7 @@
         "positive": 67,
         "neutral": 125,
         "negative": 10,
-        "unknown": 76
+        "unknown": 81
       },
       "top_people": [
         {
@@ -457,8 +457,8 @@
         {
           "person_id": "anne-applebaum",
           "name": "Anne Applebaum",
-          "count": 34,
-          "reach": 35,
+          "count": 35,
+          "reach": 36,
           "is_ces": false
         },
         {
@@ -521,8 +521,8 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 68,
-          "reach": 147,
+          "count": 69,
+          "reach": 150,
           "is_other": false
         },
         {
@@ -557,8 +557,8 @@
         },
         {
           "source": "Youtube",
-          "count": 5,
-          "reach": 2,
+          "count": 6,
+          "reach": 3,
           "is_other": false
         },
         {
@@ -569,19 +569,19 @@
         },
         {
           "source": "Other",
-          "count": 145,
-          "reach": 386,
+          "count": 148,
+          "reach": 391,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 129
+          "count": 132
         },
         {
           "source_type": "social network",
-          "count": 61
+          "count": 62
         },
         {
           "source_type": "blog",
@@ -589,7 +589,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 78
+          "count": 79
         }
       ],
       "negative_stories": [
@@ -622,8 +622,8 @@
           "positive": 8,
           "neutral": 12,
           "negative": 5,
-          "unknown": 9,
-          "total": 34
+          "unknown": 10,
+          "total": 35
         },
         {
           "row_label": "Yuen Yuen Ang",
@@ -706,9 +706,29 @@
           "total": 8
         },
         {
+          "row_label": "Denise Dresser",
+          "person_id": "denise-dresser",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 2,
+          "negative": 0,
+          "unknown": 5,
+          "total": 7
+        },
+        {
           "row_label": "Eugene Scott",
           "person_id": "eugene-scott",
           "is_ces": false,
+          "positive": 1,
+          "neutral": 4,
+          "negative": 0,
+          "unknown": 1,
+          "total": 6
+        },
+        {
+          "row_label": "Henry Farrell",
+          "person_id": "henry-farrell",
+          "is_ces": true,
           "positive": 1,
           "neutral": 4,
           "negative": 0,
@@ -734,26 +754,6 @@
           "negative": 0,
           "unknown": 2,
           "total": 6
-        },
-        {
-          "row_label": "Denise Dresser",
-          "person_id": "denise-dresser",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 2,
-          "negative": 0,
-          "unknown": 3,
-          "total": 5
-        },
-        {
-          "row_label": "Henry Farrell",
-          "person_id": "henry-farrell",
-          "is_ces": true,
-          "positive": 1,
-          "neutral": 4,
-          "negative": 0,
-          "unknown": 0,
-          "total": 5
         },
         {
           "row_label": "Lilliana Mason",
@@ -996,6 +996,16 @@
           "total": 1
         },
         {
+          "row_label": "Jeremy Wallace",
+          "person_id": "jeremy-wallace",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
           "row_label": "Johnnie Moore",
           "person_id": "johnnie-moore",
           "is_ces": false,
@@ -1072,16 +1082,16 @@
           "positive": 23,
           "neutral": 80,
           "negative": 2,
-          "unknown": 24,
-          "total": 129
+          "unknown": 27,
+          "total": 132
         },
         {
           "row_label": "social network",
           "positive": 21,
           "neutral": 28,
           "negative": 0,
-          "unknown": 12,
-          "total": 61
+          "unknown": 13,
+          "total": 62
         },
         {
           "row_label": "blog",
@@ -1096,8 +1106,8 @@
           "positive": 19,
           "neutral": 11,
           "negative": 8,
-          "unknown": 40,
-          "total": 78
+          "unknown": 41,
+          "total": 79
         }
       ],
       "sentiment_examples": {
@@ -1967,9 +1977,9 @@
     },
     "ces": {
       "totals": {
-        "mentions": 53,
+        "mentions": 54,
         "in_digest": 37,
-        "reach_proxy": 85,
+        "reach_proxy": 88,
         "people_covered": 9,
         "people_tracked": 17,
         "sources": 32,
@@ -2301,8 +2311,8 @@
         },
         {
           "date": "2026-08-14",
-          "count": 0,
-          "reach": 0,
+          "count": 1,
+          "reach": 3,
           "in_digest": 0,
           "observed": true
         }
@@ -2388,15 +2398,15 @@
         },
         {
           "week_start": "2026-08-10",
-          "count": 7,
-          "reach": 13,
+          "count": 8,
+          "reach": 16,
           "in_digest": 6,
-          "people": 3,
+          "people": 4,
           "sentiment": {
             "positive": 0,
             "neutral": 1,
             "negative": 0,
-            "unknown": 6
+            "unknown": 7
           }
         }
       ],
@@ -2404,7 +2414,7 @@
         "positive": 12,
         "neutral": 22,
         "negative": 0,
-        "unknown": 19
+        "unknown": 20
       },
       "top_people": [
         {
@@ -2424,8 +2434,8 @@
         {
           "person_id": "henry-farrell",
           "name": "Henry Farrell",
-          "count": 5,
-          "reach": 1,
+          "count": 6,
+          "reach": 4,
           "is_ces": true
         },
         {
@@ -2474,8 +2484,8 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 14,
-          "reach": 19,
+          "count": 15,
+          "reach": 22,
           "is_other": false
         },
         {
@@ -2542,7 +2552,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 15
+          "count": 16
         }
       ],
       "negative_stories": [],
@@ -2574,8 +2584,8 @@
           "positive": 1,
           "neutral": 4,
           "negative": 0,
-          "unknown": 0,
-          "total": 5
+          "unknown": 1,
+          "total": 6
         },
         {
           "row_label": "Steven Teles",
@@ -2668,8 +2678,8 @@
           "positive": 2,
           "neutral": 1,
           "negative": 0,
-          "unknown": 12,
-          "total": 15
+          "unknown": 13,
+          "total": 16
         }
       ],
       "sentiment_examples": {
