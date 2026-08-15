@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T07:07:48-04:00",
-  "count": 278,
+  "generated_at": "2026-08-15T07:04:48-04:00",
+  "count": 283,
   "stories": [
     {
       "id": 279,
@@ -18,6 +18,127 @@
       "entity_sentiment": "unknown",
       "in_digest": false,
       "share": null
+    },
+    {
+      "id": 281,
+      "date": "2026-08-14",
+      "week_start": "2026-08-10",
+      "person_id": "denise-dresser",
+      "person": "Denise Dresser",
+      "is_ces": false,
+      "title": "OpenAI sofre nova turbulência na liderança às vésperas do IPO",
+      "has_text": true,
+      "url": "https://timesbrasil.com.br/empresas-e-negocios/tecnologia-e-inovacao/openai-sofre-nova-turbulencia-na-lideranca-as-vesperas-do-ipo/",
+      "source": "Times Brasil-  CNBC",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "OpenAI sofre nova turbulência na liderança às vésperas do IPO https://timesbrasil.com.br/empresas-e-negocios/tecnologia-e-inovacao/openai-sofre-nova-turbulencia-na-lideranca-as-vesperas-do-ipo/",
+          "chars": 85
+        },
+        "bluesky": {
+          "text": "OpenAI sofre nova turbulência na liderança às vésperas do IPO https://timesbrasil.com.br/empresas-e-negocios/tecnologia-e-inovacao/openai-sofre-nova-turbulencia-na-lideranca-as-vesperas-do-ipo/",
+          "chars": 193
+        }
+      }
+    },
+    {
+      "id": 280,
+      "date": "2026-08-14",
+      "week_start": "2026-08-10",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": null,
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 284,
+      "date": "2026-08-14",
+      "week_start": "2026-08-10",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "A natureza do antissemitismo",
+      "has_text": true,
+      "url": "https://rothbardbrasil.com/a-natureza-do-antissemitismo/",
+      "source": "Instituto Rothbard",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "A natureza do antissemitismo https://rothbardbrasil.com/a-natureza-do-antissemitismo/",
+          "chars": 52
+        },
+        "bluesky": {
+          "text": "A natureza do antissemitismo https://rothbardbrasil.com/a-natureza-do-antissemitismo/",
+          "chars": 85
+        }
+      }
+    },
+    {
+      "id": 283,
+      "date": "2026-08-14",
+      "week_start": "2026-08-10",
+      "person_id": "denise-dresser",
+      "person": "Denise Dresser",
+      "is_ces": false,
+      "title": "277: Chuva de novos modelos, marca d’água no Claude, manifesto de Mark Zuckerberg",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=3eIQcXYJigY",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "277: Chuva de novos modelos, marca d’água no Claude, manifesto de Mark Zuckerberg https://www.youtube.com/watch?v=3eIQcXYJigY",
+          "chars": 105
+        },
+        "bluesky": {
+          "text": "277: Chuva de novos modelos, marca d’água no Claude, manifesto de Mark Zuckerberg https://www.youtube.com/watch?v=3eIQcXYJigY",
+          "chars": 125
+        }
+      }
+    },
+    {
+      "id": 282,
+      "date": "2026-08-14",
+      "week_start": "2026-08-10",
+      "person_id": "jeremy-wallace",
+      "person": "Jeremy Wallace",
+      "is_ces": false,
+      "title": "Fish Are a Big Deal in This Senate Race",
+      "has_text": true,
+      "url": "https://newrepublic.com/post/214372/mary-peltola-jay-deboyer-jocelyn-benson",
+      "source": "The New Republic",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Fish Are a Big Deal in This Senate Race https://newrepublic.com/post/214372/mary-peltola-jay-deboyer-jocelyn-benson",
+          "chars": 63
+        },
+        "bluesky": {
+          "text": "Fish Are a Big Deal in This Senate Race https://newrepublic.com/post/214372/mary-peltola-jay-deboyer-jocelyn-benson",
+          "chars": 115
+        }
+      }
     },
     {
       "id": 278,
