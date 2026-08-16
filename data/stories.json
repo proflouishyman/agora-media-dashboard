@@ -1,7 +1,111 @@
 {
-  "generated_at": "2026-08-15T07:04:48-04:00",
-  "count": 283,
+  "generated_at": "2026-08-16T07:05:39-04:00",
+  "count": 287,
   "stories": [
+    {
+      "id": 288,
+      "date": "2026-08-16",
+      "week_start": "2026-08-10",
+      "person_id": "denise-dresser",
+      "person": "Denise Dresser",
+      "is_ces": false,
+      "title": "Receita corporativa da OpenAI supera a de consumidores",
+      "has_text": true,
+      "url": "https://dailyjournal.news/news/2026-08-16/receita-corporativa-da-openai-supera-a-de-consumidores",
+      "source": "dailyjournal.news",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Receita corporativa da OpenAI supera a de consumidores https://dailyjournal.news/news/2026-08-16/receita-corporativa-da-openai-supera-a-de-consumidores",
+          "chars": 78
+        },
+        "bluesky": {
+          "text": "Receita corporativa da OpenAI supera a de consumidores https://dailyjournal.news/news/2026-08-16/receita-corporativa-da-openai-supera-a-de-consumidores",
+          "chars": 151
+        }
+      }
+    },
+    {
+      "id": 285,
+      "date": "2026-08-15",
+      "week_start": "2026-08-10",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "Was der „Spiegel“ verschweigt: Nicht der „gefährlichste Mann Deutschlands“, sondern die UN sprechen von Bevölkerungsaustausch!",
+      "has_text": true,
+      "url": "https://deutschlandkurier.de/2026/08/was-der-spiegel-verschweigt-nicht-der-gefaehrlichste-mann-deutschlands-sondern-die-un-sprechen-von-bevoelkerungsaustausch/",
+      "source": "deutschlandkurier.de",
+      "source_type": "online news",
+      "similar_mention_count": 122,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Was der „Spiegel“ verschweigt: Nicht der „gefährlichste Mann Deutschlands“, sondern die UN sprechen von Bevölkerungsaustausch! https://deutschlandkurier.de/2026/08/was-der-spiegel-verschweigt-nicht-der-gefaehrlichste-mann-deutschlands-sondern-die-un-sprechen-von-bevoelkerungsaustausch/",
+          "chars": 150
+        },
+        "bluesky": {
+          "text": "Was der „Spiegel“ verschweigt: Nicht der „gefährlichste Mann Deutschlands“, sondern die UN sprechen von Bevölkerungsaustausch! https://deutschlandkurier.de/2026/08/was-der-spiegel-verschweigt-nicht-der-gefaehrlichste-mann-deutschlands-sondern-die-un-sprechen-von-bevoelkerungsaustausch/",
+          "chars": 286
+        }
+      }
+    },
+    {
+      "id": 286,
+      "date": "2026-08-15",
+      "week_start": "2026-08-10",
+      "person_id": "denise-dresser",
+      "person": "Denise Dresser",
+      "is_ces": false,
+      "title": "Crise na OpenAI se agrava enquanto Sam Altman prepara IPO",
+      "has_text": true,
+      "url": "https://www1.folha.uol.com.br/tec/2026/08/crise-na-openai-se-agrava-enquanto-sam-altman-prepara-ipo.shtml",
+      "source": "uol.com.br",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Crise na OpenAI se agrava enquanto Sam Altman prepara IPO https://www1.folha.uol.com.br/tec/2026/08/crise-na-openai-se-agrava-enquanto-sam-altman-prepara-ipo.shtml",
+          "chars": 81
+        },
+        "bluesky": {
+          "text": "Crise na OpenAI se agrava enquanto Sam Altman prepara IPO https://www1.folha.uol.com.br/tec/2026/08/crise-na-openai-se-agrava-enquanto-sam-altman-prepara-ipo.shtml",
+          "chars": 163
+        }
+      }
+    },
+    {
+      "id": 287,
+      "date": "2026-08-15",
+      "week_start": "2026-08-10",
+      "person_id": "denise-dresser",
+      "person": "Denise Dresser",
+      "is_ces": false,
+      "title": "OpenAI precisa tranquilizar os investidores após uma onda de saídas sensíveis",
+      "has_text": true,
+      "url": "https://www.cointribune.com/pt-br/openai-precisa-tranquilizar-os-investidores-apos-uma-onda-de-saidas-sensiveis/",
+      "source": "cointribune.com",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "OpenAI precisa tranquilizar os investidores após uma onda de saídas sensíveis https://www.cointribune.com/pt-br/openai-precisa-tranquilizar-os-investidores-apos-uma-onda-de-saidas-sensiveis/",
+          "chars": 101
+        },
+        "bluesky": {
+          "text": "OpenAI precisa tranquilizar os investidores após uma onda de saídas sensíveis https://www.cointribune.com/pt-br/openai-precisa-tranquilizar-os-investidores-apos-uma-onda-de-saidas-sensiveis/",
+          "chars": 190
+        }
+      }
+    },
     {
       "id": 279,
       "date": "2026-08-14",
