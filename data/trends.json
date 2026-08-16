@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-15T07:04:48-04:00",
+  "generated_at": "2026-08-16T07:05:39-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-08-14"
+    "end": "2026-08-16"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 283,
-        "in_digest": 149,
-        "reach_proxy": 606,
+        "mentions": 287,
+        "in_digest": 150,
+        "reach_proxy": 733,
         "people_covered": 47,
         "people_tracked": 100,
-        "sources": 125,
+        "sources": 129,
         "negative": 10
       },
       "deltas": {
@@ -345,6 +345,20 @@
           "reach": 23,
           "in_digest": 0,
           "observed": true
+        },
+        {
+          "date": "2026-08-15",
+          "count": 3,
+          "reach": 126,
+          "in_digest": 1,
+          "observed": true
+        },
+        {
+          "date": "2026-08-16",
+          "count": 1,
+          "reach": 1,
+          "in_digest": 0,
+          "observed": true
         }
       ],
       "weekly": [
@@ -428,15 +442,15 @@
         },
         {
           "week_start": "2026-08-10",
-          "count": 25,
-          "reach": 65,
-          "in_digest": 13,
+          "count": 29,
+          "reach": 192,
+          "in_digest": 14,
           "people": 13,
           "sentiment": {
             "positive": 2,
             "neutral": 5,
             "negative": 0,
-            "unknown": 18
+            "unknown": 22
           }
         }
       ],
@@ -444,7 +458,7 @@
         "positive": 67,
         "neutral": 125,
         "negative": 10,
-        "unknown": 81
+        "unknown": 85
       },
       "top_people": [
         {
@@ -471,8 +485,8 @@
         {
           "person_id": "yascha-mounk",
           "name": "Yascha Mounk",
-          "count": 16,
-          "reach": 15,
+          "count": 17,
+          "reach": 137,
           "is_ces": false
         },
         {
@@ -497,6 +511,13 @@
           "is_ces": false
         },
         {
+          "person_id": "denise-dresser",
+          "name": "Denise Dresser",
+          "count": 10,
+          "reach": 17,
+          "is_ces": false
+        },
+        {
           "person_id": "martha-s-jones",
           "name": "Martha S. Jones",
           "count": 10,
@@ -508,13 +529,6 @@
           "name": "Ruth Braunstein",
           "count": 9,
           "reach": 26,
-          "is_ces": false
-        },
-        {
-          "person_id": "david-park",
-          "name": "David Park",
-          "count": 8,
-          "reach": 7,
           "is_ces": false
         }
       ],
@@ -569,15 +583,15 @@
         },
         {
           "source": "Other",
-          "count": 148,
-          "reach": 391,
+          "count": 152,
+          "reach": 518,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 132
+          "count": 136
         },
         {
           "source_type": "social network",
@@ -642,8 +656,8 @@
           "positive": 1,
           "neutral": 7,
           "negative": 1,
-          "unknown": 7,
-          "total": 16
+          "unknown": 8,
+          "total": 17
         },
         {
           "row_label": "Hahrie Han",
@@ -676,6 +690,16 @@
           "total": 14
         },
         {
+          "row_label": "Denise Dresser",
+          "person_id": "denise-dresser",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 2,
+          "negative": 0,
+          "unknown": 8,
+          "total": 10
+        },
+        {
           "row_label": "Martha S. Jones",
           "person_id": "martha-s-jones",
           "is_ces": false,
@@ -704,16 +728,6 @@
           "negative": 0,
           "unknown": 2,
           "total": 8
-        },
-        {
-          "row_label": "Denise Dresser",
-          "person_id": "denise-dresser",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 2,
-          "negative": 0,
-          "unknown": 5,
-          "total": 7
         },
         {
           "row_label": "Eugene Scott",
@@ -1082,8 +1096,8 @@
           "positive": 23,
           "neutral": 80,
           "negative": 2,
-          "unknown": 27,
-          "total": 132
+          "unknown": 31,
+          "total": 136
         },
         {
           "row_label": "social network",
@@ -2313,6 +2327,20 @@
           "date": "2026-08-14",
           "count": 1,
           "reach": 3,
+          "in_digest": 0,
+          "observed": true
+        },
+        {
+          "date": "2026-08-15",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
+          "observed": true
+        },
+        {
+          "date": "2026-08-16",
+          "count": 0,
+          "reach": 0,
           "in_digest": 0,
           "observed": true
         }
