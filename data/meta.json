@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-16T07:05:39-04:00",
-  "generated_date": "2026-08-16",
+  "generated_at": "2026-08-17T07:05:57-04:00",
+  "generated_date": "2026-08-17",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-08-16",
+    "last_mention_date": "2026-08-17",
     "observed_dates": [
       "2026-07-02",
       "2026-07-03",
@@ -50,10 +50,11 @@
       "2026-08-13",
       "2026-08-14",
       "2026-08-15",
-      "2026-08-16"
+      "2026-08-16",
+      "2026-08-17"
     ],
-    "total_mentions": 287,
-    "total_raw_documents": 792,
+    "total_mentions": 291,
+    "total_raw_documents": 879,
     "total_tracked_people": 100,
     "total_ces_people": 17
   },
@@ -61,7 +62,7 @@
     "all": {
       "label": "SNF Agora Institute",
       "people": 100,
-      "mentions": 287
+      "mentions": 291
     },
     "ces": {
       "label": "Center on Economy and Society",
@@ -70,10 +71,10 @@
     }
   },
   "data_quality": {
-    "mentions_missing_url": 74,
+    "mentions_missing_url": 77,
     "mentions_no_text_captured": 81,
-    "mentions_sentiment_unknown": 85,
-    "mentions_shareable": 197,
+    "mentions_sentiment_unknown": 89,
+    "mentions_shareable": 198,
     "unmatched_persons": [
       {
         "person": "Andre Nogueira",
@@ -84,11 +85,11 @@
         "mentions": 2
       },
       {
-        "person": "Denise Dresser (namesake, no Agora relevance)",
-        "mentions": 1
+        "person": "Eliot Cohen",
+        "mentions": 2
       },
       {
-        "person": "Eliot Cohen",
+        "person": "Denise Dresser (namesake, no Agora relevance)",
         "mentions": 1
       },
       {
