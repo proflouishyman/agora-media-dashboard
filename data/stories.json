@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-08-16T07:05:39-04:00",
-  "count": 287,
+  "generated_at": "2026-08-17T07:05:57-04:00",
+  "count": 291,
   "stories": [
+    {
+      "id": 290,
+      "date": "2026-08-17",
+      "week_start": "2026-08-17",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": "Untitled X repost cluster naming SNF Agora, Hahrie Han, Anne Applebaum, Peter Pomerantsev (no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 77,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 291,
+      "date": "2026-08-17",
+      "week_start": "2026-08-17",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": "Untitled X repost cluster naming SNF Agora Institute, Hahrie Han, Anne Applebaum, Peter Pomerantsev (no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 292,
+      "date": "2026-08-16",
+      "week_start": "2026-08-10",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "Untitled X repost cluster naming Yascha Mounk / Johns Hopkins (no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 6,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 289,
+      "date": "2026-08-16",
+      "week_start": "2026-08-10",
+      "person_id": "eliot-cohen",
+      "person": "Eliot Cohen",
+      "is_ces": false,
+      "title": "Ataque de mais de 800 drones ucranianos ajudam a reescrever guerra aérea",
+      "has_text": true,
+      "url": "https://www.gazetadopovo.com.br/mundo/taque-drones-ucranianos-russia/",
+      "source": "Gazeta do Povo",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Ataque de mais de 800 drones ucranianos ajudam a reescrever guerra aérea https://www.gazetadopovo.com.br/mundo/taque-drones-ucranianos-russia/",
+          "chars": 96
+        },
+        "bluesky": {
+          "text": "Ataque de mais de 800 drones ucranianos ajudam a reescrever guerra aérea https://www.gazetadopovo.com.br/mundo/taque-drones-ucranianos-russia/",
+          "chars": 142
+        }
+      }
+    },
     {
       "id": 288,
       "date": "2026-08-16",
