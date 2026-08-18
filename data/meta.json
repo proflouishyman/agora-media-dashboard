@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-17T07:05:57-04:00",
-  "generated_date": "2026-08-17",
+  "generated_at": "2026-08-18T07:10:44-04:00",
+  "generated_date": "2026-08-18",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-08-17",
+    "last_mention_date": "2026-08-18",
     "observed_dates": [
       "2026-07-02",
       "2026-07-03",
@@ -51,10 +51,11 @@
       "2026-08-14",
       "2026-08-15",
       "2026-08-16",
-      "2026-08-17"
+      "2026-08-17",
+      "2026-08-18"
     ],
-    "total_mentions": 291,
-    "total_raw_documents": 879,
+    "total_mentions": 297,
+    "total_raw_documents": 1124,
     "total_tracked_people": 100,
     "total_ces_people": 17
   },
@@ -62,7 +63,7 @@
     "all": {
       "label": "SNF Agora Institute",
       "people": 100,
-      "mentions": 291
+      "mentions": 297
     },
     "ces": {
       "label": "Center on Economy and Society",
@@ -71,10 +72,10 @@
     }
   },
   "data_quality": {
-    "mentions_missing_url": 77,
+    "mentions_missing_url": 80,
     "mentions_no_text_captured": 81,
-    "mentions_sentiment_unknown": 89,
-    "mentions_shareable": 198,
+    "mentions_sentiment_unknown": 94,
+    "mentions_shareable": 201,
     "unmatched_persons": [
       {
         "person": "Andre Nogueira",
@@ -98,6 +99,10 @@
       },
       {
         "person": "Leah Wright Rigueur",
+        "mentions": 1
+      },
+      {
+        "person": "SNF Agora (general)",
         "mentions": 1
       }
     ]
