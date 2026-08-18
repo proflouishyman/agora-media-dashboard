@@ -1,7 +1,110 @@
 {
-  "generated_at": "2026-08-17T07:05:57-04:00",
-  "count": 291,
+  "generated_at": "2026-08-18T07:10:44-04:00",
+  "count": 297,
   "stories": [
+    {
+      "id": 297,
+      "date": "2026-08-18",
+      "week_start": "2026-08-17",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": null,
+      "source": "Twitter (x.com)",
+      "source_type": null,
+      "similar_mention_count": 240,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 296,
+      "date": "2026-08-18",
+      "week_start": "2026-08-17",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": null,
+      "source": "Twitter (x.com)",
+      "source_type": null,
+      "similar_mention_count": 240,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 298,
+      "date": "2026-08-18",
+      "week_start": "2026-08-17",
+      "person_id": "snf-agora-general",
+      "person": "SNF Agora (general)",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": null,
+      "source": "Twitter (x.com)",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 294,
+      "date": "2026-08-18",
+      "week_start": "2026-08-17",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "After the Walz-Vance debate: what the polls say",
+      "has_text": true,
+      "url": "https://fiorreports.com/after-the-walz-vance-debate-what-the-polls-say/",
+      "source": "Fior Reports",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "After the Walz-Vance debate: what the polls say https://fiorreports.com/after-the-walz-vance-debate-what-the-polls-say/",
+          "chars": 71
+        },
+        "bluesky": {
+          "text": "After the Walz-Vance debate: what the polls say https://fiorreports.com/after-the-walz-vance-debate-what-the-polls-say/",
+          "chars": 119
+        }
+      }
+    },
+    {
+      "id": 293,
+      "date": "2026-08-18",
+      "week_start": "2026-08-17",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": "QUANTUM FIELD & ATOMS?",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=vTQV4ZaGFxg",
+      "source": "YouTube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "QUANTUM FIELD & ATOMS? https://www.youtube.com/watch?v=vTQV4ZaGFxg",
+          "chars": 46
+        },
+        "bluesky": {
+          "text": "QUANTUM FIELD & ATOMS? https://www.youtube.com/watch?v=vTQV4ZaGFxg",
+          "chars": 66
+        }
+      }
+    },
     {
       "id": 290,
       "date": "2026-08-17",
@@ -35,6 +138,32 @@
       "entity_sentiment": "unknown",
       "in_digest": false,
       "share": null
+    },
+    {
+      "id": 295,
+      "date": "2026-08-17",
+      "week_start": "2026-08-17",
+      "person_id": "denise-dresser",
+      "person": "Denise Dresser",
+      "is_ces": false,
+      "title": "Brockman, da OpenAI, minimiza preocupações com mudanças na liderança em entrevista exclusiva à CNBC",
+      "has_text": true,
+      "url": "https://timesbrasil.com.br/mundo/brockman-da-openai-minimiza-preocupacoes-com-mudancas-na-lideranca-em-entrevista-exclusiva-a-cnbc/",
+      "source": "Times Brasil - CNBC",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Brockman, da OpenAI, minimiza preocupações com mudanças na liderança em entrevista exclusiva à CNBC https://timesbrasil.com.br/mundo/brockman-da-openai-minimiza-preocupacoes-com-mudancas-na-lideranca-em-entrevista-exclusiva-a-cnbc/",
+          "chars": 123
+        },
+        "bluesky": {
+          "text": "Brockman, da OpenAI, minimiza preocupações com mudanças na liderança em entrevista exclusiva à CNBC https://timesbrasil.com.br/mundo/brockman-da-openai-minimiza-preocupacoes-com-mudancas-na-lideranca-em-entrevista-exclusiva-a-cnbc/",
+          "chars": 231
+        }
+      }
     },
     {
       "id": 292,

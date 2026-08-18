@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-17T07:05:57-04:00",
+  "generated_at": "2026-08-18T07:10:44-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-08-17"
+    "end": "2026-08-18"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 291,
-        "in_digest": 151,
-        "reach_proxy": 820,
-        "people_covered": 47,
+        "mentions": 297,
+        "in_digest": 153,
+        "reach_proxy": 1305,
+        "people_covered": 48,
         "people_tracked": 100,
-        "sources": 130,
+        "sources": 133,
         "negative": 10
       },
       "deltas": {
@@ -362,9 +362,16 @@
         },
         {
           "date": "2026-08-17",
-          "count": 2,
-          "reach": 79,
+          "count": 3,
+          "reach": 80,
           "in_digest": 0,
+          "observed": true
+        },
+        {
+          "date": "2026-08-18",
+          "count": 5,
+          "reach": 484,
+          "in_digest": 2,
           "observed": true
         }
       ],
@@ -462,23 +469,23 @@
         },
         {
           "week_start": "2026-08-17",
-          "count": 2,
-          "reach": 79,
-          "in_digest": 0,
-          "people": 1,
+          "count": 8,
+          "reach": 564,
+          "in_digest": 2,
+          "people": 6,
           "sentiment": {
             "positive": 0,
-            "neutral": 0,
+            "neutral": 1,
             "negative": 0,
-            "unknown": 2
+            "unknown": 7
           }
         }
       ],
       "sentiment": {
         "positive": 67,
-        "neutral": 125,
+        "neutral": 126,
         "negative": 10,
-        "unknown": 89
+        "unknown": 94
       },
       "top_people": [
         {
@@ -491,8 +498,8 @@
         {
           "person_id": "anne-applebaum",
           "name": "Anne Applebaum",
-          "count": 35,
-          "reach": 36,
+          "count": 36,
+          "reach": 276,
           "is_ces": false
         },
         {
@@ -503,6 +510,13 @@
           "is_ces": true
         },
         {
+          "person_id": "hahrie-han",
+          "name": "Hahrie Han",
+          "count": 18,
+          "reach": 354,
+          "is_ces": false
+        },
+        {
           "person_id": "yascha-mounk",
           "name": "Yascha Mounk",
           "count": 18,
@@ -510,10 +524,10 @@
           "is_ces": false
         },
         {
-          "person_id": "hahrie-han",
-          "name": "Hahrie Han",
-          "count": 17,
-          "reach": 114,
+          "person_id": "sean-carroll",
+          "name": "Sean Carroll",
+          "count": 15,
+          "reach": 33,
           "is_ces": false
         },
         {
@@ -524,17 +538,10 @@
           "is_ces": true
         },
         {
-          "person_id": "sean-carroll",
-          "name": "Sean Carroll",
-          "count": 14,
-          "reach": 32,
-          "is_ces": false
-        },
-        {
           "person_id": "denise-dresser",
           "name": "Denise Dresser",
-          "count": 10,
-          "reach": 17,
+          "count": 11,
+          "reach": 18,
           "is_ces": false
         },
         {
@@ -561,8 +568,8 @@
         },
         {
           "source": "YouTube",
-          "count": 20,
-          "reach": 20,
+          "count": 21,
+          "reach": 21,
           "is_other": false
         },
         {
@@ -603,19 +610,19 @@
         },
         {
           "source": "Other",
-          "count": 153,
-          "reach": 520,
+          "count": 158,
+          "reach": 1004,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 137
+          "count": 139
         },
         {
           "source_type": "social network",
-          "count": 62
+          "count": 63
         },
         {
           "source_type": "blog",
@@ -623,7 +630,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 82
+          "count": 85
         }
       ],
       "negative_stories": [
@@ -656,8 +663,8 @@
           "positive": 8,
           "neutral": 12,
           "negative": 5,
-          "unknown": 10,
-          "total": 35
+          "unknown": 11,
+          "total": 36
         },
         {
           "row_label": "Yuen Yuen Ang",
@@ -670,6 +677,16 @@
           "total": 24
         },
         {
+          "row_label": "Hahrie Han",
+          "person_id": "hahrie-han",
+          "is_ces": false,
+          "positive": 9,
+          "neutral": 3,
+          "negative": 0,
+          "unknown": 6,
+          "total": 18
+        },
+        {
           "row_label": "Yascha Mounk",
           "person_id": "yascha-mounk",
           "is_ces": false,
@@ -680,14 +697,14 @@
           "total": 18
         },
         {
-          "row_label": "Hahrie Han",
-          "person_id": "hahrie-han",
+          "row_label": "Sean Carroll",
+          "person_id": "sean-carroll",
           "is_ces": false,
-          "positive": 9,
-          "neutral": 3,
-          "negative": 0,
-          "unknown": 5,
-          "total": 17
+          "positive": 3,
+          "neutral": 9,
+          "negative": 1,
+          "unknown": 2,
+          "total": 15
         },
         {
           "row_label": "Louis Hyman",
@@ -700,24 +717,14 @@
           "total": 14
         },
         {
-          "row_label": "Sean Carroll",
-          "person_id": "sean-carroll",
-          "is_ces": false,
-          "positive": 3,
-          "neutral": 8,
-          "negative": 1,
-          "unknown": 2,
-          "total": 14
-        },
-        {
           "row_label": "Denise Dresser",
           "person_id": "denise-dresser",
           "is_ces": false,
           "positive": 0,
           "neutral": 2,
           "negative": 0,
-          "unknown": 8,
-          "total": 10
+          "unknown": 9,
+          "total": 11
         },
         {
           "row_label": "Martha S. Jones",
@@ -770,6 +777,16 @@
           "total": 6
         },
         {
+          "row_label": "Lilliana Mason",
+          "person_id": "lilliana-mason",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 4,
+          "negative": 0,
+          "unknown": 2,
+          "total": 6
+        },
+        {
           "row_label": "Max Cohen",
           "person_id": "max-cohen",
           "is_ces": false,
@@ -788,16 +805,6 @@
           "negative": 0,
           "unknown": 2,
           "total": 6
-        },
-        {
-          "row_label": "Lilliana Mason",
-          "person_id": "lilliana-mason",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 4,
-          "negative": 0,
-          "unknown": 1,
-          "total": 5
         },
         {
           "row_label": "Mara Karlin",
@@ -1100,6 +1107,16 @@
           "total": 1
         },
         {
+          "row_label": "SNF Agora (general)",
+          "person_id": "snf-agora-general",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
           "row_label": "Trevor Brown",
           "person_id": "trevor-brown",
           "is_ces": true,
@@ -1116,16 +1133,16 @@
           "positive": 23,
           "neutral": 80,
           "negative": 2,
-          "unknown": 32,
-          "total": 137
+          "unknown": 34,
+          "total": 139
         },
         {
           "row_label": "social network",
           "positive": 21,
-          "neutral": 28,
+          "neutral": 29,
           "negative": 0,
           "unknown": 13,
-          "total": 62
+          "total": 63
         },
         {
           "row_label": "blog",
@@ -1140,8 +1157,8 @@
           "positive": 19,
           "neutral": 11,
           "negative": 8,
-          "unknown": 44,
-          "total": 82
+          "unknown": 47,
+          "total": 85
         }
       ],
       "sentiment_examples": {
@@ -2366,6 +2383,13 @@
         },
         {
           "date": "2026-08-17",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
+          "observed": true
+        },
+        {
+          "date": "2026-08-18",
           "count": 0,
           "reach": 0,
           "in_digest": 0,
