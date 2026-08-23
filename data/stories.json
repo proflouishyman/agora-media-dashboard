@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-08-19T07:07:00-04:00",
-  "count": 310,
+  "generated_at": "2026-08-23T07:05:19-04:00",
+  "count": 312,
   "stories": [
+    {
+      "id": 312,
+      "date": "2026-08-23",
+      "week_start": "2026-08-17",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "Tucker Carlson w Białym Domu? Ekspert: nie wykluczałbym",
+      "has_text": true,
+      "url": "https://www.onet.pl/informacje/newsweek/politolog-trumpowi-nie-udalo-sie-narzucic-amerykanom-swojej-wizji/y7gehbx,452ad802",
+      "source": "Onet.pl",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Tucker Carlson w Białym Domu? Ekspert: nie wykluczałbym https://www.onet.pl/informacje/newsweek/politolog-trumpowi-nie-udalo-sie-narzucic-amerykanom-swojej-wizji/y7gehbx,452ad802",
+          "chars": 79
+        },
+        "bluesky": {
+          "text": "Tucker Carlson w Białym Domu? Ekspert: nie wykluczałbym https://www.onet.pl/informacje/newsweek/politolog-trumpowi-nie-udalo-sie-narzucic-amerykanom-swojej-wizji/y7gehbx,452ad802",
+          "chars": 178
+        }
+      }
+    },
+    {
+      "id": 313,
+      "date": "2026-08-23",
+      "week_start": "2026-08-17",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Twitter Broke the Left. X Will Break the Right.",
+      "has_text": true,
+      "url": "https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
+      "source": "The New York Times",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Twitter Broke the Left. X Will Break the Right. https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
+          "chars": 71
+        },
+        "bluesky": {
+          "text": "Twitter Broke the Left. X Will Break the Right. https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
+          "chars": 122
+        }
+      }
+    },
     {
       "id": 300,
       "date": "2026-08-19",
