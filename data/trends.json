@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-19T07:07:00-04:00",
+  "generated_at": "2026-08-23T07:05:19-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-08-19"
+    "end": "2026-08-23"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 310,
-        "in_digest": 157,
-        "reach_proxy": 1318,
+        "mentions": 312,
+        "in_digest": 159,
+        "reach_proxy": 1321,
         "people_covered": 51,
         "people_tracked": 100,
-        "sources": 138,
+        "sources": 139,
         "negative": 10
       },
       "deltas": {
@@ -380,6 +380,34 @@
           "reach": 2,
           "in_digest": 1,
           "observed": true
+        },
+        {
+          "date": "2026-08-20",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
+          "observed": false
+        },
+        {
+          "date": "2026-08-21",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
+          "observed": false
+        },
+        {
+          "date": "2026-08-22",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
+          "observed": false
+        },
+        {
+          "date": "2026-08-23",
+          "count": 2,
+          "reach": 3,
+          "in_digest": 2,
+          "observed": true
         }
       ],
       "weekly": [
@@ -476,15 +504,15 @@
         },
         {
           "week_start": "2026-08-17",
-          "count": 21,
-          "reach": 577,
-          "in_digest": 6,
-          "people": 13,
+          "count": 23,
+          "reach": 580,
+          "in_digest": 8,
+          "people": 14,
           "sentiment": {
             "positive": 1,
             "neutral": 2,
             "negative": 0,
-            "unknown": 18
+            "unknown": 20
           }
         }
       ],
@@ -492,7 +520,7 @@
         "positive": 68,
         "neutral": 127,
         "negative": 10,
-        "unknown": 105
+        "unknown": 107
       },
       "top_people": [
         {
@@ -519,8 +547,8 @@
         {
           "person_id": "yascha-mounk",
           "name": "Yascha Mounk",
-          "count": 20,
-          "reach": 145,
+          "count": 21,
+          "reach": 147,
           "is_ces": false
         },
         {
@@ -617,15 +645,15 @@
         },
         {
           "source": "Other",
-          "count": 167,
-          "reach": 538,
+          "count": 169,
+          "reach": 541,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 146
+          "count": 148
         },
         {
           "source_type": "social network",
@@ -690,8 +718,8 @@
           "positive": 1,
           "neutral": 8,
           "negative": 1,
-          "unknown": 10,
-          "total": 20
+          "unknown": 11,
+          "total": 21
         },
         {
           "row_label": "Hahrie Han",
@@ -764,6 +792,16 @@
           "total": 8
         },
         {
+          "row_label": "Henry Farrell",
+          "person_id": "henry-farrell",
+          "is_ces": true,
+          "positive": 1,
+          "neutral": 4,
+          "negative": 0,
+          "unknown": 2,
+          "total": 7
+        },
+        {
           "row_label": "Lilliana Mason",
           "person_id": "lilliana-mason",
           "is_ces": false,
@@ -777,16 +815,6 @@
           "row_label": "Eugene Scott",
           "person_id": "eugene-scott",
           "is_ces": false,
-          "positive": 1,
-          "neutral": 4,
-          "negative": 0,
-          "unknown": 1,
-          "total": 6
-        },
-        {
-          "row_label": "Henry Farrell",
-          "person_id": "henry-farrell",
-          "is_ces": true,
           "positive": 1,
           "neutral": 4,
           "negative": 0,
@@ -1170,8 +1198,8 @@
           "positive": 24,
           "neutral": 81,
           "negative": 2,
-          "unknown": 39,
-          "total": 146
+          "unknown": 41,
+          "total": 148
         },
         {
           "row_label": "social network",
@@ -2075,12 +2103,12 @@
     },
     "ces": {
       "totals": {
-        "mentions": 55,
-        "in_digest": 37,
-        "reach_proxy": 89,
+        "mentions": 56,
+        "in_digest": 38,
+        "reach_proxy": 90,
         "people_covered": 9,
         "people_tracked": 17,
-        "sources": 32,
+        "sources": 33,
         "negative": 0
       },
       "deltas": {
@@ -2448,6 +2476,34 @@
           "reach": 0,
           "in_digest": 0,
           "observed": true
+        },
+        {
+          "date": "2026-08-20",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
+          "observed": false
+        },
+        {
+          "date": "2026-08-21",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
+          "observed": false
+        },
+        {
+          "date": "2026-08-22",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
+          "observed": false
+        },
+        {
+          "date": "2026-08-23",
+          "count": 1,
+          "reach": 1,
+          "in_digest": 1,
+          "observed": true
         }
       ],
       "weekly": [
@@ -2544,15 +2600,15 @@
         },
         {
           "week_start": "2026-08-17",
-          "count": 1,
-          "reach": 1,
-          "in_digest": 0,
-          "people": 1,
+          "count": 2,
+          "reach": 2,
+          "in_digest": 1,
+          "people": 2,
           "sentiment": {
             "positive": 0,
             "neutral": 0,
             "negative": 0,
-            "unknown": 1
+            "unknown": 2
           }
         }
       ],
@@ -2560,7 +2616,7 @@
         "positive": 12,
         "neutral": 22,
         "negative": 0,
-        "unknown": 21
+        "unknown": 22
       },
       "top_people": [
         {
@@ -2580,8 +2636,8 @@
         {
           "person_id": "henry-farrell",
           "name": "Henry Farrell",
-          "count": 6,
-          "reach": 4,
+          "count": 7,
+          "reach": 5,
           "is_ces": true
         },
         {
@@ -2678,15 +2734,15 @@
         },
         {
           "source": "Other",
-          "count": 24,
-          "reach": 43,
+          "count": 25,
+          "reach": 44,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 30
+          "count": 31
         },
         {
           "source_type": "social network",
@@ -2730,8 +2786,8 @@
           "positive": 1,
           "neutral": 4,
           "negative": 0,
-          "unknown": 1,
-          "total": 6
+          "unknown": 2,
+          "total": 7
         },
         {
           "row_label": "Steven Teles",
@@ -2800,8 +2856,8 @@
           "positive": 8,
           "neutral": 14,
           "negative": 0,
-          "unknown": 8,
-          "total": 30
+          "unknown": 9,
+          "total": 31
         },
         {
           "row_label": "social network",
