@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T09:16:59-04:00",
+  "generated_at": "2026-08-24T09:21:19-04:00",
   "window": {
     "start": "2026-07-02",
     "end": "2026-08-23"
@@ -7,34 +7,34 @@
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 329,
-        "in_digest": 163,
-        "reach_proxy": 1344,
-        "people_covered": 54,
+        "mentions": 338,
+        "in_digest": 167,
+        "reach_proxy": 1359,
+        "people_covered": 55,
         "people_tracked": 100,
         "sources": 148,
-        "negative": 10
+        "negative": 11
       },
       "deltas": {
         "week_start": "2026-08-17",
         "prev_week_start": "2026-08-10",
         "mentions": {
-          "current": 40,
+          "current": 49,
           "previous": 31,
-          "change": 9,
-          "pct_change": 29.0
+          "change": 18,
+          "pct_change": 58.1
         },
         "reach_proxy": {
-          "current": 603,
+          "current": 618,
           "previous": 200,
-          "change": 403,
-          "pct_change": 201.5
+          "change": 418,
+          "pct_change": 209.0
         },
         "people_covered": {
-          "current": 22,
+          "current": 23,
           "previous": 14,
-          "change": 8,
-          "pct_change": 57.1
+          "change": 9,
+          "pct_change": 64.3
         }
       },
       "daily": [
@@ -390,17 +390,17 @@
         },
         {
           "date": "2026-08-21",
-          "count": 1,
-          "reach": 1,
-          "in_digest": 0,
+          "count": 9,
+          "reach": 14,
+          "in_digest": 3,
           "observed": true
         },
         {
           "date": "2026-08-22",
-          "count": 0,
-          "reach": 0,
-          "in_digest": 0,
-          "observed": false
+          "count": 1,
+          "reach": 2,
+          "in_digest": 1,
+          "observed": true
         },
         {
           "date": "2026-08-23",
@@ -504,30 +504,30 @@
         },
         {
           "week_start": "2026-08-17",
-          "count": 40,
-          "reach": 603,
-          "in_digest": 12,
-          "people": 22,
+          "count": 49,
+          "reach": 618,
+          "in_digest": 16,
+          "people": 23,
           "sentiment": {
-            "positive": 3,
-            "neutral": 2,
-            "negative": 0,
-            "unknown": 35
+            "positive": 4,
+            "neutral": 3,
+            "negative": 1,
+            "unknown": 41
           }
         }
       ],
       "sentiment": {
-        "positive": 70,
-        "neutral": 127,
-        "negative": 10,
-        "unknown": 122
+        "positive": 71,
+        "neutral": 128,
+        "negative": 11,
+        "unknown": 128
       },
       "top_people": [
         {
           "person_id": "snf-agora-institute",
           "name": "SNF Agora Institute",
-          "count": 57,
-          "reach": 123,
+          "count": 60,
+          "reach": 130,
           "is_ces": false
         },
         {
@@ -540,15 +540,15 @@
         {
           "person_id": "yuen-yuen-ang",
           "name": "Yuen Yuen Ang",
-          "count": 26,
-          "reach": 45,
+          "count": 27,
+          "reach": 46,
           "is_ces": true
         },
         {
           "person_id": "yascha-mounk",
           "name": "Yascha Mounk",
-          "count": 21,
-          "reach": 147,
+          "count": 22,
+          "reach": 148,
           "is_ces": false
         },
         {
@@ -561,8 +561,8 @@
         {
           "person_id": "sean-carroll",
           "name": "Sean Carroll",
-          "count": 17,
-          "reach": 35,
+          "count": 19,
+          "reach": 38,
           "is_ces": false
         },
         {
@@ -573,17 +573,17 @@
           "is_ces": true
         },
         {
+          "person_id": "martha-s-jones",
+          "name": "Martha S. Jones",
+          "count": 12,
+          "reach": 10,
+          "is_ces": false
+        },
+        {
           "person_id": "denise-dresser",
           "name": "Denise Dresser",
           "count": 11,
           "reach": 18,
-          "is_ces": false
-        },
-        {
-          "person_id": "martha-s-jones",
-          "name": "Martha S. Jones",
-          "count": 11,
-          "reach": 9,
           "is_ces": false
         },
         {
@@ -597,8 +597,8 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 73,
-          "reach": 237,
+          "count": 75,
+          "reach": 242,
           "is_other": false
         },
         {
@@ -615,8 +615,14 @@
         },
         {
           "source": "Substack",
+          "count": 11,
+          "reach": 12,
+          "is_other": false
+        },
+        {
+          "source": "Bluesky",
           "count": 10,
-          "reach": 10,
+          "reach": 12,
           "is_other": false
         },
         {
@@ -626,38 +632,32 @@
           "is_other": false
         },
         {
+          "source": "Youtube",
+          "count": 8,
+          "reach": 5,
+          "is_other": false
+        },
+        {
           "source": "Baltimore Fishbowl",
           "count": 7,
           "reach": 8,
           "is_other": false
         },
         {
-          "source": "Bluesky",
-          "count": 7,
-          "reach": 7,
-          "is_other": false
-        },
-        {
-          "source": "Youtube",
-          "count": 6,
-          "reach": 3,
-          "is_other": false
-        },
-        {
           "source": "Other",
-          "count": 181,
-          "reach": 555,
+          "count": 182,
+          "reach": 556,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 159
+          "count": 160
         },
         {
           "source_type": "social network",
-          "count": 66
+          "count": 72
         },
         {
           "source_type": "blog",
@@ -665,10 +665,11 @@
         },
         {
           "source_type": "unresolved",
-          "count": 94
+          "count": 96
         }
       ],
       "negative_stories": [
+        331,
         232,
         230,
         212,
@@ -687,9 +688,9 @@
           "is_ces": false,
           "positive": 18,
           "neutral": 21,
-          "negative": 2,
-          "unknown": 16,
-          "total": 57
+          "negative": 3,
+          "unknown": 18,
+          "total": 60
         },
         {
           "row_label": "Anne Applebaum",
@@ -708,8 +709,8 @@
           "positive": 6,
           "neutral": 10,
           "negative": 0,
-          "unknown": 10,
-          "total": 26
+          "unknown": 11,
+          "total": 27
         },
         {
           "row_label": "Yascha Mounk",
@@ -718,8 +719,8 @@
           "positive": 1,
           "neutral": 8,
           "negative": 1,
-          "unknown": 11,
-          "total": 21
+          "unknown": 12,
+          "total": 22
         },
         {
           "row_label": "Hahrie Han",
@@ -735,11 +736,11 @@
           "row_label": "Sean Carroll",
           "person_id": "sean-carroll",
           "is_ces": false,
-          "positive": 4,
-          "neutral": 9,
+          "positive": 5,
+          "neutral": 10,
           "negative": 1,
           "unknown": 3,
-          "total": 17
+          "total": 19
         },
         {
           "row_label": "Louis Hyman",
@@ -752,6 +753,16 @@
           "total": 14
         },
         {
+          "row_label": "Martha S. Jones",
+          "person_id": "martha-s-jones",
+          "is_ces": false,
+          "positive": 3,
+          "neutral": 7,
+          "negative": 0,
+          "unknown": 2,
+          "total": 12
+        },
+        {
           "row_label": "Denise Dresser",
           "person_id": "denise-dresser",
           "is_ces": false,
@@ -759,16 +770,6 @@
           "neutral": 2,
           "negative": 0,
           "unknown": 9,
-          "total": 11
-        },
-        {
-          "row_label": "Martha S. Jones",
-          "person_id": "martha-s-jones",
-          "is_ces": false,
-          "positive": 3,
-          "neutral": 7,
-          "negative": 0,
-          "unknown": 1,
           "total": 11
         },
         {
@@ -1162,6 +1163,16 @@
           "total": 1
         },
         {
+          "row_label": "Jon Temin",
+          "person_id": "jon-temin",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
           "row_label": "Leah Wright Rigueur",
           "person_id": "leah-wright-rigueur",
           "is_ces": false,
@@ -1228,16 +1239,16 @@
           "positive": 24,
           "neutral": 81,
           "negative": 2,
-          "unknown": 52,
-          "total": 159
+          "unknown": 53,
+          "total": 160
         },
         {
           "row_label": "social network",
-          "positive": 22,
-          "neutral": 29,
-          "negative": 0,
-          "unknown": 15,
-          "total": 66
+          "positive": 23,
+          "neutral": 30,
+          "negative": 1,
+          "unknown": 18,
+          "total": 72
         },
         {
           "row_label": "blog",
@@ -1252,13 +1263,23 @@
           "positive": 20,
           "neutral": 11,
           "negative": 8,
-          "unknown": 55,
-          "total": 94
+          "unknown": 57,
+          "total": 96
         }
       ],
       "sentiment_examples": {
         "negative": {
           "stories": [
+            {
+              "id": 331,
+              "person": "SNF Agora Institute",
+              "person_id": "snf-agora-institute",
+              "is_ces": false,
+              "title": "QT: SNF Agora at JHU, whose new building is a literal glass house, partners with outside stone throwers American Enterprise Institute",
+              "url": "https://bsky.app/profile/andyhines.bsky.social/post/3mto4h6beic2d",
+              "source": "Bluesky",
+              "date": "2026-08-22"
+            },
             {
               "id": 232,
               "person": "Anne Applebaum",
@@ -1362,6 +1383,22 @@
           ],
           "top_keyphrases": [
             {
+              "keyphrase": "literal glass house",
+              "count": 1
+            },
+            {
+              "keyphrase": "new building",
+              "count": 1
+            },
+            {
+              "keyphrase": "partners",
+              "count": 1
+            },
+            {
+              "keyphrase": "production",
+              "count": 1
+            },
+            {
               "keyphrase": "analista sênior",
               "count": 1
             },
@@ -1384,27 +1421,21 @@
             {
               "keyphrase": "líderes de oposição",
               "count": 1
-            },
-            {
-              "keyphrase": "políticos da oposição exilados",
-              "count": 1
-            },
-            {
-              "keyphrase": "presidência pela oposição",
-              "count": 1
-            },
-            {
-              "keyphrase": "330 milhões de pessoas",
-              "count": 1
-            },
-            {
-              "keyphrase": "encontro dos “masters of",
-              "count": 1
             }
           ]
         },
         "positive": {
           "stories": [
+            {
+              "id": 333,
+              "person": "Sean Carroll",
+              "person_id": "sean-carroll",
+              "is_ces": false,
+              "title": "Sean Carroll (Johns Hopkins University): The arrow of time in unitary quantum mechanics",
+              "url": "https://bsky.app/profile/ordofibonacci.bsky.social/post/3mtmif2izmk2h",
+              "source": "Bluesky",
+              "date": "2026-08-21"
+            },
             {
               "id": 330,
               "person": "Ruth Braunstein",
@@ -2153,9 +2184,9 @@
     },
     "ces": {
       "totals": {
-        "mentions": 57,
+        "mentions": 58,
         "in_digest": 38,
-        "reach_proxy": 93,
+        "reach_proxy": 94,
         "people_covered": 9,
         "people_tracked": 17,
         "sources": 34,
@@ -2165,16 +2196,16 @@
         "week_start": "2026-08-17",
         "prev_week_start": "2026-08-10",
         "mentions": {
-          "current": 3,
+          "current": 4,
           "previous": 8,
-          "change": -5,
-          "pct_change": -62.5
+          "change": -4,
+          "pct_change": -50.0
         },
         "reach_proxy": {
-          "current": 5,
+          "current": 6,
           "previous": 16,
-          "change": -11,
-          "pct_change": -68.8
+          "change": -10,
+          "pct_change": -62.5
         },
         "people_covered": {
           "current": 2,
@@ -2536,8 +2567,8 @@
         },
         {
           "date": "2026-08-21",
-          "count": 0,
-          "reach": 0,
+          "count": 1,
+          "reach": 1,
           "in_digest": 0,
           "observed": true
         },
@@ -2546,7 +2577,7 @@
           "count": 0,
           "reach": 0,
           "in_digest": 0,
-          "observed": false
+          "observed": true
         },
         {
           "date": "2026-08-23",
@@ -2650,15 +2681,15 @@
         },
         {
           "week_start": "2026-08-17",
-          "count": 3,
-          "reach": 5,
+          "count": 4,
+          "reach": 6,
           "in_digest": 1,
           "people": 2,
           "sentiment": {
             "positive": 0,
             "neutral": 0,
             "negative": 0,
-            "unknown": 3
+            "unknown": 4
           }
         }
       ],
@@ -2666,14 +2697,14 @@
         "positive": 12,
         "neutral": 22,
         "negative": 0,
-        "unknown": 23
+        "unknown": 24
       },
       "top_people": [
         {
           "person_id": "yuen-yuen-ang",
           "name": "Yuen Yuen Ang",
-          "count": 26,
-          "reach": 45,
+          "count": 27,
+          "reach": 46,
           "is_ces": true
         },
         {
@@ -2736,8 +2767,8 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 15,
-          "reach": 22,
+          "count": 16,
+          "reach": 23,
           "is_other": false
         },
         {
@@ -2804,7 +2835,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 17
+          "count": 18
         }
       ],
       "negative_stories": [],
@@ -2816,8 +2847,8 @@
           "positive": 6,
           "neutral": 10,
           "negative": 0,
-          "unknown": 10,
-          "total": 26
+          "unknown": 11,
+          "total": 27
         },
         {
           "row_label": "Louis Hyman",
@@ -2930,8 +2961,8 @@
           "positive": 2,
           "neutral": 1,
           "negative": 0,
-          "unknown": 14,
-          "total": 17
+          "unknown": 15,
+          "total": 18
         }
       ],
       "sentiment_examples": {

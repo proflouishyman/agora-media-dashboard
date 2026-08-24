@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T09:16:59-04:00",
-  "count": 329,
+  "generated_at": "2026-08-24T09:21:19-04:00",
+  "count": 338,
   "stories": [
     {
       "id": 312,
@@ -51,6 +51,213 @@
         "bluesky": {
           "text": "Twitter Broke the Left. X Will Break the Right. https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
           "chars": 122
+        }
+      }
+    },
+    {
+      "id": 331,
+      "date": "2026-08-22",
+      "week_start": "2026-08-17",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "QT: SNF Agora at JHU, whose new building is a literal glass house, partners with outside stone throwers American Enterprise Institute",
+      "has_text": true,
+      "url": "https://bsky.app/profile/andyhines.bsky.social/post/3mto4h6beic2d",
+      "source": "Bluesky",
+      "source_type": "social network",
+      "similar_mention_count": 2,
+      "entity_sentiment": "negative",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "QT: SNF Agora at JHU, whose new building is a literal glass house, partners with outside stone throwers American Enterprise Institute https://bsky.app/profile/andyhines.bsky.social/post/3mto4h6beic2d",
+          "chars": 157
+        },
+        "bluesky": {
+          "text": "QT: SNF Agora at JHU, whose new building is a literal glass house, partners with outside stone throwers American Enterprise Institute https://bsky.app/profile/andyhines.bsky.social/post/3mto4h6beic2d",
+          "chars": 199
+        }
+      }
+    },
+    {
+      "id": 332,
+      "date": "2026-08-21",
+      "week_start": "2026-08-17",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "No text captured (matched: SNF Agora Institute, Johns, Hopkins) -- Brad Raffensperger/Rstreet context",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 4,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 338,
+      "date": "2026-08-21",
+      "week_start": "2026-08-17",
+      "person_id": "jon-temin",
+      "person": "Jon Temin",
+      "is_ces": false,
+      "title": "No text naming Jon Temin captured (matched keyword: Jon Temin, Johns, Hopkins) -- This week's Democracy Notes",
+      "has_text": true,
+      "url": "https://democracynotes.substack.com/p/this-weeks-democracy-notes-20e",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "No text naming Jon Temin captured (matched keyword: Jon Temin, Johns, Hopkins) -- This week's Democracy Notes https://democracynotes.substack.com/p/this-weeks-democracy-notes-20e",
+          "chars": 133
+        },
+        "bluesky": {
+          "text": "No text naming Jon Temin captured (matched keyword: Jon Temin, Johns, Hopkins) -- This week's Democracy Notes https://democracynotes.substack.com/p/this-weeks-democracy-notes-20e",
+          "chars": 178
+        }
+      }
+    },
+    {
+      "id": 333,
+      "date": "2026-08-21",
+      "week_start": "2026-08-17",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": "Sean Carroll (Johns Hopkins University): The arrow of time in unitary quantum mechanics",
+      "has_text": true,
+      "url": "https://bsky.app/profile/ordofibonacci.bsky.social/post/3mtmif2izmk2h",
+      "source": "Bluesky",
+      "source_type": "social network",
+      "similar_mention_count": 2,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Sean Carroll (Johns Hopkins University): The arrow of time in unitary quantum mechanics https://bsky.app/profile/ordofibonacci.bsky.social/post/3mtmif2izmk2h",
+          "chars": 111
+        },
+        "bluesky": {
+          "text": "Sean Carroll (Johns Hopkins University): The arrow of time in unitary quantum mechanics https://bsky.app/profile/ordofibonacci.bsky.social/post/3mtmif2izmk2h",
+          "chars": 157
+        }
+      }
+    },
+    {
+      "id": 339,
+      "date": "2026-08-21",
+      "week_start": "2026-08-17",
+      "person_id": "yuen-yuen-ang",
+      "person": "Yuen Yuen Ang",
+      "is_ces": true,
+      "title": "No text captured (matched: Yuen Yuen Ang, Hopkins)",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 337,
+      "date": "2026-08-21",
+      "week_start": "2026-08-17",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": "Sean Carroll (Johns Hopkins University): The arrow of time in unitary quantum mechanics",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=xkzxjl2pNW4",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Sean Carroll (Johns Hopkins University): The arrow of time in unitary quantum mechanics https://www.youtube.com/watch?v=xkzxjl2pNW4",
+          "chars": 111
+        },
+        "bluesky": {
+          "text": "Sean Carroll (Johns Hopkins University): The arrow of time in unitary quantum mechanics https://www.youtube.com/watch?v=xkzxjl2pNW4",
+          "chars": 131
+        }
+      }
+    },
+    {
+      "id": 336,
+      "date": "2026-08-21",
+      "week_start": "2026-08-17",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "New History Job Posted Today: Executive Director | JHU SNF Agora Institute",
+      "has_text": true,
+      "url": "https://bsky.app/profile/historyjobs.bsky.social/post/3mtm5ccx45v2s",
+      "source": "Bluesky",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "New History Job Posted Today: Executive Director | JHU SNF Agora Institute https://bsky.app/profile/historyjobs.bsky.social/post/3mtm5ccx45v2s",
+          "chars": 98
+        },
+        "bluesky": {
+          "text": "New History Job Posted Today: Executive Director | JHU SNF Agora Institute https://bsky.app/profile/historyjobs.bsky.social/post/3mtm5ccx45v2s",
+          "chars": 142
+        }
+      }
+    },
+    {
+      "id": 335,
+      "date": "2026-08-21",
+      "week_start": "2026-08-17",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "No text captured (matched: Yascha Mounk, Johns, Hopkins) -- Reddit r/philosophypodcasts video roundup",
+      "has_text": false,
+      "url": "https://www.reddit.com/r/philosophypodcasts/comments/1vumu19/the_institute_of_art_and_ideas_why_western/",
+      "source": "reddit.com/r/philosophypodcasts",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 334,
+      "date": "2026-08-21",
+      "week_start": "2026-08-17",
+      "person_id": "martha-s-jones",
+      "person": "Martha S. Jones",
+      "is_ces": false,
+      "title": "Dr. Martha Jones on Birthright Citizenship",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=KkCwmKdiLoE",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Dr. Martha Jones on Birthright Citizenship https://www.youtube.com/watch?v=KkCwmKdiLoE",
+          "chars": 66
+        },
+        "bluesky": {
+          "text": "Dr. Martha Jones on Birthright Citizenship https://www.youtube.com/watch?v=KkCwmKdiLoE",
+          "chars": 86
         }
       }
     },

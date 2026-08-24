@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-24T09:16:59-04:00",
-  "count": 35,
+  "generated_at": "2026-08-24T09:21:19-04:00",
+  "count": 36,
   "picks": [
+    {
+      "id": 51,
+      "mention_id": 334,
+      "digest_date": "2026-08-21",
+      "person": "Martha S. Jones",
+      "person_id": "martha-s-jones",
+      "person_ids": [
+        "martha-s-jones"
+      ],
+      "is_ces": false,
+      "punchy_title": "Martha Jones on the History of Birthright Citizenship",
+      "headline": "Martha Jones on the History of Birthright Citizenship",
+      "pull_quote": "Dr. Martha Jones, Society of Black Alumni Presidential Professor, Professor of History, Professor at the SNF Agora Institute. For more information on Dr. Jones visit: history.jhu.edu/directory/martha-jones. This lecture was given at the Maryland Center for History and Culture on",
+      "rationale": "Dr. Martha Jones, Society of Black Alumni Presidential Professor, Professor of History, Professor at the SNF Agora Institute. For more information on Dr. Jones visit: history.jhu.edu/directory/martha-jones. This lecture was given at the Maryland Center for History and Culture on",
+      "url": "https://www.youtube.com/watch?v=KkCwmKdiLoE",
+      "story_url": "https://www.youtube.com/watch?v=KkCwmKdiLoE",
+      "created_at": "2026-08-24 13:21:13",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Dr. Martha Jones, Society of Black Alumni Presidential Professor and SNF Agora Institute historian, gave a lecture on birthright citizenship at the Maryland Center for History and Culture — now on YouTube. https://www.youtube.com/watch?v=KkCwmKdiLoE",
+          "chars": 249,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Dr.%20Martha%20Jones%2C%20Society%20of%20Black%20Alumni%20Presidential%20Professor%20and%20SNF%20Agora%20Institute%20historian%2C%20gave%20a%20lecture%20on%20birthright%20citizenship%20at%20the%20Maryland%20Center%20for%20History%20and%20Culture%20%E2%80%94%20now%20on%20YouTube.%20https%3A//www.youtube.com/watch%3Fv%3DKkCwmKdiLoE"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "SNF Agora Institute historian Dr. Martha Jones delivered a lecture on birthright citizenship at the Maryland Center for History and Culture. Watch it now. https://www.youtube.com/watch?v=KkCwmKdiLoE",
+          "chars": 198,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=SNF%20Agora%20Institute%20historian%20Dr.%20Martha%20Jones%20delivered%20a%20lecture%20on%20birthright%20citizenship%20at%20the%20Maryland%20Center%20for%20History%20and%20Culture.%20Watch%20it%20now.%20https%3A//www.youtube.com/watch%3Fv%3DKkCwmKdiLoE"
+        }
+      ]
+    },
     {
       "id": 50,
       "mention_id": 330,
