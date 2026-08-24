@@ -9,21 +9,21 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 55,
+    "mentions_total": 56,
     "mentions_in_digest": 21,
-    "reach_proxy": 119,
+    "reach_proxy": 121,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-08-07",
+    "last_mention_date": "2026-08-19",
     "sentiment": {
       "positive": 18,
       "neutral": 21,
       "negative": 2,
-      "unknown": 14
+      "unknown": 15
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 27
+        "count": 28
       },
       {
         "source": "LinkedIn",
@@ -100,8 +100,8 @@
       },
       {
         "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 2
       }
     ]
   },
@@ -441,13 +441,13 @@
       "Core Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 19,
-    "mentions_in_digest": 8,
-    "reach_proxy": 355,
+    "mentions_total": 20,
+    "mentions_in_digest": 9,
+    "reach_proxy": 356,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-08-18",
+    "last_mention_date": "2026-08-19",
     "sentiment": {
-      "positive": 9,
+      "positive": 10,
       "neutral": 3,
       "negative": 0,
       "unknown": 7
@@ -532,8 +532,8 @@
       },
       {
         "week_start": "2026-08-17",
-        "count": 4,
-        "reach": 320
+        "count": 5,
+        "reach": 321
       }
     ]
   },
@@ -1822,6 +1822,104 @@
     ]
   },
   {
+    "id": "denise-dresser-namesake-openai",
+    "name": "Denise Dresser (namesake, OpenAI)",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 4,
+    "mentions_in_digest": 0,
+    "reach_proxy": 7,
+    "first_mention_date": "2026-08-12",
+    "last_mention_date": "2026-08-19",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 4
+    },
+    "top_sources": [
+      {
+        "source": "The Cryptonomist",
+        "count": 2
+      },
+      {
+        "source": "Forbes Brasil",
+        "count": 1
+      },
+      {
+        "source": "MTT News",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-01",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 2,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 2,
+        "reach": 4
+      }
+    ]
+  },
+  {
     "id": "peter-pomerantsev",
     "name": "Peter Pomerantsev",
     "kind": "faculty",
@@ -2291,100 +2389,6 @@
         "week_start": "2026-08-10",
         "count": 1,
         "reach": 1
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "denise-dresser-namesake-openai",
-    "name": "Denise Dresser (namesake, OpenAI)",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 2,
-    "mentions_in_digest": 0,
-    "reach_proxy": 3,
-    "first_mention_date": "2026-08-12",
-    "last_mention_date": "2026-08-12",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 2
-    },
-    "top_sources": [
-      {
-        "source": "Forbes Brasil",
-        "count": 1
-      },
-      {
-        "source": "The Cryptonomist",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-01",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-08",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 2,
-        "reach": 3
       },
       {
         "week_start": "2026-08-17",
@@ -3418,6 +3422,96 @@
     ]
   },
   {
+    "id": "andr-nogueira-namesake-keyword-agora",
+    "name": "André Nogueira (namesake, keyword: agora)",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-08-19",
+    "last_mention_date": "2026-08-19",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Estado de Minas",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-01",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "christopher-krupenye",
     "name": "Christopher Krupenye",
     "kind": "faculty",
@@ -4332,6 +4426,96 @@
         "week_start": "2026-08-17",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "jeremy-wallace-namesake-fisheries-policy-officer",
+    "name": "Jeremy Wallace (namesake, fisheries policy officer)",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-08-19",
+    "last_mention_date": "2026-08-19",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "The New Republic",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-01",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 1,
+        "reach": 1
       }
     ]
   },

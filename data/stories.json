@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T07:05:19-04:00",
-  "count": 312,
+  "generated_at": "2026-08-24T09:12:08-04:00",
+  "count": 318,
   "stories": [
     {
       "id": 312,
@@ -51,6 +51,153 @@
         "bluesky": {
           "text": "Twitter Broke the Left. X Will Break the Right. https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
           "chars": 122
+        }
+      }
+    },
+    {
+      "id": 316,
+      "date": "2026-08-19",
+      "week_start": "2026-08-17",
+      "person_id": "denise-dresser-namesake-openai",
+      "person": "Denise Dresser (namesake, OpenAI)",
+      "is_ces": false,
+      "title": "CFO: OpenAI será empresa de capital aberto em 2027 — ou antes",
+      "has_text": true,
+      "url": "https://mttnews.com.br/2026/08/19/cfo-openai-sera-empresa-de-capital-aberto-em-2027-ou-antes/",
+      "source": "MTT News",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "CFO: OpenAI será empresa de capital aberto em 2027 — ou antes https://mttnews.com.br/2026/08/19/cfo-openai-sera-empresa-de-capital-aberto-em-2027-ou-antes/",
+          "chars": 85
+        },
+        "bluesky": {
+          "text": "CFO: OpenAI será empresa de capital aberto em 2027 — ou antes https://mttnews.com.br/2026/08/19/cfo-openai-sera-empresa-de-capital-aberto-em-2027-ou-antes/",
+          "chars": 155
+        }
+      }
+    },
+    {
+      "id": 319,
+      "date": "2026-08-19",
+      "week_start": "2026-08-17",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "No text captured (matched: SNF, Agora, Hopkins, Anne Applebaum, Hahrie Han)",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 318,
+      "date": "2026-08-19",
+      "week_start": "2026-08-17",
+      "person_id": "denise-dresser-namesake-openai",
+      "person": "Denise Dresser (namesake, OpenAI)",
+      "is_ces": false,
+      "title": "O crescimento da receita da OpenAI desacelera enquanto a Anthropic dispara",
+      "has_text": true,
+      "url": "https://pt.cryptonomist.ch/2026/08/19/o-crescimento-da-receita-da-openai-desacelera-para-67-mil-milhoes-de-dolares-enquanto-a-anthropic-dispara-para-116-mil-milhoes-de-dolares/",
+      "source": "The Cryptonomist",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "O crescimento da receita da OpenAI desacelera enquanto a Anthropic dispara https://pt.cryptonomist.ch/2026/08/19/o-crescimento-da-receita-da-openai-desacelera-para-67-mil-milhoes-de-dolares-enquanto-a-anthropic-dispara-para-116-mil-milhoes-de-dolares/",
+          "chars": 98
+        },
+        "bluesky": {
+          "text": "O crescimento da receita da OpenAI desacelera enquanto a Anthropic dispara https://pt.cryptonomist.ch/2026/08/19/o-crescimento-da-receita-da-openai-desacelera-para-67-mil-milhoes-de-dolares-enquanto-a-anthropic-dispara-para-116-mil-milhoes-de-dolares/",
+          "chars": 251
+        }
+      }
+    },
+    {
+      "id": 317,
+      "date": "2026-08-19",
+      "week_start": "2026-08-17",
+      "person_id": "andr-nogueira-namesake-keyword-agora",
+      "person": "André Nogueira (namesake, keyword: agora)",
+      "is_ces": false,
+      "title": "HEVO84 reúne Beto, Julies, Aléxia e Yas em nova session",
+      "has_text": true,
+      "url": "https://www.em.com.br/colunistas/marcelo-de-assis/2026/08/7483092-hevo84-reune-beto-julies-alexia-e-yas-em-nova-session.html",
+      "source": "Estado de Minas",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "HEVO84 reúne Beto, Julies, Aléxia e Yas em nova session https://www.em.com.br/colunistas/marcelo-de-assis/2026/08/7483092-hevo84-reune-beto-julies-alexia-e-yas-em-nova-session.html",
+          "chars": 79
+        },
+        "bluesky": {
+          "text": "HEVO84 reúne Beto, Julies, Aléxia e Yas em nova session https://www.em.com.br/colunistas/marcelo-de-assis/2026/08/7483092-hevo84-reune-beto-julies-alexia-e-yas-em-nova-session.html",
+          "chars": 180
+        }
+      }
+    },
+    {
+      "id": 315,
+      "date": "2026-08-19",
+      "week_start": "2026-08-17",
+      "person_id": "jeremy-wallace-namesake-fisheries-policy-officer",
+      "person": "Jeremy Wallace (namesake, fisheries policy officer)",
+      "is_ces": false,
+      "title": "Dems Are Looking Good in North Carolina—or Are They?",
+      "has_text": true,
+      "url": "https://newrepublic.com/post/214526/roy-cooper-whatley-north-carolina-polls",
+      "source": "The New Republic",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Dems Are Looking Good in North Carolina—or Are They? https://newrepublic.com/post/214526/roy-cooper-whatley-north-carolina-polls",
+          "chars": 76
+        },
+        "bluesky": {
+          "text": "Dems Are Looking Good in North Carolina—or Are They? https://newrepublic.com/post/214526/roy-cooper-whatley-north-carolina-polls",
+          "chars": 128
+        }
+      }
+    },
+    {
+      "id": 314,
+      "date": "2026-08-19",
+      "week_start": "2026-08-17",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": "Political Science Scholars (2025 MacArthur Foundation Fellowship)",
+      "has_text": true,
+      "url": "https://politicalsciencenow.com/jhu-political-scientist-and-apsa-member-dr-hahrie-han-receives-the-2025-macarthur-foundation-fellowship/",
+      "source": "POLITICAL SCIENCE NOW",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Political Science Scholars (2025 MacArthur Foundation Fellowship) https://politicalsciencenow.com/jhu-political-scientist-and-apsa-member-dr-hahrie-han-receives-the-2025-macarthur-foundation-fellowship/",
+          "chars": 89
+        },
+        "bluesky": {
+          "text": "Political Science Scholars (2025 MacArthur Foundation Fellowship) https://politicalsciencenow.com/jhu-political-scientist-and-apsa-member-dr-hahrie-han-receives-the-2025-macarthur-foundation-fellowship/",
+          "chars": 202
         }
       }
     },
