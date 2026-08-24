@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-08-24T09:21:19-04:00",
+  "generated_at": "2026-08-24T09:25:21-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-08-23"
+    "end": "2026-08-24"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 338,
-        "in_digest": 167,
-        "reach_proxy": 1359,
+        "mentions": 342,
+        "in_digest": 169,
+        "reach_proxy": 1367,
         "people_covered": 55,
         "people_tracked": 100,
-        "sources": 148,
+        "sources": 151,
         "negative": 11
       },
       "deltas": {
         "week_start": "2026-08-17",
         "prev_week_start": "2026-08-10",
         "mentions": {
-          "current": 49,
+          "current": 51,
           "previous": 31,
-          "change": 18,
-          "pct_change": 58.1
+          "change": 20,
+          "pct_change": 64.5
         },
         "reach_proxy": {
-          "current": 618,
+          "current": 622,
           "previous": 200,
-          "change": 418,
-          "pct_change": 209.0
+          "change": 422,
+          "pct_change": 211.0
         },
         "people_covered": {
-          "current": 23,
+          "current": 24,
           "previous": 14,
-          "change": 9,
-          "pct_change": 64.3
+          "change": 10,
+          "pct_change": 71.4
         }
       },
       "daily": [
@@ -404,9 +404,16 @@
         },
         {
           "date": "2026-08-23",
+          "count": 4,
+          "reach": 7,
+          "in_digest": 4,
+          "observed": true
+        },
+        {
+          "date": "2026-08-24",
           "count": 2,
-          "reach": 3,
-          "in_digest": 2,
+          "reach": 4,
+          "in_digest": 0,
           "observed": true
         }
       ],
@@ -504,23 +511,36 @@
         },
         {
           "week_start": "2026-08-17",
-          "count": 49,
-          "reach": 618,
-          "in_digest": 16,
-          "people": 23,
+          "count": 51,
+          "reach": 622,
+          "in_digest": 18,
+          "people": 24,
           "sentiment": {
-            "positive": 4,
+            "positive": 5,
             "neutral": 3,
             "negative": 1,
-            "unknown": 41
+            "unknown": 42
+          }
+        },
+        {
+          "week_start": "2026-08-24",
+          "count": 2,
+          "reach": 4,
+          "in_digest": 0,
+          "people": 2,
+          "sentiment": {
+            "positive": 0,
+            "neutral": 0,
+            "negative": 0,
+            "unknown": 2
           }
         }
       ],
       "sentiment": {
-        "positive": 71,
+        "positive": 72,
         "neutral": 128,
         "negative": 11,
-        "unknown": 128
+        "unknown": 131
       },
       "top_people": [
         {
@@ -573,17 +593,17 @@
           "is_ces": true
         },
         {
+          "person_id": "denise-dresser",
+          "name": "Denise Dresser",
+          "count": 12,
+          "reach": 18,
+          "is_ces": false
+        },
+        {
           "person_id": "martha-s-jones",
           "name": "Martha S. Jones",
           "count": 12,
           "reach": 10,
-          "is_ces": false
-        },
-        {
-          "person_id": "denise-dresser",
-          "name": "Denise Dresser",
-          "count": 11,
-          "reach": 18,
           "is_ces": false
         },
         {
@@ -645,15 +665,15 @@
         },
         {
           "source": "Other",
-          "count": 182,
-          "reach": 556,
+          "count": 186,
+          "reach": 564,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 160
+          "count": 163
         },
         {
           "source_type": "social network",
@@ -665,7 +685,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 96
+          "count": 97
         }
       ],
       "negative_stories": [
@@ -753,6 +773,16 @@
           "total": 14
         },
         {
+          "row_label": "Denise Dresser",
+          "person_id": "denise-dresser",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 2,
+          "negative": 0,
+          "unknown": 10,
+          "total": 12
+        },
+        {
           "row_label": "Martha S. Jones",
           "person_id": "martha-s-jones",
           "is_ces": false,
@@ -761,16 +791,6 @@
           "negative": 0,
           "unknown": 2,
           "total": 12
-        },
-        {
-          "row_label": "Denise Dresser",
-          "person_id": "denise-dresser",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 2,
-          "negative": 0,
-          "unknown": 9,
-          "total": 11
         },
         {
           "row_label": "Ruth Braunstein",
@@ -793,6 +813,16 @@
           "total": 8
         },
         {
+          "row_label": "Henry Farrell",
+          "person_id": "henry-farrell",
+          "is_ces": true,
+          "positive": 1,
+          "neutral": 4,
+          "negative": 0,
+          "unknown": 3,
+          "total": 8
+        },
+        {
           "row_label": "Lilliana Mason",
           "person_id": "lilliana-mason",
           "is_ces": false,
@@ -801,16 +831,6 @@
           "negative": 0,
           "unknown": 4,
           "total": 8
-        },
-        {
-          "row_label": "Henry Farrell",
-          "person_id": "henry-farrell",
-          "is_ces": true,
-          "positive": 1,
-          "neutral": 4,
-          "negative": 0,
-          "unknown": 2,
-          "total": 7
         },
         {
           "row_label": "Denise Dresser (namesake, OpenAI)",
@@ -923,6 +943,16 @@
           "total": 2
         },
         {
+          "row_label": "Christopher Krupenye",
+          "person_id": "christopher-krupenye",
+          "is_ces": false,
+          "positive": 1,
+          "neutral": 1,
+          "negative": 0,
+          "unknown": 0,
+          "total": 2
+        },
+        {
           "row_label": "Jenna Silber Storey",
           "person_id": "jenna-storey",
           "is_ces": false,
@@ -950,6 +980,16 @@
           "neutral": 1,
           "negative": 0,
           "unknown": 0,
+          "total": 2
+        },
+        {
+          "row_label": "Matthew Denney",
+          "person_id": "matthew-denney",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 1,
+          "negative": 0,
+          "unknown": 1,
           "total": 2
         },
         {
@@ -1040,16 +1080,6 @@
           "neutral": 0,
           "negative": 0,
           "unknown": 1,
-          "total": 1
-        },
-        {
-          "row_label": "Christopher Krupenye",
-          "person_id": "christopher-krupenye",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 1,
-          "negative": 0,
-          "unknown": 0,
           "total": 1
         },
         {
@@ -1203,16 +1233,6 @@
           "total": 1
         },
         {
-          "row_label": "Matthew Denney",
-          "person_id": "matthew-denney",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 1,
-          "negative": 0,
-          "unknown": 0,
-          "total": 1
-        },
-        {
           "row_label": "Nina Hall",
           "person_id": "nina-hall",
           "is_ces": false,
@@ -1236,11 +1256,11 @@
       "source_type_sentiment_crosstab": [
         {
           "row_label": "online news",
-          "positive": 24,
+          "positive": 25,
           "neutral": 81,
           "negative": 2,
-          "unknown": 53,
-          "total": 160
+          "unknown": 55,
+          "total": 163
         },
         {
           "row_label": "social network",
@@ -1263,8 +1283,8 @@
           "positive": 20,
           "neutral": 11,
           "negative": 8,
-          "unknown": 57,
-          "total": 96
+          "unknown": 58,
+          "total": 97
         }
       ],
       "sentiment_examples": {
@@ -1426,6 +1446,16 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 340,
+              "person": "Christopher Krupenye",
+              "person_id": "christopher-krupenye",
+              "is_ces": false,
+              "title": "In 2022, Johns Hopkins researchers found that bonobos and chimpanzees can remember former companions; one bonobo recognised her sister after 26 years apart",
+              "url": "https://timesofindia.indiatimes.com/science/in-2022-johns-hopkins-researchers-discovered-that-bonobos-and-chimpanzees-can-remember-old-companions-26-years-after-separation-louise-still-favored-her-sisters-face/articleshow/133421180.cms",
+              "source": "The Times of India",
+              "date": "2026-08-23"
+            },
             {
               "id": 333,
               "person": "Sean Carroll",
@@ -2184,9 +2214,9 @@
     },
     "ces": {
       "totals": {
-        "mentions": 58,
-        "in_digest": 38,
-        "reach_proxy": 94,
+        "mentions": 59,
+        "in_digest": 39,
+        "reach_proxy": 95,
         "people_covered": 9,
         "people_tracked": 17,
         "sources": 34,
@@ -2196,16 +2226,16 @@
         "week_start": "2026-08-17",
         "prev_week_start": "2026-08-10",
         "mentions": {
-          "current": 4,
+          "current": 5,
           "previous": 8,
-          "change": -4,
-          "pct_change": -50.0
+          "change": -3,
+          "pct_change": -37.5
         },
         "reach_proxy": {
-          "current": 6,
+          "current": 7,
           "previous": 16,
-          "change": -10,
-          "pct_change": -62.5
+          "change": -9,
+          "pct_change": -56.2
         },
         "people_covered": {
           "current": 2,
@@ -2581,9 +2611,16 @@
         },
         {
           "date": "2026-08-23",
-          "count": 1,
-          "reach": 1,
-          "in_digest": 1,
+          "count": 2,
+          "reach": 2,
+          "in_digest": 2,
+          "observed": true
+        },
+        {
+          "date": "2026-08-24",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
           "observed": true
         }
       ],
@@ -2681,15 +2718,28 @@
         },
         {
           "week_start": "2026-08-17",
-          "count": 4,
-          "reach": 6,
-          "in_digest": 1,
+          "count": 5,
+          "reach": 7,
+          "in_digest": 2,
           "people": 2,
           "sentiment": {
             "positive": 0,
             "neutral": 0,
             "negative": 0,
-            "unknown": 4
+            "unknown": 5
+          }
+        },
+        {
+          "week_start": "2026-08-24",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
+          "people": 0,
+          "sentiment": {
+            "positive": 0,
+            "neutral": 0,
+            "negative": 0,
+            "unknown": 0
           }
         }
       ],
@@ -2697,7 +2747,7 @@
         "positive": 12,
         "neutral": 22,
         "negative": 0,
-        "unknown": 24
+        "unknown": 25
       },
       "top_people": [
         {
@@ -2717,8 +2767,8 @@
         {
           "person_id": "henry-farrell",
           "name": "Henry Farrell",
-          "count": 7,
-          "reach": 5,
+          "count": 8,
+          "reach": 6,
           "is_ces": true
         },
         {
@@ -2808,22 +2858,22 @@
           "is_other": false
         },
         {
-          "source": "WND",
+          "source": "The New York Times",
           "count": 2,
           "reach": 2,
           "is_other": false
         },
         {
           "source": "Other",
-          "count": 26,
-          "reach": 47,
+          "count": 27,
+          "reach": 48,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 31
+          "count": 32
         },
         {
           "source_type": "social network",
@@ -2867,8 +2917,8 @@
           "positive": 1,
           "neutral": 4,
           "negative": 0,
-          "unknown": 2,
-          "total": 7
+          "unknown": 3,
+          "total": 8
         },
         {
           "row_label": "Steven Teles",
@@ -2937,8 +2987,8 @@
           "positive": 8,
           "neutral": 14,
           "negative": 0,
-          "unknown": 9,
-          "total": 31
+          "unknown": 10,
+          "total": 32
         },
         {
           "row_label": "social network",

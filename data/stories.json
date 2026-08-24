@@ -1,7 +1,85 @@
 {
-  "generated_at": "2026-08-24T09:21:19-04:00",
-  "count": 338,
+  "generated_at": "2026-08-24T09:25:21-04:00",
+  "count": 342,
   "stories": [
+    {
+      "id": 342,
+      "date": "2026-08-24",
+      "week_start": "2026-08-24",
+      "person_id": "matthew-denney",
+      "person": "Matthew Denney",
+      "is_ces": false,
+      "title": "Architectural Technician Services (CAD)",
+      "has_text": true,
+      "url": "https://www.find-tender.service.gov.uk/Notice/080169-2026?origin=SearchResults&p=1",
+      "source": "find-tender.service.gov.uk",
+      "source_type": "Unknown",
+      "similar_mention_count": 4,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Architectural Technician Services (CAD) https://www.find-tender.service.gov.uk/Notice/080169-2026?origin=SearchResults&p=1",
+          "chars": 63
+        },
+        "bluesky": {
+          "text": "Architectural Technician Services (CAD) https://www.find-tender.service.gov.uk/Notice/080169-2026?origin=SearchResults&p=1",
+          "chars": 122
+        }
+      }
+    },
+    {
+      "id": 343,
+      "date": "2026-08-24",
+      "week_start": "2026-08-24",
+      "person_id": "denise-dresser",
+      "person": "Denise Dresser",
+      "is_ces": false,
+      "title": "Greg Brockman, presidente da OpenAI, tornou-se o segundo CEO mais influente da startup.",
+      "has_text": true,
+      "url": "https://avalanchenoticias.com.br/inteligencia-artificial-aprendizado-de-maquina-redes-neurais/greg-brockman-presidente-da-openai-tornou-se-o-segundo-ceo-mais-influente-da-startup/",
+      "source": "Avalanchenoticias",
+      "source_type": "online news",
+      "similar_mention_count": 0,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Greg Brockman, presidente da OpenAI, tornou-se o segundo CEO mais influente da startup. https://avalanchenoticias.com.br/inteligencia-artificial-aprendizado-de-maquina-redes-neurais/greg-brockman-presidente-da-openai-tornou-se-o-segundo-ceo-mais-influente-da-startup/",
+          "chars": 111
+        },
+        "bluesky": {
+          "text": "Greg Brockman, presidente da OpenAI, tornou-se o segundo CEO mais influente da startup. https://avalanchenoticias.com.br/inteligencia-artificial-aprendizado-de-maquina-redes-neurais/greg-brockman-presidente-da-openai-tornou-se-o-segundo-ceo-mais-influente-da-startup/",
+          "chars": 267
+        }
+      }
+    },
+    {
+      "id": 340,
+      "date": "2026-08-23",
+      "week_start": "2026-08-17",
+      "person_id": "christopher-krupenye",
+      "person": "Christopher Krupenye",
+      "is_ces": false,
+      "title": "In 2022, Johns Hopkins researchers found that bonobos and chimpanzees can remember former companions; one bonobo recognised her sister after 26 years apart",
+      "has_text": true,
+      "url": "https://timesofindia.indiatimes.com/science/in-2022-johns-hopkins-researchers-discovered-that-bonobos-and-chimpanzees-can-remember-old-companions-26-years-after-separation-louise-still-favored-her-sisters-face/articleshow/133421180.cms",
+      "source": "The Times of India",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "In 2022, Johns Hopkins researchers found that bonobos and chimpanzees can remember former companions; one bonobo recognised her sister after 26 years apart https://timesofindia.indiatimes.com/science/in-2022-johns-hopkins-researchers-discovered-that-bonobos-and-chimpanzees-can-remember-old-companions-26-years-after-separation-louise-still-favored-her-sisters-face/articleshow/133421180.cms",
+          "chars": 179
+        },
+        "bluesky": {
+          "text": "In 2022, Johns Hopkins researchers found that bonobos and chim… https://timesofindia.indiatimes.com/science/in-2022-johns-hopkins-researchers-discovered-that-bonobos-and-chimpanzees-can-remember-old-companions-26-years-after-separation-louise-still-favored-her-sisters-face/articleshow/133421180.cms",
+          "chars": 299
+        }
+      }
+    },
     {
       "id": 312,
       "date": "2026-08-23",
@@ -25,6 +103,32 @@
         "bluesky": {
           "text": "Tucker Carlson w Białym Domu? Ekspert: nie wykluczałbym https://www.onet.pl/informacje/newsweek/politolog-trumpowi-nie-udalo-sie-narzucic-amerykanom-swojej-wizji/y7gehbx,452ad802",
           "chars": 178
+        }
+      }
+    },
+    {
+      "id": 341,
+      "date": "2026-08-23",
+      "week_start": "2026-08-17",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Twitter Broke the Left. X Will Break the Right.",
+      "has_text": true,
+      "url": "https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
+      "source": "The New York Times",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Twitter Broke the Left. X Will Break the Right. https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
+          "chars": 71
+        },
+        "bluesky": {
+          "text": "Twitter Broke the Left. X Will Break the Right. https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
+          "chars": 122
         }
       }
     },

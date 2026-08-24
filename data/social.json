@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-24T09:21:19-04:00",
-  "count": 36,
+  "generated_at": "2026-08-24T09:25:21-04:00",
+  "count": 37,
   "picks": [
+    {
+      "id": 52,
+      "mention_id": 340,
+      "digest_date": "2026-08-23",
+      "person": "Christopher Krupenye",
+      "person_id": "christopher-krupenye",
+      "person_ids": [
+        "christopher-krupenye"
+      ],
+      "is_ces": false,
+      "punchy_title": "Bonobos never forget: study finds they remember old friends decades later",
+      "headline": "Bonobos never forget: study finds they remember old friends decades later",
+      "pull_quote": "The findings come from a Johns Hopkins University team led by comparative psychologist",
+      "rationale": "The findings come from a Johns Hopkins University team led by comparative psychologist",
+      "url": "https://timesofindia.indiatimes.com/science/in-2022-johns-hopkins-researchers-discovered-that-bonobos-and-chimpanzees-can-remember-old-companions-26-years-after-separation-louise-still-favored-her-sisters-face/articleshow/133421180.cms",
+      "story_url": "https://timesofindia.indiatimes.com/science/in-2022-johns-hopkins-researchers-discovered-that-bonobos-and-chimpanzees-can-remember-old-companions-26-years-after-separation-louise-still-favored-her-sisters-face/articleshow/133421180.cms",
+      "created_at": "2026-08-24 13:25:11",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Bonobos remember old friends for decades: https://timesofindia.indiatimes.com/science/in-2022-johns-hopkins-researchers-discovered-that-bonobos-and-chimpanzees-can-remember-old-companions-26-years-after-separation-louise-still-favored-her-sisters-face/articleshow/133421180.cms",
+          "chars": 277,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Bonobos%20remember%20old%20friends%20for%20decades%3A%20https%3A//timesofindia.indiatimes.com/science/in-2022-johns-hopkins-researchers-discovered-that-bonobos-and-chimpanzees-can-remember-old-companions-26-years-after-separation-louise-still-favored-her-sisters-face/articleshow/133421180.cms"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Johns Hopkins study: bonobos remember old friends for decades. https://timesofindia.indiatimes.com/science/in-2022-johns-hopkins-researchers-discovered-that-bonobos-and-chimpanzees-can-remember-old-companions-26-years-after-separation-louise-still-favored-her-sisters-face/articleshow/133421180.cms",
+          "chars": 298,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Johns%20Hopkins%20study%3A%20bonobos%20remember%20old%20friends%20for%20decades.%20https%3A//timesofindia.indiatimes.com/science/in-2022-johns-hopkins-researchers-discovered-that-bonobos-and-chimpanzees-can-remember-old-companions-26-years-after-separation-louise-still-favored-her-sisters-face/articleshow/133421180.cms"
+        }
+      ]
+    },
     {
       "id": 51,
       "mention_id": 334,
