@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-24T09:12:08-04:00",
+  "generated_at": "2026-08-24T09:16:59-04:00",
   "generated_date": "2026-08-24",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
@@ -54,10 +54,12 @@
       "2026-08-17",
       "2026-08-18",
       "2026-08-19",
+      "2026-08-20",
+      "2026-08-21",
       "2026-08-23"
     ],
-    "total_mentions": 318,
-    "total_raw_documents": 1147,
+    "total_mentions": 329,
+    "total_raw_documents": 1161,
     "total_tracked_people": 100,
     "total_ces_people": 17
   },
@@ -65,30 +67,30 @@
     "all": {
       "label": "SNF Agora Institute",
       "people": 100,
-      "mentions": 318
+      "mentions": 329
     },
     "ces": {
       "label": "Center on Economy and Society",
       "people": 17,
-      "mentions": 56
+      "mentions": 57
     }
   },
   "data_quality": {
-    "mentions_missing_url": 86,
-    "mentions_no_text_captured": 82,
-    "mentions_sentiment_unknown": 112,
-    "mentions_shareable": 216,
+    "mentions_missing_url": 88,
+    "mentions_no_text_captured": 86,
+    "mentions_sentiment_unknown": 122,
+    "mentions_shareable": 223,
     "unmatched_persons": [
       {
         "person": "Denise Dresser (namesake, OpenAI)",
-        "mentions": 4
-      },
-      {
-        "person": "Andre Nogueira",
-        "mentions": 2
+        "mentions": 6
       },
       {
         "person": "Eliot Cohen",
+        "mentions": 3
+      },
+      {
+        "person": "Andre Nogueira",
         "mentions": 2
       },
       {
@@ -101,6 +103,10 @@
       },
       {
         "person": "(unmatched)",
+        "mentions": 1
+      },
+      {
+        "person": "André Nogueira (namesake, Marco André Nogueira Hanson)",
         "mentions": 1
       },
       {

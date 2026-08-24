@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T09:12:08-04:00",
-  "count": 318,
+  "generated_at": "2026-08-24T09:16:59-04:00",
+  "count": 329,
   "stories": [
     {
       "id": 312,
@@ -51,6 +51,256 @@
         "bluesky": {
           "text": "Twitter Broke the Left. X Will Break the Right. https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
           "chars": 122
+        }
+      }
+    },
+    {
+      "id": 322,
+      "date": "2026-08-21",
+      "week_start": "2026-08-17",
+      "person_id": "eliot-cohen",
+      "person": "Eliot Cohen",
+      "is_ces": false,
+      "title": "FIM DE UMA ERA, UMA NOVA CIVILIZAÇÃO OU O FIM DO MUNDO?",
+      "has_text": true,
+      "url": "https://bambaramdipadida.blogspot.com/2014/12/fim-de-uma-era-uma-nova-civilizacao-ou.html",
+      "source": "Bambaram di Padida",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "FIM DE UMA ERA, UMA NOVA CIVILIZAÇÃO OU O FIM DO MUNDO? https://bambaramdipadida.blogspot.com/2014/12/fim-de-uma-era-uma-nova-civilizacao-ou.html",
+          "chars": 79
+        },
+        "bluesky": {
+          "text": "FIM DE UMA ERA, UMA NOVA CIVILIZAÇÃO OU O FIM DO MUNDO? https://bambaramdipadida.blogspot.com/2014/12/fim-de-uma-era-uma-nova-civilizacao-ou.html",
+          "chars": 145
+        }
+      }
+    },
+    {
+      "id": 320,
+      "date": "2026-08-20",
+      "week_start": "2026-08-17",
+      "person_id": "yuen-yuen-ang",
+      "person": "Yuen Yuen Ang",
+      "is_ces": true,
+      "title": "No text captured (matched: Yuen Yuen Ang, Hopkins) -- entities positive but nothing to read",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter (x.com)",
+      "source_type": null,
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 321,
+      "date": "2026-08-20",
+      "week_start": "2026-08-17",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "No text captured (matched: SNF Agora Institute, Johns, Hopkins) -- Brad Raffensperger/Rstreet context",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter (x.com)",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 330,
+      "date": "2026-08-20",
+      "week_start": "2026-08-17",
+      "person_id": "ruth-braunstein",
+      "person": "Ruth Braunstein",
+      "is_ces": false,
+      "title": "PRRI Board and Leadership achievements & honors (LinkedIn)",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7495875139167834112",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "PRRI Board and Leadership achievements & honors (LinkedIn) https://www.linkedin.com/feed/update/urn:li:share:7495875139167834112",
+          "chars": 82
+        },
+        "bluesky": {
+          "text": "PRRI Board and Leadership achievements & honors (LinkedIn) https://www.linkedin.com/feed/update/urn:li:share:7495875139167834112",
+          "chars": 128
+        }
+      }
+    },
+    {
+      "id": 329,
+      "date": "2026-08-20",
+      "week_start": "2026-08-17",
+      "person_id": "denise-dresser-namesake-openai",
+      "person": "Denise Dresser (namesake, OpenAI)",
+      "is_ces": false,
+      "title": "por que mulheres trocam cargo de CEO por vaga na OpenAI",
+      "has_text": true,
+      "url": "https://marcalegal.com.br/ultimas-noticias/menos-status-mais-proposito-por-que-mulheres-trocam-cargo-de-ceo-por-vaga-na-openai/",
+      "source": "Marca Legal",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "por que mulheres trocam cargo de CEO por vaga na OpenAI https://marcalegal.com.br/ultimas-noticias/menos-status-mais-proposito-por-que-mulheres-trocam-cargo-de-ceo-por-vaga-na-openai/",
+          "chars": 79
+        },
+        "bluesky": {
+          "text": "por que mulheres trocam cargo de CEO por vaga na OpenAI https://marcalegal.com.br/ultimas-noticias/menos-status-mais-proposito-por-que-mulheres-trocam-cargo-de-ceo-por-vaga-na-openai/",
+          "chars": 183
+        }
+      }
+    },
+    {
+      "id": 328,
+      "date": "2026-08-20",
+      "week_start": "2026-08-17",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "No text captured for Applebaum specifically (matched keyword: agora [Portuguese 'now']) -- As raízes judaicas da URSS e da sovietização dos EUA",
+      "has_text": false,
+      "url": "https://rothbardbrasil.com/as-raizes-judaicas-da-urss-e-da-sovietizacao-dos-eua/",
+      "source": "Instituto Rothbard",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 327,
+      "date": "2026-08-20",
+      "week_start": "2026-08-17",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": "No text captured (matched: Sean Carroll, Johns, Hopkins) -- Reddit r/Metaphysics comment",
+      "has_text": false,
+      "url": "https://www.reddit.com/r/Metaphysics/comments/1vtdi72/comment/p4tcnbj/",
+      "source": "reddit.com/r/Metaphysics",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 326,
+      "date": "2026-08-20",
+      "week_start": "2026-08-17",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "Good to Know: Why people support political violence",
+      "has_text": true,
+      "url": "https://goodauthority.substack.com/p/good-to-know-why-people-support-political",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Good to Know: Why people support political violence https://goodauthority.substack.com/p/good-to-know-why-people-support-political",
+          "chars": 75
+        },
+        "bluesky": {
+          "text": "Good to Know: Why people support political violence https://goodauthority.substack.com/p/good-to-know-why-people-support-political",
+          "chars": 130
+        }
+      }
+    },
+    {
+      "id": 325,
+      "date": "2026-08-20",
+      "week_start": "2026-08-17",
+      "person_id": "andr-nogueira-namesake-marco-andr-nogueira-hanson",
+      "person": "André Nogueira (namesake, Marco André Nogueira Hanson)",
+      "is_ces": false,
+      "title": "Ejud-MS capacita magistrados sobre saúde mental, autocuidado e trabalho ético",
+      "has_text": true,
+      "url": "https://acritica.net/justica/ejud-saude-mental/",
+      "source": "Acritica",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Ejud-MS capacita magistrados sobre saúde mental, autocuidado e trabalho ético https://acritica.net/justica/ejud-saude-mental/",
+          "chars": 101
+        },
+        "bluesky": {
+          "text": "Ejud-MS capacita magistrados sobre saúde mental, autocuidado e trabalho ético https://acritica.net/justica/ejud-saude-mental/",
+          "chars": 125
+        }
+      }
+    },
+    {
+      "id": 324,
+      "date": "2026-08-20",
+      "week_start": "2026-08-17",
+      "person_id": "denise-dresser-namesake-openai",
+      "person": "Denise Dresser (namesake, OpenAI)",
+      "is_ces": false,
+      "title": "OpenAI prepara entrada na bolsa para 2027 para sustentar avaliação de 852 mil milhões",
+      "has_text": true,
+      "url": "https://tugatech.com.pt/t89614-openai-prepara-entrada-na-bolsa-para-2027-para-sustentar-avaliacao-de-852-mil-milhoes",
+      "source": "TugaTech",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "OpenAI prepara entrada na bolsa para 2027 para sustentar avaliação de 852 mil milhões https://tugatech.com.pt/t89614-openai-prepara-entrada-na-bolsa-para-2027-para-sustentar-avaliacao-de-852-mil-milhoes",
+          "chars": 109
+        },
+        "bluesky": {
+          "text": "OpenAI prepara entrada na bolsa para 2027 para sustentar avaliação de 852 mil milhões https://tugatech.com.pt/t89614-openai-prepara-entrada-na-bolsa-para-2027-para-sustentar-avaliacao-de-852-mil-milhoes",
+          "chars": 202
+        }
+      }
+    },
+    {
+      "id": 323,
+      "date": "2026-08-20",
+      "week_start": "2026-08-17",
+      "person_id": "martha-s-jones",
+      "person": "Martha S. Jones",
+      "is_ces": false,
+      "title": "Re-Reading the News: The Baltimore Orphan Girl Who Changed a Nation",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/events/2026/09/15/re-reading-the-news-the-baltimore-orphan-girl-who-changed-a-nation/",
+      "source": "Hub - Johns Hopkins University",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Re-Reading the News: The Baltimore Orphan Girl Who Changed a Nation https://hub.jhu.edu/events/2026/09/15/re-reading-the-news-the-baltimore-orphan-girl-who-changed-a-nation/",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "Re-Reading the News: The Baltimore Orphan Girl Who Changed a Nation https://hub.jhu.edu/events/2026/09/15/re-reading-the-news-the-baltimore-orphan-girl-who-changed-a-nation/",
+          "chars": 173
         }
       }
     },

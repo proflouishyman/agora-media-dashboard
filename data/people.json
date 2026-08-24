@@ -9,16 +9,16 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 56,
+    "mentions_total": 57,
     "mentions_in_digest": 21,
-    "reach_proxy": 121,
+    "reach_proxy": 123,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-08-19",
+    "last_mention_date": "2026-08-20",
     "sentiment": {
       "positive": 18,
       "neutral": 21,
       "negative": 2,
-      "unknown": 15
+      "unknown": 16
     },
     "top_sources": [
       {
@@ -100,8 +100,8 @@
       },
       {
         "week_start": "2026-08-17",
-        "count": 1,
-        "reach": 2
+        "count": 2,
+        "reach": 4
       }
     ]
   },
@@ -117,16 +117,16 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 37,
+    "mentions_total": 38,
     "mentions_in_digest": 21,
-    "reach_proxy": 277,
+    "reach_proxy": 278,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-08-18",
+    "last_mention_date": "2026-08-20",
     "sentiment": {
       "positive": 8,
       "neutral": 12,
       "negative": 5,
-      "unknown": 12
+      "unknown": 13
     },
     "top_sources": [
       {
@@ -146,7 +146,7 @@
         "count": 3
       },
       {
-        "source": "Twitter (x.com)",
+        "source": "Instituto Rothbard",
         "count": 2
       }
     ],
@@ -208,8 +208,8 @@
       },
       {
         "week_start": "2026-08-17",
-        "count": 2,
-        "reach": 241
+        "count": 3,
+        "reach": 242
       }
     ]
   },
@@ -225,16 +225,16 @@
       "Core Faculty"
     ],
     "is_ces": true,
-    "mentions_total": 25,
+    "mentions_total": 26,
     "mentions_in_digest": 20,
-    "reach_proxy": 42,
+    "reach_proxy": 45,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-08-18",
+    "last_mention_date": "2026-08-20",
     "sentiment": {
       "positive": 6,
       "neutral": 10,
       "negative": 0,
-      "unknown": 9
+      "unknown": 10
     },
     "top_sources": [
       {
@@ -316,8 +316,8 @@
       },
       {
         "week_start": "2026-08-17",
-        "count": 1,
-        "reach": 1
+        "count": 2,
+        "reach": 4
       }
     ]
   },
@@ -549,16 +549,16 @@
       "Affiliated Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 16,
+    "mentions_total": 17,
     "mentions_in_digest": 5,
-    "reach_proxy": 34,
+    "reach_proxy": 35,
     "first_mention_date": "2026-07-03",
-    "last_mention_date": "2026-08-18",
+    "last_mention_date": "2026-08-20",
     "sentiment": {
       "positive": 4,
       "neutral": 9,
       "negative": 1,
-      "unknown": 2
+      "unknown": 3
     },
     "top_sources": [
       {
@@ -640,8 +640,8 @@
       },
       {
         "week_start": "2026-08-17",
-        "count": 2,
-        "reach": 2
+        "count": 3,
+        "reach": 3
       }
     ]
   },
@@ -873,16 +873,16 @@
       "Core Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 10,
-    "mentions_in_digest": 10,
-    "reach_proxy": 8,
+    "mentions_total": 11,
+    "mentions_in_digest": 11,
+    "reach_proxy": 9,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-07-25",
+    "last_mention_date": "2026-08-20",
     "sentiment": {
       "positive": 3,
       "neutral": 7,
       "negative": 0,
-      "unknown": 0
+      "unknown": 1
     },
     "top_sources": [
       {
@@ -902,7 +902,7 @@
         "count": 1
       },
       {
-        "source": "Northwestern Now",
+        "source": "Hub - Johns Hopkins University",
         "count": 1
       }
     ],
@@ -964,8 +964,8 @@
       },
       {
         "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -981,24 +981,24 @@
       "Core Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 9,
-    "mentions_in_digest": 8,
-    "reach_proxy": 26,
+    "mentions_total": 10,
+    "mentions_in_digest": 9,
+    "reach_proxy": 27,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-07-30",
+    "last_mention_date": "2026-08-20",
     "sentiment": {
-      "positive": 5,
+      "positive": 6,
       "neutral": 4,
       "negative": 0,
       "unknown": 0
     },
     "top_sources": [
       {
-        "source": "Baltimore Fishbowl",
-        "count": 2
+        "source": "LinkedIn",
+        "count": 3
       },
       {
-        "source": "LinkedIn",
+        "source": "Baltimore Fishbowl",
         "count": 2
       },
       {
@@ -1072,8 +1072,8 @@
       },
       {
         "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -1186,6 +1186,114 @@
     ]
   },
   {
+    "id": "lilliana-mason",
+    "name": "Lilliana Mason",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Institute Professor of Political Science",
+    "profile_url": "https://snfagora.jhu.edu/directory/lilliana-mason/",
+    "photo_url": "images/people/lilliana-mason.jpeg",
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 8,
+    "mentions_in_digest": 7,
+    "reach_proxy": 38,
+    "first_mention_date": "2026-07-08",
+    "last_mention_date": "2026-08-20",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0,
+      "unknown": 4
+    },
+    "top_sources": [
+      {
+        "source": "Bluesky",
+        "count": 1
+      },
+      {
+        "source": "Fior Reports",
+        "count": 1
+      },
+      {
+        "source": "Indiecinema",
+        "count": 1
+      },
+      {
+        "source": "MSN.com",
+        "count": 1
+      },
+      {
+        "source": "Medium",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-01",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 3,
+        "reach": 32
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 1,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 3,
+        "reach": 3
+      }
+    ]
+  },
+  {
     "id": "henry-farrell",
     "name": "Henry Farrell",
     "kind": "faculty",
@@ -1294,47 +1402,45 @@
     ]
   },
   {
-    "id": "lilliana-mason",
-    "name": "Lilliana Mason",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Institute Professor of Political Science",
-    "profile_url": "https://snfagora.jhu.edu/directory/lilliana-mason/",
-    "photo_url": "images/people/lilliana-mason.jpeg",
-    "categories": [
-      "Core Faculty"
-    ],
+    "id": "denise-dresser-namesake-openai",
+    "name": "Denise Dresser (namesake, OpenAI)",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
     "is_ces": false,
-    "mentions_total": 7,
-    "mentions_in_digest": 6,
-    "reach_proxy": 37,
-    "first_mention_date": "2026-07-08",
-    "last_mention_date": "2026-08-18",
+    "mentions_total": 6,
+    "mentions_in_digest": 0,
+    "reach_proxy": 9,
+    "first_mention_date": "2026-08-12",
+    "last_mention_date": "2026-08-20",
     "sentiment": {
       "positive": 0,
-      "neutral": 4,
+      "neutral": 0,
       "negative": 0,
-      "unknown": 3
+      "unknown": 6
     },
     "top_sources": [
       {
-        "source": "Bluesky",
+        "source": "The Cryptonomist",
+        "count": 2
+      },
+      {
+        "source": "Forbes Brasil",
         "count": 1
       },
       {
-        "source": "Fior Reports",
+        "source": "MTT News",
         "count": 1
       },
       {
-        "source": "Indiecinema",
+        "source": "Marca Legal",
         "count": 1
       },
       {
-        "source": "MSN.com",
-        "count": 1
-      },
-      {
-        "source": "Medium",
+        "source": "TugaTech",
         "count": 1
       }
     ],
@@ -1366,8 +1472,8 @@
       },
       {
         "week_start": "2026-07-06",
-        "count": 3,
-        "reach": 32
+        "count": 0,
+        "reach": 0
       },
       {
         "week_start": "2026-07-13",
@@ -1386,18 +1492,18 @@
       },
       {
         "week_start": "2026-08-03",
-        "count": 1,
-        "reach": 1
+        "count": 0,
+        "reach": 0
       },
       {
         "week_start": "2026-08-10",
-        "count": 1,
-        "reach": 2
+        "count": 2,
+        "reach": 3
       },
       {
         "week_start": "2026-08-17",
-        "count": 2,
-        "reach": 2
+        "count": 4,
+        "reach": 6
       }
     ]
   },
@@ -1822,8 +1928,8 @@
     ]
   },
   {
-    "id": "denise-dresser-namesake-openai",
-    "name": "Denise Dresser (namesake, OpenAI)",
+    "id": "eliot-cohen",
+    "name": "Eliot Cohen",
     "kind": "unmatched",
     "tracked": false,
     "title": "",
@@ -1831,28 +1937,28 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 4,
-    "mentions_in_digest": 0,
-    "reach_proxy": 7,
-    "first_mention_date": "2026-08-12",
-    "last_mention_date": "2026-08-19",
+    "mentions_total": 3,
+    "mentions_in_digest": 2,
+    "reach_proxy": 4,
+    "first_mention_date": "2026-08-01",
+    "last_mention_date": "2026-08-21",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
       "negative": 0,
-      "unknown": 4
+      "unknown": 3
     },
     "top_sources": [
       {
-        "source": "The Cryptonomist",
-        "count": 2
-      },
-      {
-        "source": "Forbes Brasil",
+        "source": "Bambaram di Padida",
         "count": 1
       },
       {
-        "source": "MTT News",
+        "source": "Gazeta do Povo",
+        "count": 1
+      },
+      {
+        "source": "Substack (E-International Relations)",
         "count": 1
       }
     ],
@@ -1899,8 +2005,8 @@
       },
       {
         "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       },
       {
         "week_start": "2026-08-03",
@@ -1909,13 +2015,13 @@
       },
       {
         "week_start": "2026-08-10",
-        "count": 2,
-        "reach": 3
+        "count": 1,
+        "reach": 2
       },
       {
         "week_start": "2026-08-17",
-        "count": 2,
-        "reach": 4
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -2389,100 +2495,6 @@
         "week_start": "2026-08-10",
         "count": 1,
         "reach": 1
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "eliot-cohen",
-    "name": "Eliot Cohen",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 2,
-    "mentions_in_digest": 2,
-    "reach_proxy": 3,
-    "first_mention_date": "2026-08-01",
-    "last_mention_date": "2026-08-16",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 2
-    },
-    "top_sources": [
-      {
-        "source": "Gazeta do Povo",
-        "count": 1
-      },
-      {
-        "source": "Substack (E-International Relations)",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-01",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-08",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 1,
-        "reach": 2
       },
       {
         "week_start": "2026-08-17",
@@ -3418,6 +3430,96 @@
         "week_start": "2026-08-17",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "andr-nogueira-namesake-marco-andr-nogueira-hanson",
+    "name": "André Nogueira (namesake, Marco André Nogueira Hanson)",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-08-20",
+    "last_mention_date": "2026-08-20",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Acritica",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-01",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 1,
+        "reach": 1
       }
     ]
   },

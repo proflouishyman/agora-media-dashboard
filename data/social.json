@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-24T09:12:08-04:00",
-  "count": 34,
+  "generated_at": "2026-08-24T09:16:59-04:00",
+  "count": 35,
   "picks": [
+    {
+      "id": 50,
+      "mention_id": 330,
+      "digest_date": "2026-08-20",
+      "person": "Ruth Braunstein",
+      "person_id": "ruth-braunstein",
+      "person_ids": [
+        "ruth-braunstein"
+      ],
+      "is_ces": false,
+      "punchy_title": "Ruth Braunstein Named Director of SNF Agora Institute",
+      "headline": "Ruth Braunstein Named Director of SNF Agora Institute",
+      "pull_quote": "PRRI Board Chair Ruth Braunstein, Ph.D., became the director of the SNF Agora Institute at Johns Hopkins University on August 1, 2026. Johns Hopkins University President Ron Daniels described Braunstein as a consummate scholar with the ability to bridge academic research and public impact.",
+      "rationale": "PRRI Board Chair Ruth Braunstein, Ph.D., became the director of the SNF Agora Institute at Johns Hopkins University on August 1, 2026. Johns Hopkins University President Ron Daniels described Braunstein as a consummate scholar with the ability to bridge academic research and public impact.",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7495875139167834112",
+      "story_url": "https://www.linkedin.com/feed/update/urn:li:share:7495875139167834112",
+      "created_at": "2026-08-24 13:16:52",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Ruth Braunstein is now Director of the SNF Agora Institute at Johns Hopkins. JHU President Ron Daniels called her \"a consummate scholar with the ability to bridge academic research and public impact.\" https://www.linkedin.com/feed/update/urn:li:share:7495875139167834112",
+          "chars": 270,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Ruth%20Braunstein%20is%20now%20Director%20of%20the%20SNF%20Agora%20Institute%20at%20Johns%20Hopkins.%20JHU%20President%20Ron%20Daniels%20called%20her%20%22a%20consummate%20scholar%20with%20the%20ability%20to%20bridge%20academic%20research%20and%20public%20impact.%22%20https%3A//www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7495875139167834112"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Ruth Braunstein is now Director of the SNF Agora Institute at Johns Hopkins University. JHU President Ron Daniels called her \"a consummate scholar with the ability to bridge academic research and public impact.\" https://www.linkedin.com/feed/update/urn:li:share:7495875139167834112",
+          "chars": 281,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Ruth%20Braunstein%20is%20now%20Director%20of%20the%20SNF%20Agora%20Institute%20at%20Johns%20Hopkins%20University.%20JHU%20President%20Ron%20Daniels%20called%20her%20%22a%20consummate%20scholar%20with%20the%20ability%20to%20bridge%20academic%20research%20and%20public%20impact.%22%20https%3A//www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7495875139167834112"
+        }
+      ]
+    },
     {
       "id": 49,
       "mention_id": 314,
