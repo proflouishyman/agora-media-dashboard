@@ -9,33 +9,33 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 57,
-    "mentions_in_digest": 21,
-    "reach_proxy": 123,
+    "mentions_total": 60,
+    "mentions_in_digest": 22,
+    "reach_proxy": 130,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-08-20",
+    "last_mention_date": "2026-08-22",
     "sentiment": {
       "positive": 18,
       "neutral": 21,
-      "negative": 2,
-      "unknown": 16
+      "negative": 3,
+      "unknown": 18
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 28
+        "count": 29
       },
       {
         "source": "LinkedIn",
         "count": 8
       },
       {
-        "source": "Medium",
-        "count": 3
+        "source": "Bluesky",
+        "count": 4
       },
       {
-        "source": "Bluesky",
-        "count": 2
+        "source": "Medium",
+        "count": 3
       },
       {
         "source": "Askanews",
@@ -100,8 +100,8 @@
       },
       {
         "week_start": "2026-08-17",
-        "count": 2,
-        "reach": 4
+        "count": 5,
+        "reach": 11
       }
     ]
   },
@@ -225,21 +225,21 @@
       "Core Faculty"
     ],
     "is_ces": true,
-    "mentions_total": 26,
+    "mentions_total": 27,
     "mentions_in_digest": 20,
-    "reach_proxy": 45,
+    "reach_proxy": 46,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-08-20",
+    "last_mention_date": "2026-08-21",
     "sentiment": {
       "positive": 6,
       "neutral": 10,
       "negative": 0,
-      "unknown": 10
+      "unknown": 11
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 4
+        "count": 5
       },
       {
         "source": "YouTube",
@@ -316,8 +316,8 @@
       },
       {
         "week_start": "2026-08-17",
-        "count": 2,
-        "reach": 4
+        "count": 3,
+        "reach": 5
       }
     ]
   },
@@ -333,16 +333,16 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 21,
+    "mentions_total": 22,
     "mentions_in_digest": 9,
-    "reach_proxy": 147,
+    "reach_proxy": 148,
     "first_mention_date": "2026-07-02",
     "last_mention_date": "2026-08-23",
     "sentiment": {
       "positive": 1,
       "neutral": 8,
       "negative": 1,
-      "unknown": 11
+      "unknown": 12
     },
     "top_sources": [
       {
@@ -354,15 +354,15 @@
         "count": 2
       },
       {
+        "source": "reddit.com/r/philosophypodcasts",
+        "count": 2
+      },
+      {
         "source": "A Medley of Potpourri (blog)",
         "count": 1
       },
       {
         "source": "Le Figaro",
-        "count": 1
-      },
-      {
-        "source": "Le Soir",
         "count": 1
       }
     ],
@@ -424,8 +424,8 @@
       },
       {
         "week_start": "2026-08-17",
-        "count": 3,
-        "reach": 4
+        "count": 4,
+        "reach": 5
       }
     ]
   },
@@ -549,33 +549,33 @@
       "Affiliated Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 17,
-    "mentions_in_digest": 5,
-    "reach_proxy": 35,
+    "mentions_total": 19,
+    "mentions_in_digest": 7,
+    "reach_proxy": 38,
     "first_mention_date": "2026-07-03",
-    "last_mention_date": "2026-08-20",
+    "last_mention_date": "2026-08-21",
     "sentiment": {
-      "positive": 4,
-      "neutral": 9,
+      "positive": 5,
+      "neutral": 10,
       "negative": 1,
       "unknown": 3
     },
     "top_sources": [
       {
+        "source": "Youtube",
+        "count": 4
+      },
+      {
         "source": "YouTube",
         "count": 3
       },
       {
-        "source": "Youtube",
-        "count": 3
+        "source": "Bluesky",
+        "count": 2
       },
       {
         "source": "Twitter",
         "count": 2
-      },
-      {
-        "source": "Bluesky",
-        "count": 1
       },
       {
         "source": "Medium",
@@ -640,8 +640,8 @@
       },
       {
         "week_start": "2026-08-17",
-        "count": 3,
-        "reach": 3
+        "count": 5,
+        "reach": 6
       }
     ]
   },
@@ -754,6 +754,114 @@
     ]
   },
   {
+    "id": "martha-s-jones",
+    "name": "Martha S. Jones",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Society of Black Alumni Presidential Professor, Professor of History, Professor of the SNF Agora Institute",
+    "profile_url": "https://snfagora.jhu.edu/directory/martha-s-jones/",
+    "photo_url": null,
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 12,
+    "mentions_in_digest": 12,
+    "reach_proxy": 10,
+    "first_mention_date": "2026-07-02",
+    "last_mention_date": "2026-08-21",
+    "sentiment": {
+      "positive": 3,
+      "neutral": 7,
+      "negative": 0,
+      "unknown": 2
+    },
+    "top_sources": [
+      {
+        "source": "SCOTUSblog",
+        "count": 2
+      },
+      {
+        "source": "YouTube",
+        "count": 2
+      },
+      {
+        "source": "Alem da Arena (blog)",
+        "count": 1
+      },
+      {
+        "source": "Baltimore Fishbowl",
+        "count": 1
+      },
+      {
+        "source": "Hub - Johns Hopkins University",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-01",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 3,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 4,
+        "reach": 6
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 1,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 2,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 2,
+        "reach": 2
+      }
+    ]
+  },
+  {
     "id": "denise-dresser",
     "name": "Denise Dresser",
     "kind": "faculty",
@@ -853,114 +961,6 @@
         "week_start": "2026-08-10",
         "count": 6,
         "reach": 15
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 1,
-        "reach": 1
-      }
-    ]
-  },
-  {
-    "id": "martha-s-jones",
-    "name": "Martha S. Jones",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Society of Black Alumni Presidential Professor, Professor of History, Professor of the SNF Agora Institute",
-    "profile_url": "https://snfagora.jhu.edu/directory/martha-s-jones/",
-    "photo_url": null,
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 11,
-    "mentions_in_digest": 11,
-    "reach_proxy": 9,
-    "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-08-20",
-    "sentiment": {
-      "positive": 3,
-      "neutral": 7,
-      "negative": 0,
-      "unknown": 1
-    },
-    "top_sources": [
-      {
-        "source": "SCOTUSblog",
-        "count": 2
-      },
-      {
-        "source": "YouTube",
-        "count": 2
-      },
-      {
-        "source": "Alem da Arena (blog)",
-        "count": 1
-      },
-      {
-        "source": "Baltimore Fishbowl",
-        "count": 1
-      },
-      {
-        "source": "Hub - Johns Hopkins University",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-01",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-08",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 3,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 4,
-        "reach": 6
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 1,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 2,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
       },
       {
         "week_start": "2026-08-17",
@@ -4712,6 +4712,98 @@
     ]
   },
   {
+    "id": "jon-temin",
+    "name": "Jon Temin",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Visiting Fellow, AY25-26",
+    "profile_url": "https://snfagora.jhu.edu/directory/jon-temin/",
+    "photo_url": null,
+    "categories": [
+      "Visiting Fellows"
+    ],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 2,
+    "first_mention_date": "2026-08-21",
+    "last_mention_date": "2026-08-21",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Substack",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-01",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 1,
+        "reach": 2
+      }
+    ]
+  },
+  {
     "id": "leah-wright-rigueur",
     "name": "Leah Wright Rigueur",
     "kind": "unmatched",
@@ -7879,93 +7971,6 @@
     "title": "SNF Agora Visiting Fellow, AY25-26",
     "profile_url": "https://snfagora.jhu.edu/directory/johnnie-moore/",
     "photo_url": "images/people/johnnie-moore.jpg",
-    "categories": [
-      "Visiting Fellows"
-    ],
-    "is_ces": false,
-    "mentions_total": 0,
-    "mentions_in_digest": 0,
-    "reach_proxy": 0,
-    "first_mention_date": null,
-    "last_mention_date": null,
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [],
-    "weekly": [
-      {
-        "week_start": "2026-06-01",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-08",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "jon-temin",
-    "name": "Jon Temin",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Visiting Fellow, AY25-26",
-    "profile_url": "https://snfagora.jhu.edu/directory/jon-temin/",
-    "photo_url": null,
     "categories": [
       "Visiting Fellows"
     ],

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-24T09:16:59-04:00",
+  "generated_at": "2026-08-24T09:21:19-04:00",
   "generated_date": "2026-08-24",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
@@ -56,10 +56,11 @@
       "2026-08-19",
       "2026-08-20",
       "2026-08-21",
+      "2026-08-22",
       "2026-08-23"
     ],
-    "total_mentions": 329,
-    "total_raw_documents": 1161,
+    "total_mentions": 338,
+    "total_raw_documents": 1176,
     "total_tracked_people": 100,
     "total_ces_people": 17
   },
@@ -67,19 +68,19 @@
     "all": {
       "label": "SNF Agora Institute",
       "people": 100,
-      "mentions": 329
+      "mentions": 338
     },
     "ces": {
       "label": "Center on Economy and Society",
       "people": 17,
-      "mentions": 57
+      "mentions": 58
     }
   },
   "data_quality": {
-    "mentions_missing_url": 88,
-    "mentions_no_text_captured": 86,
-    "mentions_sentiment_unknown": 122,
-    "mentions_shareable": 223,
+    "mentions_missing_url": 90,
+    "mentions_no_text_captured": 89,
+    "mentions_sentiment_unknown": 128,
+    "mentions_shareable": 229,
     "unmatched_persons": [
       {
         "person": "Denise Dresser (namesake, OpenAI)",
