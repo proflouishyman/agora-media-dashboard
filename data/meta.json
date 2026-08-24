@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-23T07:05:19-04:00",
-  "generated_date": "2026-08-23",
+  "generated_at": "2026-08-24T09:12:08-04:00",
+  "generated_date": "2026-08-24",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
     "first_mention_date": "2026-07-02",
@@ -56,8 +56,8 @@
       "2026-08-19",
       "2026-08-23"
     ],
-    "total_mentions": 312,
-    "total_raw_documents": 1138,
+    "total_mentions": 318,
+    "total_raw_documents": 1147,
     "total_tracked_people": 100,
     "total_ces_people": 17
   },
@@ -65,7 +65,7 @@
     "all": {
       "label": "SNF Agora Institute",
       "people": 100,
-      "mentions": 312
+      "mentions": 318
     },
     "ces": {
       "label": "Center on Economy and Society",
@@ -74,17 +74,17 @@
     }
   },
   "data_quality": {
-    "mentions_missing_url": 85,
-    "mentions_no_text_captured": 81,
-    "mentions_sentiment_unknown": 107,
-    "mentions_shareable": 211,
+    "mentions_missing_url": 86,
+    "mentions_no_text_captured": 82,
+    "mentions_sentiment_unknown": 112,
+    "mentions_shareable": 216,
     "unmatched_persons": [
       {
-        "person": "Andre Nogueira",
-        "mentions": 2
+        "person": "Denise Dresser (namesake, OpenAI)",
+        "mentions": 4
       },
       {
-        "person": "Denise Dresser (namesake, OpenAI)",
+        "person": "Andre Nogueira",
         "mentions": 2
       },
       {
@@ -104,7 +104,15 @@
         "mentions": 1
       },
       {
+        "person": "André Nogueira (namesake, keyword: agora)",
+        "mentions": 1
+      },
+      {
         "person": "Denise Dresser (namesake, no Agora relevance)",
+        "mentions": 1
+      },
+      {
+        "person": "Jeremy Wallace (namesake, fisheries policy officer)",
         "mentions": 1
       },
       {

@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-23T07:05:19-04:00",
-  "count": 33,
+  "generated_at": "2026-08-24T09:12:08-04:00",
+  "count": 34,
   "picks": [
+    {
+      "id": 49,
+      "mention_id": 314,
+      "digest_date": "2026-08-19",
+      "person": "Hahrie Han",
+      "person_id": "hahrie-han",
+      "person_ids": [
+        "hahrie-han"
+      ],
+      "is_ces": false,
+      "punchy_title": "Hahrie Han Named a 2025 MacArthur Fellow",
+      "headline": "Hahrie Han Named a 2025 MacArthur Fellow",
+      "pull_quote": "Scientist and APSA Member Dr. Hahrie Han receives the 2025 MacArthur Foundation Fellowship",
+      "rationale": "Scientist and APSA Member Dr. Hahrie Han receives the 2025 MacArthur Foundation Fellowship",
+      "url": "https://politicalsciencenow.com/jhu-political-scientist-and-apsa-member-dr-hahrie-han-receives-the-2025-macarthur-foundation-fellowship/",
+      "story_url": "https://politicalsciencenow.com/jhu-political-scientist-and-apsa-member-dr-hahrie-han-receives-the-2025-macarthur-foundation-fellowship/",
+      "created_at": "2026-08-24 13:12:05",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "SNF Agora professor Hahrie Han has won the 2025 MacArthur Foundation Fellowship for her work on civic engagement and collective action. https://politicalsciencenow.com/jhu-political-scientist-and-apsa-member-dr-hahrie-han-receives-the-2025-macarthur-foundation-fellowship/",
+          "chars": 272,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=SNF%20Agora%20professor%20Hahrie%20Han%20has%20won%20the%202025%20MacArthur%20Foundation%20Fellowship%20for%20her%20work%20on%20civic%20engagement%20and%20collective%20action.%20https%3A//politicalsciencenow.com/jhu-political-scientist-and-apsa-member-dr-hahrie-han-receives-the-2025-macarthur-foundation-fellowship/"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "SNF Agora Institute professor Hahrie Han has received the 2025 MacArthur Foundation Fellowship for her work on civic engagement and collective action. https://politicalsciencenow.com/jhu-political-scientist-and-apsa-member-dr-hahrie-han-receives-the-2025-macarthur-foundation-fellowship/",
+          "chars": 287,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=SNF%20Agora%20Institute%20professor%20Hahrie%20Han%20has%20received%20the%202025%20MacArthur%20Foundation%20Fellowship%20for%20her%20work%20on%20civic%20engagement%20and%20collective%20action.%20https%3A//politicalsciencenow.com/jhu-political-scientist-and-apsa-member-dr-hahrie-han-receives-the-2025-macarthur-foundation-fellowship/"
+        }
+      ]
+    },
     {
       "id": 48,
       "mention_id": 276,
