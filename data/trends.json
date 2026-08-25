@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-24T09:25:21-04:00",
+  "generated_at": "2026-08-25T09:55:37-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-08-24"
+    "end": "2026-08-25"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 342,
-        "in_digest": 169,
-        "reach_proxy": 1367,
-        "people_covered": 55,
+        "mentions": 347,
+        "in_digest": 173,
+        "reach_proxy": 1376,
+        "people_covered": 56,
         "people_tracked": 100,
-        "sources": 151,
+        "sources": 153,
         "negative": 11
       },
       "deltas": {
@@ -411,9 +411,16 @@
         },
         {
           "date": "2026-08-24",
-          "count": 2,
-          "reach": 4,
-          "in_digest": 0,
+          "count": 6,
+          "reach": 11,
+          "in_digest": 3,
+          "observed": true
+        },
+        {
+          "date": "2026-08-25",
+          "count": 1,
+          "reach": 2,
+          "in_digest": 1,
           "observed": true
         }
       ],
@@ -524,23 +531,23 @@
         },
         {
           "week_start": "2026-08-24",
-          "count": 2,
-          "reach": 4,
-          "in_digest": 0,
-          "people": 2,
+          "count": 7,
+          "reach": 13,
+          "in_digest": 4,
+          "people": 7,
           "sentiment": {
             "positive": 0,
-            "neutral": 0,
+            "neutral": 1,
             "negative": 0,
-            "unknown": 2
+            "unknown": 6
           }
         }
       ],
       "sentiment": {
         "positive": 72,
-        "neutral": 128,
+        "neutral": 129,
         "negative": 11,
-        "unknown": 131
+        "unknown": 135
       },
       "top_people": [
         {
@@ -553,8 +560,8 @@
         {
           "person_id": "anne-applebaum",
           "name": "Anne Applebaum",
-          "count": 38,
-          "reach": 278,
+          "count": 39,
+          "reach": 280,
           "is_ces": false
         },
         {
@@ -567,8 +574,8 @@
         {
           "person_id": "yascha-mounk",
           "name": "Yascha Mounk",
-          "count": 22,
-          "reach": 148,
+          "count": 23,
+          "reach": 149,
           "is_ces": false
         },
         {
@@ -617,8 +624,8 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 75,
-          "reach": 242,
+          "count": 76,
+          "reach": 243,
           "is_other": false
         },
         {
@@ -635,8 +642,8 @@
         },
         {
           "source": "Substack",
-          "count": 11,
-          "reach": 12,
+          "count": 12,
+          "reach": 14,
           "is_other": false
         },
         {
@@ -665,15 +672,15 @@
         },
         {
           "source": "Other",
-          "count": 186,
-          "reach": 564,
+          "count": 189,
+          "reach": 570,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 163
+          "count": 166
         },
         {
           "source_type": "social network",
@@ -685,7 +692,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 97
+          "count": 99
         }
       ],
       "negative_stories": [
@@ -719,8 +726,8 @@
           "positive": 8,
           "neutral": 12,
           "negative": 5,
-          "unknown": 13,
-          "total": 38
+          "unknown": 14,
+          "total": 39
         },
         {
           "row_label": "Yuen Yuen Ang",
@@ -739,8 +746,8 @@
           "positive": 1,
           "neutral": 8,
           "negative": 1,
-          "unknown": 12,
-          "total": 22
+          "unknown": 13,
+          "total": 23
         },
         {
           "row_label": "Hahrie Han",
@@ -803,6 +810,16 @@
           "total": 10
         },
         {
+          "row_label": "Henry Farrell",
+          "person_id": "henry-farrell",
+          "is_ces": true,
+          "positive": 1,
+          "neutral": 4,
+          "negative": 0,
+          "unknown": 4,
+          "total": 9
+        },
+        {
           "row_label": "David Park",
           "person_id": "david-park",
           "is_ces": false,
@@ -810,16 +827,6 @@
           "neutral": 5,
           "negative": 0,
           "unknown": 2,
-          "total": 8
-        },
-        {
-          "row_label": "Henry Farrell",
-          "person_id": "henry-farrell",
-          "is_ces": true,
-          "positive": 1,
-          "neutral": 4,
-          "negative": 0,
-          "unknown": 3,
           "total": 8
         },
         {
@@ -883,6 +890,16 @@
           "total": 6
         },
         {
+          "row_label": "Christopher Krupenye",
+          "person_id": "christopher-krupenye",
+          "is_ces": false,
+          "positive": 1,
+          "neutral": 2,
+          "negative": 0,
+          "unknown": 0,
+          "total": 3
+        },
+        {
           "row_label": "Eliot Cohen",
           "person_id": "eliot-cohen",
           "is_ces": false,
@@ -940,16 +957,6 @@
           "neutral": 0,
           "negative": 0,
           "unknown": 1,
-          "total": 2
-        },
-        {
-          "row_label": "Christopher Krupenye",
-          "person_id": "christopher-krupenye",
-          "is_ces": false,
-          "positive": 1,
-          "neutral": 1,
-          "negative": 0,
-          "unknown": 0,
           "total": 2
         },
         {
@@ -1173,6 +1180,16 @@
           "total": 1
         },
         {
+          "row_label": "Jeanne-Marie Jackson",
+          "person_id": "jeanne-marie-jackson",
+          "is_ces": true,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
           "row_label": "Jeremy Wallace (namesake, fisheries policy officer)",
           "person_id": "jeremy-wallace-namesake-fisheries-policy-officer",
           "is_ces": false,
@@ -1257,10 +1274,10 @@
         {
           "row_label": "online news",
           "positive": 25,
-          "neutral": 81,
+          "neutral": 82,
           "negative": 2,
-          "unknown": 55,
-          "total": 163
+          "unknown": 57,
+          "total": 166
         },
         {
           "row_label": "social network",
@@ -1283,8 +1300,8 @@
           "positive": 20,
           "neutral": 11,
           "negative": 8,
-          "unknown": 58,
-          "total": 97
+          "unknown": 60,
+          "total": 99
         }
       ],
       "sentiment_examples": {
@@ -2214,12 +2231,12 @@
     },
     "ces": {
       "totals": {
-        "mentions": 59,
-        "in_digest": 39,
-        "reach_proxy": 95,
-        "people_covered": 9,
+        "mentions": 61,
+        "in_digest": 41,
+        "reach_proxy": 97,
+        "people_covered": 10,
         "people_tracked": 17,
-        "sources": 34,
+        "sources": 35,
         "negative": 0
       },
       "deltas": {
@@ -2618,6 +2635,13 @@
         },
         {
           "date": "2026-08-24",
+          "count": 2,
+          "reach": 2,
+          "in_digest": 2,
+          "observed": true
+        },
+        {
+          "date": "2026-08-25",
           "count": 0,
           "reach": 0,
           "in_digest": 0,
@@ -2731,15 +2755,15 @@
         },
         {
           "week_start": "2026-08-24",
-          "count": 0,
-          "reach": 0,
-          "in_digest": 0,
-          "people": 0,
+          "count": 2,
+          "reach": 2,
+          "in_digest": 2,
+          "people": 2,
           "sentiment": {
             "positive": 0,
             "neutral": 0,
             "negative": 0,
-            "unknown": 0
+            "unknown": 2
           }
         }
       ],
@@ -2747,7 +2771,7 @@
         "positive": 12,
         "neutral": 22,
         "negative": 0,
-        "unknown": 25
+        "unknown": 27
       },
       "top_people": [
         {
@@ -2767,8 +2791,8 @@
         {
           "person_id": "henry-farrell",
           "name": "Henry Farrell",
-          "count": 8,
-          "reach": 6,
+          "count": 9,
+          "reach": 7,
           "is_ces": true
         },
         {
@@ -2807,6 +2831,13 @@
           "is_ces": true
         },
         {
+          "person_id": "jeanne-marie-jackson",
+          "name": "Jeanne-Marie Jackson",
+          "count": 1,
+          "reach": 1,
+          "is_ces": true
+        },
+        {
           "person_id": "trevor-brown",
           "name": "Trevor Brown",
           "count": 1,
@@ -2825,6 +2856,12 @@
           "source": "YouTube",
           "count": 4,
           "reach": 4,
+          "is_other": false
+        },
+        {
+          "source": "The New York Times",
+          "count": 3,
+          "reach": 3,
           "is_other": false
         },
         {
@@ -2858,22 +2895,16 @@
           "is_other": false
         },
         {
-          "source": "The New York Times",
-          "count": 2,
-          "reach": 2,
-          "is_other": false
-        },
-        {
           "source": "Other",
-          "count": 27,
-          "reach": 48,
+          "count": 28,
+          "reach": 49,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 32
+          "count": 33
         },
         {
           "source_type": "social network",
@@ -2885,7 +2916,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 18
+          "count": 19
         }
       ],
       "negative_stories": [],
@@ -2917,8 +2948,8 @@
           "positive": 1,
           "neutral": 4,
           "negative": 0,
-          "unknown": 3,
-          "total": 8
+          "unknown": 4,
+          "total": 9
         },
         {
           "row_label": "Steven Teles",
@@ -2971,6 +3002,16 @@
           "total": 1
         },
         {
+          "row_label": "Jeanne-Marie Jackson",
+          "person_id": "jeanne-marie-jackson",
+          "is_ces": true,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
           "row_label": "Trevor Brown",
           "person_id": "trevor-brown",
           "is_ces": true,
@@ -2987,8 +3028,8 @@
           "positive": 8,
           "neutral": 14,
           "negative": 0,
-          "unknown": 10,
-          "total": 32
+          "unknown": 11,
+          "total": 33
         },
         {
           "row_label": "social network",
@@ -3011,8 +3052,8 @@
           "positive": 2,
           "neutral": 1,
           "negative": 0,
-          "unknown": 15,
-          "total": 18
+          "unknown": 16,
+          "total": 19
         }
       ],
       "sentiment_examples": {

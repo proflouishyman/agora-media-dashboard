@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-24T09:25:21-04:00",
-  "generated_date": "2026-08-24",
+  "generated_at": "2026-08-25T09:55:37-04:00",
+  "generated_date": "2026-08-25",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-08-24",
+    "last_mention_date": "2026-08-25",
     "observed_dates": [
       "2026-07-02",
       "2026-07-03",
@@ -58,10 +58,11 @@
       "2026-08-21",
       "2026-08-22",
       "2026-08-23",
-      "2026-08-24"
+      "2026-08-24",
+      "2026-08-25"
     ],
-    "total_mentions": 342,
-    "total_raw_documents": 1187,
+    "total_mentions": 347,
+    "total_raw_documents": 1195,
     "total_tracked_people": 100,
     "total_ces_people": 17
   },
@@ -69,19 +70,19 @@
     "all": {
       "label": "SNF Agora Institute",
       "people": 100,
-      "mentions": 342
+      "mentions": 347
     },
     "ces": {
       "label": "Center on Economy and Society",
       "people": 17,
-      "mentions": 59
+      "mentions": 61
     }
   },
   "data_quality": {
-    "mentions_missing_url": 90,
+    "mentions_missing_url": 91,
     "mentions_no_text_captured": 89,
-    "mentions_sentiment_unknown": 131,
-    "mentions_shareable": 233,
+    "mentions_sentiment_unknown": 135,
+    "mentions_shareable": 237,
     "unmatched_persons": [
       {
         "person": "Denise Dresser (namesake, OpenAI)",

@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-08-24T09:25:21-04:00",
-  "count": 342,
+  "generated_at": "2026-08-25T09:55:37-04:00",
+  "count": 347,
   "stories": [
+    {
+      "id": 345,
+      "date": "2026-08-25",
+      "week_start": "2026-08-24",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Under the Volcano",
+      "has_text": true,
+      "url": "https://anneapplebaum.substack.com/p/under-the-volcano",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Under the Volcano https://anneapplebaum.substack.com/p/under-the-volcano",
+          "chars": 41
+        },
+        "bluesky": {
+          "text": "Under the Volcano https://anneapplebaum.substack.com/p/under-the-volcano",
+          "chars": 72
+        }
+      }
+    },
+    {
+      "id": 344,
+      "date": "2026-08-24",
+      "week_start": "2026-08-24",
+      "person_id": "christopher-krupenye",
+      "person": "Christopher Krupenye",
+      "is_ces": false,
+      "title": "Can chimpanzees and apes remember friends after 25 years? Johns Hopkins University study reveals surprisingly human-like social memory",
+      "has_text": true,
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/can-chimpanzees-and-apes-remember-friends-after-25-years-johns-hopkins-university-study-reveals-surprisingly-human-like-social-memory/articleshow/133474759.cms",
+      "source": "The Economic Times",
+      "source_type": "online news",
+      "similar_mention_count": 4,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Can chimpanzees and apes remember friends after 25 years? Johns Hopkins University study reveals surprisingly human-like social memory https://economictimes.indiatimes.com/news/international/global-trends/can-chimpanzees-and-apes-remember-friends-after-25-years-johns-hopkins-university-study-reveals-surprisingly-human-like-social-memory/articleshow/133474759.cms",
+          "chars": 158
+        },
+        "bluesky": {
+          "text": "Can chimpanzees and apes remember friends after 25 years? Johns Hopk… https://economictimes.indiatimes.com/news/international/global-trends/can-chimpanzees-and-apes-remember-friends-after-25-years-johns-hopkins-university-study-reveals-surprisingly-human-like-social-memory/articleshow/133474759.cms",
+          "chars": 299
+        }
+      }
+    },
     {
       "id": 342,
       "date": "2026-08-24",
@@ -24,6 +76,75 @@
         },
         "bluesky": {
           "text": "Architectural Technician Services (CAD) https://www.find-tender.service.gov.uk/Notice/080169-2026?origin=SearchResults&p=1",
+          "chars": 122
+        }
+      }
+    },
+    {
+      "id": 348,
+      "date": "2026-08-24",
+      "week_start": "2026-08-24",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 347,
+      "date": "2026-08-24",
+      "week_start": "2026-08-24",
+      "person_id": "jeanne-marie-jackson",
+      "person": "Jeanne-Marie Jackson",
+      "is_ces": true,
+      "title": "The Hopkins Review 19.3, Summer 2026 (new issue announcement)",
+      "has_text": true,
+      "url": "https://mastodon.social/@HopkinsPress/117151911543722362",
+      "source": "Forums",
+      "source_type": "forum",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "The Hopkins Review 19.3, Summer 2026 (new issue announcement) https://mastodon.social/@HopkinsPress/117151911543722362",
+          "chars": 85
+        },
+        "bluesky": {
+          "text": "The Hopkins Review 19.3, Summer 2026 (new issue announcement) https://mastodon.social/@HopkinsPress/117151911543722362",
+          "chars": 118
+        }
+      }
+    },
+    {
+      "id": 346,
+      "date": "2026-08-24",
+      "week_start": "2026-08-24",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Twitter Broke the Left. X Will Break the Right.",
+      "has_text": true,
+      "url": "https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
+      "source": "The New York Times",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Twitter Broke the Left. X Will Break the Right. https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
+          "chars": 71
+        },
+        "bluesky": {
+          "text": "Twitter Broke the Left. X Will Break the Right. https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
           "chars": 122
         }
       }
