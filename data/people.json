@@ -549,16 +549,16 @@
       "Affiliated Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 19,
+    "mentions_total": 20,
     "mentions_in_digest": 7,
-    "reach_proxy": 38,
+    "reach_proxy": 39,
     "first_mention_date": "2026-07-03",
-    "last_mention_date": "2026-08-21",
+    "last_mention_date": "2026-08-25",
     "sentiment": {
       "positive": 5,
       "neutral": 10,
       "negative": 1,
-      "unknown": 3
+      "unknown": 4
     },
     "top_sources": [
       {
@@ -640,8 +640,8 @@
       },
       {
         "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -970,6 +970,114 @@
     ]
   },
   {
+    "id": "henry-farrell",
+    "name": "Henry Farrell",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Institute Professor of International Affairs at SAIS",
+    "profile_url": "https://snfagora.jhu.edu/directory/henry-farrell/",
+    "photo_url": null,
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": true,
+    "mentions_total": 10,
+    "mentions_in_digest": 9,
+    "reach_proxy": 8,
+    "first_mention_date": "2026-07-04",
+    "last_mention_date": "2026-08-26",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0,
+      "unknown": 5
+    },
+    "top_sources": [
+      {
+        "source": "The New York Times",
+        "count": 3
+      },
+      {
+        "source": "Agenda Pública",
+        "count": 1
+      },
+      {
+        "source": "Amit's Musings",
+        "count": 1
+      },
+      {
+        "source": "Amit's Musings (blog)",
+        "count": 1
+      },
+      {
+        "source": "Baltimore Fishbowl",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 3,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 1,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 2,
+        "reach": 2
+      }
+    ]
+  },
+  {
     "id": "ruth-braunstein",
     "name": "Ruth Braunstein",
     "kind": "faculty",
@@ -1074,114 +1182,6 @@
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "henry-farrell",
-    "name": "Henry Farrell",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Institute Professor of International Affairs at SAIS",
-    "profile_url": "https://snfagora.jhu.edu/directory/henry-farrell/",
-    "photo_url": null,
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": true,
-    "mentions_total": 9,
-    "mentions_in_digest": 8,
-    "reach_proxy": 7,
-    "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-08-24",
-    "sentiment": {
-      "positive": 1,
-      "neutral": 4,
-      "negative": 0,
-      "unknown": 4
-    },
-    "top_sources": [
-      {
-        "source": "The New York Times",
-        "count": 3
-      },
-      {
-        "source": "Agenda Pública",
-        "count": 1
-      },
-      {
-        "source": "Amit's Musings",
-        "count": 1
-      },
-      {
-        "source": "Amit's Musings (blog)",
-        "count": 1
-      },
-      {
-        "source": "Baltimore Fishbowl",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-08",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 3,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 1,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 1,
-        "reach": 1
       }
     ]
   },
@@ -1928,6 +1928,106 @@
     ]
   },
   {
+    "id": "peter-pomerantsev",
+    "name": "Peter Pomerantsev",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Senior Fellow",
+    "profile_url": "https://snfagora.jhu.edu/directory/peter-pomerantsev/",
+    "photo_url": "images/people/peter-pomerantsev.jpg",
+    "categories": [
+      "Continuing Faculty + Fellows"
+    ],
+    "is_ces": false,
+    "mentions_total": 5,
+    "mentions_in_digest": 2,
+    "reach_proxy": 21,
+    "first_mention_date": "2026-08-12",
+    "last_mention_date": "2026-08-25",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 5
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 3
+      },
+      {
+        "source": "Adevarul.ro",
+        "count": 1
+      },
+      {
+        "source": "Twreporter",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 3,
+        "reach": 19
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 2,
+        "reach": 2
+      }
+    ]
+  },
+  {
     "id": "christopher-krupenye",
     "name": "Christopher Krupenye",
     "kind": "faculty",
@@ -1939,18 +2039,22 @@
       "Affiliated Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 3,
-    "mentions_in_digest": 3,
-    "reach_proxy": 10,
+    "mentions_total": 4,
+    "mentions_in_digest": 4,
+    "reach_proxy": 11,
     "first_mention_date": "2026-07-12",
-    "last_mention_date": "2026-08-24",
+    "last_mention_date": "2026-08-25",
     "sentiment": {
       "positive": 1,
       "neutral": 2,
       "negative": 0,
-      "unknown": 0
+      "unknown": 1
     },
     "top_sources": [
+      {
+        "source": "Gizmodo Brasil",
+        "count": 1
+      },
       {
         "source": "La Republica (Peru)",
         "count": 1
@@ -2022,8 +2126,8 @@
       },
       {
         "week_start": "2026-08-24",
-        "count": 1,
-        "reach": 4
+        "count": 2,
+        "reach": 5
       }
     ]
   },
@@ -2117,102 +2221,6 @@
         "week_start": "2026-08-17",
         "count": 1,
         "reach": 1
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "peter-pomerantsev",
-    "name": "Peter Pomerantsev",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Senior Fellow",
-    "profile_url": "https://snfagora.jhu.edu/directory/peter-pomerantsev/",
-    "photo_url": "images/people/peter-pomerantsev.jpg",
-    "categories": [
-      "Continuing Faculty + Fellows"
-    ],
-    "is_ces": false,
-    "mentions_total": 3,
-    "mentions_in_digest": 1,
-    "reach_proxy": 19,
-    "first_mention_date": "2026-08-12",
-    "last_mention_date": "2026-08-14",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 3
-    },
-    "top_sources": [
-      {
-        "source": "Twitter",
-        "count": 2
-      },
-      {
-        "source": "Twreporter",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-08",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 3,
-        "reach": 19
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
       },
       {
         "week_start": "2026-08-24",
@@ -3902,6 +3910,96 @@
     ]
   },
   {
+    "id": "denise-dresser-namesake-openai-cro-not-snf-agora-s",
+    "name": "Denise Dresser (namesake — OpenAI CRO, not SNF Agora's)",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 5,
+    "first_mention_date": "2026-08-25",
+    "last_mention_date": "2026-08-25",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Olhar Digital",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 1,
+        "reach": 5
+      }
+    ]
+  },
+  {
     "id": "denise-dresser-namesake-no-agora-relevance",
     "name": "Denise Dresser (namesake, no Agora relevance)",
     "kind": "unmatched",
@@ -5454,6 +5552,96 @@
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "unknown-snf-agora-institute-mention-no-text",
+    "name": "unknown (SNF Agora Institute mention, no text)",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-08-26",
+    "last_mention_date": "2026-08-26",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 1,
+        "reach": 1
       }
     ]
   },

@@ -1,7 +1,76 @@
 {
-  "generated_at": "2026-08-25T09:55:37-04:00",
-  "count": 347,
+  "generated_at": "2026-08-26T09:56:18-04:00",
+  "count": 354,
   "stories": [
+    {
+      "id": 352,
+      "date": "2026-08-26",
+      "week_start": "2026-08-24",
+      "person_id": "unknown-snf-agora-institute-mention-no-text",
+      "person": "unknown (SNF Agora Institute mention, no text)",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 351,
+      "date": "2026-08-26",
+      "week_start": "2026-08-24",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Start Up No.2727: US tech blames China on datacentres, Yahoo tries yet again, the pain of login, Vision Pro jobs cut, and more",
+      "has_text": true,
+      "url": "https://theoverspill.blog/2026/08/26/ai-china-data-centres-opinion-start-up-2727/",
+      "source": "theoverspill.blog",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Start Up No.2727: US tech blames China on datacentres, Yahoo tries yet again, the pain of login, Vision Pro jobs cut, and more https://theoverspill.blog/2026/08/26/ai-china-data-centres-opinion-start-up-2727/",
+          "chars": 150
+        },
+        "bluesky": {
+          "text": "Start Up No.2727: US tech blames China on datacentres, Yahoo tries yet again, the pain of login, Vision Pro jobs cut, and more https://theoverspill.blog/2026/08/26/ai-china-data-centres-opinion-start-up-2727/",
+          "chars": 208
+        }
+      }
+    },
+    {
+      "id": 355,
+      "date": "2026-08-25",
+      "week_start": "2026-08-24",
+      "person_id": "denise-dresser-namesake-openai-cro-not-snf-agora-s",
+      "person": "Denise Dresser (namesake — OpenAI CRO, not SNF Agora's)",
+      "is_ces": false,
+      "title": "OpenAI perde mais um executivo",
+      "has_text": true,
+      "url": "https://olhardigital.com.br/2026/08/25/pro/openai-perde-mais-um-executivo/",
+      "source": "Olhar Digital",
+      "source_type": "online news",
+      "similar_mention_count": 5,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "OpenAI perde mais um executivo https://olhardigital.com.br/2026/08/25/pro/openai-perde-mais-um-executivo/",
+          "chars": 54
+        },
+        "bluesky": {
+          "text": "OpenAI perde mais um executivo https://olhardigital.com.br/2026/08/25/pro/openai-perde-mais-um-executivo/",
+          "chars": 105
+        }
+      }
+    },
     {
       "id": 345,
       "date": "2026-08-25",
@@ -25,6 +94,101 @@
         "bluesky": {
           "text": "Under the Volcano https://anneapplebaum.substack.com/p/under-the-volcano",
           "chars": 72
+        }
+      }
+    },
+    {
+      "id": 354,
+      "date": "2026-08-25",
+      "week_start": "2026-08-24",
+      "person_id": "peter-pomerantsev",
+      "person": "Peter Pomerantsev",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 353,
+      "date": "2026-08-25",
+      "week_start": "2026-08-24",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "https://www.reddit.com/r/Christianity/comments/1vy9o0f/comment/p5v9n6v/",
+      "source": "reddit.com/r/Christianity",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " https://www.reddit.com/r/Christianity/comments/1vy9o0f/comment/p5v9n6v/",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://www.reddit.com/r/Christianity/comments/1vy9o0f/comment/p5v9n6v/",
+          "chars": 72
+        }
+      }
+    },
+    {
+      "id": 350,
+      "date": "2026-08-25",
+      "week_start": "2026-08-24",
+      "person_id": "christopher-krupenye",
+      "person": "Christopher Krupenye",
+      "is_ces": false,
+      "title": "Chimpanzés e bonobos conseguem reconhecer companheiros após mais de 20 anos separados",
+      "has_text": true,
+      "url": "https://www.gizmodo.com.br/chimpanzes-e-bonobos-conseguem-reconhecer-companheiros-apos-mais-de-20-anos-separados-65278",
+      "source": "Gizmodo Brasil",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Chimpanzés e bonobos conseguem reconhecer companheiros após mais de 20 anos separados https://www.gizmodo.com.br/chimpanzes-e-bonobos-conseguem-reconhecer-companheiros-apos-mais-de-20-anos-separados-65278",
+          "chars": 109
+        },
+        "bluesky": {
+          "text": "Chimpanzés e bonobos conseguem reconhecer companheiros após mais de 20 anos separados https://www.gizmodo.com.br/chimpanzes-e-bonobos-conseguem-reconhecer-companheiros-apos-mais-de-20-anos-separados-65278",
+          "chars": 204
+        }
+      }
+    },
+    {
+      "id": 349,
+      "date": "2026-08-25",
+      "week_start": "2026-08-24",
+      "person_id": "peter-pomerantsev",
+      "person": "Peter Pomerantsev",
+      "is_ces": false,
+      "title": "Interviu Rețelele sociale ne întorc în haosul informațional de acum 100 de ani. Expert: „Avem nevoie de disciplină emoțională”",
+      "has_text": true,
+      "url": "https://adevarul.ro/stiri-interne/evenimente/retelele-sociale-ne-intorc-in-haosul-informational-2551373.html",
+      "source": "Adevarul.ro",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Interviu Rețelele sociale ne întorc în haosul informațional de acum 100 de ani. Expert: „Avem nevoie de disciplină emoțională” https://adevarul.ro/stiri-interne/evenimente/retelele-sociale-ne-intorc-in-haosul-informational-2551373.html",
+          "chars": 150
+        },
+        "bluesky": {
+          "text": "Interviu Rețelele sociale ne întorc în haosul informațional de acum 100 de ani. Expert: „Avem nevoie de disciplină emoțională” https://adevarul.ro/stiri-interne/evenimente/retelele-sociale-ne-intorc-in-haosul-informational-2551373.html",
+          "chars": 235
         }
       }
     },
