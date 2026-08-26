@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-25T09:55:37-04:00",
-  "generated_date": "2026-08-25",
+  "generated_at": "2026-08-26T09:56:18-04:00",
+  "generated_date": "2026-08-26",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-08-25",
+    "last_mention_date": "2026-08-26",
     "observed_dates": [
       "2026-07-02",
       "2026-07-03",
@@ -59,10 +59,11 @@
       "2026-08-22",
       "2026-08-23",
       "2026-08-24",
-      "2026-08-25"
+      "2026-08-25",
+      "2026-08-26"
     ],
-    "total_mentions": 347,
-    "total_raw_documents": 1195,
+    "total_mentions": 354,
+    "total_raw_documents": 1206,
     "total_tracked_people": 100,
     "total_ces_people": 17
   },
@@ -70,19 +71,19 @@
     "all": {
       "label": "SNF Agora Institute",
       "people": 100,
-      "mentions": 347
+      "mentions": 354
     },
     "ces": {
       "label": "Center on Economy and Society",
       "people": 17,
-      "mentions": 61
+      "mentions": 62
     }
   },
   "data_quality": {
-    "mentions_missing_url": 91,
+    "mentions_missing_url": 93,
     "mentions_no_text_captured": 89,
-    "mentions_sentiment_unknown": 135,
-    "mentions_shareable": 237,
+    "mentions_sentiment_unknown": 142,
+    "mentions_shareable": 242,
     "unmatched_persons": [
       {
         "person": "Denise Dresser (namesake, OpenAI)",
@@ -117,6 +118,10 @@
         "mentions": 1
       },
       {
+        "person": "Denise Dresser (namesake — OpenAI CRO, not SNF Agora's)",
+        "mentions": 1
+      },
+      {
         "person": "Denise Dresser (namesake, no Agora relevance)",
         "mentions": 1
       },
@@ -130,6 +135,10 @@
       },
       {
         "person": "Leah Wright Rigueur",
+        "mentions": 1
+      },
+      {
+        "person": "unknown (SNF Agora Institute mention, no text)",
         "mentions": 1
       }
     ]

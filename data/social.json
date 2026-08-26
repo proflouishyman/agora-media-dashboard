@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-25T09:55:37-04:00",
-  "count": 37,
+  "generated_at": "2026-08-26T09:56:18-04:00",
+  "count": 38,
   "picks": [
+    {
+      "id": 53,
+      "mention_id": 349,
+      "digest_date": "2026-08-25",
+      "person": "Peter Pomerantsev",
+      "person_id": "peter-pomerantsev",
+      "person_ids": [
+        "peter-pomerantsev"
+      ],
+      "is_ces": false,
+      "punchy_title": "Social media didn't invent chaos — it just gave it Wi-Fi",
+      "headline": "Social media didn't invent chaos — it just gave it Wi-Fi",
+      "pull_quote": "Pomerantsev este senior fellow (cercetător principal) la SNF Agora Institute din cadrul Johns Hopkins University, unde co-coordonează",
+      "rationale": "Pomerantsev este senior fellow (cercetător principal) la SNF Agora Institute din cadrul Johns Hopkins University, unde co-coordonează",
+      "url": "https://adevarul.ro/stiri-interne/evenimente/retelele-sociale-ne-intorc-in-haosul-informational-2551373.html",
+      "story_url": "https://adevarul.ro/stiri-interne/evenimente/retelele-sociale-ne-intorc-in-haosul-informational-2551373.html",
+      "created_at": "2026-08-26 13:56:12",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Peter Pomerantsev (SNF Agora Institute) on why social media feels like the chaos of 100 years ago — and why the fix is emotional discipline, not just fact-checking. https://adevarul.ro/stiri-interne/evenimente/retelele-sociale-ne-intorc-in-haosul-informational-2551373.html",
+          "chars": 273,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Peter%20Pomerantsev%20%28SNF%20Agora%20Institute%29%20on%20why%20social%20media%20feels%20like%20the%20chaos%20of%20100%20years%20ago%20%E2%80%94%20and%20why%20the%20fix%20is%20emotional%20discipline%2C%20not%20just%20fact-checking.%20https%3A//adevarul.ro/stiri-interne/evenimente/retelele-sociale-ne-intorc-in-haosul-informational-2551373.html"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Peter Pomerantsev (SNF Agora Institute) on why social media feels like the chaos of 100 years ago — and why the fix is emotional discipline, not just fact-checking. https://adevarul.ro/stiri-interne/evenimente/retelele-sociale-ne-intorc-in-haosul-informational-2551373.html",
+          "chars": 273,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Peter%20Pomerantsev%20%28SNF%20Agora%20Institute%29%20on%20why%20social%20media%20feels%20like%20the%20chaos%20of%20100%20years%20ago%20%E2%80%94%20and%20why%20the%20fix%20is%20emotional%20discipline%2C%20not%20just%20fact-checking.%20https%3A//adevarul.ro/stiri-interne/evenimente/retelele-sociale-ne-intorc-in-haosul-informational-2551373.html"
+        }
+      ]
+    },
     {
       "id": 52,
       "mention_id": 340,
