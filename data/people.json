@@ -9,14 +9,14 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 60,
-    "mentions_in_digest": 22,
-    "reach_proxy": 130,
+    "mentions_total": 61,
+    "mentions_in_digest": 23,
+    "reach_proxy": 131,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-08-22",
+    "last_mention_date": "2026-08-27",
     "sentiment": {
       "positive": 18,
-      "neutral": 21,
+      "neutral": 22,
       "negative": 3,
       "unknown": 18
     },
@@ -27,7 +27,7 @@
       },
       {
         "source": "LinkedIn",
-        "count": 8
+        "count": 9
       },
       {
         "source": "Bluesky",
@@ -100,8 +100,8 @@
       },
       {
         "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -117,16 +117,16 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 39,
+    "mentions_total": 40,
     "mentions_in_digest": 22,
-    "reach_proxy": 280,
+    "reach_proxy": 281,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-08-25",
+    "last_mention_date": "2026-08-26",
     "sentiment": {
       "positive": 8,
       "neutral": 12,
       "negative": 5,
-      "unknown": 14
+      "unknown": 15
     },
     "top_sources": [
       {
@@ -208,8 +208,8 @@
       },
       {
         "week_start": "2026-08-24",
-        "count": 1,
-        "reach": 2
+        "count": 2,
+        "reach": 3
       }
     ]
   },
@@ -430,6 +430,114 @@
     ]
   },
   {
+    "id": "sean-carroll",
+    "name": "Sean Carroll",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Homewood Professor of Natural Philosophy at Johns Hopkins University",
+    "profile_url": "https://snfagora.jhu.edu/directory/sean-carroll/",
+    "photo_url": "images/people/sean-carroll.jpeg",
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 21,
+    "mentions_in_digest": 8,
+    "reach_proxy": 42,
+    "first_mention_date": "2026-07-03",
+    "last_mention_date": "2026-08-27",
+    "sentiment": {
+      "positive": 5,
+      "neutral": 10,
+      "negative": 1,
+      "unknown": 5
+    },
+    "top_sources": [
+      {
+        "source": "Youtube",
+        "count": 4
+      },
+      {
+        "source": "YouTube",
+        "count": 3
+      },
+      {
+        "source": "Bluesky",
+        "count": 2
+      },
+      {
+        "source": "Twitter",
+        "count": 2
+      },
+      {
+        "source": "Medium",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 2,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 5,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 4,
+        "reach": 29
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 5,
+        "reach": 6
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 2,
+        "reach": 4
+      }
+    ]
+  },
+  {
     "id": "hahrie-han",
     "name": "Hahrie Han",
     "kind": "faculty",
@@ -534,114 +642,6 @@
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "sean-carroll",
-    "name": "Sean Carroll",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Homewood Professor of Natural Philosophy at Johns Hopkins University",
-    "profile_url": "https://snfagora.jhu.edu/directory/sean-carroll/",
-    "photo_url": "images/people/sean-carroll.jpeg",
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 20,
-    "mentions_in_digest": 7,
-    "reach_proxy": 39,
-    "first_mention_date": "2026-07-03",
-    "last_mention_date": "2026-08-25",
-    "sentiment": {
-      "positive": 5,
-      "neutral": 10,
-      "negative": 1,
-      "unknown": 4
-    },
-    "top_sources": [
-      {
-        "source": "Youtube",
-        "count": 4
-      },
-      {
-        "source": "YouTube",
-        "count": 3
-      },
-      {
-        "source": "Bluesky",
-        "count": 2
-      },
-      {
-        "source": "Twitter",
-        "count": 2
-      },
-      {
-        "source": "Medium",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-08",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 2,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 5,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 4,
-        "reach": 29
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 5,
-        "reach": 6
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 1,
-        "reach": 1
       }
     ]
   },
@@ -765,16 +765,16 @@
       "Affiliated Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 12,
+    "mentions_total": 13,
     "mentions_in_digest": 0,
-    "reach_proxy": 18,
+    "reach_proxy": 20,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-08-24",
+    "last_mention_date": "2026-08-26",
     "sentiment": {
       "positive": 0,
       "neutral": 2,
       "negative": 0,
-      "unknown": 10
+      "unknown": 11
     },
     "top_sources": [
       {
@@ -786,15 +786,15 @@
         "count": 1
       },
       {
+        "source": "Brasil em Folhas",
+        "count": 1
+      },
+      {
         "source": "Head Topics",
         "count": 1
       },
       {
         "source": "Invest News",
-        "count": 1
-      },
-      {
-        "source": "Mix Vale",
         "count": 1
       }
     ],
@@ -856,8 +856,8 @@
       },
       {
         "week_start": "2026-08-24",
-        "count": 1,
-        "reach": 0
+        "count": 2,
+        "reach": 2
       }
     ]
   },
@@ -981,14 +981,14 @@
       "Core Faculty"
     ],
     "is_ces": true,
-    "mentions_total": 10,
-    "mentions_in_digest": 9,
-    "reach_proxy": 8,
+    "mentions_total": 11,
+    "mentions_in_digest": 10,
+    "reach_proxy": 10,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-08-26",
+    "last_mention_date": "2026-08-27",
     "sentiment": {
       "positive": 1,
-      "neutral": 4,
+      "neutral": 5,
       "negative": 0,
       "unknown": 5
     },
@@ -1072,8 +1072,8 @@
       },
       {
         "week_start": "2026-08-24",
-        "count": 2,
-        "reach": 2
+        "count": 3,
+        "reach": 4
       }
     ]
   },
@@ -1928,6 +1928,114 @@
     ]
   },
   {
+    "id": "christopher-krupenye",
+    "name": "Christopher Krupenye",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Assistant Professor of Psychological & Brain Sciences at Johns Hopkins University",
+    "profile_url": "https://snfagora.jhu.edu/directory/christopher-krupenye/",
+    "photo_url": "images/people/christopher-krupenye.jpg",
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 5,
+    "mentions_in_digest": 5,
+    "reach_proxy": 12,
+    "first_mention_date": "2026-07-12",
+    "last_mention_date": "2026-08-26",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0,
+      "unknown": 2
+    },
+    "top_sources": [
+      {
+        "source": "Gizmodo Brasil",
+        "count": 1
+      },
+      {
+        "source": "La Republica (Peru)",
+        "count": 1
+      },
+      {
+        "source": "Space Daily",
+        "count": 1
+      },
+      {
+        "source": "The Economic Times",
+        "count": 1
+      },
+      {
+        "source": "The Times of India",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 1,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 1,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 3,
+        "reach": 6
+      }
+    ]
+  },
+  {
     "id": "peter-pomerantsev",
     "name": "Peter Pomerantsev",
     "kind": "faculty",
@@ -2024,110 +2132,6 @@
         "week_start": "2026-08-24",
         "count": 2,
         "reach": 2
-      }
-    ]
-  },
-  {
-    "id": "christopher-krupenye",
-    "name": "Christopher Krupenye",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Assistant Professor of Psychological & Brain Sciences at Johns Hopkins University",
-    "profile_url": "https://snfagora.jhu.edu/directory/christopher-krupenye/",
-    "photo_url": "images/people/christopher-krupenye.jpg",
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 4,
-    "mentions_in_digest": 4,
-    "reach_proxy": 11,
-    "first_mention_date": "2026-07-12",
-    "last_mention_date": "2026-08-25",
-    "sentiment": {
-      "positive": 1,
-      "neutral": 2,
-      "negative": 0,
-      "unknown": 1
-    },
-    "top_sources": [
-      {
-        "source": "Gizmodo Brasil",
-        "count": 1
-      },
-      {
-        "source": "La Republica (Peru)",
-        "count": 1
-      },
-      {
-        "source": "The Economic Times",
-        "count": 1
-      },
-      {
-        "source": "The Times of India",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-08",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 1,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 1,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 2,
-        "reach": 5
       }
     ]
   },
@@ -3274,6 +3278,100 @@
     ]
   },
   {
+    "id": "unattributed",
+    "name": "Unattributed",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 2,
+    "mentions_in_digest": 0,
+    "reach_proxy": 40,
+    "first_mention_date": "2026-08-26",
+    "last_mention_date": "2026-08-26",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 2
+    },
+    "top_sources": [
+      {
+        "source": "Bluesky",
+        "count": 1
+      },
+      {
+        "source": "Twitter",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 2,
+        "reach": 40
+      }
+    ]
+  },
+  {
     "id": "unidentified-visiting-fellow",
     "name": "(unidentified Visiting Fellow)",
     "kind": "unmatched",
@@ -3814,6 +3912,98 @@
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "benjamin-storey",
+    "name": "Benjamin Storey",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Visiting Fellow, AY25-26",
+    "profile_url": "https://snfagora.jhu.edu/directory/benjamin-storey/",
+    "photo_url": null,
+    "categories": [
+      "Visiting Fellows"
+    ],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 1,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-08-27",
+    "last_mention_date": "2026-08-27",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "The Hub - Johns Hopkins University",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -5916,93 +6106,6 @@
     "photo_url": "images/people/ben-cardin.jpg",
     "categories": [
       "Continuing Faculty + Fellows"
-    ],
-    "is_ces": false,
-    "mentions_total": 0,
-    "mentions_in_digest": 0,
-    "reach_proxy": 0,
-    "first_mention_date": null,
-    "last_mention_date": null,
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [],
-    "weekly": [
-      {
-        "week_start": "2026-06-08",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "benjamin-storey",
-    "name": "Benjamin Storey",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Visiting Fellow, AY25-26",
-    "profile_url": "https://snfagora.jhu.edu/directory/benjamin-storey/",
-    "photo_url": null,
-    "categories": [
-      "Visiting Fellows"
     ],
     "is_ces": false,
     "mentions_total": 0,
