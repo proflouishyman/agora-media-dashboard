@@ -1,7 +1,232 @@
 {
-  "generated_at": "2026-08-26T09:56:18-04:00",
-  "count": 354,
+  "generated_at": "2026-08-27T15:28:13-04:00",
+  "count": 363,
   "stories": [
+    {
+      "id": 357,
+      "date": "2026-08-27",
+      "week_start": "2026-08-24",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": "How Scientific Is the Science-Fiction of 'Dark Matter'?",
+      "has_text": true,
+      "url": "https://www.nytimes.com/2026/08/27/arts/television/dark-matter-science-quantum-mechanics.html",
+      "source": "The New York Times",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "How Scientific Is the Science-Fiction of 'Dark Matter'? https://www.nytimes.com/2026/08/27/arts/television/dark-matter-science-quantum-mechanics.html",
+          "chars": 79
+        },
+        "bluesky": {
+          "text": "How Scientific Is the Science-Fiction of 'Dark Matter'? https://www.nytimes.com/2026/08/27/arts/television/dark-matter-science-quantum-mechanics.html",
+          "chars": 149
+        }
+      }
+    },
+    {
+      "id": 358,
+      "date": "2026-08-27",
+      "week_start": "2026-08-24",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Sfuggire alla Silicon valley con Philip K. Dick",
+      "has_text": true,
+      "url": "https://www.internazionale.it/magazine/henry-farrell/2026/08/27/sfuggire-alla-silicon-valley-con-philip-k-dick",
+      "source": "Internazionale",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Sfuggire alla Silicon valley con Philip K. Dick https://www.internazionale.it/magazine/henry-farrell/2026/08/27/sfuggire-alla-silicon-valley-con-philip-k-dick",
+          "chars": 71
+        },
+        "bluesky": {
+          "text": "Sfuggire alla Silicon valley con Philip K. Dick https://www.internazionale.it/magazine/henry-farrell/2026/08/27/sfuggire-alla-silicon-valley-con-philip-k-dick",
+          "chars": 158
+        }
+      }
+    },
+    {
+      "id": 361,
+      "date": "2026-08-27",
+      "week_start": "2026-08-24",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Democracy Day for the incoming Johns Hopkins class",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7498819378113658880",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Democracy Day for the incoming Johns Hopkins class https://www.linkedin.com/feed/update/urn:li:ugcPost:7498819378113658880",
+          "chars": 74
+        },
+        "bluesky": {
+          "text": "Democracy Day for the incoming Johns Hopkins class https://www.linkedin.com/feed/update/urn:li:ugcPost:7498819378113658880",
+          "chars": 122
+        }
+      }
+    },
+    {
+      "id": 359,
+      "date": "2026-08-27",
+      "week_start": "2026-08-24",
+      "person_id": "benjamin-storey",
+      "person": "Benjamin Storey",
+      "is_ces": false,
+      "title": "Johns Hopkins, AEI extend fellowship exchange program into second year",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/2026/08/27/jhu-aei-fellowship-exchange-program-renewal/",
+      "source": "The Hub - Johns Hopkins University",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Johns Hopkins, AEI extend fellowship exchange program into second year https://hub.jhu.edu/2026/08/27/jhu-aei-fellowship-exchange-program-renewal/",
+          "chars": 94
+        },
+        "bluesky": {
+          "text": "Johns Hopkins, AEI extend fellowship exchange program into second year https://hub.jhu.edu/2026/08/27/jhu-aei-fellowship-exchange-program-renewal/",
+          "chars": 146
+        }
+      }
+    },
+    {
+      "id": 365,
+      "date": "2026-08-26",
+      "week_start": "2026-08-24",
+      "person_id": "unattributed",
+      "person": "Unattributed",
+      "is_ces": false,
+      "title": "Twitter/X keyword cluster on academic freedom / viewpoint diversity — no captured text",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 39,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 362,
+      "date": "2026-08-26",
+      "week_start": "2026-08-24",
+      "person_id": "denise-dresser",
+      "person": "Denise Dresser",
+      "is_ces": false,
+      "title": "OpenAI pausa treinamento de novo modelo após falhas de segurança (namesake: OpenAI revenue exec)",
+      "has_text": true,
+      "url": "https://www.brasilemfolhas.com.br/2026/08/openai-pausa-treinamento-de-novo-modelo-apos-falhas-de-seguranca/",
+      "source": "Brasil em Folhas",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "OpenAI pausa treinamento de novo modelo após falhas de segurança (namesake: OpenAI revenue exec) https://www.brasilemfolhas.com.br/2026/08/openai-pausa-treinamento-de-novo-modelo-apos-falhas-de-seguranca/",
+          "chars": 120
+        },
+        "bluesky": {
+          "text": "OpenAI pausa treinamento de novo modelo após falhas de segurança (namesake: OpenAI revenue exec) https://www.brasilemfolhas.com.br/2026/08/openai-pausa-treinamento-de-novo-modelo-apos-falhas-de-seguranca/",
+          "chars": 204
+        }
+      }
+    },
+    {
+      "id": 364,
+      "date": "2026-08-26",
+      "week_start": "2026-08-24",
+      "person_id": "unattributed",
+      "person": "Unattributed",
+      "is_ces": false,
+      "title": "Bluesky reply re: Johns Hopkins and viewpoint diversity (no tracked person named)",
+      "has_text": true,
+      "url": "https://bsky.app/profile/mjrp.bsky.social/post/3mtz2kg4mt22y",
+      "source": "Bluesky",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Bluesky reply re: Johns Hopkins and viewpoint diversity (no tracked person named) https://bsky.app/profile/mjrp.bsky.social/post/3mtz2kg4mt22y",
+          "chars": 105
+        },
+        "bluesky": {
+          "text": "Bluesky reply re: Johns Hopkins and viewpoint diversity (no tracked person named) https://bsky.app/profile/mjrp.bsky.social/post/3mtz2kg4mt22y",
+          "chars": 142
+        }
+      }
+    },
+    {
+      "id": 363,
+      "date": "2026-08-26",
+      "week_start": "2026-08-24",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Large Number of Faculty at Elite U.S. Universities Linked to the National Endowment for Democracy",
+      "has_text": true,
+      "url": "https://covertactionmagazine.com/2026/08/26/large-number-of-faculty-at-elite-u-s-universities-linked-to-the-national-endowment-for-democracy-a-cia-cut-out-specializing-in-propaganda/",
+      "source": "CovertAction Magazine",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Large Number of Faculty at Elite U.S. Universities Linked to the National Endowment for Democracy https://covertactionmagazine.com/2026/08/26/large-number-of-faculty-at-elite-u-s-universities-linked-to-the-national-endowment-for-democracy-a-cia-cut-out-specializing-in-propaganda/",
+          "chars": 121
+        },
+        "bluesky": {
+          "text": "Large Number of Faculty at Elite U.S. Universities Linked to the National Endowment for Democracy https://covertactionmagazine.com/2026/08/26/large-number-of-faculty-at-elite-u-s-universities-linked-to-the-national-endowment-for-democracy-a-cia-cut-out-specializing-in-propaganda/",
+          "chars": 280
+        }
+      }
+    },
+    {
+      "id": 360,
+      "date": "2026-08-26",
+      "week_start": "2026-08-24",
+      "person_id": "christopher-krupenye",
+      "person": "Christopher Krupenye",
+      "is_ces": false,
+      "title": "Chimpanzees at a Ugandan sanctuary rationally changed their mind when shown contradicting evidence",
+      "has_text": true,
+      "url": "https://spacedaily.com/n-chimpanzees-at-a-ugandan-sanctuary-were-shown-evidence-that-directly-contradicted-a-choice-they-had-just-made/",
+      "source": "Space Daily",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Chimpanzees at a Ugandan sanctuary rationally changed their mind when shown contradicting evidence https://spacedaily.com/n-chimpanzees-at-a-ugandan-sanctuary-were-shown-evidence-that-directly-contradicted-a-choice-they-had-just-made/",
+          "chars": 122
+        },
+        "bluesky": {
+          "text": "Chimpanzees at a Ugandan sanctuary rationally changed their mind when shown contradicting evidence https://spacedaily.com/n-chimpanzees-at-a-ugandan-sanctuary-were-shown-evidence-that-directly-contradicted-a-choice-they-had-just-made/",
+          "chars": 234
+        }
+      }
+    },
     {
       "id": 352,
       "date": "2026-08-26",
