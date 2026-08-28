@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-27T15:28:13-04:00",
+  "generated_at": "2026-08-28T07:07:53-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-08-27"
+    "end": "2026-08-28"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 363,
-        "in_digest": 181,
-        "reach_proxy": 1438,
-        "people_covered": 60,
+        "mentions": 384,
+        "in_digest": 186,
+        "reach_proxy": 1467,
+        "people_covered": 64,
         "people_tracked": 100,
-        "sources": 163,
+        "sources": 172,
         "negative": 11
       },
       "deltas": {
@@ -425,16 +425,23 @@
         },
         {
           "date": "2026-08-26",
-          "count": 7,
-          "reach": 46,
-          "in_digest": 2,
+          "count": 9,
+          "reach": 48,
+          "in_digest": 3,
           "observed": true
         },
         {
           "date": "2026-08-27",
-          "count": 4,
-          "reach": 7,
-          "in_digest": 4,
+          "count": 14,
+          "reach": 17,
+          "in_digest": 8,
+          "observed": true
+        },
+        {
+          "date": "2026-08-28",
+          "count": 9,
+          "reach": 17,
+          "in_digest": 0,
           "observed": true
         }
       ],
@@ -545,23 +552,23 @@
         },
         {
           "week_start": "2026-08-24",
-          "count": 23,
-          "reach": 75,
-          "in_digest": 12,
-          "people": 14,
+          "count": 44,
+          "reach": 104,
+          "in_digest": 17,
+          "people": 20,
           "sentiment": {
-            "positive": 0,
-            "neutral": 3,
+            "positive": 2,
+            "neutral": 4,
             "negative": 0,
-            "unknown": 20
+            "unknown": 38
           }
         }
       ],
       "sentiment": {
-        "positive": 72,
-        "neutral": 131,
+        "positive": 74,
+        "neutral": 132,
         "negative": 11,
-        "unknown": 149
+        "unknown": 167
       },
       "top_people": [
         {
@@ -595,15 +602,15 @@
         {
           "person_id": "sean-carroll",
           "name": "Sean Carroll",
-          "count": 21,
-          "reach": 42,
+          "count": 22,
+          "reach": 43,
           "is_ces": false
         },
         {
           "person_id": "hahrie-han",
           "name": "Hahrie Han",
-          "count": 20,
-          "reach": 356,
+          "count": 21,
+          "reach": 357,
           "is_ces": false
         },
         {
@@ -621,37 +628,37 @@
           "is_ces": false
         },
         {
+          "person_id": "henry-farrell",
+          "name": "Henry Farrell",
+          "count": 12,
+          "reach": 11,
+          "is_ces": true
+        },
+        {
           "person_id": "martha-s-jones",
           "name": "Martha S. Jones",
           "count": 12,
           "reach": 10,
           "is_ces": false
-        },
-        {
-          "person_id": "henry-farrell",
-          "name": "Henry Farrell",
-          "count": 11,
-          "reach": 10,
-          "is_ces": true
         }
       ],
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 79,
-          "reach": 284,
+          "count": 80,
+          "reach": 288,
           "is_other": false
         },
         {
           "source": "YouTube",
-          "count": 21,
-          "reach": 21,
+          "count": 24,
+          "reach": 24,
           "is_other": false
         },
         {
           "source": "LinkedIn",
-          "count": 16,
-          "reach": 13,
+          "count": 18,
+          "reach": 15,
           "is_other": false
         },
         {
@@ -686,27 +693,27 @@
         },
         {
           "source": "Other",
-          "count": 200,
-          "reach": 589,
+          "count": 215,
+          "reach": 609,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 174
+          "count": 184
         },
         {
           "source_type": "social network",
-          "count": 75
+          "count": 80
         },
         {
           "source_type": "blog",
-          "count": 11
+          "count": 14
         },
         {
           "source_type": "unresolved",
-          "count": 103
+          "count": 106
         }
       ],
       "negative_stories": [
@@ -770,18 +777,18 @@
           "positive": 5,
           "neutral": 10,
           "negative": 1,
-          "unknown": 5,
-          "total": 21
+          "unknown": 6,
+          "total": 22
         },
         {
           "row_label": "Hahrie Han",
           "person_id": "hahrie-han",
           "is_ces": false,
-          "positive": 10,
+          "positive": 11,
           "neutral": 3,
           "negative": 0,
           "unknown": 7,
-          "total": 20
+          "total": 21
         },
         {
           "row_label": "Louis Hyman",
@@ -804,6 +811,16 @@
           "total": 13
         },
         {
+          "row_label": "Henry Farrell",
+          "person_id": "henry-farrell",
+          "is_ces": true,
+          "positive": 1,
+          "neutral": 6,
+          "negative": 0,
+          "unknown": 5,
+          "total": 12
+        },
+        {
           "row_label": "Martha S. Jones",
           "person_id": "martha-s-jones",
           "is_ces": false,
@@ -814,13 +831,13 @@
           "total": 12
         },
         {
-          "row_label": "Henry Farrell",
-          "person_id": "henry-farrell",
-          "is_ces": true,
-          "positive": 1,
-          "neutral": 5,
+          "row_label": "None (keyword noise)",
+          "person_id": "none-keyword-noise",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
           "negative": 0,
-          "unknown": 5,
+          "unknown": 11,
           "total": 11
         },
         {
@@ -852,6 +869,16 @@
           "negative": 0,
           "unknown": 4,
           "total": 8
+        },
+        {
+          "row_label": "Peter Pomerantsev",
+          "person_id": "peter-pomerantsev",
+          "is_ces": false,
+          "positive": 1,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 6,
+          "total": 7
         },
         {
           "row_label": "Denise Dresser (namesake, OpenAI)",
@@ -914,16 +941,6 @@
           "total": 5
         },
         {
-          "row_label": "Peter Pomerantsev",
-          "person_id": "peter-pomerantsev",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 5,
-          "total": 5
-        },
-        {
           "row_label": "Eliot Cohen",
           "person_id": "eliot-cohen",
           "is_ces": false,
@@ -931,6 +948,16 @@
           "neutral": 0,
           "negative": 0,
           "unknown": 3,
+          "total": 3
+        },
+        {
+          "row_label": "Emily White",
+          "person_id": "emily-white",
+          "is_ces": false,
+          "positive": 1,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 2,
           "total": 3
         },
         {
@@ -1174,16 +1201,6 @@
           "total": 1
         },
         {
-          "row_label": "Emily White",
-          "person_id": "emily-white",
-          "is_ces": false,
-          "positive": 1,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 0,
-          "total": 1
-        },
-        {
           "row_label": "Felix Maradiaga",
           "person_id": "felix-maradiaga",
           "is_ces": false,
@@ -1221,6 +1238,16 @@
           "neutral": 1,
           "negative": 0,
           "unknown": 0,
+          "total": 1
+        },
+        {
+          "row_label": "James Loeffler (not tracked)",
+          "person_id": "james-loeffler-not-tracked",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
           "total": 1
         },
         {
@@ -1304,6 +1331,26 @@
           "total": 1
         },
         {
+          "row_label": "None (no captured text)",
+          "person_id": "none-no-captured-text",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Suchi Saria (not tracked)",
+          "person_id": "suchi-saria-not-tracked",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
           "row_label": "Trevor Brown",
           "person_id": "trevor-brown",
           "is_ces": true,
@@ -1330,32 +1377,32 @@
           "positive": 25,
           "neutral": 83,
           "negative": 2,
-          "unknown": 64,
-          "total": 174
+          "unknown": 74,
+          "total": 184
         },
         {
           "row_label": "social network",
-          "positive": 23,
-          "neutral": 31,
+          "positive": 25,
+          "neutral": 32,
           "negative": 1,
-          "unknown": 20,
-          "total": 75
+          "unknown": 22,
+          "total": 80
         },
         {
           "row_label": "blog",
           "positive": 4,
           "neutral": 6,
           "negative": 0,
-          "unknown": 1,
-          "total": 11
+          "unknown": 4,
+          "total": 14
         },
         {
           "row_label": "unresolved",
           "positive": 20,
           "neutral": 11,
           "negative": 8,
-          "unknown": 64,
-          "total": 103
+          "unknown": 67,
+          "total": 106
         }
       ],
       "sentiment_examples": {
@@ -1517,6 +1564,26 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 368,
+              "person": "Hahrie Han",
+              "person_id": "hahrie-han",
+              "is_ces": false,
+              "title": "What Comes After Is Not Just Healing. It's Organizing. | Women's Equality Day: Ep 3",
+              "url": "https://www.youtube.com/watch?v=ucuy05zGgvY",
+              "source": "YouTube",
+              "date": "2026-08-27"
+            },
+            {
+              "id": 366,
+              "person": "Peter Pomerantsev",
+              "person_id": "peter-pomerantsev",
+              "is_ces": false,
+              "title": "Democracy Day for all first-year students, organized by SNF Agora",
+              "url": "https://www.linkedin.com/feed/update/urn:li:share:7498899584560099328",
+              "source": "LinkedIn",
+              "date": "2026-08-27"
+            },
             {
               "id": 340,
               "person": "Christopher Krupenye",
@@ -2241,11 +2308,11 @@
           "top_keyphrases": [
             {
               "keyphrase": "organization",
-              "count": 6
+              "count": 7
             },
             {
               "keyphrase": "democracy",
-              "count": 5
+              "count": 6
             },
             {
               "keyphrase": "author",
@@ -2260,6 +2327,14 @@
               "count": 4
             },
             {
+              "keyphrase": "research",
+              "count": 3
+            },
+            {
+              "keyphrase": "person",
+              "count": 3
+            },
+            {
               "keyphrase": "consummate scholar",
               "count": 3
             },
@@ -2270,14 +2345,6 @@
             {
               "keyphrase": "campus",
               "count": 3
-            },
-            {
-              "keyphrase": "director",
-              "count": 3
-            },
-            {
-              "keyphrase": "ancient athenian agora",
-              "count": 3
             }
           ]
         }
@@ -2285,9 +2352,9 @@
     },
     "ces": {
       "totals": {
-        "mentions": 63,
-        "in_digest": 43,
-        "reach_proxy": 100,
+        "mentions": 64,
+        "in_digest": 44,
+        "reach_proxy": 101,
         "people_covered": 10,
         "people_tracked": 17,
         "sources": 37,
@@ -2710,9 +2777,16 @@
         },
         {
           "date": "2026-08-27",
-          "count": 1,
-          "reach": 2,
-          "in_digest": 1,
+          "count": 2,
+          "reach": 3,
+          "in_digest": 2,
+          "observed": true
+        },
+        {
+          "date": "2026-08-28",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
           "observed": true
         }
       ],
@@ -2823,13 +2897,13 @@
         },
         {
           "week_start": "2026-08-24",
-          "count": 4,
-          "reach": 5,
-          "in_digest": 4,
+          "count": 5,
+          "reach": 6,
+          "in_digest": 5,
           "people": 2,
           "sentiment": {
             "positive": 0,
-            "neutral": 1,
+            "neutral": 2,
             "negative": 0,
             "unknown": 3
           }
@@ -2837,7 +2911,7 @@
       ],
       "sentiment": {
         "positive": 12,
-        "neutral": 23,
+        "neutral": 24,
         "negative": 0,
         "unknown": 28
       },
@@ -2859,8 +2933,8 @@
         {
           "person_id": "henry-farrell",
           "name": "Henry Farrell",
-          "count": 11,
-          "reach": 10,
+          "count": 12,
+          "reach": 11,
           "is_ces": true
         },
         {
@@ -2922,8 +2996,8 @@
         },
         {
           "source": "YouTube",
-          "count": 4,
-          "reach": 4,
+          "count": 5,
+          "reach": 5,
           "is_other": false
         },
         {
@@ -2976,7 +3050,7 @@
         },
         {
           "source_type": "social network",
-          "count": 7
+          "count": 8
         },
         {
           "source_type": "blog",
@@ -3014,10 +3088,10 @@
           "person_id": "henry-farrell",
           "is_ces": true,
           "positive": 1,
-          "neutral": 5,
+          "neutral": 6,
           "negative": 0,
           "unknown": 5,
-          "total": 11
+          "total": 12
         },
         {
           "row_label": "Steven Teles",
@@ -3102,10 +3176,10 @@
         {
           "row_label": "social network",
           "positive": 1,
-          "neutral": 6,
+          "neutral": 7,
           "negative": 0,
           "unknown": 0,
-          "total": 7
+          "total": 8
         },
         {
           "row_label": "blog",
