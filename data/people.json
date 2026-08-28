@@ -441,16 +441,16 @@
       "Affiliated Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 21,
+    "mentions_total": 22,
     "mentions_in_digest": 8,
-    "reach_proxy": 42,
+    "reach_proxy": 43,
     "first_mention_date": "2026-07-03",
     "last_mention_date": "2026-08-27",
     "sentiment": {
       "positive": 5,
       "neutral": 10,
       "negative": 1,
-      "unknown": 5
+      "unknown": 6
     },
     "top_sources": [
       {
@@ -532,8 +532,8 @@
       },
       {
         "week_start": "2026-08-24",
-        "count": 2,
-        "reach": 4
+        "count": 3,
+        "reach": 5
       }
     ]
   },
@@ -549,13 +549,13 @@
       "Core Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 20,
-    "mentions_in_digest": 9,
-    "reach_proxy": 356,
+    "mentions_total": 21,
+    "mentions_in_digest": 10,
+    "reach_proxy": 357,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-08-19",
+    "last_mention_date": "2026-08-27",
     "sentiment": {
-      "positive": 10,
+      "positive": 11,
       "neutral": 3,
       "negative": 0,
       "unknown": 7
@@ -567,7 +567,7 @@
       },
       {
         "source": "YouTube",
-        "count": 3
+        "count": 4
       },
       {
         "source": "Twitter (x.com)",
@@ -640,8 +640,8 @@
       },
       {
         "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -862,6 +862,114 @@
     ]
   },
   {
+    "id": "henry-farrell",
+    "name": "Henry Farrell",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Institute Professor of International Affairs at SAIS",
+    "profile_url": "https://snfagora.jhu.edu/directory/henry-farrell/",
+    "photo_url": null,
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": true,
+    "mentions_total": 12,
+    "mentions_in_digest": 11,
+    "reach_proxy": 11,
+    "first_mention_date": "2026-07-04",
+    "last_mention_date": "2026-08-27",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 6,
+      "negative": 0,
+      "unknown": 5
+    },
+    "top_sources": [
+      {
+        "source": "The New York Times",
+        "count": 3
+      },
+      {
+        "source": "YouTube",
+        "count": 2
+      },
+      {
+        "source": "Agenda Pública",
+        "count": 1
+      },
+      {
+        "source": "Amit's Musings",
+        "count": 1
+      },
+      {
+        "source": "Amit's Musings (blog)",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 3,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 1,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 4,
+        "reach": 5
+      }
+    ]
+  },
+  {
     "id": "martha-s-jones",
     "name": "Martha S. Jones",
     "kind": "faculty",
@@ -970,47 +1078,45 @@
     ]
   },
   {
-    "id": "henry-farrell",
-    "name": "Henry Farrell",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Institute Professor of International Affairs at SAIS",
-    "profile_url": "https://snfagora.jhu.edu/directory/henry-farrell/",
+    "id": "none-keyword-noise",
+    "name": "None (keyword noise)",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
     "photo_url": null,
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": true,
+    "categories": [],
+    "is_ces": false,
     "mentions_total": 11,
-    "mentions_in_digest": 10,
-    "reach_proxy": 10,
-    "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-08-27",
+    "mentions_in_digest": 0,
+    "reach_proxy": 11,
+    "first_mention_date": "2026-08-27",
+    "last_mention_date": "2026-08-28",
     "sentiment": {
-      "positive": 1,
-      "neutral": 5,
+      "positive": 0,
+      "neutral": 0,
       "negative": 0,
-      "unknown": 5
+      "unknown": 11
     },
     "top_sources": [
       {
-        "source": "The New York Times",
+        "source": "Springer",
         "count": 3
       },
       {
-        "source": "Agenda Pública",
+        "source": "The Adjunct Advocate",
+        "count": 2
+      },
+      {
+        "source": "wordpress.com",
+        "count": 2
+      },
+      {
+        "source": "Change.org",
         "count": 1
       },
       {
-        "source": "Amit's Musings",
-        "count": 1
-      },
-      {
-        "source": "Amit's Musings (blog)",
-        "count": 1
-      },
-      {
-        "source": "Baltimore Fishbowl",
+        "source": "MacMagazine",
         "count": 1
       }
     ],
@@ -1032,7 +1138,7 @@
       },
       {
         "week_start": "2026-06-29",
-        "count": 1,
+        "count": 0,
         "reach": 0
       },
       {
@@ -1047,13 +1153,13 @@
       },
       {
         "week_start": "2026-07-20",
-        "count": 3,
+        "count": 0,
         "reach": 0
       },
       {
         "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 1
+        "count": 0,
+        "reach": 0
       },
       {
         "week_start": "2026-08-03",
@@ -1062,18 +1168,18 @@
       },
       {
         "week_start": "2026-08-10",
-        "count": 1,
-        "reach": 3
+        "count": 0,
+        "reach": 0
       },
       {
         "week_start": "2026-08-17",
-        "count": 2,
-        "reach": 2
+        "count": 0,
+        "reach": 0
       },
       {
         "week_start": "2026-08-24",
-        "count": 3,
-        "reach": 4
+        "count": 11,
+        "reach": 11
       }
     ]
   },
@@ -1398,6 +1504,114 @@
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "peter-pomerantsev",
+    "name": "Peter Pomerantsev",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Senior Fellow",
+    "profile_url": "https://snfagora.jhu.edu/directory/peter-pomerantsev/",
+    "photo_url": "images/people/peter-pomerantsev.jpg",
+    "categories": [
+      "Continuing Faculty + Fellows"
+    ],
+    "is_ces": false,
+    "mentions_total": 7,
+    "mentions_in_digest": 4,
+    "reach_proxy": 23,
+    "first_mention_date": "2026-08-12",
+    "last_mention_date": "2026-08-27",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 6
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 3
+      },
+      {
+        "source": "Adevarul.ro",
+        "count": 1
+      },
+      {
+        "source": "Comisarul.ro",
+        "count": 1
+      },
+      {
+        "source": "LinkedIn",
+        "count": 1
+      },
+      {
+        "source": "Twreporter",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 3,
+        "reach": 19
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 4,
+        "reach": 4
       }
     ]
   },
@@ -2036,106 +2250,6 @@
     ]
   },
   {
-    "id": "peter-pomerantsev",
-    "name": "Peter Pomerantsev",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Senior Fellow",
-    "profile_url": "https://snfagora.jhu.edu/directory/peter-pomerantsev/",
-    "photo_url": "images/people/peter-pomerantsev.jpg",
-    "categories": [
-      "Continuing Faculty + Fellows"
-    ],
-    "is_ces": false,
-    "mentions_total": 5,
-    "mentions_in_digest": 2,
-    "reach_proxy": 21,
-    "first_mention_date": "2026-08-12",
-    "last_mention_date": "2026-08-25",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 5
-    },
-    "top_sources": [
-      {
-        "source": "Twitter",
-        "count": 3
-      },
-      {
-        "source": "Adevarul.ro",
-        "count": 1
-      },
-      {
-        "source": "Twreporter",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-08",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 3,
-        "reach": 19
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 2,
-        "reach": 2
-      }
-    ]
-  },
-  {
     "id": "eliot-cohen",
     "name": "Eliot Cohen",
     "kind": "unmatched",
@@ -2230,6 +2344,106 @@
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "emily-white",
+    "name": "Emily White",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Fellow, Impact Concerts & Data",
+    "profile_url": "https://snfagora.jhu.edu/directory/emily-white/",
+    "photo_url": "images/people/emily-white.jpeg",
+    "categories": [
+      "Continuing Faculty + Fellows"
+    ],
+    "is_ces": false,
+    "mentions_total": 3,
+    "mentions_in_digest": 2,
+    "reach_proxy": 3,
+    "first_mention_date": "2026-07-17",
+    "last_mention_date": "2026-08-28",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 2
+    },
+    "top_sources": [
+      {
+        "source": "LinkedIn",
+        "count": 1
+      },
+      {
+        "source": "Substack (Friday Power Lunch)",
+        "count": 1
+      },
+      {
+        "source": "The Berkshire Edge",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 2,
+        "reach": 2
       }
     ]
   },
@@ -4464,98 +4678,6 @@
     ]
   },
   {
-    "id": "emily-white",
-    "name": "Emily White",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Fellow, Impact Concerts & Data",
-    "profile_url": "https://snfagora.jhu.edu/directory/emily-white/",
-    "photo_url": "images/people/emily-white.jpeg",
-    "categories": [
-      "Continuing Faculty + Fellows"
-    ],
-    "is_ces": false,
-    "mentions_total": 1,
-    "mentions_in_digest": 1,
-    "reach_proxy": 1,
-    "first_mention_date": "2026-07-17",
-    "last_mention_date": "2026-07-17",
-    "sentiment": {
-      "positive": 1,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [
-      {
-        "source": "Substack (Friday Power Lunch)",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-08",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
     "id": "felix-maradiaga",
     "name": "Felix Maradiaga",
     "kind": "faculty",
@@ -4920,6 +5042,96 @@
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "james-loeffler-not-tracked",
+    "name": "James Loeffler (not tracked)",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 6,
+    "first_mention_date": "2026-08-28",
+    "last_mention_date": "2026-08-28",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Jewish Telegraphic Agency",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 1,
+        "reach": 6
       }
     ]
   },
@@ -5650,6 +5862,186 @@
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "none-no-captured-text",
+    "name": "None (no captured text)",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 4,
+    "first_mention_date": "2026-08-28",
+    "last_mention_date": "2026-08-28",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 1,
+        "reach": 4
+      }
+    ]
+  },
+  {
+    "id": "suchi-saria-not-tracked",
+    "name": "Suchi Saria (not tracked)",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-08-28",
+    "last_mention_date": "2026-08-28",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "The Times of India",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-08",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
