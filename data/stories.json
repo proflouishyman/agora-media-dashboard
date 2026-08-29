@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-08-28T07:07:53-04:00",
-  "count": 384,
+  "generated_at": "2026-08-29T07:07:16-04:00",
+  "count": 412,
   "stories": [
+    {
+      "id": 398,
+      "date": "2026-08-29",
+      "week_start": "2026-08-24",
+      "person_id": "none-keyword-noise",
+      "person": "None (keyword noise)",
+      "is_ces": false,
+      "title": "Israel’s Ethiopian asylum seekers fight deportation efforts – The Forward",
+      "has_text": true,
+      "url": "https://www.europesays.com/iran/268974/",
+      "source": "EUROPE SAYS",
+      "source_type": "online news",
+      "similar_mention_count": 4,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Israel’s Ethiopian asylum seekers fight deportation efforts – The Forward https://www.europesays.com/iran/268974/",
+          "chars": 97
+        },
+        "bluesky": {
+          "text": "Israel’s Ethiopian asylum seekers fight deportation efforts – The Forward https://www.europesays.com/iran/268974/",
+          "chars": 113
+        }
+      }
+    },
+    {
+      "id": 400,
+      "date": "2026-08-29",
+      "week_start": "2026-08-24",
+      "person_id": "none-keyword-noise",
+      "person": "None (keyword noise)",
+      "is_ces": false,
+      "title": "15 filmes de suspense psicológico muito bons para assistir em 2026",
+      "has_text": true,
+      "url": "https://www.techtudo.com.br/noticias/2026/08/15-filmes-de-suspense-psicologico-muito-bons-para-assistir-em-2026-streaming.ghtml",
+      "source": "TechTudo",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "15 filmes de suspense psicológico muito bons para assistir em 2026 https://www.techtudo.com.br/noticias/2026/08/15-filmes-de-suspense-psicologico-muito-bons-para-assistir-em-2026-streaming.ghtml",
+          "chars": 90
+        },
+        "bluesky": {
+          "text": "15 filmes de suspense psicológico muito bons para assistir em 2026 https://www.techtudo.com.br/noticias/2026/08/15-filmes-de-suspense-psicologico-muito-bons-para-assistir-em-2026-streaming.ghtml",
+          "chars": 194
+        }
+      }
+    },
+    {
+      "id": 399,
+      "date": "2026-08-29",
+      "week_start": "2026-08-24",
+      "person_id": "none-keyword-noise",
+      "person": "None (keyword noise)",
+      "is_ces": false,
+      "title": "MEO Kalorama, dia 1: Robbie Williams garantiu entretenimento, Grace Jones esmerou-se na provocação",
+      "has_text": true,
+      "url": "https://sapo.pt/artigo/meo-kalorama-dia-1-robbie-williams-garantiu-entretenimento-grace-jones-esmerou-se-na-provocacao-6a9280f8f8b6a06b67cb75a3",
+      "source": "SAPO",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "MEO Kalorama, dia 1: Robbie Williams garantiu entretenimento, Grace Jones esmerou-se na provocação https://sapo.pt/artigo/meo-kalorama-dia-1-robbie-williams-garantiu-entretenimento-grace-jones-esmerou-se-na-provocacao-6a9280f8f8b6a06b67cb75a3",
+          "chars": 122
+        },
+        "bluesky": {
+          "text": "MEO Kalorama, dia 1: Robbie Williams garantiu entretenimento, Grace Jones esmerou-se na provocação https://sapo.pt/artigo/meo-kalorama-dia-1-robbie-williams-garantiu-entretenimento-grace-jones-esmerou-se-na-provocacao-6a9280f8f8b6a06b67cb75a3",
+          "chars": 242
+        }
+      }
+    },
+    {
+      "id": 392,
+      "date": "2026-08-29",
+      "week_start": "2026-08-24",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "Cool Citizens? How Affectively Unpolarized Citizens View and Participate in Democracy",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s11109-026-10190-3",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Cool Citizens? How Affectively Unpolarized Citizens View and Participate in Democracy https://link.springer.com/article/10.1007/s11109-026-10190-3",
+          "chars": 109
+        },
+        "bluesky": {
+          "text": "Cool Citizens? How Affectively Unpolarized Citizens View and Participate in Democracy https://link.springer.com/article/10.1007/s11109-026-10190-3",
+          "chars": 146
+        }
+      }
+    },
+    {
+      "id": 397,
+      "date": "2026-08-28",
+      "week_start": "2026-08-24",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "(untitled Twitter row, no text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 7,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
     {
       "id": 377,
       "date": "2026-08-28",
@@ -44,6 +165,526 @@
       "entity_sentiment": "unknown",
       "in_digest": false,
       "share": null
+    },
+    {
+      "id": 391,
+      "date": "2026-08-28",
+      "week_start": "2026-08-24",
+      "person_id": "yuen-yuen-ang",
+      "person": "Yuen Yuen Ang",
+      "is_ces": true,
+      "title": "Oitocentos milhões depois, a experiência chinesa ainda exige estudo sério",
+      "has_text": true,
+      "url": "https://revistaforum.com.br/opiniao/oitocentos-milhoes-depois-a-experiencia-chinesa-ainda-exige-estudo-serio/",
+      "source": "Revista Fórum",
+      "source_type": null,
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Oitocentos milhões depois, a experiência chinesa ainda exige estudo sério https://revistaforum.com.br/opiniao/oitocentos-milhoes-depois-a-experiencia-chinesa-ainda-exige-estudo-serio/",
+          "chars": 97
+        },
+        "bluesky": {
+          "text": "Oitocentos milhões depois, a experiência chinesa ainda exige estudo sério https://revistaforum.com.br/opiniao/oitocentos-milhoes-depois-a-experiencia-chinesa-ainda-exige-estudo-serio/",
+          "chars": 183
+        }
+      }
+    },
+    {
+      "id": 415,
+      "date": "2026-08-28",
+      "week_start": "2026-08-24",
+      "person_id": "none-keyword-noise",
+      "person": "None (keyword noise)",
+      "is_ces": false,
+      "title": "História Americana e Amnésia Americana",
+      "has_text": true,
+      "url": "https://alemdarena.blogspot.com/2026/08/historia-americana-e-amnesia-americana.html",
+      "source": "além d'arena",
+      "source_type": "blog",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "História Americana e Amnésia Americana https://alemdarena.blogspot.com/2026/08/historia-americana-e-amnesia-americana.html",
+          "chars": 62
+        },
+        "bluesky": {
+          "text": "História Americana e Amnésia Americana https://alemdarena.blogspot.com/2026/08/historia-americana-e-amnesia-americana.html",
+          "chars": 122
+        }
+      }
+    },
+    {
+      "id": 418,
+      "date": "2026-08-28",
+      "week_start": "2026-08-24",
+      "person_id": "none-keyword-noise",
+      "person": "None (keyword noise)",
+      "is_ces": false,
+      "title": "Dois ancestrais ‘fantasmas’ no DNA humano moderno são identificados por pesquisadores, que buscam por respostas perdidas",
+      "has_text": true,
+      "url": "https://news.folhadoprogresso.com.br/dois-ancestrais-fantasmas-no-dna-humano-moderno-sao-identificados-por-pesquisadores-que-buscam-por-respostas-perdidas/",
+      "source": "Folha do Progresso",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Dois ancestrais ‘fantasmas’ no DNA humano moderno são identificados por pesquisadores, que buscam por respostas perdidas https://news.folhadoprogresso.com.br/dois-ancestrais-fantasmas-no-dna-humano-moderno-sao-identificados-por-pesquisadores-que-buscam-por-respostas-perdidas/",
+          "chars": 144
+        },
+        "bluesky": {
+          "text": "Dois ancestrais ‘fantasmas’ no DNA humano moderno são identificados por pesquisadores, que buscam por respostas perdidas https://news.folhadoprogresso.com.br/dois-ancestrais-fantasmas-no-dna-humano-moderno-sao-identificados-por-pesquisadores-que-buscam-por-respostas-perdidas/",
+          "chars": 276
+        }
+      }
+    },
+    {
+      "id": 417,
+      "date": "2026-08-28",
+      "week_start": "2026-08-24",
+      "person_id": "none-keyword-noise",
+      "person": "None (keyword noise)",
+      "is_ces": false,
+      "title": "Aging and professors emeriti: A personal view",
+      "has_text": true,
+      "url": "https://www.gavinpublishers.com/article/view/aging-and-professors-emeriti-a-personal-view",
+      "source": "Gavin Publishers",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Aging and professors emeriti: A personal view https://www.gavinpublishers.com/article/view/aging-and-professors-emeriti-a-personal-view",
+          "chars": 69
+        },
+        "bluesky": {
+          "text": "Aging and professors emeriti: A personal view https://www.gavinpublishers.com/article/view/aging-and-professors-emeriti-a-personal-view",
+          "chars": 135
+        }
+      }
+    },
+    {
+      "id": 416,
+      "date": "2026-08-28",
+      "week_start": "2026-08-24",
+      "person_id": "none-keyword-noise",
+      "person": "None (keyword noise)",
+      "is_ces": false,
+      "title": "(untitled)",
+      "has_text": true,
+      "url": "https://twitter.com",
+      "source": "Twitter",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "(untitled) https://twitter.com",
+          "chars": 34
+        },
+        "bluesky": {
+          "text": "(untitled) https://twitter.com",
+          "chars": 30
+        }
+      }
+    },
+    {
+      "id": 414,
+      "date": "2026-08-28",
+      "week_start": "2026-08-24",
+      "person_id": "none-keyword-noise",
+      "person": "None (keyword noise)",
+      "is_ces": false,
+      "title": "The Pentagon’s research security directive is a step in the right direction but falls short: ANALYSIS",
+      "has_text": true,
+      "url": "https://www.campusreform.org/article/pentagons-research-security-directive-step-right-direction-falls-short-analysis/30466",
+      "source": "Campus Reform",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Pentagon’s research security directive is a step in the right direction but falls short: ANALYSIS https://www.campusreform.org/article/pentagons-research-security-directive-step-right-direction-falls-short-analysis/30466",
+          "chars": 125
+        },
+        "bluesky": {
+          "text": "The Pentagon’s research security directive is a step in the right direction but falls short: ANALYSIS https://www.campusreform.org/article/pentagons-research-security-directive-step-right-direction-falls-short-analysis/30466",
+          "chars": 224
+        }
+      }
+    },
+    {
+      "id": 413,
+      "date": "2026-08-28",
+      "week_start": "2026-08-24",
+      "person_id": "none-keyword-noise",
+      "person": "None (keyword noise)",
+      "is_ces": false,
+      "title": "Impact Signals #115 - ARPA-H Bets $175M on Stroke Robots, Four States Test EBT Fraud Blocking,",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=h4XESHa1egA",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Impact Signals #115 - ARPA-H Bets $175M on Stroke Robots, Four States Test EBT Fraud Blocking, https://www.youtube.com/watch?v=h4XESHa1egA",
+          "chars": 118
+        },
+        "bluesky": {
+          "text": "Impact Signals #115 - ARPA-H Bets $175M on Stroke Robots, Four States Test EBT Fraud Blocking, https://www.youtube.com/watch?v=h4XESHa1egA",
+          "chars": 138
+        }
+      }
+    },
+    {
+      "id": 412,
+      "date": "2026-08-28",
+      "week_start": "2026-08-24",
+      "person_id": "none-keyword-noise",
+      "person": "None (keyword noise)",
+      "is_ces": false,
+      "title": "Google Gemini Notebook já permite importar livros do Play Books",
+      "has_text": true,
+      "url": "https://www.techenet.com/2026/08/google-gemini-notebook-ja-permite-importar-livros-do-play-books/",
+      "source": "TecheNet",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Google Gemini Notebook já permite importar livros do Play Books https://www.techenet.com/2026/08/google-gemini-notebook-ja-permite-importar-livros-do-play-books/",
+          "chars": 87
+        },
+        "bluesky": {
+          "text": "Google Gemini Notebook já permite importar livros do Play Books https://www.techenet.com/2026/08/google-gemini-notebook-ja-permite-importar-livros-do-play-books/",
+          "chars": 161
+        }
+      }
+    },
+    {
+      "id": 411,
+      "date": "2026-08-28",
+      "week_start": "2026-08-24",
+      "person_id": "none-keyword-noise",
+      "person": "None (keyword noise)",
+      "is_ces": false,
+      "title": "TECH Global University, consolidada como el Harvard online por su claustro docente Ivy League",
+      "has_text": true,
+      "url": "https://www.laprensa.hn/economia/marketingempresas/tech-global-university-consolidada-harvard-online-claustro-docente-ivy-league-NM31683295",
+      "source": "La Prensa",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "TECH Global University, consolidada como el Harvard online por su claustro docente Ivy League https://www.laprensa.hn/economia/marketingempresas/tech-global-university-consolidada-harvard-online-claustro-docente-ivy-league-NM31683295",
+          "chars": 117
+        },
+        "bluesky": {
+          "text": "TECH Global University, consolidada como el Harvard online por su claustro docente Ivy League https://www.laprensa.hn/economia/marketingempresas/tech-global-university-consolidada-harvard-online-claustro-docente-ivy-league-NM31683295",
+          "chars": 233
+        }
+      }
+    },
+    {
+      "id": 410,
+      "date": "2026-08-28",
+      "week_start": "2026-08-24",
+      "person_id": "none-keyword-noise",
+      "person": "None (keyword noise)",
+      "is_ces": false,
+      "title": "“O amador do insolúvel” – Edward SAID",
+      "has_text": true,
+      "url": "https://portalcioranbr.wordpress.com/2026/08/28/amador-insoluvel-edward-said/",
+      "source": "wordpress.com",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "“O amador do insolúvel” – Edward SAID https://portalcioranbr.wordpress.com/2026/08/28/amador-insoluvel-edward-said/",
+          "chars": 61
+        },
+        "bluesky": {
+          "text": "“O amador do insolúvel” – Edward SAID https://portalcioranbr.wordpress.com/2026/08/28/amador-insoluvel-edward-said/",
+          "chars": 115
+        }
+      }
+    },
+    {
+      "id": 409,
+      "date": "2026-08-28",
+      "week_start": "2026-08-24",
+      "person_id": "none-keyword-noise",
+      "person": "None (keyword noise)",
+      "is_ces": false,
+      "title": "Chemical engineering doctoral graduate and scholar honored",
+      "has_text": true,
+      "url": "https://news.engineering.tamu.edu/news/2026/08/28/chemical-engineering-doctoral-graduate-and-scholar-honored/",
+      "source": "Texas A&M University College of Engineering",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Chemical engineering doctoral graduate and scholar honored https://news.engineering.tamu.edu/news/2026/08/28/chemical-engineering-doctoral-graduate-and-scholar-honored/",
+          "chars": 82
+        },
+        "bluesky": {
+          "text": "Chemical engineering doctoral graduate and scholar honored https://news.engineering.tamu.edu/news/2026/08/28/chemical-engineering-doctoral-graduate-and-scholar-honored/",
+          "chars": 168
+        }
+      }
+    },
+    {
+      "id": 408,
+      "date": "2026-08-28",
+      "week_start": "2026-08-24",
+      "person_id": "none-keyword-noise",
+      "person": "None (keyword noise)",
+      "is_ces": false,
+      "title": "Kymeta Corporation Announces $30 Million Equity Investment by Hanwha Systems to Back Global Mobile Satellite-Cellular Connectivity",
+      "has_text": true,
+      "url": "https://acrossafricanews.blogspot.com/2020/12/",
+      "source": "Across Africa News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Kymeta Corporation Announces $30 Million Equity Investment by Hanwha Systems to Back Global Mobile Satellite-Cellular Connectivity https://acrossafricanews.blogspot.com/2020/12/",
+          "chars": 154
+        },
+        "bluesky": {
+          "text": "Kymeta Corporation Announces $30 Million Equity Investment by Hanwha Systems to Back Global Mobile Satellite-Cellular Connectivity https://acrossafricanews.blogspot.com/2020/12/",
+          "chars": 177
+        }
+      }
+    },
+    {
+      "id": 407,
+      "date": "2026-08-28",
+      "week_start": "2026-08-24",
+      "person_id": "none-keyword-noise",
+      "person": "None (keyword noise)",
+      "is_ces": false,
+      "title": "Reed E. Pyeritz, pioneering medical geneticist and Penn professor emeritus, has died at 78",
+      "has_text": true,
+      "url": "https://www.inquirer.com/obituaries/reed-pyeritz-obituary-penn-marfan-professor-genetics-20260828.html",
+      "source": "The Philadelphia Inquirer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Reed E. Pyeritz, pioneering medical geneticist and Penn professor emeritus, has died at 78 https://www.inquirer.com/obituaries/reed-pyeritz-obituary-penn-marfan-professor-genetics-20260828.html",
+          "chars": 114
+        },
+        "bluesky": {
+          "text": "Reed E. Pyeritz, pioneering medical geneticist and Penn professor emeritus, has died at 78 https://www.inquirer.com/obituaries/reed-pyeritz-obituary-penn-marfan-professor-genetics-20260828.html",
+          "chars": 193
+        }
+      }
+    },
+    {
+      "id": 406,
+      "date": "2026-08-28",
+      "week_start": "2026-08-24",
+      "person_id": "none-keyword-noise",
+      "person": "None (keyword noise)",
+      "is_ces": false,
+      "title": "A NYC walking tour but make it women’s history",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=qJ6ukYPWqSk",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "A NYC walking tour but make it women’s history https://www.youtube.com/watch?v=qJ6ukYPWqSk",
+          "chars": 70
+        },
+        "bluesky": {
+          "text": "A NYC walking tour but make it women’s history https://www.youtube.com/watch?v=qJ6ukYPWqSk",
+          "chars": 90
+        }
+      }
+    },
+    {
+      "id": 405,
+      "date": "2026-08-28",
+      "week_start": "2026-08-24",
+      "person_id": "none-keyword-noise",
+      "person": "None (keyword noise)",
+      "is_ces": false,
+      "title": "Reed E. Pyeritz, pioneering medical geneticist and Penn professor emeritus, has died at 78",
+      "has_text": true,
+      "url": "https://us.headtopics.com/news/reed-e-pyeritz-pioneering-medical-geneticist-and-penn-87149676",
+      "source": "Head Topics",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Reed E. Pyeritz, pioneering medical geneticist and Penn professor emeritus, has died at 78 https://us.headtopics.com/news/reed-e-pyeritz-pioneering-medical-geneticist-and-penn-87149676",
+          "chars": 114
+        },
+        "bluesky": {
+          "text": "Reed E. Pyeritz, pioneering medical geneticist and Penn professor emeritus, has died at 78 https://us.headtopics.com/news/reed-e-pyeritz-pioneering-medical-geneticist-and-penn-87149676",
+          "chars": 184
+        }
+      }
+    },
+    {
+      "id": 404,
+      "date": "2026-08-28",
+      "week_start": "2026-08-24",
+      "person_id": "none-keyword-noise",
+      "person": "None (keyword noise)",
+      "is_ces": false,
+      "title": "ASU Cuts Teaching Degree to 3 Years as Arizona Faces 4,000 Teacher Gaps",
+      "has_text": true,
+      "url": "https://hoodline.com/2026/08/asu-cuts-teaching-degree-to-3-years-as-arizona-faces-4-000-teacher-gaps/",
+      "source": "Hoodline",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "ASU Cuts Teaching Degree to 3 Years as Arizona Faces 4,000 Teacher Gaps https://hoodline.com/2026/08/asu-cuts-teaching-degree-to-3-years-as-arizona-faces-4-000-teacher-gaps/",
+          "chars": 95
+        },
+        "bluesky": {
+          "text": "ASU Cuts Teaching Degree to 3 Years as Arizona Faces 4,000 Teacher Gaps https://hoodline.com/2026/08/asu-cuts-teaching-degree-to-3-years-as-arizona-faces-4-000-teacher-gaps/",
+          "chars": 173
+        }
+      }
+    },
+    {
+      "id": 403,
+      "date": "2026-08-28",
+      "week_start": "2026-08-24",
+      "person_id": "none-keyword-noise",
+      "person": "None (keyword noise)",
+      "is_ces": false,
+      "title": "Pela primeira vez na história, pessoas com HIV acima dos 50 anos serão maioria até 2040, aponta estudo",
+      "has_text": true,
+      "url": "https://tribunadoplanalto.com.br/pela-primeira-vez-na-historia-pessoas-com-hiv-acima-dos-50-anos-serao-maioria-ate-2040-aponta-estudo/",
+      "source": "Tribuna do Planalto",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Pela primeira vez na história, pessoas com HIV acima dos 50 anos serão maioria até 2040, aponta estudo https://tribunadoplanalto.com.br/pela-primeira-vez-na-historia-pessoas-com-hiv-acima-dos-50-anos-serao-maioria-ate-2040-aponta-estudo/",
+          "chars": 126
+        },
+        "bluesky": {
+          "text": "Pela primeira vez na história, pessoas com HIV acima dos 50 anos serão maioria até 2040, aponta estudo https://tribunadoplanalto.com.br/pela-primeira-vez-na-historia-pessoas-com-hiv-acima-dos-50-anos-serao-maioria-ate-2040-aponta-estudo/",
+          "chars": 237
+        }
+      }
+    },
+    {
+      "id": 402,
+      "date": "2026-08-28",
+      "week_start": "2026-08-24",
+      "person_id": "none-keyword-noise",
+      "person": "None (keyword noise)",
+      "is_ces": false,
+      "title": "Howard University Appoints Johnnie Watson as New Treasurer",
+      "has_text": true,
+      "url": "https://thedig.howard.edu/all-stories/howard-university-appoints-johnnie-watson-new-treasurer",
+      "source": "The Dig at Howard University",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Howard University Appoints Johnnie Watson as New Treasurer https://thedig.howard.edu/all-stories/howard-university-appoints-johnnie-watson-new-treasurer",
+          "chars": 82
+        },
+        "bluesky": {
+          "text": "Howard University Appoints Johnnie Watson as New Treasurer https://thedig.howard.edu/all-stories/howard-university-appoints-johnnie-watson-new-treasurer",
+          "chars": 152
+        }
+      }
+    },
+    {
+      "id": 401,
+      "date": "2026-08-28",
+      "week_start": "2026-08-24",
+      "person_id": "none-keyword-noise",
+      "person": "None (keyword noise)",
+      "is_ces": false,
+      "title": "Uncommon Sense : Real-world wisdom for when the textbook ends.Why do some of the most successful people in the world—from Bill Gates to Steve Jobs, Oprah Winfrey to Ralph Lauren—never finish college, while others with every academic advantage still struggle to find their way? For William R. Brody, a renowned physician-scientist and the former president of Johns Hopkins University, the answer lies in a truth higher education all too often overlooks: life, unlike textbooks, has no a...",
+      "has_text": true,
+      "url": "https://ie.pinterest.com/pin/666673551138089909/",
+      "source": "Pinterest",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Uncommon Sense : Real-world wisdom for when the textbook ends.Why do some of the most successful people in the world—from Bill Gates to Steve Jobs, Oprah Winfrey to Ralph Lauren—never finish college, while others with every academic advantage still strugg… https://ie.pinterest.com/pin/666673551138089909/",
+          "chars": 280
+        },
+        "bluesky": {
+          "text": "Uncommon Sense : Real-world wisdom for when the textbook ends.Why do some of the most successful people in the world—from Bill Gates to Steve Jobs, Oprah Winfrey to Ralph Lauren—never finish college, while others with every academic advantage still … https://ie.pinterest.com/pin/666673551138089909/",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 395,
+      "date": "2026-08-28",
+      "week_start": "2026-08-24",
+      "person_id": "emily-white",
+      "person": "Emily White",
+      "is_ces": false,
+      "title": "Berkshire region real estate sales - August 28, 2026",
+      "has_text": true,
+      "url": "https://theberkshireedge.com/berkshire-region-real-estate-sales-august-28-2026/",
+      "source": "The Berkshire Edge",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Berkshire region real estate sales - August 28, 2026 https://theberkshireedge.com/berkshire-region-real-estate-sales-august-28-2026/",
+          "chars": 76
+        },
+        "bluesky": {
+          "text": "Berkshire region real estate sales - August 28, 2026 https://theberkshireedge.com/berkshire-region-real-estate-sales-august-28-2026/",
+          "chars": 132
+        }
+      }
     },
     {
       "id": 383,
@@ -267,6 +908,84 @@
       "source_type": "online news",
       "similar_mention_count": 2,
       "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Sfuggire alla Silicon valley con Philip K. Dick https://www.internazionale.it/magazine/henry-farrell/2026/08/27/sfuggire-alla-silicon-valley-con-philip-k-dick",
+          "chars": 71
+        },
+        "bluesky": {
+          "text": "Sfuggire alla Silicon valley con Philip K. Dick https://www.internazionale.it/magazine/henry-farrell/2026/08/27/sfuggire-alla-silicon-valley-con-philip-k-dick",
+          "chars": 158
+        }
+      }
+    },
+    {
+      "id": 396,
+      "date": "2026-08-27",
+      "week_start": "2026-08-24",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": "How Scientific Is the Science-Fiction of 'Dark Matter'?",
+      "has_text": true,
+      "url": "https://www.nytimes.com/2026/08/27/arts/television/dark-matter-science-quantum-mechanics.html",
+      "source": "The New York Times",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "How Scientific Is the Science-Fiction of 'Dark Matter'? https://www.nytimes.com/2026/08/27/arts/television/dark-matter-science-quantum-mechanics.html",
+          "chars": 79
+        },
+        "bluesky": {
+          "text": "How Scientific Is the Science-Fiction of 'Dark Matter'? https://www.nytimes.com/2026/08/27/arts/television/dark-matter-science-quantum-mechanics.html",
+          "chars": 149
+        }
+      }
+    },
+    {
+      "id": 394,
+      "date": "2026-08-27",
+      "week_start": "2026-08-24",
+      "person_id": "benjamin-storey",
+      "person": "Benjamin Storey",
+      "is_ces": false,
+      "title": "Johns Hopkins, AEI extend fellowship exchange program into second year",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/2026/08/27/jhu-aei-fellowship-exchange-program-renewal/",
+      "source": "The Hub",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Johns Hopkins, AEI extend fellowship exchange program into second year https://hub.jhu.edu/2026/08/27/jhu-aei-fellowship-exchange-program-renewal/",
+          "chars": 94
+        },
+        "bluesky": {
+          "text": "Johns Hopkins, AEI extend fellowship exchange program into second year https://hub.jhu.edu/2026/08/27/jhu-aei-fellowship-exchange-program-renewal/",
+          "chars": 146
+        }
+      }
+    },
+    {
+      "id": 393,
+      "date": "2026-08-27",
+      "week_start": "2026-08-24",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Sfuggire alla Silicon valley con Philip K. Dick",
+      "has_text": true,
+      "url": "https://www.internazionale.it/magazine/henry-farrell/2026/08/27/sfuggire-alla-silicon-valley-con-philip-k-dick",
+      "source": "Internazionale",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
       "in_digest": true,
       "share": {
         "x": {
