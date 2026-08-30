@@ -1,7 +1,85 @@
 {
-  "generated_at": "2026-08-29T07:07:16-04:00",
-  "count": 412,
+  "generated_at": "2026-08-30T07:06:47-04:00",
+  "count": 417,
   "stories": [
+    {
+      "id": 423,
+      "date": "2026-08-30",
+      "week_start": "2026-08-24",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "https://www.reddit.com/r/myanmar/comments/1w29c8u/joint_statement_by_more_than_100_us_professors/",
+      "source": "reddit.com/r/myanmar",
+      "source_type": "social network",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " https://www.reddit.com/r/myanmar/comments/1w29c8u/joint_statement_by_more_than_100_us_professors/",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://www.reddit.com/r/myanmar/comments/1w29c8u/joint_statement_by_more_than_100_us_professors/",
+          "chars": 98
+        }
+      }
+    },
+    {
+      "id": 419,
+      "date": "2026-08-30",
+      "week_start": "2026-08-24",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Republicanos estão cometendo o mesmo erro dos democratas (Ezra Klein column)",
+      "has_text": true,
+      "url": "https://www1.folha.uol.com.br/colunas/ezra-klein/2026/08/politica-virou-refem-da-realidade-distorcida-das-redes-sociais.shtml",
+      "source": "Folha de S.Paulo",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Republicanos estão cometendo o mesmo erro dos democratas (Ezra Klein column) https://www1.folha.uol.com.br/colunas/ezra-klein/2026/08/politica-virou-refem-da-realidade-distorcida-das-redes-sociais.shtml",
+          "chars": 100
+        },
+        "bluesky": {
+          "text": "Republicanos estão cometendo o mesmo erro dos democratas (Ezra Klein column) https://www1.folha.uol.com.br/colunas/ezra-klein/2026/08/politica-virou-refem-da-realidade-distorcida-das-redes-sociais.shtml",
+          "chars": 202
+        }
+      }
+    },
+    {
+      "id": 421,
+      "date": "2026-08-30",
+      "week_start": "2026-08-24",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": "'Matéria Escura': Quão precisa é a ciência por trás da série?",
+      "has_text": true,
+      "url": "https://www.estadao.com.br/cultura/series/materia-escura-quao-precisa-e-a-ciencia-por-tras-da-serie/",
+      "source": "Estadão",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "'Matéria Escura': Quão precisa é a ciência por trás da série? https://www.estadao.com.br/cultura/series/materia-escura-quao-precisa-e-a-ciencia-por-tras-da-serie/",
+          "chars": 85
+        },
+        "bluesky": {
+          "text": "'Matéria Escura': Quão precisa é a ciência por trás da série? https://www.estadao.com.br/cultura/series/materia-escura-quao-precisa-e-a-ciencia-por-tras-da-serie/",
+          "chars": 162
+        }
+      }
+    },
     {
       "id": 398,
       "date": "2026-08-29",
@@ -25,6 +103,32 @@
         "bluesky": {
           "text": "Israel’s Ethiopian asylum seekers fight deportation efforts – The Forward https://www.europesays.com/iran/268974/",
           "chars": 113
+        }
+      }
+    },
+    {
+      "id": 422,
+      "date": "2026-08-29",
+      "week_start": "2026-08-24",
+      "person_id": "denise-dresser",
+      "person": "Denise Dresser",
+      "is_ces": false,
+      "title": "La edad es su ventaja: la generación 2026 del Forbes 50 Over 50",
+      "has_text": true,
+      "url": "https://www.forbesuruguay.com/millonarios/la-edad-su-ventaja-generacion-2026-forbes-50-over-50-n96514",
+      "source": "Forbes Uruguay",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "La edad es su ventaja: la generación 2026 del Forbes 50 Over 50 https://www.forbesuruguay.com/millonarios/la-edad-su-ventaja-generacion-2026-forbes-50-over-50-n96514",
+          "chars": 87
+        },
+        "bluesky": {
+          "text": "La edad es su ventaja: la generación 2026 del Forbes 50 Over 50 https://www.forbesuruguay.com/millonarios/la-edad-su-ventaja-generacion-2026-forbes-50-over-50-n96514",
+          "chars": 165
         }
       }
     },
@@ -179,6 +283,32 @@
       "source": "Revista Fórum",
       "source_type": null,
       "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Oitocentos milhões depois, a experiência chinesa ainda exige estudo sério https://revistaforum.com.br/opiniao/oitocentos-milhoes-depois-a-experiencia-chinesa-ainda-exige-estudo-serio/",
+          "chars": 97
+        },
+        "bluesky": {
+          "text": "Oitocentos milhões depois, a experiência chinesa ainda exige estudo sério https://revistaforum.com.br/opiniao/oitocentos-milhoes-depois-a-experiencia-chinesa-ainda-exige-estudo-serio/",
+          "chars": 183
+        }
+      }
+    },
+    {
+      "id": 420,
+      "date": "2026-08-28",
+      "week_start": "2026-08-24",
+      "person_id": "yuen-yuen-ang",
+      "person": "Yuen Yuen Ang",
+      "is_ces": true,
+      "title": "Oitocentos milhões depois, a experiência chinesa ainda exige estudo sério",
+      "has_text": true,
+      "url": "https://revistaforum.com.br/opiniao/oitocentos-milhoes-depois-a-experiencia-chinesa-ainda-exige-estudo-serio/",
+      "source": "Revista Fórum",
+      "source_type": null,
+      "similar_mention_count": 2,
       "entity_sentiment": "unknown",
       "in_digest": true,
       "share": {
