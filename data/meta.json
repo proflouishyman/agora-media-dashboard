@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-29T07:07:16-04:00",
-  "generated_date": "2026-08-29",
+  "generated_at": "2026-08-30T07:06:47-04:00",
+  "generated_date": "2026-08-30",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-08-29",
+    "last_mention_date": "2026-08-30",
     "observed_dates": [
       "2026-07-02",
       "2026-07-03",
@@ -63,10 +63,11 @@
       "2026-08-26",
       "2026-08-27",
       "2026-08-28",
-      "2026-08-29"
+      "2026-08-29",
+      "2026-08-30"
     ],
-    "total_mentions": 412,
-    "total_raw_documents": 1346,
+    "total_mentions": 417,
+    "total_raw_documents": 1368,
     "total_tracked_people": 100,
     "total_ces_people": 17
   },
@@ -74,19 +75,19 @@
     "all": {
       "label": "SNF Agora Institute",
       "people": 100,
-      "mentions": 412
+      "mentions": 417
     },
     "ces": {
       "label": "Center on Economy and Society",
       "people": 17,
-      "mentions": 66
+      "mentions": 68
     }
   },
   "data_quality": {
     "mentions_missing_url": 96,
     "mentions_no_text_captured": 89,
-    "mentions_sentiment_unknown": 195,
-    "mentions_shareable": 297,
+    "mentions_sentiment_unknown": 200,
+    "mentions_shareable": 302,
     "unmatched_persons": [
       {
         "person": "None (keyword noise)",

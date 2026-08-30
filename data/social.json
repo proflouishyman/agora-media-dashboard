@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-29T07:07:16-04:00",
-  "count": 40,
+  "generated_at": "2026-08-30T07:06:47-04:00",
+  "count": 41,
   "picks": [
+    {
+      "id": 58,
+      "mention_id": 419,
+      "digest_date": "2026-08-30",
+      "person": "Henry Farrell",
+      "person_id": "henry-farrell",
+      "person_ids": [
+        "henry-farrell"
+      ],
+      "is_ces": true,
+      "punchy_title": "The real damage of social media isn't the lies — it's what we think everyone else believes",
+      "headline": "The real damage of social media isn't the lies — it's what we think everyone else believes",
+      "pull_quote": "\"A mudança mais importante está em nossas crenças sobre o que as outras pessoas pensam, crenças que atualizamos continuamente com base na observação social.\"",
+      "rationale": "\"A mudança mais importante está em nossas crenças sobre o que as outras pessoas pensam, crenças que atualizamos continuamente com base na observação social.\"",
+      "url": "https://www1.folha.uol.com.br/colunas/ezra-klein/2026/08/politica-virou-refem-da-realidade-distorcida-das-redes-sociais.shtml",
+      "story_url": "https://www1.folha.uol.com.br/colunas/ezra-klein/2026/08/politica-virou-refem-da-realidade-distorcida-das-redes-sociais.shtml",
+      "created_at": "2026-08-30 11:06:36",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Ezra Klein quotes SNF Agora's Henry Farrell on how social platforms warp politics: what changes most is our belief about what others think. https://www1.folha.uol.com.br/colunas/ezra-klein/2026/08/politica-virou-refem-da-realidade-distorcida-das-redes-sociais.shtml",
+          "chars": 265,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Ezra%20Klein%20quotes%20SNF%20Agora%27s%20Henry%20Farrell%20on%20how%20social%20platforms%20warp%20politics%3A%20what%20changes%20most%20is%20our%20belief%20about%20what%20others%20think.%20https%3A//www1.folha.uol.com.br/colunas/ezra-klein/2026/08/politica-virou-refem-da-realidade-distorcida-das-redes-sociais.shtml"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Ezra Klein's Folha de S.Paulo column quotes SNF Agora's Henry Farrell on how social platforms warp politics: what changes most is our belief about what others think. https://www1.folha.uol.com.br/colunas/ezra-klein/2026/08/politica-virou-refem-da-realidade-distorcida-das-redes-sociais.shtml",
+          "chars": 291,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Ezra%20Klein%27s%20Folha%20de%20S.Paulo%20column%20quotes%20SNF%20Agora%27s%20Henry%20Farrell%20on%20how%20social%20platforms%20warp%20politics%3A%20what%20changes%20most%20is%20our%20belief%20about%20what%20others%20think.%20https%3A//www1.folha.uol.com.br/colunas/ezra-klein/2026/08/politica-virou-refem-da-realidade-distorcida-das-redes-sociais.shtml"
+        }
+      ]
+    },
     {
       "id": 57,
       "mention_id": 391,
