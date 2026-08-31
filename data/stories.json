@@ -1,7 +1,315 @@
 {
-  "generated_at": "2026-08-30T07:06:47-04:00",
-  "count": 417,
+  "generated_at": "2026-08-31T07:14:45-04:00",
+  "count": 441,
   "stories": [
+    {
+      "id": 441,
+      "date": "2026-08-31",
+      "week_start": "2026-08-31",
+      "person_id": "false-positive",
+      "person": "(false positive)",
+      "is_ces": false,
+      "title": "Google Notebook agora permite usar ebooks como fonte de projetos com IA",
+      "has_text": true,
+      "url": null,
+      "source": "Tecmundo",
+      "source_type": null,
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 443,
+      "date": "2026-08-31",
+      "week_start": "2026-08-31",
+      "person_id": "false-positive",
+      "person": "(false positive)",
+      "is_ces": false,
+      "title": "ArrowXL reduz quilômetros através da otimização de rotas",
+      "has_text": true,
+      "url": null,
+      "source": "International Transport Journal",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 442,
+      "date": "2026-08-31",
+      "week_start": "2026-08-31",
+      "person_id": "false-positive",
+      "person": "(false positive)",
+      "is_ces": false,
+      "title": "Yolanda Hopkins bateu a líder do ranking mundial e está nos quartos de final do Fiji Pro",
+      "has_text": true,
+      "url": null,
+      "source": "SAPO",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 440,
+      "date": "2026-08-31",
+      "week_start": "2026-08-31",
+      "person_id": "false-positive",
+      "person": "(false positive)",
+      "is_ces": false,
+      "title": "Sem dizer, Warsh disse tudo: mercados agora apostam numa Fed mais dura em Setembro",
+      "has_text": true,
+      "url": null,
+      "source": "Jornal Mercado",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 436,
+      "date": "2026-08-31",
+      "week_start": "2026-08-31",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Exploring the Interplay of Movement Dispersion, Sleep, and Quality of Life Among Men",
+      "has_text": true,
+      "url": null,
+      "source": "Springer",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 435,
+      "date": "2026-08-31",
+      "week_start": "2026-08-31",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Knowing its name, not its nature: word association mapping of student AI cognition",
+      "has_text": true,
+      "url": null,
+      "source": "Springer",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 433,
+      "date": "2026-08-31",
+      "week_start": "2026-08-31",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "US$3.4 billion loss from drop in international students",
+      "has_text": true,
+      "url": "https://www.universityworldnews.com/post.php?story=2026082715561816",
+      "source": "University World News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "US$3.4 billion loss from drop in international students https://www.universityworldnews.com/post.php?story=2026082715561816",
+          "chars": 79
+        },
+        "bluesky": {
+          "text": "US$3.4 billion loss from drop in international students https://www.universityworldnews.com/post.php?story=2026082715561816",
+          "chars": 123
+        }
+      }
+    },
+    {
+      "id": 427,
+      "date": "2026-08-31",
+      "week_start": "2026-08-31",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 426,
+      "date": "2026-08-31",
+      "week_start": "2026-08-31",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 424,
+      "date": "2026-08-31",
+      "week_start": "2026-08-31",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Malta e Grecia vendono i loro dati a Sam Altman, l'Ai compra le nostre anime",
+      "has_text": true,
+      "url": "https://www.corriere.it/economia/innovazione/26_agosto_31/malta-e-grecia-vendono-i-loro-dati-a-sam-altman-l-ai-compra-le-nostre-anime-chi-controlla-i-nuovi-sovrani-medievali-della-60e32086-a89c-4a4c-b27d-8c12277f8xlk.shtml",
+      "source": "Corriere della Sera",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Malta e Grecia vendono i loro dati a Sam Altman, l'Ai compra le nostre anime https://www.corriere.it/economia/innovazione/26_agosto_31/malta-e-grecia-vendono-i-loro-dati-a-sam-altman-l-ai-compra-le-nostre-anime-chi-controlla-i-nuovi-sovrani-medievali-della-60e32086-a89c-4a4c-b27d-8c12277f8xlk.shtml",
+          "chars": 100
+        },
+        "bluesky": {
+          "text": "Malta e Grecia vendono i loro dati a Sam Altman, l'Ai compra le nostre anime https://www.corriere.it/economia/innovazione/26_agosto_31/malta-e-grecia-vendono-i-loro-dati-a-sam-altman-l-ai-compra-le-nostre-anime-chi-controlla-i-nuovi-sovrani-medievali-della-60e32086-a89c-4a4c-b27d-8c12277f8xlk.shtml",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 444,
+      "date": "2026-08-30",
+      "week_start": "2026-08-24",
+      "person_id": "false-positive",
+      "person": "(false positive)",
+      "is_ces": false,
+      "title": "Kika Veselko eliminada na ronda 2 do Fiji Pro",
+      "has_text": true,
+      "url": null,
+      "source": "Record",
+      "source_type": null,
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 431,
+      "date": "2026-08-30",
+      "week_start": "2026-08-24",
+      "person_id": "ronald-j-daniels",
+      "person": "Ronald J. Daniels",
+      "is_ces": false,
+      "title": "TEN POSSIBLE REASONS JOHNS HOPKINS HAS BEEN HAVING SO MUCH TROUBLE FINDING CONSERVATIVE SCHOLARS THESE DAYS",
+      "has_text": true,
+      "url": "https://bsky.app/profile/dreamweasel.bsky.social/post/3mucbsd6scw2k",
+      "source": "Bluesky",
+      "source_type": "social network",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "TEN POSSIBLE REASONS JOHNS HOPKINS HAS BEEN HAVING SO MUCH TROUBLE FINDING CONSERVATIVE SCHOLARS THESE DAYS https://bsky.app/profile/dreamweasel.bsky.social/post/3mucbsd6scw2k",
+          "chars": 131
+        },
+        "bluesky": {
+          "text": "TEN POSSIBLE REASONS JOHNS HOPKINS HAS BEEN HAVING SO MUCH TROUBLE FINDING CONSERVATIVE SCHOLARS THESE DAYS https://bsky.app/profile/dreamweasel.bsky.social/post/3mucbsd6scw2k",
+          "chars": 175
+        }
+      }
+    },
+    {
+      "id": 447,
+      "date": "2026-08-30",
+      "week_start": "2026-08-24",
+      "person_id": "false-positive",
+      "person": "(false positive)",
+      "is_ces": false,
+      "title": "Todos os 29 filmes de Ridley Scott, do pior ao melhor",
+      "has_text": true,
+      "url": null,
+      "source": "Rolling Stone Brasil",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 446,
+      "date": "2026-08-30",
+      "week_start": "2026-08-24",
+      "person_id": "false-positive",
+      "person": "(false positive)",
+      "is_ces": false,
+      "title": "Sessão da Tarde: veja os filmes da semana na Globo (31 de agosto a 4 de setembro de 2026)",
+      "has_text": true,
+      "url": null,
+      "source": "NSC Total",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 438,
+      "date": "2026-08-30",
+      "week_start": "2026-08-24",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Brasil participa de estudo global para encontrar cura contra hepatite B",
+      "has_text": true,
+      "url": null,
+      "source": "Notícias do Planalto",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 432,
+      "date": "2026-08-30",
+      "week_start": "2026-08-24",
+      "person_id": "ronald-j-daniels",
+      "person": "Ronald J. Daniels",
+      "is_ces": false,
+      "title": "Chronicle: Johns Hopkins having difficulty finding conservative scholars (social commentary)",
+      "has_text": true,
+      "url": "https://bsky.app/profile/dreamweasel.bsky.social/post/3mucbomjn652j",
+      "source": "Bluesky",
+      "source_type": "social network",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Chronicle: Johns Hopkins having difficulty finding conservative scholars (social commentary) https://bsky.app/profile/dreamweasel.bsky.social/post/3mucbomjn652j",
+          "chars": 116
+        },
+        "bluesky": {
+          "text": "Chronicle: Johns Hopkins having difficulty finding conservative scholars (social commentary) https://bsky.app/profile/dreamweasel.bsky.social/post/3mucbomjn652j",
+          "chars": 160
+        }
+      }
+    },
     {
       "id": 423,
       "date": "2026-08-30",
@@ -51,6 +359,178 @@
         "bluesky": {
           "text": "Republicanos estão cometendo o mesmo erro dos democratas (Ezra Klein column) https://www1.folha.uol.com.br/colunas/ezra-klein/2026/08/politica-virou-refem-da-realidade-distorcida-das-redes-sociais.shtml",
           "chars": 202
+        }
+      }
+    },
+    {
+      "id": 445,
+      "date": "2026-08-30",
+      "week_start": "2026-08-24",
+      "person_id": "false-positive",
+      "person": "(false positive)",
+      "is_ces": false,
+      "title": "As imagens do dia",
+      "has_text": true,
+      "url": null,
+      "source": "Continental Circus",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 439,
+      "date": "2026-08-30",
+      "week_start": "2026-08-24",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Jejum intermitente: o que os influenciadores não te contam",
+      "has_text": true,
+      "url": null,
+      "source": "Semana On",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 437,
+      "date": "2026-08-30",
+      "week_start": "2026-08-24",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Do Parents and Teachers Agree on Preschool Dual Language Learners' Social Skills?",
+      "has_text": true,
+      "url": null,
+      "source": "Scienmag Science Magazine",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 434,
+      "date": "2026-08-30",
+      "week_start": "2026-08-24",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "America's Best Colleges for Research",
+      "has_text": true,
+      "url": "https://washingtonmonthly.com/2026/08/30/americas-best-colleges-for-research-universities/",
+      "source": "The Washington Monthly",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "America's Best Colleges for Research https://washingtonmonthly.com/2026/08/30/americas-best-colleges-for-research-universities/",
+          "chars": 60
+        },
+        "bluesky": {
+          "text": "America's Best Colleges for Research https://washingtonmonthly.com/2026/08/30/americas-best-colleges-for-research-universities/",
+          "chars": 127
+        }
+      }
+    },
+    {
+      "id": 430,
+      "date": "2026-08-30",
+      "week_start": "2026-08-24",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 429,
+      "date": "2026-08-30",
+      "week_start": "2026-08-24",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "https://www.reddit.com/r/desabafosdavida/comments/1w023xu/comment/p6uwd52/",
+      "source": "reddit.com/r/desabafosdavida",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " https://www.reddit.com/r/desabafosdavida/comments/1w023xu/comment/p6uwd52/",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://www.reddit.com/r/desabafosdavida/comments/1w023xu/comment/p6uwd52/",
+          "chars": 75
+        }
+      }
+    },
+    {
+      "id": 428,
+      "date": "2026-08-30",
+      "week_start": "2026-08-24",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "https://www.reddit.com/r/physicsmemes/comments/1w2jp2y/comment/p6uysks/",
+      "source": "reddit.com/r/physicsmemes",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " https://www.reddit.com/r/physicsmemes/comments/1w2jp2y/comment/p6uysks/",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://www.reddit.com/r/physicsmemes/comments/1w2jp2y/comment/p6uysks/",
+          "chars": 72
+        }
+      }
+    },
+    {
+      "id": 425,
+      "date": "2026-08-30",
+      "week_start": "2026-08-24",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Airstrikes kill 88 across flood-ravaged regions; Malaysia to repatriate 1,476 Myanmar refugees on September 29",
+      "has_text": true,
+      "url": "https://english.dvb.no/airstrikes-kill-88-across-flood-ravaged-regions-malaysia-to-repatriate-1476-myanmar-refugees-on-september-29/",
+      "source": "DVB - Multimedia Group",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Airstrikes kill 88 across flood-ravaged regions; Malaysia to repatriate 1,476 Myanmar refugees on September 29 https://english.dvb.no/airstrikes-kill-88-across-flood-ravaged-regions-malaysia-to-repatriate-1476-myanmar-refugees-on-september-29/",
+          "chars": 134
+        },
+        "bluesky": {
+          "text": "Airstrikes kill 88 across flood-ravaged regions; Malaysia to repatriate 1,476 Myanmar refugees on September 29 https://english.dvb.no/airstrikes-kill-88-across-flood-ravaged-regions-malaysia-to-repatriate-1476-myanmar-refugees-on-september-29/",
+          "chars": 243
         }
       }
     },

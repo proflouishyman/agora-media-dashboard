@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-30T07:06:47-04:00",
-  "generated_date": "2026-08-30",
+  "generated_at": "2026-08-31T07:14:45-04:00",
+  "generated_date": "2026-08-31",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-08-30",
+    "last_mention_date": "2026-08-31",
     "observed_dates": [
       "2026-07-02",
       "2026-07-03",
@@ -64,10 +64,11 @@
       "2026-08-27",
       "2026-08-28",
       "2026-08-29",
-      "2026-08-30"
+      "2026-08-30",
+      "2026-08-31"
     ],
-    "total_mentions": 417,
-    "total_raw_documents": 1368,
+    "total_mentions": 441,
+    "total_raw_documents": 1402,
     "total_tracked_people": 100,
     "total_ces_people": 17
   },
@@ -75,23 +76,31 @@
     "all": {
       "label": "SNF Agora Institute",
       "people": 100,
-      "mentions": 417
+      "mentions": 441
     },
     "ces": {
       "label": "Center on Economy and Society",
       "people": 17,
-      "mentions": 68
+      "mentions": 69
     }
   },
   "data_quality": {
-    "mentions_missing_url": 96,
+    "mentions_missing_url": 112,
     "mentions_no_text_captured": 89,
-    "mentions_sentiment_unknown": 200,
-    "mentions_shareable": 302,
+    "mentions_sentiment_unknown": 224,
+    "mentions_shareable": 310,
     "unmatched_persons": [
       {
         "person": "None (keyword noise)",
         "mentions": 32
+      },
+      {
+        "person": "Johns Hopkins",
+        "mentions": 10
+      },
+      {
+        "person": "(false positive)",
+        "mentions": 8
       },
       {
         "person": "Denise Dresser (namesake, OpenAI)",
@@ -107,6 +116,10 @@
       },
       {
         "person": "None (no captured text)",
+        "mentions": 2
+      },
+      {
+        "person": "Ronald J. Daniels",
         "mentions": 2
       },
       {

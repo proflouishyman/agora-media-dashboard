@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-30T07:06:47-04:00",
-  "count": 41,
+  "generated_at": "2026-08-31T07:14:45-04:00",
+  "count": 42,
   "picks": [
+    {
+      "id": 59,
+      "mention_id": 424,
+      "digest_date": "2026-08-31",
+      "person": "Henry Farrell",
+      "person_id": "henry-farrell",
+      "person_ids": [
+        "henry-farrell"
+      ],
+      "is_ces": true,
+      "punchy_title": "When criticizing AI gets you exiled from the conversation",
+      "headline": "When criticizing AI gets you exiled from the conversation",
+      "pull_quote": "Ha aggiunto Henry Farrell, un politologo della Johns Hopkins di Washington: «Credo che l'improvvisa ondata di ostilità nei confronti di Acemoglu abbia interamente a che fare con il momento storico in cui ci troviamo. La vera scelta non è tra un indistinto cammino verso il \"progresso tecnologico\" e i suoi malvagi, invidiosi o fuorviati oppositori. La scelta è tra diversi cammini verso il progresso.»",
+      "rationale": "Ha aggiunto Henry Farrell, un politologo della Johns Hopkins di Washington: «Credo che l'improvvisa ondata di ostilità nei confronti di Acemoglu abbia interamente a che fare con il momento storico in cui ci troviamo. La vera scelta non è tra un indistinto cammino verso il \"progresso tecnologico\" e i suoi malvagi, invidiosi o fuorviati oppositori. La scelta è tra diversi cammini verso il progresso.»",
+      "url": "https://www.corriere.it/economia/innovazione/26_agosto_31/malta-e-grecia-vendono-i-loro-dati-a-sam-altman-l-ai-compra-le-nostre-anime-chi-controlla-i-nuovi-sovrani-medievali-della-60e32086-a89c-4a4c-b27d-8c12277f8xlk.shtml",
+      "story_url": "https://www.corriere.it/economia/innovazione/26_agosto_31/malta-e-grecia-vendono-i-loro-dati-a-sam-altman-l-ai-compra-le-nostre-anime-chi-controlla-i-nuovi-sovrani-medievali-della-60e32086-a89c-4a4c-b27d-8c12277f8xlk.shtml",
+      "created_at": "2026-08-31 11:14:31",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "SNF Agora's Henry Farrell in Corriere della Sera on the pile-on against Daron Acemoglu for criticizing AI: \"The real choice is not between an undifferentiated march toward technological progress and its opponents. It is between different paths.\" https://www.corriere.it/economia/innovazione/26_agosto_31/malta-e-grecia-vendono-i-loro-dati-a-sam-altman-l-ai-compra-le-nostre-anime-chi-controlla-i-nuovi-sovrani-medievali-della-60e32086-a89c-4a4c-b27d-8c12277f8xlk.shtml",
+          "chars": 468,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=SNF%20Agora%27s%20Henry%20Farrell%20in%20Corriere%20della%20Sera%20on%20the%20pile-on%20against%20Daron%20Acemoglu%20for%20criticizing%20AI%3A%20%22The%20real%20choice%20is%20not%20between%20an%20undifferentiated%20march%20toward%20technological%20progress%20and%20its%20opponents.%20It%20is%20between%20different%20paths.%22%20https%3A//www.corriere.it/economia/innovazione/26_agosto_31/malta-e-grecia-vendono-i-loro-dati-a-sam-altman-l-ai-compra-le-nostre-anime-chi-controlla-i-nuovi-sovrani-medievali-della-60e32086-a89c-4a4c-b27d-8c12277f8xlk.shtml"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "SNF Agora's Henry Farrell in Corriere della Sera, on the backlash against economist Daron Acemoglu for criticizing AI: \"The real choice is not between an undifferentiated march toward technological progress and its opponents. It is between different paths to progress.\" https://www.corriere.it/economia/innovazione/26_agosto_31/malta-e-grecia-vendono-i-loro-dati-a-sam-altman-l-ai-compra-le-nostre-anime-chi-controlla-i-nuovi-sovrani-medievali-della-60e32086-a89c-4a4c-b27d-8c12277f8xlk.shtml",
+          "chars": 492,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=SNF%20Agora%27s%20Henry%20Farrell%20in%20Corriere%20della%20Sera%2C%20on%20the%20backlash%20against%20economist%20Daron%20Acemoglu%20for%20criticizing%20AI%3A%20%22The%20real%20choice%20is%20not%20between%20an%20undifferentiated%20march%20toward%20technological%20progress%20and%20its%20opponents.%20It%20is%20between%20different%20paths%20to%20progress.%22%20https%3A//www.corriere.it/economia/innovazione/26_agosto_31/malta-e-grecia-vendono-i-loro-dati-a-sam-altman-l-ai-compra-le-nostre-anime-chi-controlla-i-nuovi-sovrani-medievali-della-60e32086-a89c-4a4c-b27d-8c12277f8xlk.shtml"
+        }
+      ]
+    },
     {
       "id": 58,
       "mention_id": 419,
