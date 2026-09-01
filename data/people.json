@@ -439,16 +439,16 @@
       "Affiliated Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 25,
-    "mentions_in_digest": 9,
-    "reach_proxy": 46,
+    "mentions_total": 26,
+    "mentions_in_digest": 10,
+    "reach_proxy": 47,
     "first_mention_date": "2026-07-03",
-    "last_mention_date": "2026-08-30",
+    "last_mention_date": "2026-08-31",
     "sentiment": {
       "positive": 5,
       "neutral": 10,
       "negative": 1,
-      "unknown": 9
+      "unknown": 10
     },
     "top_sources": [
       {
@@ -530,8 +530,8 @@
       },
       {
         "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -763,21 +763,25 @@
       "Core Faculty"
     ],
     "is_ces": true,
-    "mentions_total": 15,
-    "mentions_in_digest": 14,
-    "reach_proxy": 15,
+    "mentions_total": 20,
+    "mentions_in_digest": 15,
+    "reach_proxy": 26,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-08-31",
+    "last_mention_date": "2026-09-01",
     "sentiment": {
       "positive": 1,
       "neutral": 6,
       "negative": 0,
-      "unknown": 8
+      "unknown": 13
     },
     "top_sources": [
       {
         "source": "The New York Times",
         "count": 3
+      },
+      {
+        "source": "Folha de S.Paulo",
+        "count": 2
       },
       {
         "source": "Internazionale",
@@ -789,10 +793,6 @@
       },
       {
         "source": "Agenda Pública",
-        "count": 1
-      },
-      {
-        "source": "Amit's Musings",
         "count": 1
       }
     ],
@@ -849,13 +849,119 @@
       },
       {
         "week_start": "2026-08-24",
-        "count": 6,
-        "reach": 8
+        "count": 7,
+        "reach": 9
       },
       {
         "week_start": "2026-08-31",
-        "count": 1,
-        "reach": 1
+        "count": 5,
+        "reach": 11
+      }
+    ]
+  },
+  {
+    "id": "none-no-captured-text",
+    "name": "None (no captured text)",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 15,
+    "mentions_in_digest": 0,
+    "reach_proxy": 24,
+    "first_mention_date": "2026-08-28",
+    "last_mention_date": "2026-09-01",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 15
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 7
+      },
+      {
+        "source": "reddit.com/r/Christianity",
+        "count": 2
+      },
+      {
+        "source": "reddit.com/r/Cinema",
+        "count": 1
+      },
+      {
+        "source": "reddit.com/r/TrueFilm",
+        "count": 1
+      },
+      {
+        "source": "reddit.com/r/mormon",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 2,
+        "reach": 11
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 13,
+        "reach": 13
       }
     ]
   },
@@ -2562,6 +2668,106 @@
     ]
   },
   {
+    "id": "amy-binder",
+    "name": "Amy Binder",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Institute Professor of Sociology",
+    "profile_url": "https://snfagora.jhu.edu/directory/amy-binder/",
+    "photo_url": null,
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 3,
+    "mentions_in_digest": 3,
+    "reach_proxy": 8,
+    "first_mention_date": "2026-07-08",
+    "last_mention_date": "2026-08-31",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "The Guardian",
+        "count": 1
+      },
+      {
+        "source": "The Renovator",
+        "count": 1
+      },
+      {
+        "source": "UOL",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 1,
+        "reach": 6
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "eliot-cohen",
     "name": "Eliot Cohen",
     "kind": "unmatched",
@@ -2660,6 +2866,100 @@
     ]
   },
   {
+    "id": "ronald-j-daniels",
+    "name": "Ronald J. Daniels",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 3,
+    "mentions_in_digest": 1,
+    "reach_proxy": 6,
+    "first_mention_date": "2026-08-30",
+    "last_mention_date": "2026-08-31",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 2
+    },
+    "top_sources": [
+      {
+        "source": "Bluesky",
+        "count": 2
+      },
+      {
+        "source": "Hub - Johns Hopkins University",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 2,
+        "reach": 5
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "steven-teles",
     "name": "Steven Teles",
     "kind": "faculty",
@@ -2741,102 +3041,6 @@
         "week_start": "2026-08-10",
         "count": 1,
         "reach": 3
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "amy-binder",
-    "name": "Amy Binder",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Institute Professor of Sociology",
-    "profile_url": "https://snfagora.jhu.edu/directory/amy-binder/",
-    "photo_url": null,
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 2,
-    "mentions_in_digest": 2,
-    "reach_proxy": 7,
-    "first_mention_date": "2026-07-08",
-    "last_mention_date": "2026-07-30",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 2,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [
-      {
-        "source": "The Guardian",
-        "count": 1
-      },
-      {
-        "source": "UOL",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 6
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
       },
       {
         "week_start": "2026-08-17",
@@ -3509,186 +3713,6 @@
         "week_start": "2026-08-24",
         "count": 1,
         "reach": 4
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "none-no-captured-text",
-    "name": "None (no captured text)",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 2,
-    "mentions_in_digest": 0,
-    "reach_proxy": 11,
-    "first_mention_date": "2026-08-28",
-    "last_mention_date": "2026-08-28",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 2
-    },
-    "top_sources": [
-      {
-        "source": "Twitter",
-        "count": 2
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 2,
-        "reach": 11
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "ronald-j-daniels",
-    "name": "Ronald J. Daniels",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 2,
-    "mentions_in_digest": 0,
-    "reach_proxy": 5,
-    "first_mention_date": "2026-08-30",
-    "last_mention_date": "2026-08-30",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 2
-    },
-    "top_sources": [
-      {
-        "source": "Bluesky",
-        "count": 2
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 2,
-        "reach": 5
       },
       {
         "week_start": "2026-08-31",
@@ -6258,6 +6282,98 @@
         "week_start": "2026-08-31",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "sara-johnson",
+    "name": "Sara Johnson",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Professor in Pediatric Population Health and Health Equity Research at the Johns Hopkins School of Medicine",
+    "profile_url": "https://snfagora.jhu.edu/directory/sara-johnson/",
+    "photo_url": "images/people/sara-johnson.jpg",
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 1,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-09-01",
+    "last_mention_date": "2026-09-01",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Springer",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -10893,93 +11009,6 @@
     "photo_url": null,
     "categories": [
       "Visiting Fellows"
-    ],
-    "is_ces": false,
-    "mentions_total": 0,
-    "mentions_in_digest": 0,
-    "reach_proxy": 0,
-    "first_mention_date": null,
-    "last_mention_date": null,
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [],
-    "weekly": [
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "sara-johnson",
-    "name": "Sara Johnson",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Professor in Pediatric Population Health and Health Equity Research at the Johns Hopkins School of Medicine",
-    "profile_url": "https://snfagora.jhu.edu/directory/sara-johnson/",
-    "photo_url": "images/people/sara-johnson.jpg",
-    "categories": [
-      "Affiliated Faculty"
     ],
     "is_ces": false,
     "mentions_total": 0,
