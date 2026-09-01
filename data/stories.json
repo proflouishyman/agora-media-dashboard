@@ -1,7 +1,293 @@
 {
-  "generated_at": "2026-08-31T07:14:45-04:00",
-  "count": 441,
+  "generated_at": "2026-09-01T09:30:17-04:00",
+  "count": 463,
   "stories": [
+    {
+      "id": 455,
+      "date": "2026-09-01",
+      "week_start": "2026-08-31",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Malta dhe Greqia ia shesin te dhenat e tyre CHAT GPT (syndication of Corriere della Sera, digested 2026-08-31)",
+      "has_text": true,
+      "url": "https://www.shqipmedia.com/malta-dhe-greqia-ia-shesin-te-dhenat-e-tyre-chat-gpt-kush-i-kontrollon-sundimtaret-e-rinj-te-teknologjise/",
+      "source": "Shqipmedia",
+      "source_type": null,
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Malta dhe Greqia ia shesin te dhenat e tyre CHAT GPT (syndication of Corriere della Sera, digested 2026-08-31) https://www.shqipmedia.com/malta-dhe-greqia-ia-shesin-te-dhenat-e-tyre-chat-gpt-kush-i-kontrollon-sundimtaret-e-rinj-te-teknologjise/",
+          "chars": 134
+        },
+        "bluesky": {
+          "text": "Malta dhe Greqia ia shesin te dhenat e tyre CHAT GPT (syndication of Corriere della Sera, digested 2026-08-31) https://www.shqipmedia.com/malta-dhe-greqia-ia-shesin-te-dhenat-e-tyre-chat-gpt-kush-i-kontrollon-sundimtaret-e-rinj-te-teknologjise/",
+          "chars": 244
+        }
+      }
+    },
+    {
+      "id": 453,
+      "date": "2026-09-01",
+      "week_start": "2026-08-31",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "L'IA compra le nostre anime: chi controlla i nuovi sovrani della tecnologia? (syndication of Corriere della Sera, digested 2026-08-31)",
+      "has_text": true,
+      "url": "https://naufraghi.ch/lia-compra-le-nostre-anime-chi-controlla-i-nuovi-sovrani-medievali-della-tecnologia/",
+      "source": "NAUFRAGHI/E",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "L'IA compra le nostre anime: chi controlla i nuovi sovrani della tecnologia? (syndication of Corriere della Sera, digested 2026-08-31) https://naufraghi.ch/lia-compra-le-nostre-anime-chi-controlla-i-nuovi-sovrani-medievali-della-tecnologia/",
+          "chars": 158
+        },
+        "bluesky": {
+          "text": "L'IA compra le nostre anime: chi controlla i nuovi sovrani della tecnologia? (syndication of Corriere della Sera, digested 2026-08-31) https://naufraghi.ch/lia-compra-le-nostre-anime-chi-controlla-i-nuovi-sovrani-medievali-della-tecnologia/",
+          "chars": 240
+        }
+      }
+    },
+    {
+      "id": 463,
+      "date": "2026-09-01",
+      "week_start": "2026-08-31",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "(untitled row, no captured text)",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/Cinema/comments/1w447fa/journey_through_history_in_153_works/",
+      "source": "reddit.com/r/Cinema",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "(untitled row, no captured text) https://www.reddit.com/r/Cinema/comments/1w447fa/journey_through_history_in_153_works/",
+          "chars": 56
+        },
+        "bluesky": {
+          "text": "(untitled row, no captured text) https://www.reddit.com/r/Cinema/comments/1w447fa/journey_through_history_in_153_works/",
+          "chars": 119
+        }
+      }
+    },
+    {
+      "id": 462,
+      "date": "2026-09-01",
+      "week_start": "2026-08-31",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "(untitled row, no captured text)",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/Christianity/comments/1w45q5y/my_take_on_a_film_journey_through_western/",
+      "source": "reddit.com/r/Christianity",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "(untitled row, no captured text) https://www.reddit.com/r/Christianity/comments/1w45q5y/my_take_on_a_film_journey_through_western/",
+          "chars": 56
+        },
+        "bluesky": {
+          "text": "(untitled row, no captured text) https://www.reddit.com/r/Christianity/comments/1w45q5y/my_take_on_a_film_journey_through_western/",
+          "chars": 130
+        }
+      }
+    },
+    {
+      "id": 461,
+      "date": "2026-09-01",
+      "week_start": "2026-08-31",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "(untitled row, no captured text)",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/Christianity/comments/1w45s1o/153_fish_my_take_on_a_film_journey_through/",
+      "source": "reddit.com/r/Christianity",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "(untitled row, no captured text) https://www.reddit.com/r/Christianity/comments/1w45s1o/153_fish_my_take_on_a_film_journey_through/",
+          "chars": 56
+        },
+        "bluesky": {
+          "text": "(untitled row, no captured text) https://www.reddit.com/r/Christianity/comments/1w45s1o/153_fish_my_take_on_a_film_journey_through/",
+          "chars": 131
+        }
+      }
+    },
+    {
+      "id": 460,
+      "date": "2026-09-01",
+      "week_start": "2026-08-31",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "(untitled row, no captured text)",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/theology/comments/1w45ym0/153_fish_my_take_on_a_film_journey_through/",
+      "source": "reddit.com/r/theology",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "(untitled row, no captured text) https://www.reddit.com/r/theology/comments/1w45ym0/153_fish_my_take_on_a_film_journey_through/",
+          "chars": 56
+        },
+        "bluesky": {
+          "text": "(untitled row, no captured text) https://www.reddit.com/r/theology/comments/1w45ym0/153_fish_my_take_on_a_film_journey_through/",
+          "chars": 127
+        }
+      }
+    },
+    {
+      "id": 459,
+      "date": "2026-09-01",
+      "week_start": "2026-08-31",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "(untitled row, no captured text)",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/mormon/comments/1w46ah6/153_fish_my_take_on_a_film_journey_through/",
+      "source": "reddit.com/r/mormon",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "(untitled row, no captured text) https://www.reddit.com/r/mormon/comments/1w46ah6/153_fish_my_take_on_a_film_journey_through/",
+          "chars": 56
+        },
+        "bluesky": {
+          "text": "(untitled row, no captured text) https://www.reddit.com/r/mormon/comments/1w46ah6/153_fish_my_take_on_a_film_journey_through/",
+          "chars": 125
+        }
+      }
+    },
+    {
+      "id": 458,
+      "date": "2026-09-01",
+      "week_start": "2026-08-31",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "(untitled row, no captured text)",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/TrueFilm/comments/1w46mtl/153_fish_my_take_on_a_film_journey_through/",
+      "source": "reddit.com/r/TrueFilm",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "(untitled row, no captured text) https://www.reddit.com/r/TrueFilm/comments/1w46mtl/153_fish_my_take_on_a_film_journey_through/",
+          "chars": 56
+        },
+        "bluesky": {
+          "text": "(untitled row, no captured text) https://www.reddit.com/r/TrueFilm/comments/1w46mtl/153_fish_my_take_on_a_film_journey_through/",
+          "chars": 127
+        }
+      }
+    },
+    {
+      "id": 457,
+      "date": "2026-09-01",
+      "week_start": "2026-08-31",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "(untitled row, no captured text)",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/spirituality/comments/1w46sv3/153_fish_my_take_on_a_film_journey_through/",
+      "source": "reddit.com/r/spirituality",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "(untitled row, no captured text) https://www.reddit.com/r/spirituality/comments/1w46sv3/153_fish_my_take_on_a_film_journey_through/",
+          "chars": 56
+        },
+        "bluesky": {
+          "text": "(untitled row, no captured text) https://www.reddit.com/r/spirituality/comments/1w46sv3/153_fish_my_take_on_a_film_journey_through/",
+          "chars": 131
+        }
+      }
+    },
+    {
+      "id": 452,
+      "date": "2026-09-01",
+      "week_start": "2026-08-31",
+      "person_id": "sara-johnson",
+      "person": "Sara Johnson",
+      "is_ces": false,
+      "title": "Feasibility, Satisfaction, and Preliminary Efficacy Trial of text4FATHER for Engaging Expectant Fathers in Infant Care from Pregnancy to Early Infancy",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s11121-026-01968-2",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Feasibility, Satisfaction, and Preliminary Efficacy Trial of text4FATHER for Engaging Expectant Fathers in Infant Care from Pregnancy to Early Infancy https://link.springer.com/article/10.1007/s11121-026-01968-2",
+          "chars": 174
+        },
+        "bluesky": {
+          "text": "Feasibility, Satisfaction, and Preliminary Efficacy Trial of text4FATHER for Engaging Expectant Fathers in Infant Care from Pregnancy to Early Infancy https://link.springer.com/article/10.1007/s11121-026-01968-2",
+          "chars": 211
+        }
+      }
+    },
+    {
+      "id": 454,
+      "date": "2026-08-31",
+      "week_start": "2026-08-31",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Mega skandalo: OpenAI ChatGPT / Greece data licensing (syndication of Corriere della Sera, digested 2026-08-31)",
+      "has_text": true,
+      "url": "https://www.bankingnews.gr/index.php?id=896680",
+      "source": "BankingNews.gr",
+      "source_type": null,
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Mega skandalo: OpenAI ChatGPT / Greece data licensing (syndication of Corriere della Sera, digested 2026-08-31) https://www.bankingnews.gr/index.php?id=896680",
+          "chars": 135
+        },
+        "bluesky": {
+          "text": "Mega skandalo: OpenAI ChatGPT / Greece data licensing (syndication of Corriere della Sera, digested 2026-08-31) https://www.bankingnews.gr/index.php?id=896680",
+          "chars": 158
+        }
+      }
+    },
     {
       "id": 441,
       "date": "2026-08-31",
@@ -18,6 +304,221 @@
       "entity_sentiment": "unknown",
       "in_digest": false,
       "share": null
+    },
+    {
+      "id": 469,
+      "date": "2026-08-31",
+      "week_start": "2026-08-31",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "(untitled row, no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 468,
+      "date": "2026-08-31",
+      "week_start": "2026-08-31",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "(untitled row, no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 467,
+      "date": "2026-08-31",
+      "week_start": "2026-08-31",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "(untitled row, no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 466,
+      "date": "2026-08-31",
+      "week_start": "2026-08-31",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "(untitled row, no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 465,
+      "date": "2026-08-31",
+      "week_start": "2026-08-31",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "(untitled row, no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 464,
+      "date": "2026-08-31",
+      "week_start": "2026-08-31",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "(untitled row, no captured text)",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/movies/comments/1w40twe/my_take_on_a_film_journey_through_western/",
+      "source": "reddit.com/r/movies",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "(untitled row, no captured text) https://www.reddit.com/r/movies/comments/1w40twe/my_take_on_a_film_journey_through_western/",
+          "chars": 56
+        },
+        "bluesky": {
+          "text": "(untitled row, no captured text) https://www.reddit.com/r/movies/comments/1w40twe/my_take_on_a_film_journey_through_western/",
+          "chars": 124
+        }
+      }
+    },
+    {
+      "id": 451,
+      "date": "2026-08-31",
+      "week_start": "2026-08-31",
+      "person_id": "amy-binder",
+      "person": "Amy Binder",
+      "is_ces": false,
+      "title": "Preparing for student voting, civil dialogue in the news, and 'Our Common Purpose' revisited.",
+      "has_text": true,
+      "url": "https://www.democracyrenovator.com/p/preparing-for-student-voting-civil",
+      "source": "The Renovator",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Preparing for student voting, civil dialogue in the news, and 'Our Common Purpose' revisited. https://www.democracyrenovator.com/p/preparing-for-student-voting-civil",
+          "chars": 117
+        },
+        "bluesky": {
+          "text": "Preparing for student voting, civil dialogue in the news, and 'Our Common Purpose' revisited. https://www.democracyrenovator.com/p/preparing-for-student-voting-civil",
+          "chars": 165
+        }
+      }
+    },
+    {
+      "id": 450,
+      "date": "2026-08-31",
+      "week_start": "2026-08-31",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Semiconductors, Rare Earths and Power: The New Economic Battlefield #shorts",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=n8LJwSixlZw",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Semiconductors, Rare Earths and Power: The New Economic Battlefield #shorts https://www.youtube.com/watch?v=n8LJwSixlZw",
+          "chars": 99
+        },
+        "bluesky": {
+          "text": "Semiconductors, Rare Earths and Power: The New Economic Battlefield #shorts https://www.youtube.com/watch?v=n8LJwSixlZw",
+          "chars": 119
+        }
+      }
+    },
+    {
+      "id": 449,
+      "date": "2026-08-31",
+      "week_start": "2026-08-31",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": "NEW YORK TIMES: It's based on real science but could Apple TV's Dark Matter multiverse actually exist?",
+      "has_text": true,
+      "url": "https://thenightly.com.au/culture/new-york-times-its-based-on-real-science-but-could-apple-tvs-dark-matter-multiverse-actually-exist-c-22800659",
+      "source": "The Nightly",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "NEW YORK TIMES: It's based on real science but could Apple TV's Dark Matter multiverse actually exist? https://thenightly.com.au/culture/new-york-times-its-based-on-real-science-but-could-apple-tvs-dark-matter-multiverse-actually-exist-c-22800659",
+          "chars": 126
+        },
+        "bluesky": {
+          "text": "NEW YORK TIMES: It's based on real science but could Apple TV's Dark Matter multiverse actually exist? https://thenightly.com.au/culture/new-york-times-its-based-on-real-science-but-could-apple-tvs-dark-matter-multiverse-actually-exist-c-22800659",
+          "chars": 246
+        }
+      }
+    },
+    {
+      "id": 448,
+      "date": "2026-08-31",
+      "week_start": "2026-08-31",
+      "person_id": "ronald-j-daniels",
+      "person": "Ronald J. Daniels",
+      "is_ces": false,
+      "title": "President Daniels: 'Meet the unfamiliar with curiosity and care'",
+      "has_text": true,
+      "url": "https://president.jhu.edu/speeches/2026/08/31/convocation-for-the-class-of-2030/",
+      "source": "Hub - Johns Hopkins University",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "President Daniels: 'Meet the unfamiliar with curiosity and care' https://president.jhu.edu/speeches/2026/08/31/convocation-for-the-class-of-2030/",
+          "chars": 88
+        },
+        "bluesky": {
+          "text": "President Daniels: 'Meet the unfamiliar with curiosity and care' https://president.jhu.edu/speeches/2026/08/31/convocation-for-the-class-of-2030/",
+          "chars": 145
+        }
+      }
     },
     {
       "id": 443,
@@ -359,6 +860,32 @@
         "bluesky": {
           "text": "Republicanos estão cometendo o mesmo erro dos democratas (Ezra Klein column) https://www1.folha.uol.com.br/colunas/ezra-klein/2026/08/politica-virou-refem-da-realidade-distorcida-das-redes-sociais.shtml",
           "chars": 202
+        }
+      }
+    },
+    {
+      "id": 456,
+      "date": "2026-08-30",
+      "week_start": "2026-08-24",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Republicanos estao cometendo o mesmo erro dos democratas (Ezra Klein) — already digested 2026-08-31",
+      "has_text": true,
+      "url": "https://www1.folha.uol.com.br/colunas/ezra-klein/2026/08/politica-virou-refem-da-realidade-distorcida-das-redes-sociais.shtml",
+      "source": "Folha de S.Paulo",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Republicanos estao cometendo o mesmo erro dos democratas (Ezra Klein) — already digested 2026-08-31 https://www1.folha.uol.com.br/colunas/ezra-klein/2026/08/politica-virou-refem-da-realidade-distorcida-das-redes-sociais.shtml",
+          "chars": 123
+        },
+        "bluesky": {
+          "text": "Republicanos estao cometendo o mesmo erro dos democratas (Ezra Klein) — already digested 2026-08-31 https://www1.folha.uol.com.br/colunas/ezra-klein/2026/08/politica-virou-refem-da-realidade-distorcida-das-redes-sociais.shtml",
+          "chars": 225
         }
       }
     },
