@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-01T09:30:17-04:00",
+  "generated_at": "2026-09-02T09:28:53-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-09-01"
+    "end": "2026-09-02"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 463,
-        "in_digest": 200,
-        "reach_proxy": 1579,
-        "people_covered": 68,
+        "mentions": 491,
+        "in_digest": 206,
+        "reach_proxy": 1755,
+        "people_covered": 80,
         "people_tracked": 100,
-        "sources": 219,
+        "sources": 235,
         "negative": 11
       },
       "deltas": {
@@ -467,9 +467,16 @@
         },
         {
           "date": "2026-09-01",
-          "count": 10,
+          "count": 26,
+          "reach": 176,
+          "in_digest": 5,
+          "observed": true
+        },
+        {
+          "date": "2026-09-02",
+          "count": 12,
           "reach": 14,
-          "in_digest": 1,
+          "in_digest": 2,
           "observed": true
         }
       ],
@@ -593,30 +600,30 @@
         },
         {
           "week_start": "2026-08-31",
-          "count": 31,
-          "reach": 39,
-          "in_digest": 6,
-          "people": 9,
+          "count": 59,
+          "reach": 215,
+          "in_digest": 12,
+          "people": 24,
           "sentiment": {
-            "positive": 1,
-            "neutral": 0,
+            "positive": 3,
+            "neutral": 1,
             "negative": 0,
-            "unknown": 30
+            "unknown": 55
           }
         }
       ],
       "sentiment": {
-        "positive": 75,
-        "neutral": 132,
+        "positive": 77,
+        "neutral": 133,
         "negative": 11,
-        "unknown": 245
+        "unknown": 270
       },
       "top_people": [
         {
           "person_id": "snf-agora-institute",
           "name": "SNF Agora Institute",
-          "count": 61,
-          "reach": 131,
+          "count": 63,
+          "reach": 142,
           "is_ces": false
         },
         {
@@ -648,6 +655,13 @@
           "is_ces": false
         },
         {
+          "person_id": "henry-farrell",
+          "name": "Henry Farrell",
+          "count": 23,
+          "reach": 29,
+          "is_ces": true
+        },
+        {
           "person_id": "yascha-mounk",
           "name": "Yascha Mounk",
           "count": 23,
@@ -662,17 +676,10 @@
           "is_ces": false
         },
         {
-          "person_id": "henry-farrell",
-          "name": "Henry Farrell",
-          "count": 20,
-          "reach": 26,
-          "is_ces": true
-        },
-        {
           "person_id": "none-no-captured-text",
           "name": "None (no captured text)",
-          "count": 15,
-          "reach": 24,
+          "count": 17,
+          "reach": 26,
           "is_ces": false
         },
         {
@@ -686,8 +693,8 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 90,
-          "reach": 304,
+          "count": 93,
+          "reach": 307,
           "is_other": false
         },
         {
@@ -698,8 +705,8 @@
         },
         {
           "source": "LinkedIn",
-          "count": 18,
-          "reach": 15,
+          "count": 19,
+          "reach": 16,
           "is_other": false
         },
         {
@@ -709,15 +716,21 @@
           "is_other": false
         },
         {
+          "source": "Youtube",
+          "count": 13,
+          "reach": 10,
+          "is_other": false
+        },
+        {
           "source": "Substack",
           "count": 12,
           "reach": 14,
           "is_other": false
         },
         {
-          "source": "Youtube",
-          "count": 11,
-          "reach": 8,
+          "source": "Springer",
+          "count": 10,
+          "reach": 10,
           "is_other": false
         },
         {
@@ -727,34 +740,28 @@
           "is_other": false
         },
         {
-          "source": "Baltimore Fishbowl",
-          "count": 7,
-          "reach": 8,
-          "is_other": false
-        },
-        {
           "source": "Other",
-          "count": 279,
-          "reach": 697,
+          "count": 298,
+          "reach": 865,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 215
+          "count": 230
         },
         {
           "source_type": "social network",
-          "count": 98
+          "count": 102
         },
         {
           "source_type": "blog",
-          "count": 16
+          "count": 22
         },
         {
           "source_type": "unresolved",
-          "count": 134
+          "count": 137
         }
       ],
       "negative_stories": [
@@ -775,11 +782,11 @@
           "row_label": "SNF Agora Institute",
           "person_id": "snf-agora-institute",
           "is_ces": false,
-          "positive": 18,
-          "neutral": 22,
+          "positive": 19,
+          "neutral": 23,
           "negative": 3,
           "unknown": 18,
-          "total": 61
+          "total": 63
         },
         {
           "row_label": "Anne Applebaum",
@@ -822,6 +829,16 @@
           "total": 26
         },
         {
+          "row_label": "Henry Farrell",
+          "person_id": "henry-farrell",
+          "is_ces": true,
+          "positive": 1,
+          "neutral": 6,
+          "negative": 0,
+          "unknown": 16,
+          "total": 23
+        },
+        {
           "row_label": "Yascha Mounk",
           "person_id": "yascha-mounk",
           "is_ces": false,
@@ -842,24 +859,14 @@
           "total": 21
         },
         {
-          "row_label": "Henry Farrell",
-          "person_id": "henry-farrell",
-          "is_ces": true,
-          "positive": 1,
-          "neutral": 6,
-          "negative": 0,
-          "unknown": 13,
-          "total": 20
-        },
-        {
           "row_label": "None (no captured text)",
           "person_id": "none-no-captured-text",
           "is_ces": false,
           "positive": 0,
           "neutral": 0,
           "negative": 0,
-          "unknown": 15,
-          "total": 15
+          "unknown": 17,
+          "total": 17
         },
         {
           "row_label": "Denise Dresser",
@@ -1012,6 +1019,16 @@
           "total": 5
         },
         {
+          "row_label": "Amy Binder",
+          "person_id": "amy-binder",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 2,
+          "negative": 0,
+          "unknown": 2,
+          "total": 4
+        },
+        {
           "row_label": "Emily White",
           "person_id": "emily-white",
           "is_ces": false,
@@ -1022,18 +1039,48 @@
           "total": 4
         },
         {
-          "row_label": "Amy Binder",
-          "person_id": "amy-binder",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 2,
+          "row_label": "Steven Teles",
+          "person_id": "steven-teles",
+          "is_ces": true,
+          "positive": 2,
+          "neutral": 1,
           "negative": 0,
           "unknown": 1,
-          "total": 3
+          "total": 4
         },
         {
           "row_label": "Eliot Cohen",
           "person_id": "eliot-cohen",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 3,
+          "total": 3
+        },
+        {
+          "row_label": "Jenna Silber Storey",
+          "person_id": "jenna-storey",
+          "is_ces": false,
+          "positive": 1,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 2,
+          "total": 3
+        },
+        {
+          "row_label": "Namesake/noise match: Higher Education, Johns Hopkins",
+          "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 3,
+          "total": 3
+        },
+        {
+          "row_label": "Namesake/noise match: Johns Hopkins, agora",
+          "person_id": "namesake-noise-match-johns-hopkins-agora",
           "is_ces": false,
           "positive": 0,
           "neutral": 0,
@@ -1049,16 +1096,6 @@
           "neutral": 0,
           "negative": 0,
           "unknown": 2,
-          "total": 3
-        },
-        {
-          "row_label": "Steven Teles",
-          "person_id": "steven-teles",
-          "is_ces": true,
-          "positive": 1,
-          "neutral": 1,
-          "negative": 0,
-          "unknown": 1,
           "total": 3
         },
         {
@@ -1092,16 +1129,6 @@
           "total": 2
         },
         {
-          "row_label": "Jenna Silber Storey",
-          "person_id": "jenna-storey",
-          "is_ces": false,
-          "positive": 1,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 1,
-          "total": 2
-        },
-        {
           "row_label": "Jeremy Wallace",
           "person_id": "jeremy-wallace",
           "is_ces": false,
@@ -1129,6 +1156,26 @@
           "neutral": 1,
           "negative": 0,
           "unknown": 1,
+          "total": 2
+        },
+        {
+          "row_label": "Namesake/noise match: Hopkins, agora",
+          "person_id": "namesake-noise-match-hopkins-agora",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 2,
+          "total": 2
+        },
+        {
+          "row_label": "Namesake/noise match: Johns Hopkins, higher education",
+          "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 2,
           "total": 2
         },
         {
@@ -1402,6 +1449,86 @@
           "total": 1
         },
         {
+          "row_label": "Namesake/noise match: Academic Freedom, Higher Education, Johns Hopkins",
+          "person_id": "namesake-noise-match-academic-freedom-higher-education-johns-hopkins",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Namesake/noise match: Agora, Johns Hopkins",
+          "person_id": "namesake-noise-match-agora-johns-hopkins",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Namesake/noise match: HIGHER EDUCATION, Higher Education, Higher education",
+          "person_id": "namesake-noise-match-higher-education-higher-education-higher-education",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Namesake/noise match: Higher Education, Higher education, Johns Hopkins",
+          "person_id": "namesake-noise-match-higher-education-higher-education-johns-hopkins",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Namesake/noise match: Higher Education, Johns Hopkins, higher education",
+          "person_id": "namesake-noise-match-higher-education-johns-hopkins-higher-education",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Namesake/noise match: Hopkins University, higher education",
+          "person_id": "namesake-noise-match-hopkins-university-higher-education",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Namesake/noise match: Johns Hopkins, NIH funding",
+          "person_id": "namesake-noise-match-johns-hopkins-nih-funding",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Namesake/noise match: Johns Hopkins, University president",
+          "person_id": "namesake-noise-match-johns-hopkins-university-president",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
           "row_label": "Nina Hall",
           "person_id": "nina-hall",
           "is_ces": false,
@@ -1456,34 +1583,34 @@
         {
           "row_label": "online news",
           "positive": 25,
-          "neutral": 83,
+          "neutral": 84,
           "negative": 2,
-          "unknown": 105,
-          "total": 215
+          "unknown": 119,
+          "total": 230
         },
         {
           "row_label": "social network",
-          "positive": 25,
+          "positive": 26,
           "neutral": 32,
           "negative": 1,
-          "unknown": 40,
-          "total": 98
+          "unknown": 43,
+          "total": 102
         },
         {
           "row_label": "blog",
-          "positive": 4,
+          "positive": 5,
           "neutral": 6,
           "negative": 0,
-          "unknown": 6,
-          "total": 16
+          "unknown": 11,
+          "total": 22
         },
         {
           "row_label": "unresolved",
           "positive": 21,
           "neutral": 11,
           "negative": 8,
-          "unknown": 94,
-          "total": 134
+          "unknown": 97,
+          "total": 137
         }
       ],
       "sentiment_examples": {
@@ -1645,6 +1772,26 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 473,
+              "person": "Steven Teles",
+              "person_id": "steven-teles",
+              "is_ces": true,
+              "title": "Straws in the Wind - Part 452",
+              "url": "https://uclafacultyassociation.blogspot.com/2026/09/straws-in-wind-part-452.html",
+              "source": "UCLA Faculty Association",
+              "date": "2026-09-02"
+            },
+            {
+              "id": 475,
+              "person": "SNF Agora Institute",
+              "person_id": "snf-agora-institute",
+              "is_ces": false,
+              "title": "New Agora Visiting Fellow marks first day at Hopkins (LinkedIn post)",
+              "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7500692908577083392",
+              "source": "LinkedIn",
+              "date": "2026-09-01"
+            },
             {
               "id": 448,
               "person": "Ronald J. Daniels",
@@ -2399,11 +2546,19 @@
           "top_keyphrases": [
             {
               "keyphrase": "organization",
-              "count": 7
+              "count": 8
             },
             {
               "keyphrase": "democracy",
               "count": 6
+            },
+            {
+              "keyphrase": "faculty",
+              "count": 4
+            },
+            {
+              "keyphrase": "research",
+              "count": 4
             },
             {
               "keyphrase": "author",
@@ -2418,7 +2573,7 @@
               "count": 4
             },
             {
-              "keyphrase": "research",
+              "keyphrase": "center",
               "count": 3
             },
             {
@@ -2428,14 +2583,6 @@
             {
               "keyphrase": "consummate scholar",
               "count": 3
-            },
-            {
-              "keyphrase": "country",
-              "count": 3
-            },
-            {
-              "keyphrase": "campus",
-              "count": 3
             }
           ]
         }
@@ -2443,12 +2590,12 @@
     },
     "ces": {
       "totals": {
-        "mentions": 74,
-        "in_digest": 50,
-        "reach_proxy": 121,
+        "mentions": 78,
+        "in_digest": 52,
+        "reach_proxy": 125,
         "people_covered": 10,
         "people_tracked": 17,
-        "sources": 44,
+        "sources": 45,
         "negative": 0
       },
       "deltas": {
@@ -2903,9 +3050,16 @@
         },
         {
           "date": "2026-09-01",
+          "count": 4,
+          "reach": 8,
+          "in_digest": 1,
+          "observed": true
+        },
+        {
+          "date": "2026-09-02",
           "count": 2,
-          "reach": 6,
-          "in_digest": 0,
+          "reach": 2,
+          "in_digest": 1,
           "observed": true
         }
       ],
@@ -3029,23 +3183,23 @@
         },
         {
           "week_start": "2026-08-31",
-          "count": 5,
-          "reach": 11,
-          "in_digest": 2,
-          "people": 1,
+          "count": 9,
+          "reach": 15,
+          "in_digest": 4,
+          "people": 2,
           "sentiment": {
-            "positive": 0,
+            "positive": 1,
             "neutral": 0,
             "negative": 0,
-            "unknown": 5
+            "unknown": 8
           }
         }
       ],
       "sentiment": {
-        "positive": 12,
+        "positive": 13,
         "neutral": 24,
         "negative": 0,
-        "unknown": 38
+        "unknown": 41
       },
       "top_people": [
         {
@@ -3058,8 +3212,8 @@
         {
           "person_id": "henry-farrell",
           "name": "Henry Farrell",
-          "count": 20,
-          "reach": 26,
+          "count": 23,
+          "reach": 29,
           "is_ces": true
         },
         {
@@ -3072,8 +3226,8 @@
         {
           "person_id": "steven-teles",
           "name": "Steven Teles",
-          "count": 3,
-          "reach": 7,
+          "count": 4,
+          "reach": 8,
           "is_ces": true
         },
         {
@@ -3122,8 +3276,8 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 16,
-          "reach": 23,
+          "count": 18,
+          "reach": 25,
           "is_other": false
         },
         {
@@ -3170,8 +3324,8 @@
         },
         {
           "source": "Other",
-          "count": 40,
-          "reach": 80,
+          "count": 42,
+          "reach": 82,
           "is_other": true
         }
       ],
@@ -3182,15 +3336,15 @@
         },
         {
           "source_type": "social network",
-          "count": 9
+          "count": 10
         },
         {
           "source_type": "blog",
-          "count": 3
+          "count": 4
         },
         {
           "source_type": "unresolved",
-          "count": 23
+          "count": 25
         }
       ],
       "negative_stories": [],
@@ -3212,8 +3366,8 @@
           "positive": 1,
           "neutral": 6,
           "negative": 0,
-          "unknown": 13,
-          "total": 20
+          "unknown": 16,
+          "total": 23
         },
         {
           "row_label": "Louis Hyman",
@@ -3229,11 +3383,11 @@
           "row_label": "Steven Teles",
           "person_id": "steven-teles",
           "is_ces": true,
-          "positive": 1,
+          "positive": 2,
           "neutral": 1,
           "negative": 0,
           "unknown": 1,
-          "total": 3
+          "total": 4
         },
         {
           "row_label": "Angus Burgin",
@@ -3310,24 +3464,24 @@
           "positive": 1,
           "neutral": 7,
           "negative": 0,
-          "unknown": 1,
-          "total": 9
+          "unknown": 2,
+          "total": 10
         },
         {
           "row_label": "blog",
-          "positive": 1,
+          "positive": 2,
           "neutral": 1,
           "negative": 0,
           "unknown": 1,
-          "total": 3
+          "total": 4
         },
         {
           "row_label": "unresolved",
           "positive": 2,
           "neutral": 1,
           "negative": 0,
-          "unknown": 20,
-          "total": 23
+          "unknown": 22,
+          "total": 25
         }
       ],
       "sentiment_examples": {
@@ -3337,6 +3491,16 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 473,
+              "person": "Steven Teles",
+              "person_id": "steven-teles",
+              "is_ces": true,
+              "title": "Straws in the Wind - Part 452",
+              "url": "https://uclafacultyassociation.blogspot.com/2026/09/straws-in-wind-part-452.html",
+              "source": "UCLA Faculty Association",
+              "date": "2026-09-02"
+            },
             {
               "id": 248,
               "person": "Yuen Yuen Ang",
@@ -3460,6 +3624,10 @@
           ],
           "top_keyphrases": [
             {
+              "keyphrase": "center",
+              "count": 3
+            },
+            {
               "keyphrase": "aei and hopkins talk",
               "count": 2
             },
@@ -3485,10 +3653,6 @@
             },
             {
               "keyphrase": "campus",
-              "count": 2
-            },
-            {
-              "keyphrase": "center",
               "count": 2
             },
             {
