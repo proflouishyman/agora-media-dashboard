@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-01T09:30:17-04:00",
-  "generated_date": "2026-09-01",
+  "generated_at": "2026-09-02T09:28:53-04:00",
+  "generated_date": "2026-09-02",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-09-01",
+    "last_mention_date": "2026-09-02",
     "observed_dates": [
       "2026-07-02",
       "2026-07-03",
@@ -66,10 +66,11 @@
       "2026-08-29",
       "2026-08-30",
       "2026-08-31",
-      "2026-09-01"
+      "2026-09-01",
+      "2026-09-02"
     ],
-    "total_mentions": 463,
-    "total_raw_documents": 1552,
+    "total_mentions": 491,
+    "total_raw_documents": 1728,
     "total_tracked_people": 100,
     "total_ces_people": 17
   },
@@ -77,19 +78,19 @@
     "all": {
       "label": "SNF Agora Institute",
       "people": 100,
-      "mentions": 463
+      "mentions": 491
     },
     "ces": {
       "label": "Center on Economy and Society",
       "people": 17,
-      "mentions": 74
+      "mentions": 78
     }
   },
   "data_quality": {
-    "mentions_missing_url": 117,
+    "mentions_missing_url": 120,
     "mentions_no_text_captured": 89,
-    "mentions_sentiment_unknown": 245,
-    "mentions_shareable": 327,
+    "mentions_sentiment_unknown": 270,
+    "mentions_shareable": 352,
     "unmatched_persons": [
       {
         "person": "None (keyword noise)",
@@ -97,7 +98,7 @@
       },
       {
         "person": "None (no captured text)",
-        "mentions": 15
+        "mentions": 17
       },
       {
         "person": "Johns Hopkins",
@@ -116,11 +117,27 @@
         "mentions": 3
       },
       {
+        "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+        "mentions": 3
+      },
+      {
+        "person": "Namesake/noise match: Johns Hopkins, agora",
+        "mentions": 3
+      },
+      {
         "person": "Ronald J. Daniels",
         "mentions": 3
       },
       {
         "person": "Andre Nogueira",
+        "mentions": 2
+      },
+      {
+        "person": "Namesake/noise match: Hopkins, agora",
+        "mentions": 2
+      },
+      {
+        "person": "Namesake/noise match: Johns Hopkins, higher education",
         "mentions": 2
       },
       {
@@ -169,6 +186,38 @@
       },
       {
         "person": "Leah Wright Rigueur",
+        "mentions": 1
+      },
+      {
+        "person": "Namesake/noise match: Academic Freedom, Higher Education, Johns Hopkins",
+        "mentions": 1
+      },
+      {
+        "person": "Namesake/noise match: Agora, Johns Hopkins",
+        "mentions": 1
+      },
+      {
+        "person": "Namesake/noise match: HIGHER EDUCATION, Higher Education, Higher education",
+        "mentions": 1
+      },
+      {
+        "person": "Namesake/noise match: Higher Education, Higher education, Johns Hopkins",
+        "mentions": 1
+      },
+      {
+        "person": "Namesake/noise match: Higher Education, Johns Hopkins, higher education",
+        "mentions": 1
+      },
+      {
+        "person": "Namesake/noise match: Hopkins University, higher education",
+        "mentions": 1
+      },
+      {
+        "person": "Namesake/noise match: Johns Hopkins, NIH funding",
+        "mentions": 1
+      },
+      {
+        "person": "Namesake/noise match: Johns Hopkins, University president",
         "mentions": 1
       },
       {

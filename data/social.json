@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-01T09:30:17-04:00",
-  "count": 43,
+  "generated_at": "2026-09-02T09:28:53-04:00",
+  "count": 44,
   "picks": [
+    {
+      "id": 61,
+      "mention_id": 471,
+      "digest_date": "2026-09-01",
+      "person": "SNF Agora Institute",
+      "person_id": "snf-agora-institute",
+      "person_ids": [
+        "snf-agora-institute"
+      ],
+      "is_ces": false,
+      "punchy_title": "Where civic trust actually lives: 584 local leaders tell SNF Agora",
+      "headline": "Where civic trust actually lives: 584 local leaders tell SNF Agora",
+      "pull_quote": "A Trust for Civic Life survey, conducted together with the SNF Agora Institute at Johns Hopkins University among 584 leaders and ...",
+      "rationale": "A Trust for Civic Life survey, conducted together with the SNF Agora Institute at Johns Hopkins University among 584 leaders and ...",
+      "url": "https://en.radartecnologico.com/why-local-trust-matters-for-corporate-reputation/",
+      "story_url": "https://en.radartecnologico.com/why-local-trust-matters-for-corporate-reputation/",
+      "created_at": "2026-09-02 13:28:47",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "SNF Agora Institute research with Trust for Civic Life surveyed 584 local leaders and residents on where civic trust actually lives. Now being picked up across Latin American press. https://en.radartecnologico.com/why-local-trust-matters-for-corporate-reputation/",
+          "chars": 263,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=SNF%20Agora%20Institute%20research%20with%20Trust%20for%20Civic%20Life%20surveyed%20584%20local%20leaders%20and%20residents%20on%20where%20civic%20trust%20actually%20lives.%20Now%20being%20picked%20up%20across%20Latin%20American%20press.%20https%3A//en.radartecnologico.com/why-local-trust-matters-for-corporate-reputation/"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "New research from the SNF Agora Institute and Trust for Civic Life surveyed 584 local leaders and residents on where civic trust actually lives. The findings are being picked up across Latin American press this week. https://en.radartecnologico.com/why-local-trust-matters-for-corporate-reputation/",
+          "chars": 298,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=New%20research%20from%20the%20SNF%20Agora%20Institute%20and%20Trust%20for%20Civic%20Life%20surveyed%20584%20local%20leaders%20and%20residents%20on%20where%20civic%20trust%20actually%20lives.%20The%20findings%20are%20being%20picked%20up%20across%20Latin%20American%20press%20this%20week.%20https%3A//en.radartecnologico.com/why-local-trust-matters-for-corporate-reputation/"
+        }
+      ]
+    },
     {
       "id": 60,
       "mention_id": 448,

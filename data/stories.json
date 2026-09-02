@@ -1,7 +1,362 @@
 {
-  "generated_at": "2026-09-01T09:30:17-04:00",
-  "count": 463,
+  "generated_at": "2026-09-02T09:28:53-04:00",
+  "count": 491,
   "stories": [
+    {
+      "id": 484,
+      "date": "2026-09-02",
+      "week_start": "2026-08-31",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Chinese Government Program At 83 US Colleges Aims To ‘Influence’ Students: Report",
+      "has_text": true,
+      "url": "https://www.alexjoneslive.com/2026/09/02/chinese-government-program-at-83-us-colleges-aims-to-influence-students-report/",
+      "source": "alexjoneslive.com",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Chinese Government Program At 83 US Colleges Aims To ‘Influence’ Students: Report https://www.alexjoneslive.com/2026/09/02/chinese-government-program-at-83-us-colleges-aims-to-influence-students-report/",
+          "chars": 105
+        },
+        "bluesky": {
+          "text": "Chinese Government Program At 83 US Colleges Aims To ‘Influence’ Students: Report https://www.alexjoneslive.com/2026/09/02/chinese-government-program-at-83-us-colleges-aims-to-influence-students-report/",
+          "chars": 202
+        }
+      }
+    },
+    {
+      "id": 472,
+      "date": "2026-09-02",
+      "week_start": "2026-08-31",
+      "person_id": "amy-binder",
+      "person": "Amy Binder",
+      "is_ces": false,
+      "title": "L'assassino di Charlie Kirk andra a processo. L'accusa potra chiedere la pena di morte",
+      "has_text": true,
+      "url": "https://www.agi.it/estero/news/2026-09-02/assassino-charlie-kirk-pena-di-morte-38828167/",
+      "source": "AGI - Agenzia Giornalistica Italia",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "L'assassino di Charlie Kirk andra a processo. L'accusa potra chiedere la pena di morte https://www.agi.it/estero/news/2026-09-02/assassino-charlie-kirk-pena-di-morte-38828167/",
+          "chars": 110
+        },
+        "bluesky": {
+          "text": "L'assassino di Charlie Kirk andra a processo. L'accusa potra chiedere la pena di morte https://www.agi.it/estero/news/2026-09-02/assassino-charlie-kirk-pena-di-morte-38828167/",
+          "chars": 175
+        }
+      }
+    },
+    {
+      "id": 488,
+      "date": "2026-09-02",
+      "week_start": "2026-08-31",
+      "person_id": "namesake-noise-match-higher-education-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "How decentralized budgeting shapes faculty salaries and employment: Evidence from responsibility center management (RCM)",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s10734-026-01757-4",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "How decentralized budgeting shapes faculty salaries and employment: Evidence from responsibility center management (RCM) https://link.springer.com/article/10.1007/s10734-026-01757-4",
+          "chars": 144
+        },
+        "bluesky": {
+          "text": "How decentralized budgeting shapes faculty salaries and employment: Evidence from responsibility center management (RCM) https://link.springer.com/article/10.1007/s10734-026-01757-4",
+          "chars": 181
+        }
+      }
+    },
+    {
+      "id": 487,
+      "date": "2026-09-02",
+      "week_start": "2026-08-31",
+      "person_id": "namesake-noise-match-hopkins-university-higher-education",
+      "person": "Namesake/noise match: Hopkins University, higher education",
+      "is_ces": false,
+      "title": "Fairness in Research Integrity Guidelines Across the World: A Critical Discourse Analysis",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s10805-026-09763-y",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Fairness in Research Integrity Guidelines Across the World: A Critical Discourse Analysis https://link.springer.com/article/10.1007/s10805-026-09763-y",
+          "chars": 113
+        },
+        "bluesky": {
+          "text": "Fairness in Research Integrity Guidelines Across the World: A Critical Discourse Analysis https://link.springer.com/article/10.1007/s10805-026-09763-y",
+          "chars": 150
+        }
+      }
+    },
+    {
+      "id": 486,
+      "date": "2026-09-02",
+      "week_start": "2026-08-31",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, agora",
+      "is_ces": false,
+      "title": "Surfista algarvia Yolanda Hopkins termina Fiji Pro no 5.º lugar e sobe no ranking mundial",
+      "has_text": true,
+      "url": "https://postal.pt/algarve/surfista-algarvia-yolanda-hopkins-termina-fiji-pro-no-5-o-lugar-e-sobe-no-ranking-mundial/",
+      "source": "POSTAL",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Surfista algarvia Yolanda Hopkins termina Fiji Pro no 5.º lugar e sobe no ranking mundial https://postal.pt/algarve/surfista-algarvia-yolanda-hopkins-termina-fiji-pro-no-5-o-lugar-e-sobe-no-ranking-mundial/",
+          "chars": 113
+        },
+        "bluesky": {
+          "text": "Surfista algarvia Yolanda Hopkins termina Fiji Pro no 5.º lugar e sobe no ranking mundial https://postal.pt/algarve/surfista-algarvia-yolanda-hopkins-termina-fiji-pro-no-5-o-lugar-e-sobe-no-ranking-mundial/",
+          "chars": 206
+        }
+      }
+    },
+    {
+      "id": 485,
+      "date": "2026-09-02",
+      "week_start": "2026-08-31",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Janhavi Sohani’s MS in Computer Science Journey at Johns Hopkins University | IMFS Testimonial",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=tCniyr0Nu38",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Janhavi Sohani’s MS in Computer Science Journey at Johns Hopkins University | IMFS Testimonial https://www.youtube.com/watch?v=tCniyr0Nu38",
+          "chars": 118
+        },
+        "bluesky": {
+          "text": "Janhavi Sohani’s MS in Computer Science Journey at Johns Hopkins University | IMFS Testimonial https://www.youtube.com/watch?v=tCniyr0Nu38",
+          "chars": 138
+        }
+      }
+    },
+    {
+      "id": 483,
+      "date": "2026-09-02",
+      "week_start": "2026-08-31",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "Projetando...",
+      "has_text": true,
+      "url": "http://dalmogomes.blogspot.com/2026/09/projetando.html",
+      "source": "BLOGDODALMO",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Projetando... http://dalmogomes.blogspot.com/2026/09/projetando.html",
+          "chars": 37
+        },
+        "bluesky": {
+          "text": "Projetando... http://dalmogomes.blogspot.com/2026/09/projetando.html",
+          "chars": 68
+        }
+      }
+    },
+    {
+      "id": 482,
+      "date": "2026-09-02",
+      "week_start": "2026-08-31",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "Ensaio 1629 - Tecnologia como fuga/alienação - Questionando um modelo civilizatório socialmente fracassado",
+      "has_text": true,
+      "url": "http://pedrodemo.blogspot.com/2026/09/ensaio-1629-tecnologia-como.html",
+      "source": "Prof. Pedro Demo",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Ensaio 1629 - Tecnologia como fuga/alienação - Questionando um modelo civilizatório socialmente fracassado http://pedrodemo.blogspot.com/2026/09/ensaio-1629-tecnologia-como.html",
+          "chars": 130
+        },
+        "bluesky": {
+          "text": "Ensaio 1629 - Tecnologia como fuga/alienação - Questionando um modelo civilizatório socialmente fracassado http://pedrodemo.blogspot.com/2026/09/ensaio-1629-tecnologia-como.html",
+          "chars": 177
+        }
+      }
+    },
+    {
+      "id": 481,
+      "date": "2026-09-02",
+      "week_start": "2026-08-31",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Beverly Barrett",
+      "has_text": true,
+      "url": "https://americas.breakbulk.com/speaker-list/beverly-barrett",
+      "source": "Breakbulk",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Beverly Barrett https://americas.breakbulk.com/speaker-list/beverly-barrett",
+          "chars": 39
+        },
+        "bluesky": {
+          "text": "Beverly Barrett https://americas.breakbulk.com/speaker-list/beverly-barrett",
+          "chars": 75
+        }
+      }
+    },
+    {
+      "id": 480,
+      "date": "2026-09-02",
+      "week_start": "2026-08-31",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "From Penn State’s ‘Materials Research Institute’: ‘Tiny mirror controls light in 3D [which] could make microscopes smaller and faster’",
+      "has_text": true,
+      "url": "https://sciencesprings.wordpress.com/2026/09/02/from-penn-states-materials-research-institute-tiny-mirror-controls-light-in-3d-which-could-make-microscopes-smaller-and-faster/",
+      "source": "wordpress.com",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "From Penn State’s ‘Materials Research Institute’: ‘Tiny mirror controls light in 3D [which] could make microscopes smaller and faster’ https://sciencesprings.wordpress.com/2026/09/02/from-penn-states-materials-research-institute-tiny-mirror-controls-light-in-3d-which-could-make-microscopes-smaller-and-faster/",
+          "chars": 158
+        },
+        "bluesky": {
+          "text": "From Penn State’s ‘Materials Research Institute’: ‘Tiny mirror controls light in 3D [which] could make microscopes smaller… https://sciencesprings.wordpress.com/2026/09/02/from-penn-states-materials-research-institute-tiny-mirror-controls-light-in-3d-which-could-make-microscopes-smaller-and-faster/",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 476,
+      "date": "2026-09-02",
+      "week_start": "2026-08-31",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": null,
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 473,
+      "date": "2026-09-02",
+      "week_start": "2026-08-31",
+      "person_id": "steven-teles",
+      "person": "Steven Teles",
+      "is_ces": true,
+      "title": "Straws in the Wind - Part 452",
+      "has_text": true,
+      "url": "https://uclafacultyassociation.blogspot.com/2026/09/straws-in-wind-part-452.html",
+      "source": "UCLA Faculty Association",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Straws in the Wind - Part 452 https://uclafacultyassociation.blogspot.com/2026/09/straws-in-wind-part-452.html",
+          "chars": 53
+        },
+        "bluesky": {
+          "text": "Straws in the Wind - Part 452 https://uclafacultyassociation.blogspot.com/2026/09/straws-in-wind-part-452.html",
+          "chars": 110
+        }
+      }
+    },
+    {
+      "id": 470,
+      "date": "2026-09-01",
+      "week_start": "2026-08-31",
+      "person_id": "jenna-storey",
+      "person": "Jenna Silber Storey",
+      "is_ces": false,
+      "title": "Second Lady Usha Vance Joins Governors, National Education Leaders at Reagan Institute's Education Summit",
+      "has_text": true,
+      "url": "https://media.newswire.ca/cheapfunthingstodo/event-local.html?rkey=20260901PH38398&filter=24676",
+      "source": "PR Newswire",
+      "source_type": "online news",
+      "similar_mention_count": 138,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Second Lady Usha Vance Joins Governors, National Education Leaders at Reagan Institute's Education Summit https://media.newswire.ca/cheapfunthingstodo/event-local.html?rkey=20260901PH38398&filter=24676",
+          "chars": 129
+        },
+        "bluesky": {
+          "text": "Second Lady Usha Vance Joins Governors, National Education Leaders at Reagan Institute's Education Summit https://media.newswire.ca/cheapfunthingstodo/event-local.html?rkey=20260901PH38398&filter=24676",
+          "chars": 201
+        }
+      }
+    },
+    {
+      "id": 471,
+      "date": "2026-09-01",
+      "week_start": "2026-08-31",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "4 claves para construir estrategias de grassroots que generen confianza (Trust for Civic Life survey)",
+      "has_text": true,
+      "url": "https://muralchiapas.com/noticias/nacional/38054-4-claves-para-construir-estrategias-de-grassroots-que-generen-confianza",
+      "source": "Muralchiapas.com",
+      "source_type": "online news",
+      "similar_mention_count": 10,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "4 claves para construir estrategias de grassroots que generen confianza (Trust for Civic Life survey) https://muralchiapas.com/noticias/nacional/38054-4-claves-para-construir-estrategias-de-grassroots-que-generen-confianza",
+          "chars": 125
+        },
+        "bluesky": {
+          "text": "4 claves para construir estrategias de grassroots que generen confianza (Trust for Civic Life survey) https://muralchiapas.com/noticias/nacional/38054-4-claves-para-construir-estrategias-de-grassroots-que-generen-confianza",
+          "chars": 222
+        }
+      }
+    },
     {
       "id": 455,
       "date": "2026-09-01",
@@ -51,6 +406,352 @@
         "bluesky": {
           "text": "L'IA compra le nostre anime: chi controlla i nuovi sovrani della tecnologia? (syndication of Corriere della Sera, digested 2026-08-31) https://naufraghi.ch/lia-compra-le-nostre-anime-chi-controlla-i-nuovi-sovrani-medievali-della-tecnologia/",
           "chars": 240
+        }
+      }
+    },
+    {
+      "id": 497,
+      "date": "2026-09-01",
+      "week_start": "2026-08-31",
+      "person_id": "namesake-noise-match-higher-education-higher-education-higher-education",
+      "person": "Namesake/noise match: HIGHER EDUCATION, Higher Education, Higher education",
+      "is_ces": false,
+      "title": "The Impact of Pre-Pandemic Financial Structure on Knowledge-Production Resilience During COVID-19: A Cluster Analysis of U.S. Nonprofit Higher Education Institutions",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s13132-026-03454-0",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Impact of Pre-Pandemic Financial Structure on Knowledge-Production Resilience During COVID-19: A Cluster Analysis of U.S. Nonprofit Higher Education Institutions https://link.springer.com/article/10.1007/s13132-026-03454-0",
+          "chars": 189
+        },
+        "bluesky": {
+          "text": "The Impact of Pre-Pandemic Financial Structure on Knowledge-Production Resilience During COVID-19: A Cluster Analysis of U.S. Nonprofit Higher Education Institutions https://link.springer.com/article/10.1007/s13132-026-03454-0",
+          "chars": 226
+        }
+      }
+    },
+    {
+      "id": 496,
+      "date": "2026-09-01",
+      "week_start": "2026-08-31",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "From The Penn State College of Earth and Mineral Sciences: ‘AI streamlines search for new ceramics that generate electricity’",
+      "has_text": true,
+      "url": "https://sciencesprings.wordpress.com/2026/09/01/from-the-penn-state-college-of-earth-and-mineral-sciences-ai-streamlines-search-for-new-ceramics-that-generate-electricity/",
+      "source": "wordpress.com",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "From The Penn State College of Earth and Mineral Sciences: ‘AI streamlines search for new ceramics that generate electricity’ https://sciencesprings.wordpress.com/2026/09/01/from-the-penn-state-college-of-earth-and-mineral-sciences-ai-streamlines-search-for-new-ceramics-that-generate-electricity/",
+          "chars": 149
+        },
+        "bluesky": {
+          "text": "From The Penn State College of Earth and Mineral Sciences: ‘AI streamlines search for new ceramics that generate electricity’ https://sciencesprings.wordpress.com/2026/09/01/from-the-penn-state-college-of-earth-and-mineral-sciences-ai-streamlines-search-for-new-ceramics-that-generate-electricity/",
+          "chars": 297
+        }
+      }
+    },
+    {
+      "id": 495,
+      "date": "2026-09-01",
+      "week_start": "2026-08-31",
+      "person_id": "namesake-noise-match-johns-hopkins-nih-funding",
+      "person": "Namesake/noise match: Johns Hopkins, NIH funding",
+      "is_ces": false,
+      "title": "25 neuroscience breakthroughs redefining our brain understan",
+      "has_text": true,
+      "url": "https://www.msn.com/en-us/science/biology/25-neuroscience-breakthroughs-redefining-our-brain-understan/ar-AA2bmwDb",
+      "source": "MSN.com",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "25 neuroscience breakthroughs redefining our brain understan https://www.msn.com/en-us/science/biology/25-neuroscience-breakthroughs-redefining-our-brain-understan/ar-AA2bmwDb",
+          "chars": 84
+        },
+        "bluesky": {
+          "text": "25 neuroscience breakthroughs redefining our brain understan https://www.msn.com/en-us/science/biology/25-neuroscience-breakthroughs-redefining-our-brain-understan/ar-AA2bmwDb",
+          "chars": 175
+        }
+      }
+    },
+    {
+      "id": 494,
+      "date": "2026-09-01",
+      "week_start": "2026-08-31",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, agora",
+      "is_ces": false,
+      "title": "Woody Allen desmonta casamentos, desejos e ilusões numa comédia amarga disponível no Prime Video",
+      "has_text": true,
+      "url": "https://www.revistabula.com/167080-voce-vai-conhecer-o-homem-dos-seus-sonhos/",
+      "source": "Revista Bula",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Woody Allen desmonta casamentos, desejos e ilusões numa comédia amarga disponível no Prime Video https://www.revistabula.com/167080-voce-vai-conhecer-o-homem-dos-seus-sonhos/",
+          "chars": 120
+        },
+        "bluesky": {
+          "text": "Woody Allen desmonta casamentos, desejos e ilusões numa comédia amarga disponível no Prime Video https://www.revistabula.com/167080-voce-vai-conhecer-o-homem-dos-seus-sonhos/",
+          "chars": 174
+        }
+      }
+    },
+    {
+      "id": 493,
+      "date": "2026-09-01",
+      "week_start": "2026-08-31",
+      "person_id": "namesake-noise-match-academic-freedom-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Academic Freedom, Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Columbia has seen a recent push for pluralistic discourse. Mnookin comes with a playbook.",
+      "has_text": true,
+      "url": "https://www.columbiaspectator.com/news/2026/09/01/columbia-has-seen-a-recent-push-for-pluralistic-discourse-mnookin-comes-with-a-playbook/",
+      "source": "Columbia Daily Spectator",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Columbia has seen a recent push for pluralistic discourse. Mnookin comes with a playbook. https://www.columbiaspectator.com/news/2026/09/01/columbia-has-seen-a-recent-push-for-pluralistic-discourse-mnookin-comes-with-a-playbook/",
+          "chars": 113
+        },
+        "bluesky": {
+          "text": "Columbia has seen a recent push for pluralistic discourse. Mnookin comes with a playbook. https://www.columbiaspectator.com/news/2026/09/01/columbia-has-seen-a-recent-push-for-pluralistic-discourse-mnookin-comes-with-a-playbook/",
+          "chars": 228
+        }
+      }
+    },
+    {
+      "id": 492,
+      "date": "2026-09-01",
+      "week_start": "2026-08-31",
+      "person_id": "namesake-noise-match-agora-johns-hopkins",
+      "person": "Namesake/noise match: Agora, Johns Hopkins",
+      "is_ces": false,
+      "title": "Brasil participa de pesquisa inédita que busca a cura da hepatite B",
+      "has_text": true,
+      "url": "https://www.agoraepitacio.com.br/blog/brasil-participa-de-pesquisa-inedita-que-busca-a-cura-da-hepatite-b",
+      "source": "Agora Epitácio",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Brasil participa de pesquisa inédita que busca a cura da hepatite B https://www.agoraepitacio.com.br/blog/brasil-participa-de-pesquisa-inedita-que-busca-a-cura-da-hepatite-b",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "Brasil participa de pesquisa inédita que busca a cura da hepatite B https://www.agoraepitacio.com.br/blog/brasil-participa-de-pesquisa-inedita-que-busca-a-cura-da-hepatite-b",
+          "chars": 173
+        }
+      }
+    },
+    {
+      "id": 491,
+      "date": "2026-09-01",
+      "week_start": "2026-08-31",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "The colleges with the richest graduates in the US, according to data—did your alma mater make the list?",
+      "has_text": true,
+      "url": "https://www.aol.com/articles/colleges-richest-graduates-america-according-210513000.html",
+      "source": "AOL",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The colleges with the richest graduates in the US, according to data—did your alma mater make the list? https://www.aol.com/articles/colleges-richest-graduates-america-according-210513000.html",
+          "chars": 127
+        },
+        "bluesky": {
+          "text": "The colleges with the richest graduates in the US, according to data—did your alma mater make the list? https://www.aol.com/articles/colleges-richest-graduates-america-according-210513000.html",
+          "chars": 192
+        }
+      }
+    },
+    {
+      "id": 490,
+      "date": "2026-09-01",
+      "week_start": "2026-08-31",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "Heidi Louise Williams e Ney Fialkow iniciam em Porto Alegre turnê brasileira do álbum Diorama Brasil",
+      "has_text": true,
+      "url": "https://onnerevista.com.br/news_post/6163/heidi-louise-williams-e-ney-fialkow-iniciam-em-porto-alegre-turne-brasileira-do-album-diorama-brasil/",
+      "source": "Revista Onne &amp; Only",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Heidi Louise Williams e Ney Fialkow iniciam em Porto Alegre turnê brasileira do álbum Diorama Brasil https://onnerevista.com.br/news_post/6163/heidi-louise-williams-e-ney-fialkow-iniciam-em-porto-alegre-turne-brasileira-do-album-diorama-brasil/",
+          "chars": 124
+        },
+        "bluesky": {
+          "text": "Heidi Louise Williams e Ney Fialkow iniciam em Porto Alegre turnê brasileira do álbum Diorama Brasil https://onnerevista.com.br/news_post/6163/heidi-louise-williams-e-ney-fialkow-iniciam-em-porto-alegre-turne-brasileira-do-album-diorama-brasil/",
+          "chars": 244
+        }
+      }
+    },
+    {
+      "id": 489,
+      "date": "2026-09-01",
+      "week_start": "2026-08-31",
+      "person_id": "namesake-noise-match-johns-hopkins-university-president",
+      "person": "Namesake/noise match: Johns Hopkins, University president",
+      "is_ces": false,
+      "title": "Legacy of Enlightenment: The Biedlingmaier Family Scholarship/Endowment",
+      "has_text": true,
+      "url": "https://journal.scranton.edu/issues/2025/fall/legacy-of-enlightenment-the-biedlingmaier-family-scholarshipendowment.shtml",
+      "source": "The University of Scranton",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Legacy of Enlightenment: The Biedlingmaier Family Scholarship/Endowment https://journal.scranton.edu/issues/2025/fall/legacy-of-enlightenment-the-biedlingmaier-family-scholarshipendowment.shtml",
+          "chars": 95
+        },
+        "bluesky": {
+          "text": "Legacy of Enlightenment: The Biedlingmaier Family Scholarship/Endowment https://journal.scranton.edu/issues/2025/fall/legacy-of-enlightenment-the-biedlingmaier-family-scholarshipendowment.shtml",
+          "chars": 193
+        }
+      }
+    },
+    {
+      "id": 479,
+      "date": "2026-09-01",
+      "week_start": "2026-08-31",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 478,
+      "date": "2026-09-01",
+      "week_start": "2026-08-31",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "https://www.reddit.com/r/literaciafinanceira/comments/1w47t5b/comment/p7ao924/",
+      "source": "reddit.com/r/literaciafinanceira",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " https://www.reddit.com/r/literaciafinanceira/comments/1w47t5b/comment/p7ao924/",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://www.reddit.com/r/literaciafinanceira/comments/1w47t5b/comment/p7ao924/",
+          "chars": 79
+        }
+      }
+    },
+    {
+      "id": 477,
+      "date": "2026-09-01",
+      "week_start": "2026-08-31",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": null,
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 475,
+      "date": "2026-09-01",
+      "week_start": "2026-08-31",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "New Agora Visiting Fellow marks first day at Hopkins (LinkedIn post)",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7500692908577083392",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "New Agora Visiting Fellow marks first day at Hopkins (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:ugcPost:7500692908577083392",
+          "chars": 92
+        },
+        "bluesky": {
+          "text": "New Agora Visiting Fellow marks first day at Hopkins (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:ugcPost:7500692908577083392",
+          "chars": 140
+        }
+      }
+    },
+    {
+      "id": 474,
+      "date": "2026-09-01",
+      "week_start": "2026-08-31",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Weaponised Trade: Why #Europe Faces a New #Geopolitical Reality #shorts",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=1-y8BP6Ei_o",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Weaponised Trade: Why #Europe Faces a New #Geopolitical Reality #shorts https://www.youtube.com/watch?v=1-y8BP6Ei_o",
+          "chars": 95
+        },
+        "bluesky": {
+          "text": "Weaponised Trade: Why #Europe Faces a New #Geopolitical Reality #shorts https://www.youtube.com/watch?v=1-y8BP6Ei_o",
+          "chars": 115
         }
       }
     },
