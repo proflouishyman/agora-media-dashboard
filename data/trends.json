@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-02T09:28:53-04:00",
+  "generated_at": "2026-09-03T10:18:15-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-09-02"
+    "end": "2026-09-03"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 491,
-        "in_digest": 206,
-        "reach_proxy": 1755,
-        "people_covered": 80,
+        "mentions": 511,
+        "in_digest": 210,
+        "reach_proxy": 1779,
+        "people_covered": 86,
         "people_tracked": 100,
-        "sources": 235,
+        "sources": 242,
         "negative": 11
       },
       "deltas": {
@@ -474,9 +474,16 @@
         },
         {
           "date": "2026-09-02",
-          "count": 12,
-          "reach": 14,
-          "in_digest": 2,
+          "count": 26,
+          "reach": 31,
+          "in_digest": 6,
+          "observed": true
+        },
+        {
+          "date": "2026-09-03",
+          "count": 6,
+          "reach": 7,
+          "in_digest": 0,
           "observed": true
         }
       ],
@@ -600,30 +607,30 @@
         },
         {
           "week_start": "2026-08-31",
-          "count": 59,
-          "reach": 215,
-          "in_digest": 12,
-          "people": 24,
+          "count": 79,
+          "reach": 239,
+          "in_digest": 16,
+          "people": 31,
           "sentiment": {
             "positive": 3,
-            "neutral": 1,
+            "neutral": 4,
             "negative": 0,
-            "unknown": 55
+            "unknown": 72
           }
         }
       ],
       "sentiment": {
         "positive": 77,
-        "neutral": 133,
+        "neutral": 136,
         "negative": 11,
-        "unknown": 270
+        "unknown": 287
       },
       "top_people": [
         {
           "person_id": "snf-agora-institute",
           "name": "SNF Agora Institute",
-          "count": 63,
-          "reach": 142,
+          "count": 65,
+          "reach": 145,
           "is_ces": false
         },
         {
@@ -657,8 +664,8 @@
         {
           "person_id": "henry-farrell",
           "name": "Henry Farrell",
-          "count": 23,
-          "reach": 29,
+          "count": 24,
+          "reach": 30,
           "is_ces": true
         },
         {
@@ -678,8 +685,8 @@
         {
           "person_id": "none-no-captured-text",
           "name": "None (no captured text)",
-          "count": 17,
-          "reach": 26,
+          "count": 21,
+          "reach": 30,
           "is_ces": false
         },
         {
@@ -693,8 +700,8 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 93,
-          "reach": 307,
+          "count": 100,
+          "reach": 314,
           "is_other": false
         },
         {
@@ -710,27 +717,27 @@
           "is_other": false
         },
         {
+          "source": "Youtube",
+          "count": 15,
+          "reach": 12,
+          "is_other": false
+        },
+        {
           "source": "Bluesky",
           "count": 13,
           "reach": 18,
           "is_other": false
         },
         {
-          "source": "Youtube",
-          "count": 13,
-          "reach": 10,
+          "source": "Springer",
+          "count": 12,
+          "reach": 12,
           "is_other": false
         },
         {
           "source": "Substack",
           "count": 12,
           "reach": 14,
-          "is_other": false
-        },
-        {
-          "source": "Springer",
-          "count": 10,
-          "reach": 10,
           "is_other": false
         },
         {
@@ -741,19 +748,19 @@
         },
         {
           "source": "Other",
-          "count": 298,
-          "reach": 865,
+          "count": 307,
+          "reach": 878,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 230
+          "count": 239
         },
         {
           "source_type": "social network",
-          "count": 102
+          "count": 105
         },
         {
           "source_type": "blog",
@@ -761,7 +768,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 137
+          "count": 145
         }
       ],
       "negative_stories": [
@@ -783,10 +790,10 @@
           "person_id": "snf-agora-institute",
           "is_ces": false,
           "positive": 19,
-          "neutral": 23,
+          "neutral": 25,
           "negative": 3,
           "unknown": 18,
-          "total": 63
+          "total": 65
         },
         {
           "row_label": "Anne Applebaum",
@@ -833,10 +840,10 @@
           "person_id": "henry-farrell",
           "is_ces": true,
           "positive": 1,
-          "neutral": 6,
+          "neutral": 7,
           "negative": 0,
           "unknown": 16,
-          "total": 23
+          "total": 24
         },
         {
           "row_label": "Yascha Mounk",
@@ -865,8 +872,8 @@
           "positive": 0,
           "neutral": 0,
           "negative": 0,
-          "unknown": 17,
-          "total": 17
+          "unknown": 21,
+          "total": 21
         },
         {
           "row_label": "Denise Dresser",
@@ -1019,6 +1026,16 @@
           "total": 5
         },
         {
+          "row_label": "Namesake/noise match: Higher Education, Johns Hopkins",
+          "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 5,
+          "total": 5
+        },
+        {
           "row_label": "Amy Binder",
           "person_id": "amy-binder",
           "is_ces": false,
@@ -1036,6 +1053,16 @@
           "neutral": 0,
           "negative": 0,
           "unknown": 3,
+          "total": 4
+        },
+        {
+          "row_label": "Namesake/noise match: Johns Hopkins, higher education",
+          "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 4,
           "total": 4
         },
         {
@@ -1069,13 +1096,13 @@
           "total": 3
         },
         {
-          "row_label": "Namesake/noise match: Higher Education, Johns Hopkins",
-          "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+          "row_label": "Leah Wright Rigueur",
+          "person_id": "leah-wright-rigueur",
           "is_ces": false,
           "positive": 0,
-          "neutral": 0,
+          "neutral": 1,
           "negative": 0,
-          "unknown": 3,
+          "unknown": 2,
           "total": 3
         },
         {
@@ -1169,8 +1196,8 @@
           "total": 2
         },
         {
-          "row_label": "Namesake/noise match: Johns Hopkins, higher education",
-          "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+          "row_label": "Namesake/noise match: Johns Hopkins, NIH funding",
+          "person_id": "namesake-noise-match-johns-hopkins-nih-funding",
           "is_ces": false,
           "positive": 0,
           "neutral": 0,
@@ -1279,6 +1306,16 @@
           "total": 1
         },
         {
+          "row_label": "Anthony Hopkins (namesake, not Johns Hopkins)",
+          "person_id": "anthony-hopkins-namesake-not-johns-hopkins",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
           "row_label": "Dawn Teele",
           "person_id": "dawn-teele",
           "is_ces": false,
@@ -1301,6 +1338,16 @@
         {
           "row_label": "Denise Dresser (namesake, no Agora relevance)",
           "person_id": "denise-dresser-namesake-no-agora-relevance",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Denise Dresser (namesake: OpenAI chief revenue officer, not the SNF Agora affiliate)",
+          "person_id": "denise-dresser-namesake-openai-chief-revenue-officer-not-the-snf-agora-affiliate",
           "is_ces": false,
           "positive": 0,
           "neutral": 0,
@@ -1419,16 +1466,6 @@
           "total": 1
         },
         {
-          "row_label": "Leah Wright Rigueur",
-          "person_id": "leah-wright-rigueur",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 1,
-          "negative": 0,
-          "unknown": 0,
-          "total": 1
-        },
-        {
           "row_label": "Ling Chen",
           "person_id": "ling-chen",
           "is_ces": false,
@@ -1509,8 +1546,8 @@
           "total": 1
         },
         {
-          "row_label": "Namesake/noise match: Johns Hopkins, NIH funding",
-          "person_id": "namesake-noise-match-johns-hopkins-nih-funding",
+          "row_label": "Namesake/noise match: Johns Hopkins, University president",
+          "person_id": "namesake-noise-match-johns-hopkins-university-president",
           "is_ces": false,
           "positive": 0,
           "neutral": 0,
@@ -1519,8 +1556,38 @@
           "total": 1
         },
         {
-          "row_label": "Namesake/noise match: Johns Hopkins, University president",
+          "row_label": "Namesake/noise match: Johns Hopkins, federal research funding",
+          "person_id": "namesake-noise-match-johns-hopkins-federal-research-funding",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Namesake/noise match: Johns Hopkins, university president",
           "person_id": "namesake-noise-match-johns-hopkins-university-president",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Namesake/noise match: agora, Agora, Johns Hopkins",
+          "person_id": "namesake-noise-match-agora-agora-johns-hopkins",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Namesake/noise match: higher education, Johns Hopkins",
+          "person_id": "namesake-noise-match-higher-education-johns-hopkins",
           "is_ces": false,
           "positive": 0,
           "neutral": 0,
@@ -1583,18 +1650,18 @@
         {
           "row_label": "online news",
           "positive": 25,
-          "neutral": 84,
+          "neutral": 85,
           "negative": 2,
-          "unknown": 119,
-          "total": 230
+          "unknown": 127,
+          "total": 239
         },
         {
           "row_label": "social network",
           "positive": 26,
-          "neutral": 32,
+          "neutral": 34,
           "negative": 1,
-          "unknown": 43,
-          "total": 102
+          "unknown": 44,
+          "total": 105
         },
         {
           "row_label": "blog",
@@ -1609,8 +1676,8 @@
           "positive": 21,
           "neutral": 11,
           "negative": 8,
-          "unknown": 97,
-          "total": 137
+          "unknown": 105,
+          "total": 145
         }
       ],
       "sentiment_examples": {
@@ -2590,9 +2657,9 @@
     },
     "ces": {
       "totals": {
-        "mentions": 78,
-        "in_digest": 52,
-        "reach_proxy": 125,
+        "mentions": 79,
+        "in_digest": 53,
+        "reach_proxy": 126,
         "people_covered": 10,
         "people_tracked": 17,
         "sources": 45,
@@ -3057,9 +3124,16 @@
         },
         {
           "date": "2026-09-02",
-          "count": 2,
-          "reach": 2,
-          "in_digest": 1,
+          "count": 3,
+          "reach": 3,
+          "in_digest": 2,
+          "observed": true
+        },
+        {
+          "date": "2026-09-03",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
           "observed": true
         }
       ],
@@ -3183,13 +3257,13 @@
         },
         {
           "week_start": "2026-08-31",
-          "count": 9,
-          "reach": 15,
-          "in_digest": 4,
+          "count": 10,
+          "reach": 16,
+          "in_digest": 5,
           "people": 2,
           "sentiment": {
             "positive": 1,
-            "neutral": 0,
+            "neutral": 1,
             "negative": 0,
             "unknown": 8
           }
@@ -3197,7 +3271,7 @@
       ],
       "sentiment": {
         "positive": 13,
-        "neutral": 24,
+        "neutral": 25,
         "negative": 0,
         "unknown": 41
       },
@@ -3212,8 +3286,8 @@
         {
           "person_id": "henry-farrell",
           "name": "Henry Farrell",
-          "count": 23,
-          "reach": 29,
+          "count": 24,
+          "reach": 30,
           "is_ces": true
         },
         {
@@ -3293,6 +3367,12 @@
           "is_other": false
         },
         {
+          "source": "Youtube",
+          "count": 3,
+          "reach": 3,
+          "is_other": false
+        },
+        {
           "source": "Baltimore Fishbowl",
           "count": 2,
           "reach": 0,
@@ -3317,12 +3397,6 @@
           "is_other": false
         },
         {
-          "source": "Modern Intellectual History (Cambridge)",
-          "count": 2,
-          "reach": 2,
-          "is_other": false
-        },
-        {
           "source": "Other",
           "count": 42,
           "reach": 82,
@@ -3336,7 +3410,7 @@
         },
         {
           "source_type": "social network",
-          "count": 10
+          "count": 11
         },
         {
           "source_type": "blog",
@@ -3364,10 +3438,10 @@
           "person_id": "henry-farrell",
           "is_ces": true,
           "positive": 1,
-          "neutral": 6,
+          "neutral": 7,
           "negative": 0,
           "unknown": 16,
-          "total": 23
+          "total": 24
         },
         {
           "row_label": "Louis Hyman",
@@ -3462,10 +3536,10 @@
         {
           "row_label": "social network",
           "positive": 1,
-          "neutral": 7,
+          "neutral": 8,
           "negative": 0,
           "unknown": 2,
-          "total": 10
+          "total": 11
         },
         {
           "row_label": "blog",

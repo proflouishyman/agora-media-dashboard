@@ -1,7 +1,215 @@
 {
-  "generated_at": "2026-09-02T09:28:53-04:00",
-  "count": 491,
+  "generated_at": "2026-09-03T10:18:15-04:00",
+  "count": 511,
   "stories": [
+    {
+      "id": 507,
+      "date": "2026-09-03",
+      "week_start": "2026-08-31",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Every terrible thing the Trump administration did in August 2026",
+      "has_text": true,
+      "url": "https://keeptrack.substack.com/p/every-terrible-thing-the-trump-administration-6a2",
+      "source": "Substack (also r/Keep_Track)",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Every terrible thing the Trump administration did in August 2026 https://keeptrack.substack.com/p/every-terrible-thing-the-trump-administration-6a2",
+          "chars": 88
+        },
+        "bluesky": {
+          "text": "Every terrible thing the Trump administration did in August 2026 https://keeptrack.substack.com/p/every-terrible-thing-the-trump-administration-6a2",
+          "chars": 147
+        }
+      }
+    },
+    {
+      "id": 512,
+      "date": "2026-09-03",
+      "week_start": "2026-08-31",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Teaching Epistemic Reflexivity in Medical Education (JHU Press citation only)",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s10912-026-10060-3",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Teaching Epistemic Reflexivity in Medical Education (JHU Press citation only) https://link.springer.com/article/10.1007/s10912-026-10060-3",
+          "chars": 101
+        },
+        "bluesky": {
+          "text": "Teaching Epistemic Reflexivity in Medical Education (JHU Press citation only) https://link.springer.com/article/10.1007/s10912-026-10060-3",
+          "chars": 138
+        }
+      }
+    },
+    {
+      "id": 511,
+      "date": "2026-09-03",
+      "week_start": "2026-08-31",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "China-Backed Exchange Reaches 83 U.S. Campuses as Critics Warn It Is Recruiting American Students",
+      "has_text": true,
+      "url": "https://yournews.com/2026/09/03/7184366/china-backed-exchange-reaches-83-u-s-campuses-as-critics-warn-it/",
+      "source": "[your]NEWS",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "China-Backed Exchange Reaches 83 U.S. Campuses as Critics Warn It Is Recruiting American Students https://yournews.com/2026/09/03/7184366/china-backed-exchange-reaches-83-u-s-campuses-as-critics-warn-it/",
+          "chars": 121
+        },
+        "bluesky": {
+          "text": "China-Backed Exchange Reaches 83 U.S. Campuses as Critics Warn It Is Recruiting American Students https://yournews.com/2026/09/03/7184366/china-backed-exchange-reaches-83-u-s-campuses-as-critics-warn-it/",
+          "chars": 203
+        }
+      }
+    },
+    {
+      "id": 510,
+      "date": "2026-09-03",
+      "week_start": "2026-08-31",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "\"Teaching People the Wrong Things\": Undergraduates' Reactions to a Forced Curve Grade Policy",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s10755-026-09951-z",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "\"Teaching People the Wrong Things\": Undergraduates' Reactions to a Forced Curve Grade Policy https://link.springer.com/article/10.1007/s10755-026-09951-z",
+          "chars": 116
+        },
+        "bluesky": {
+          "text": "\"Teaching People the Wrong Things\": Undergraduates' Reactions to a Forced Curve Grade Policy https://link.springer.com/article/10.1007/s10755-026-09951-z",
+          "chars": 153
+        }
+      }
+    },
+    {
+      "id": 509,
+      "date": "2026-09-03",
+      "week_start": "2026-08-31",
+      "person_id": "denise-dresser-namesake-openai-chief-revenue-officer-not-the-snf-agora-affiliate",
+      "person": "Denise Dresser (namesake: OpenAI chief revenue officer, not the SNF Agora affiliate)",
+      "is_ces": false,
+      "title": "Quem e Brad Lightcap, executivo que esta deixando a OpenAI?",
+      "has_text": true,
+      "url": "https://timesbrasil.com.br/empresas-e-negocios/quem-e-brad-lightcap-executivo-que-esta-deixando-a-openai/",
+      "source": "Times Brasil - CNBC",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Quem e Brad Lightcap, executivo que esta deixando a OpenAI? https://timesbrasil.com.br/empresas-e-negocios/quem-e-brad-lightcap-executivo-que-esta-deixando-a-openai/",
+          "chars": 83
+        },
+        "bluesky": {
+          "text": "Quem e Brad Lightcap, executivo que esta deixando a OpenAI? https://timesbrasil.com.br/empresas-e-negocios/quem-e-brad-lightcap-executivo-que-esta-deixando-a-openai/",
+          "chars": 165
+        }
+      }
+    },
+    {
+      "id": 508,
+      "date": "2026-09-03",
+      "week_start": "2026-08-31",
+      "person_id": "namesake-noise-match-agora-agora-johns-hopkins",
+      "person": "Namesake/noise match: agora, Agora, Johns Hopkins",
+      "is_ces": false,
+      "title": "Astronomos observam uma mudanca em Plutao que pode durar decadas (APL photo credit)",
+      "has_text": true,
+      "url": "https://www.gizmodo.com.br/astronomos-observam-uma-mudanca-em-plutao-que-pode-durar-decadas-66199",
+      "source": "Gizmodo em portugues",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Astronomos observam uma mudanca em Plutao que pode durar decadas (APL photo credit) https://www.gizmodo.com.br/astronomos-observam-uma-mudanca-em-plutao-que-pode-durar-decadas-66199",
+          "chars": 107
+        },
+        "bluesky": {
+          "text": "Astronomos observam uma mudanca em Plutao que pode durar decadas (APL photo credit) https://www.gizmodo.com.br/astronomos-observam-uma-mudanca-em-plutao-que-pode-durar-decadas-66199",
+          "chars": 181
+        }
+      }
+    },
+    {
+      "id": 498,
+      "date": "2026-09-02",
+      "week_start": "2026-08-31",
+      "person_id": "leah-wright-rigueur",
+      "person": "Leah Wright Rigueur",
+      "is_ces": false,
+      "title": "'Give me a break': Panel shuts down Scott Jenning's cringe pivot",
+      "has_text": true,
+      "url": "https://www.alternet.org/trump-tesxas-republicans-midterms/",
+      "source": "AlterNet (also MSN US, MSN NZ)",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "'Give me a break': Panel shuts down Scott Jenning's cringe pivot https://www.alternet.org/trump-tesxas-republicans-midterms/",
+          "chars": 88
+        },
+        "bluesky": {
+          "text": "'Give me a break': Panel shuts down Scott Jenning's cringe pivot https://www.alternet.org/trump-tesxas-republicans-midterms/",
+          "chars": 124
+        }
+      }
+    },
+    {
+      "id": 499,
+      "date": "2026-09-02",
+      "week_start": "2026-08-31",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "4 claves para construir estrategias de grassroots que generen confianza (Trust for Civic Life survey, further syndication)",
+      "has_text": true,
+      "url": "https://www.conopinion.com/novedades/4-claves-para-construir-estrategias-de-grassroots-que-generen-confianza",
+      "source": "Con Opinion (also Nteve)",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "4 claves para construir estrategias de grassroots que generen confianza (Trust for Civic Life survey, further syndication) https://www.conopinion.com/novedades/4-claves-para-construir-estrategias-de-grassroots-que-generen-confianza",
+          "chars": 146
+        },
+        "bluesky": {
+          "text": "4 claves para construir estrategias de grassroots que generen confianza (Trust for Civic Life survey, further syndication) https://www.conopinion.com/novedades/4-claves-para-construir-estrategias-de-grassroots-que-generen-confianza",
+          "chars": 231
+        }
+      }
+    },
     {
       "id": 484,
       "date": "2026-09-02",
@@ -51,6 +259,255 @@
         "bluesky": {
           "text": "L'assassino di Charlie Kirk andra a processo. L'accusa potra chiedere la pena di morte https://www.agi.it/estero/news/2026-09-02/assassino-charlie-kirk-pena-di-morte-38828167/",
           "chars": 175
+        }
+      }
+    },
+    {
+      "id": 517,
+      "date": "2026-09-02",
+      "week_start": "2026-08-31",
+      "person_id": "namesake-noise-match-johns-hopkins-university-president",
+      "person": "Namesake/noise match: Johns Hopkins, university president",
+      "is_ces": false,
+      "title": "(untitled Twitter row re: J. Hillis Miller/Derrida)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 516,
+      "date": "2026-09-02",
+      "week_start": "2026-08-31",
+      "person_id": "anthony-hopkins-namesake-not-johns-hopkins",
+      "person": "Anthony Hopkins (namesake, not Johns Hopkins)",
+      "is_ces": false,
+      "title": "Os destaques do 83o Festival de Veneza",
+      "has_text": true,
+      "url": "https://elle.com.br/cultura/83-festival-de-veneza",
+      "source": "Elle Brasil",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Os destaques do 83o Festival de Veneza https://elle.com.br/cultura/83-festival-de-veneza",
+          "chars": 62
+        },
+        "bluesky": {
+          "text": "Os destaques do 83o Festival de Veneza https://elle.com.br/cultura/83-festival-de-veneza",
+          "chars": 88
+        }
+      }
+    },
+    {
+      "id": 515,
+      "date": "2026-09-02",
+      "week_start": "2026-08-31",
+      "person_id": "namesake-noise-match-johns-hopkins-federal-research-funding",
+      "person": "Namesake/noise match: Johns Hopkins, federal research funding",
+      "is_ces": false,
+      "title": "WVU leaders tout university's growing economic, research and health care footprint",
+      "has_text": true,
+      "url": "https://www.wvnews.com/news/wvnews/wvu-leaders-tout-university-s-growing-economic-research-and-health-care-foo",
+      "source": "WV News",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "WVU leaders tout university's growing economic, research and health care footprint https://www.wvnews.com/news/wvnews/wvu-leaders-tout-university-s-growing-economic-research-and-health-care-foo",
+          "chars": 106
+        },
+        "bluesky": {
+          "text": "WVU leaders tout university's growing economic, research and health care footprint https://www.wvnews.com/news/wvnews/wvu-leaders-tout-university-s-growing-economic-research-and-health-care-foo",
+          "chars": 193
+        }
+      }
+    },
+    {
+      "id": 514,
+      "date": "2026-09-02",
+      "week_start": "2026-08-31",
+      "person_id": "namesake-noise-match-johns-hopkins-nih-funding",
+      "person": "Namesake/noise match: Johns Hopkins, NIH funding",
+      "is_ces": false,
+      "title": "(untitled Twitter row re: NIH funding)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 513,
+      "date": "2026-09-02",
+      "week_start": "2026-08-31",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "(untitled Twitter row re: Yale/academia, no tracked person)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 506,
+      "date": "2026-09-02",
+      "week_start": "2026-08-31",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "(untitled Reddit row, no captured text)",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/DebateReligion/comments/1w55u3m/comment/p7ig3u3/",
+      "source": "reddit.com/r/DebateReligion",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "(untitled Reddit row, no captured text) https://www.reddit.com/r/DebateReligion/comments/1w55u3m/comment/p7ig3u3/",
+          "chars": 63
+        },
+        "bluesky": {
+          "text": "(untitled Reddit row, no captured text) https://www.reddit.com/r/DebateReligion/comments/1w55u3m/comment/p7ig3u3/",
+          "chars": 113
+        }
+      }
+    },
+    {
+      "id": 505,
+      "date": "2026-09-02",
+      "week_start": "2026-08-31",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "(untitled Twitter row, no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 504,
+      "date": "2026-09-02",
+      "week_start": "2026-08-31",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "(untitled Twitter row, no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 503,
+      "date": "2026-09-02",
+      "week_start": "2026-08-31",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "(untitled Twitter row, no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 502,
+      "date": "2026-09-02",
+      "week_start": "2026-08-31",
+      "person_id": "leah-wright-rigueur",
+      "person": "Leah Wright Rigueur",
+      "is_ces": false,
+      "title": "(untitled Twitter row, no captured text; names Rigueur and Lindsay M. Chervinsky)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 501,
+      "date": "2026-09-02",
+      "week_start": "2026-08-31",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Is #Europe Caught Between the #US and #China? #shorts",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=kDqlhZWTWuA",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Is #Europe Caught Between the #US and #China? #shorts https://www.youtube.com/watch?v=kDqlhZWTWuA",
+          "chars": 77
+        },
+        "bluesky": {
+          "text": "Is #Europe Caught Between the #US and #China? #shorts https://www.youtube.com/watch?v=kDqlhZWTWuA",
+          "chars": 97
+        }
+      }
+    },
+    {
+      "id": 500,
+      "date": "2026-09-02",
+      "week_start": "2026-08-31",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "2026 GSIDI info session",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=umJ57oPOseM",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "2026 GSIDI info session https://www.youtube.com/watch?v=umJ57oPOseM",
+          "chars": 47
+        },
+        "bluesky": {
+          "text": "2026 GSIDI info session https://www.youtube.com/watch?v=umJ57oPOseM",
+          "chars": 67
         }
       }
     },
