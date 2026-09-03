@@ -9,14 +9,14 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 63,
-    "mentions_in_digest": 25,
-    "reach_proxy": 142,
+    "mentions_total": 65,
+    "mentions_in_digest": 27,
+    "reach_proxy": 145,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-09-01",
+    "last_mention_date": "2026-09-02",
     "sentiment": {
       "positive": 19,
-      "neutral": 23,
+      "neutral": 25,
       "negative": 3,
       "unknown": 18
     },
@@ -100,8 +100,8 @@
       },
       {
         "week_start": "2026-08-31",
-        "count": 2,
-        "reach": 11
+        "count": 4,
+        "reach": 14
       }
     ]
   },
@@ -547,14 +547,14 @@
       "Core Faculty"
     ],
     "is_ces": true,
-    "mentions_total": 23,
-    "mentions_in_digest": 16,
-    "reach_proxy": 29,
+    "mentions_total": 24,
+    "mentions_in_digest": 17,
+    "reach_proxy": 30,
     "first_mention_date": "2026-07-04",
     "last_mention_date": "2026-09-02",
     "sentiment": {
       "positive": 1,
-      "neutral": 6,
+      "neutral": 7,
       "negative": 0,
       "unknown": 16
     },
@@ -568,15 +568,15 @@
         "count": 3
       },
       {
+        "source": "Youtube",
+        "count": 3
+      },
+      {
         "source": "Folha de S.Paulo",
         "count": 2
       },
       {
         "source": "Internazionale",
-        "count": 2
-      },
-      {
-        "source": "YouTube",
         "count": 2
       }
     ],
@@ -638,8 +638,8 @@
       },
       {
         "week_start": "2026-08-31",
-        "count": 8,
-        "reach": 14
+        "count": 9,
+        "reach": 15
       }
     ]
   },
@@ -869,21 +869,21 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 17,
+    "mentions_total": 21,
     "mentions_in_digest": 0,
-    "reach_proxy": 26,
+    "reach_proxy": 30,
     "first_mention_date": "2026-08-28",
-    "last_mention_date": "2026-09-01",
+    "last_mention_date": "2026-09-02",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
       "negative": 0,
-      "unknown": 17
+      "unknown": 21
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 8
+        "count": 11
       },
       {
         "source": "reddit.com/r/Christianity",
@@ -894,11 +894,11 @@
         "count": 1
       },
       {
-        "source": "reddit.com/r/TrueFilm",
+        "source": "reddit.com/r/DebateReligion",
         "count": 1
       },
       {
-        "source": "reddit.com/r/literaciafinanceira",
+        "source": "reddit.com/r/TrueFilm",
         "count": 1
       }
     ],
@@ -960,8 +960,8 @@
       },
       {
         "week_start": "2026-08-31",
-        "count": 15,
-        "reach": 15
+        "count": 19,
+        "reach": 19
       }
     ]
   },
@@ -2568,6 +2568,108 @@
     ]
   },
   {
+    "id": "namesake-noise-match-higher-education-johns-hopkins",
+    "name": "Namesake/noise match: Higher Education, Johns Hopkins",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 5,
+    "mentions_in_digest": 0,
+    "reach_proxy": 6,
+    "first_mention_date": "2026-09-01",
+    "last_mention_date": "2026-09-03",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 5
+    },
+    "top_sources": [
+      {
+        "source": "wordpress.com",
+        "count": 2
+      },
+      {
+        "source": "Springer",
+        "count": 1
+      },
+      {
+        "source": "[your]NEWS",
+        "count": 1
+      },
+      {
+        "source": "alexjoneslive.com",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 5,
+        "reach": 6
+      }
+    ]
+  },
+  {
     "id": "amy-binder",
     "name": "Amy Binder",
     "kind": "faculty",
@@ -2768,6 +2870,108 @@
         "week_start": "2026-08-31",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-johns-hopkins-higher-education",
+    "name": "Namesake/noise match: Johns Hopkins, higher education",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 4,
+    "mentions_in_digest": 0,
+    "reach_proxy": 5,
+    "first_mention_date": "2026-09-01",
+    "last_mention_date": "2026-09-03",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 4
+    },
+    "top_sources": [
+      {
+        "source": "AOL",
+        "count": 1
+      },
+      {
+        "source": "Springer",
+        "count": 1
+      },
+      {
+        "source": "Substack (also r/Keep_Track)",
+        "count": 1
+      },
+      {
+        "source": "Youtube",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 4,
+        "reach": 5
       }
     ]
   },
@@ -3074,8 +3278,8 @@
     ]
   },
   {
-    "id": "namesake-noise-match-higher-education-johns-hopkins",
-    "name": "Namesake/noise match: Higher Education, Johns Hopkins",
+    "id": "leah-wright-rigueur",
+    "name": "Leah Wright Rigueur",
     "kind": "unmatched",
     "tracked": false,
     "title": "",
@@ -3084,23 +3288,27 @@
     "categories": [],
     "is_ces": false,
     "mentions_total": 3,
-    "mentions_in_digest": 0,
-    "reach_proxy": 4,
-    "first_mention_date": "2026-09-01",
+    "mentions_in_digest": 2,
+    "reach_proxy": 7,
+    "first_mention_date": "2026-08-06",
     "last_mention_date": "2026-09-02",
     "sentiment": {
       "positive": 0,
-      "neutral": 0,
+      "neutral": 1,
       "negative": 0,
-      "unknown": 3
+      "unknown": 2
     },
     "top_sources": [
       {
-        "source": "wordpress.com",
-        "count": 2
+        "source": "AlterNet (also MSN US, MSN NZ)",
+        "count": 1
       },
       {
-        "source": "alexjoneslive.com",
+        "source": "Raw Story",
+        "count": 1
+      },
+      {
+        "source": "Twitter",
         "count": 1
       }
     ],
@@ -3142,8 +3350,8 @@
       },
       {
         "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 3
       },
       {
         "week_start": "2026-08-10",
@@ -3162,7 +3370,7 @@
       },
       {
         "week_start": "2026-08-31",
-        "count": 3,
+        "count": 2,
         "reach": 4
       }
     ]
@@ -4020,8 +4228,8 @@
     ]
   },
   {
-    "id": "namesake-noise-match-johns-hopkins-higher-education",
-    "name": "Namesake/noise match: Johns Hopkins, higher education",
+    "id": "namesake-noise-match-johns-hopkins-nih-funding",
+    "name": "Namesake/noise match: Johns Hopkins, NIH funding",
     "kind": "unmatched",
     "tracked": false,
     "title": "",
@@ -4042,11 +4250,11 @@
     },
     "top_sources": [
       {
-        "source": "AOL",
+        "source": "MSN.com",
         "count": 1
       },
       {
-        "source": "Youtube",
+        "source": "Twitter",
         "count": 1
       }
     ],
@@ -5034,6 +5242,96 @@
     ]
   },
   {
+    "id": "anthony-hopkins-namesake-not-johns-hopkins",
+    "name": "Anthony Hopkins (namesake, not Johns Hopkins)",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-09-02",
+    "last_mention_date": "2026-09-02",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Elle Brasil",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "dawn-teele",
     "name": "Dawn Teele",
     "kind": "faculty",
@@ -5302,6 +5600,96 @@
         "week_start": "2026-08-31",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "denise-dresser-namesake-openai-chief-revenue-officer-not-the-snf-agora-affiliate",
+    "name": "Denise Dresser (namesake: OpenAI chief revenue officer, not the SNF Agora affiliate)",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-09-03",
+    "last_mention_date": "2026-09-03",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Times Brasil - CNBC",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -6312,96 +6700,6 @@
     ]
   },
   {
-    "id": "leah-wright-rigueur",
-    "name": "Leah Wright Rigueur",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 1,
-    "mentions_in_digest": 1,
-    "reach_proxy": 3,
-    "first_mention_date": "2026-08-06",
-    "last_mention_date": "2026-08-06",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 1,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [
-      {
-        "source": "Raw Story",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-15",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 1,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
     "id": "ling-chen",
     "name": "Ling Chen",
     "kind": "faculty",
@@ -7126,8 +7424,8 @@
     ]
   },
   {
-    "id": "namesake-noise-match-johns-hopkins-nih-funding",
-    "name": "Namesake/noise match: Johns Hopkins, NIH funding",
+    "id": "namesake-noise-match-johns-hopkins-university-president",
+    "name": "Namesake/noise match: Johns Hopkins, University president",
     "kind": "unmatched",
     "tracked": false,
     "title": "",
@@ -7148,7 +7446,97 @@
     },
     "top_sources": [
       {
-        "source": "MSN.com",
+        "source": "The University of Scranton",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-johns-hopkins-federal-research-funding",
+    "name": "Namesake/noise match: Johns Hopkins, federal research funding",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-09-02",
+    "last_mention_date": "2026-09-02",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "WV News",
         "count": 1
       }
     ],
@@ -7217,7 +7605,7 @@
   },
   {
     "id": "namesake-noise-match-johns-hopkins-university-president",
-    "name": "Namesake/noise match: Johns Hopkins, University president",
+    "name": "Namesake/noise match: Johns Hopkins, university president",
     "kind": "unmatched",
     "tracked": false,
     "title": "",
@@ -7228,8 +7616,8 @@
     "mentions_total": 1,
     "mentions_in_digest": 0,
     "reach_proxy": 1,
-    "first_mention_date": "2026-09-01",
-    "last_mention_date": "2026-09-01",
+    "first_mention_date": "2026-09-02",
+    "last_mention_date": "2026-09-02",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
@@ -7238,7 +7626,187 @@
     },
     "top_sources": [
       {
-        "source": "The University of Scranton",
+        "source": "Twitter",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-agora-agora-johns-hopkins",
+    "name": "Namesake/noise match: agora, Agora, Johns Hopkins",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-09-03",
+    "last_mention_date": "2026-09-03",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Gizmodo em portugues",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-15",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-higher-education-johns-hopkins",
+    "name": "Namesake/noise match: higher education, Johns Hopkins",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-09-02",
+    "last_mention_date": "2026-09-02",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
         "count": 1
       }
     ],
