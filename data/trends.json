@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T10:18:15-04:00",
+  "generated_at": "2026-09-04T09:40:29-04:00",
   "window": {
     "start": "2026-07-02",
     "end": "2026-09-03"
@@ -7,12 +7,12 @@
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 511,
-        "in_digest": 210,
-        "reach_proxy": 1779,
+        "mentions": 517,
+        "in_digest": 213,
+        "reach_proxy": 1785,
         "people_covered": 86,
         "people_tracked": 100,
-        "sources": 242,
+        "sources": 243,
         "negative": 11
       },
       "deltas": {
@@ -481,9 +481,9 @@
         },
         {
           "date": "2026-09-03",
-          "count": 6,
-          "reach": 7,
-          "in_digest": 0,
+          "count": 12,
+          "reach": 13,
+          "in_digest": 3,
           "observed": true
         }
       ],
@@ -607,23 +607,23 @@
         },
         {
           "week_start": "2026-08-31",
-          "count": 79,
-          "reach": 239,
-          "in_digest": 16,
-          "people": 31,
+          "count": 85,
+          "reach": 245,
+          "in_digest": 19,
+          "people": 33,
           "sentiment": {
-            "positive": 3,
-            "neutral": 4,
+            "positive": 4,
+            "neutral": 7,
             "negative": 0,
-            "unknown": 72
+            "unknown": 74
           }
         }
       ],
       "sentiment": {
-        "positive": 77,
-        "neutral": 136,
+        "positive": 78,
+        "neutral": 139,
         "negative": 11,
-        "unknown": 287
+        "unknown": 289
       },
       "top_people": [
         {
@@ -655,6 +655,13 @@
           "is_ces": true
         },
         {
+          "person_id": "henry-farrell",
+          "name": "Henry Farrell",
+          "count": 27,
+          "reach": 33,
+          "is_ces": true
+        },
+        {
           "person_id": "sean-carroll",
           "name": "Sean Carroll",
           "count": 26,
@@ -662,17 +669,10 @@
           "is_ces": false
         },
         {
-          "person_id": "henry-farrell",
-          "name": "Henry Farrell",
-          "count": 24,
-          "reach": 30,
-          "is_ces": true
-        },
-        {
           "person_id": "yascha-mounk",
           "name": "Yascha Mounk",
-          "count": 23,
-          "reach": 149,
+          "count": 24,
+          "reach": 150,
           "is_ces": false
         },
         {
@@ -700,8 +700,8 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 100,
-          "reach": 314,
+          "count": 102,
+          "reach": 316,
           "is_other": false
         },
         {
@@ -718,8 +718,8 @@
         },
         {
           "source": "Youtube",
-          "count": 15,
-          "reach": 12,
+          "count": 17,
+          "reach": 14,
           "is_other": false
         },
         {
@@ -729,15 +729,15 @@
           "is_other": false
         },
         {
-          "source": "Springer",
-          "count": 12,
-          "reach": 12,
+          "source": "Substack",
+          "count": 13,
+          "reach": 15,
           "is_other": false
         },
         {
-          "source": "Substack",
+          "source": "Springer",
           "count": 12,
-          "reach": 14,
+          "reach": 12,
           "is_other": false
         },
         {
@@ -748,19 +748,19 @@
         },
         {
           "source": "Other",
-          "count": 307,
-          "reach": 878,
+          "count": 308,
+          "reach": 879,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 239
+          "count": 240
         },
         {
           "source_type": "social network",
-          "count": 105
+          "count": 107
         },
         {
           "source_type": "blog",
@@ -768,7 +768,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 145
+          "count": 148
         }
       ],
       "negative_stories": [
@@ -826,6 +826,16 @@
           "total": 29
         },
         {
+          "row_label": "Henry Farrell",
+          "person_id": "henry-farrell",
+          "is_ces": true,
+          "positive": 2,
+          "neutral": 9,
+          "negative": 0,
+          "unknown": 16,
+          "total": 27
+        },
+        {
           "row_label": "Sean Carroll",
           "person_id": "sean-carroll",
           "is_ces": false,
@@ -836,24 +846,14 @@
           "total": 26
         },
         {
-          "row_label": "Henry Farrell",
-          "person_id": "henry-farrell",
-          "is_ces": true,
-          "positive": 1,
-          "neutral": 7,
-          "negative": 0,
-          "unknown": 16,
-          "total": 24
-        },
-        {
           "row_label": "Yascha Mounk",
           "person_id": "yascha-mounk",
           "is_ces": false,
           "positive": 1,
-          "neutral": 8,
+          "neutral": 9,
           "negative": 1,
           "unknown": 13,
-          "total": 23
+          "total": 24
         },
         {
           "row_label": "Hahrie Han",
@@ -936,6 +936,16 @@
           "total": 10
         },
         {
+          "row_label": "Peter Pomerantsev",
+          "person_id": "peter-pomerantsev",
+          "is_ces": false,
+          "positive": 1,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 8,
+          "total": 9
+        },
+        {
           "row_label": "(false positive)",
           "person_id": "false-positive",
           "is_ces": false,
@@ -954,16 +964,6 @@
           "negative": 0,
           "unknown": 2,
           "total": 8
-        },
-        {
-          "row_label": "Peter Pomerantsev",
-          "person_id": "peter-pomerantsev",
-          "is_ces": false,
-          "positive": 1,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 6,
-          "total": 7
         },
         {
           "row_label": "Denise Dresser (namesake, OpenAI)",
@@ -1650,18 +1650,18 @@
         {
           "row_label": "online news",
           "positive": 25,
-          "neutral": 85,
+          "neutral": 86,
           "negative": 2,
           "unknown": 127,
-          "total": 239
+          "total": 240
         },
         {
           "row_label": "social network",
           "positive": 26,
-          "neutral": 34,
+          "neutral": 36,
           "negative": 1,
           "unknown": 44,
-          "total": 105
+          "total": 107
         },
         {
           "row_label": "blog",
@@ -1673,11 +1673,11 @@
         },
         {
           "row_label": "unresolved",
-          "positive": 21,
+          "positive": 22,
           "neutral": 11,
           "negative": 8,
-          "unknown": 105,
-          "total": 145
+          "unknown": 107,
+          "total": 148
         }
       ],
       "sentiment_examples": {
@@ -1839,6 +1839,16 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 521,
+              "person": "Henry Farrell",
+              "person_id": "henry-farrell",
+              "is_ces": true,
+              "title": "(untitled Comments item)",
+              "url": "https://www.blogofdoom.com/2026/09/03/morning-daily-news-update-september-3-2026-ric-flair-has-strong-response-to-kenny-omega-and-will-ospreay-praise/#comment-6929565090",
+              "source": "Comments",
+              "date": "2026-09-03"
+            },
             {
               "id": 473,
               "person": "Steven Teles",
@@ -2657,12 +2667,12 @@
     },
     "ces": {
       "totals": {
-        "mentions": 79,
-        "in_digest": 53,
-        "reach_proxy": 126,
+        "mentions": 82,
+        "in_digest": 55,
+        "reach_proxy": 129,
         "people_covered": 10,
         "people_tracked": 17,
-        "sources": 45,
+        "sources": 46,
         "negative": 0
       },
       "deltas": {
@@ -3131,9 +3141,9 @@
         },
         {
           "date": "2026-09-03",
-          "count": 0,
-          "reach": 0,
-          "in_digest": 0,
+          "count": 3,
+          "reach": 3,
+          "in_digest": 2,
           "observed": true
         }
       ],
@@ -3257,21 +3267,21 @@
         },
         {
           "week_start": "2026-08-31",
-          "count": 10,
-          "reach": 16,
-          "in_digest": 5,
+          "count": 13,
+          "reach": 19,
+          "in_digest": 7,
           "people": 2,
           "sentiment": {
-            "positive": 1,
-            "neutral": 1,
+            "positive": 2,
+            "neutral": 3,
             "negative": 0,
             "unknown": 8
           }
         }
       ],
       "sentiment": {
-        "positive": 13,
-        "neutral": 25,
+        "positive": 14,
+        "neutral": 27,
         "negative": 0,
         "unknown": 41
       },
@@ -3286,8 +3296,8 @@
         {
           "person_id": "henry-farrell",
           "name": "Henry Farrell",
-          "count": 24,
-          "reach": 30,
+          "count": 27,
+          "reach": 33,
           "is_ces": true
         },
         {
@@ -3361,13 +3371,19 @@
           "is_other": false
         },
         {
-          "source": "The New York Times",
+          "source": "Youtube",
+          "count": 4,
+          "reach": 4,
+          "is_other": false
+        },
+        {
+          "source": "Substack",
           "count": 3,
           "reach": 3,
           "is_other": false
         },
         {
-          "source": "Youtube",
+          "source": "The New York Times",
           "count": 3,
           "reach": 3,
           "is_other": false
@@ -3391,26 +3407,20 @@
           "is_other": false
         },
         {
-          "source": "Internazionale",
-          "count": 2,
-          "reach": 3,
-          "is_other": false
-        },
-        {
           "source": "Other",
-          "count": 42,
-          "reach": 82,
+          "count": 43,
+          "reach": 84,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 39
+          "count": 40
         },
         {
           "source_type": "social network",
-          "count": 11
+          "count": 12
         },
         {
           "source_type": "blog",
@@ -3418,7 +3428,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 25
+          "count": 26
         }
       ],
       "negative_stories": [],
@@ -3437,11 +3447,11 @@
           "row_label": "Henry Farrell",
           "person_id": "henry-farrell",
           "is_ces": true,
-          "positive": 1,
-          "neutral": 7,
+          "positive": 2,
+          "neutral": 9,
           "negative": 0,
           "unknown": 16,
-          "total": 24
+          "total": 27
         },
         {
           "row_label": "Louis Hyman",
@@ -3528,18 +3538,18 @@
         {
           "row_label": "online news",
           "positive": 8,
-          "neutral": 15,
+          "neutral": 16,
           "negative": 0,
           "unknown": 16,
-          "total": 39
+          "total": 40
         },
         {
           "row_label": "social network",
           "positive": 1,
-          "neutral": 8,
+          "neutral": 9,
           "negative": 0,
           "unknown": 2,
-          "total": 11
+          "total": 12
         },
         {
           "row_label": "blog",
@@ -3551,11 +3561,11 @@
         },
         {
           "row_label": "unresolved",
-          "positive": 2,
+          "positive": 3,
           "neutral": 1,
           "negative": 0,
           "unknown": 22,
-          "total": 25
+          "total": 26
         }
       ],
       "sentiment_examples": {
@@ -3565,6 +3575,16 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 521,
+              "person": "Henry Farrell",
+              "person_id": "henry-farrell",
+              "is_ces": true,
+              "title": "(untitled Comments item)",
+              "url": "https://www.blogofdoom.com/2026/09/03/morning-daily-news-update-september-3-2026-ric-flair-has-strong-response-to-kenny-omega-and-will-ospreay-praise/#comment-6929565090",
+              "source": "Comments",
+              "date": "2026-09-03"
+            },
             {
               "id": 473,
               "person": "Steven Teles",

@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-03T10:18:15-04:00",
-  "count": 45,
+  "generated_at": "2026-09-04T09:40:29-04:00",
+  "count": 46,
   "picks": [
+    {
+      "id": 63,
+      "mention_id": 518,
+      "digest_date": "2026-09-03",
+      "person": "Henry Farrell",
+      "person_id": "henry-farrell",
+      "person_ids": [
+        "henry-farrell"
+      ],
+      "is_ces": true,
+      "punchy_title": "When the world economy becomes a weapon — and it turns on your allies",
+      "headline": "When the world economy becomes a weapon — and it turns on your allies",
+      "pull_quote": "\"The weaponised world economy\" - Keynote w/Henry Farrell, Professor at John Hopkins",
+      "rationale": "\"The weaponised world economy\" - Keynote w/Henry Farrell, Professor at John Hopkins",
+      "url": "https://www.youtube.com/watch?v=saI3Ru77uVI",
+      "story_url": "https://www.youtube.com/watch?v=saI3Ru77uVI",
+      "created_at": "2026-09-04 13:40:12",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "SNF Agora's Henry Farrell headlines Eurelectric's Power Summit with \"The weaponised world economy\" — on how the US turned finance and technology into instruments of coercion, and what happens when they point at allies. https://www.youtube.com/watch?v=saI3Ru77uVI",
+          "chars": 262,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=SNF%20Agora%27s%20Henry%20Farrell%20headlines%20Eurelectric%27s%20Power%20Summit%20with%20%22The%20weaponised%20world%20economy%22%20%E2%80%94%20on%20how%20the%20US%20turned%20finance%20and%20technology%20into%20instruments%20of%20coercion%2C%20and%20what%20happens%20when%20they%20point%20at%20allies.%20https%3A//www.youtube.com/watch%3Fv%3DsaI3Ru77uVI"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "SNF Agora's Henry Farrell headlines Eurelectric's Power Summit with \"The weaponised world economy\" — on how the US turned finance and technology into instruments of coercion, and what happens when they point at allies. https://www.youtube.com/watch?v=saI3Ru77uVI",
+          "chars": 262,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=SNF%20Agora%27s%20Henry%20Farrell%20headlines%20Eurelectric%27s%20Power%20Summit%20with%20%22The%20weaponised%20world%20economy%22%20%E2%80%94%20on%20how%20the%20US%20turned%20finance%20and%20technology%20into%20instruments%20of%20coercion%2C%20and%20what%20happens%20when%20they%20point%20at%20allies.%20https%3A//www.youtube.com/watch%3Fv%3DsaI3Ru77uVI"
+        }
+      ]
+    },
     {
       "id": 62,
       "mention_id": 498,
