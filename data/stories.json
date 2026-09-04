@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T10:18:15-04:00",
-  "count": 511,
+  "generated_at": "2026-09-04T09:40:29-04:00",
+  "count": 517,
   "stories": [
     {
       "id": 507,
@@ -25,6 +25,144 @@
         "bluesky": {
           "text": "Every terrible thing the Trump administration did in August 2026 https://keeptrack.substack.com/p/every-terrible-thing-the-trump-administration-6a2",
           "chars": 147
+        }
+      }
+    },
+    {
+      "id": 523,
+      "date": "2026-09-03",
+      "week_start": "2026-08-31",
+      "person_id": "peter-pomerantsev",
+      "person": "Peter Pomerantsev",
+      "is_ces": false,
+      "title": "(untitled Twitter item)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 522,
+      "date": "2026-09-03",
+      "week_start": "2026-08-31",
+      "person_id": "peter-pomerantsev",
+      "person": "Peter Pomerantsev",
+      "is_ces": false,
+      "title": "(untitled Twitter item)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 521,
+      "date": "2026-09-03",
+      "week_start": "2026-08-31",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "(untitled Comments item)",
+      "has_text": true,
+      "url": "https://www.blogofdoom.com/2026/09/03/morning-daily-news-update-september-3-2026-ric-flair-has-strong-response-to-kenny-omega-and-will-ospreay-praise/#comment-6929565090",
+      "source": "Comments",
+      "source_type": "comments",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "(untitled Comments item) https://www.blogofdoom.com/2026/09/03/morning-daily-news-update-september-3-2026-ric-flair-has-strong-response-to-kenny-omega-and-will-ospreay-praise/#comment-6929565090",
+          "chars": 48
+        },
+        "bluesky": {
+          "text": "(untitled Comments item) https://www.blogofdoom.com/2026/09/03/morning-daily-news-update-september-3-2026-ric-flair-has-strong-response-to-kenny-omega-and-will-ospreay-praise/#comment-6929565090",
+          "chars": 194
+        }
+      }
+    },
+    {
+      "id": 520,
+      "date": "2026-09-03",
+      "week_start": "2026-08-31",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "O divórcio entre democracia e liberalismo",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=QXflDao8ErA",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "O divórcio entre democracia e liberalismo https://www.youtube.com/watch?v=QXflDao8ErA",
+          "chars": 65
+        },
+        "bluesky": {
+          "text": "O divórcio entre democracia e liberalismo https://www.youtube.com/watch?v=QXflDao8ErA",
+          "chars": 85
+        }
+      }
+    },
+    {
+      "id": 519,
+      "date": "2026-09-03",
+      "week_start": "2026-08-31",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "El Imperio de las Tuberías | Estamos en la etapa donde Washington apunta su arma contra sus propios aliados",
+      "has_text": true,
+      "url": "https://elgrupodelos50.substack.com/p/el-imperio-de-las-tuberias-estamos",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "El Imperio de las Tuberías | Estamos en la etapa donde Washington apunta su arma contra sus propios aliados https://elgrupodelos50.substack.com/p/el-imperio-de-las-tuberias-estamos",
+          "chars": 131
+        },
+        "bluesky": {
+          "text": "El Imperio de las Tuberías | Estamos en la etapa donde Washington apunta su arma contra sus propios aliados https://elgrupodelos50.substack.com/p/el-imperio-de-las-tuberias-estamos",
+          "chars": 180
+        }
+      }
+    },
+    {
+      "id": 518,
+      "date": "2026-09-03",
+      "week_start": "2026-08-31",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "The Weaponisation of Global #Finance and #Technology",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=saI3Ru77uVI",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "The Weaponisation of Global #Finance and #Technology https://www.youtube.com/watch?v=saI3Ru77uVI",
+          "chars": 76
+        },
+        "bluesky": {
+          "text": "The Weaponisation of Global #Finance and #Technology https://www.youtube.com/watch?v=saI3Ru77uVI",
+          "chars": 96
         }
       }
     },
