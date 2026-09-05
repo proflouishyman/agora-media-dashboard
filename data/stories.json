@@ -1,7 +1,483 @@
 {
-  "generated_at": "2026-09-04T09:40:29-04:00",
-  "count": 517,
+  "generated_at": "2026-09-05T07:06:28-04:00",
+  "count": 536,
   "stories": [
+    {
+      "id": 529,
+      "date": "2026-09-05",
+      "week_start": "2026-08-31",
+      "person_id": "emily-white",
+      "person": "Emily White",
+      "is_ces": false,
+      "title": "WAND's Athletes of the Week: Tucker Durbin and Maddex Havera",
+      "has_text": true,
+      "url": "https://www.wandtv.com/2026/09/05/wands-athletes-week-tucker-durbin-maddex-havera/",
+      "source": "WAND-TV",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "WAND's Athletes of the Week: Tucker Durbin and Maddex Havera https://www.wandtv.com/2026/09/05/wands-athletes-week-tucker-durbin-maddex-havera/",
+          "chars": 84
+        },
+        "bluesky": {
+          "text": "WAND's Athletes of the Week: Tucker Durbin and Maddex Havera https://www.wandtv.com/2026/09/05/wands-athletes-week-tucker-durbin-maddex-havera/",
+          "chars": 143
+        }
+      }
+    },
+    {
+      "id": 528,
+      "date": "2026-09-05",
+      "week_start": "2026-08-31",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "More Iranian universities in Round University Ranking 2026",
+      "has_text": true,
+      "url": "https://www.tehrantimes.com/news/529697/More-Iranian-universities-in-Round-University-Ranking-2026",
+      "source": "Tehran Times",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "More Iranian universities in Round University Ranking 2026 https://www.tehrantimes.com/news/529697/More-Iranian-universities-in-Round-University-Ranking-2026",
+          "chars": 82
+        },
+        "bluesky": {
+          "text": "More Iranian universities in Round University Ranking 2026 https://www.tehrantimes.com/news/529697/More-Iranian-universities-in-Round-University-Ranking-2026",
+          "chars": 157
+        }
+      }
+    },
+    {
+      "id": 525,
+      "date": "2026-09-04",
+      "week_start": "2026-08-31",
+      "person_id": "eugene-scott",
+      "person": "Eugene Scott",
+      "is_ces": false,
+      "title": "Charting the Next Frontier: Where Will Technology Take Us Next?",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/events/2026/09/14/next-conversations-charting-the-next-frontier/",
+      "source": "Hub - Johns Hopkins University",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Charting the Next Frontier: Where Will Technology Take Us Next? https://hub.jhu.edu/events/2026/09/14/next-conversations-charting-the-next-frontier/",
+          "chars": 87
+        },
+        "bluesky": {
+          "text": "Charting the Next Frontier: Where Will Technology Take Us Next? https://hub.jhu.edu/events/2026/09/14/next-conversations-charting-the-next-frontier/",
+          "chars": 148
+        }
+      }
+    },
+    {
+      "id": 542,
+      "date": "2026-09-04",
+      "week_start": "2026-08-31",
+      "person_id": "hopkins",
+      "person": "Hopkins",
+      "is_ces": false,
+      "title": "Jornal RODA #53 - Jensen, Guzzi, Maserati",
+      "has_text": true,
+      "url": "https://rodanews.substack.com/p/jornal-roda-53-jensen-guzzi-maserati",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Jornal RODA #53 - Jensen, Guzzi, Maserati https://rodanews.substack.com/p/jornal-roda-53-jensen-guzzi-maserati",
+          "chars": 65
+        },
+        "bluesky": {
+          "text": "Jornal RODA #53 - Jensen, Guzzi, Maserati https://rodanews.substack.com/p/jornal-roda-53-jensen-guzzi-maserati",
+          "chars": 110
+        }
+      }
+    },
+    {
+      "id": 541,
+      "date": "2026-09-04",
+      "week_start": "2026-08-31",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "MAHE to Host International Conference on Infectious Diseases, AMR, and Global Health",
+      "has_text": true,
+      "url": "https://globaltriumphfoundation.com/corporate-news?c_article_id=36382",
+      "source": "Global Triumph Foundation",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "MAHE to Host International Conference on Infectious Diseases, AMR, and Global Health https://globaltriumphfoundation.com/corporate-news?c_article_id=36382",
+          "chars": 108
+        },
+        "bluesky": {
+          "text": "MAHE to Host International Conference on Infectious Diseases, AMR, and Global Health https://globaltriumphfoundation.com/corporate-news?c_article_id=36382",
+          "chars": 154
+        }
+      }
+    },
+    {
+      "id": 540,
+      "date": "2026-09-04",
+      "week_start": "2026-08-31",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "https://www.reddit.com/r/u_cheersyou/comments/1w771gu/11_years_in_international_education_what_weve/",
+      "source": "reddit.com/r/u_cheersyou",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " https://www.reddit.com/r/u_cheersyou/comments/1w771gu/11_years_in_international_education_what_weve/",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://www.reddit.com/r/u_cheersyou/comments/1w771gu/11_years_in_international_education_what_weve/",
+          "chars": 101
+        }
+      }
+    },
+    {
+      "id": 539,
+      "date": "2026-09-04",
+      "week_start": "2026-08-31",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Press Release Governor Healey Invests $4.2 Million to Grow Offshore Wind Workforce and Research",
+      "has_text": true,
+      "url": "https://www.mass.gov/news/governor-healey-invests-42-million-to-grow-offshore-wind-workforce-and-research",
+      "source": "Commonwealth of Massachusetts",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Press Release Governor Healey Invests $4.2 Million to Grow Offshore Wind Workforce and Research https://www.mass.gov/news/governor-healey-invests-42-million-to-grow-offshore-wind-workforce-and-research",
+          "chars": 119
+        },
+        "bluesky": {
+          "text": "Press Release Governor Healey Invests $4.2 Million to Grow Offshore Wind Workforce and Research https://www.mass.gov/news/governor-healey-invests-42-million-to-grow-offshore-wind-workforce-and-research",
+          "chars": 201
+        }
+      }
+    },
+    {
+      "id": 538,
+      "date": "2026-09-04",
+      "week_start": "2026-08-31",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "#182 A internet que o ChatGPT escreveu e as três \"civilizações\" secretas de agentes de AI que surgiram dentro da infraestrutura da OpenAI",
+      "has_text": true,
+      "url": "https://flohagenbuch.substack.com/p/182-a-internet-que-o-chatgpt-escreveu",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "#182 A internet que o ChatGPT escreveu e as três \"civilizações\" secretas de agentes de AI que surgiram dentro da infraestrutura da OpenAI https://flohagenbuch.substack.com/p/182-a-internet-que-o-chatgpt-escreveu",
+          "chars": 161
+        },
+        "bluesky": {
+          "text": "#182 A internet que o ChatGPT escreveu e as três \"civilizações\" secretas de agentes de AI que surgiram dentro da infraestrutura da OpenAI https://flohagenbuch.substack.com/p/182-a-internet-que-o-chatgpt-escreveu",
+          "chars": 211
+        }
+      }
+    },
+    {
+      "id": 537,
+      "date": "2026-09-04",
+      "week_start": "2026-08-31",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 536,
+      "date": "2026-09-04",
+      "week_start": "2026-08-31",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Forbidden Words",
+      "has_text": true,
+      "url": "https://leahzani.substack.com/p/forbidden-words",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Forbidden Words https://leahzani.substack.com/p/forbidden-words",
+          "chars": 39
+        },
+        "bluesky": {
+          "text": "Forbidden Words https://leahzani.substack.com/p/forbidden-words",
+          "chars": 63
+        }
+      }
+    },
+    {
+      "id": 535,
+      "date": "2026-09-04",
+      "week_start": "2026-08-31",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "FDA Nominee Heidi Overton Has No Pharma Ties and a Policy Agenda That Could Rattle The Industry",
+      "has_text": true,
+      "url": "https://finance.biggo.com/news/1d8a83523c362620",
+      "source": "BigGo Finance",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "FDA Nominee Heidi Overton Has No Pharma Ties and a Policy Agenda That Could Rattle The Industry https://finance.biggo.com/news/1d8a83523c362620",
+          "chars": 119
+        },
+        "bluesky": {
+          "text": "FDA Nominee Heidi Overton Has No Pharma Ties and a Policy Agenda That Could Rattle The Industry https://finance.biggo.com/news/1d8a83523c362620",
+          "chars": 143
+        }
+      }
+    },
+    {
+      "id": 534,
+      "date": "2026-09-04",
+      "week_start": "2026-08-31",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Evento beneficente de Olivia Rodrigo arrecada mais de R$ 100 milhões",
+      "has_text": true,
+      "url": "https://entretenimento.r7.com/prisma/backstage/evento-beneficente-de-olivia-rodrigo-arrecada-mais-de-r-100-milhoes-04092026/",
+      "source": "Portal R7",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Evento beneficente de Olivia Rodrigo arrecada mais de R$ 100 milhões https://entretenimento.r7.com/prisma/backstage/evento-beneficente-de-olivia-rodrigo-arrecada-mais-de-r-100-milhoes-04092026/",
+          "chars": 92
+        },
+        "bluesky": {
+          "text": "Evento beneficente de Olivia Rodrigo arrecada mais de R$ 100 milhões https://entretenimento.r7.com/prisma/backstage/evento-beneficente-de-olivia-rodrigo-arrecada-mais-de-r-100-milhoes-04092026/",
+          "chars": 193
+        }
+      }
+    },
+    {
+      "id": 533,
+      "date": "2026-09-04",
+      "week_start": "2026-08-31",
+      "person_id": "martha-jones",
+      "person": "Martha Jones",
+      "is_ces": false,
+      "title": "Doctor Who: a Doutora Fugitiva pode virar o erro que a franquia mais precisava evitar?",
+      "has_text": true,
+      "url": "https://culpadolag.com.br/doctor-who-a-doutora-fugitiva-pode-virar-o-erro-que-a-franquia-mais-precisava-evitar",
+      "source": "Culpa do Lag",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Doctor Who: a Doutora Fugitiva pode virar o erro que a franquia mais precisava evitar? https://culpadolag.com.br/doctor-who-a-doutora-fugitiva-pode-virar-o-erro-que-a-franquia-mais-precisava-evitar",
+          "chars": 110
+        },
+        "bluesky": {
+          "text": "Doctor Who: a Doutora Fugitiva pode virar o erro que a franquia mais precisava evitar? https://culpadolag.com.br/doctor-who-a-doutora-fugitiva-pode-virar-o-erro-que-a-franquia-mais-precisava-evitar",
+          "chars": 197
+        }
+      }
+    },
+    {
+      "id": 532,
+      "date": "2026-09-04",
+      "week_start": "2026-08-31",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 531,
+      "date": "2026-09-04",
+      "week_start": "2026-08-31",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Zionism: From an Idea to Genocide",
+      "has_text": true,
+      "url": "https://gregorylessinggarrett.substack.com/p/zionism-from-an-idea-to-genocide",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Zionism: From an Idea to Genocide https://gregorylessinggarrett.substack.com/p/zionism-from-an-idea-to-genocide",
+          "chars": 57
+        },
+        "bluesky": {
+          "text": "Zionism: From an Idea to Genocide https://gregorylessinggarrett.substack.com/p/zionism-from-an-idea-to-genocide",
+          "chars": 111
+        }
+      }
+    },
+    {
+      "id": 530,
+      "date": "2026-09-04",
+      "week_start": "2026-08-31",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "3.27 Million Urban Workers in Colombia Are in Occupations Vulnerable to AI",
+      "has_text": true,
+      "url": "https://colombiaone.com/2026/09/04/3-27-million-urban-workers-in-colombia-are-in-occupations-vulnerable-to-ai/",
+      "source": "Colombia One",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "3.27 Million Urban Workers in Colombia Are in Occupations Vulnerable to AI https://colombiaone.com/2026/09/04/3-27-million-urban-workers-in-colombia-are-in-occupations-vulnerable-to-ai/",
+          "chars": 98
+        },
+        "bluesky": {
+          "text": "3.27 Million Urban Workers in Colombia Are in Occupations Vulnerable to AI https://colombiaone.com/2026/09/04/3-27-million-urban-workers-in-colombia-are-in-occupations-vulnerable-to-ai/",
+          "chars": 185
+        }
+      }
+    },
+    {
+      "id": 527,
+      "date": "2026-09-04",
+      "week_start": "2026-08-31",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Symposium: Democracy and Its Discontents in Latin America and Beyond",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/events/2026/09/18/democracy-and-its-discontents-in-latin-america-and-beyond-symposium/",
+      "source": "Hub - Johns Hopkins University",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Symposium: Democracy and Its Discontents in Latin America and Beyond https://hub.jhu.edu/events/2026/09/18/democracy-and-its-discontents-in-latin-america-and-beyond-symposium/",
+          "chars": 92
+        },
+        "bluesky": {
+          "text": "Symposium: Democracy and Its Discontents in Latin America and Beyond https://hub.jhu.edu/events/2026/09/18/democracy-and-its-discontents-in-latin-america-and-beyond-symposium/",
+          "chars": 175
+        }
+      }
+    },
+    {
+      "id": 526,
+      "date": "2026-09-04",
+      "week_start": "2026-08-31",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Envisioning the Future of Global Supply Chains: A Johns Hopkins 150th Anniversary Conference",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/events/2026/09/17/envisioning-the-future-of-global-supply-chains-a-johns-hopkins-150th-anniversary-conference/",
+      "source": "Hub - Johns Hopkins University",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Envisioning the Future of Global Supply Chains: A Johns Hopkins 150th Anniversary Conference https://hub.jhu.edu/events/2026/09/17/envisioning-the-future-of-global-supply-chains-a-johns-hopkins-150th-anniversary-conference/",
+          "chars": 116
+        },
+        "bluesky": {
+          "text": "Envisioning the Future of Global Supply Chains: A Johns Hopkins 150th Anniversary Conference https://hub.jhu.edu/events/2026/09/17/envisioning-the-future-of-global-supply-chains-a-johns-hopkins-150th-anniversary-conference/",
+          "chars": 223
+        }
+      }
+    },
+    {
+      "id": 524,
+      "date": "2026-09-04",
+      "week_start": "2026-08-31",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "The Myth of the \"Censorship Industrial Complex\"",
+      "has_text": true,
+      "url": "https://anneapplebaum.substack.com/p/the-myth-of-the-censorship-industrial",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "The Myth of the \"Censorship Industrial Complex\" https://anneapplebaum.substack.com/p/the-myth-of-the-censorship-industrial",
+          "chars": 71
+        },
+        "bluesky": {
+          "text": "The Myth of the \"Censorship Industrial Complex\" https://anneapplebaum.substack.com/p/the-myth-of-the-censorship-industrial",
+          "chars": 122
+        }
+      }
+    },
     {
       "id": 507,
       "date": "2026-09-03",
