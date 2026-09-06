@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-05T07:06:28-04:00",
+  "generated_at": "2026-09-06T07:07:45-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-09-05"
+    "end": "2026-09-06"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 536,
-        "in_digest": 217,
-        "reach_proxy": 1805,
-        "people_covered": 88,
+        "mentions": 539,
+        "in_digest": 218,
+        "reach_proxy": 1808,
+        "people_covered": 89,
         "people_tracked": 100,
-        "sources": 252,
+        "sources": 254,
         "negative": 11
       },
       "deltas": {
@@ -495,9 +495,16 @@
         },
         {
           "date": "2026-09-05",
-          "count": 2,
-          "reach": 2,
+          "count": 4,
+          "reach": 4,
           "in_digest": 0,
+          "observed": true
+        },
+        {
+          "date": "2026-09-06",
+          "count": 1,
+          "reach": 1,
+          "in_digest": 1,
           "observed": true
         }
       ],
@@ -621,15 +628,15 @@
         },
         {
           "week_start": "2026-08-31",
-          "count": 104,
-          "reach": 265,
-          "in_digest": 23,
-          "people": 38,
+          "count": 107,
+          "reach": 268,
+          "in_digest": 24,
+          "people": 39,
           "sentiment": {
             "positive": 4,
             "neutral": 9,
             "negative": 0,
-            "unknown": 91
+            "unknown": 94
           }
         }
       ],
@@ -637,14 +644,14 @@
         "positive": 78,
         "neutral": 141,
         "negative": 11,
-        "unknown": 306
+        "unknown": 309
       },
       "top_people": [
         {
           "person_id": "snf-agora-institute",
           "name": "SNF Agora Institute",
-          "count": 66,
-          "reach": 146,
+          "count": 67,
+          "reach": 147,
           "is_ces": false
         },
         {
@@ -662,17 +669,17 @@
           "is_ces": false
         },
         {
+          "person_id": "henry-farrell",
+          "name": "Henry Farrell",
+          "count": 29,
+          "reach": 35,
+          "is_ces": true
+        },
+        {
           "person_id": "yuen-yuen-ang",
           "name": "Yuen Yuen Ang",
           "count": 29,
           "reach": 51,
-          "is_ces": true
-        },
-        {
-          "person_id": "henry-farrell",
-          "name": "Henry Farrell",
-          "count": 28,
-          "reach": 34,
           "is_ces": true
         },
         {
@@ -762,15 +769,15 @@
         },
         {
           "source": "Other",
-          "count": 320,
-          "reach": 892,
+          "count": 323,
+          "reach": 895,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 255
+          "count": 256
         },
         {
           "source_type": "social network",
@@ -782,7 +789,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 151
+          "count": 153
         }
       ],
       "negative_stories": [
@@ -806,8 +813,8 @@
           "positive": 19,
           "neutral": 26,
           "negative": 3,
-          "unknown": 18,
-          "total": 66
+          "unknown": 19,
+          "total": 67
         },
         {
           "row_label": "Anne Applebaum",
@@ -830,6 +837,16 @@
           "total": 32
         },
         {
+          "row_label": "Henry Farrell",
+          "person_id": "henry-farrell",
+          "is_ces": true,
+          "positive": 2,
+          "neutral": 10,
+          "negative": 0,
+          "unknown": 17,
+          "total": 29
+        },
+        {
           "row_label": "Yuen Yuen Ang",
           "person_id": "yuen-yuen-ang",
           "is_ces": true,
@@ -838,16 +855,6 @@
           "negative": 0,
           "unknown": 13,
           "total": 29
-        },
-        {
-          "row_label": "Henry Farrell",
-          "person_id": "henry-farrell",
-          "is_ces": true,
-          "positive": 2,
-          "neutral": 10,
-          "negative": 0,
-          "unknown": 16,
-          "total": 28
         },
         {
           "row_label": "Sean Carroll",
@@ -1330,6 +1337,16 @@
           "total": 1
         },
         {
+          "row_label": "Daniel Sabet",
+          "person_id": "daniel-sabet",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
           "row_label": "Dawn Teele",
           "person_id": "dawn-teele",
           "is_ces": false,
@@ -1686,8 +1703,8 @@
           "positive": 25,
           "neutral": 88,
           "negative": 2,
-          "unknown": 140,
-          "total": 255
+          "unknown": 141,
+          "total": 256
         },
         {
           "row_label": "social network",
@@ -1710,8 +1727,8 @@
           "positive": 22,
           "neutral": 11,
           "negative": 8,
-          "unknown": 110,
-          "total": 151
+          "unknown": 112,
+          "total": 153
         }
       ],
       "sentiment_examples": {
@@ -2701,9 +2718,9 @@
     },
     "ces": {
       "totals": {
-        "mentions": 83,
-        "in_digest": 56,
-        "reach_proxy": 130,
+        "mentions": 84,
+        "in_digest": 57,
+        "reach_proxy": 131,
         "people_covered": 10,
         "people_tracked": 17,
         "sources": 47,
@@ -3193,6 +3210,13 @@
           "reach": 0,
           "in_digest": 0,
           "observed": true
+        },
+        {
+          "date": "2026-09-06",
+          "count": 1,
+          "reach": 1,
+          "in_digest": 1,
+          "observed": true
         }
       ],
       "weekly": [
@@ -3315,15 +3339,15 @@
         },
         {
           "week_start": "2026-08-31",
-          "count": 14,
-          "reach": 20,
-          "in_digest": 8,
+          "count": 15,
+          "reach": 21,
+          "in_digest": 9,
           "people": 2,
           "sentiment": {
             "positive": 2,
             "neutral": 4,
             "negative": 0,
-            "unknown": 8
+            "unknown": 9
           }
         }
       ],
@@ -3331,21 +3355,21 @@
         "positive": 14,
         "neutral": 28,
         "negative": 0,
-        "unknown": 41
+        "unknown": 42
       },
       "top_people": [
+        {
+          "person_id": "henry-farrell",
+          "name": "Henry Farrell",
+          "count": 29,
+          "reach": 35,
+          "is_ces": true
+        },
         {
           "person_id": "yuen-yuen-ang",
           "name": "Yuen Yuen Ang",
           "count": 29,
           "reach": 51,
-          "is_ces": true
-        },
-        {
-          "person_id": "henry-farrell",
-          "name": "Henry Farrell",
-          "count": 28,
-          "reach": 34,
           "is_ces": true
         },
         {
@@ -3419,6 +3443,12 @@
           "is_other": false
         },
         {
+          "source": "The New York Times",
+          "count": 4,
+          "reach": 4,
+          "is_other": false
+        },
+        {
           "source": "Youtube",
           "count": 4,
           "reach": 4,
@@ -3426,12 +3456,6 @@
         },
         {
           "source": "Substack",
-          "count": 3,
-          "reach": 3,
-          "is_other": false
-        },
-        {
-          "source": "The New York Times",
           "count": 3,
           "reach": 3,
           "is_other": false
@@ -3464,7 +3488,7 @@
       "source_types": [
         {
           "source_type": "online news",
-          "count": 41
+          "count": 42
         },
         {
           "source_type": "social network",
@@ -3482,6 +3506,16 @@
       "negative_stories": [],
       "person_sentiment_crosstab": [
         {
+          "row_label": "Henry Farrell",
+          "person_id": "henry-farrell",
+          "is_ces": true,
+          "positive": 2,
+          "neutral": 10,
+          "negative": 0,
+          "unknown": 17,
+          "total": 29
+        },
+        {
           "row_label": "Yuen Yuen Ang",
           "person_id": "yuen-yuen-ang",
           "is_ces": true,
@@ -3490,16 +3524,6 @@
           "negative": 0,
           "unknown": 13,
           "total": 29
-        },
-        {
-          "row_label": "Henry Farrell",
-          "person_id": "henry-farrell",
-          "is_ces": true,
-          "positive": 2,
-          "neutral": 10,
-          "negative": 0,
-          "unknown": 16,
-          "total": 28
         },
         {
           "row_label": "Louis Hyman",
@@ -3588,8 +3612,8 @@
           "positive": 8,
           "neutral": 17,
           "negative": 0,
-          "unknown": 16,
-          "total": 41
+          "unknown": 17,
+          "total": 42
         },
         {
           "row_label": "social network",
