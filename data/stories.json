@@ -1,7 +1,85 @@
 {
-  "generated_at": "2026-09-05T07:06:28-04:00",
-  "count": 536,
+  "generated_at": "2026-09-06T07:07:45-04:00",
+  "count": 539,
   "stories": [
+    {
+      "id": 543,
+      "date": "2026-09-06",
+      "week_start": "2026-08-31",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "We Can't Know Our A.I. Future if We Don't Study It",
+      "has_text": true,
+      "url": "https://www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html",
+      "source": "The New York Times",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "We Can't Know Our A.I. Future if We Don't Study It https://www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html",
+          "chars": 74
+        },
+        "bluesky": {
+          "text": "We Can't Know Our A.I. Future if We Don't Study It https://www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html",
+          "chars": 117
+        }
+      }
+    },
+    {
+      "id": 545,
+      "date": "2026-09-05",
+      "week_start": "2026-08-31",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Financing a More Woke Military | Opinion - Conservative",
+      "has_text": true,
+      "url": "https://beforeitsnews.com/opinion-conservative/2024/06/financing-a-more-woke-military-3696052.html",
+      "source": "Before It's News",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Financing a More Woke Military | Opinion - Conservative https://beforeitsnews.com/opinion-conservative/2024/06/financing-a-more-woke-military-3696052.html",
+          "chars": 79
+        },
+        "bluesky": {
+          "text": "Financing a More Woke Military | Opinion - Conservative https://beforeitsnews.com/opinion-conservative/2024/06/financing-a-more-woke-military-3696052.html",
+          "chars": 154
+        }
+      }
+    },
+    {
+      "id": 544,
+      "date": "2026-09-05",
+      "week_start": "2026-08-31",
+      "person_id": "daniel-sabet",
+      "person": "Daniel Sabet",
+      "is_ces": false,
+      "title": "Great Cow Run 2026 - Results (Raw)",
+      "has_text": true,
+      "url": "https://ca.milesplit.com/meets/774093-great-cow-run-2026/results",
+      "source": "California MileSplit",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Great Cow Run 2026 - Results (Raw) https://ca.milesplit.com/meets/774093-great-cow-run-2026/results",
+          "chars": 58
+        },
+        "bluesky": {
+          "text": "Great Cow Run 2026 - Results (Raw) https://ca.milesplit.com/meets/774093-great-cow-run-2026/results",
+          "chars": 99
+        }
+      }
+    },
     {
       "id": 529,
       "date": "2026-09-05",

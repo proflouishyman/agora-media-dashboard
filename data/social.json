@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-05T07:06:28-04:00",
-  "count": 47,
+  "generated_at": "2026-09-06T07:07:45-04:00",
+  "count": 48,
   "picks": [
+    {
+      "id": 65,
+      "mention_id": 543,
+      "digest_date": "2026-09-06",
+      "person": "Henry Farrell",
+      "person_id": "henry-farrell",
+      "person_ids": [
+        "henry-farrell"
+      ],
+      "is_ces": true,
+      "punchy_title": "Farrell: you can't govern an AI future you refuse to study",
+      "headline": "Farrell: you can't govern an AI future you refuse to study",
+      "pull_quote": "... or hinder democracy and the flow of facts and information?",
+      "rationale": "... or hinder democracy and the flow of facts and information?",
+      "url": "https://www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html",
+      "story_url": "https://www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html",
+      "created_at": "2026-09-06 11:07:30",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Henry Farrell in the New York Times: we can't understand what AI is doing to democracy and the flow of information unless we actually study it. https://www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html",
+          "chars": 210,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Henry%20Farrell%20in%20the%20New%20York%20Times%3A%20we%20can%27t%20understand%20what%20AI%20is%20doing%20to%20democracy%20and%20the%20flow%20of%20information%20unless%20we%20actually%20study%20it.%20https%3A//www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Henry Farrell in the New York Times: we can't understand what AI is doing to democracy and the flow of information unless we actually study it. https://www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html",
+          "chars": 210,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Henry%20Farrell%20in%20the%20New%20York%20Times%3A%20we%20can%27t%20understand%20what%20AI%20is%20doing%20to%20democracy%20and%20the%20flow%20of%20information%20unless%20we%20actually%20study%20it.%20https%3A//www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html"
+        }
+      ]
+    },
     {
       "id": 64,
       "mention_id": 525,
