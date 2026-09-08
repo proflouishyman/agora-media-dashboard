@@ -1,7 +1,241 @@
 {
-  "generated_at": "2026-09-06T07:07:45-04:00",
-  "count": 539,
+  "generated_at": "2026-09-08T07:07:48-04:00",
+  "count": 548,
   "stories": [
+    {
+      "id": 551,
+      "date": "2026-09-08",
+      "week_start": "2026-09-07",
+      "person_id": "peter-pomerantsev",
+      "person": "Peter Pomerantsev",
+      "is_ces": false,
+      "title": "Judith Hermann – Ik zou graag teruggaan in de tijd",
+      "has_text": true,
+      "url": "https://www.allesoverboekenenschrijvers.nl/tag/tweede-wereldoorlog/",
+      "source": "Alles over boeken en schrijvers",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Judith Hermann – Ik zou graag teruggaan in de tijd https://www.allesoverboekenenschrijvers.nl/tag/tweede-wereldoorlog/",
+          "chars": 74
+        },
+        "bluesky": {
+          "text": "Judith Hermann – Ik zou graag teruggaan in de tijd https://www.allesoverboekenenschrijvers.nl/tag/tweede-wereldoorlog/",
+          "chars": 118
+        }
+      }
+    },
+    {
+      "id": 550,
+      "date": "2026-09-07",
+      "week_start": "2026-09-07",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "4 claves para construir estrategias de grassroots que generen confianza",
+      "has_text": true,
+      "url": "https://ebizlatam.com/4-claves-para-construir-estrategias-de-grassroots-que-generen-confianza/",
+      "source": "EbizLatam.com",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "4 claves para construir estrategias de grassroots que generen confianza https://ebizlatam.com/4-claves-para-construir-estrategias-de-grassroots-que-generen-confianza/",
+          "chars": 95
+        },
+        "bluesky": {
+          "text": "4 claves para construir estrategias de grassroots que generen confianza https://ebizlatam.com/4-claves-para-construir-estrategias-de-grassroots-que-generen-confianza/",
+          "chars": 166
+        }
+      }
+    },
+    {
+      "id": 553,
+      "date": "2026-09-07",
+      "week_start": "2026-09-07",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "War in Ukraine Conflict, Strategy, and the Return of a Fractured World",
+      "has_text": true,
+      "url": "https://psychodownloads.com/threads/war-in-ukraine-conflict-strategy-and-the-return-of-a-fractured-world.843381",
+      "source": "Forums",
+      "source_type": "forum",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "War in Ukraine Conflict, Strategy, and the Return of a Fractured World https://psychodownloads.com/threads/war-in-ukraine-conflict-strategy-and-the-return-of-a-fractured-world.843381",
+          "chars": 94
+        },
+        "bluesky": {
+          "text": "War in Ukraine Conflict, Strategy, and the Return of a Fractured World https://psychodownloads.com/threads/war-in-ukraine-conflict-strategy-and-the-return-of-a-fractured-world.843381",
+          "chars": 182
+        }
+      }
+    },
+    {
+      "id": 552,
+      "date": "2026-09-07",
+      "week_start": "2026-09-07",
+      "person_id": "trevor-brown",
+      "person": "Trevor Brown",
+      "is_ces": true,
+      "title": "Here are the Winners from Night One and Two of the Creative Arts Emmys",
+      "has_text": true,
+      "url": "https://awardsradar.com/2026/09/07/here-are-the-winners-from-night-one-and-two-of-the-creative-arts-emmys/",
+      "source": "Awards Radar",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Here are the Winners from Night One and Two of the Creative Arts Emmys https://awardsradar.com/2026/09/07/here-are-the-winners-from-night-one-and-two-of-the-creative-arts-emmys/",
+          "chars": 94
+        },
+        "bluesky": {
+          "text": "Here are the Winners from Night One and Two of the Creative Arts Emmys https://awardsradar.com/2026/09/07/here-are-the-winners-from-night-one-and-two-of-the-creative-arts-emmys/",
+          "chars": 177
+        }
+      }
+    },
+    {
+      "id": 546,
+      "date": "2026-09-06",
+      "week_start": "2026-08-31",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "We Can't Know Our A.I. Future if We Don't Study It",
+      "has_text": true,
+      "url": "https://www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html",
+      "source": "The New York Times",
+      "source_type": "online news",
+      "similar_mention_count": 14,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "We Can't Know Our A.I. Future if We Don't Study It https://www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html",
+          "chars": 74
+        },
+        "bluesky": {
+          "text": "We Can't Know Our A.I. Future if We Don't Study It https://www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html",
+          "chars": 117
+        }
+      }
+    },
+    {
+      "id": 547,
+      "date": "2026-09-06",
+      "week_start": "2026-08-31",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "The AfD is exploiting Germany's fear of change",
+      "has_text": true,
+      "url": "https://www.washingtonpost.com/opinions/2026/09/06/afd-is-winning-because-germany-fears-change/",
+      "source": "The Washington Post",
+      "source_type": "online news",
+      "similar_mention_count": 12,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "The AfD is exploiting Germany's fear of change https://www.washingtonpost.com/opinions/2026/09/06/afd-is-winning-because-germany-fears-change/",
+          "chars": 70
+        },
+        "bluesky": {
+          "text": "The AfD is exploiting Germany's fear of change https://www.washingtonpost.com/opinions/2026/09/06/afd-is-winning-because-germany-fears-change/",
+          "chars": 142
+        }
+      }
+    },
+    {
+      "id": 548,
+      "date": "2026-09-06",
+      "week_start": "2026-08-31",
+      "person_id": "dylan-selterman",
+      "person": "Dylan Selterman",
+      "is_ces": false,
+      "title": "I Thought Cheating Was Unforgivable. Then A Friend's Affair Made Me Question Everything.",
+      "has_text": true,
+      "url": "https://www.huffpost.com/entry/cheating-infidelity-reasons-affairs_n_6a9c1bc0e4b09baa005e2e07",
+      "source": "HuffPost",
+      "source_type": "online news",
+      "similar_mention_count": 7,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "I Thought Cheating Was Unforgivable. Then A Friend's Affair Made Me Question Everything. https://www.huffpost.com/entry/cheating-infidelity-reasons-affairs_n_6a9c1bc0e4b09baa005e2e07",
+          "chars": 112
+        },
+        "bluesky": {
+          "text": "I Thought Cheating Was Unforgivable. Then A Friend's Affair Made Me Question Everything. https://www.huffpost.com/entry/cheating-infidelity-reasons-affairs_n_6a9c1bc0e4b09baa005e2e07",
+          "chars": 182
+        }
+      }
+    },
+    {
+      "id": 554,
+      "date": "2026-09-06",
+      "week_start": "2026-08-31",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": "(no captured text — reddit comment)",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/atheism/comments/1w8v562/comment/p86e3ef/",
+      "source": "reddit.com/r/atheism",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "(no captured text — reddit comment) https://www.reddit.com/r/atheism/comments/1w8v562/comment/p86e3ef/",
+          "chars": 59
+        },
+        "bluesky": {
+          "text": "(no captured text — reddit comment) https://www.reddit.com/r/atheism/comments/1w8v562/comment/p86e3ef/",
+          "chars": 102
+        }
+      }
+    },
+    {
+      "id": 549,
+      "date": "2026-09-06",
+      "week_start": "2026-08-31",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Anne Applebaum: Fiasko śledztwa w Departamencie Stanu jest krępujące dla administracji Trumpa. Objęło również mnie",
+      "has_text": true,
+      "url": "https://wyborcza.pl/magazyn/7,124059,33005632,anne-applebaum-fiasko-sledztwa-w-departamencie-stanu-jest-krepujace.html",
+      "source": "Gazeta Wyborcza",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Anne Applebaum: Fiasko śledztwa w Departamencie Stanu jest krępujące dla administracji Trumpa. Objęło również mnie https://wyborcza.pl/magazyn/7,124059,33005632,anne-applebaum-fiasko-sledztwa-w-departamencie-stanu-jest-krepujace.html",
+          "chars": 138
+        },
+        "bluesky": {
+          "text": "Anne Applebaum: Fiasko śledztwa w Departamencie Stanu jest krępujące dla administracji Trumpa. Objęło również mnie https://wyborcza.pl/magazyn/7,124059,33005632,anne-applebaum-fiasko-sledztwa-w-departamencie-stanu-jest-krepujace.html",
+          "chars": 233
+        }
+      }
+    },
     {
       "id": 543,
       "date": "2026-09-06",
