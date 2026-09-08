@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-06T07:07:45-04:00",
-  "count": 48,
+  "generated_at": "2026-09-08T07:07:48-04:00",
+  "count": 49,
   "picks": [
+    {
+      "id": 66,
+      "mention_id": 546,
+      "digest_date": "2026-09-06",
+      "person": "Henry Farrell",
+      "person_id": "henry-farrell",
+      "person_ids": [
+        "henry-farrell"
+      ],
+      "is_ces": true,
+      "punchy_title": "Who gets to study what AI is doing to us?",
+      "headline": "Who gets to study what AI is doing to us?",
+      "pull_quote": "As we face a new revolution ushered in by artificial intelligence, these disciplines are poorly situated to provide guidance.",
+      "rationale": "As we face a new revolution ushered in by artificial intelligence, these disciplines are poorly situated to provide guidance.",
+      "url": "https://www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html",
+      "story_url": "https://www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html",
+      "created_at": "2026-09-08 11:07:42",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Henry Farrell in the NYT: as AI reshapes work and democracy, federal cuts are pushing social scientists into AI firms building their own research programs. The public interest needs a seat at the table. https://www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html",
+          "chars": 269,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Henry%20Farrell%20in%20the%20NYT%3A%20as%20AI%20reshapes%20work%20and%20democracy%2C%20federal%20cuts%20are%20pushing%20social%20scientists%20into%20AI%20firms%20building%20their%20own%20research%20programs.%20The%20public%20interest%20needs%20a%20seat%20at%20the%20table.%20https%3A//www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Henry Farrell in the New York Times: as AI reshapes work and democracy, federal funding cuts are pushing social scientists into AI firms building their own research programs. The public interest needs its own seat at the table. https://www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html",
+          "chars": 294,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Henry%20Farrell%20in%20the%20New%20York%20Times%3A%20as%20AI%20reshapes%20work%20and%20democracy%2C%20federal%20funding%20cuts%20are%20pushing%20social%20scientists%20into%20AI%20firms%20building%20their%20own%20research%20programs.%20The%20public%20interest%20needs%20its%20own%20seat%20at%20the%20table.%20https%3A//www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html"
+        }
+      ]
+    },
     {
       "id": 65,
       "mention_id": 543,
