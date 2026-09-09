@@ -1,7 +1,379 @@
 {
-  "generated_at": "2026-09-08T07:07:48-04:00",
-  "count": 548,
+  "generated_at": "2026-09-09T10:13:38-04:00",
+  "count": 564,
   "stories": [
+    {
+      "id": 569,
+      "date": "2026-09-09",
+      "week_start": "2026-09-07",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "(visiting fellows orientation post)",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7503305801982230528",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "(visiting fellows orientation post) https://www.linkedin.com/feed/update/urn:li:ugcPost:7503305801982230528",
+          "chars": 59
+        },
+        "bluesky": {
+          "text": "(visiting fellows orientation post) https://www.linkedin.com/feed/update/urn:li:ugcPost:7503305801982230528",
+          "chars": 107
+        }
+      }
+    },
+    {
+      "id": 560,
+      "date": "2026-09-09",
+      "week_start": "2026-09-07",
+      "person_id": "eliot-cohen",
+      "person": "Eliot Cohen",
+      "is_ces": false,
+      "title": "The Burdens of the War Strategist",
+      "has_text": true,
+      "url": "https://www.civitasinstitute.org/research/the-burdens-of-the-war-strategist",
+      "source": "Civitas Institute",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "The Burdens of the War Strategist https://www.civitasinstitute.org/research/the-burdens-of-the-war-strategist",
+          "chars": 57
+        },
+        "bluesky": {
+          "text": "The Burdens of the War Strategist https://www.civitasinstitute.org/research/the-burdens-of-the-war-strategist",
+          "chars": 109
+        }
+      }
+    },
+    {
+      "id": 555,
+      "date": "2026-09-08",
+      "week_start": "2026-09-07",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "El 'cordón sanitario' a la extrema derecha en Alemania fracasa por la inmigración descontrolada y la mala economía",
+      "has_text": true,
+      "url": "https://www.abc.es/internacional/cordon-sanitario-extrema-derecha-alemania-fracasa-inmigracion-20260908191512-nt.html",
+      "source": "ABC",
+      "source_type": "online news",
+      "similar_mention_count": 22,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "El 'cordón sanitario' a la extrema derecha en Alemania fracasa por la inmigración descontrolada y la mala economía https://www.abc.es/internacional/cordon-sanitario-extrema-derecha-alemania-fracasa-inmigracion-20260908191512-nt.html",
+          "chars": 138
+        },
+        "bluesky": {
+          "text": "El 'cordón sanitario' a la extrema derecha en Alemania fracasa por la inmigración descontrolada y la mala economía https://www.abc.es/internacional/cordon-sanitario-extrema-derecha-alemania-fracasa-inmigracion-20260908191512-nt.html",
+          "chars": 232
+        }
+      }
+    },
+    {
+      "id": 556,
+      "date": "2026-09-08",
+      "week_start": "2026-09-07",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "Sachsen-Anhalt-Wahl: \"Viele extremistische Parteien haben sich gemäßigt - die AfD geht in die entgegengesetzte Richtung\"",
+      "has_text": true,
+      "url": "https://www.welt.de/politik/ausland/article6a9eacec181cb962d4886d31/sachsen-anhalt-wahl-viele-extremistische-parteien-haben-sich-gemaessigt-die-afd-geht-in-die-entgegengesetzte-richtung.html",
+      "source": "DIE WELT",
+      "source_type": "online news",
+      "similar_mention_count": 4,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Sachsen-Anhalt-Wahl: \"Viele extremistische Parteien haben sich gemäßigt - die AfD geht in die entgegengesetzte Richtung\" https://www.welt.de/politik/ausland/article6a9eacec181cb962d4886d31/sachsen-anhalt-wahl-viele-extremistische-parteien-haben-sich-gemaessigt-die-afd-geht-in-die-entgegengesetzte-richtung.html",
+          "chars": 144
+        },
+        "bluesky": {
+          "text": "Sachsen-Anhalt-Wahl: \"Viele extremistische Parteien haben sich gemäßigt - die AfD geht in die entgegengeset… https://www.welt.de/politik/ausland/article6a9eacec181cb962d4886d31/sachsen-anhalt-wahl-viele-extremistische-parteien-haben-sich-gemaessigt-die-afd-geht-in-die-entgegengesetzte-richtung.html",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 568,
+      "date": "2026-09-08",
+      "week_start": "2026-09-07",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Grassroots: 4 claves para construir confianza antes de una crisis",
+      "has_text": true,
+      "url": "https://eyng.pe/web/grassroots-4-claves-para-construir-confianza-antes-de-una-crisis/",
+      "source": "EYNG",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Grassroots: 4 claves para construir confianza antes de una crisis https://eyng.pe/web/grassroots-4-claves-para-construir-confianza-antes-de-una-crisis/",
+          "chars": 89
+        },
+        "bluesky": {
+          "text": "Grassroots: 4 claves para construir confianza antes de una crisis https://eyng.pe/web/grassroots-4-claves-para-construir-confianza-antes-de-una-crisis/",
+          "chars": 151
+        }
+      }
+    },
+    {
+      "id": 559,
+      "date": "2026-09-08",
+      "week_start": "2026-09-07",
+      "person_id": "scott-warren",
+      "person": "Scott Warren",
+      "is_ces": false,
+      "title": "Congress Is Struggling to Govern. Are Electoral Incentives to Blame? (report + Sept 23 event)",
+      "has_text": true,
+      "url": "https://bsky.app/profile/kevinrkosar.bsky.social/post/3mv2awkm4e223",
+      "source": "Bluesky",
+      "source_type": "social network",
+      "similar_mention_count": 2,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Congress Is Struggling to Govern. Are Electoral Incentives to Blame? (report + Sept 23 event) https://bsky.app/profile/kevinrkosar.bsky.social/post/3mv2awkm4e223",
+          "chars": 117
+        },
+        "bluesky": {
+          "text": "Congress Is Struggling to Govern. Are Electoral Incentives to Blame? (report + Sept 23 event) https://bsky.app/profile/kevinrkosar.bsky.social/post/3mv2awkm4e223",
+          "chars": 161
+        }
+      }
+    },
+    {
+      "id": 570,
+      "date": "2026-09-08",
+      "week_start": "2026-09-07",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Recapping Democracy Day at Hopkins",
+      "has_text": true,
+      "url": "https://www.instagram.com/p/DdCXMd6lMBc/",
+      "source": "Instagram",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Recapping Democracy Day at Hopkins https://www.instagram.com/p/DdCXMd6lMBc/",
+          "chars": 58
+        },
+        "bluesky": {
+          "text": "Recapping Democracy Day at Hopkins https://www.instagram.com/p/DdCXMd6lMBc/",
+          "chars": 75
+        }
+      }
+    },
+    {
+      "id": 567,
+      "date": "2026-09-08",
+      "week_start": "2026-09-07",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Episode 12 - The Escape Room",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=dEbzGXnUP00",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Episode 12 - The Escape Room https://www.youtube.com/watch?v=dEbzGXnUP00",
+          "chars": 52
+        },
+        "bluesky": {
+          "text": "Episode 12 - The Escape Room https://www.youtube.com/watch?v=dEbzGXnUP00",
+          "chars": 72
+        }
+      }
+    },
+    {
+      "id": 566,
+      "date": "2026-09-08",
+      "week_start": "2026-09-07",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Episode 34 - Flooding the Zone",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=veBm8msrwtw",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Episode 34 - Flooding the Zone https://www.youtube.com/watch?v=veBm8msrwtw",
+          "chars": 54
+        },
+        "bluesky": {
+          "text": "Episode 34 - Flooding the Zone https://www.youtube.com/watch?v=veBm8msrwtw",
+          "chars": 74
+        }
+      }
+    },
+    {
+      "id": 565,
+      "date": "2026-09-08",
+      "week_start": "2026-09-07",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "From #Globalisation to Economic Warfare #shorts",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=3WXCm_JCcMQ",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "From #Globalisation to Economic Warfare #shorts https://www.youtube.com/watch?v=3WXCm_JCcMQ",
+          "chars": 71
+        },
+        "bluesky": {
+          "text": "From #Globalisation to Economic Warfare #shorts https://www.youtube.com/watch?v=3WXCm_JCcMQ",
+          "chars": 91
+        }
+      }
+    },
+    {
+      "id": 564,
+      "date": "2026-09-08",
+      "week_start": "2026-09-07",
+      "person_id": "jeanne-marie-jackson",
+      "person": "Jeanne-Marie Jackson",
+      "is_ces": true,
+      "title": "Just realized Nan Z Da and Jeanne-Marie Jackson are both at Johns Hopkins",
+      "has_text": true,
+      "url": "https://bsky.app/profile/abovoadmala.bsky.social/post/3muywu6padk2k",
+      "source": "Bluesky",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Just realized Nan Z Da and Jeanne-Marie Jackson are both at Johns Hopkins https://bsky.app/profile/abovoadmala.bsky.social/post/3muywu6padk2k",
+          "chars": 97
+        },
+        "bluesky": {
+          "text": "Just realized Nan Z Da and Jeanne-Marie Jackson are both at Johns Hopkins https://bsky.app/profile/abovoadmala.bsky.social/post/3muywu6padk2k",
+          "chars": 141
+        }
+      }
+    },
+    {
+      "id": 563,
+      "date": "2026-09-08",
+      "week_start": "2026-09-07",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "(no captured text — Twitter)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 562,
+      "date": "2026-09-08",
+      "week_start": "2026-09-07",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": "(no captured text — Twitter reply)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 561,
+      "date": "2026-09-08",
+      "week_start": "2026-09-07",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Hopkins Political Union Debates: American Dream and Data Centers",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/events/2026/09/17/hopkins-political-union-debates-american-dream-and-data-centers/",
+      "source": "Hub - Johns Hopkins University",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Hopkins Political Union Debates: American Dream and Data Centers https://hub.jhu.edu/events/2026/09/17/hopkins-political-union-debates-american-dream-and-data-centers/",
+          "chars": 88
+        },
+        "bluesky": {
+          "text": "Hopkins Political Union Debates: American Dream and Data Centers https://hub.jhu.edu/events/2026/09/17/hopkins-political-union-debates-american-dream-and-data-centers/",
+          "chars": 167
+        }
+      }
+    },
+    {
+      "id": 558,
+      "date": "2026-09-08",
+      "week_start": "2026-09-07",
+      "person_id": "jeremy-wallace",
+      "person": "Jeremy Wallace",
+      "is_ces": false,
+      "title": "China Takes the Wheel - Dissent Magazine",
+      "has_text": true,
+      "url": "https://dissentmagazine.org/article/chinese-automakers-electric-vehicles-labor/",
+      "source": "Dissent Magazine",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "China Takes the Wheel - Dissent Magazine https://dissentmagazine.org/article/chinese-automakers-electric-vehicles-labor/",
+          "chars": 64
+        },
+        "bluesky": {
+          "text": "China Takes the Wheel - Dissent Magazine https://dissentmagazine.org/article/chinese-automakers-electric-vehicles-labor/",
+          "chars": 120
+        }
+      }
+    },
     {
       "id": 551,
       "date": "2026-09-08",
@@ -51,6 +423,32 @@
         "bluesky": {
           "text": "4 claves para construir estrategias de grassroots que generen confianza https://ebizlatam.com/4-claves-para-construir-estrategias-de-grassroots-que-generen-confianza/",
           "chars": 166
+        }
+      }
+    },
+    {
+      "id": 557,
+      "date": "2026-09-07",
+      "week_start": "2026-09-07",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Opinion | We Can't Know Our A.I. Future if We Don't Study It",
+      "has_text": true,
+      "url": "https://www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html",
+      "source": "The New York Times",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Opinion | We Can't Know Our A.I. Future if We Don't Study It https://www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html",
+          "chars": 84
+        },
+        "bluesky": {
+          "text": "Opinion | We Can't Know Our A.I. Future if We Don't Study It https://www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html",
+          "chars": 127
         }
       }
     },
