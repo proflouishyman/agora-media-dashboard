@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-08T07:07:48-04:00",
-  "count": 49,
+  "generated_at": "2026-09-09T10:13:38-04:00",
+  "count": 50,
   "picks": [
+    {
+      "id": 67,
+      "mention_id": 543,
+      "digest_date": "2026-09-06",
+      "person": "Henry Farrell",
+      "person_id": "henry-farrell",
+      "person_ids": [
+        "henry-farrell"
+      ],
+      "is_ces": true,
+      "punchy_title": "The AI revolution needs social science — and we're defunding it",
+      "headline": "The AI revolution needs social science — and we're defunding it",
+      "pull_quote": "To navigate the shock waves of A.I., we must restore social science research as an enterprise that starts from the public interest.",
+      "rationale": "To navigate the shock waves of A.I., we must restore social science research as an enterprise that starts from the public interest.",
+      "url": "https://www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html",
+      "story_url": "https://www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html",
+      "created_at": "2026-09-09 14:13:21",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "SNF Agora's Henry Farrell in the New York Times: as AI reshapes work, relationships and democracy, the social sciences built to study the last industrial revolution are being defunded just when we need them most. https://www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html",
+          "chars": 279,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=SNF%20Agora%27s%20Henry%20Farrell%20in%20the%20New%20York%20Times%3A%20as%20AI%20reshapes%20work%2C%20relationships%20and%20democracy%2C%20the%20social%20sciences%20built%20to%20study%20the%20last%20industrial%20revolution%20are%20being%20defunded%20just%20when%20we%20need%20them%20most.%20https%3A//www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "SNF Agora's Henry Farrell in the New York Times: the disciplines built to study the Industrial Revolution are being defunded just as AI reshapes work, relationships and democracy — while AI firms build their own social science. https://www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html",
+          "chars": 294,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=SNF%20Agora%27s%20Henry%20Farrell%20in%20the%20New%20York%20Times%3A%20the%20disciplines%20built%20to%20study%20the%20Industrial%20Revolution%20are%20being%20defunded%20just%20as%20AI%20reshapes%20work%2C%20relationships%20and%20democracy%20%E2%80%94%20while%20AI%20firms%20build%20their%20own%20social%20science.%20https%3A//www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html"
+        }
+      ]
+    },
     {
       "id": 66,
       "mention_id": 546,

@@ -9,25 +9,25 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 68,
-    "mentions_in_digest": 29,
-    "reach_proxy": 149,
+    "mentions_total": 75,
+    "mentions_in_digest": 30,
+    "reach_proxy": 157,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-09-07",
+    "last_mention_date": "2026-09-09",
     "sentiment": {
-      "positive": 19,
-      "neutral": 26,
+      "positive": 21,
+      "neutral": 27,
       "negative": 3,
-      "unknown": 20
+      "unknown": 24
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 29
+        "count": 30
       },
       {
         "source": "LinkedIn",
-        "count": 10
+        "count": 11
       },
       {
         "source": "Bluesky",
@@ -38,8 +38,8 @@
         "count": 3
       },
       {
-        "source": "Askanews",
-        "count": 1
+        "source": "Youtube",
+        "count": 3
       }
     ],
     "weekly": [
@@ -100,8 +100,8 @@
       },
       {
         "week_start": "2026-09-07",
-        "count": 1,
-        "reach": 2
+        "count": 8,
+        "reach": 10
       }
     ]
   },
@@ -214,6 +214,114 @@
     ]
   },
   {
+    "id": "henry-farrell",
+    "name": "Henry Farrell",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Institute Professor of International Affairs at SAIS",
+    "profile_url": "https://snfagora.jhu.edu/directory/henry-farrell/",
+    "photo_url": null,
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": true,
+    "mentions_total": 32,
+    "mentions_in_digest": 23,
+    "reach_proxy": 51,
+    "first_mention_date": "2026-07-04",
+    "last_mention_date": "2026-09-08",
+    "sentiment": {
+      "positive": 2,
+      "neutral": 10,
+      "negative": 0,
+      "unknown": 20
+    },
+    "top_sources": [
+      {
+        "source": "The New York Times",
+        "count": 6
+      },
+      {
+        "source": "Youtube",
+        "count": 5
+      },
+      {
+        "source": "Twitter",
+        "count": 3
+      },
+      {
+        "source": "Folha de S.Paulo",
+        "count": 2
+      },
+      {
+        "source": "Internazionale",
+        "count": 2
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 3,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 1,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 7,
+        "reach": 9
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 15,
+        "reach": 34
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 2,
+        "reach": 2
+      }
+    ]
+  },
+  {
     "id": "none-keyword-noise",
     "name": "None (keyword noise)",
     "kind": "unmatched",
@@ -311,114 +419,6 @@
         "week_start": "2026-08-31",
         "count": 0,
         "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "henry-farrell",
-    "name": "Henry Farrell",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Institute Professor of International Affairs at SAIS",
-    "profile_url": "https://snfagora.jhu.edu/directory/henry-farrell/",
-    "photo_url": null,
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": true,
-    "mentions_total": 30,
-    "mentions_in_digest": 22,
-    "reach_proxy": 49,
-    "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-09-06",
-    "sentiment": {
-      "positive": 2,
-      "neutral": 10,
-      "negative": 0,
-      "unknown": 18
-    },
-    "top_sources": [
-      {
-        "source": "The New York Times",
-        "count": 5
-      },
-      {
-        "source": "Youtube",
-        "count": 4
-      },
-      {
-        "source": "Twitter",
-        "count": 3
-      },
-      {
-        "source": "Folha de S.Paulo",
-        "count": 2
-      },
-      {
-        "source": "Internazionale",
-        "count": 2
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 3,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 1,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 7,
-        "reach": 9
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 15,
-        "reach": 34
       },
       {
         "week_start": "2026-09-07",
@@ -547,21 +547,25 @@
       "Affiliated Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 27,
+    "mentions_total": 28,
     "mentions_in_digest": 10,
-    "reach_proxy": 48,
+    "reach_proxy": 49,
     "first_mention_date": "2026-07-03",
-    "last_mention_date": "2026-09-06",
+    "last_mention_date": "2026-09-08",
     "sentiment": {
       "positive": 5,
       "neutral": 10,
       "negative": 1,
-      "unknown": 11
+      "unknown": 12
     },
     "top_sources": [
       {
         "source": "Youtube",
         "count": 4
+      },
+      {
+        "source": "Twitter",
+        "count": 3
       },
       {
         "source": "YouTube",
@@ -573,10 +577,6 @@
       },
       {
         "source": "The New York Times",
-        "count": 2
-      },
-      {
-        "source": "Twitter",
         "count": 2
       }
     ],
@@ -638,8 +638,8 @@
       },
       {
         "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -655,16 +655,16 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 25,
-    "mentions_in_digest": 11,
-    "reach_proxy": 162,
+    "mentions_total": 27,
+    "mentions_in_digest": 13,
+    "reach_proxy": 188,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-09-06",
+    "last_mention_date": "2026-09-08",
     "sentiment": {
       "positive": 1,
       "neutral": 10,
       "negative": 1,
-      "unknown": 13
+      "unknown": 15
     },
     "top_sources": [
       {
@@ -746,8 +746,8 @@
       },
       {
         "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
+        "count": 2,
+        "reach": 26
       }
     ]
   },
@@ -2042,6 +2042,114 @@
     ]
   },
   {
+    "id": "scott-warren",
+    "name": "Scott Warren",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Fellow",
+    "profile_url": "https://snfagora.jhu.edu/directory/scott-warren/",
+    "photo_url": "images/people/scott-warren.jpg",
+    "categories": [
+      "Continuing Faculty + Fellows"
+    ],
+    "is_ces": false,
+    "mentions_total": 7,
+    "mentions_in_digest": 6,
+    "reach_proxy": 11,
+    "first_mention_date": "2026-07-02",
+    "last_mention_date": "2026-09-08",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0,
+      "unknown": 2
+    },
+    "top_sources": [
+      {
+        "source": "LinkedIn",
+        "count": 3
+      },
+      {
+        "source": "Bluesky",
+        "count": 1
+      },
+      {
+        "source": "Reddit",
+        "count": 1
+      },
+      {
+        "source": "Substack (New Voters 250)",
+        "count": 1
+      },
+      {
+        "source": "The Denver Gazette",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 1,
+        "reach": 6
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 1,
+        "reach": 2
+      }
+    ]
+  },
+  {
     "id": "denise-dresser-namesake-openai",
     "name": "Denise Dresser (namesake, OpenAI)",
     "kind": "unmatched",
@@ -2327,110 +2435,6 @@
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "scott-warren",
-    "name": "Scott Warren",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Fellow",
-    "profile_url": "https://snfagora.jhu.edu/directory/scott-warren/",
-    "photo_url": "images/people/scott-warren.jpg",
-    "categories": [
-      "Continuing Faculty + Fellows"
-    ],
-    "is_ces": false,
-    "mentions_total": 6,
-    "mentions_in_digest": 5,
-    "reach_proxy": 9,
-    "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-08-09",
-    "sentiment": {
-      "positive": 1,
-      "neutral": 3,
-      "negative": 0,
-      "unknown": 2
-    },
-    "top_sources": [
-      {
-        "source": "LinkedIn",
-        "count": 3
-      },
-      {
-        "source": "Reddit",
-        "count": 1
-      },
-      {
-        "source": "Substack (New Voters 250)",
-        "count": 1
-      },
-      {
-        "source": "The Denver Gazette",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 1,
-        "reach": 6
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 2,
-        "reach": 2
       },
       {
         "week_start": "2026-08-10",
@@ -2878,6 +2882,108 @@
     ]
   },
   {
+    "id": "eliot-cohen",
+    "name": "Eliot Cohen",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 4,
+    "mentions_in_digest": 3,
+    "reach_proxy": 5,
+    "first_mention_date": "2026-08-01",
+    "last_mention_date": "2026-09-09",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 3
+    },
+    "top_sources": [
+      {
+        "source": "Bambaram di Padida",
+        "count": 1
+      },
+      {
+        "source": "Civitas Institute",
+        "count": 1
+      },
+      {
+        "source": "Gazeta do Povo",
+        "count": 1
+      },
+      {
+        "source": "Substack (E-International Relations)",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 1,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "namesake-noise-match-johns-hopkins-higher-education",
     "name": "Namesake/noise match: Johns Hopkins, higher education",
     "kind": "unmatched",
@@ -3084,104 +3190,6 @@
     ]
   },
   {
-    "id": "eliot-cohen",
-    "name": "Eliot Cohen",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 3,
-    "mentions_in_digest": 2,
-    "reach_proxy": 4,
-    "first_mention_date": "2026-08-01",
-    "last_mention_date": "2026-08-21",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 3
-    },
-    "top_sources": [
-      {
-        "source": "Bambaram di Padida",
-        "count": 1
-      },
-      {
-        "source": "Gazeta do Povo",
-        "count": 1
-      },
-      {
-        "source": "Substack (E-International Relations)",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 1,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
     "id": "jenna-storey",
     "name": "Jenna Silber Storey",
     "kind": "faculty",
@@ -3278,6 +3286,102 @@
         "week_start": "2026-09-07",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "jeremy-wallace",
+    "name": "Jeremy Wallace",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Professor of China Studies at Johns Hopkins School of Advanced International Studies (SAIS)",
+    "profile_url": "https://snfagora.jhu.edu/directory/jeremy-wallace/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 3,
+    "mentions_in_digest": 1,
+    "reach_proxy": 3,
+    "first_mention_date": "2026-08-14",
+    "last_mention_date": "2026-09-08",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 3
+    },
+    "top_sources": [
+      {
+        "source": "The New Republic",
+        "count": 2
+      },
+      {
+        "source": "Dissent Magazine",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -3950,22 +4054,22 @@
     ]
   },
   {
-    "id": "jeremy-wallace",
-    "name": "Jeremy Wallace",
+    "id": "jeanne-marie-jackson",
+    "name": "Jeanne-Marie Jackson",
     "kind": "faculty",
     "tracked": true,
-    "title": "Professor of China Studies at Johns Hopkins School of Advanced International Studies (SAIS)",
-    "profile_url": "https://snfagora.jhu.edu/directory/jeremy-wallace/",
+    "title": "Professor of English & Director, Alexander Grass Humanities Institute",
+    "profile_url": "https://snfagora.jhu.edu/directory/jeanne-marie-jackson/",
     "photo_url": null,
     "categories": [
       "Affiliated Faculty"
     ],
-    "is_ces": false,
+    "is_ces": true,
     "mentions_total": 2,
-    "mentions_in_digest": 0,
+    "mentions_in_digest": 1,
     "reach_proxy": 2,
-    "first_mention_date": "2026-08-14",
-    "last_mention_date": "2026-08-18",
+    "first_mention_date": "2026-08-24",
+    "last_mention_date": "2026-09-08",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
@@ -3974,8 +4078,12 @@
     },
     "top_sources": [
       {
-        "source": "The New Republic",
-        "count": 2
+        "source": "Bluesky",
+        "count": 1
+      },
+      {
+        "source": "Forums",
+        "count": 1
       }
     ],
     "weekly": [
@@ -4016,18 +4124,18 @@
       },
       {
         "week_start": "2026-08-10",
-        "count": 1,
-        "reach": 1
+        "count": 0,
+        "reach": 0
       },
       {
         "week_start": "2026-08-17",
-        "count": 1,
-        "reach": 1
+        "count": 0,
+        "reach": 0
       },
       {
         "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       },
       {
         "week_start": "2026-08-31",
@@ -4036,8 +4144,8 @@
       },
       {
         "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -6608,98 +6716,6 @@
         "week_start": "2026-08-24",
         "count": 1,
         "reach": 6
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "jeanne-marie-jackson",
-    "name": "Jeanne-Marie Jackson",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Professor of English & Director, Alexander Grass Humanities Institute",
-    "profile_url": "https://snfagora.jhu.edu/directory/jeanne-marie-jackson/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": true,
-    "mentions_total": 1,
-    "mentions_in_digest": 1,
-    "reach_proxy": 1,
-    "first_mention_date": "2026-08-24",
-    "last_mention_date": "2026-08-24",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 1
-    },
-    "top_sources": [
-      {
-        "source": "Forums",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 1,
-        "reach": 1
       },
       {
         "week_start": "2026-08-31",
