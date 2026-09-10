@@ -1,7 +1,180 @@
 {
-  "generated_at": "2026-09-09T10:13:38-04:00",
-  "count": 564,
+  "generated_at": "2026-09-10T08:55:01-04:00",
+  "count": 573,
   "stories": [
+    {
+      "id": 574,
+      "date": "2026-09-10",
+      "week_start": "2026-09-07",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "The Research We Need to Understand A.I. Is Falling Apart",
+      "has_text": true,
+      "url": "https://www.almendron.com/tribuna/the-research-we-need-to-understand-a-i-is-falling-apart/",
+      "source": "Revista de Prensa",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Research We Need to Understand A.I. Is Falling Apart https://www.almendron.com/tribuna/the-research-we-need-to-understand-a-i-is-falling-apart/",
+          "chars": 80
+        },
+        "bluesky": {
+          "text": "The Research We Need to Understand A.I. Is Falling Apart https://www.almendron.com/tribuna/the-research-we-need-to-understand-a-i-is-falling-apart/",
+          "chars": 147
+        }
+      }
+    },
+    {
+      "id": 572,
+      "date": "2026-09-10",
+      "week_start": "2026-09-07",
+      "person_id": "juan-arboleda",
+      "person": "Juan Ignacio Arboleda",
+      "is_ces": false,
+      "title": "Columbia Law's Legal History Workshop",
+      "has_text": true,
+      "url": "http://legalhistoryblog.blogspot.com/2026/09/columbia-laws-legal-history-workshop.html",
+      "source": "Legal History Blog",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Columbia Law's Legal History Workshop http://legalhistoryblog.blogspot.com/2026/09/columbia-laws-legal-history-workshop.html",
+          "chars": 61
+        },
+        "bluesky": {
+          "text": "Columbia Law's Legal History Workshop http://legalhistoryblog.blogspot.com/2026/09/columbia-laws-legal-history-workshop.html",
+          "chars": 124
+        }
+      }
+    },
+    {
+      "id": 571,
+      "date": "2026-09-09",
+      "week_start": "2026-09-07",
+      "person_id": "jeremy-wallace",
+      "person": "Jeremy Wallace",
+      "is_ces": false,
+      "title": "A new report finds many Chinese provinces are reducing their use of coal",
+      "has_text": true,
+      "url": "https://www.wunc.org/2026-09-09/a-new-report-finds-many-chinese-provinces-are-reducing-their-use-of-coal",
+      "source": "WUNC",
+      "source_type": "online news",
+      "similar_mention_count": 6,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "A new report finds many Chinese provinces are reducing their use of coal https://www.wunc.org/2026-09-09/a-new-report-finds-many-chinese-provinces-are-reducing-their-use-of-coal",
+          "chars": 96
+        },
+        "bluesky": {
+          "text": "A new report finds many Chinese provinces are reducing their use of coal https://www.wunc.org/2026-09-09/a-new-report-finds-many-chinese-provinces-are-reducing-their-use-of-coal",
+          "chars": 177
+        }
+      }
+    },
+    {
+      "id": 578,
+      "date": "2026-09-09",
+      "week_start": "2026-09-07",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": "The results are in! Here's who won Wednesday's high school games in RI",
+      "has_text": true,
+      "url": "https://www.providencejournal.com/story/sports/high-school/2026/09/09/high-school-scores-recaps-more-from-wednesdays-games-september-9/91668151007/",
+      "source": "The Providence Journal",
+      "source_type": "online news",
+      "similar_mention_count": 4,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The results are in! Here's who won Wednesday's high school games in RI https://www.providencejournal.com/story/sports/high-school/2026/09/09/high-school-scores-recaps-more-from-wednesdays-games-september-9/91668151007/",
+          "chars": 94
+        },
+        "bluesky": {
+          "text": "The results are in! Here's who won Wednesday's high school games in RI https://www.providencejournal.com/story/sports/high-school/2026/09/09/high-school-scores-recaps-more-from-wednesdays-games-september-9/91668151007/",
+          "chars": 218
+        }
+      }
+    },
+    {
+      "id": 579,
+      "date": "2026-09-09",
+      "week_start": "2026-09-07",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "(no captured text — Twitter)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 575,
+      "date": "2026-09-09",
+      "week_start": "2026-09-07",
+      "person_id": "eliot-cohen",
+      "person": "Eliot Cohen",
+      "is_ces": false,
+      "title": "The Burdens of the War Strategist",
+      "has_text": true,
+      "url": "https://www.civitasoutlook.com/research/the-burdens-of-the-war-strategist-f43c0d5b-5248-4751-b0c7-dec769ee6ddb",
+      "source": "Civitas Outlook",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Burdens of the War Strategist https://www.civitasoutlook.com/research/the-burdens-of-the-war-strategist-f43c0d5b-5248-4751-b0c7-dec769ee6ddb",
+          "chars": 57
+        },
+        "bluesky": {
+          "text": "The Burdens of the War Strategist https://www.civitasoutlook.com/research/the-burdens-of-the-war-strategist-f43c0d5b-5248-4751-b0c7-dec769ee6ddb",
+          "chars": 144
+        }
+      }
+    },
+    {
+      "id": 573,
+      "date": "2026-09-09",
+      "week_start": "2026-09-07",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Can #Europe defend its interests in a New Age of power #politics? #shorts",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=qiFHS1FpF50",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Can #Europe defend its interests in a New Age of power #politics? #shorts https://www.youtube.com/watch?v=qiFHS1FpF50",
+          "chars": 97
+        },
+        "bluesky": {
+          "text": "Can #Europe defend its interests in a New Age of power #politics? #shorts https://www.youtube.com/watch?v=qiFHS1FpF50",
+          "chars": 117
+        }
+      }
+    },
     {
       "id": 569,
       "date": "2026-09-09",
@@ -81,6 +254,32 @@
       }
     },
     {
+      "id": 576,
+      "date": "2026-09-08",
+      "week_start": "2026-09-07",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "El cordón sanitario a la AfD fracasa por la inmigración descontrolada y la mala economía",
+      "has_text": true,
+      "url": "https://www.diariovasco.com/internacional/europa/cordon-sanitario-afd-fracasa-inmigracion-descontrolada-mala-20260908194448-ntrc.html",
+      "source": "El Diario Vasco",
+      "source_type": null,
+      "similar_mention_count": 17,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "El cordón sanitario a la AfD fracasa por la inmigración descontrolada y la mala economía https://www.diariovasco.com/internacional/europa/cordon-sanitario-afd-fracasa-inmigracion-descontrolada-mala-20260908194448-ntrc.html",
+          "chars": 112
+        },
+        "bluesky": {
+          "text": "El cordón sanitario a la AfD fracasa por la inmigración descontrolada y la mala economía https://www.diariovasco.com/internacional/europa/cordon-sanitario-afd-fracasa-inmigracion-descontrolada-mala-20260908194448-ntrc.html",
+          "chars": 222
+        }
+      }
+    },
+    {
       "id": 556,
       "date": "2026-09-08",
       "week_start": "2026-09-07",
@@ -155,6 +354,32 @@
         "bluesky": {
           "text": "Congress Is Struggling to Govern. Are Electoral Incentives to Blame? (report + Sept 23 event) https://bsky.app/profile/kevinrkosar.bsky.social/post/3mv2awkm4e223",
           "chars": 161
+        }
+      }
+    },
+    {
+      "id": 577,
+      "date": "2026-09-08",
+      "week_start": "2026-09-07",
+      "person_id": "jeremy-wallace",
+      "person": "Jeremy Wallace",
+      "is_ces": false,
+      "title": "China Takes the Wheel - Dissent Magazine",
+      "has_text": true,
+      "url": "https://dissentmagazine.org/article/chinese-automakers-electric-vehicles-labor/",
+      "source": "Dissent Magazine",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "China Takes the Wheel - Dissent Magazine https://dissentmagazine.org/article/chinese-automakers-electric-vehicles-labor/",
+          "chars": 64
+        },
+        "bluesky": {
+          "text": "China Takes the Wheel - Dissent Magazine https://dissentmagazine.org/article/chinese-automakers-electric-vehicles-labor/",
+          "chars": 120
         }
       }
     },

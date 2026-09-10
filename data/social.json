@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-09T10:13:38-04:00",
-  "count": 50,
+  "generated_at": "2026-09-10T08:55:01-04:00",
+  "count": 51,
   "picks": [
+    {
+      "id": 68,
+      "mention_id": 571,
+      "digest_date": "2026-09-09",
+      "person": "Jeremy Wallace",
+      "person_id": "jeremy-wallace",
+      "person_ids": [
+        "jeremy-wallace"
+      ],
+      "is_ces": false,
+      "punchy_title": "China's coal exit is real but far from final, says Hopkins China scholar",
+      "headline": "China's coal exit is real but far from final, says Hopkins China scholar",
+      "pull_quote": "SIMON: Jeremy Wallace, professor of China studies at Johns Hopkins University, thinks it's premature to write the final obituary for ...",
+      "rationale": "SIMON: Jeremy Wallace, professor of China studies at Johns Hopkins University, thinks it's premature to write the final obituary for ...",
+      "url": "https://www.wunc.org/2026-09-09/a-new-report-finds-many-chinese-provinces-are-reducing-their-use-of-coal",
+      "story_url": "https://www.wunc.org/2026-09-09/a-new-report-finds-many-chinese-provinces-are-reducing-their-use-of-coal",
+      "created_at": "2026-09-10 12:54:57",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Is China done with coal? Hopkins China scholar Jeremy Wallace tells NPR it's premature to write coal's final obituary, even as a new report finds many provinces cutting use. https://www.wunc.org/2026-09-09/a-new-report-finds-many-chinese-provinces-are-reducing-their-use-of-coal",
+          "chars": 278,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Is%20China%20done%20with%20coal%3F%20Hopkins%20China%20scholar%20Jeremy%20Wallace%20tells%20NPR%20it%27s%20premature%20to%20write%20coal%27s%20final%20obituary%2C%20even%20as%20a%20new%20report%20finds%20many%20provinces%20cutting%20use.%20https%3A//www.wunc.org/2026-09-09/a-new-report-finds-many-chinese-provinces-are-reducing-their-use-of-coal"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Is China done with coal? Johns Hopkins China scholar Jeremy Wallace tells NPR it's premature to write the final obituary, even as a new report finds many provinces cutting their coal use. https://www.wunc.org/2026-09-09/a-new-report-finds-many-chinese-provinces-are-reducing-their-use-of-coal",
+          "chars": 292,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Is%20China%20done%20with%20coal%3F%20Johns%20Hopkins%20China%20scholar%20Jeremy%20Wallace%20tells%20NPR%20it%27s%20premature%20to%20write%20the%20final%20obituary%2C%20even%20as%20a%20new%20report%20finds%20many%20provinces%20cutting%20their%20coal%20use.%20https%3A//www.wunc.org/2026-09-09/a-new-report-finds-many-chinese-provinces-are-reducing-their-use-of-coal"
+        }
+      ]
+    },
     {
       "id": 67,
       "mention_id": 543,

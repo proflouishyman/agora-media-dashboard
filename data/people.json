@@ -117,21 +117,21 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 45,
+    "mentions_total": 46,
     "mentions_in_digest": 25,
-    "reach_proxy": 287,
+    "reach_proxy": 288,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-09-07",
+    "last_mention_date": "2026-09-09",
     "sentiment": {
       "positive": 8,
       "neutral": 12,
       "negative": 5,
-      "unknown": 20
+      "unknown": 21
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 6
+        "count": 7
       },
       {
         "source": "Substack",
@@ -208,8 +208,8 @@
       },
       {
         "week_start": "2026-09-07",
-        "count": 1,
-        "reach": 1
+        "count": 2,
+        "reach": 2
       }
     ]
   },
@@ -225,14 +225,14 @@
       "Core Faculty"
     ],
     "is_ces": true,
-    "mentions_total": 32,
+    "mentions_total": 34,
     "mentions_in_digest": 23,
-    "reach_proxy": 51,
+    "reach_proxy": 53,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-09-08",
+    "last_mention_date": "2026-09-10",
     "sentiment": {
       "positive": 2,
-      "neutral": 10,
+      "neutral": 12,
       "negative": 0,
       "unknown": 20
     },
@@ -243,7 +243,7 @@
       },
       {
         "source": "Youtube",
-        "count": 5
+        "count": 6
       },
       {
         "source": "Twitter",
@@ -316,8 +316,8 @@
       },
       {
         "week_start": "2026-09-07",
-        "count": 2,
-        "reach": 2
+        "count": 4,
+        "reach": 4
       }
     ]
   },
@@ -424,6 +424,114 @@
         "week_start": "2026-09-07",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "sean-carroll",
+    "name": "Sean Carroll",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Homewood Professor of Natural Philosophy at Johns Hopkins University",
+    "profile_url": "https://snfagora.jhu.edu/directory/sean-carroll/",
+    "photo_url": "images/people/sean-carroll.jpeg",
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 29,
+    "mentions_in_digest": 10,
+    "reach_proxy": 53,
+    "first_mention_date": "2026-07-03",
+    "last_mention_date": "2026-09-09",
+    "sentiment": {
+      "positive": 5,
+      "neutral": 10,
+      "negative": 1,
+      "unknown": 13
+    },
+    "top_sources": [
+      {
+        "source": "Youtube",
+        "count": 4
+      },
+      {
+        "source": "Twitter",
+        "count": 3
+      },
+      {
+        "source": "YouTube",
+        "count": 3
+      },
+      {
+        "source": "Bluesky",
+        "count": 2
+      },
+      {
+        "source": "The New York Times",
+        "count": 2
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 2,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 5,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 4,
+        "reach": 29
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 5,
+        "reach": 6
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 6,
+        "reach": 8
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 2,
+        "reach": 5
       }
     ]
   },
@@ -536,114 +644,6 @@
     ]
   },
   {
-    "id": "sean-carroll",
-    "name": "Sean Carroll",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Homewood Professor of Natural Philosophy at Johns Hopkins University",
-    "profile_url": "https://snfagora.jhu.edu/directory/sean-carroll/",
-    "photo_url": "images/people/sean-carroll.jpeg",
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 28,
-    "mentions_in_digest": 10,
-    "reach_proxy": 49,
-    "first_mention_date": "2026-07-03",
-    "last_mention_date": "2026-09-08",
-    "sentiment": {
-      "positive": 5,
-      "neutral": 10,
-      "negative": 1,
-      "unknown": 12
-    },
-    "top_sources": [
-      {
-        "source": "Youtube",
-        "count": 4
-      },
-      {
-        "source": "Twitter",
-        "count": 3
-      },
-      {
-        "source": "YouTube",
-        "count": 3
-      },
-      {
-        "source": "Bluesky",
-        "count": 2
-      },
-      {
-        "source": "The New York Times",
-        "count": 2
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 2,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 5,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 4,
-        "reach": 29
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 5,
-        "reach": 6
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 6,
-        "reach": 8
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 1,
-        "reach": 1
-      }
-    ]
-  },
-  {
     "id": "yascha-mounk",
     "name": "Yascha Mounk",
     "kind": "faculty",
@@ -655,16 +655,16 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 27,
+    "mentions_total": 28,
     "mentions_in_digest": 13,
-    "reach_proxy": 188,
+    "reach_proxy": 205,
     "first_mention_date": "2026-07-02",
     "last_mention_date": "2026-09-08",
     "sentiment": {
       "positive": 1,
       "neutral": 10,
       "negative": 1,
-      "unknown": 15
+      "unknown": 16
     },
     "top_sources": [
       {
@@ -746,8 +746,8 @@
       },
       {
         "week_start": "2026-09-07",
-        "count": 2,
-        "reach": 26
+        "count": 3,
+        "reach": 43
       }
     ]
   },
@@ -2572,6 +2572,112 @@
     ]
   },
   {
+    "id": "eliot-cohen",
+    "name": "Eliot Cohen",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 5,
+    "mentions_in_digest": 3,
+    "reach_proxy": 6,
+    "first_mention_date": "2026-08-01",
+    "last_mention_date": "2026-09-09",
+    "sentiment": {
+      "positive": 2,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 3
+    },
+    "top_sources": [
+      {
+        "source": "Bambaram di Padida",
+        "count": 1
+      },
+      {
+        "source": "Civitas Institute",
+        "count": 1
+      },
+      {
+        "source": "Civitas Outlook",
+        "count": 1
+      },
+      {
+        "source": "Gazeta do Povo",
+        "count": 1
+      },
+      {
+        "source": "Substack (E-International Relations)",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 1,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 2,
+        "reach": 2
+      }
+    ]
+  },
+  {
     "id": "emily-white",
     "name": "Emily White",
     "kind": "faculty",
@@ -2672,6 +2778,106 @@
         "week_start": "2026-09-07",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "jeremy-wallace",
+    "name": "Jeremy Wallace",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Professor of China Studies at Johns Hopkins School of Advanced International Studies (SAIS)",
+    "profile_url": "https://snfagora.jhu.edu/directory/jeremy-wallace/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 5,
+    "mentions_in_digest": 2,
+    "reach_proxy": 10,
+    "first_mention_date": "2026-08-14",
+    "last_mention_date": "2026-09-09",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0,
+      "unknown": 4
+    },
+    "top_sources": [
+      {
+        "source": "Dissent Magazine",
+        "count": 2
+      },
+      {
+        "source": "The New Republic",
+        "count": 2
+      },
+      {
+        "source": "WUNC",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 3,
+        "reach": 8
       }
     ]
   },
@@ -2878,108 +3084,6 @@
         "week_start": "2026-09-07",
         "count": 0,
         "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "eliot-cohen",
-    "name": "Eliot Cohen",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 4,
-    "mentions_in_digest": 3,
-    "reach_proxy": 5,
-    "first_mention_date": "2026-08-01",
-    "last_mention_date": "2026-09-09",
-    "sentiment": {
-      "positive": 1,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 3
-    },
-    "top_sources": [
-      {
-        "source": "Bambaram di Padida",
-        "count": 1
-      },
-      {
-        "source": "Civitas Institute",
-        "count": 1
-      },
-      {
-        "source": "Gazeta do Povo",
-        "count": 1
-      },
-      {
-        "source": "Substack (E-International Relations)",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 1,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 1,
-        "reach": 1
       }
     ]
   },
@@ -3286,102 +3390,6 @@
         "week_start": "2026-09-07",
         "count": 0,
         "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "jeremy-wallace",
-    "name": "Jeremy Wallace",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Professor of China Studies at Johns Hopkins School of Advanced International Studies (SAIS)",
-    "profile_url": "https://snfagora.jhu.edu/directory/jeremy-wallace/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 3,
-    "mentions_in_digest": 1,
-    "reach_proxy": 3,
-    "first_mention_date": "2026-08-14",
-    "last_mention_date": "2026-09-08",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 3
-    },
-    "top_sources": [
-      {
-        "source": "The New Republic",
-        "count": 2
-      },
-      {
-        "source": "Dissent Magazine",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 1,
-        "reach": 1
       }
     ]
   },
@@ -6998,6 +7006,98 @@
         "week_start": "2026-09-07",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "juan-arboleda",
+    "name": "Juan Ignacio Arboleda",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Postdoctoral Fellow",
+    "profile_url": "https://snfagora.jhu.edu/directory/juan-arboleda/",
+    "photo_url": null,
+    "categories": [
+      "Postdoctoral + Student Fellows"
+    ],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 1,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-09-10",
+    "last_mention_date": "2026-09-10",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Legal History Blog",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-22",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -10988,93 +11088,6 @@
     "photo_url": "images/people/johnnie-moore.jpg",
     "categories": [
       "Visiting Fellows"
-    ],
-    "is_ces": false,
-    "mentions_total": 0,
-    "mentions_in_digest": 0,
-    "reach_proxy": 0,
-    "first_mention_date": null,
-    "last_mention_date": null,
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [],
-    "weekly": [
-      {
-        "week_start": "2026-06-22",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "juan-arboleda",
-    "name": "Juan Ignacio Arboleda",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Postdoctoral Fellow",
-    "profile_url": "https://snfagora.jhu.edu/directory/juan-arboleda/",
-    "photo_url": null,
-    "categories": [
-      "Postdoctoral + Student Fellows"
     ],
     "is_ces": false,
     "mentions_total": 0,
