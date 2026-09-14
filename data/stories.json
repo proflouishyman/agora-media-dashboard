@@ -1,7 +1,573 @@
 {
-  "generated_at": "2026-09-10T08:55:01-04:00",
-  "count": 573,
+  "generated_at": "2026-09-14T07:09:19-04:00",
+  "count": 601,
   "stories": [
+    {
+      "id": 587,
+      "date": "2026-09-14",
+      "week_start": "2026-09-14",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 584,
+      "date": "2026-09-14",
+      "week_start": "2026-09-14",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video] (2025)",
+      "has_text": true,
+      "url": "https://www.videoclip.bg/watch/2280974",
+      "source": "Начало - Videoclip.bg",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video] (2025) https://www.videoclip.bg/watch/2280974",
+          "chars": 111
+        },
+        "bluesky": {
+          "text": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video] (2025) https://www.videoclip.bg/watch/2280974",
+          "chars": 126
+        }
+      }
+    },
+    {
+      "id": 580,
+      "date": "2026-09-13",
+      "week_start": "2026-09-07",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "Congratulations to Lilliana Mason (Johns Hopkins), winner of the Philip E. Converse Book Award for Uncivil Agreement: How Politics Became .. ...",
+      "has_text": true,
+      "url": "https://bsky.app/profile/epovb.bsky.social/post/3mvgil7azws2w",
+      "source": "Bluesky",
+      "source_type": "social network",
+      "similar_mention_count": 5,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Congratulations to Lilliana Mason (Johns Hopkins), winner of the Philip E. Converse Book Award for Uncivil Agreement: How Politics Became .. ... https://bsky.app/profile/epovb.bsky.social/post/3mvgil7azws2w",
+          "chars": 168
+        },
+        "bluesky": {
+          "text": "Congratulations to Lilliana Mason (Johns Hopkins), winner of the Philip E. Converse Book Award for Uncivil Agreement: How Politics Became .. ... https://bsky.app/profile/epovb.bsky.social/post/3mvgil7azws2w",
+          "chars": 206
+        }
+      }
+    },
+    {
+      "id": 597,
+      "date": "2026-09-13",
+      "week_start": "2026-09-07",
+      "person_id": "unattributed-institutional-keyword-only",
+      "person": "Unattributed (institutional keyword only)",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/science/comments/1wf4n0q/comment/p9jc14j/",
+      "source": "reddit.com/r/science",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " https://www.reddit.com/r/science/comments/1wf4n0q/comment/p9jc14j/",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://www.reddit.com/r/science/comments/1wf4n0q/comment/p9jc14j/",
+          "chars": 67
+        }
+      }
+    },
+    {
+      "id": 596,
+      "date": "2026-09-13",
+      "week_start": "2026-09-07",
+      "person_id": "unattributed-institutional-keyword-only",
+      "person": "Unattributed (institutional keyword only)",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 595,
+      "date": "2026-09-13",
+      "week_start": "2026-09-07",
+      "person_id": "unattributed-institutional-keyword-only",
+      "person": "Unattributed (institutional keyword only)",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 594,
+      "date": "2026-09-13",
+      "week_start": "2026-09-07",
+      "person_id": "unattributed-institutional-keyword-only",
+      "person": "Unattributed (institutional keyword only)",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 592,
+      "date": "2026-09-13",
+      "week_start": "2026-09-07",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 591,
+      "date": "2026-09-13",
+      "week_start": "2026-09-07",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 590,
+      "date": "2026-09-13",
+      "week_start": "2026-09-07",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 589,
+      "date": "2026-09-13",
+      "week_start": "2026-09-07",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 585,
+      "date": "2026-09-12",
+      "week_start": "2026-09-07",
+      "person_id": "emily-white",
+      "person": "Emily White",
+      "is_ces": false,
+      "title": "WAND’s Athletes of the Week: Cam Wagner",
+      "has_text": true,
+      "url": "https://www.wandtv.com/2026/09/12/wands-athletes-week-cam-wagner/",
+      "source": "WAND-TV",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "WAND’s Athletes of the Week: Cam Wagner https://www.wandtv.com/2026/09/12/wands-athletes-week-cam-wagner/",
+          "chars": 63
+        },
+        "bluesky": {
+          "text": "WAND’s Athletes of the Week: Cam Wagner https://www.wandtv.com/2026/09/12/wands-athletes-week-cam-wagner/",
+          "chars": 105
+        }
+      }
+    },
+    {
+      "id": 581,
+      "date": "2026-09-11",
+      "week_start": "2026-09-07",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "Yascha Mounk : «L’attentat du 11 septembre 2001 a été le point de départ de nombreuses fractures américaines»",
+      "has_text": true,
+      "url": "https://www.lefigaro.fr/vox/monde/yascha-mounk-l-attentat-du-11-septembre-2001-a-ete-le-point-de-depart-de-nombreuses-fractures-americaines-20260911",
+      "source": "Le Figaro",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Yascha Mounk : «L’attentat du 11 septembre 2001 a été le point de départ de nombreuses fractures américaines» https://www.lefigaro.fr/vox/monde/yascha-mounk-l-attentat-du-11-septembre-2001-a-ete-le-point-de-depart-de-nombreuses-fractures-americaines-20260911",
+          "chars": 133
+        },
+        "bluesky": {
+          "text": "Yascha Mounk : «L’attentat du 11 septembre 2001 a été le point de départ de nombreuses fractures américaines» https://www.lefigaro.fr/vox/monde/yascha-mounk-l-attentat-du-11-septembre-2001-a-ete-le-point-de-depart-de-nombreuses-fractures-americaines-20260911",
+          "chars": 258
+        }
+      }
+    },
+    {
+      "id": 601,
+      "date": "2026-09-11",
+      "week_start": "2026-09-07",
+      "person_id": "unattributed-institutional-keyword-only",
+      "person": "Unattributed (institutional keyword only)",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 600,
+      "date": "2026-09-11",
+      "week_start": "2026-09-07",
+      "person_id": "unattributed-institutional-keyword-only",
+      "person": "Unattributed (institutional keyword only)",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 599,
+      "date": "2026-09-11",
+      "week_start": "2026-09-07",
+      "person_id": "unattributed-institutional-keyword-only",
+      "person": "Unattributed (institutional keyword only)",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/nova/comments/1wdhol5/comment/p96bzff/",
+      "source": "reddit.com/r/nova",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " https://www.reddit.com/r/nova/comments/1wdhol5/comment/p96bzff/",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://www.reddit.com/r/nova/comments/1wdhol5/comment/p96bzff/",
+          "chars": 64
+        }
+      }
+    },
+    {
+      "id": 598,
+      "date": "2026-09-11",
+      "week_start": "2026-09-07",
+      "person_id": "unattributed-institutional-keyword-only",
+      "person": "Unattributed (institutional keyword only)",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 593,
+      "date": "2026-09-11",
+      "week_start": "2026-09-07",
+      "person_id": "christopher-krupenye",
+      "person": "Christopher Krupenye",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/punchthemonkey/comments/1wdin7b/comment/p962kbb/",
+      "source": "reddit.com/r/punchthemonkey",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " https://www.reddit.com/r/punchthemonkey/comments/1wdin7b/comment/p962kbb/",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://www.reddit.com/r/punchthemonkey/comments/1wdin7b/comment/p962kbb/",
+          "chars": 74
+        }
+      }
+    },
+    {
+      "id": 586,
+      "date": "2026-09-11",
+      "week_start": "2026-09-07",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "»Američani noter, Rusi zunaj«: Sikorski spomnil, zakaj je ustanovljen NATO",
+      "has_text": true,
+      "url": "https://insajder.com/slovenija/americani-noter-rusi-zunaj-sikorski-spomnil-zakaj-je-ustanovljen-nato",
+      "source": "Insajder.com",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "»Američani noter, Rusi zunaj«: Sikorski spomnil, zakaj je ustanovljen NATO https://insajder.com/slovenija/americani-noter-rusi-zunaj-sikorski-spomnil-zakaj-je-ustanovljen-nato",
+          "chars": 98
+        },
+        "bluesky": {
+          "text": "»Američani noter, Rusi zunaj«: Sikorski spomnil, zakaj je ustanovljen NATO https://insajder.com/slovenija/americani-noter-rusi-zunaj-sikorski-spomnil-zakaj-je-ustanovljen-nato",
+          "chars": 175
+        }
+      }
+    },
+    {
+      "id": 582,
+      "date": "2026-09-11",
+      "week_start": "2026-09-07",
+      "person_id": "leah-wright",
+      "person": "Leah Wright",
+      "is_ces": false,
+      "title": "Trump Proposes Changes to Erase Diversity in 2030 Census",
+      "has_text": true,
+      "url": "https://theemancipator.org/2026/09/11/news/trump-proposes-changes-to-erase-diversity-in-2030-census/",
+      "source": "The Emancipator",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Trump Proposes Changes to Erase Diversity in 2030 Census https://theemancipator.org/2026/09/11/news/trump-proposes-changes-to-erase-diversity-in-2030-census/",
+          "chars": 80
+        },
+        "bluesky": {
+          "text": "Trump Proposes Changes to Erase Diversity in 2030 Census https://theemancipator.org/2026/09/11/news/trump-proposes-changes-to-erase-diversity-in-2030-census/",
+          "chars": 157
+        }
+      }
+    },
+    {
+      "id": 607,
+      "date": "2026-09-10",
+      "week_start": "2026-09-07",
+      "person_id": "unattributed-institutional-keyword-only",
+      "person": "Unattributed (institutional keyword only)",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 606,
+      "date": "2026-09-10",
+      "week_start": "2026-09-07",
+      "person_id": "unattributed-institutional-keyword-only",
+      "person": "Unattributed (institutional keyword only)",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 605,
+      "date": "2026-09-10",
+      "week_start": "2026-09-07",
+      "person_id": "unattributed-institutional-keyword-only",
+      "person": "Unattributed (institutional keyword only)",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 604,
+      "date": "2026-09-10",
+      "week_start": "2026-09-07",
+      "person_id": "unattributed-institutional-keyword-only",
+      "person": "Unattributed (institutional keyword only)",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 603,
+      "date": "2026-09-10",
+      "week_start": "2026-09-07",
+      "person_id": "unattributed-institutional-keyword-only",
+      "person": "Unattributed (institutional keyword only)",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 602,
+      "date": "2026-09-10",
+      "week_start": "2026-09-07",
+      "person_id": "unattributed-institutional-keyword-only",
+      "person": "Unattributed (institutional keyword only)",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 588,
+      "date": "2026-09-10",
+      "week_start": "2026-09-07",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 583,
+      "date": "2026-09-10",
+      "week_start": "2026-09-07",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": "Wie unser Universum Entstanden sein Könnte",
+      "has_text": true,
+      "url": "https://baroquecoms.com/2026/09/10/wie-unser-universum-entstanden-sein-konnte/",
+      "source": "wordpress.com",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Wie unser Universum Entstanden sein Könnte https://baroquecoms.com/2026/09/10/wie-unser-universum-entstanden-sein-konnte/",
+          "chars": 66
+        },
+        "bluesky": {
+          "text": "Wie unser Universum Entstanden sein Könnte https://baroquecoms.com/2026/09/10/wie-unser-universum-entstanden-sein-konnte/",
+          "chars": 121
+        }
+      }
+    },
     {
       "id": 574,
       "date": "2026-09-10",

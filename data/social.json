@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-10T08:55:01-04:00",
-  "count": 51,
+  "generated_at": "2026-09-14T07:09:19-04:00",
+  "count": 52,
   "picks": [
+    {
+      "id": 69,
+      "mention_id": 580,
+      "digest_date": "2026-09-13",
+      "person": "Lilliana Mason",
+      "person_id": "lilliana-mason",
+      "person_ids": [
+        "lilliana-mason"
+      ],
+      "is_ces": false,
+      "punchy_title": "A book on why politics became identity just won its field’s lasting-influence prize",
+      "headline": "A book on why politics became identity just won its field’s lasting-influence prize",
+      "pull_quote": "Congratulations to Lilliana Mason (Johns Hopkins), winner of the Philip E. Converse Book Award for Uncivil Agreement: How Politics Became Our Identity.",
+      "rationale": "Congratulations to Lilliana Mason (Johns Hopkins), winner of the Philip E. Converse Book Award for Uncivil Agreement: How Politics Became Our Identity.",
+      "url": "https://bsky.app/profile/epovb.bsky.social/post/3mvgil7azws2w",
+      "story_url": "https://bsky.app/profile/epovb.bsky.social/post/3mvgil7azws2w",
+      "created_at": "2026-09-14 11:09:03",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Congratulations to SNF Agora Institute professor Lilliana Mason, winner of the Philip E. Converse Book Award for \"Uncivil Agreement: How Politics Became Our Identity.\"",
+          "chars": 167,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Congratulations%20to%20SNF%20Agora%20Institute%20professor%20Lilliana%20Mason%2C%20winner%20of%20the%20Philip%20E.%20Converse%20Book%20Award%20for%20%22Uncivil%20Agreement%3A%20How%20Politics%20Became%20Our%20Identity.%22%20https%3A//bsky.app/profile/epovb.bsky.social/post/3mvgil7azws2w"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Congratulations to SNF Agora Institute professor Lilliana Mason, winner of the Philip E. Converse Book Award for \"Uncivil Agreement: How Politics Became Our Identity\" — an award honoring books of lasting influence.",
+          "chars": 214,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Congratulations%20to%20SNF%20Agora%20Institute%20professor%20Lilliana%20Mason%2C%20winner%20of%20the%20Philip%20E.%20Converse%20Book%20Award%20for%20%22Uncivil%20Agreement%3A%20How%20Politics%20Became%20Our%20Identity%22%20%E2%80%94%20an%20award%20honoring%20books%20of%20lasting%20influence.%20https%3A//bsky.app/profile/epovb.bsky.social/post/3mvgil7azws2w"
+        }
+      ]
+    },
     {
       "id": 68,
       "mention_id": 571,
