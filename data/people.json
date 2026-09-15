@@ -9,16 +9,16 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 75,
+    "mentions_total": 78,
     "mentions_in_digest": 30,
-    "reach_proxy": 157,
+    "reach_proxy": 165,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-09-09",
+    "last_mention_date": "2026-09-15",
     "sentiment": {
       "positive": 21,
       "neutral": 27,
       "negative": 3,
-      "unknown": 24
+      "unknown": 27
     },
     "top_sources": [
       {
@@ -27,11 +27,11 @@
       },
       {
         "source": "LinkedIn",
-        "count": 11
+        "count": 12
       },
       {
         "source": "Bluesky",
-        "count": 4
+        "count": 5
       },
       {
         "source": "Medium",
@@ -100,8 +100,8 @@
       },
       {
         "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
+        "count": 3,
+        "reach": 8
       }
     ]
   },
@@ -536,6 +536,114 @@
     ]
   },
   {
+    "id": "yuen-yuen-ang",
+    "name": "Yuen Yuen Ang",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Alfred Chandler Chair Professor of Political Economy",
+    "profile_url": "https://snfagora.jhu.edu/directory/yuen-yuen-ang/",
+    "photo_url": "images/people/yuen-yuen-ang.jpg",
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": true,
+    "mentions_total": 30,
+    "mentions_in_digest": 23,
+    "reach_proxy": 52,
+    "first_mention_date": "2026-07-04",
+    "last_mention_date": "2026-09-14",
+    "sentiment": {
+      "positive": 6,
+      "neutral": 10,
+      "negative": 0,
+      "unknown": 14
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 5
+      },
+      {
+        "source": "YouTube",
+        "count": 3
+      },
+      {
+        "source": "Head Topics",
+        "count": 2
+      },
+      {
+        "source": "Revista Fórum",
+        "count": 2
+      },
+      {
+        "source": "Brand Inside (Thailand)",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-29",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 2,
+        "reach": 4
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 3,
+        "reach": 4
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 4,
+        "reach": 10
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 9,
+        "reach": 14
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 5,
+        "reach": 9
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 3,
+        "reach": 5
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 2,
+        "reach": 5
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "yascha-mounk",
     "name": "Yascha Mounk",
     "kind": "faculty",
@@ -635,114 +743,6 @@
         "week_start": "2026-09-07",
         "count": 4,
         "reach": 46
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "yuen-yuen-ang",
-    "name": "Yuen Yuen Ang",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Alfred Chandler Chair Professor of Political Economy",
-    "profile_url": "https://snfagora.jhu.edu/directory/yuen-yuen-ang/",
-    "photo_url": "images/people/yuen-yuen-ang.jpg",
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": true,
-    "mentions_total": 29,
-    "mentions_in_digest": 22,
-    "reach_proxy": 51,
-    "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-08-28",
-    "sentiment": {
-      "positive": 6,
-      "neutral": 10,
-      "negative": 0,
-      "unknown": 13
-    },
-    "top_sources": [
-      {
-        "source": "Twitter",
-        "count": 5
-      },
-      {
-        "source": "YouTube",
-        "count": 3
-      },
-      {
-        "source": "Head Topics",
-        "count": 2
-      },
-      {
-        "source": "Revista Fórum",
-        "count": 2
-      },
-      {
-        "source": "Brand Inside (Thailand)",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-29",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 2,
-        "reach": 4
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 3,
-        "reach": 4
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 4,
-        "reach": 10
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 9,
-        "reach": 14
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 5,
-        "reach": 9
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 3,
-        "reach": 5
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 2,
-        "reach": 5
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
       },
       {
         "week_start": "2026-09-14",
@@ -1083,16 +1083,16 @@
       "Core Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 15,
-    "mentions_in_digest": 9,
-    "reach_proxy": 49,
+    "mentions_total": 16,
+    "mentions_in_digest": 10,
+    "reach_proxy": 50,
     "first_mention_date": "2026-07-08",
-    "last_mention_date": "2026-09-13",
+    "last_mention_date": "2026-09-14",
     "sentiment": {
       "positive": 1,
       "neutral": 4,
       "negative": 0,
-      "unknown": 10
+      "unknown": 11
     },
     "top_sources": [
       {
@@ -1174,8 +1174,116 @@
       },
       {
         "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
+    "id": "louis-hyman",
+    "name": "Louis Hyman",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Dorothy Ross Professor of History",
+    "profile_url": "https://snfagora.jhu.edu/directory/louis-hyman/",
+    "photo_url": "images/people/louis-hyman.jpg",
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": true,
+    "mentions_total": 15,
+    "mentions_in_digest": 5,
+    "reach_proxy": 23,
+    "first_mention_date": "2026-07-10",
+    "last_mention_date": "2026-09-14",
+    "sentiment": {
+      "positive": 2,
+      "neutral": 4,
+      "negative": 0,
+      "unknown": 9
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 9
+      },
+      {
+        "source": "Baltimore Fishbowl",
+        "count": 1
+      },
+      {
+        "source": "Indiecinema",
+        "count": 1
+      },
+      {
+        "source": "Marketplace",
+        "count": 1
+      },
+      {
+        "source": "RealClearInvestigations",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-29",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 8,
+        "reach": 8
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 2,
+        "reach": 7
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 1,
+        "reach": 4
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 2
       }
     ]
   },
@@ -1269,114 +1377,6 @@
         "week_start": "2026-08-24",
         "count": 3,
         "reach": 5
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "louis-hyman",
-    "name": "Louis Hyman",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Dorothy Ross Professor of History",
-    "profile_url": "https://snfagora.jhu.edu/directory/louis-hyman/",
-    "photo_url": "images/people/louis-hyman.jpg",
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": true,
-    "mentions_total": 14,
-    "mentions_in_digest": 4,
-    "reach_proxy": 21,
-    "first_mention_date": "2026-07-10",
-    "last_mention_date": "2026-08-06",
-    "sentiment": {
-      "positive": 2,
-      "neutral": 3,
-      "negative": 0,
-      "unknown": 9
-    },
-    "top_sources": [
-      {
-        "source": "Twitter",
-        "count": 9
-      },
-      {
-        "source": "Baltimore Fishbowl",
-        "count": 1
-      },
-      {
-        "source": "Indiecinema",
-        "count": 1
-      },
-      {
-        "source": "RealClearInvestigations",
-        "count": 1
-      },
-      {
-        "source": "Vox",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 8,
-        "reach": 8
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 2,
-        "reach": 7
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 4
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
       },
       {
         "week_start": "2026-08-31",
@@ -1490,6 +1490,112 @@
         "week_start": "2026-09-14",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "unknown",
+    "name": "unknown",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 14,
+    "mentions_in_digest": 0,
+    "reach_proxy": 17,
+    "first_mention_date": "2026-09-14",
+    "last_mention_date": "2026-09-15",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 14
+    },
+    "top_sources": [
+      {
+        "source": "Medical Xpress",
+        "count": 2
+      },
+      {
+        "source": "CinePOP",
+        "count": 1
+      },
+      {
+        "source": "Forums",
+        "count": 1
+      },
+      {
+        "source": "Head Topics",
+        "count": 1
+      },
+      {
+        "source": "LAist",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 14,
+        "reach": 17
       }
     ]
   },
@@ -1613,16 +1719,16 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 10,
-    "mentions_in_digest": 4,
-    "reach_proxy": 26,
+    "mentions_total": 11,
+    "mentions_in_digest": 5,
+    "reach_proxy": 27,
     "first_mention_date": "2026-08-12",
-    "last_mention_date": "2026-09-08",
+    "last_mention_date": "2026-09-14",
     "sentiment": {
       "positive": 1,
       "neutral": 0,
       "negative": 0,
-      "unknown": 9
+      "unknown": 10
     },
     "top_sources": [
       {
@@ -1704,8 +1810,8 @@
       },
       {
         "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -1721,13 +1827,13 @@
       "Core Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 10,
-    "mentions_in_digest": 9,
-    "reach_proxy": 27,
+    "mentions_total": 11,
+    "mentions_in_digest": 10,
+    "reach_proxy": 28,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-08-20",
+    "last_mention_date": "2026-09-14",
     "sentiment": {
-      "positive": 6,
+      "positive": 7,
       "neutral": 4,
       "negative": 0,
       "unknown": 0
@@ -1750,7 +1856,7 @@
         "count": 1
       },
       {
-        "source": "Twitter",
+        "source": "The Hub - Johns Hopkins University",
         "count": 1
       }
     ],
@@ -1812,8 +1918,8 @@
       },
       {
         "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -2032,6 +2138,114 @@
     ]
   },
   {
+    "id": "scott-warren",
+    "name": "Scott Warren",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Fellow",
+    "profile_url": "https://snfagora.jhu.edu/directory/scott-warren/",
+    "photo_url": "images/people/scott-warren.jpg",
+    "categories": [
+      "Continuing Faculty + Fellows"
+    ],
+    "is_ces": false,
+    "mentions_total": 8,
+    "mentions_in_digest": 7,
+    "reach_proxy": 12,
+    "first_mention_date": "2026-07-02",
+    "last_mention_date": "2026-09-14",
+    "sentiment": {
+      "positive": 2,
+      "neutral": 4,
+      "negative": 0,
+      "unknown": 2
+    },
+    "top_sources": [
+      {
+        "source": "LinkedIn",
+        "count": 3
+      },
+      {
+        "source": "Bluesky",
+        "count": 1
+      },
+      {
+        "source": "Reddit",
+        "count": 1
+      },
+      {
+        "source": "Substack (New Voters 250)",
+        "count": 1
+      },
+      {
+        "source": "The Denver Gazette",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-29",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 1,
+        "reach": 6
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 1,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "eugene-scott",
     "name": "Eugene Scott",
     "kind": "faculty",
@@ -2131,114 +2345,6 @@
         "week_start": "2026-09-07",
         "count": 0,
         "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "scott-warren",
-    "name": "Scott Warren",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Fellow",
-    "profile_url": "https://snfagora.jhu.edu/directory/scott-warren/",
-    "photo_url": "images/people/scott-warren.jpg",
-    "categories": [
-      "Continuing Faculty + Fellows"
-    ],
-    "is_ces": false,
-    "mentions_total": 7,
-    "mentions_in_digest": 6,
-    "reach_proxy": 11,
-    "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-09-08",
-    "sentiment": {
-      "positive": 1,
-      "neutral": 4,
-      "negative": 0,
-      "unknown": 2
-    },
-    "top_sources": [
-      {
-        "source": "LinkedIn",
-        "count": 3
-      },
-      {
-        "source": "Bluesky",
-        "count": 1
-      },
-      {
-        "source": "Reddit",
-        "count": 1
-      },
-      {
-        "source": "Substack (New Voters 250)",
-        "count": 1
-      },
-      {
-        "source": "The Denver Gazette",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-29",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 1,
-        "reach": 6
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 1,
-        "reach": 2
       },
       {
         "week_start": "2026-09-14",
@@ -2458,6 +2564,112 @@
         "week_start": "2026-09-14",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "eliot-cohen",
+    "name": "Eliot Cohen",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 6,
+    "mentions_in_digest": 3,
+    "reach_proxy": 7,
+    "first_mention_date": "2026-08-01",
+    "last_mention_date": "2026-09-15",
+    "sentiment": {
+      "positive": 2,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 4
+    },
+    "top_sources": [
+      {
+        "source": "Bambaram di Padida",
+        "count": 1
+      },
+      {
+        "source": "Civitas Institute",
+        "count": 1
+      },
+      {
+        "source": "Civitas Outlook",
+        "count": 1
+      },
+      {
+        "source": "Gazeta do Povo",
+        "count": 1
+      },
+      {
+        "source": "Substack",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 1,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -2774,45 +2986,47 @@
     ]
   },
   {
-    "id": "eliot-cohen",
-    "name": "Eliot Cohen",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
+    "id": "amy-binder",
+    "name": "Amy Binder",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Institute Professor of Sociology",
+    "profile_url": "https://snfagora.jhu.edu/directory/amy-binder/",
     "photo_url": null,
-    "categories": [],
+    "categories": [
+      "Core Faculty"
+    ],
     "is_ces": false,
     "mentions_total": 5,
-    "mentions_in_digest": 3,
-    "reach_proxy": 6,
-    "first_mention_date": "2026-08-01",
-    "last_mention_date": "2026-09-09",
+    "mentions_in_digest": 5,
+    "reach_proxy": 11,
+    "first_mention_date": "2026-07-08",
+    "last_mention_date": "2026-09-14",
     "sentiment": {
-      "positive": 2,
-      "neutral": 0,
+      "positive": 0,
+      "neutral": 2,
       "negative": 0,
       "unknown": 3
     },
     "top_sources": [
       {
-        "source": "Bambaram di Padida",
+        "source": "AGI - Agenzia Giornalistica Italia",
         "count": 1
       },
       {
-        "source": "Civitas Institute",
+        "source": "The Guardian",
         "count": 1
       },
       {
-        "source": "Civitas Outlook",
+        "source": "The Hub - Johns Hopkins University",
         "count": 1
       },
       {
-        "source": "Gazeta do Povo",
+        "source": "The Renovator",
         "count": 1
       },
       {
-        "source": "Substack (E-International Relations)",
+        "source": "UOL",
         "count": 1
       }
     ],
@@ -2824,8 +3038,8 @@
       },
       {
         "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       },
       {
         "week_start": "2026-07-13",
@@ -2840,7 +3054,7 @@
       {
         "week_start": "2026-07-27",
         "count": 1,
-        "reach": 1
+        "reach": 6
       },
       {
         "week_start": "2026-08-03",
@@ -2849,13 +3063,13 @@
       },
       {
         "week_start": "2026-08-10",
-        "count": 1,
-        "reach": 2
+        "count": 0,
+        "reach": 0
       },
       {
         "week_start": "2026-08-17",
-        "count": 1,
-        "reach": 1
+        "count": 0,
+        "reach": 0
       },
       {
         "week_start": "2026-08-24",
@@ -2864,18 +3078,18 @@
       },
       {
         "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
+        "count": 2,
+        "reach": 3
       },
       {
         "week_start": "2026-09-07",
-        "count": 2,
-        "reach": 2
+        "count": 0,
+        "reach": 0
       },
       {
         "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -3082,43 +3296,41 @@
     ]
   },
   {
-    "id": "amy-binder",
-    "name": "Amy Binder",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Institute Professor of Sociology",
-    "profile_url": "https://snfagora.jhu.edu/directory/amy-binder/",
+    "id": "leah-wright-rigueur",
+    "name": "Leah Wright Rigueur",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
     "photo_url": null,
-    "categories": [
-      "Core Faculty"
-    ],
+    "categories": [],
     "is_ces": false,
     "mentions_total": 4,
-    "mentions_in_digest": 4,
-    "reach_proxy": 10,
-    "first_mention_date": "2026-07-08",
-    "last_mention_date": "2026-09-02",
+    "mentions_in_digest": 3,
+    "reach_proxy": 8,
+    "first_mention_date": "2026-08-06",
+    "last_mention_date": "2026-09-14",
     "sentiment": {
       "positive": 0,
-      "neutral": 2,
+      "neutral": 1,
       "negative": 0,
-      "unknown": 2
+      "unknown": 3
     },
     "top_sources": [
       {
-        "source": "AGI - Agenzia Giornalistica Italia",
+        "source": "AlterNet (also MSN US, MSN NZ)",
         "count": 1
       },
       {
-        "source": "The Guardian",
+        "source": "Raw Story",
         "count": 1
       },
       {
-        "source": "The Renovator",
+        "source": "The Hub - Johns Hopkins University",
         "count": 1
       },
       {
-        "source": "UOL",
+        "source": "Twitter",
         "count": 1
       }
     ],
@@ -3130,8 +3342,8 @@
       },
       {
         "week_start": "2026-07-06",
-        "count": 1,
-        "reach": 1
+        "count": 0,
+        "reach": 0
       },
       {
         "week_start": "2026-07-13",
@@ -3145,13 +3357,13 @@
       },
       {
         "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 6
+        "count": 0,
+        "reach": 0
       },
       {
         "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 3
       },
       {
         "week_start": "2026-08-10",
@@ -3171,7 +3383,7 @@
       {
         "week_start": "2026-08-31",
         "count": 2,
-        "reach": 3
+        "reach": 4
       },
       {
         "week_start": "2026-09-07",
@@ -3180,8 +3392,8 @@
       },
       {
         "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -3392,6 +3604,206 @@
     ]
   },
   {
+    "id": "angus-burgin",
+    "name": "Angus Burgin",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Associate Professor of History at Johns Hopkins University",
+    "profile_url": "https://snfagora.jhu.edu/directory/angus-burgin/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": true,
+    "mentions_total": 3,
+    "mentions_in_digest": 3,
+    "reach_proxy": 3,
+    "first_mention_date": "2026-07-16",
+    "last_mention_date": "2026-09-14",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 2
+    },
+    "top_sources": [
+      {
+        "source": "Modern Intellectual History (Cambridge)",
+        "count": 1
+      },
+      {
+        "source": "Substack",
+        "count": 1
+      },
+      {
+        "source": "The Hub - Johns Hopkins University",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
+    "id": "dylan-selterman",
+    "name": "Dylan Selterman",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Associate Teaching Professor, Department of Psychological and Brain Sciences, Johns Hopkins University",
+    "profile_url": "https://snfagora.jhu.edu/directory/dylan-selterman/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 3,
+    "mentions_in_digest": 3,
+    "reach_proxy": 9,
+    "first_mention_date": "2026-07-17",
+    "last_mention_date": "2026-09-14",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "HuffPost",
+        "count": 1
+      },
+      {
+        "source": "The Hub - Johns Hopkins University",
+        "count": 1
+      },
+      {
+        "source": "YouTube",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 1,
+        "reach": 7
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "jenna-storey",
     "name": "Jenna Silber Storey",
     "kind": "faculty",
@@ -3583,104 +3995,6 @@
         "week_start": "2026-09-07",
         "count": 1,
         "reach": 1
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "leah-wright-rigueur",
-    "name": "Leah Wright Rigueur",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 3,
-    "mentions_in_digest": 2,
-    "reach_proxy": 7,
-    "first_mention_date": "2026-08-06",
-    "last_mention_date": "2026-09-02",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 1,
-      "negative": 0,
-      "unknown": 2
-    },
-    "top_sources": [
-      {
-        "source": "AlterNet (also MSN US, MSN NZ)",
-        "count": 1
-      },
-      {
-        "source": "Raw Story",
-        "count": 1
-      },
-      {
-        "source": "Twitter",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 1,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 2,
-        "reach": 4
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
       },
       {
         "week_start": "2026-09-14",
@@ -3882,6 +4196,206 @@
     ]
   },
   {
+    "id": "simon-halliday",
+    "name": "Simon Halliday",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Associate Research Professor and Associate Director at the Center for Economy and Society",
+    "profile_url": "https://snfagora.jhu.edu/directory/simon-halliday/",
+    "photo_url": null,
+    "categories": [
+      "Continuing Faculty + Fellows"
+    ],
+    "is_ces": true,
+    "mentions_total": 3,
+    "mentions_in_digest": 3,
+    "reach_proxy": 8,
+    "first_mention_date": "2026-07-15",
+    "last_mention_date": "2026-09-14",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "RealClearInvestigations",
+        "count": 1
+      },
+      {
+        "source": "The Hub - Johns Hopkins University",
+        "count": 1
+      },
+      {
+        "source": "WND",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 2,
+        "reach": 7
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
+    "id": "trevor-brown",
+    "name": "Trevor Brown",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Postdoctoral Fellow",
+    "profile_url": "https://snfagora.jhu.edu/directory/trevor-brown/",
+    "photo_url": null,
+    "categories": [
+      "Postdoctoral + Student Fellows"
+    ],
+    "is_ces": true,
+    "mentions_total": 3,
+    "mentions_in_digest": 0,
+    "reach_proxy": 7,
+    "first_mention_date": "2026-07-08",
+    "last_mention_date": "2026-09-14",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0,
+      "unknown": 2
+    },
+    "top_sources": [
+      {
+        "source": "Athleisure Mag",
+        "count": 1
+      },
+      {
+        "source": "Awards Radar",
+        "count": 1
+      },
+      {
+        "source": "Variety Australia",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 1,
+        "reach": 4
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 2
+      }
+    ]
+  },
+  {
     "id": "andre-nogueira",
     "name": "Andre Nogueira",
     "kind": "unmatched",
@@ -3943,102 +4457,6 @@
         "week_start": "2026-08-10",
         "count": 0,
         "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "angus-burgin",
-    "name": "Angus Burgin",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Associate Professor of History at Johns Hopkins University",
-    "profile_url": "https://snfagora.jhu.edu/directory/angus-burgin/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": true,
-    "mentions_total": 2,
-    "mentions_in_digest": 2,
-    "reach_proxy": 2,
-    "first_mention_date": "2026-07-16",
-    "last_mention_date": "2026-08-11",
-    "sentiment": {
-      "positive": 1,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 1
-    },
-    "top_sources": [
-      {
-        "source": "Modern Intellectual History (Cambridge)",
-        "count": 1
-      },
-      {
-        "source": "Substack",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 1,
-        "reach": 1
       },
       {
         "week_start": "2026-08-17",
@@ -4164,102 +4582,6 @@
     ]
   },
   {
-    "id": "dylan-selterman",
-    "name": "Dylan Selterman",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Associate Teaching Professor, Department of Psychological and Brain Sciences, Johns Hopkins University",
-    "profile_url": "https://snfagora.jhu.edu/directory/dylan-selterman/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 2,
-    "mentions_in_digest": 2,
-    "reach_proxy": 8,
-    "first_mention_date": "2026-07-17",
-    "last_mention_date": "2026-09-06",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 2,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [
-      {
-        "source": "HuffPost",
-        "count": 1
-      },
-      {
-        "source": "YouTube",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 1,
-        "reach": 7
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
     "id": "jeanne-marie-jackson",
     "name": "Jeanne-Marie Jackson",
     "kind": "faculty",
@@ -4352,6 +4674,102 @@
         "week_start": "2026-09-14",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "ling-chen",
+    "name": "Ling Chen",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "William L. Clayton Associate Professor at Johns Hopkins School of Advanced International Studies",
+    "profile_url": "https://snfagora.jhu.edu/directory/ling-chen/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 2,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-07-21",
+    "last_mention_date": "2026-09-14",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "FashionUnited",
+        "count": 1
+      },
+      {
+        "source": "Springer",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -4730,102 +5148,6 @@
     ]
   },
   {
-    "id": "simon-halliday",
-    "name": "Simon Halliday",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Associate Research Professor and Associate Director at the Center for Economy and Society",
-    "profile_url": "https://snfagora.jhu.edu/directory/simon-halliday/",
-    "photo_url": null,
-    "categories": [
-      "Continuing Faculty + Fellows"
-    ],
-    "is_ces": true,
-    "mentions_total": 2,
-    "mentions_in_digest": 2,
-    "reach_proxy": 7,
-    "first_mention_date": "2026-07-15",
-    "last_mention_date": "2026-07-19",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 2,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [
-      {
-        "source": "RealClearInvestigations",
-        "count": 1
-      },
-      {
-        "source": "WND",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 2,
-        "reach": 7
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
     "id": "thomas-cudjoe-m-d",
     "name": "Thomas Cudjoe",
     "kind": "faculty",
@@ -4913,102 +5235,6 @@
         "week_start": "2026-09-07",
         "count": 0,
         "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "trevor-brown",
-    "name": "Trevor Brown",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Postdoctoral Fellow",
-    "profile_url": "https://snfagora.jhu.edu/directory/trevor-brown/",
-    "photo_url": null,
-    "categories": [
-      "Postdoctoral + Student Fellows"
-    ],
-    "is_ces": true,
-    "mentions_total": 2,
-    "mentions_in_digest": 0,
-    "reach_proxy": 5,
-    "first_mention_date": "2026-07-08",
-    "last_mention_date": "2026-09-07",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 1,
-      "negative": 0,
-      "unknown": 1
-    },
-    "top_sources": [
-      {
-        "source": "Awards Radar",
-        "count": 1
-      },
-      {
-        "source": "Variety Australia",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 1,
-        "reach": 4
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 1,
-        "reach": 1
       },
       {
         "week_start": "2026-09-14",
@@ -7195,98 +7421,6 @@
         "week_start": "2026-09-07",
         "count": 1,
         "reach": 1
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "ling-chen",
-    "name": "Ling Chen",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "William L. Clayton Associate Professor at Johns Hopkins School of Advanced International Studies",
-    "profile_url": "https://snfagora.jhu.edu/directory/ling-chen/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 1,
-    "mentions_in_digest": 0,
-    "reach_proxy": 0,
-    "first_mention_date": "2026-07-21",
-    "last_mention_date": "2026-07-21",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 1,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [
-      {
-        "source": "FashionUnited",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
       },
       {
         "week_start": "2026-09-14",

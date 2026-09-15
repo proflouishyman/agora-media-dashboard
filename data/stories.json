@@ -1,7 +1,660 @@
 {
-  "generated_at": "2026-09-14T07:09:19-04:00",
-  "count": 601,
+  "generated_at": "2026-09-15T07:06:47-04:00",
+  "count": 632,
   "stories": [
+    {
+      "id": 623,
+      "date": "2026-09-15",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Modelos de IA especializados em biologia alimentam temor de nova corrida por armas biológicas",
+      "has_text": true,
+      "url": null,
+      "source": "Head Topics",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 620,
+      "date": "2026-09-15",
+      "week_start": "2026-09-14",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "SNF Agora Academy Postdoctoral Fellowship job posting",
+      "has_text": true,
+      "url": "https://bsky.app/profile/historyjobs.bsky.social/post/3mvjyzei4gw2k",
+      "source": "Bluesky",
+      "source_type": "social network",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "SNF Agora Academy Postdoctoral Fellowship job posting https://bsky.app/profile/historyjobs.bsky.social/post/3mvjyzei4gw2k",
+          "chars": 77
+        },
+        "bluesky": {
+          "text": "SNF Agora Academy Postdoctoral Fellowship job posting https://bsky.app/profile/historyjobs.bsky.social/post/3mvjyzei4gw2k",
+          "chars": 121
+        }
+      }
+    },
+    {
+      "id": 625,
+      "date": "2026-09-15",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Distinguished University Professor presentations set for Sept. 30",
+      "has_text": true,
+      "url": null,
+      "source": "MTRAC",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 624,
+      "date": "2026-09-15",
+      "week_start": "2026-09-14",
+      "person_id": "eliot-cohen",
+      "person": "Eliot Cohen",
+      "is_ces": false,
+      "title": "❖ À propos du 11 septembre - Ce que vous ne lirez pas dans les mainstream",
+      "has_text": true,
+      "url": null,
+      "source": "Substack",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 622,
+      "date": "2026-09-15",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 619,
+      "date": "2026-09-14",
+      "week_start": "2026-09-14",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "トランプ政権はもはや“泥棒政治”に！職権と立場を利用し巨万の富築く、驚くべき実態",
+      "has_text": true,
+      "url": "https://wedge.ismedia.jp/articles/-/41074",
+      "source": "WEDGE Infinity",
+      "source_type": "online news",
+      "similar_mention_count": 5,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "トランプ政権はもはや“泥棒政治”に！職権と立場を利用し巨万の富築く、驚くべき実態 https://wedge.ismedia.jp/articles/-/41074",
+          "chars": 64
+        },
+        "bluesky": {
+          "text": "トランプ政権はもはや“泥棒政治”に！職権と立場を利用し巨万の富築く、驚くべき実態 https://wedge.ismedia.jp/articles/-/41074",
+          "chars": 82
+        }
+      }
+    },
+    {
+      "id": 632,
+      "date": "2026-09-14",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "日月神示 二十八 / マドモアゼル・愛 (forum threads)",
+      "has_text": true,
+      "url": null,
+      "source": "Forums",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 628,
+      "date": "2026-09-14",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "The Top Women Leaders of Cleveland for 2026",
+      "has_text": true,
+      "url": null,
+      "source": "Women We Admire",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 626,
+      "date": "2026-09-14",
+      "week_start": "2026-09-14",
+      "person_id": "trevor-brown",
+      "person": "Trevor Brown",
+      "is_ces": true,
+      "title": "AWARDS SEASON | PRIMETIME EMMYS WINNERS",
+      "has_text": true,
+      "url": null,
+      "source": "Athleisure Mag",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 618,
+      "date": "2026-09-14",
+      "week_start": "2026-09-14",
+      "person_id": "louis-hyman",
+      "person": "Louis Hyman",
+      "is_ces": true,
+      "title": "We don't own anything anymore",
+      "has_text": true,
+      "url": "https://www.marketplace.org/story/2026/09/14/do-we-even-own-anything-anymore",
+      "source": "Marketplace",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "We don't own anything anymore https://www.marketplace.org/story/2026/09/14/do-we-even-own-anything-anymore",
+          "chars": 53
+        },
+        "bluesky": {
+          "text": "We don't own anything anymore https://www.marketplace.org/story/2026/09/14/do-we-even-own-anything-anymore",
+          "chars": 106
+        }
+      }
+    },
+    {
+      "id": 638,
+      "date": "2026-09-14",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "EUA vivem um 'dilema do prisioneiro' com a China na IA e optam pela inércia na regulação",
+      "has_text": true,
+      "url": null,
+      "source": "O Globo",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 637,
+      "date": "2026-09-14",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Seu CNPJ também pode votar? Nos EUA, já pode!",
+      "has_text": true,
+      "url": null,
+      "source": "Substack",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 636,
+      "date": "2026-09-14",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Os segredos que seus cabelos guardam",
+      "has_text": true,
+      "url": null,
+      "source": "Onorte",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 635,
+      "date": "2026-09-14",
+      "week_start": "2026-09-14",
+      "person_id": "ling-chen",
+      "person": "Ling Chen",
+      "is_ces": false,
+      "title": "Thoracic compensation after pediatric lumbar spinal fusion: adaptations in the sagittal plane",
+      "has_text": true,
+      "url": null,
+      "source": "Springer",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 634,
+      "date": "2026-09-14",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Time-restricted eating provides modest weight loss benefits for adults with obesity and prediabetes",
+      "has_text": true,
+      "url": null,
+      "source": "Medical Xpress",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 633,
+      "date": "2026-09-14",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Nationwide safety program associated with 65% reduction in hospital-onset MRSA bloodstream infections",
+      "has_text": true,
+      "url": null,
+      "source": "Medical Xpress",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 631,
+      "date": "2026-09-14",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Caltech’s new president is a couple months into the job — here’s what you should know about him",
+      "has_text": true,
+      "url": null,
+      "source": "LAist",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 630,
+      "date": "2026-09-14",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "WVU President and Provost outline priorities at State of the University Address",
+      "has_text": true,
+      "url": null,
+      "source": "WV News",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 629,
+      "date": "2026-09-14",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Emmy Awards 2026 | Jean Smart leva o prêmio de Melhor Atriz em Série de Comédia por ‘Hacks’",
+      "has_text": true,
+      "url": null,
+      "source": "CinePOP",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 627,
+      "date": "2026-09-14",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Normative alignment in academic engagement: industry experience as gateway to government collaboration",
+      "has_text": true,
+      "url": null,
+      "source": "Springer",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 621,
+      "date": "2026-09-14",
+      "week_start": "2026-09-14",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "SNF Agora / Center for Economy and Society hiring GSIDI Executive Director",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7505316722216771584",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "SNF Agora / Center for Economy and Society hiring GSIDI Executive Director https://www.linkedin.com/feed/update/urn:li:share:7505316722216771584",
+          "chars": 98
+        },
+        "bluesky": {
+          "text": "SNF Agora / Center for Economy and Society hiring GSIDI Executive Director https://www.linkedin.com/feed/update/urn:li:share:7505316722216771584",
+          "chars": 144
+        }
+      }
+    },
+    {
+      "id": 617,
+      "date": "2026-09-14",
+      "week_start": "2026-09-14",
+      "person_id": "simon-halliday",
+      "person": "Simon Halliday",
+      "is_ces": true,
+      "title": "Democracy Day asks new students: How will you contribute to the hard work of democracy?",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+      "source": "The Hub - Johns Hopkins University",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Democracy Day asks new students: How will you contribute to the hard work of democracy? https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+          "chars": 111
+        },
+        "bluesky": {
+          "text": "Democracy Day asks new students: How will you contribute to the hard work of democracy? https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+          "chars": 164
+        }
+      }
+    },
+    {
+      "id": 616,
+      "date": "2026-09-14",
+      "week_start": "2026-09-14",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "Democracy Day asks new students: How will you contribute to the hard work of democracy?",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+      "source": "The Hub - Johns Hopkins University",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Democracy Day asks new students: How will you contribute to the hard work of democracy? https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+          "chars": 111
+        },
+        "bluesky": {
+          "text": "Democracy Day asks new students: How will you contribute to the hard work of democracy? https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+          "chars": 164
+        }
+      }
+    },
+    {
+      "id": 615,
+      "date": "2026-09-14",
+      "week_start": "2026-09-14",
+      "person_id": "angus-burgin",
+      "person": "Angus Burgin",
+      "is_ces": true,
+      "title": "Democracy Day asks new students: How will you contribute to the hard work of democracy?",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+      "source": "The Hub - Johns Hopkins University",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Democracy Day asks new students: How will you contribute to the hard work of democracy? https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+          "chars": 111
+        },
+        "bluesky": {
+          "text": "Democracy Day asks new students: How will you contribute to the hard work of democracy? https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+          "chars": 164
+        }
+      }
+    },
+    {
+      "id": 614,
+      "date": "2026-09-14",
+      "week_start": "2026-09-14",
+      "person_id": "dylan-selterman",
+      "person": "Dylan Selterman",
+      "is_ces": false,
+      "title": "Democracy Day asks new students: How will you contribute to the hard work of democracy?",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+      "source": "The Hub - Johns Hopkins University",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Democracy Day asks new students: How will you contribute to the hard work of democracy? https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+          "chars": 111
+        },
+        "bluesky": {
+          "text": "Democracy Day asks new students: How will you contribute to the hard work of democracy? https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+          "chars": 164
+        }
+      }
+    },
+    {
+      "id": 613,
+      "date": "2026-09-14",
+      "week_start": "2026-09-14",
+      "person_id": "amy-binder",
+      "person": "Amy Binder",
+      "is_ces": false,
+      "title": "Democracy Day asks new students: How will you contribute to the hard work of democracy?",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+      "source": "The Hub - Johns Hopkins University",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Democracy Day asks new students: How will you contribute to the hard work of democracy? https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+          "chars": 111
+        },
+        "bluesky": {
+          "text": "Democracy Day asks new students: How will you contribute to the hard work of democracy? https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+          "chars": 164
+        }
+      }
+    },
+    {
+      "id": 612,
+      "date": "2026-09-14",
+      "week_start": "2026-09-14",
+      "person_id": "yuen-yuen-ang",
+      "person": "Yuen Yuen Ang",
+      "is_ces": true,
+      "title": "Democracy Day asks new students: How will you contribute to the hard work of democracy?",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+      "source": "The Hub - Johns Hopkins University",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Democracy Day asks new students: How will you contribute to the hard work of democracy? https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+          "chars": 111
+        },
+        "bluesky": {
+          "text": "Democracy Day asks new students: How will you contribute to the hard work of democracy? https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+          "chars": 164
+        }
+      }
+    },
+    {
+      "id": 611,
+      "date": "2026-09-14",
+      "week_start": "2026-09-14",
+      "person_id": "leah-wright-rigueur",
+      "person": "Leah Wright Rigueur",
+      "is_ces": false,
+      "title": "Democracy Day asks new students: How will you contribute to the hard work of democracy?",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+      "source": "The Hub - Johns Hopkins University",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Democracy Day asks new students: How will you contribute to the hard work of democracy? https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+          "chars": 111
+        },
+        "bluesky": {
+          "text": "Democracy Day asks new students: How will you contribute to the hard work of democracy? https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+          "chars": 164
+        }
+      }
+    },
+    {
+      "id": 610,
+      "date": "2026-09-14",
+      "week_start": "2026-09-14",
+      "person_id": "peter-pomerantsev",
+      "person": "Peter Pomerantsev",
+      "is_ces": false,
+      "title": "Democracy Day asks new students: How will you contribute to the hard work of democracy?",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+      "source": "The Hub - Johns Hopkins University",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Democracy Day asks new students: How will you contribute to the hard work of democracy? https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+          "chars": 111
+        },
+        "bluesky": {
+          "text": "Democracy Day asks new students: How will you contribute to the hard work of democracy? https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+          "chars": 164
+        }
+      }
+    },
+    {
+      "id": 609,
+      "date": "2026-09-14",
+      "week_start": "2026-09-14",
+      "person_id": "scott-warren",
+      "person": "Scott Warren",
+      "is_ces": false,
+      "title": "Democracy Day asks new students: How will you contribute to the hard work of democracy?",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+      "source": "The Hub - Johns Hopkins University",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Democracy Day asks new students: How will you contribute to the hard work of democracy? https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+          "chars": 111
+        },
+        "bluesky": {
+          "text": "Democracy Day asks new students: How will you contribute to the hard work of democracy? https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+          "chars": 164
+        }
+      }
+    },
+    {
+      "id": 608,
+      "date": "2026-09-14",
+      "week_start": "2026-09-14",
+      "person_id": "ruth-braunstein",
+      "person": "Ruth Braunstein",
+      "is_ces": false,
+      "title": "Democracy Day asks new students: How will you contribute to the hard work of democracy?",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+      "source": "The Hub - Johns Hopkins University",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Democracy Day asks new students: How will you contribute to the hard work of democracy? https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+          "chars": 111
+        },
+        "bluesky": {
+          "text": "Democracy Day asks new students: How will you contribute to the hard work of democracy? https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+          "chars": 164
+        }
+      }
+    },
     {
       "id": 587,
       "date": "2026-09-14",

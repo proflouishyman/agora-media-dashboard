@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-14T07:09:19-04:00",
-  "count": 52,
+  "generated_at": "2026-09-15T07:06:47-04:00",
+  "count": 53,
   "picks": [
+    {
+      "id": 70,
+      "mention_id": 608,
+      "digest_date": "2026-09-14",
+      "person": "Ruth Braunstein",
+      "person_id": "ruth-braunstein",
+      "person_ids": [
+        "ruth-braunstein"
+      ],
+      "is_ces": false,
+      "punchy_title": "SNF Agora's new director has one question for 1,600 new students",
+      "headline": "SNF Agora's new director has one question for 1,600 new students",
+      "pull_quote": "Democracy isn't just something that happens in federal buildings or on election day; it's found in the everyday work of building a common life together across our differences.",
+      "rationale": "Democracy isn't just something that happens in federal buildings or on election day; it's found in the everyday work of building a common life together across our differences.",
+      "url": "https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+      "story_url": "https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+      "created_at": "2026-09-15 11:06:34",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Nearly 1,600 new Hopkins students got one question at Democracy Day: how will you contribute to the hard work of democracy? SNF Agora director Ruth Braunstein on why it is built in everyday life. https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+          "chars": 272,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Nearly%201%2C600%20new%20Hopkins%20students%20got%20one%20question%20at%20Democracy%20Day%3A%20how%20will%20you%20contribute%20to%20the%20hard%20work%20of%20democracy%3F%20SNF%20Agora%20director%20Ruth%20Braunstein%20on%20why%20it%20is%20built%20in%20everyday%20life.%20https%3A//hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "1,600 new Hopkins students got one question at Democracy Day: how will you contribute to the hard work of democracy? SNF Agora director Ruth Braunstein on why democracy is built in everyday life, not on election day. https://hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/",
+          "chars": 293,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=1%2C600%20new%20Hopkins%20students%20got%20one%20question%20at%20Democracy%20Day%3A%20how%20will%20you%20contribute%20to%20the%20hard%20work%20of%20democracy%3F%20SNF%20Agora%20director%20Ruth%20Braunstein%20on%20why%20democracy%20is%20built%20in%20everyday%20life%2C%20not%20on%20election%20day.%20https%3A//hub.jhu.edu/2026/09/14/johns-hopkins-democracy-day-orientation-2026/"
+        }
+      ]
+    },
     {
       "id": 69,
       "mention_id": 580,
