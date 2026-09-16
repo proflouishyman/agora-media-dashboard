@@ -1,7 +1,336 @@
 {
-  "generated_at": "2026-09-15T07:06:47-04:00",
-  "count": 632,
+  "generated_at": "2026-09-16T09:03:32-04:00",
+  "count": 658,
   "stories": [
+    {
+      "id": 647,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Harvard, Stanford, Yale under scanner: Trump expands fight against elite colleges with focus on 'the diversity problem'",
+      "has_text": true,
+      "url": "https://economictimes.indiatimes.com/nri/latest-updates/harvard-stanford-yale-under-scanner-trump-expands-fight-against-elite-colleges-with-focus-on-the-diversity-problem/articleshow/134286927.cms",
+      "source": "The Economic Times",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Harvard, Stanford, Yale under scanner: Trump expands fight against elite colleges with focus on 'the diversity problem' https://economictimes.indiatimes.com/nri/latest-updates/harvard-stanford-yale-under-scanner-trump-expands-fight-against-elite-colleges-with-focus-on-the-diversity-problem/articleshow/134286927.cms",
+          "chars": 143
+        },
+        "bluesky": {
+          "text": "Harvard, Stanford, Yale under scanner: Trump expands fight against elite colleges with focus on 'the … https://economictimes.indiatimes.com/nri/latest-updates/harvard-stanford-yale-under-scanner-trump-expands-fight-against-elite-colleges-with-focus-on-the-diversity-problem/articleshow/134286927.cms",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 649,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "For Trump, Jews Are Proving to Be a Very Useful Tool",
+      "has_text": true,
+      "url": "https://www.nytimes.com/2026/09/16/opinion/trump-antisemitism-israel-civil-rights.html",
+      "source": "The New York Times",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "For Trump, Jews Are Proving to Be a Very Useful Tool https://www.nytimes.com/2026/09/16/opinion/trump-antisemitism-israel-civil-rights.html",
+          "chars": 76
+        },
+        "bluesky": {
+          "text": "For Trump, Jews Are Proving to Be a Very Useful Tool https://www.nytimes.com/2026/09/16/opinion/trump-antisemitism-israel-civil-rights.html",
+          "chars": 139
+        }
+      }
+    },
+    {
+      "id": 648,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Diabetes Care Editors Halt Manuscript Reviews as Boycott of the American Diabetes Association Escalates Over June Ejections",
+      "has_text": true,
+      "url": "https://www.medicaldaily.com/american-diabetes-association-boycott-diabetes-care-journal-editors-478700",
+      "source": "Medical Daily",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Diabetes Care Editors Halt Manuscript Reviews as Boycott of the American Diabetes Association Escalates Over June Ejections https://www.medicaldaily.com/american-diabetes-association-boycott-diabetes-care-journal-editors-478700",
+          "chars": 147
+        },
+        "bluesky": {
+          "text": "Diabetes Care Editors Halt Manuscript Reviews as Boycott of the American Diabetes Association Escalates Over June Ejections https://www.medicaldaily.com/american-diabetes-association-boycott-diabetes-care-journal-editors-478700",
+          "chars": 227
+        }
+      }
+    },
+    {
+      "id": 664,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Kleptocracy Tracker",
+      "has_text": true,
+      "url": "https://www.bespacific.com/kleptocracy-tracker/",
+      "source": "bespacific.com",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Kleptocracy Tracker https://www.bespacific.com/kleptocracy-tracker/",
+          "chars": 43
+        },
+        "bluesky": {
+          "text": "Kleptocracy Tracker https://www.bespacific.com/kleptocracy-tracker/",
+          "chars": 67
+        }
+      }
+    },
+    {
+      "id": 663,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 658,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "O NYT ajuda a CIA a ocultar a verdadeira dimensão das falhas de inteligência do 11 de setembro.",
+      "has_text": true,
+      "url": "https://alemdarena.blogspot.com/2026/09/o-nyt-ajuda-cia-ocultar-verdadeira.html",
+      "source": "além d'arena",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "O NYT ajuda a CIA a ocultar a verdadeira dimensão das falhas de inteligência do 11 de setembro. https://alemdarena.blogspot.com/2026/09/o-nyt-ajuda-cia-ocultar-verdadeira.html",
+          "chars": 119
+        },
+        "bluesky": {
+          "text": "O NYT ajuda a CIA a ocultar a verdadeira dimensão das falhas de inteligência do 11 de setembro. https://alemdarena.blogspot.com/2026/09/o-nyt-ajuda-cia-ocultar-verdadeira.html",
+          "chars": 175
+        }
+      }
+    },
+    {
+      "id": 651,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Real value + our investment in you = your success",
+      "has_text": true,
+      "url": "https://www.austincollege.edu/explore/in-outcomes",
+      "source": "Austin College",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Real value + our investment in you = your success https://www.austincollege.edu/explore/in-outcomes",
+          "chars": 73
+        },
+        "bluesky": {
+          "text": "Real value + our investment in you = your success https://www.austincollege.edu/explore/in-outcomes",
+          "chars": 99
+        }
+      }
+    },
+    {
+      "id": 650,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Leveraging the Untapped Potential of Research Conversations",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s10755-026-09956-8",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Leveraging the Untapped Potential of Research Conversations https://link.springer.com/article/10.1007/s10755-026-09956-8",
+          "chars": 83
+        },
+        "bluesky": {
+          "text": "Leveraging the Untapped Potential of Research Conversations https://link.springer.com/article/10.1007/s10755-026-09956-8",
+          "chars": 120
+        }
+      }
+    },
+    {
+      "id": 661,
+      "date": "2026-09-15",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Anthony Hopkins, Colin Farrell e Angelina Jolie em épico de Oliver Stone, na Netflix",
+      "has_text": true,
+      "url": "https://www.revistabula.com/167917-anthony-hopkins-colin-farrell-e-angelina-jolie-em-epico-de-oliver-stone-na-netflix/",
+      "source": "Revista Bula",
+      "source_type": "blog",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Anthony Hopkins, Colin Farrell e Angelina Jolie em épico de Oliver Stone, na Netflix https://www.revistabula.com/167917-anthony-hopkins-colin-farrell-e-angelina-jolie-em-epico-de-oliver-stone-na-netflix/",
+          "chars": 108
+        },
+        "bluesky": {
+          "text": "Anthony Hopkins, Colin Farrell e Angelina Jolie em épico de Oliver Stone, na Netflix https://www.revistabula.com/167917-anthony-hopkins-colin-farrell-e-angelina-jolie-em-epico-de-oliver-stone-na-netflix/",
+          "chars": 203
+        }
+      }
+    },
+    {
+      "id": 660,
+      "date": "2026-09-15",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Avanço da IA aumenta preocupação sobre uso de tecnologia na criação de armas biológicas",
+      "has_text": true,
+      "url": "https://c-level.folha.uol.com.br/ia/2026/09/avanco-da-ia-aumenta-preocupacao-sobre-uso-de-tecnologia-na-criacao-de-armas-biologicas.shtml",
+      "source": "Tudo   um pouco",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Avanço da IA aumenta preocupação sobre uso de tecnologia na criação de armas biológicas https://c-level.folha.uol.com.br/ia/2026/09/avanco-da-ia-aumenta-preocupacao-sobre-uso-de-tecnologia-na-criacao-de-armas-biologicas.shtml",
+          "chars": 111
+        },
+        "bluesky": {
+          "text": "Avanço da IA aumenta preocupação sobre uso de tecnologia na criação de armas biológicas https://c-level.folha.uol.com.br/ia/2026/09/avanco-da-ia-aumenta-preocupacao-sobre-uso-de-tecnologia-na-criacao-de-armas-biologicas.shtml",
+          "chars": 225
+        }
+      }
+    },
+    {
+      "id": 655,
+      "date": "2026-09-15",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Seattle Mayor Katie Wilson unveils plan to curb gun violence",
+      "has_text": true,
+      "url": "https://www.yahoo.com/news/us/articles/seattle-mayor-katie-wilson-unveils-141437846.html",
+      "source": "Yahoo! News",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Seattle Mayor Katie Wilson unveils plan to curb gun violence https://www.yahoo.com/news/us/articles/seattle-mayor-katie-wilson-unveils-141437846.html",
+          "chars": 84
+        },
+        "bluesky": {
+          "text": "Seattle Mayor Katie Wilson unveils plan to curb gun violence https://www.yahoo.com/news/us/articles/seattle-mayor-katie-wilson-unveils-141437846.html",
+          "chars": 149
+        }
+      }
+    },
+    {
+      "id": 644,
+      "date": "2026-09-15",
+      "week_start": "2026-09-14",
+      "person_id": "eugene-scott",
+      "person": "Eugene Scott",
+      "is_ces": false,
+      "title": "Dems vow not to mail it in on election security",
+      "has_text": true,
+      "url": "https://www.politico.com/newsletters/playbook-pm/2026/09/15/dems-vow-not-to-mail-it-in-on-election-security-01077589",
+      "source": "POLITICO",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Dems vow not to mail it in on election security https://www.politico.com/newsletters/playbook-pm/2026/09/15/dems-vow-not-to-mail-it-in-on-election-security-01077589",
+          "chars": 71
+        },
+        "bluesky": {
+          "text": "Dems vow not to mail it in on election security https://www.politico.com/newsletters/playbook-pm/2026/09/15/dems-vow-not-to-mail-it-in-on-election-security-01077589",
+          "chars": 164
+        }
+      }
+    },
+    {
+      "id": 640,
+      "date": "2026-09-15",
+      "week_start": "2026-09-14",
+      "person_id": "eugene-scott",
+      "person": "Eugene Scott",
+      "is_ces": false,
+      "title": "Dems vow not to mail it in on election security",
+      "has_text": true,
+      "url": "https://www.politico.com/newsletters/playbook-pm/2026/09/15/dems-vow-not-to-mail-it-in-on-election-security-01077589",
+      "source": "POLITICO",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Dems vow not to mail it in on election security https://www.politico.com/newsletters/playbook-pm/2026/09/15/dems-vow-not-to-mail-it-in-on-election-security-01077589",
+          "chars": 71
+        },
+        "bluesky": {
+          "text": "Dems vow not to mail it in on election security https://www.politico.com/newsletters/playbook-pm/2026/09/15/dems-vow-not-to-mail-it-in-on-election-security-01077589",
+          "chars": 164
+        }
+      }
+    },
     {
       "id": 623,
       "date": "2026-09-15",
@@ -42,6 +371,344 @@
         "bluesky": {
           "text": "SNF Agora Academy Postdoctoral Fellowship job posting https://bsky.app/profile/historyjobs.bsky.social/post/3mvjyzei4gw2k",
           "chars": 121
+        }
+      }
+    },
+    {
+      "id": 662,
+      "date": "2026-09-15",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Avanço da China em IA reduz vantagem dos EUA e reacende debate global sobre riscos",
+      "has_text": true,
+      "url": "https://www.broadcast.com.br/ultimas-noticias/avanco-da-china-em-ia-reduz-vantagem-dos-eua-e-reacende-debate-global-sobre-riscos/",
+      "source": "Broadcast",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Avanço da China em IA reduz vantagem dos EUA e reacende debate global sobre riscos https://www.broadcast.com.br/ultimas-noticias/avanco-da-china-em-ia-reduz-vantagem-dos-eua-e-reacende-debate-global-sobre-riscos/",
+          "chars": 106
+        },
+        "bluesky": {
+          "text": "Avanço da China em IA reduz vantagem dos EUA e reacende debate global sobre riscos https://www.broadcast.com.br/ultimas-noticias/avanco-da-china-em-ia-reduz-vantagem-dos-eua-e-reacende-debate-global-sobre-riscos/",
+          "chars": 212
+        }
+      }
+    },
+    {
+      "id": 659,
+      "date": "2026-09-15",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "O candidato Redford fronte a Nixon, o regreso de Hannibal Lecter e o longo Hamlet de Branagh",
+      "has_text": true,
+      "url": "https://galego.lavozdegalicia.es/noticia/television/2026/09/15/candidato-reford-frente-nixon-regreso-hannibal-lecker-largo-hamlet-branagh/00031789492221069376407.htm",
+      "source": "La Voz de Galicia",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "O candidato Redford fronte a Nixon, o regreso de Hannibal Lecter e o longo Hamlet de Branagh https://galego.lavozdegalicia.es/noticia/television/2026/09/15/candidato-reford-frente-nixon-regreso-hannibal-lecker-largo-hamlet-branagh/00031789492221069376407.htm",
+          "chars": 116
+        },
+        "bluesky": {
+          "text": "O candidato Redford fronte a Nixon, o regreso de Hannibal Lecter e o longo Hamlet de Branagh https://galego.lavozdegalicia.es/noticia/television/2026/09/15/candidato-reford-frente-nixon-regreso-hannibal-lecker-largo-hamlet-branagh/00031789492221069376407.htm",
+          "chars": 258
+        }
+      }
+    },
+    {
+      "id": 657,
+      "date": "2026-09-15",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Reed Pyeritz, Medicine",
+      "has_text": true,
+      "url": "https://almanac.upenn.edu/articles/reed-pyeritz-medicine",
+      "source": "The University of Pennsylvania Almanac",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Reed Pyeritz, Medicine https://almanac.upenn.edu/articles/reed-pyeritz-medicine",
+          "chars": 46
+        },
+        "bluesky": {
+          "text": "Reed Pyeritz, Medicine https://almanac.upenn.edu/articles/reed-pyeritz-medicine",
+          "chars": 79
+        }
+      }
+    },
+    {
+      "id": 656,
+      "date": "2026-09-15",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Where Herbaria Have Taken Me: Through Space",
+      "has_text": true,
+      "url": "https://herbariumworld.wordpress.com/2026/09/15/where-herbaria-have-taken-me-through-space/",
+      "source": "wordpress.com",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Where Herbaria Have Taken Me: Through Space https://herbariumworld.wordpress.com/2026/09/15/where-herbaria-have-taken-me-through-space/",
+          "chars": 67
+        },
+        "bluesky": {
+          "text": "Where Herbaria Have Taken Me: Through Space https://herbariumworld.wordpress.com/2026/09/15/where-herbaria-have-taken-me-through-space/",
+          "chars": 135
+        }
+      }
+    },
+    {
+      "id": 654,
+      "date": "2026-09-15",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Federal Judge Blocks Trump’s 4-Year Visa Cap Hours Before It Was Set To Take Effect",
+      "has_text": true,
+      "url": "https://poetsandquants.com/2026/09/15/federal-judge-blocks-trumps-4-year-visa-cap-hours-before-it-was-set-to-take-effect/?pq-category=news",
+      "source": "Poets&Quants",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Federal Judge Blocks Trump’s 4-Year Visa Cap Hours Before It Was Set To Take Effect https://poetsandquants.com/2026/09/15/federal-judge-blocks-trumps-4-year-visa-cap-hours-before-it-was-set-to-take-effect/?pq-category=news",
+          "chars": 107
+        },
+        "bluesky": {
+          "text": "Federal Judge Blocks Trump’s 4-Year Visa Cap Hours Before It Was Set To Take Effect https://poetsandquants.com/2026/09/15/federal-judge-blocks-trumps-4-year-visa-cap-hours-before-it-was-set-to-take-effect/?pq-category=news",
+          "chars": 222
+        }
+      }
+    },
+    {
+      "id": 653,
+      "date": "2026-09-15",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "$225 million for America’s children: Tom Golisano’s latest landmark commitment lifts his lifetime giving beyond $1 billion",
+      "has_text": true,
+      "url": "https://lifestylesmagazine.com/latest-news/225-million-for-americas-children-tom-golisanos-latest-landmark-commitment-lifts-his-lifetime-giving-beyond-1-billion/",
+      "source": "Lifestyles Magazine",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "$225 million for America’s children: Tom Golisano’s latest landmark commitment lifts his lifetime giving beyond $1 billion https://lifestylesmagazine.com/latest-news/225-million-for-americas-children-tom-golisanos-latest-landmark-commitment-lifts-his-lifetime-giving-beyond-1-billion/",
+          "chars": 146
+        },
+        "bluesky": {
+          "text": "$225 million for America’s children: Tom Golisano’s latest landmark commitment lifts his lifetime giving beyond $1 billion https://lifestylesmagazine.com/latest-news/225-million-for-americas-children-tom-golisanos-latest-landmark-commitment-lifts-his-lifetime-giving-beyond-1-billion/",
+          "chars": 284
+        }
+      }
+    },
+    {
+      "id": 652,
+      "date": "2026-09-15",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "The Three Pillars of a New Era",
+      "has_text": true,
+      "url": "https://democracyjournal.org/magazine/82/the-three-pillars-of-a-new-era/",
+      "source": "The Democracy: A Journal of Ideas",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Three Pillars of a New Era https://democracyjournal.org/magazine/82/the-three-pillars-of-a-new-era/",
+          "chars": 54
+        },
+        "bluesky": {
+          "text": "The Three Pillars of a New Era https://democracyjournal.org/magazine/82/the-three-pillars-of-a-new-era/",
+          "chars": 103
+        }
+      }
+    },
+    {
+      "id": 646,
+      "date": "2026-09-15",
+      "week_start": "2026-09-14",
+      "person_id": "amy-binder",
+      "person": "Amy Binder",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7505700313526509568",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": " https://www.linkedin.com/feed/update/urn:li:share:7505700313526509568",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://www.linkedin.com/feed/update/urn:li:share:7505700313526509568",
+          "chars": 70
+        }
+      }
+    },
+    {
+      "id": 645,
+      "date": "2026-09-15",
+      "week_start": "2026-09-14",
+      "person_id": "jenna-storey",
+      "person": "Jenna Silber Storey",
+      "is_ces": false,
+      "title": "What's New In Civics For 2026? | Hoover Institution",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=w2iCRJwu2dE",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "What's New In Civics For 2026? | Hoover Institution https://www.youtube.com/watch?v=w2iCRJwu2dE",
+          "chars": 75
+        },
+        "bluesky": {
+          "text": "What's New In Civics For 2026? | Hoover Institution https://www.youtube.com/watch?v=w2iCRJwu2dE",
+          "chars": 95
+        }
+      }
+    },
+    {
+      "id": 643,
+      "date": "2026-09-15",
+      "week_start": "2026-09-14",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Empire of Grift",
+      "has_text": true,
+      "url": "https://anneapplebaum.substack.com/p/empire-of-grift",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Empire of Grift https://anneapplebaum.substack.com/p/empire-of-grift",
+          "chars": 39
+        },
+        "bluesky": {
+          "text": "Empire of Grift https://anneapplebaum.substack.com/p/empire-of-grift",
+          "chars": 68
+        }
+      }
+    },
+    {
+      "id": 642,
+      "date": "2026-09-15",
+      "week_start": "2026-09-14",
+      "person_id": "amy-binder",
+      "person": "Amy Binder",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7505700313526509568",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": " https://www.linkedin.com/feed/update/urn:li:share:7505700313526509568",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://www.linkedin.com/feed/update/urn:li:share:7505700313526509568",
+          "chars": 70
+        }
+      }
+    },
+    {
+      "id": 641,
+      "date": "2026-09-15",
+      "week_start": "2026-09-14",
+      "person_id": "jenna-storey",
+      "person": "Jenna Silber Storey",
+      "is_ces": false,
+      "title": "What's New In Civics For 2026? | Hoover Institution",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=w2iCRJwu2dE",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "What's New In Civics For 2026? | Hoover Institution https://www.youtube.com/watch?v=w2iCRJwu2dE",
+          "chars": 75
+        },
+        "bluesky": {
+          "text": "What's New In Civics For 2026? | Hoover Institution https://www.youtube.com/watch?v=w2iCRJwu2dE",
+          "chars": 95
+        }
+      }
+    },
+    {
+      "id": 639,
+      "date": "2026-09-15",
+      "week_start": "2026-09-14",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Empire of Grift",
+      "has_text": true,
+      "url": "https://anneapplebaum.substack.com/p/empire-of-grift",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Empire of Grift https://anneapplebaum.substack.com/p/empire-of-grift",
+          "chars": 39
+        },
+        "bluesky": {
+          "text": "Empire of Grift https://anneapplebaum.substack.com/p/empire-of-grift",
+          "chars": 68
         }
       }
     },

@@ -117,16 +117,16 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 49,
-    "mentions_in_digest": 25,
-    "reach_proxy": 291,
+    "mentions_total": 52,
+    "mentions_in_digest": 28,
+    "reach_proxy": 294,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-09-14",
+    "last_mention_date": "2026-09-16",
     "sentiment": {
       "positive": 8,
       "neutral": 12,
       "negative": 5,
-      "unknown": 24
+      "unknown": 27
     },
     "top_sources": [
       {
@@ -135,7 +135,7 @@
       },
       {
         "source": "Substack",
-        "count": 5
+        "count": 7
       },
       {
         "source": "YouTube",
@@ -208,8 +208,8 @@
       },
       {
         "week_start": "2026-09-14",
-        "count": 1,
-        "reach": 1
+        "count": 4,
+        "reach": 4
       }
     ]
   },
@@ -532,6 +532,112 @@
         "week_start": "2026-09-14",
         "count": 1,
         "reach": 1
+      }
+    ]
+  },
+  {
+    "id": "unknown",
+    "name": "unknown",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 31,
+    "mentions_in_digest": 0,
+    "reach_proxy": 41,
+    "first_mention_date": "2026-09-14",
+    "last_mention_date": "2026-09-16",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 31
+    },
+    "top_sources": [
+      {
+        "source": "Medical Xpress",
+        "count": 2
+      },
+      {
+        "source": "Springer",
+        "count": 2
+      },
+      {
+        "source": "Twitter",
+        "count": 2
+      },
+      {
+        "source": "Austin College",
+        "count": 1
+      },
+      {
+        "source": "Broadcast",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 31,
+        "reach": 41
       }
     ]
   },
@@ -1494,112 +1600,6 @@
     ]
   },
   {
-    "id": "unknown",
-    "name": "unknown",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 14,
-    "mentions_in_digest": 0,
-    "reach_proxy": 17,
-    "first_mention_date": "2026-09-14",
-    "last_mention_date": "2026-09-15",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 14
-    },
-    "top_sources": [
-      {
-        "source": "Medical Xpress",
-        "count": 2
-      },
-      {
-        "source": "CinePOP",
-        "count": 1
-      },
-      {
-        "source": "Forums",
-        "count": 1
-      },
-      {
-        "source": "Head Topics",
-        "count": 1
-      },
-      {
-        "source": "LAist",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 14,
-        "reach": 17
-      }
-    ]
-  },
-  {
     "id": "martha-s-jones",
     "name": "Martha S. Jones",
     "kind": "faculty",
@@ -1920,6 +1920,114 @@
         "week_start": "2026-09-14",
         "count": 1,
         "reach": 1
+      }
+    ]
+  },
+  {
+    "id": "eugene-scott",
+    "name": "Eugene Scott",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Visiting Fellow, AY25-26",
+    "profile_url": "https://snfagora.jhu.edu/directory/eugene-scott/",
+    "photo_url": "images/people/eugene-scott.jpg",
+    "categories": [
+      "Visiting Fellows"
+    ],
+    "is_ces": false,
+    "mentions_total": 9,
+    "mentions_in_digest": 7,
+    "reach_proxy": 12,
+    "first_mention_date": "2026-07-13",
+    "last_mention_date": "2026-09-15",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0,
+      "unknown": 4
+    },
+    "top_sources": [
+      {
+        "source": "POLITICO",
+        "count": 2
+      },
+      {
+        "source": "The Boston Globe",
+        "count": 2
+      },
+      {
+        "source": "Bluesky",
+        "count": 1
+      },
+      {
+        "source": "Hub - Johns Hopkins University",
+        "count": 1
+      },
+      {
+        "source": "Twitter",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 4,
+        "reach": 4
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 1,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 2,
+        "reach": 4
       }
     ]
   },
@@ -2246,47 +2354,47 @@
     ]
   },
   {
-    "id": "eugene-scott",
-    "name": "Eugene Scott",
+    "id": "amy-binder",
+    "name": "Amy Binder",
     "kind": "faculty",
     "tracked": true,
-    "title": "SNF Agora Visiting Fellow, AY25-26",
-    "profile_url": "https://snfagora.jhu.edu/directory/eugene-scott/",
-    "photo_url": "images/people/eugene-scott.jpg",
+    "title": "SNF Agora Institute Professor of Sociology",
+    "profile_url": "https://snfagora.jhu.edu/directory/amy-binder/",
+    "photo_url": null,
     "categories": [
-      "Visiting Fellows"
+      "Core Faculty"
     ],
     "is_ces": false,
     "mentions_total": 7,
-    "mentions_in_digest": 5,
-    "reach_proxy": 8,
-    "first_mention_date": "2026-07-13",
-    "last_mention_date": "2026-09-04",
+    "mentions_in_digest": 7,
+    "reach_proxy": 13,
+    "first_mention_date": "2026-07-08",
+    "last_mention_date": "2026-09-15",
     "sentiment": {
-      "positive": 1,
-      "neutral": 4,
+      "positive": 0,
+      "neutral": 2,
       "negative": 0,
-      "unknown": 2
+      "unknown": 5
     },
     "top_sources": [
       {
-        "source": "The Boston Globe",
+        "source": "LinkedIn",
         "count": 2
       },
       {
-        "source": "Bluesky",
+        "source": "AGI - Agenzia Giornalistica Italia",
         "count": 1
       },
       {
-        "source": "Hub - Johns Hopkins University",
+        "source": "The Guardian",
         "count": 1
       },
       {
-        "source": "Twitter",
+        "source": "The Hub - Johns Hopkins University",
         "count": 1
       },
       {
-        "source": "We Bitcoin",
+        "source": "The Renovator",
         "count": 1
       }
     ],
@@ -2298,23 +2406,23 @@
       },
       {
         "week_start": "2026-07-06",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-07-13",
         "count": 0,
         "reach": 0
       },
       {
-        "week_start": "2026-07-13",
-        "count": 1,
-        "reach": 1
-      },
-      {
         "week_start": "2026-07-20",
-        "count": 4,
-        "reach": 4
+        "count": 0,
+        "reach": 0
       },
       {
         "week_start": "2026-07-27",
         "count": 1,
-        "reach": 1
+        "reach": 6
       },
       {
         "week_start": "2026-08-03",
@@ -2338,8 +2446,8 @@
       },
       {
         "week_start": "2026-08-31",
-        "count": 1,
-        "reach": 2
+        "count": 2,
+        "reach": 3
       },
       {
         "week_start": "2026-09-07",
@@ -2348,8 +2456,8 @@
       },
       {
         "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
+        "count": 3,
+        "reach": 3
       }
     ]
   },
@@ -2986,47 +3094,43 @@
     ]
   },
   {
-    "id": "amy-binder",
-    "name": "Amy Binder",
+    "id": "jenna-storey",
+    "name": "Jenna Silber Storey",
     "kind": "faculty",
     "tracked": true,
-    "title": "SNF Agora Institute Professor of Sociology",
-    "profile_url": "https://snfagora.jhu.edu/directory/amy-binder/",
-    "photo_url": null,
+    "title": "SNF Agora Visiting Fellow, AY25-26",
+    "profile_url": "https://snfagora.jhu.edu/directory/jenna-storey/",
+    "photo_url": "images/people/jenna-storey.jpg",
     "categories": [
-      "Core Faculty"
+      "Visiting Fellows"
     ],
     "is_ces": false,
     "mentions_total": 5,
-    "mentions_in_digest": 5,
-    "reach_proxy": 11,
-    "first_mention_date": "2026-07-08",
-    "last_mention_date": "2026-09-14",
+    "mentions_in_digest": 4,
+    "reach_proxy": 142,
+    "first_mention_date": "2026-08-03",
+    "last_mention_date": "2026-09-15",
     "sentiment": {
-      "positive": 0,
-      "neutral": 2,
+      "positive": 3,
+      "neutral": 0,
       "negative": 0,
-      "unknown": 3
+      "unknown": 2
     },
     "top_sources": [
       {
-        "source": "AGI - Agenzia Giornalistica Italia",
+        "source": "Youtube",
+        "count": 2
+      },
+      {
+        "source": "EUROPE SAYS",
         "count": 1
       },
       {
-        "source": "The Guardian",
+        "source": "Inside Higher Ed",
         "count": 1
       },
       {
-        "source": "The Hub - Johns Hopkins University",
-        "count": 1
-      },
-      {
-        "source": "The Renovator",
-        "count": 1
-      },
-      {
-        "source": "UOL",
+        "source": "PR Newswire",
         "count": 1
       }
     ],
@@ -3038,8 +3142,8 @@
       },
       {
         "week_start": "2026-07-06",
-        "count": 1,
-        "reach": 1
+        "count": 0,
+        "reach": 0
       },
       {
         "week_start": "2026-07-13",
@@ -3053,13 +3157,13 @@
       },
       {
         "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 6
+        "count": 0,
+        "reach": 0
       },
       {
         "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
+        "count": 2,
+        "reach": 2
       },
       {
         "week_start": "2026-08-10",
@@ -3078,8 +3182,8 @@
       },
       {
         "week_start": "2026-08-31",
-        "count": 2,
-        "reach": 3
+        "count": 1,
+        "reach": 138
       },
       {
         "week_start": "2026-09-07",
@@ -3088,8 +3192,8 @@
       },
       {
         "week_start": "2026-09-14",
-        "count": 1,
-        "reach": 1
+        "count": 2,
+        "reach": 2
       }
     ]
   },
@@ -3800,106 +3904,6 @@
         "week_start": "2026-09-14",
         "count": 1,
         "reach": 1
-      }
-    ]
-  },
-  {
-    "id": "jenna-storey",
-    "name": "Jenna Silber Storey",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Visiting Fellow, AY25-26",
-    "profile_url": "https://snfagora.jhu.edu/directory/jenna-storey/",
-    "photo_url": "images/people/jenna-storey.jpg",
-    "categories": [
-      "Visiting Fellows"
-    ],
-    "is_ces": false,
-    "mentions_total": 3,
-    "mentions_in_digest": 2,
-    "reach_proxy": 140,
-    "first_mention_date": "2026-08-03",
-    "last_mention_date": "2026-09-01",
-    "sentiment": {
-      "positive": 1,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 2
-    },
-    "top_sources": [
-      {
-        "source": "EUROPE SAYS",
-        "count": 1
-      },
-      {
-        "source": "Inside Higher Ed",
-        "count": 1
-      },
-      {
-        "source": "PR Newswire",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 1,
-        "reach": 138
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
       }
     ]
   },

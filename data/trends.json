@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-15T07:06:47-04:00",
+  "generated_at": "2026-09-16T09:03:32-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-09-15"
+    "end": "2026-09-16"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 632,
-        "in_digest": 248,
-        "reach_proxy": 1998,
+        "mentions": 658,
+        "in_digest": 257,
+        "reach_proxy": 2033,
         "people_covered": 92,
         "people_tracked": 100,
-        "sources": 288,
+        "sources": 299,
         "negative": 11
       },
       "deltas": {
@@ -565,9 +565,16 @@
         },
         {
           "date": "2026-09-15",
-          "count": 5,
-          "reach": 7,
-          "in_digest": 0,
+          "count": 23,
+          "reach": 30,
+          "in_digest": 8,
+          "observed": true
+        },
+        {
+          "date": "2026-09-16",
+          "count": 8,
+          "reach": 12,
+          "in_digest": 1,
           "observed": true
         }
       ],
@@ -717,23 +724,23 @@
         },
         {
           "week_start": "2026-09-14",
-          "count": 33,
-          "reach": 43,
-          "in_digest": 12,
-          "people": 18,
+          "count": 59,
+          "reach": 78,
+          "in_digest": 21,
+          "people": 20,
           "sentiment": {
-            "positive": 2,
+            "positive": 4,
             "neutral": 2,
             "negative": 0,
-            "unknown": 29
+            "unknown": 53
           }
         }
       ],
       "sentiment": {
-        "positive": 86,
+        "positive": 88,
         "neutral": 151,
         "negative": 11,
-        "unknown": 384
+        "unknown": 408
       },
       "top_people": [
         {
@@ -746,8 +753,8 @@
         {
           "person_id": "anne-applebaum",
           "name": "Anne Applebaum",
-          "count": 49,
-          "reach": 291,
+          "count": 52,
+          "reach": 294,
           "is_ces": false
         },
         {
@@ -769,6 +776,13 @@
           "name": "Sean Carroll",
           "count": 31,
           "reach": 55,
+          "is_ces": false
+        },
+        {
+          "person_id": "unknown",
+          "name": "unknown",
+          "count": 31,
+          "reach": 41,
           "is_ces": false
         },
         {
@@ -798,20 +812,13 @@
           "count": 21,
           "reach": 357,
           "is_ces": false
-        },
-        {
-          "person_id": "none-no-captured-text",
-          "name": "None (no captured text)",
-          "count": 21,
-          "reach": 30,
-          "is_ces": false
         }
       ],
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 126,
-          "reach": 340,
+          "count": 127,
+          "reach": 341,
           "is_other": false
         },
         {
@@ -822,20 +829,20 @@
         },
         {
           "source": "LinkedIn",
-          "count": 21,
-          "reach": 18,
+          "count": 23,
+          "reach": 20,
           "is_other": false
         },
         {
           "source": "Youtube",
-          "count": 21,
-          "reach": 18,
+          "count": 23,
+          "reach": 20,
           "is_other": false
         },
         {
           "source": "Substack",
-          "count": 20,
-          "reach": 22,
+          "count": 22,
+          "reach": 24,
           "is_other": false
         },
         {
@@ -846,8 +853,8 @@
         },
         {
           "source": "Springer",
-          "count": 14,
-          "reach": 14,
+          "count": 15,
+          "reach": 15,
           "is_other": false
         },
         {
@@ -858,27 +865,27 @@
         },
         {
           "source": "Other",
-          "count": 378,
-          "reach": 1523,
+          "count": 396,
+          "reach": 1550,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 289
+          "count": 307
         },
         {
           "source_type": "social network",
-          "count": 123
+          "count": 127
         },
         {
           "source_type": "blog",
-          "count": 24
+          "count": 26
         },
         {
           "source_type": "unresolved",
-          "count": 196
+          "count": 198
         }
       ],
       "negative_stories": [
@@ -912,8 +919,8 @@
           "positive": 8,
           "neutral": 12,
           "negative": 5,
-          "unknown": 24,
-          "total": 49
+          "unknown": 27,
+          "total": 52
         },
         {
           "row_label": "Henry Farrell",
@@ -943,6 +950,16 @@
           "neutral": 12,
           "negative": 1,
           "unknown": 13,
+          "total": 31
+        },
+        {
+          "row_label": "unknown",
+          "person_id": "unknown",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 31,
           "total": 31
         },
         {
@@ -1036,16 +1053,6 @@
           "total": 14
         },
         {
-          "row_label": "unknown",
-          "person_id": "unknown",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 14,
-          "total": 14
-        },
-        {
           "row_label": "Martha S. Jones",
           "person_id": "martha-s-jones",
           "is_ces": false,
@@ -1074,6 +1081,16 @@
           "negative": 0,
           "unknown": 0,
           "total": 11
+        },
+        {
+          "row_label": "Eugene Scott",
+          "person_id": "eugene-scott",
+          "is_ces": false,
+          "positive": 1,
+          "neutral": 4,
+          "negative": 0,
+          "unknown": 4,
+          "total": 9
         },
         {
           "row_label": "(false positive)",
@@ -1106,13 +1123,13 @@
           "total": 8
         },
         {
-          "row_label": "Eugene Scott",
-          "person_id": "eugene-scott",
+          "row_label": "Amy Binder",
+          "person_id": "amy-binder",
           "is_ces": false,
-          "positive": 1,
-          "neutral": 4,
+          "positive": 0,
+          "neutral": 2,
           "negative": 0,
-          "unknown": 2,
+          "unknown": 5,
           "total": 7
         },
         {
@@ -1176,13 +1193,13 @@
           "total": 6
         },
         {
-          "row_label": "Amy Binder",
-          "person_id": "amy-binder",
+          "row_label": "Jenna Silber Storey",
+          "person_id": "jenna-storey",
           "is_ces": false,
-          "positive": 0,
-          "neutral": 2,
+          "positive": 3,
+          "neutral": 0,
           "negative": 0,
-          "unknown": 3,
+          "unknown": 2,
           "total": 5
         },
         {
@@ -1253,16 +1270,6 @@
           "neutral": 2,
           "negative": 0,
           "unknown": 1,
-          "total": 3
-        },
-        {
-          "row_label": "Jenna Silber Storey",
-          "person_id": "jenna-storey",
-          "is_ces": false,
-          "positive": 1,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 2,
           "total": 3
         },
         {
@@ -1822,32 +1829,32 @@
           "positive": 30,
           "neutral": 95,
           "negative": 2,
-          "unknown": 162,
-          "total": 289
+          "unknown": 180,
+          "total": 307
         },
         {
           "row_label": "social network",
-          "positive": 29,
+          "positive": 31,
           "neutral": 38,
           "negative": 1,
-          "unknown": 55,
-          "total": 123
+          "unknown": 57,
+          "total": 127
         },
         {
           "row_label": "blog",
           "positive": 5,
           "neutral": 7,
           "negative": 0,
-          "unknown": 12,
-          "total": 24
+          "unknown": 14,
+          "total": 26
         },
         {
           "row_label": "unresolved",
           "positive": 22,
           "neutral": 11,
           "negative": 8,
-          "unknown": 155,
-          "total": 196
+          "unknown": 157,
+          "total": 198
         }
       ],
       "sentiment_examples": {
@@ -2009,6 +2016,26 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 645,
+              "person": "Jenna Silber Storey",
+              "person_id": "jenna-storey",
+              "is_ces": false,
+              "title": "What's New In Civics For 2026? | Hoover Institution",
+              "url": "https://www.youtube.com/watch?v=w2iCRJwu2dE",
+              "source": "Youtube",
+              "date": "2026-09-15"
+            },
+            {
+              "id": 641,
+              "person": "Jenna Silber Storey",
+              "person_id": "jenna-storey",
+              "is_ces": false,
+              "title": "What's New In Civics For 2026? | Hoover Institution",
+              "url": "https://www.youtube.com/watch?v=w2iCRJwu2dE",
+              "source": "Youtube",
+              "date": "2026-09-15"
+            },
             {
               "id": 609,
               "person": "Scott Warren",
@@ -3475,6 +3502,13 @@
         },
         {
           "date": "2026-09-15",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
+          "observed": true
+        },
+        {
+          "date": "2026-09-16",
           "count": 0,
           "reach": 0,
           "in_digest": 0,
