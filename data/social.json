@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-15T07:06:47-04:00",
-  "count": 53,
+  "generated_at": "2026-09-16T09:03:32-04:00",
+  "count": 54,
   "picks": [
+    {
+      "id": 71,
+      "mention_id": 664,
+      "digest_date": "2026-09-16",
+      "person": "Anne Applebaum",
+      "person_id": "anne-applebaum",
+      "person_ids": [
+        "anne-applebaum"
+      ],
+      "is_ces": false,
+      "punchy_title": "The receipts, in public: Applebaum's Kleptocracy Tracker logs conflicts of interest no longer hidden",
+      "headline": "The receipts, in public: Applebaum's Kleptocracy Tracker logs conflicts of interest no longer hidden",
+      "pull_quote": "The Kleptocracy Tracker is a public log of political decisions that benefit private interests. Developed by journalist and SNF Agora Senior Fellow Anne Applebaum, the project builds on her reporting in The Atlantic to document a shift in American governance.",
+      "rationale": "The Kleptocracy Tracker is a public log of political decisions that benefit private interests. Developed by journalist and SNF Agora Senior Fellow Anne Applebaum, the project builds on her reporting in The Atlantic to document a shift in American governance.",
+      "url": "https://www.bespacific.com/kleptocracy-tracker/",
+      "story_url": "https://www.bespacific.com/kleptocracy-tracker/",
+      "created_at": "2026-09-16 13:03:16",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "The Kleptocracy Tracker, built by SNF Agora Senior Fellow Anne Applebaum, is a public log of political decisions that benefit private interests — a running record of conflicts of interest no longer hidden but accepted. https://www.bespacific.com/kleptocracy-tracker/",
+          "chars": 266,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=The%20Kleptocracy%20Tracker%2C%20built%20by%20SNF%20Agora%20Senior%20Fellow%20Anne%20Applebaum%2C%20is%20a%20public%20log%20of%20political%20decisions%20that%20benefit%20private%20interests%20%E2%80%94%20a%20running%20record%20of%20conflicts%20of%20interest%20no%20longer%20hidden%20but%20accepted.%20https%3A//www.bespacific.com/kleptocracy-tracker/"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "The Kleptocracy Tracker, built by SNF Agora Senior Fellow Anne Applebaum, is a public log of political decisions that benefit private interests — a running record of conflicts of interest no longer hidden but accepted. https://www.bespacific.com/kleptocracy-tracker/",
+          "chars": 266,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=The%20Kleptocracy%20Tracker%2C%20built%20by%20SNF%20Agora%20Senior%20Fellow%20Anne%20Applebaum%2C%20is%20a%20public%20log%20of%20political%20decisions%20that%20benefit%20private%20interests%20%E2%80%94%20a%20running%20record%20of%20conflicts%20of%20interest%20no%20longer%20hidden%20but%20accepted.%20https%3A//www.bespacific.com/kleptocracy-tracker/"
+        }
+      ]
+    },
     {
       "id": 70,
       "mention_id": 608,
