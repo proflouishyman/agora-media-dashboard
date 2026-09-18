@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-16T09:03:32-04:00",
-  "generated_date": "2026-09-16",
+  "generated_at": "2026-09-18T07:11:14-04:00",
+  "generated_date": "2026-09-18",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-09-16",
+    "last_mention_date": "2026-09-18",
     "observed_dates": [
       "2026-07-02",
       "2026-07-03",
@@ -81,10 +81,12 @@
       "2026-09-13",
       "2026-09-14",
       "2026-09-15",
-      "2026-09-16"
+      "2026-09-16",
+      "2026-09-17",
+      "2026-09-18"
     ],
-    "total_mentions": 658,
-    "total_raw_documents": 2830,
+    "total_mentions": 720,
+    "total_raw_documents": 2908,
     "total_tracked_people": 100,
     "total_ces_people": 17
   },
@@ -92,27 +94,27 @@
     "all": {
       "label": "SNF Agora Institute",
       "people": 100,
-      "mentions": 658
+      "mentions": 720
     },
     "ces": {
       "label": "Center on Economy and Society",
       "people": 17,
-      "mentions": 96
+      "mentions": 97
     }
   },
   "data_quality": {
-    "mentions_missing_url": 170,
+    "mentions_missing_url": 174,
     "mentions_no_text_captured": 89,
-    "mentions_sentiment_unknown": 408,
-    "mentions_shareable": 469,
+    "mentions_sentiment_unknown": 467,
+    "mentions_shareable": 527,
     "unmatched_persons": [
+      {
+        "person": "unknown",
+        "mentions": 89
+      },
       {
         "person": "None (keyword noise)",
         "mentions": 32
-      },
-      {
-        "person": "unknown",
-        "mentions": 31
       },
       {
         "person": "Johns Hopkins",
@@ -160,6 +162,10 @@
       },
       {
         "person": "Andre Nogueira",
+        "mentions": 2
+      },
+      {
+        "person": "Johnnie Moore",
         "mentions": 2
       },
       {
@@ -220,10 +226,6 @@
       },
       {
         "person": "Jeremy Wallace (namesake, fisheries policy officer)",
-        "mentions": 1
-      },
-      {
-        "person": "Johnnie Moore",
         "mentions": 1
       },
       {
