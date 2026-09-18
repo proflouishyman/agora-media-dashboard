@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-16T09:03:32-04:00",
-  "count": 54,
+  "generated_at": "2026-09-18T07:11:14-04:00",
+  "count": 55,
   "picks": [
+    {
+      "id": 72,
+      "mention_id": 670,
+      "digest_date": "2026-09-17",
+      "person": "Eugene Scott",
+      "person_id": "eugene-scott",
+      "person_ids": [
+        "eugene-scott"
+      ],
+      "is_ces": false,
+      "punchy_title": "Who Governs the Machine? Hopkins Puts AI Regulation on the Table",
+      "headline": "Who Governs the Machine? Hopkins Puts AI Regulation on the Table",
+      "pull_quote": "These challenges aren't hypothetical. This Hugging Face incident should be a real wake-up call. ... So what rules are needed to govern AI? Who should write them? And who bears the cost when they fail?",
+      "rationale": "These challenges aren't hypothetical. This Hugging Face incident should be a real wake-up call. ... So what rules are needed to govern AI? Who should write them? And who bears the cost when they fail?",
+      "url": "https://hub.jhu.edu/2026/09/17/next-conversations-governing-ai/",
+      "story_url": "https://hub.jhu.edu/2026/09/17/next-conversations-governing-ai/",
+      "created_at": "2026-09-18 11:11:10",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Who governs the machine? SNF Agora Visiting Fellow Eugene Scott moderated Hopkins' Next Conversations panel on AI governance with OpenAI's Dean Ball, Stuart Russell and Gillian Hadfield. https://hub.jhu.edu/2026/09/17/next-conversations-governing-ai/",
+          "chars": 250,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Who%20governs%20the%20machine%3F%20SNF%20Agora%20Visiting%20Fellow%20Eugene%20Scott%20moderated%20Hopkins%27%20Next%20Conversations%20panel%20on%20AI%20governance%20with%20OpenAI%27s%20Dean%20Ball%2C%20Stuart%20Russell%20and%20Gillian%20Hadfield.%20https%3A//hub.jhu.edu/2026/09/17/next-conversations-governing-ai/"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Who governs the machine? SNF Agora Visiting Fellow Eugene Scott moderated Hopkins' Next Conversations panel on AI governance with OpenAI's Dean Ball, Stuart Russell and Gillian Hadfield. https://hub.jhu.edu/2026/09/17/next-conversations-governing-ai/",
+          "chars": 250,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Who%20governs%20the%20machine%3F%20SNF%20Agora%20Visiting%20Fellow%20Eugene%20Scott%20moderated%20Hopkins%27%20Next%20Conversations%20panel%20on%20AI%20governance%20with%20OpenAI%27s%20Dean%20Ball%2C%20Stuart%20Russell%20and%20Gillian%20Hadfield.%20https%3A//hub.jhu.edu/2026/09/17/next-conversations-governing-ai/"
+        }
+      ]
+    },
     {
       "id": 71,
       "mention_id": 664,

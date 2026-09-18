@@ -1,7 +1,1046 @@
 {
-  "generated_at": "2026-09-16T09:03:32-04:00",
-  "count": 658,
+  "generated_at": "2026-09-18T07:11:14-04:00",
+  "count": 720,
   "stories": [
+    {
+      "id": 668,
+      "date": "2026-09-18",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Yolanda Hopkins garante continuidade no circuito mundial de surf",
+      "has_text": true,
+      "url": "https://www.dn.pt/desporto/yolanda-hopkins-garante-continuidade-no-circuito-mundial-de-surf",
+      "source": "DN - Diário de Notícias",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Yolanda Hopkins garante continuidade no circuito mundial de surf https://www.dn.pt/desporto/yolanda-hopkins-garante-continuidade-no-circuito-mundial-de-surf",
+          "chars": 88
+        },
+        "bluesky": {
+          "text": "Yolanda Hopkins garante continuidade no circuito mundial de surf https://www.dn.pt/desporto/yolanda-hopkins-garante-continuidade-no-circuito-mundial-de-surf",
+          "chars": 156
+        }
+      }
+    },
+    {
+      "id": 669,
+      "date": "2026-09-18",
+      "week_start": "2026-09-14",
+      "person_id": "johnnie-moore",
+      "person": "Johnnie Moore",
+      "is_ces": false,
+      "title": "The misalignment of Daniels' higher education framework for Trump",
+      "has_text": true,
+      "url": "https://www.jhunewsletter.com/article/2026/09/the-misalignment-of-daniels-higher-education-framework-for-trump",
+      "source": "The Johns Hopkins News-Letter",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "The misalignment of Daniels' higher education framework for Trump https://www.jhunewsletter.com/article/2026/09/the-misalignment-of-daniels-higher-education-framework-for-trump",
+          "chars": 89
+        },
+        "bluesky": {
+          "text": "The misalignment of Daniels' higher education framework for Trump https://www.jhunewsletter.com/article/2026/09/the-misalignment-of-daniels-higher-education-framework-for-trump",
+          "chars": 176
+        }
+      }
+    },
+    {
+      "id": 667,
+      "date": "2026-09-18",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "After 50 Years of Failed Attempts, Is a Drug Vaccine Close?",
+      "has_text": true,
+      "url": "https://www.medscape.com/viewarticle/after-50-years-failed-attempts-drug-vaccine-close-2026a1000yux?src=",
+      "source": "Medscape",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "After 50 Years of Failed Attempts, Is a Drug Vaccine Close? https://www.medscape.com/viewarticle/after-50-years-failed-attempts-drug-vaccine-close-2026a1000yux?src=",
+          "chars": 83
+        },
+        "bluesky": {
+          "text": "After 50 Years of Failed Attempts, Is a Drug Vaccine Close? https://www.medscape.com/viewarticle/after-50-years-failed-attempts-drug-vaccine-close-2026a1000yux?src=",
+          "chars": 164
+        }
+      }
+    },
+    {
+      "id": 666,
+      "date": "2026-09-18",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 665,
+      "date": "2026-09-18",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "https://bsky.app/profile/anadimand.bsky.social/post/3mvryfjcyzk2x",
+      "source": "Bluesky",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " https://bsky.app/profile/anadimand.bsky.social/post/3mvryfjcyzk2x",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://bsky.app/profile/anadimand.bsky.social/post/3mvryfjcyzk2x",
+          "chars": 66
+        }
+      }
+    },
+    {
+      "id": 679,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Especialistas de EUA e China propõem para IA ações de segurança semelhantes às do setor nuclear",
+      "has_text": true,
+      "url": "https://www.outrarevista.com.br/noticia/60781/outra-carreira-amp-educacao/especialistas-de-eua-e-china-propoem-para-ia-acoes-de-seguranca-semelhantes-as-do-setor-nuclear.html",
+      "source": "Outra Revista",
+      "source_type": "online news",
+      "similar_mention_count": 9,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Especialistas de EUA e China propõem para IA ações de segurança semelhantes às do setor nuclear https://www.outrarevista.com.br/noticia/60781/outra-carreira-amp-educacao/especialistas-de-eua-e-china-propoem-para-ia-acoes-de-seguranca-semelhantes-as-do-setor-nuclear.html",
+          "chars": 119
+        },
+        "bluesky": {
+          "text": "Especialistas de EUA e China propõem para IA ações de segurança semelhantes às do setor nuclear https://www.outrarevista.com.br/noticia/60781/outra-carreira-amp-educacao/especialistas-de-eua-e-china-propoem-para-ia-acoes-de-seguranca-semelhantes-as-do-setor-nuclear.html",
+          "chars": 270
+        }
+      }
+    },
+    {
+      "id": 695,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Novo Membro Mais Rico da Lista de Bilionários Vem da OpenAI, Mas Não É Sam Altman",
+      "has_text": true,
+      "url": "https://shownewssp.com.br/novo-membro-mais-rico-da-lista-de-bilionarios-vem-da-openai-mas-nao-e-sam-altman/",
+      "source": "Show News SP",
+      "source_type": "online news",
+      "similar_mention_count": 4,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Novo Membro Mais Rico da Lista de Bilionários Vem da OpenAI, Mas Não É Sam Altman https://shownewssp.com.br/novo-membro-mais-rico-da-lista-de-bilionarios-vem-da-openai-mas-nao-e-sam-altman/",
+          "chars": 105
+        },
+        "bluesky": {
+          "text": "Novo Membro Mais Rico da Lista de Bilionários Vem da OpenAI, Mas Não É Sam Altman https://shownewssp.com.br/novo-membro-mais-rico-da-lista-de-bilionarios-vem-da-openai-mas-nao-e-sam-altman/",
+          "chars": 189
+        }
+      }
+    },
+    {
+      "id": 687,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "This week's Democracy Notes",
+      "has_text": true,
+      "url": "https://democracynotes.substack.com/p/this-weeks-democracy-notes-01b",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "This week's Democracy Notes https://democracynotes.substack.com/p/this-weeks-democracy-notes-01b",
+          "chars": 51
+        },
+        "bluesky": {
+          "text": "This week's Democracy Notes https://democracynotes.substack.com/p/this-weeks-democracy-notes-01b",
+          "chars": 96
+        }
+      }
+    },
+    {
+      "id": 675,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Navigating academia as a dual-career couple",
+      "has_text": true,
+      "url": "https://www.europesays.com/ie/693766/",
+      "source": "EUROPE SAYS",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Navigating academia as a dual-career couple https://www.europesays.com/ie/693766/",
+          "chars": 67
+        },
+        "bluesky": {
+          "text": "Navigating academia as a dual-career couple https://www.europesays.com/ie/693766/",
+          "chars": 81
+        }
+      }
+    },
+    {
+      "id": 670,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "eugene-scott",
+      "person": "Eugene Scott",
+      "is_ces": false,
+      "title": "How should AI be regulated?",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/2026/09/17/next-conversations-governing-ai/",
+      "source": "Hub - Johns Hopkins University",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "How should AI be regulated? https://hub.jhu.edu/2026/09/17/next-conversations-governing-ai/",
+          "chars": 51
+        },
+        "bluesky": {
+          "text": "How should AI be regulated? https://hub.jhu.edu/2026/09/17/next-conversations-governing-ai/",
+          "chars": 91
+        }
+      }
+    },
+    {
+      "id": 726,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Doing the job",
+      "has_text": true,
+      "url": "https://www.illinoistimes.com/news-opinion/politics-news-opinion/doing-the-job/",
+      "source": "Illinois Times",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Doing the job https://www.illinoistimes.com/news-opinion/politics-news-opinion/doing-the-job/",
+          "chars": 37
+        },
+        "bluesky": {
+          "text": "Doing the job https://www.illinoistimes.com/news-opinion/politics-news-opinion/doing-the-job/",
+          "chars": 93
+        }
+      }
+    },
+    {
+      "id": 703,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "ruth-braunstein",
+      "person": "Ruth Braunstein",
+      "is_ces": false,
+      "title": "Major 2026-27 Campus Renovations: MSE Library, SNF Agora and Early Learning Center",
+      "has_text": true,
+      "url": "https://www.jhunewsletter.com/article/2026/09/major-2026-27-campus-renovations-mse-library-snf-agora-and-early-learning-center",
+      "source": "The Johns Hopkins News-Letter",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Major 2026-27 Campus Renovations: MSE Library, SNF Agora and Early Learning Center https://www.jhunewsletter.com/article/2026/09/major-2026-27-campus-renovations-mse-library-snf-agora-and-early-learning-center",
+          "chars": 106
+        },
+        "bluesky": {
+          "text": "Major 2026-27 Campus Renovations: MSE Library, SNF Agora and Early Learning Center https://www.jhunewsletter.com/article/2026/09/major-2026-27-campus-renovations-mse-library-snf-agora-and-early-learning-center",
+          "chars": 209
+        }
+      }
+    },
+    {
+      "id": 702,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Guild Essential Series – Doing More With Less: Operational Survival + Smart Growth in 2026",
+      "has_text": true,
+      "url": "https://nationalguild.org/old-events/more-with-less-essentials/",
+      "source": "National Guild for Community Arts Education",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Guild Essential Series – Doing More With Less: Operational Survival + Smart Growth in 2026 https://nationalguild.org/old-events/more-with-less-essentials/",
+          "chars": 114
+        },
+        "bluesky": {
+          "text": "Guild Essential Series – Doing More With Less: Operational Survival + Smart Growth in 2026 https://nationalguild.org/old-events/more-with-less-essentials/",
+          "chars": 154
+        }
+      }
+    },
+    {
+      "id": 701,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Money, Ads and Star Power: The Push to Remake College Sports",
+      "has_text": true,
+      "url": "https://www.insidehighered.com/news/government/politics-elections/2026/09/17/money-ads-and-star-power-push-remake-college-sports",
+      "source": "Inside Higher Ed",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Money, Ads and Star Power: The Push to Remake College Sports https://www.insidehighered.com/news/government/politics-elections/2026/09/17/money-ads-and-star-power-push-remake-college-sports",
+          "chars": 84
+        },
+        "bluesky": {
+          "text": "Money, Ads and Star Power: The Push to Remake College Sports https://www.insidehighered.com/news/government/politics-elections/2026/09/17/money-ads-and-star-power-push-remake-college-sports",
+          "chars": 189
+        }
+      }
+    },
+    {
+      "id": 700,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Yolanda Hopkins avança em Trestles e agora terá a campeã do mundo pela frente",
+      "has_text": true,
+      "url": "https://rr.pt/bola-branca/noticia/bola-branca/noticia/modalidades/2026/09/17/yolanda-hopkins-avanca-em-trestles-e-agora-tera-a-campea-do-mundo-pela-frente/485772/",
+      "source": "Rádio Renascença",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Yolanda Hopkins avança em Trestles e agora terá a campeã do mundo pela frente https://rr.pt/bola-branca/noticia/bola-branca/noticia/modalidades/2026/09/17/yolanda-hopkins-avanca-em-trestles-e-agora-tera-a-campea-do-mundo-pela-frente/485772/",
+          "chars": 101
+        },
+        "bluesky": {
+          "text": "Yolanda Hopkins avança em Trestles e agora terá a campeã do mundo pela frente https://rr.pt/bola-branca/noticia/bola-branca/noticia/modalidades/2026/09/17/yolanda-hopkins-avanca-em-trestles-e-agora-tera-a-campea-do-mundo-pela-frente/485772/",
+          "chars": 240
+        }
+      }
+    },
+    {
+      "id": 699,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "https://mastodon.online/@quiosque/117285470294711526",
+      "source": "Forums",
+      "source_type": "forum",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " https://mastodon.online/@quiosque/117285470294711526",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://mastodon.online/@quiosque/117285470294711526",
+          "chars": 53
+        }
+      }
+    },
+    {
+      "id": 698,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "NETX Railway inicia transporte ferroviário no Texas",
+      "has_text": true,
+      "url": "https://transportjournal.com/pt-pt/2026/09/17/netx-railway-inicia-transporte-ferroviario-no-texas/#respond",
+      "source": "International Transport Journal",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "NETX Railway inicia transporte ferroviário no Texas https://transportjournal.com/pt-pt/2026/09/17/netx-railway-inicia-transporte-ferroviario-no-texas/#respond",
+          "chars": 75
+        },
+        "bluesky": {
+          "text": "NETX Railway inicia transporte ferroviário no Texas https://transportjournal.com/pt-pt/2026/09/17/netx-railway-inicia-transporte-ferroviario-no-texas/#respond",
+          "chars": 158
+        }
+      }
+    },
+    {
+      "id": 697,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Dual random projections for fast DOA estimation",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s11760-026-05723-6",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Dual random projections for fast DOA estimation https://link.springer.com/article/10.1007/s11760-026-05723-6",
+          "chars": 71
+        },
+        "bluesky": {
+          "text": "Dual random projections for fast DOA estimation https://link.springer.com/article/10.1007/s11760-026-05723-6",
+          "chars": 108
+        }
+      }
+    },
+    {
+      "id": 696,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Franz’s Final Season With The Cleveland Orchestra: CLE Daily",
+      "has_text": true,
+      "url": "https://clevelandmagazine.com/articles/franz-s-final-season-with-the-cleveland-orchestra-cle-daily/",
+      "source": "Cleveland Magazine",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Franz’s Final Season With The Cleveland Orchestra: CLE Daily https://clevelandmagazine.com/articles/franz-s-final-season-with-the-cleveland-orchestra-cle-daily/",
+          "chars": 84
+        },
+        "bluesky": {
+          "text": "Franz’s Final Season With The Cleveland Orchestra: CLE Daily https://clevelandmagazine.com/articles/franz-s-final-season-with-the-cleveland-orchestra-cle-daily/",
+          "chars": 160
+        }
+      }
+    },
+    {
+      "id": 694,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=-qz1QAfQKHw&lc=Ugz0MAtz9hI1ZtiVBo54AaABAg",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " https://www.youtube.com/watch?v=-qz1QAfQKHw&lc=Ugz0MAtz9hI1ZtiVBo54AaABAg",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://www.youtube.com/watch?v=-qz1QAfQKHw&lc=Ugz0MAtz9hI1ZtiVBo54AaABAg",
+          "chars": 74
+        }
+      }
+    },
+    {
+      "id": 693,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Antonia Novello: Blazing a Trail for Latinas in Public Health",
+      "has_text": true,
+      "url": "https://salud-america.org/antonia-novello-blazing-a-trail-for-latinas-in-public-health/",
+      "source": "Salud America!",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Antonia Novello: Blazing a Trail for Latinas in Public Health https://salud-america.org/antonia-novello-blazing-a-trail-for-latinas-in-public-health/",
+          "chars": 85
+        },
+        "bluesky": {
+          "text": "Antonia Novello: Blazing a Trail for Latinas in Public Health https://salud-america.org/antonia-novello-blazing-a-trail-for-latinas-in-public-health/",
+          "chars": 149
+        }
+      }
+    },
+    {
+      "id": 692,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 691,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "SCCM Blog",
+      "has_text": true,
+      "url": "https://sccm.org/blog",
+      "source": "Society of Critical Care Medicine",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "SCCM Blog https://sccm.org/blog",
+          "chars": 33
+        },
+        "bluesky": {
+          "text": "SCCM Blog https://sccm.org/blog",
+          "chars": 31
+        }
+      }
+    },
+    {
+      "id": 690,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7506342375590592512",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " https://www.linkedin.com/feed/update/urn:li:share:7506342375590592512",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://www.linkedin.com/feed/update/urn:li:share:7506342375590592512",
+          "chars": 70
+        }
+      }
+    },
+    {
+      "id": 689,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "https://www.reddit.com/r/AskScienceDiscussion/comments/1wimipc/comment/padizxk/",
+      "source": "reddit.com/r/AskScienceDiscussion",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " https://www.reddit.com/r/AskScienceDiscussion/comments/1wimipc/comment/padizxk/",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://www.reddit.com/r/AskScienceDiscussion/comments/1wimipc/comment/padizxk/",
+          "chars": 80
+        }
+      }
+    },
+    {
+      "id": 688,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Top 20 Universities in the World 🌎 🎓 | Times Higher Education Rankings",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=yIDwL8nqrtg",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Top 20 Universities in the World 🌎 🎓 | Times Higher Education Rankings https://www.youtube.com/watch?v=yIDwL8nqrtg",
+          "chars": 94
+        },
+        "bluesky": {
+          "text": "Top 20 Universities in the World 🌎 🎓 | Times Higher Education Rankings https://www.youtube.com/watch?v=yIDwL8nqrtg",
+          "chars": 114
+        }
+      }
+    },
+    {
+      "id": 686,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "On the Ground in China—Recent Visits [Getting Tech Right, Session 1]",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=ouuaO1FxBbE",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "On the Ground in China—Recent Visits [Getting Tech Right, Session 1] https://www.youtube.com/watch?v=ouuaO1FxBbE",
+          "chars": 92
+        },
+        "bluesky": {
+          "text": "On the Ground in China—Recent Visits [Getting Tech Right, Session 1] https://www.youtube.com/watch?v=ouuaO1FxBbE",
+          "chars": 112
+        }
+      }
+    },
+    {
+      "id": 685,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Shared Precarity and Prosperity—Labor and Society [Getting Tech Right, Session 3]",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=N-TEaEzKMnU",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Shared Precarity and Prosperity—Labor and Society [Getting Tech Right, Session 3] https://www.youtube.com/watch?v=N-TEaEzKMnU",
+          "chars": 105
+        },
+        "bluesky": {
+          "text": "Shared Precarity and Prosperity—Labor and Society [Getting Tech Right, Session 3] https://www.youtube.com/watch?v=N-TEaEzKMnU",
+          "chars": 125
+        }
+      }
+    },
+    {
+      "id": 684,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "25 Fully Funded PhD Programs (They Pay You!)",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=nUwijygZp9o",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "25 Fully Funded PhD Programs (They Pay You!) https://www.youtube.com/watch?v=nUwijygZp9o",
+          "chars": 68
+        },
+        "bluesky": {
+          "text": "25 Fully Funded PhD Programs (They Pay You!) https://www.youtube.com/watch?v=nUwijygZp9o",
+          "chars": 88
+        }
+      }
+    },
+    {
+      "id": 683,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Court Temporarily Blocks Rule Ending ‘Duration of Status’ for International Students",
+      "has_text": true,
+      "url": "https://www.aip.org/fyi/court-temporarily-blocks-rule-ending-duration-of-status-for-international-students",
+      "source": "The American Institute of Physics",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Court Temporarily Blocks Rule Ending ‘Duration of Status’ for International Students https://www.aip.org/fyi/court-temporarily-blocks-rule-ending-duration-of-status-for-international-students",
+          "chars": 108
+        },
+        "bluesky": {
+          "text": "Court Temporarily Blocks Rule Ending ‘Duration of Status’ for International Students https://www.aip.org/fyi/court-temporarily-blocks-rule-ending-duration-of-status-for-international-students",
+          "chars": 191
+        }
+      }
+    },
+    {
+      "id": 682,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Indonesia Update: Islamic diversity in Indonesia",
+      "has_text": true,
+      "url": "https://asiapacific.anu.edu.au/event/indonesia-update-islamic-diversity-indonesia",
+      "source": "Coral Bell School of Asia Pacific Affairs",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Indonesia Update: Islamic diversity in Indonesia https://asiapacific.anu.edu.au/event/indonesia-update-islamic-diversity-indonesia",
+          "chars": 72
+        },
+        "bluesky": {
+          "text": "Indonesia Update: Islamic diversity in Indonesia https://asiapacific.anu.edu.au/event/indonesia-update-islamic-diversity-indonesia",
+          "chars": 130
+        }
+      }
+    },
+    {
+      "id": 681,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Boston Cancels Reparations Report After Researcher Is Found to Have Fabricated Claims in Her Book",
+      "has_text": true,
+      "url": "https://pjmedia.com/rick-moran/2026/09/17/boston-cancels-report-on-reparations-when-researcher-found-to-have-fabricated-claims-in-her-book-n4957343",
+      "source": "PJ Media",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Boston Cancels Reparations Report After Researcher Is Found to Have Fabricated Claims in Her Book https://pjmedia.com/rick-moran/2026/09/17/boston-cancels-report-on-reparations-when-researcher-found-to-have-fabricated-claims-in-her-book-n4957343",
+          "chars": 121
+        },
+        "bluesky": {
+          "text": "Boston Cancels Reparations Report After Researcher Is Found to Have Fabricated Claims in Her Book https://pjmedia.com/rick-moran/2026/09/17/boston-cancels-report-on-reparations-when-researcher-found-to-have-fabricated-claims-in-her-book-n4957343",
+          "chars": 245
+        }
+      }
+    },
+    {
+      "id": 680,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "AGORA EU MANDO NA ESCOLA INTEIRA! 👑 | BULLY EP.14",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=XgeFPpw1rRc",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "AGORA EU MANDO NA ESCOLA INTEIRA! 👑 | BULLY EP.14 https://www.youtube.com/watch?v=XgeFPpw1rRc",
+          "chars": 73
+        },
+        "bluesky": {
+          "text": "AGORA EU MANDO NA ESCOLA INTEIRA! 👑 | BULLY EP.14 https://www.youtube.com/watch?v=XgeFPpw1rRc",
+          "chars": 93
+        }
+      }
+    },
+    {
+      "id": 678,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "National Summits on the Future of Higher Ed: An Earnest Proposal",
+      "has_text": true,
+      "url": "https://www.democracyrenovator.com/p/national-summits-on-the-future-of",
+      "source": "The Renovator",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "National Summits on the Future of Higher Ed: An Earnest Proposal https://www.democracyrenovator.com/p/national-summits-on-the-future-of",
+          "chars": 88
+        },
+        "bluesky": {
+          "text": "National Summits on the Future of Higher Ed: An Earnest Proposal https://www.democracyrenovator.com/p/national-summits-on-the-future-of",
+          "chars": 135
+        }
+      }
+    },
+    {
+      "id": 677,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Politically Unstable: Is a four-year college degree still worth $100,000?",
+      "has_text": true,
+      "url": "https://www.washingtontimes.com/news/2026/sep/17/politically-unstable-four-year-college-degree-still-worth-100000/",
+      "source": "The Washington Times",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Politically Unstable: Is a four-year college degree still worth $100,000? https://www.washingtontimes.com/news/2026/sep/17/politically-unstable-four-year-college-degree-still-worth-100000/",
+          "chars": 97
+        },
+        "bluesky": {
+          "text": "Politically Unstable: Is a four-year college degree still worth $100,000? https://www.washingtontimes.com/news/2026/sep/17/politically-unstable-four-year-college-degree-still-worth-100000/",
+          "chars": 188
+        }
+      }
+    },
+    {
+      "id": 676,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "DLR Group Hires Three for Higher Education Practice",
+      "has_text": true,
+      "url": "https://spaces4learning.com/articles/2026/09/17/dlr-group-three-new-hires.aspx?admgarea=news",
+      "source": "Spaces4Learning",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "DLR Group Hires Three for Higher Education Practice https://spaces4learning.com/articles/2026/09/17/dlr-group-three-new-hires.aspx?admgarea=news",
+          "chars": 75
+        },
+        "bluesky": {
+          "text": "DLR Group Hires Three for Higher Education Practice https://spaces4learning.com/articles/2026/09/17/dlr-group-three-new-hires.aspx?admgarea=news",
+          "chars": 144
+        }
+      }
+    },
+    {
+      "id": 674,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "The Top Women Leaders of Oklahoma for 2026 (Complete)",
+      "has_text": true,
+      "url": "https://thewomenweadmire.com/2026/09/the-top-women-leaders-of-oklahoma-for-2026-complete/",
+      "source": "Women We Admire",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Top Women Leaders of Oklahoma for 2026 (Complete) https://thewomenweadmire.com/2026/09/the-top-women-leaders-of-oklahoma-for-2026-complete/",
+          "chars": 77
+        },
+        "bluesky": {
+          "text": "The Top Women Leaders of Oklahoma for 2026 (Complete) https://thewomenweadmire.com/2026/09/the-top-women-leaders-of-oklahoma-for-2026-complete/",
+          "chars": 143
+        }
+      }
+    },
+    {
+      "id": 673,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "The Top Women Leaders of Oklahoma for 2026",
+      "has_text": true,
+      "url": "https://thewomenweadmire.com/2026/09/the-top-women-leaders-of-oklahoma-for-2026/",
+      "source": "Women We Admire",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Top Women Leaders of Oklahoma for 2026 https://thewomenweadmire.com/2026/09/the-top-women-leaders-of-oklahoma-for-2026/",
+          "chars": 66
+        },
+        "bluesky": {
+          "text": "The Top Women Leaders of Oklahoma for 2026 https://thewomenweadmire.com/2026/09/the-top-women-leaders-of-oklahoma-for-2026/",
+          "chars": 123
+        }
+      }
+    },
+    {
+      "id": 672,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "WSL: Luana Silva amplia freguesia sobre Tyler Wright e vai às quartas em Trestles",
+      "has_text": true,
+      "url": "https://bpachannel.com/2026/09/wsl-luana-silva-amplia-freguesia-sobre-tyler-wright-e-vai-as-quartas-em-trestles/",
+      "source": "BPA Channel",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "WSL: Luana Silva amplia freguesia sobre Tyler Wright e vai às quartas em Trestles https://bpachannel.com/2026/09/wsl-luana-silva-amplia-freguesia-sobre-tyler-wright-e-vai-as-quartas-em-trestles/",
+          "chars": 105
+        },
+        "bluesky": {
+          "text": "WSL: Luana Silva amplia freguesia sobre Tyler Wright e vai às quartas em Trestles https://bpachannel.com/2026/09/wsl-luana-silva-amplia-freguesia-sobre-tyler-wright-e-vai-as-quartas-em-trestles/",
+          "chars": 194
+        }
+      }
+    },
+    {
+      "id": 671,
+      "date": "2026-09-17",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 706,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Here's who won Wednesday's high school games in RI",
+      "has_text": true,
+      "url": "https://www.providencejournal.com/story/sports/high-school/2026/09/16/scores-from-ri-high-school-games-on-september-16/91803261007/",
+      "source": "The Providence Journal",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Here's who won Wednesday's high school games in RI https://www.providencejournal.com/story/sports/high-school/2026/09/16/scores-from-ri-high-school-games-on-september-16/91803261007/",
+          "chars": 74
+        },
+        "bluesky": {
+          "text": "Here's who won Wednesday's high school games in RI https://www.providencejournal.com/story/sports/high-school/2026/09/16/scores-from-ri-high-school-games-on-september-16/91803261007/",
+          "chars": 182
+        }
+      }
+    },
     {
       "id": 647,
       "date": "2026-09-16",
@@ -25,6 +1064,32 @@
         "bluesky": {
           "text": "Harvard, Stanford, Yale under scanner: Trump expands fight against elite colleges with focus on 'the … https://economictimes.indiatimes.com/nri/latest-updates/harvard-stanford-yale-under-scanner-trump-expands-fight-against-elite-colleges-with-focus-on-the-diversity-problem/articleshow/134286927.cms",
           "chars": 299
+        }
+      }
+    },
+    {
+      "id": 704,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Johns Hopkins launches global search to identify its next provost",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/2026/09/16/johns-hopkins-university-provost-search/",
+      "source": "Hub - Johns Hopkins University",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Johns Hopkins launches global search to identify its next provost https://hub.jhu.edu/2026/09/16/johns-hopkins-university-provost-search/",
+          "chars": 89
+        },
+        "bluesky": {
+          "text": "Johns Hopkins launches global search to identify its next provost https://hub.jhu.edu/2026/09/16/johns-hopkins-university-provost-search/",
+          "chars": 137
         }
       }
     },
@@ -77,6 +1142,517 @@
         "bluesky": {
           "text": "Diabetes Care Editors Halt Manuscript Reviews as Boycott of the American Diabetes Association Escalates Over June Ejections https://www.medicaldaily.com/american-diabetes-association-boycott-diabetes-care-journal-editors-478700",
           "chars": 227
+        }
+      }
+    },
+    {
+      "id": 725,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Psilocybin for sale in Australia, Buy Psilocybin in Australia, acquire Psilocybin in Australia, purchase Psilocybin in Australia, store Psilocybin in Australia.",
+      "has_text": true,
+      "url": "https://mushroomfarmforsale185844.digiblogbox.com/67453128/psilocybin-for-sale-in-australia-buy-psilocybin-in-australia-acquire-psilocybin-in-australia-purchase-psilocybin-in-australia-store-psilocybin-in-australia",
+      "source": "Takemyclass61594 Blog",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Psilocybin for sale in Australia, Buy Psilocybin in Australia, acquire Psilocybin in Australia, purchase Psilocybin in Australia, store Psilocybin in Australia. https://mushroomfarmforsale185844.digiblogbox.com/67453128/psilocybin-for-sale-in-australia-buy-psilocybin-in-australia-acquire-psilocybin-in-australia-purchase-psilocybin-in-australia-store-psilocybin-in-australia",
+          "chars": 184
+        },
+        "bluesky": {
+          "text": "Psilocybin for sale in Australia, Buy Psilocybin in Australia, acquire Psilocybin i… https://mushroomfarmforsale185844.digiblogbox.com/67453128/psilocybin-for-sale-in-australia-buy-psilocybin-in-australia-acquire-psilocybin-in-australia-purchase-psilocybin-in-australia-store-psilocybin-in-australia",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 724,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 723,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Liminality, Pedagogy, and Freedom: Exploring the Liberatory Spiritual Practices of Queer Puerto Rican Catholics",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1057/s41276-026-00595-w",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Liminality, Pedagogy, and Freedom: Exploring the Liberatory Spiritual Practices of Queer Puerto Rican Catholics https://link.springer.com/article/10.1057/s41276-026-00595-w",
+          "chars": 135
+        },
+        "bluesky": {
+          "text": "Liminality, Pedagogy, and Freedom: Exploring the Liberatory Spiritual Practices of Queer Puerto Rican Catholics https://link.springer.com/article/10.1057/s41276-026-00595-w",
+          "chars": 172
+        }
+      }
+    },
+    {
+      "id": 722,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "For Trump, Jews Are Proving to Be a Very Useful Tool",
+      "has_text": true,
+      "url": "https://www.nytimes.com/2026/09/16/opinion/trump-antisemitism-israel-civil-rights.html",
+      "source": "The New York Times",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "For Trump, Jews Are Proving to Be a Very Useful Tool https://www.nytimes.com/2026/09/16/opinion/trump-antisemitism-israel-civil-rights.html",
+          "chars": 76
+        },
+        "bluesky": {
+          "text": "For Trump, Jews Are Proving to Be a Very Useful Tool https://www.nytimes.com/2026/09/16/opinion/trump-antisemitism-israel-civil-rights.html",
+          "chars": 139
+        }
+      }
+    },
+    {
+      "id": 721,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "The Talent Advantage: A Growth Strategy for Companies in Montgomery County, Maryland",
+      "has_text": true,
+      "url": "https://mocoshow.com/2026/09/16/the-talent-advantage-a-growth-strategy-for-companies-in-montgomery-county-maryland-mon6/",
+      "source": "The MoCoShow",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Talent Advantage: A Growth Strategy for Companies in Montgomery County, Maryland https://mocoshow.com/2026/09/16/the-talent-advantage-a-growth-strategy-for-companies-in-montgomery-county-maryland-mon6/",
+          "chars": 108
+        },
+        "bluesky": {
+          "text": "The Talent Advantage: A Growth Strategy for Companies in Montgomery County, Maryland https://mocoshow.com/2026/09/16/the-talent-advantage-a-growth-strategy-for-companies-in-montgomery-county-maryland-mon6/",
+          "chars": 205
+        }
+      }
+    },
+    {
+      "id": 720,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "BlueSky, September 2026 Part 1",
+      "has_text": true,
+      "url": "http://daughternumberthree.blogspot.com/2026/09/bluesky-september-2026-part-1.html",
+      "source": "Daughter Number Three",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "BlueSky, September 2026 Part 1 http://daughternumberthree.blogspot.com/2026/09/bluesky-september-2026-part-1.html",
+          "chars": 54
+        },
+        "bluesky": {
+          "text": "BlueSky, September 2026 Part 1 http://daughternumberthree.blogspot.com/2026/09/bluesky-september-2026-part-1.html",
+          "chars": 113
+        }
+      }
+    },
+    {
+      "id": 719,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Grad Students to the Barricades",
+      "has_text": true,
+      "url": "https://dissentmagazine.org/article/grad-students-to-the-barricades/",
+      "source": "Dissent Magazine",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Grad Students to the Barricades https://dissentmagazine.org/article/grad-students-to-the-barricades/",
+          "chars": 55
+        },
+        "bluesky": {
+          "text": "Grad Students to the Barricades https://dissentmagazine.org/article/grad-students-to-the-barricades/",
+          "chars": 100
+        }
+      }
+    },
+    {
+      "id": 718,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "https://bsky.app/profile/jozefimrich.bsky.social/post/3mvnpvpzibs2w",
+      "source": "Bluesky",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " https://bsky.app/profile/jozefimrich.bsky.social/post/3mvnpvpzibs2w",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://bsky.app/profile/jozefimrich.bsky.social/post/3mvnpvpzibs2w",
+          "chars": 68
+        }
+      }
+    },
+    {
+      "id": 717,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "https://bsky.app/profile/seanmcarroll.bsky.social/post/3mvnqu7ygvs2r",
+      "source": "Bluesky",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " https://bsky.app/profile/seanmcarroll.bsky.social/post/3mvnqu7ygvs2r",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://bsky.app/profile/seanmcarroll.bsky.social/post/3mvnqu7ygvs2r",
+          "chars": 69
+        }
+      }
+    },
+    {
+      "id": 716,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "https://www.reddit.com/r/WhatTrumpHasDone/comments/1wi5jak/trump_expands_fight_against_elite_colleges_with/",
+      "source": "reddit.com/r/WhatTrumpHasDone",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " https://www.reddit.com/r/WhatTrumpHasDone/comments/1wi5jak/trump_expands_fight_against_elite_colleges_with/",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://www.reddit.com/r/WhatTrumpHasDone/comments/1wi5jak/trump_expands_fight_against_elite_colleges_with/",
+          "chars": 108
+        }
+      }
+    },
+    {
+      "id": 715,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Johns Hopkins Begins Global Hunt for New Provost",
+      "has_text": true,
+      "url": "https://www.miragenews.com/johns-hopkins-begins-global-hunt-for-new-provost-1745581/",
+      "source": "Mirage.News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Johns Hopkins Begins Global Hunt for New Provost https://www.miragenews.com/johns-hopkins-begins-global-hunt-for-new-provost-1745581/",
+          "chars": 72
+        },
+        "bluesky": {
+          "text": "Johns Hopkins Begins Global Hunt for New Provost https://www.miragenews.com/johns-hopkins-begins-global-hunt-for-new-provost-1745581/",
+          "chars": 133
+        }
+      }
+    },
+    {
+      "id": 714,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Johns Hopkins University community input sought for DOE questionnaire",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/announcements/2026/09/16/johns-hopkins-questionnaire-response/",
+      "source": "Hub - Johns Hopkins University",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Johns Hopkins University community input sought for DOE questionnaire https://hub.jhu.edu/announcements/2026/09/16/johns-hopkins-questionnaire-response/",
+          "chars": 93
+        },
+        "bluesky": {
+          "text": "Johns Hopkins University community input sought for DOE questionnaire https://hub.jhu.edu/announcements/2026/09/16/johns-hopkins-questionnaire-response/",
+          "chars": 152
+        }
+      }
+    },
+    {
+      "id": 713,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "15 jogos de PlayStation 2 que faziam qualquer locadora ficar cheia",
+      "has_text": true,
+      "url": "https://www.legiaodosherois.com.br/lista/15-jogos-de-playstation-2-que-faziam-qualquer-locadora-ficar-cheia.html",
+      "source": "Legião dos Heróis - Uol",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "15 jogos de PlayStation 2 que faziam qualquer locadora ficar cheia https://www.legiaodosherois.com.br/lista/15-jogos-de-playstation-2-que-faziam-qualquer-locadora-ficar-cheia.html",
+          "chars": 90
+        },
+        "bluesky": {
+          "text": "15 jogos de PlayStation 2 que faziam qualquer locadora ficar cheia https://www.legiaodosherois.com.br/lista/15-jogos-de-playstation-2-que-faziam-qualquer-locadora-ficar-cheia.html",
+          "chars": 179
+        }
+      }
+    },
+    {
+      "id": 712,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "30 Masters, Ph.D and Other Scholarship Opportunities Currently Open – September 16, 2026",
+      "has_text": true,
+      "url": "https://opportunitydesk.org/2026/09/16/30-masters-ph-d-and-other-scholarship-opportunities-currently-open-september-16-2026/",
+      "source": "Opportunity Desk",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "30 Masters, Ph.D and Other Scholarship Opportunities Currently Open – September 16, 2026 https://opportunitydesk.org/2026/09/16/30-masters-ph-d-and-other-scholarship-opportunities-currently-open-september-16-2026/",
+          "chars": 112
+        },
+        "bluesky": {
+          "text": "30 Masters, Ph.D and Other Scholarship Opportunities Currently Open – September 16, 2026 https://opportunitydesk.org/2026/09/16/30-masters-ph-d-and-other-scholarship-opportunities-currently-open-september-16-2026/",
+          "chars": 213
+        }
+      }
+    },
+    {
+      "id": 711,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Sacerdote tem experiência mística no momento da consagração do vinho numa missa transmitida em direto",
+      "has_text": true,
+      "url": "https://odogmadafe.wordpress.com/2026/09/16/sacerdote-tem-experiencia-mistica-no-momento-da-consagracao-do-vinho-numa-missa-transmitida-em-direto/",
+      "source": "wordpress.com",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Sacerdote tem experiência mística no momento da consagração do vinho numa missa transmitida em direto https://odogmadafe.wordpress.com/2026/09/16/sacerdote-tem-experiencia-mistica-no-momento-da-consagracao-do-vinho-numa-missa-transmitida-em-direto/",
+          "chars": 125
+        },
+        "bluesky": {
+          "text": "Sacerdote tem experiência mística no momento da consagração do vinho numa missa transmitida em direto https://odogmadafe.wordpress.com/2026/09/16/sacerdote-tem-experiencia-mistica-no-momento-da-consagracao-do-vinho-numa-missa-transmitida-em-direto/",
+          "chars": 248
+        }
+      }
+    },
+    {
+      "id": 710,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Former Polytechnic student accepted into doctoral programs at 9 American universities.",
+      "has_text": true,
+      "url": "https://www.vietnam.vn/en/cuu-sinh-vien-bach-khoa-duoc-9-dai-hoc-my-nhan-vao-chuong-trinh-tien-si",
+      "source": "Vietnam.vn",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Former Polytechnic student accepted into doctoral programs at 9 American universities. https://www.vietnam.vn/en/cuu-sinh-vien-bach-khoa-duoc-9-dai-hoc-my-nhan-vao-chuong-trinh-tien-si",
+          "chars": 110
+        },
+        "bluesky": {
+          "text": "Former Polytechnic student accepted into doctoral programs at 9 American universities. https://www.vietnam.vn/en/cuu-sinh-vien-bach-khoa-duoc-9-dai-hoc-my-nhan-vao-chuong-trinh-tien-si",
+          "chars": 184
+        }
+      }
+    },
+    {
+      "id": 709,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "O ERNEST SE REBELOU ! INVADIMOS A FORTALEZA DOS NERDS | BULLY EP.13",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=L_oRDxSUi2Q",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "O ERNEST SE REBELOU ! INVADIMOS A FORTALEZA DOS NERDS | BULLY EP.13 https://www.youtube.com/watch?v=L_oRDxSUi2Q",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "O ERNEST SE REBELOU ! INVADIMOS A FORTALEZA DOS NERDS | BULLY EP.13 https://www.youtube.com/watch?v=L_oRDxSUi2Q",
+          "chars": 111
+        }
+      }
+    },
+    {
+      "id": 708,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Breaking Science: Researchers sue NIH for violating First Modification rights – Key Findings",
+      "has_text": true,
+      "url": "https://urallnews.com/breaking-science-researchers-sue-nih-for-violating-first-amendment-rights-key-findings/",
+      "source": "UR ALL NEWS",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Breaking Science: Researchers sue NIH for violating First Modification rights – Key Findings https://urallnews.com/breaking-science-researchers-sue-nih-for-violating-first-amendment-rights-key-findings/",
+          "chars": 116
+        },
+        "bluesky": {
+          "text": "Breaking Science: Researchers sue NIH for violating First Modification rights – Key Findings https://urallnews.com/breaking-science-researchers-sue-nih-for-violating-first-amendment-rights-key-findings/",
+          "chars": 202
+        }
+      }
+    },
+    {
+      "id": 707,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Castor raivoso de grande porte morde garoto de 13 anos em Maryland, resultando em cirurgia e fechamento de parque aquático",
+      "has_text": true,
+      "url": "https://www.mixvale.com.br/2026/09/16/castor-raivoso-de-grande-porte-morde-garoto-de-13-anos-em-maryland-resultando-em-cirurgia-e-fechamento-de-parque-aquatico/",
+      "source": "Mix Vale",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Castor raivoso de grande porte morde garoto de 13 anos em Maryland, resultando em cirurgia e fechamento de parque aquático https://www.mixvale.com.br/2026/09/16/castor-raivoso-de-grande-porte-morde-garoto-de-13-anos-em-maryland-resultando-em-cirurgia-e-fechamento-de-parque-aquatico/",
+          "chars": 146
+        },
+        "bluesky": {
+          "text": "Castor raivoso de grande porte morde garoto de 13 anos em Maryland, resultando em cirurgia e fechamento de parque aquático https://www.mixvale.com.br/2026/09/16/castor-raivoso-de-grande-porte-morde-garoto-de-13-anos-em-maryland-resultando-em-cirurgia-e-fechamento-de-parque-aquatico/",
+          "chars": 283
+        }
+      }
+    },
+    {
+      "id": 705,
+      "date": "2026-09-16",
+      "week_start": "2026-09-14",
+      "person_id": "unknown",
+      "person": "unknown",
+      "is_ces": false,
+      "title": "Almost Every Flu Vaccine on Earth Is Grown Inside a Chicken Egg. The Virus We Are Preparing For Kills Chickens.",
+      "has_text": true,
+      "url": "https://medium.com/@kinimato/almost-every-flu-vaccine-on-earth-is-grown-inside-a-chicken-egg-9edf35917b39",
+      "source": "Medium",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Almost Every Flu Vaccine on Earth Is Grown Inside a Chicken Egg. The Virus We Are Preparing For Kills Chickens. https://medium.com/@kinimato/almost-every-flu-vaccine-on-earth-is-grown-inside-a-chicken-egg-9edf35917b39",
+          "chars": 135
+        },
+        "bluesky": {
+          "text": "Almost Every Flu Vaccine on Earth Is Grown Inside a Chicken Egg. The Virus We Are Preparing For Kills Chickens. https://medium.com/@kinimato/almost-every-flu-vaccine-on-earth-is-grown-inside-a-chicken-egg-9edf35917b39",
+          "chars": 217
         }
       }
     },

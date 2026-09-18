@@ -1,5 +1,111 @@
 [
   {
+    "id": "unknown",
+    "name": "unknown",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 89,
+    "mentions_in_digest": 0,
+    "reach_proxy": 116,
+    "first_mention_date": "2026-09-14",
+    "last_mention_date": "2026-09-18",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 89
+    },
+    "top_sources": [
+      {
+        "source": "Youtube",
+        "count": 7
+      },
+      {
+        "source": "Twitter",
+        "count": 6
+      },
+      {
+        "source": "Springer",
+        "count": 4
+      },
+      {
+        "source": "Bluesky",
+        "count": 3
+      },
+      {
+        "source": "Women We Admire",
+        "count": 3
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 89,
+        "reach": 116
+      }
+    ]
+  },
+  {
     "id": "snf-agora-institute",
     "name": "SNF Agora Institute",
     "kind": "org",
@@ -225,16 +331,16 @@
       "Core Faculty"
     ],
     "is_ces": true,
-    "mentions_total": 34,
-    "mentions_in_digest": 23,
-    "reach_proxy": 53,
+    "mentions_total": 35,
+    "mentions_in_digest": 24,
+    "reach_proxy": 54,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-09-10",
+    "last_mention_date": "2026-09-17",
     "sentiment": {
       "positive": 2,
       "neutral": 12,
       "negative": 0,
-      "unknown": 20
+      "unknown": 21
     },
     "top_sources": [
       {
@@ -316,8 +422,8 @@
       },
       {
         "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -532,112 +638,6 @@
         "week_start": "2026-09-14",
         "count": 1,
         "reach": 1
-      }
-    ]
-  },
-  {
-    "id": "unknown",
-    "name": "unknown",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 31,
-    "mentions_in_digest": 0,
-    "reach_proxy": 41,
-    "first_mention_date": "2026-09-14",
-    "last_mention_date": "2026-09-16",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 31
-    },
-    "top_sources": [
-      {
-        "source": "Medical Xpress",
-        "count": 2
-      },
-      {
-        "source": "Springer",
-        "count": 2
-      },
-      {
-        "source": "Twitter",
-        "count": 2
-      },
-      {
-        "source": "Austin College",
-        "count": 1
-      },
-      {
-        "source": "Broadcast",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 31,
-        "reach": 41
       }
     ]
   },
@@ -1708,6 +1708,114 @@
     ]
   },
   {
+    "id": "ruth-braunstein",
+    "name": "Ruth Braunstein",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Institute Professor of Sociology",
+    "profile_url": "https://snfagora.jhu.edu/directory/ruth-braunstein/",
+    "photo_url": null,
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 12,
+    "mentions_in_digest": 11,
+    "reach_proxy": 29,
+    "first_mention_date": "2026-07-04",
+    "last_mention_date": "2026-09-17",
+    "sentiment": {
+      "positive": 7,
+      "neutral": 5,
+      "negative": 0,
+      "unknown": 0
+    },
+    "top_sources": [
+      {
+        "source": "LinkedIn",
+        "count": 3
+      },
+      {
+        "source": "Baltimore Fishbowl",
+        "count": 2
+      },
+      {
+        "source": "JHU Hub",
+        "count": 1
+      },
+      {
+        "source": "RealClearInvestigations",
+        "count": 1
+      },
+      {
+        "source": "The Hub - Johns Hopkins University",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-29",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 3,
+        "reach": 14
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 3,
+        "reach": 10
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 2,
+        "reach": 2
+      }
+    ]
+  },
+  {
     "id": "peter-pomerantsev",
     "name": "Peter Pomerantsev",
     "kind": "faculty",
@@ -1816,114 +1924,6 @@
     ]
   },
   {
-    "id": "ruth-braunstein",
-    "name": "Ruth Braunstein",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Institute Professor of Sociology",
-    "profile_url": "https://snfagora.jhu.edu/directory/ruth-braunstein/",
-    "photo_url": null,
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 11,
-    "mentions_in_digest": 10,
-    "reach_proxy": 28,
-    "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-09-14",
-    "sentiment": {
-      "positive": 7,
-      "neutral": 4,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [
-      {
-        "source": "LinkedIn",
-        "count": 3
-      },
-      {
-        "source": "Baltimore Fishbowl",
-        "count": 2
-      },
-      {
-        "source": "JHU Hub",
-        "count": 1
-      },
-      {
-        "source": "RealClearInvestigations",
-        "count": 1
-      },
-      {
-        "source": "The Hub - Johns Hopkins University",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-29",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 3,
-        "reach": 14
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 3,
-        "reach": 10
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 1,
-        "reach": 1
-      }
-    ]
-  },
-  {
     "id": "eugene-scott",
     "name": "Eugene Scott",
     "kind": "faculty",
@@ -1935,18 +1935,22 @@
       "Visiting Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 9,
-    "mentions_in_digest": 7,
-    "reach_proxy": 12,
+    "mentions_total": 10,
+    "mentions_in_digest": 8,
+    "reach_proxy": 14,
     "first_mention_date": "2026-07-13",
-    "last_mention_date": "2026-09-15",
+    "last_mention_date": "2026-09-17",
     "sentiment": {
       "positive": 1,
-      "neutral": 4,
+      "neutral": 5,
       "negative": 0,
       "unknown": 4
     },
     "top_sources": [
+      {
+        "source": "Hub - Johns Hopkins University",
+        "count": 2
+      },
       {
         "source": "POLITICO",
         "count": 2
@@ -1957,10 +1961,6 @@
       },
       {
         "source": "Bluesky",
-        "count": 1
-      },
-      {
-        "source": "Hub - Johns Hopkins University",
         "count": 1
       },
       {
@@ -2026,8 +2026,8 @@
       },
       {
         "week_start": "2026-09-14",
-        "count": 2,
-        "reach": 4
+        "count": 3,
+        "reach": 6
       }
     ]
   },
@@ -4682,6 +4682,100 @@
     ]
   },
   {
+    "id": "johnnie-moore",
+    "name": "Johnnie Moore",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": "images/people/johnnie-moore.jpg",
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 2,
+    "mentions_in_digest": 2,
+    "reach_proxy": 7,
+    "first_mention_date": "2026-07-15",
+    "last_mention_date": "2026-09-18",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0,
+      "unknown": 0
+    },
+    "top_sources": [
+      {
+        "source": "RealClearInvestigations",
+        "count": 1
+      },
+      {
+        "source": "The Johns Hopkins News-Letter",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 1,
+        "reach": 6
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "ling-chen",
     "name": "Ling Chen",
     "kind": "faculty",
@@ -7136,96 +7230,6 @@
         "week_start": "2026-08-17",
         "count": 1,
         "reach": 1
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "johnnie-moore",
-    "name": "Johnnie Moore",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": "images/people/johnnie-moore.jpg",
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 1,
-    "mentions_in_digest": 1,
-    "reach_proxy": 6,
-    "first_mention_date": "2026-07-15",
-    "last_mention_date": "2026-07-15",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 1,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [
-      {
-        "source": "RealClearInvestigations",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 1,
-        "reach": 6
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
       },
       {
         "week_start": "2026-08-24",
