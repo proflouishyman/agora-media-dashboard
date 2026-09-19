@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-09-18T07:11:14-04:00",
-  "count": 720,
+  "generated_at": "2026-09-19T09:20:43-04:00",
+  "count": 744,
   "stories": [
+    {
+      "id": 739,
+      "date": "2026-09-19",
+      "week_start": "2026-09-14",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Por que a aposta nuclear da Arábia Saudita acirra disputa entre EUA, China e Irã",
+      "has_text": true,
+      "url": "https://exame.com/mundo/arabia-saudita-nuclear-as-oportunidades-e-riscos-para-o-oriente-medio-e-o-mundo/",
+      "source": "Exame",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Por que a aposta nuclear da Arábia Saudita acirra disputa entre EUA, China e Irã https://exame.com/mundo/arabia-saudita-nuclear-as-oportunidades-e-riscos-para-o-oriente-medio-e-o-mundo/",
+          "chars": 104
+        },
+        "bluesky": {
+          "text": "Por que a aposta nuclear da Arábia Saudita acirra disputa entre EUA, China e Irã https://exame.com/mundo/arabia-saudita-nuclear-as-oportunidades-e-riscos-para-o-oriente-medio-e-o-mundo/",
+          "chars": 185
+        }
+      }
+    },
+    {
+      "id": 741,
+      "date": "2026-09-18",
+      "week_start": "2026-09-14",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "A era do autismo",
+      "has_text": true,
+      "url": "https://super.abril.com.br/saude/a-era-do-autismo/",
+      "source": "Abril.com",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "A era do autismo https://super.abril.com.br/saude/a-era-do-autismo/",
+          "chars": 40
+        },
+        "bluesky": {
+          "text": "A era do autismo https://super.abril.com.br/saude/a-era-do-autismo/",
+          "chars": 67
+        }
+      }
+    },
     {
       "id": 668,
       "date": "2026-09-18",
@@ -25,6 +77,524 @@
         "bluesky": {
           "text": "Yolanda Hopkins garante continuidade no circuito mundial de surf https://www.dn.pt/desporto/yolanda-hopkins-garante-continuidade-no-circuito-mundial-de-surf",
           "chars": 156
+        }
+      }
+    },
+    {
+      "id": 750,
+      "date": "2026-09-18",
+      "week_start": "2026-09-14",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Associate and Full Professor",
+      "has_text": true,
+      "url": "https://jobs.world.edu/jobs/associate-and-full-professor/",
+      "source": "World",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Associate and Full Professor https://jobs.world.edu/jobs/associate-and-full-professor/",
+          "chars": 52
+        },
+        "bluesky": {
+          "text": "Associate and Full Professor https://jobs.world.edu/jobs/associate-and-full-professor/",
+          "chars": 86
+        }
+      }
+    },
+    {
+      "id": 749,
+      "date": "2026-09-18",
+      "week_start": "2026-09-14",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Division/Section Awards & Presentations",
+      "has_text": true,
+      "url": "https://www.electrochem.org/250/division-awards",
+      "source": "The Electrochemical Society",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Division/Section Awards & Presentations https://www.electrochem.org/250/division-awards",
+          "chars": 63
+        },
+        "bluesky": {
+          "text": "Division/Section Awards & Presentations https://www.electrochem.org/250/division-awards",
+          "chars": 87
+        }
+      }
+    },
+    {
+      "id": 748,
+      "date": "2026-09-18",
+      "week_start": "2026-09-14",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Intus Bio-Led Consortium Receives $2.7M NIH/NCI Fast-Track Award for Bacteria-Based Early-Onset Colorectal Cancer Test",
+      "has_text": true,
+      "url": "https://folhabrasilnews.blogspot.com/p/prnewswirenews.html?rkey=20260911NY45552&filter=28731",
+      "source": "Folha Brasil News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Intus Bio-Led Consortium Receives $2.7M NIH/NCI Fast-Track Award for Bacteria-Based Early-Onset Colorectal Cancer Test https://folhabrasilnews.blogspot.com/p/prnewswirenews.html?rkey=20260911NY45552&filter=28731",
+          "chars": 142
+        },
+        "bluesky": {
+          "text": "Intus Bio-Led Consortium Receives $2.7M NIH/NCI Fast-Track Award for Bacteria-Based Early-Onset Colorectal Cancer Test https://folhabrasilnews.blogspot.com/p/prnewswirenews.html?rkey=20260911NY45552&filter=28731",
+          "chars": 211
+        }
+      }
+    },
+    {
+      "id": 747,
+      "date": "2026-09-18",
+      "week_start": "2026-09-14",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Strength training not tied to ventricular arrhythmia in those with arrhythmogenic cardiomyopathy",
+      "has_text": true,
+      "url": "https://medicalxpress.com/news/2026-09-strength-ventricular-arrhythmia-arrhythmogenic-cardiomyopathy.html",
+      "source": "Medical Xpress",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Strength training not tied to ventricular arrhythmia in those with arrhythmogenic cardiomyopathy https://medicalxpress.com/news/2026-09-strength-ventricular-arrhythmia-arrhythmogenic-cardiomyopathy.html",
+          "chars": 120
+        },
+        "bluesky": {
+          "text": "Strength training not tied to ventricular arrhythmia in those with arrhythmogenic cardiomyopathy https://medicalxpress.com/news/2026-09-strength-ventricular-arrhythmia-arrhythmogenic-cardiomyopathy.html",
+          "chars": 202
+        }
+      }
+    },
+    {
+      "id": 746,
+      "date": "2026-09-18",
+      "week_start": "2026-09-14",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Fresno native's book tells inspirational story of poverty to surgeon",
+      "has_text": true,
+      "url": "https://kmph.com/news/local/fresno-natives-book-tells-inspirational-story-of-poverty-to-johns-hopkins-university-mclane-high-school-ted-c-wills-community-center-ucla-medical-school-dr-james-harris",
+      "source": "KMPH-TV",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Fresno native's book tells inspirational story of poverty to surgeon https://kmph.com/news/local/fresno-natives-book-tells-inspirational-story-of-poverty-to-johns-hopkins-university-mclane-high-school-ted-c-wills-community-center-ucla-medical-school-dr-james-harris",
+          "chars": 92
+        },
+        "bluesky": {
+          "text": "Fresno native's book tells inspirational story of poverty to surgeon https://kmph.com/news/local/fresno-natives-book-tells-inspirational-story-of-poverty-to-johns-hopkins-university-mclane-high-school-ted-c-wills-community-center-ucla-medical-school-dr-james-harris",
+          "chars": 265
+        }
+      }
+    },
+    {
+      "id": 745,
+      "date": "2026-09-18",
+      "week_start": "2026-09-14",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Health Care Week in Review | Senate Committees Hold Confirmation Hearings for Trump Administration HHS Nominees; House Ways and Means Committee Advances Several Health Care Bills",
+      "has_text": true,
+      "url": "https://www.jdsupra.com/legalnews/health-care-week-in-review-senate-2715378/",
+      "source": "JD Supra",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Health Care Week in Review | Senate Committees Hold Confirmation Hearings for Trump Administration HHS Nominees; House Ways and Means Committee Advances Several Health Care Bills https://www.jdsupra.com/legalnews/health-care-week-in-review-senate-2715378/",
+          "chars": 202
+        },
+        "bluesky": {
+          "text": "Health Care Week in Review | Senate Committees Hold Confirmation Hearings for Trump Administration HHS Nominees; House Ways and Means Committee Advances Several Health Care Bills https://www.jdsupra.com/legalnews/health-care-week-in-review-senate-2715378/",
+          "chars": 255
+        }
+      }
+    },
+    {
+      "id": 744,
+      "date": "2026-09-18",
+      "week_start": "2026-09-14",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "ABUAD Founder, Afe Babalola welcomes fresh students, tasks them on discipline, big dreams",
+      "has_text": true,
+      "url": "https://solidmedia974482948.wordpress.com/2026/09/19/abuad-founder-afe-babalola-welcomes-fresh-students-tasks-them-on-discipline-big-dreams/",
+      "source": "wordpress.com",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "ABUAD Founder, Afe Babalola welcomes fresh students, tasks them on discipline, big dreams https://solidmedia974482948.wordpress.com/2026/09/19/abuad-founder-afe-babalola-welcomes-fresh-students-tasks-them-on-discipline-big-dreams/",
+          "chars": 113
+        },
+        "bluesky": {
+          "text": "ABUAD Founder, Afe Babalola welcomes fresh students, tasks them on discipline, big dreams https://solidmedia974482948.wordpress.com/2026/09/19/abuad-founder-afe-babalola-welcomes-fresh-students-tasks-them-on-discipline-big-dreams/",
+          "chars": 230
+        }
+      }
+    },
+    {
+      "id": 743,
+      "date": "2026-09-18",
+      "week_start": "2026-09-14",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "After 50 Years of Failed Attempts, Is a Drug Vaccine Close?",
+      "has_text": true,
+      "url": "https://awesomecapital.blogspot.com/2026/09/after-50-years-of-failed-attempts-is.html",
+      "source": "AwesomeCapital",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "After 50 Years of Failed Attempts, Is a Drug Vaccine Close? https://awesomecapital.blogspot.com/2026/09/after-50-years-of-failed-attempts-is.html",
+          "chars": 83
+        },
+        "bluesky": {
+          "text": "After 50 Years of Failed Attempts, Is a Drug Vaccine Close? https://awesomecapital.blogspot.com/2026/09/after-50-years-of-failed-attempts-is.html",
+          "chars": 145
+        }
+      }
+    },
+    {
+      "id": 742,
+      "date": "2026-09-18",
+      "week_start": "2026-09-14",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "ASRM/CFAS BOM Speakers",
+      "has_text": true,
+      "url": "https://www.asrm.org/asrm-academy/professional-engagement/asrmcfas-business-of-medicine-conference/asrmcfas-bom-speakers/?_t_tags=siteid:01216f06-3dc9-4ac9-96da-555740dd020c,language:en&_t_hit.id=ASRM_Models_Pages_ContentPage/_1fe28bba-a4b0-4a77-aa97-f0eb9c8fc142_en&_t_hit.pos=8",
+      "source": "Journal of Assisted Reproduction and Genetics",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "ASRM/CFAS BOM Speakers https://www.asrm.org/asrm-academy/professional-engagement/asrmcfas-business-of-medicine-conference/asrmcfas-bom-speakers/?_t_tags=siteid:01216f06-3dc9-4ac9-96da-555740dd020c,language:en&_t_hit.id=ASRM_Models_Pages_ContentPage/_1fe28bba-a4b0-4a77-aa97-f0eb9c8fc142_en&_t_hit.pos=8",
+          "chars": 46
+        },
+        "bluesky": {
+          "text": "ASRM/CFAS BOM Spea… https://www.asrm.org/asrm-academy/professional-engagement/asrmcfas-business-of-medicine-conference/asrmcfas-bom-speakers/?_t_tags=siteid:01216f06-3dc9-4ac9-96da-555740dd020c,language:en&_t_hit.id=ASRM_Models_Pages_ContentPage/_1fe28bba-a4b0-4a77-aa97-f0eb9c8fc142_en&_t_hit.pos=8",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 740,
+      "date": "2026-09-18",
+      "week_start": "2026-09-14",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Luke Speakman: ator prodígio de Hollywood estrela primeiro filme internacional da Brasil Paralelo",
+      "has_text": true,
+      "url": "https://www.brasilparalelo.com.br/noticias/prodigio-de-hollywood-estrela-filme-da-brasil-paralelo",
+      "source": "Brasil Paralelo",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Luke Speakman: ator prodígio de Hollywood estrela primeiro filme internacional da Brasil Paralelo https://www.brasilparalelo.com.br/noticias/prodigio-de-hollywood-estrela-filme-da-brasil-paralelo",
+          "chars": 121
+        },
+        "bluesky": {
+          "text": "Luke Speakman: ator prodígio de Hollywood estrela primeiro filme internacional da Brasil Paralelo https://www.brasilparalelo.com.br/noticias/prodigio-de-hollywood-estrela-filme-da-brasil-paralelo",
+          "chars": 195
+        }
+      }
+    },
+    {
+      "id": 738,
+      "date": "2026-09-18",
+      "week_start": "2026-09-14",
+      "person_id": "emily-white",
+      "person": "Emily White",
+      "is_ces": false,
+      "title": "WAND’s Athlete of the Week: Peyton Zeidler",
+      "has_text": true,
+      "url": "https://www.wandtv.com/2026/09/19/wands-athlete-week-peyton-zeidler/",
+      "source": "WAND-TV",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "WAND’s Athlete of the Week: Peyton Zeidler https://www.wandtv.com/2026/09/19/wands-athlete-week-peyton-zeidler/",
+          "chars": 66
+        },
+        "bluesky": {
+          "text": "WAND’s Athlete of the Week: Peyton Zeidler https://www.wandtv.com/2026/09/19/wands-athlete-week-peyton-zeidler/",
+          "chars": 111
+        }
+      }
+    },
+    {
+      "id": 737,
+      "date": "2026-09-18",
+      "week_start": "2026-09-14",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Stephen K. Bannon: He’s White, He’s A Nationalist, But He’s Not A White Nationalist",
+      "has_text": true,
+      "url": "https://www.winterwatch.net/2016/11/stephen-k-bannon-hes-white-hes-a-nationalist-but-hes-not-a-white-nationalist/",
+      "source": "WinterWatch",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Stephen K. Bannon: He’s White, He’s A Nationalist, But He’s Not A White Nationalist https://www.winterwatch.net/2016/11/stephen-k-bannon-hes-white-hes-a-nationalist-but-hes-not-a-white-nationalist/",
+          "chars": 107
+        },
+        "bluesky": {
+          "text": "Stephen K. Bannon: He’s White, He’s A Nationalist, But He’s Not A White Nationalist https://www.winterwatch.net/2016/11/stephen-k-bannon-hes-white-hes-a-nationalist-but-hes-not-a-white-nationalist/",
+          "chars": 197
+        }
+      }
+    },
+    {
+      "id": 736,
+      "date": "2026-09-18",
+      "week_start": "2026-09-14",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 735,
+      "date": "2026-09-18",
+      "week_start": "2026-09-14",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 734,
+      "date": "2026-09-18",
+      "week_start": "2026-09-14",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 733,
+      "date": "2026-09-18",
+      "week_start": "2026-09-14",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 732,
+      "date": "2026-09-18",
+      "week_start": "2026-09-14",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 731,
+      "date": "2026-09-18",
+      "week_start": "2026-09-14",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 730,
+      "date": "2026-09-18",
+      "week_start": "2026-09-14",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "How Daniels’ record compares with the Trump administration’s higher education framework",
+      "has_text": true,
+      "url": "https://www.jhunewsletter.com/article/2026/09/how-daniels-record-compares-with-the-trump-administrations-higher-education-framework",
+      "source": "The Johns Hopkins News-Letter",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "How Daniels’ record compares with the Trump administration’s higher education framework https://www.jhunewsletter.com/article/2026/09/how-daniels-record-compares-with-the-trump-administrations-higher-education-framework",
+          "chars": 111
+        },
+        "bluesky": {
+          "text": "How Daniels’ record compares with the Trump administration’s higher education framework https://www.jhunewsletter.com/article/2026/09/how-daniels-record-compares-with-the-trump-administrations-higher-education-framework",
+          "chars": 219
+        }
+      }
+    },
+    {
+      "id": 729,
+      "date": "2026-09-18",
+      "week_start": "2026-09-14",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "The Anne Applebaum theory of the Russian invasion of Ukraine",
+      "has_text": true,
+      "url": "https://observationsinanundemocraticworld.com/2026/09/19/the-anne-applebaum-theory-of-the-russian-invasion-of-ukraine/",
+      "source": "wordpress.com",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "The Anne Applebaum theory of the Russian invasion of Ukraine https://observationsinanundemocraticworld.com/2026/09/19/the-anne-applebaum-theory-of-the-russian-invasion-of-ukraine/",
+          "chars": 84
+        },
+        "bluesky": {
+          "text": "The Anne Applebaum theory of the Russian invasion of Ukraine https://observationsinanundemocraticworld.com/2026/09/19/the-anne-applebaum-theory-of-the-russian-invasion-of-ukraine/",
+          "chars": 179
+        }
+      }
+    },
+    {
+      "id": 728,
+      "date": "2026-09-18",
+      "week_start": "2026-09-14",
+      "person_id": "jenna-storey",
+      "person": "Jenna Silber Storey",
+      "is_ces": false,
+      "title": "From Student to Citizen: The Future of Higher Education",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=dtzX7Y8eR3Y",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "From Student to Citizen: The Future of Higher Education https://www.youtube.com/watch?v=dtzX7Y8eR3Y",
+          "chars": 79
+        },
+        "bluesky": {
+          "text": "From Student to Citizen: The Future of Higher Education https://www.youtube.com/watch?v=dtzX7Y8eR3Y",
+          "chars": 99
+        }
+      }
+    },
+    {
+      "id": 727,
+      "date": "2026-09-18",
+      "week_start": "2026-09-14",
+      "person_id": "scott-warren",
+      "person": "Scott Warren",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7506691217452351488",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": " https://www.linkedin.com/feed/update/urn:li:share:7506691217452351488",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://www.linkedin.com/feed/update/urn:li:share:7506691217452351488",
+          "chars": 70
         }
       }
     },
