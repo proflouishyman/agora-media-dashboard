@@ -115,16 +115,16 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 78,
-    "mentions_in_digest": 30,
-    "reach_proxy": 165,
+    "mentions_total": 82,
+    "mentions_in_digest": 31,
+    "reach_proxy": 170,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-09-15",
+    "last_mention_date": "2026-09-19",
     "sentiment": {
       "positive": 21,
       "neutral": 27,
       "negative": 3,
-      "unknown": 27
+      "unknown": 31
     },
     "top_sources": [
       {
@@ -206,8 +206,8 @@
       },
       {
         "week_start": "2026-09-14",
-        "count": 3,
-        "reach": 8
+        "count": 7,
+        "reach": 13
       }
     ]
   },
@@ -223,21 +223,21 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 52,
-    "mentions_in_digest": 28,
-    "reach_proxy": 294,
+    "mentions_total": 55,
+    "mentions_in_digest": 29,
+    "reach_proxy": 297,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-09-16",
+    "last_mention_date": "2026-09-18",
     "sentiment": {
-      "positive": 8,
+      "positive": 9,
       "neutral": 12,
       "negative": 5,
-      "unknown": 27
+      "unknown": 29
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 9
+        "count": 10
       },
       {
         "source": "Substack",
@@ -314,8 +314,114 @@
       },
       {
         "week_start": "2026-09-14",
-        "count": 4,
-        "reach": 4
+        "count": 7,
+        "reach": 7
+      }
+    ]
+  },
+  {
+    "id": "johns-hopkins",
+    "name": "Johns Hopkins",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 36,
+    "mentions_in_digest": 0,
+    "reach_proxy": 37,
+    "first_mention_date": "2026-08-30",
+    "last_mention_date": "2026-09-18",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 36
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 9
+      },
+      {
+        "source": "Substack",
+        "count": 3
+      },
+      {
+        "source": "Springer",
+        "count": 2
+      },
+      {
+        "source": "AwesomeCapital",
+        "count": 1
+      },
+      {
+        "source": "BigGo Finance",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 6,
+        "reach": 7
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 16,
+        "reach": 16
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 14,
+        "reach": 14
       }
     ]
   },
@@ -849,112 +955,6 @@
         "week_start": "2026-09-07",
         "count": 4,
         "reach": 46
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "johns-hopkins",
-    "name": "Johns Hopkins",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 22,
-    "mentions_in_digest": 0,
-    "reach_proxy": 23,
-    "first_mention_date": "2026-08-30",
-    "last_mention_date": "2026-09-05",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 22
-    },
-    "top_sources": [
-      {
-        "source": "Twitter",
-        "count": 4
-      },
-      {
-        "source": "Substack",
-        "count": 3
-      },
-      {
-        "source": "Springer",
-        "count": 2
-      },
-      {
-        "source": "BigGo Finance",
-        "count": 1
-      },
-      {
-        "source": "Colombia One",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 6,
-        "reach": 7
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 16,
-        "reach": 16
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
       },
       {
         "week_start": "2026-09-14",
@@ -2032,6 +2032,114 @@
     ]
   },
   {
+    "id": "scott-warren",
+    "name": "Scott Warren",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Fellow",
+    "profile_url": "https://snfagora.jhu.edu/directory/scott-warren/",
+    "photo_url": "images/people/scott-warren.jpg",
+    "categories": [
+      "Continuing Faculty + Fellows"
+    ],
+    "is_ces": false,
+    "mentions_total": 9,
+    "mentions_in_digest": 8,
+    "reach_proxy": 13,
+    "first_mention_date": "2026-07-02",
+    "last_mention_date": "2026-09-18",
+    "sentiment": {
+      "positive": 3,
+      "neutral": 4,
+      "negative": 0,
+      "unknown": 2
+    },
+    "top_sources": [
+      {
+        "source": "LinkedIn",
+        "count": 4
+      },
+      {
+        "source": "Bluesky",
+        "count": 1
+      },
+      {
+        "source": "Reddit",
+        "count": 1
+      },
+      {
+        "source": "Substack (New Voters 250)",
+        "count": 1
+      },
+      {
+        "source": "The Denver Gazette",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-29",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 1,
+        "reach": 6
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 1,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 2,
+        "reach": 2
+      }
+    ]
+  },
+  {
     "id": "false-positive",
     "name": "(false positive)",
     "kind": "unmatched",
@@ -2246,114 +2354,6 @@
     ]
   },
   {
-    "id": "scott-warren",
-    "name": "Scott Warren",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Fellow",
-    "profile_url": "https://snfagora.jhu.edu/directory/scott-warren/",
-    "photo_url": "images/people/scott-warren.jpg",
-    "categories": [
-      "Continuing Faculty + Fellows"
-    ],
-    "is_ces": false,
-    "mentions_total": 8,
-    "mentions_in_digest": 7,
-    "reach_proxy": 12,
-    "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-09-14",
-    "sentiment": {
-      "positive": 2,
-      "neutral": 4,
-      "negative": 0,
-      "unknown": 2
-    },
-    "top_sources": [
-      {
-        "source": "LinkedIn",
-        "count": 3
-      },
-      {
-        "source": "Bluesky",
-        "count": 1
-      },
-      {
-        "source": "Reddit",
-        "count": 1
-      },
-      {
-        "source": "Substack (New Voters 250)",
-        "count": 1
-      },
-      {
-        "source": "The Denver Gazette",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-29",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 1,
-        "reach": 6
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 1,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 1,
-        "reach": 1
-      }
-    ]
-  },
-  {
     "id": "amy-binder",
     "name": "Amy Binder",
     "kind": "faculty",
@@ -2458,6 +2458,110 @@
         "week_start": "2026-09-14",
         "count": 3,
         "reach": 3
+      }
+    ]
+  },
+  {
+    "id": "emily-white",
+    "name": "Emily White",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Fellow, Impact Concerts & Data",
+    "profile_url": "https://snfagora.jhu.edu/directory/emily-white/",
+    "photo_url": "images/people/emily-white.jpeg",
+    "categories": [
+      "Continuing Faculty + Fellows"
+    ],
+    "is_ces": false,
+    "mentions_total": 7,
+    "mentions_in_digest": 2,
+    "reach_proxy": 7,
+    "first_mention_date": "2026-07-17",
+    "last_mention_date": "2026-09-18",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 6
+    },
+    "top_sources": [
+      {
+        "source": "WAND-TV",
+        "count": 3
+      },
+      {
+        "source": "The Berkshire Edge",
+        "count": 2
+      },
+      {
+        "source": "LinkedIn",
+        "count": 1
+      },
+      {
+        "source": "Substack (Friday Power Lunch)",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 3,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -2782,43 +2886,43 @@
     ]
   },
   {
-    "id": "emily-white",
-    "name": "Emily White",
+    "id": "jenna-storey",
+    "name": "Jenna Silber Storey",
     "kind": "faculty",
     "tracked": true,
-    "title": "SNF Agora Fellow, Impact Concerts & Data",
-    "profile_url": "https://snfagora.jhu.edu/directory/emily-white/",
-    "photo_url": "images/people/emily-white.jpeg",
+    "title": "SNF Agora Visiting Fellow, AY25-26",
+    "profile_url": "https://snfagora.jhu.edu/directory/jenna-storey/",
+    "photo_url": "images/people/jenna-storey.jpg",
     "categories": [
-      "Continuing Faculty + Fellows"
+      "Visiting Fellows"
     ],
     "is_ces": false,
     "mentions_total": 6,
-    "mentions_in_digest": 2,
-    "reach_proxy": 6,
-    "first_mention_date": "2026-07-17",
-    "last_mention_date": "2026-09-12",
+    "mentions_in_digest": 5,
+    "reach_proxy": 143,
+    "first_mention_date": "2026-08-03",
+    "last_mention_date": "2026-09-18",
     "sentiment": {
-      "positive": 1,
-      "neutral": 0,
+      "positive": 3,
+      "neutral": 1,
       "negative": 0,
-      "unknown": 5
+      "unknown": 2
     },
     "top_sources": [
       {
-        "source": "The Berkshire Edge",
-        "count": 2
+        "source": "Youtube",
+        "count": 3
       },
       {
-        "source": "WAND-TV",
-        "count": 2
-      },
-      {
-        "source": "LinkedIn",
+        "source": "EUROPE SAYS",
         "count": 1
       },
       {
-        "source": "Substack (Friday Power Lunch)",
+        "source": "Inside Higher Ed",
+        "count": 1
+      },
+      {
+        "source": "PR Newswire",
         "count": 1
       }
     ],
@@ -2835,8 +2939,8 @@
       },
       {
         "week_start": "2026-07-13",
-        "count": 1,
-        "reach": 1
+        "count": 0,
+        "reach": 0
       },
       {
         "week_start": "2026-07-20",
@@ -2850,8 +2954,8 @@
       },
       {
         "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
+        "count": 2,
+        "reach": 2
       },
       {
         "week_start": "2026-08-10",
@@ -2865,23 +2969,23 @@
       },
       {
         "week_start": "2026-08-24",
-        "count": 3,
-        "reach": 3
+        "count": 0,
+        "reach": 0
       },
       {
         "week_start": "2026-08-31",
         "count": 1,
-        "reach": 1
+        "reach": 138
       },
       {
         "week_start": "2026-09-07",
-        "count": 1,
-        "reach": 1
+        "count": 0,
+        "reach": 0
       },
       {
         "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
+        "count": 3,
+        "reach": 3
       }
     ]
   },
@@ -3090,110 +3194,6 @@
         "week_start": "2026-09-14",
         "count": 0,
         "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "jenna-storey",
-    "name": "Jenna Silber Storey",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Visiting Fellow, AY25-26",
-    "profile_url": "https://snfagora.jhu.edu/directory/jenna-storey/",
-    "photo_url": "images/people/jenna-storey.jpg",
-    "categories": [
-      "Visiting Fellows"
-    ],
-    "is_ces": false,
-    "mentions_total": 5,
-    "mentions_in_digest": 4,
-    "reach_proxy": 142,
-    "first_mention_date": "2026-08-03",
-    "last_mention_date": "2026-09-15",
-    "sentiment": {
-      "positive": 3,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 2
-    },
-    "top_sources": [
-      {
-        "source": "Youtube",
-        "count": 2
-      },
-      {
-        "source": "EUROPE SAYS",
-        "count": 1
-      },
-      {
-        "source": "Inside Higher Ed",
-        "count": 1
-      },
-      {
-        "source": "PR Newswire",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 1,
-        "reach": 138
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 2,
-        "reach": 2
       }
     ]
   },

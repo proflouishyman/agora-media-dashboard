@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-18T07:11:14-04:00",
-  "count": 55,
+  "generated_at": "2026-09-19T09:20:43-04:00",
+  "count": 56,
   "picks": [
+    {
+      "id": 73,
+      "mention_id": 727,
+      "digest_date": "2026-09-18",
+      "person": "Scott Warren",
+      "person_id": "scott-warren",
+      "person_ids": [
+        "scott-warren"
+      ],
+      "is_ces": false,
+      "punchy_title": "A year of listening to the people who actually run elections",
+      "headline": "A year of listening to the people who actually run elections",
+      "pull_quote": "This month marks one year since I started my role at the SNF Agora Institute at Johns Hopkins University. In this position, I’ve had the invaluable opportunity to travel the country and speak with conservative election officials, policymakers,",
+      "rationale": "This month marks one year since I started my role at the SNF Agora Institute at Johns Hopkins University. In this position, I’ve had the invaluable opportunity to travel the country and speak with conservative election officials, policymakers,",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7506691217452351488",
+      "story_url": "https://www.linkedin.com/feed/update/urn:li:share:7506691217452351488",
+      "created_at": "2026-09-19 13:20:34",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "One year in as an SNF Agora Fellow, Scott Warren has spent it on the road — talking with conservative election officials and policymakers about how American elections actually work.",
+          "chars": 181,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=One%20year%20in%20as%20an%20SNF%20Agora%20Fellow%2C%20Scott%20Warren%20has%20spent%20it%20on%20the%20road%20%E2%80%94%20talking%20with%20conservative%20election%20officials%20and%20policymakers%20about%20how%20American%20elections%20actually%20work.%20https%3A//www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7506691217452351488"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "One year in as an SNF Agora Fellow, Scott Warren has spent it on the road — talking with conservative election officials and policymakers about how American elections actually work.",
+          "chars": 181,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=One%20year%20in%20as%20an%20SNF%20Agora%20Fellow%2C%20Scott%20Warren%20has%20spent%20it%20on%20the%20road%20%E2%80%94%20talking%20with%20conservative%20election%20officials%20and%20policymakers%20about%20how%20American%20elections%20actually%20work.%20https%3A//www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7506691217452351488"
+        }
+      ]
+    },
     {
       "id": 72,
       "mention_id": 670,
