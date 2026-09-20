@@ -1,7 +1,249 @@
 {
-  "generated_at": "2026-09-19T09:20:43-04:00",
-  "count": 744,
+  "generated_at": "2026-09-20T07:09:04-04:00",
+  "count": 754,
   "stories": [
+    {
+      "id": 756,
+      "date": "2026-09-20",
+      "week_start": "2026-09-14",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Cérebro não é como mostram os livros? Descoberta desafia visão de 100 anos",
+      "has_text": true,
+      "url": "https://exame.com/ciencia/cerebro-nao-e-como-mostram-os-livros-descoberta-desafia-visao-de-100-anos/",
+      "source": "Exame",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Cérebro não é como mostram os livros? Descoberta desafia visão de 100 anos https://exame.com/ciencia/cerebro-nao-e-como-mostram-os-livros-descoberta-desafia-visao-de-100-anos/",
+          "chars": 98
+        },
+        "bluesky": {
+          "text": "Cérebro não é como mostram os livros? Descoberta desafia visão de 100 anos https://exame.com/ciencia/cerebro-nao-e-como-mostram-os-livros-descoberta-desafia-visao-de-100-anos/",
+          "chars": 175
+        }
+      }
+    },
+    {
+      "id": 751,
+      "date": "2026-09-19",
+      "week_start": "2026-09-14",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "MAGA hails Trump's deal with Greenland – but is it any different from what the US already had?",
+      "has_text": true,
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-deal-greenland-different-maga-b3052901.html",
+      "source": "The Independent",
+      "source_type": "online news",
+      "similar_mention_count": 14,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "MAGA hails Trump's deal with Greenland – but is it any different from what the US already had? https://www.independent.co.uk/news/world/americas/us-politics/trump-deal-greenland-different-maga-b3052901.html",
+          "chars": 118
+        },
+        "bluesky": {
+          "text": "MAGA hails Trump's deal with Greenland – but is it any different from what the US already had? https://www.independent.co.uk/news/world/americas/us-politics/trump-deal-greenland-different-maga-b3052901.html",
+          "chars": 206
+        }
+      }
+    },
+    {
+      "id": 755,
+      "date": "2026-09-19",
+      "week_start": "2026-09-14",
+      "person_id": "leah-wright",
+      "person": "Leah Wright",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 754,
+      "date": "2026-09-19",
+      "week_start": "2026-09-14",
+      "person_id": "adria-lawrence",
+      "person": "Adria Lawrence",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 762,
+      "date": "2026-09-19",
+      "week_start": "2026-09-14",
+      "person_id": "james-loeffler-not-tracked",
+      "person": "James Loeffler (not tracked)",
+      "is_ces": false,
+      "title": "Opinion: For Trump, Jews are proving to be a very useful tool",
+      "has_text": true,
+      "url": "https://www.sltrib.com/opinion/commentary/2026/09/19/opinion-trump-jews-are-proving-be/",
+      "source": "The Salt Lake Tribune",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Opinion: For Trump, Jews are proving to be a very useful tool https://www.sltrib.com/opinion/commentary/2026/09/19/opinion-trump-jews-are-proving-be/",
+          "chars": 85
+        },
+        "bluesky": {
+          "text": "Opinion: For Trump, Jews are proving to be a very useful tool https://www.sltrib.com/opinion/commentary/2026/09/19/opinion-trump-jews-are-proving-be/",
+          "chars": 149
+        }
+      }
+    },
+    {
+      "id": 761,
+      "date": "2026-09-19",
+      "week_start": "2026-09-14",
+      "person_id": "henry-farrell-passing-book-citation-not-coverage",
+      "person": "Henry Farrell (passing book citation, not coverage)",
+      "is_ces": false,
+      "title": "Vozes de Emaús: O império atua no subterrâneo - o crepúsculo das soberanias",
+      "has_text": true,
+      "url": "https://www.ihu.unisinos.br/671073-vozes-de-emaus-o-imperio-atua-no-subterraneo-o-crepusculo-das-soberanias-artigo-de-teofilo-cavalcanti",
+      "source": "Instituto Humanitas Unisinos",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Vozes de Emaús: O império atua no subterrâneo - o crepúsculo das soberanias https://www.ihu.unisinos.br/671073-vozes-de-emaus-o-imperio-atua-no-subterraneo-o-crepusculo-das-soberanias-artigo-de-teofilo-cavalcanti",
+          "chars": 99
+        },
+        "bluesky": {
+          "text": "Vozes de Emaús: O império atua no subterrâneo - o crepúsculo das soberanias https://www.ihu.unisinos.br/671073-vozes-de-emaus-o-imperio-atua-no-subterraneo-o-crepusculo-das-soberanias-artigo-de-teofilo-cavalcanti",
+          "chars": 212
+        }
+      }
+    },
+    {
+      "id": 760,
+      "date": "2026-09-19",
+      "week_start": "2026-09-14",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "AI in Practice: Myths Revealed | The Outcomes-Driven Economy",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/events/2026/09/23/ai-in-practice-myths-revealed/",
+      "source": "Hub - Johns Hopkins University",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "AI in Practice: Myths Revealed | The Outcomes-Driven Economy https://hub.jhu.edu/events/2026/09/23/ai-in-practice-myths-revealed/",
+          "chars": 84
+        },
+        "bluesky": {
+          "text": "AI in Practice: Myths Revealed | The Outcomes-Driven Economy https://hub.jhu.edu/events/2026/09/23/ai-in-practice-myths-revealed/",
+          "chars": 129
+        }
+      }
+    },
+    {
+      "id": 759,
+      "date": "2026-09-19",
+      "week_start": "2026-09-14",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Signs of hope amid the emerging neo-academic Cold War",
+      "has_text": true,
+      "url": "https://www.universityworldnews.com/post.php?story=20260917135422981",
+      "source": "University World News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Signs of hope amid the emerging neo-academic Cold War https://www.universityworldnews.com/post.php?story=20260917135422981",
+          "chars": 77
+        },
+        "bluesky": {
+          "text": "Signs of hope amid the emerging neo-academic Cold War https://www.universityworldnews.com/post.php?story=20260917135422981",
+          "chars": 122
+        }
+      }
+    },
+    {
+      "id": 758,
+      "date": "2026-09-19",
+      "week_start": "2026-09-14",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Pittsburgh's kindergartners fall below the measles safety threshold, testing the city's vaccine legacy",
+      "has_text": true,
+      "url": "https://medicalxpress.com/news/2026-09-pittsburgh-kindergartners-fall-measles-safety.html",
+      "source": "Medical Xpress",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Pittsburgh's kindergartners fall below the measles safety threshold, testing the city's vaccine legacy https://medicalxpress.com/news/2026-09-pittsburgh-kindergartners-fall-measles-safety.html",
+          "chars": 126
+        },
+        "bluesky": {
+          "text": "Pittsburgh's kindergartners fall below the measles safety threshold, testing the city's vaccine legacy https://medicalxpress.com/news/2026-09-pittsburgh-kindergartners-fall-measles-safety.html",
+          "chars": 192
+        }
+      }
+    },
+    {
+      "id": 757,
+      "date": "2026-09-19",
+      "week_start": "2026-09-14",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Princeton Faculty Donations Went Almost Entirely to Democrats, Alumni Study Finds",
+      "has_text": true,
+      "url": "https://communitynews.org/towns/princeton-echo/princeton-faculty-donations-went-almost-entirely-to-democrats-alumni-study-finds/",
+      "source": "Community News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Princeton Faculty Donations Went Almost Entirely to Democrats, Alumni Study Finds https://communitynews.org/towns/princeton-echo/princeton-faculty-donations-went-almost-entirely-to-democrats-alumni-study-finds/",
+          "chars": 105
+        },
+        "bluesky": {
+          "text": "Princeton Faculty Donations Went Almost Entirely to Democrats, Alumni Study Finds https://communitynews.org/towns/princeton-echo/princeton-faculty-donations-went-almost-entirely-to-democrats-alumni-study-finds/",
+          "chars": 210
+        }
+      }
+    },
     {
       "id": 739,
       "date": "2026-09-19",

@@ -223,16 +223,16 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 55,
-    "mentions_in_digest": 29,
-    "reach_proxy": 297,
+    "mentions_total": 56,
+    "mentions_in_digest": 30,
+    "reach_proxy": 311,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-09-18",
+    "last_mention_date": "2026-09-19",
     "sentiment": {
       "positive": 9,
       "neutral": 12,
       "negative": 5,
-      "unknown": 29
+      "unknown": 30
     },
     "top_sources": [
       {
@@ -314,8 +314,8 @@
       },
       {
         "week_start": "2026-09-14",
-        "count": 7,
-        "reach": 7
+        "count": 8,
+        "reach": 21
       }
     ]
   },
@@ -329,16 +329,16 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 36,
+    "mentions_total": 41,
     "mentions_in_digest": 0,
-    "reach_proxy": 37,
+    "reach_proxy": 42,
     "first_mention_date": "2026-08-30",
-    "last_mention_date": "2026-09-18",
+    "last_mention_date": "2026-09-20",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
       "negative": 0,
-      "unknown": 36
+      "unknown": 41
     },
     "top_sources": [
       {
@@ -350,16 +350,16 @@
         "count": 3
       },
       {
+        "source": "Medical Xpress",
+        "count": 2
+      },
+      {
         "source": "Springer",
         "count": 2
       },
       {
-        "source": "AwesomeCapital",
-        "count": 1
-      },
-      {
-        "source": "BigGo Finance",
-        "count": 1
+        "source": "University World News",
+        "count": 2
       }
     ],
     "weekly": [
@@ -420,8 +420,8 @@
       },
       {
         "week_start": "2026-09-14",
-        "count": 14,
-        "reach": 14
+        "count": 19,
+        "reach": 19
       }
     ]
   },
@@ -3400,6 +3400,110 @@
     ]
   },
   {
+    "id": "leah-wright",
+    "name": "Leah Wright",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Institute Associate Professor of History",
+    "profile_url": "https://snfagora.jhu.edu/directory/leah-wright/",
+    "photo_url": "images/people/leah-wright.jpg",
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 4,
+    "mentions_in_digest": 3,
+    "reach_proxy": 9,
+    "first_mention_date": "2026-07-17",
+    "last_mention_date": "2026-09-19",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0,
+      "unknown": 2
+    },
+    "top_sources": [
+      {
+        "source": "Bluesky",
+        "count": 1
+      },
+      {
+        "source": "The Emancipator",
+        "count": 1
+      },
+      {
+        "source": "The New York Times",
+        "count": 1
+      },
+      {
+        "source": "Twitter",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 1,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 1,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 3
+      }
+    ]
+  },
+  {
     "id": "leah-wright-rigueur",
     "name": "Leah Wright Rigueur",
     "kind": "unmatched",
@@ -3904,106 +4008,6 @@
         "week_start": "2026-09-14",
         "count": 1,
         "reach": 1
-      }
-    ]
-  },
-  {
-    "id": "leah-wright",
-    "name": "Leah Wright",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Institute Associate Professor of History",
-    "profile_url": "https://snfagora.jhu.edu/directory/leah-wright/",
-    "photo_url": "images/people/leah-wright.jpg",
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 3,
-    "mentions_in_digest": 3,
-    "reach_proxy": 6,
-    "first_mention_date": "2026-07-17",
-    "last_mention_date": "2026-09-11",
-    "sentiment": {
-      "positive": 1,
-      "neutral": 1,
-      "negative": 0,
-      "unknown": 1
-    },
-    "top_sources": [
-      {
-        "source": "Bluesky",
-        "count": 1
-      },
-      {
-        "source": "The Emancipator",
-        "count": 1
-      },
-      {
-        "source": "The New York Times",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 1,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 1,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
       }
     ]
   },
@@ -4582,6 +4586,100 @@
         "week_start": "2026-09-14",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "james-loeffler-not-tracked",
+    "name": "James Loeffler (not tracked)",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 2,
+    "mentions_in_digest": 0,
+    "reach_proxy": 7,
+    "first_mention_date": "2026-08-28",
+    "last_mention_date": "2026-09-19",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 2
+    },
+    "top_sources": [
+      {
+        "source": "Jewish Telegraphic Agency",
+        "count": 1
+      },
+      {
+        "source": "The Salt Lake Tribune",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 1,
+        "reach": 6
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -5708,6 +5806,98 @@
     ]
   },
   {
+    "id": "adria-lawrence",
+    "name": "Adria Lawrence",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Aronson Associate Professor of International Studies and Political Science, Johns Hopkins University",
+    "profile_url": "https://snfagora.jhu.edu/directory/adria-lawrence/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 2,
+    "first_mention_date": "2026-09-19",
+    "last_mention_date": "2026-09-19",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 2
+      }
+    ]
+  },
+  {
     "id": "andre-nogueira",
     "name": "André Nogueira",
     "kind": "faculty",
@@ -6800,6 +6990,96 @@
     ]
   },
   {
+    "id": "henry-farrell-passing-book-citation-not-coverage",
+    "name": "Henry Farrell (passing book citation, not coverage)",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-09-19",
+    "last_mention_date": "2026-09-19",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Instituto Humanitas Unisinos",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-06-29",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "hopkins",
     "name": "Hopkins",
     "kind": "unmatched",
@@ -7055,96 +7335,6 @@
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "james-loeffler-not-tracked",
-    "name": "James Loeffler (not tracked)",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 1,
-    "mentions_in_digest": 0,
-    "reach_proxy": 6,
-    "first_mention_date": "2026-08-28",
-    "last_mention_date": "2026-08-28",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 1
-    },
-    "top_sources": [
-      {
-        "source": "Jewish Telegraphic Agency",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 1,
-        "reach": 6
       },
       {
         "week_start": "2026-08-31",
@@ -8955,93 +9145,6 @@
         "week_start": "2026-08-24",
         "count": 1,
         "reach": 1
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "adria-lawrence",
-    "name": "Adria Lawrence",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Aronson Associate Professor of International Studies and Political Science, Johns Hopkins University",
-    "profile_url": "https://snfagora.jhu.edu/directory/adria-lawrence/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 0,
-    "mentions_in_digest": 0,
-    "reach_proxy": 0,
-    "first_mention_date": null,
-    "last_mention_date": null,
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [],
-    "weekly": [
-      {
-        "week_start": "2026-06-29",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
       },
       {
         "week_start": "2026-08-31",
