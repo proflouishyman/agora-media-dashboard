@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-19T09:20:43-04:00",
-  "count": 56,
+  "generated_at": "2026-09-20T07:09:04-04:00",
+  "count": 57,
   "picks": [
+    {
+      "id": 75,
+      "mention_id": 751,
+      "digest_date": "2026-09-19",
+      "person": "Anne Applebaum",
+      "person_id": "anne-applebaum",
+      "person_ids": [
+        "anne-applebaum"
+      ],
+      "is_ces": false,
+      "punchy_title": "Eight decades of the same deal: Applebaum deflates the Greenland announcement",
+      "headline": "Eight decades of the same deal: Applebaum deflates the Greenland announcement",
+      "pull_quote": "... Relations think tank.\n\nPulitzer Prize-winning historian Anne Applebaum, a senior fellow at the Johns Hopkins School of Advanced ...",
+      "rationale": "... Relations think tank.\n\nPulitzer Prize-winning historian Anne Applebaum, a senior fellow at the Johns Hopkins School of Advanced ...",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-deal-greenland-different-maga-b3052901.html",
+      "story_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-deal-greenland-different-maga-b3052901.html",
+      "created_at": "2026-09-20 11:08:52",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Anne Applebaum on the Greenland agreement: \"This is more or less the same deal that has been in place in Greenland for eight decades.\" https://www.independent.co.uk/news/world/americas/us-politics/trump-deal-greenland-different-maga-b3052901.html",
+          "chars": 246,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Anne%20Applebaum%20on%20the%20Greenland%20agreement%3A%20%22This%20is%20more%20or%20less%20the%20same%20deal%20that%20has%20been%20in%20place%20in%20Greenland%20for%20eight%20decades.%22%20https%3A//www.independent.co.uk/news/world/americas/us-politics/trump-deal-greenland-different-maga-b3052901.html"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "SNF Agora senior fellow Anne Applebaum on the new Greenland agreement: \"This is more or less the same deal that has been in place in Greenland for eight decades.\" https://www.independent.co.uk/news/world/americas/us-politics/trump-deal-greenland-different-maga-b3052901.html",
+          "chars": 274,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=SNF%20Agora%20senior%20fellow%20Anne%20Applebaum%20on%20the%20new%20Greenland%20agreement%3A%20%22This%20is%20more%20or%20less%20the%20same%20deal%20that%20has%20been%20in%20place%20in%20Greenland%20for%20eight%20decades.%22%20https%3A//www.independent.co.uk/news/world/americas/us-politics/trump-deal-greenland-different-maga-b3052901.html"
+        }
+      ]
+    },
     {
       "id": 73,
       "mention_id": 727,
