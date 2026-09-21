@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-20T07:09:04-04:00",
-  "count": 57,
+  "generated_at": "2026-09-21T07:06:19-04:00",
+  "count": 58,
   "picks": [
+    {
+      "id": 76,
+      "mention_id": 763,
+      "digest_date": "2026-09-21",
+      "person": "Hahrie Han",
+      "person_id": "hahrie-han",
+      "person_ids": [
+        "hahrie-han"
+      ],
+      "is_ces": false,
+      "punchy_title": "What megachurch congregants actually want from politics — and why Democrats keep missing it",
+      "headline": "What megachurch congregants actually want from politics — and why Democrats keep missing it",
+      "pull_quote": "A lot of people don't go to church wanting politics being poured down their throats,",
+      "rationale": "A lot of people don't go to church wanting politics being poured down their throats,",
+      "url": "https://www.nytimes.com/2026/09/21/magazine/talarico-christian-pastors-democrats.html",
+      "story_url": "https://www.nytimes.com/2026/09/21/magazine/talarico-christian-pastors-democrats.html",
+      "created_at": "2026-09-21 11:06:15",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "NYT Magazine turns to SNF Agora's Hahrie Han on Democrats running as pastors: \"A lot of people don't go to church wanting politics being poured down their throats.\" https://www.nytimes.com/2026/09/21/magazine/talarico-christian-pastors-democrats.html",
+          "chars": 250,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=NYT%20Magazine%20turns%20to%20SNF%20Agora%27s%20Hahrie%20Han%20on%20Democrats%20running%20as%20pastors%3A%20%22A%20lot%20of%20people%20don%27t%20go%20to%20church%20wanting%20politics%20being%20poured%20down%20their%20throats.%22%20https%3A//www.nytimes.com/2026/09/21/magazine/talarico-christian-pastors-democrats.html"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "New York Times Magazine turns to SNF Agora's Hahrie Han on why Democrats running as pastors may be onto something: \"A lot of people don't go to church wanting politics being poured down their throats.\" https://www.nytimes.com/2026/09/21/magazine/talarico-christian-pastors-democrats.html",
+          "chars": 287,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=New%20York%20Times%20Magazine%20turns%20to%20SNF%20Agora%27s%20Hahrie%20Han%20on%20why%20Democrats%20running%20as%20pastors%20may%20be%20onto%20something%3A%20%22A%20lot%20of%20people%20don%27t%20go%20to%20church%20wanting%20politics%20being%20poured%20down%20their%20throats.%22%20https%3A//www.nytimes.com/2026/09/21/magazine/talarico-christian-pastors-democrats.html"
+        }
+      ]
+    },
     {
       "id": 75,
       "mention_id": 751,

@@ -1,7 +1,206 @@
 {
-  "generated_at": "2026-09-20T07:09:04-04:00",
-  "count": 754,
+  "generated_at": "2026-09-21T07:06:19-04:00",
+  "count": 762,
   "stories": [
+    {
+      "id": 765,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Gov. Spencer J. Cox’s Schedule: Sept. 21 – Sept. 25, 2026",
+      "has_text": true,
+      "url": "https://www.50statestoday.com/article/943873258-gov-spencer-j-cox-s-schedule-sept-21-sept-25-2026",
+      "source": "50 States Today",
+      "source_type": "online news",
+      "similar_mention_count": 15,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Gov. Spencer J. Cox’s Schedule: Sept. 21 – Sept. 25, 2026 https://www.50statestoday.com/article/943873258-gov-spencer-j-cox-s-schedule-sept-21-sept-25-2026",
+          "chars": 81
+        },
+        "bluesky": {
+          "text": "Gov. Spencer J. Cox’s Schedule: Sept. 21 – Sept. 25, 2026 https://www.50statestoday.com/article/943873258-gov-spencer-j-cox-s-schedule-sept-21-sept-25-2026",
+          "chars": 155
+        }
+      }
+    },
+    {
+      "id": 764,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 770,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins-university",
+      "person": "Johns Hopkins University",
+      "is_ces": false,
+      "title": "What Rising CMOs Are Rarely Taught",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=U5kQOBC_2l8",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "What Rising CMOs Are Rarely Taught https://www.youtube.com/watch?v=U5kQOBC_2l8",
+          "chars": 58
+        },
+        "bluesky": {
+          "text": "What Rising CMOs Are Rarely Taught https://www.youtube.com/watch?v=U5kQOBC_2l8",
+          "chars": 78
+        }
+      }
+    },
+    {
+      "id": 767,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins-university",
+      "person": "Johns Hopkins University",
+      "is_ces": false,
+      "title": "Novas maneiras na democracia",
+      "has_text": true,
+      "url": "https://www.em.com.br/colunistas/paulo-delgado/2026/09/7504586-novas-maneiras-na-democracia.html",
+      "source": "Estado de Minas",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Novas maneiras na democracia https://www.em.com.br/colunistas/paulo-delgado/2026/09/7504586-novas-maneiras-na-democracia.html",
+          "chars": 52
+        },
+        "bluesky": {
+          "text": "Novas maneiras na democracia https://www.em.com.br/colunistas/paulo-delgado/2026/09/7504586-novas-maneiras-na-democracia.html",
+          "chars": 125
+        }
+      }
+    },
+    {
+      "id": 766,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Renzo Piano World Tour 2026. New York, Boston e Toronto: tre città a confronto",
+      "has_text": true,
+      "url": "https://www.professionearchitetto.it/news/notizie/34430/renzo-piano-world-tour-2026-new-york-boston-e-toronto-tre-citta-a-confronto",
+      "source": "Professione Architetto",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Renzo Piano World Tour 2026. New York, Boston e Toronto: tre città a confronto https://www.professionearchitetto.it/news/notizie/34430/renzo-piano-world-tour-2026-new-york-boston-e-toronto-tre-citta-a-confronto",
+          "chars": 102
+        },
+        "bluesky": {
+          "text": "Renzo Piano World Tour 2026. New York, Boston e Toronto: tre città a confronto https://www.professionearchitetto.it/news/notizie/34430/renzo-piano-world-tour-2026-new-york-boston-e-toronto-tre-citta-a-confronto",
+          "chars": 210
+        }
+      }
+    },
+    {
+      "id": 763,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": "Can Democrats Reclaim the Christian Moral High Ground?",
+      "has_text": true,
+      "url": "https://www.nytimes.com/2026/09/21/magazine/talarico-christian-pastors-democrats.html",
+      "source": "The New York Times",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Can Democrats Reclaim the Christian Moral High Ground? https://www.nytimes.com/2026/09/21/magazine/talarico-christian-pastors-democrats.html",
+          "chars": 78
+        },
+        "bluesky": {
+          "text": "Can Democrats Reclaim the Christian Moral High Ground? https://www.nytimes.com/2026/09/21/magazine/talarico-christian-pastors-democrats.html",
+          "chars": 140
+        }
+      }
+    },
+    {
+      "id": 768,
+      "date": "2026-09-20",
+      "week_start": "2026-09-14",
+      "person_id": "johns-hopkins-university",
+      "person": "Johns Hopkins University",
+      "is_ces": false,
+      "title": "How Intelligence Agencies Bend Universities to Their Will",
+      "has_text": true,
+      "url": "https://jacobin.com/2026/09/universities-intelligence-agencies-research-recruitment",
+      "source": "Jacobin",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "How Intelligence Agencies Bend Universities to Their Will https://jacobin.com/2026/09/universities-intelligence-agencies-research-recruitment",
+          "chars": 81
+        },
+        "bluesky": {
+          "text": "How Intelligence Agencies Bend Universities to Their Will https://jacobin.com/2026/09/universities-intelligence-agencies-research-recruitment",
+          "chars": 141
+        }
+      }
+    },
+    {
+      "id": 769,
+      "date": "2026-09-20",
+      "week_start": "2026-09-14",
+      "person_id": "johns-hopkins-university",
+      "person": "Johns Hopkins University",
+      "is_ces": false,
+      "title": "From Carnegie Mellon University: [Physics/’Hall effect’] ‘Study Finds A 100-Year-Old Physics Effect Doesn’t Work How We Thought It Did’ – sciencesprings",
+      "has_text": true,
+      "url": "https://sciencesprings.wordpress.com/2026/09/20/from-carnegie-mellon-university-physics-hall-effect-study-finds-a-100-year-old-physics-effect-doesnt-work-how-we-thought-it-did/",
+      "source": "wordpress.com",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "From Carnegie Mellon University: [Physics/’Hall effect’] ‘Study Finds A 100-Year-Old Physics Effect Doesn’t Work How We Thought It Did’ – sciencesprings https://sciencesprings.wordpress.com/2026/09/20/from-carnegie-mellon-university-physics-hall-effect-study-finds-a-100-year-old-physics-effect-doesnt-work-how-we-thought-it-did/",
+          "chars": 176
+        },
+        "bluesky": {
+          "text": "From Carnegie Mellon University: [Physics/’Hall effect’] ‘Study Finds A 100-Year-Old Physics Effect Doesn’t Work How We T… https://sciencesprings.wordpress.com/2026/09/20/from-carnegie-mellon-university-physics-hall-effect-study-finds-a-100-year-old-physics-effect-doesnt-work-how-we-thought-it-did/",
+          "chars": 299
+        }
+      }
+    },
     {
       "id": 756,
       "date": "2026-09-20",
