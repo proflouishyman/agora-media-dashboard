@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-21T07:06:19-04:00",
-  "count": 58,
+  "generated_at": "2026-09-22T11:01:15-04:00",
+  "count": 59,
   "picks": [
+    {
+      "id": 77,
+      "mention_id": 771,
+      "digest_date": "2026-09-21",
+      "person": "Scott Warren",
+      "person_id": "scott-warren",
+      "person_ids": [
+        "scott-warren"
+      ],
+      "is_ces": false,
+      "punchy_title": "Congress Can’t Govern. Is the Permanent Campaign to Blame?",
+      "headline": "Congress Can’t Govern. Is the Permanent Campaign to Blame?",
+      "pull_quote": "Electoral calculations affect Congress in various ways that are deleterious to governing.",
+      "rationale": "Electoral calculations affect Congress in various ways that are deleterious to governing.",
+      "url": "https://www.aei.org/research-products/report/congress-is-struggling-to-govern-are-electoral-incentives-to-blame/",
+      "story_url": "https://www.aei.org/research-products/report/congress-is-struggling-to-govern-are-electoral-incentives-to-blame/",
+      "created_at": "2026-09-22 15:01:11",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Why can't Congress govern? SNF Agora's Scott Warren and AEI's Kevin Kosar weigh the evidence: electoral incentives are a real culprit, but not the only one. https://www.aei.org/research-products/report/congress-is-struggling-to-govern-are-electoral-incentives-to-blame/",
+          "chars": 269,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Why%20can%27t%20Congress%20govern%3F%20SNF%20Agora%27s%20Scott%20Warren%20and%20AEI%27s%20Kevin%20Kosar%20weigh%20the%20evidence%3A%20electoral%20incentives%20are%20a%20real%20culprit%2C%20but%20not%20the%20only%20one.%20https%3A//www.aei.org/research-products/report/congress-is-struggling-to-govern-are-electoral-incentives-to-blame/"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Why can't Congress govern? SNF Agora's Scott Warren and AEI's Kevin Kosar weigh the evidence: electoral incentives genuinely hurt governing, but are only one factor among several. https://www.aei.org/research-products/report/congress-is-struggling-to-govern-are-electoral-incentives-to-blame/",
+          "chars": 292,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Why%20can%27t%20Congress%20govern%3F%20SNF%20Agora%27s%20Scott%20Warren%20and%20AEI%27s%20Kevin%20Kosar%20weigh%20the%20evidence%3A%20electoral%20incentives%20genuinely%20hurt%20governing%2C%20but%20are%20only%20one%20factor%20among%20several.%20https%3A//www.aei.org/research-products/report/congress-is-struggling-to-govern-are-electoral-incentives-to-blame/"
+        }
+      ]
+    },
     {
       "id": 76,
       "mention_id": 763,

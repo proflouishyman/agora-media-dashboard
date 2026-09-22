@@ -1,7 +1,310 @@
 {
-  "generated_at": "2026-09-21T07:06:19-04:00",
-  "count": 762,
+  "generated_at": "2026-09-22T11:01:15-04:00",
+  "count": 802,
   "stories": [
+    {
+      "id": 792,
+      "date": "2026-09-22",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Stellic Summit Brings Together Student Success and Credit Mobility Leaders to Rebuild the Student Journey From the Ground Up",
+      "has_text": true,
+      "url": "https://finance.yahoo.com/technology/ai/articles/stellic-summit-brings-together-student-133000755.html",
+      "source": "Yahoo! Finance",
+      "source_type": "online news",
+      "similar_mention_count": 63,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Stellic Summit Brings Together Student Success and Credit Mobility Leaders to Rebuild the Student Journey From the Ground Up https://finance.yahoo.com/technology/ai/articles/stellic-summit-brings-together-student-133000755.html",
+          "chars": 148
+        },
+        "bluesky": {
+          "text": "Stellic Summit Brings Together Student Success and Credit Mobility Leaders to Rebuild the Student Journey From the Ground Up https://finance.yahoo.com/technology/ai/articles/stellic-summit-brings-together-student-133000755.html",
+          "chars": 227
+        }
+      }
+    },
+    {
+      "id": 793,
+      "date": "2026-09-22",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "US News releases their 2027 Best Colleges list. See where Indiana schools ranked",
+      "has_text": true,
+      "url": "https://www.yahoo.com/news/us/articles/us-news-releases-2027-best-090535192.html",
+      "source": "Yahoo! News",
+      "source_type": "online news",
+      "similar_mention_count": 10,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "US News releases their 2027 Best Colleges list. See where Indiana schools ranked https://www.yahoo.com/news/us/articles/us-news-releases-2027-best-090535192.html",
+          "chars": 104
+        },
+        "bluesky": {
+          "text": "US News releases their 2027 Best Colleges list. See where Indiana schools ranked https://www.yahoo.com/news/us/articles/us-news-releases-2027-best-090535192.html",
+          "chars": 161
+        }
+      }
+    },
+    {
+      "id": 804,
+      "date": "2026-09-22",
+      "week_start": "2026-09-21",
+      "person_id": "snf-agora",
+      "person": "SNF Agora",
+      "is_ces": false,
+      "title": "The Sleepwalkers",
+      "has_text": true,
+      "url": "https://martinburckhardt.substack.com/p/the-sleepwalkers",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Sleepwalkers https://martinburckhardt.substack.com/p/the-sleepwalkers",
+          "chars": 40
+        },
+        "bluesky": {
+          "text": "The Sleepwalkers https://martinburckhardt.substack.com/p/the-sleepwalkers",
+          "chars": 73
+        }
+      }
+    },
+    {
+      "id": 803,
+      "date": "2026-09-22",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Presence of a trusted adult and adolescent health outcomes in Urban India",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1186/s12982-026-02849-3",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Presence of a trusted adult and adolescent health outcomes in Urban India https://link.springer.com/article/10.1186/s12982-026-02849-3",
+          "chars": 97
+        },
+        "bluesky": {
+          "text": "Presence of a trusted adult and adolescent health outcomes in Urban India https://link.springer.com/article/10.1186/s12982-026-02849-3",
+          "chars": 134
+        }
+      }
+    },
+    {
+      "id": 802,
+      "date": "2026-09-22",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "The World’s Oldest Universities Still Shaping Modern Education",
+      "has_text": true,
+      "url": "https://www.prestigeonline.com/th/prestige-education/pathways-to-success/the-worlds-oldest-universities-still-shaping-modern-education/",
+      "source": "Prestige Thailand",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The World’s Oldest Universities Still Shaping Modern Education https://www.prestigeonline.com/th/prestige-education/pathways-to-success/the-worlds-oldest-universities-still-shaping-modern-education/",
+          "chars": 86
+        },
+        "bluesky": {
+          "text": "The World’s Oldest Universities Still Shaping Modern Education https://www.prestigeonline.com/th/prestige-education/pathways-to-success/the-worlds-oldest-universities-still-shaping-modern-education/",
+          "chars": 198
+        }
+      }
+    },
+    {
+      "id": 801,
+      "date": "2026-09-22",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Neuroscience Major",
+      "has_text": true,
+      "url": "https://www.owu.edu/academics/departments-programs/neuroscience-program/neuroscience-major/",
+      "source": "Ohio Wesleyan University",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Neuroscience Major https://www.owu.edu/academics/departments-programs/neuroscience-program/neuroscience-major/",
+          "chars": 42
+        },
+        "bluesky": {
+          "text": "Neuroscience Major https://www.owu.edu/academics/departments-programs/neuroscience-program/neuroscience-major/",
+          "chars": 110
+        }
+      }
+    },
+    {
+      "id": 800,
+      "date": "2026-09-22",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Oak Hill Genetics Shipped 1,518 Hound-Mix Dogs to NIH-Funded Labs",
+      "has_text": true,
+      "url": "https://us.headtopics.com/news/oak-hill-genetics-shipped-1-518-hound-mix-dogs-to-88011679",
+      "source": "Head Topics",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Oak Hill Genetics Shipped 1,518 Hound-Mix Dogs to NIH-Funded Labs https://us.headtopics.com/news/oak-hill-genetics-shipped-1-518-hound-mix-dogs-to-88011679",
+          "chars": 89
+        },
+        "bluesky": {
+          "text": "Oak Hill Genetics Shipped 1,518 Hound-Mix Dogs to NIH-Funded Labs https://us.headtopics.com/news/oak-hill-genetics-shipped-1-518-hound-mix-dogs-to-88011679",
+          "chars": 155
+        }
+      }
+    },
+    {
+      "id": 796,
+      "date": "2026-09-22",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Citizenship Needs a Home at Harvard",
+      "has_text": true,
+      "url": "https://www.thecrimson.com/article/2026/9/22/sharma-harvard-civic-centers/",
+      "source": "The Harvard Crimson",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Citizenship Needs a Home at Harvard https://www.thecrimson.com/article/2026/9/22/sharma-harvard-civic-centers/",
+          "chars": 59
+        },
+        "bluesky": {
+          "text": "Citizenship Needs a Home at Harvard https://www.thecrimson.com/article/2026/9/22/sharma-harvard-civic-centers/",
+          "chars": 110
+        }
+      }
+    },
+    {
+      "id": 794,
+      "date": "2026-09-22",
+      "week_start": "2026-09-21",
+      "person_id": "snf-agora",
+      "person": "SNF Agora",
+      "is_ces": false,
+      "title": "Does AI undermine democratic deliberation? How engagement algorithms hijack epistemic agency",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s11229-026-05820-6",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Does AI undermine democratic deliberation? How engagement algorithms hijack epistemic agency https://link.springer.com/article/10.1007/s11229-026-05820-6",
+          "chars": 116
+        },
+        "bluesky": {
+          "text": "Does AI undermine democratic deliberation? How engagement algorithms hijack epistemic agency https://link.springer.com/article/10.1007/s11229-026-05820-6",
+          "chars": 153
+        }
+      }
+    },
+    {
+      "id": 777,
+      "date": "2026-09-22",
+      "week_start": "2026-09-21",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 776,
+      "date": "2026-09-22",
+      "week_start": "2026-09-21",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/Physics/comments/1wmrv86/comment/pbdiuyu/",
+      "source": "reddit.com/r/Physics",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " https://www.reddit.com/r/Physics/comments/1wmrv86/comment/pbdiuyu/",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://www.reddit.com/r/Physics/comments/1wmrv86/comment/pbdiuyu/",
+          "chars": 67
+        }
+      }
+    },
+    {
+      "id": 775,
+      "date": "2026-09-22",
+      "week_start": "2026-09-21",
+      "person_id": "louis-hyman",
+      "person": "Louis Hyman",
+      "is_ces": true,
+      "title": "AI and the Future of History",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/events/2026/10/01/ai-and-the-future-of-history/",
+      "source": "Hub - Johns Hopkins University",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "AI and the Future of History https://hub.jhu.edu/events/2026/10/01/ai-and-the-future-of-history/",
+          "chars": 52
+        },
+        "bluesky": {
+          "text": "AI and the Future of History https://hub.jhu.edu/events/2026/10/01/ai-and-the-future-of-history/",
+          "chars": 96
+        }
+      }
+    },
     {
       "id": 765,
       "date": "2026-09-21",
@@ -44,6 +347,662 @@
       "entity_sentiment": "unknown",
       "in_digest": false,
       "share": null
+    },
+    {
+      "id": 810,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Heart and Brain Protection Pioneer Dr. Jennifer Lawton to Receive 2026 AHA Basic Research Prize",
+      "has_text": true,
+      "url": "https://newsramp.com/curated-news/heart-and-brain-protection-pioneer-dr-jennifer-lawton-to-receive-2026-aha-basic-research-prize/06b5213167a4913911c0e31b85d3cc14",
+      "source": "NewsRamp",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Heart and Brain Protection Pioneer Dr. Jennifer Lawton to Receive 2026 AHA Basic Research Prize https://newsramp.com/curated-news/heart-and-brain-protection-pioneer-dr-jennifer-lawton-to-receive-2026-aha-basic-research-prize/06b5213167a4913911c0e31b85d3cc14",
+          "chars": 119
+        },
+        "bluesky": {
+          "text": "Heart and Brain Protection Pioneer Dr. Jennifer Lawton to Receive 2026 AHA Basic Research Prize https://newsramp.com/curated-news/heart-and-brain-protection-pioneer-dr-jennifer-lawton-to-receive-2026-aha-basic-research-prize/06b5213167a4913911c0e31b85d3cc14",
+          "chars": 257
+        }
+      }
+    },
+    {
+      "id": 809,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Η αρχαία Ελλάδα στη μεγάλη οθόνη",
+      "has_text": true,
+      "url": "https://www.fortunegreece.com/photo-gallery/archea-ellada-sti-megali-othoni/",
+      "source": "Fortune Greece",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Η αρχαία Ελλάδα στη μεγάλη οθόνη https://www.fortunegreece.com/photo-gallery/archea-ellada-sti-megali-othoni/",
+          "chars": 56
+        },
+        "bluesky": {
+          "text": "Η αρχαία Ελλάδα στη μεγάλη οθόνη https://www.fortunegreece.com/photo-gallery/archea-ellada-sti-megali-othoni/",
+          "chars": 109
+        }
+      }
+    },
+    {
+      "id": 808,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "The Day Polio Made America Believe in Science (Ch 9, Pt 1)",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=2wCQQqDD5T4",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Day Polio Made America Believe in Science (Ch 9, Pt 1) https://www.youtube.com/watch?v=2wCQQqDD5T4",
+          "chars": 82
+        },
+        "bluesky": {
+          "text": "The Day Polio Made America Believe in Science (Ch 9, Pt 1) https://www.youtube.com/watch?v=2wCQQqDD5T4",
+          "chars": 102
+        }
+      }
+    },
+    {
+      "id": 807,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Philanthropy Needs to Invest in the Infrastructure of Mobility",
+      "has_text": true,
+      "url": "https://observer.com/2026/09/philanthropy-housing-stability-economic-mobility/",
+      "source": "Observer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Philanthropy Needs to Invest in the Infrastructure of Mobility https://observer.com/2026/09/philanthropy-housing-stability-economic-mobility/",
+          "chars": 86
+        },
+        "bluesky": {
+          "text": "Philanthropy Needs to Invest in the Infrastructure of Mobility https://observer.com/2026/09/philanthropy-housing-stability-economic-mobility/",
+          "chars": 141
+        }
+      }
+    },
+    {
+      "id": 806,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Staff editorial: As GW faces another year of layoffs, officials can’t continue to shut the community out",
+      "has_text": true,
+      "url": "https://brightgram.com/washington-dc/10625692/staff-editorial-as-gw-faces-another-year-of-layoffs-officials-cant-continue-to-shut-the-community-out/",
+      "source": "Brightgram",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Staff editorial: As GW faces another year of layoffs, officials can’t continue to shut the community out https://brightgram.com/washington-dc/10625692/staff-editorial-as-gw-faces-another-year-of-layoffs-officials-cant-continue-to-shut-the-community-out/",
+          "chars": 128
+        },
+        "bluesky": {
+          "text": "Staff editorial: As GW faces another year of layoffs, officials can’t continue to shut the community out https://brightgram.com/washington-dc/10625692/staff-editorial-as-gw-faces-another-year-of-layoffs-officials-cant-continue-to-shut-the-community-out/",
+          "chars": 253
+        }
+      }
+    },
+    {
+      "id": 805,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "How to Respond to a Volatile, Uncertain, Complex, and Ambiguous Environment",
+      "has_text": true,
+      "url": "https://www.scup.org/resource/how-to-respond-to-a-volatile-uncertain-complex-and-ambiguous-environment/",
+      "source": "Planning for Higher Education",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "How to Respond to a Volatile, Uncertain, Complex, and Ambiguous Environment https://www.scup.org/resource/how-to-respond-to-a-volatile-uncertain-complex-and-ambiguous-environment/",
+          "chars": 99
+        },
+        "bluesky": {
+          "text": "How to Respond to a Volatile, Uncertain, Complex, and Ambiguous Environment https://www.scup.org/resource/how-to-respond-to-a-volatile-uncertain-complex-and-ambiguous-environment/",
+          "chars": 179
+        }
+      }
+    },
+    {
+      "id": 799,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "A ameaça russa está cada vez mais perto da Europa? — Debate",
+      "has_text": true,
+      "url": "https://observador.pt/programas/contra-corrente/a-ameaca-russa-esta-cada-vez-mais-perto-da-europa-debate/",
+      "source": "Observador.pt",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "A ameaça russa está cada vez mais perto da Europa? — Debate https://observador.pt/programas/contra-corrente/a-ameaca-russa-esta-cada-vez-mais-perto-da-europa-debate/",
+          "chars": 83
+        },
+        "bluesky": {
+          "text": "A ameaça russa está cada vez mais perto da Europa? — Debate https://observador.pt/programas/contra-corrente/a-ameaca-russa-esta-cada-vez-mais-perto-da-europa-debate/",
+          "chars": 165
+        }
+      }
+    },
+    {
+      "id": 798,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "佟德志：民主理论百部经典",
+      "has_text": true,
+      "url": "https://www.aisixiang.com/data/183124.html",
+      "source": "爱思想",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "佟德志：民主理论百部经典 https://www.aisixiang.com/data/183124.html",
+          "chars": 36
+        },
+        "bluesky": {
+          "text": "佟德志：民主理论百部经典 https://www.aisixiang.com/data/183124.html",
+          "chars": 55
+        }
+      }
+    },
+    {
+      "id": 797,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Chad Wellmon on the Modern Research University",
+      "has_text": true,
+      "url": "https://humanepursuits.substack.com/p/chad-wellmon-on-the-modern-research",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Chad Wellmon on the Modern Research University https://humanepursuits.substack.com/p/chad-wellmon-on-the-modern-research",
+          "chars": 70
+        },
+        "bluesky": {
+          "text": "Chad Wellmon on the Modern Research University https://humanepursuits.substack.com/p/chad-wellmon-on-the-modern-research",
+          "chars": 120
+        }
+      }
+    },
+    {
+      "id": 795,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "snf-agora",
+      "person": "SNF Agora",
+      "is_ces": false,
+      "title": "Gov. Spencer J. Cox’s Schedule: Sept. 21 – Sept. 25, 2026",
+      "has_text": true,
+      "url": "https://louisianaindustryjournal.com/article/943873258-gov-spencer-j-cox-s-schedule-sept-21-sept-25-2026",
+      "source": "Louisiana Industry Journal",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Gov. Spencer J. Cox’s Schedule: Sept. 21 – Sept. 25, 2026 https://louisianaindustryjournal.com/article/943873258-gov-spencer-j-cox-s-schedule-sept-21-sept-25-2026",
+          "chars": 81
+        },
+        "bluesky": {
+          "text": "Gov. Spencer J. Cox’s Schedule: Sept. 21 – Sept. 25, 2026 https://louisianaindustryjournal.com/article/943873258-gov-spencer-j-cox-s-schedule-sept-21-sept-25-2026",
+          "chars": 162
+        }
+      }
+    },
+    {
+      "id": 791,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "andre-nogueira",
+      "person": "André Nogueira",
+      "is_ces": false,
+      "title": "Quinta das Lágrimas abriu-se para celebrar fim das vindimas",
+      "has_text": true,
+      "url": "https://www.diariocoimbra.pt/2026/09/21/quinta-das-lagrimas-abriu-se-para-celebrar-fim-das-vindimas/",
+      "source": "Diário de Coimbra",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Quinta das Lágrimas abriu-se para celebrar fim das vindimas https://www.diariocoimbra.pt/2026/09/21/quinta-das-lagrimas-abriu-se-para-celebrar-fim-das-vindimas/",
+          "chars": 83
+        },
+        "bluesky": {
+          "text": "Quinta das Lágrimas abriu-se para celebrar fim das vindimas https://www.diariocoimbra.pt/2026/09/21/quinta-das-lagrimas-abriu-se-para-celebrar-fim-das-vindimas/",
+          "chars": 160
+        }
+      }
+    },
+    {
+      "id": 790,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "scott-warren",
+      "person": "Scott Warren",
+      "is_ces": false,
+      "title": "📖 IRRESISTIVELMENTE PROIBIDO 🫦 O que Scott Warren, um diplomata frio e experiente, fazia perdendo o controle com uma jovem estudante? Apenas uma noite de anonimato em Hong Kong... ou era o que ele pensava. Quatro meses depois, Kassia reaparece na sua vida, envolvida com o homem que ele menos esperava: seu filho. Agora, Scott precisa escolher entre o dever de pai e o desejo avassalador pela mulher que ele não consegue esquecer. Até onde você iria por uma paixão que ameaça destruir sua famí...",
+      "has_text": true,
+      "url": "https://ie.pinterest.com/pin/674484481742221934/",
+      "source": "Pinterest",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "📖 IRRESISTIVELMENTE PROIBIDO 🫦 O que Scott Warren, um diplomata frio e experiente, fazia perdendo o controle com uma jovem estudante? Apenas uma noite de anonimato em Hong Kong... ou era o que ele pensava. Quatro meses depois, Kassia reaparece na sua vida… https://ie.pinterest.com/pin/674484481742221934/",
+          "chars": 280
+        },
+        "bluesky": {
+          "text": "📖 IRRESISTIVELMENTE PROIBIDO 🫦 O que Scott Warren, um diplomata frio e experiente, fazia perdendo o controle com uma jovem estudante? Apenas uma noite de anonimato em Hong Kong... ou era o que ele pensava. Quatro meses depois, Kassia reaparece na su… https://ie.pinterest.com/pin/674484481742221934/",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 789,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/AutismInWomen/comments/1wmcpaf/book_recommendation_your_kid_belongs_here/",
+      "source": "reddit.com/r/AutismInWomen",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " https://www.reddit.com/r/AutismInWomen/comments/1wmcpaf/book_recommendation_your_kid_belongs_here/",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://www.reddit.com/r/AutismInWomen/comments/1wmcpaf/book_recommendation_your_kid_belongs_here/",
+          "chars": 99
+        }
+      }
+    },
+    {
+      "id": 788,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 787,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 786,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/PublicAdministration/comments/1wmdmj3/comment/pb9p7k2/",
+      "source": "reddit.com/r/PublicAdministration",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " https://www.reddit.com/r/PublicAdministration/comments/1wmdmj3/comment/pb9p7k2/",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://www.reddit.com/r/PublicAdministration/comments/1wmdmj3/comment/pb9p7k2/",
+          "chars": 80
+        }
+      }
+    },
+    {
+      "id": 785,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/texas/comments/1wmb8lk/comment/pb5f6cy/",
+      "source": "reddit.com/r/texas",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " https://www.reddit.com/r/texas/comments/1wmb8lk/comment/pb5f6cy/",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://www.reddit.com/r/texas/comments/1wmb8lk/comment/pb5f6cy/",
+          "chars": 65
+        }
+      }
+    },
+    {
+      "id": 784,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "dylan-selterman",
+      "person": "Dylan Selterman",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/UUreddit/comments/1wmf71u/how_symbols_of_inclusion_can_act_as_signals_of/",
+      "source": "reddit.com/r/UUreddit",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " https://www.reddit.com/r/UUreddit/comments/1wmf71u/how_symbols_of_inclusion_can_act_as_signals_of/",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://www.reddit.com/r/UUreddit/comments/1wmf71u/how_symbols_of_inclusion_can_act_as_signals_of/",
+          "chars": 99
+        }
+      }
+    },
+    {
+      "id": 783,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 782,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 781,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 780,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 779,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 778,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 774,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "martha-s-jones",
+      "person": "Martha S. Jones",
+      "is_ces": false,
+      "title": "Monumental Change Symposium & The Art of the Crossfade Coming to NOLA",
+      "has_text": true,
+      "url": "https://www.offbeat.com/news/monumental-change-symposium-the-art-of-the-crossfade-coming-to-nola/",
+      "source": "OffBeat Magazine",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Monumental Change Symposium & The Art of the Crossfade Coming to NOLA https://www.offbeat.com/news/monumental-change-symposium-the-art-of-the-crossfade-coming-to-nola/",
+          "chars": 93
+        },
+        "bluesky": {
+          "text": "Monumental Change Symposium & The Art of the Crossfade Coming to NOLA https://www.offbeat.com/news/monumental-change-symposium-the-art-of-the-crossfade-coming-to-nola/",
+          "chars": 167
+        }
+      }
+    },
+    {
+      "id": 773,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Bluesky post on the Johns Hopkins democratic-norms timeline project",
+      "has_text": true,
+      "url": "https://bsky.app/profile/did:plc:6srbpsedtw63wrj4vwaarpny/post/3mw2p2vpwzs2u",
+      "source": "Bluesky",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Bluesky post on the Johns Hopkins democratic-norms timeline project https://bsky.app/profile/did:plc:6srbpsedtw63wrj4vwaarpny/post/3mw2p2vpwzs2u",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "Bluesky post on the Johns Hopkins democratic-norms timeline project https://bsky.app/profile/did:plc:6srbpsedtw63wrj4vwaarpny/post/3mw2p2vpwzs2u",
+          "chars": 144
+        }
+      }
+    },
+    {
+      "id": 772,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "The Jefferson Educational Society’s 18th Global Summit will include 19 events and over 25 speakers",
+      "has_text": true,
+      "url": "https://www.yahoo.com/news/politics/articles/jefferson-educational-society-18th-global-134700463.html",
+      "source": "Yahoo! News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "The Jefferson Educational Society’s 18th Global Summit will include 19 events and over 25 speakers https://www.yahoo.com/news/politics/articles/jefferson-educational-society-18th-global-134700463.html",
+          "chars": 122
+        },
+        "bluesky": {
+          "text": "The Jefferson Educational Society’s 18th Global Summit will include 19 events and over 25 speakers https://www.yahoo.com/news/politics/articles/jefferson-educational-society-18th-global-134700463.html",
+          "chars": 200
+        }
+      }
+    },
+    {
+      "id": 771,
+      "date": "2026-09-21",
+      "week_start": "2026-09-21",
+      "person_id": "scott-warren",
+      "person": "Scott Warren",
+      "is_ces": false,
+      "title": "Congress Is Struggling to Govern. Are Electoral Incentives to Blame?",
+      "has_text": true,
+      "url": "https://www.aei.org/research-products/report/congress-is-struggling-to-govern-are-electoral-incentives-to-blame/",
+      "source": "American Enterprise Institute - AEI",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Congress Is Struggling to Govern. Are Electoral Incentives to Blame? https://www.aei.org/research-products/report/congress-is-struggling-to-govern-are-electoral-incentives-to-blame/",
+          "chars": 92
+        },
+        "bluesky": {
+          "text": "Congress Is Struggling to Govern. Are Electoral Incentives to Blame? https://www.aei.org/research-products/report/congress-is-struggling-to-govern-are-electoral-incentives-to-blame/",
+          "chars": 181
+        }
+      }
     },
     {
       "id": 770,

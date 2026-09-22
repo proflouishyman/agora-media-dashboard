@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-21T07:06:19-04:00",
+  "generated_at": "2026-09-22T11:01:15-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-09-21"
+    "end": "2026-09-22"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 762,
-        "in_digest": 267,
-        "reach_proxy": 2189,
-        "people_covered": 95,
+        "mentions": 802,
+        "in_digest": 272,
+        "reach_proxy": 2300,
+        "people_covered": 96,
         "people_tracked": 100,
-        "sources": 343,
+        "sources": 363,
         "negative": 11
       },
       "deltas": {
@@ -607,8 +607,15 @@
         },
         {
           "date": "2026-09-21",
-          "count": 6,
-          "reach": 22,
+          "count": 34,
+          "reach": 50,
+          "in_digest": 5,
+          "observed": true
+        },
+        {
+          "date": "2026-09-22",
+          "count": 12,
+          "reach": 83,
           "in_digest": 1,
           "observed": true
         }
@@ -772,23 +779,23 @@
         },
         {
           "week_start": "2026-09-21",
-          "count": 6,
-          "reach": 22,
-          "in_digest": 1,
-          "people": 4,
+          "count": 46,
+          "reach": 133,
+          "in_digest": 6,
+          "people": 13,
           "sentiment": {
-            "positive": 0,
+            "positive": 2,
             "neutral": 0,
             "negative": 0,
-            "unknown": 6
+            "unknown": 44
           }
         }
       ],
       "sentiment": {
-        "positive": 90,
+        "positive": 92,
         "neutral": 155,
         "negative": 11,
-        "unknown": 506
+        "unknown": 544
       },
       "top_people": [
         {
@@ -808,15 +815,22 @@
         {
           "person_id": "anne-applebaum",
           "name": "Anne Applebaum",
-          "count": 56,
-          "reach": 311,
+          "count": 59,
+          "reach": 314,
           "is_ces": false
         },
         {
           "person_id": "johns-hopkins",
           "name": "Johns Hopkins",
-          "count": 41,
-          "reach": 42,
+          "count": 59,
+          "reach": 131,
+          "is_ces": false
+        },
+        {
+          "person_id": "yascha-mounk",
+          "name": "Yascha Mounk",
+          "count": 38,
+          "reach": 219,
           "is_ces": false
         },
         {
@@ -836,15 +850,8 @@
         {
           "person_id": "sean-carroll",
           "name": "Sean Carroll",
-          "count": 31,
-          "reach": 55,
-          "is_ces": false
-        },
-        {
-          "person_id": "yascha-mounk",
-          "name": "Yascha Mounk",
-          "count": 30,
-          "reach": 211,
+          "count": 32,
+          "reach": 56,
           "is_ces": false
         },
         {
@@ -857,22 +864,22 @@
         {
           "person_id": "hahrie-han",
           "name": "Hahrie Han",
-          "count": 22,
-          "reach": 358,
+          "count": 23,
+          "reach": 359,
           "is_ces": false
         }
       ],
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 140,
-          "reach": 359,
+          "count": 149,
+          "reach": 368,
           "is_other": false
         },
         {
           "source": "Youtube",
-          "count": 32,
-          "reach": 29,
+          "count": 33,
+          "reach": 30,
           "is_other": false
         },
         {
@@ -882,27 +889,27 @@
           "is_other": false
         },
         {
+          "source": "Substack",
+          "count": 25,
+          "reach": 28,
+          "is_other": false
+        },
+        {
           "source": "YouTube",
           "count": 24,
           "reach": 24,
           "is_other": false
         },
         {
-          "source": "Substack",
-          "count": 23,
-          "reach": 26,
-          "is_other": false
-        },
-        {
           "source": "Bluesky",
-          "count": 20,
-          "reach": 31,
+          "count": 21,
+          "reach": 32,
           "is_other": false
         },
         {
           "source": "Springer",
-          "count": 17,
-          "reach": 17,
+          "count": 19,
+          "reach": 19,
           "is_other": false
         },
         {
@@ -913,19 +920,19 @@
         },
         {
           "source": "Other",
-          "count": 468,
-          "reach": 1643,
+          "count": 493,
+          "reach": 1739,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 373
+          "count": 395
         },
         {
           "source_type": "social network",
-          "count": 143
+          "count": 151
         },
         {
           "source_type": "blog",
@@ -933,7 +940,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 214
+          "count": 224
         }
       ],
       "negative_stories": [
@@ -974,11 +981,11 @@
           "row_label": "Anne Applebaum",
           "person_id": "anne-applebaum",
           "is_ces": false,
-          "positive": 9,
+          "positive": 10,
           "neutral": 12,
           "negative": 5,
-          "unknown": 30,
-          "total": 56
+          "unknown": 32,
+          "total": 59
         },
         {
           "row_label": "Johns Hopkins",
@@ -987,8 +994,18 @@
           "positive": 0,
           "neutral": 0,
           "negative": 0,
-          "unknown": 41,
-          "total": 41
+          "unknown": 59,
+          "total": 59
+        },
+        {
+          "row_label": "Yascha Mounk",
+          "person_id": "yascha-mounk",
+          "is_ces": false,
+          "positive": 2,
+          "neutral": 10,
+          "negative": 1,
+          "unknown": 25,
+          "total": 38
         },
         {
           "row_label": "Henry Farrell",
@@ -1017,18 +1034,8 @@
           "positive": 5,
           "neutral": 12,
           "negative": 1,
-          "unknown": 13,
-          "total": 31
-        },
-        {
-          "row_label": "Yascha Mounk",
-          "person_id": "yascha-mounk",
-          "is_ces": false,
-          "positive": 2,
-          "neutral": 10,
-          "negative": 1,
-          "unknown": 17,
-          "total": 30
+          "unknown": 14,
+          "total": 32
         },
         {
           "row_label": "Yuen Yuen Ang",
@@ -1047,8 +1054,8 @@
           "positive": 11,
           "neutral": 3,
           "negative": 0,
-          "unknown": 8,
-          "total": 22
+          "unknown": 9,
+          "total": 23
         },
         {
           "row_label": "None (no captured text)",
@@ -1074,11 +1081,11 @@
           "row_label": "Louis Hyman",
           "person_id": "louis-hyman",
           "is_ces": true,
-          "positive": 2,
+          "positive": 3,
           "neutral": 4,
           "negative": 0,
           "unknown": 9,
-          "total": 15
+          "total": 16
         },
         {
           "row_label": "Denise Dresser",
@@ -1107,8 +1114,8 @@
           "positive": 3,
           "neutral": 7,
           "negative": 0,
-          "unknown": 2,
-          "total": 12
+          "unknown": 3,
+          "total": 13
         },
         {
           "row_label": "Ruth Braunstein",
@@ -1131,6 +1138,16 @@
           "total": 11
         },
         {
+          "row_label": "Scott Warren",
+          "person_id": "scott-warren",
+          "is_ces": false,
+          "positive": 3,
+          "neutral": 4,
+          "negative": 0,
+          "unknown": 4,
+          "total": 11
+        },
+        {
           "row_label": "Eugene Scott",
           "person_id": "eugene-scott",
           "is_ces": false,
@@ -1139,16 +1156,6 @@
           "negative": 0,
           "unknown": 4,
           "total": 10
-        },
-        {
-          "row_label": "Scott Warren",
-          "person_id": "scott-warren",
-          "is_ces": false,
-          "positive": 3,
-          "neutral": 4,
-          "negative": 0,
-          "unknown": 2,
-          "total": 9
         },
         {
           "row_label": "(false positive)",
@@ -1271,6 +1278,16 @@
           "total": 5
         },
         {
+          "row_label": "Dylan Selterman",
+          "person_id": "dylan-selterman",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 2,
+          "negative": 0,
+          "unknown": 2,
+          "total": 4
+        },
+        {
           "row_label": "Johns Hopkins University",
           "person_id": "johns-hopkins-university",
           "is_ces": false,
@@ -1331,16 +1348,6 @@
           "total": 3
         },
         {
-          "row_label": "Dylan Selterman",
-          "person_id": "dylan-selterman",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 2,
-          "negative": 0,
-          "unknown": 1,
-          "total": 3
-        },
-        {
           "row_label": "Namesake/noise match: Johns Hopkins, agora",
           "person_id": "namesake-noise-match-johns-hopkins-agora",
           "is_ces": false,
@@ -1358,6 +1365,16 @@
           "neutral": 0,
           "negative": 0,
           "unknown": 2,
+          "total": 3
+        },
+        {
+          "row_label": "SNF Agora",
+          "person_id": "snf-agora",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 3,
           "total": 3
         },
         {
@@ -1388,6 +1405,16 @@
           "neutral": 0,
           "negative": 0,
           "unknown": 2,
+          "total": 2
+        },
+        {
+          "row_label": "André Nogueira",
+          "person_id": "andre-nogueira",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 1,
+          "negative": 0,
+          "unknown": 1,
           "total": 2
         },
         {
@@ -1538,16 +1565,6 @@
           "neutral": 0,
           "negative": 0,
           "unknown": 1,
-          "total": 1
-        },
-        {
-          "row_label": "André Nogueira",
-          "person_id": "andre-nogueira",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 1,
-          "negative": 0,
-          "unknown": 0,
           "total": 1
         },
         {
@@ -1904,19 +1921,19 @@
       "source_type_sentiment_crosstab": [
         {
           "row_label": "online news",
-          "positive": 30,
+          "positive": 31,
           "neutral": 98,
           "negative": 2,
-          "unknown": 243,
-          "total": 373
+          "unknown": 264,
+          "total": 395
         },
         {
           "row_label": "social network",
-          "positive": 32,
+          "positive": 33,
           "neutral": 39,
           "negative": 1,
-          "unknown": 71,
-          "total": 143
+          "unknown": 78,
+          "total": 151
         },
         {
           "row_label": "blog",
@@ -1931,8 +1948,8 @@
           "positive": 22,
           "neutral": 11,
           "negative": 8,
-          "unknown": 173,
-          "total": 214
+          "unknown": 183,
+          "total": 224
         }
       ],
       "sentiment_examples": {
@@ -2094,6 +2111,26 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 775,
+              "person": "Louis Hyman",
+              "person_id": "louis-hyman",
+              "is_ces": true,
+              "title": "AI and the Future of History",
+              "url": "https://hub.jhu.edu/events/2026/10/01/ai-and-the-future-of-history/",
+              "source": "Hub - Johns Hopkins University",
+              "date": "2026-09-22"
+            },
+            {
+              "id": 773,
+              "person": "Anne Applebaum",
+              "person_id": "anne-applebaum",
+              "is_ces": false,
+              "title": "Bluesky post on the Johns Hopkins democratic-norms timeline project",
+              "url": "https://bsky.app/profile/did:plc:6srbpsedtw63wrj4vwaarpny/post/3mw2p2vpwzs2u",
+              "source": "Bluesky",
+              "date": "2026-09-21"
+            },
             {
               "id": 729,
               "person": "Anne Applebaum",
@@ -2998,7 +3035,7 @@
           "top_keyphrases": [
             {
               "keyphrase": "democracy",
-              "count": 8
+              "count": 9
             },
             {
               "keyphrase": "organization",
@@ -3042,9 +3079,9 @@
     },
     "ces": {
       "totals": {
-        "mentions": 97,
-        "in_digest": 64,
-        "reach_proxy": 159,
+        "mentions": 98,
+        "in_digest": 65,
+        "reach_proxy": 160,
         "people_covered": 10,
         "people_tracked": 17,
         "sources": 53,
@@ -3646,6 +3683,13 @@
           "reach": 0,
           "in_digest": 0,
           "observed": true
+        },
+        {
+          "date": "2026-09-22",
+          "count": 1,
+          "reach": 1,
+          "in_digest": 1,
+          "observed": true
         }
       ],
       "weekly": [
@@ -3807,12 +3851,12 @@
         },
         {
           "week_start": "2026-09-21",
-          "count": 0,
-          "reach": 0,
-          "in_digest": 0,
-          "people": 0,
+          "count": 1,
+          "reach": 1,
+          "in_digest": 1,
+          "people": 1,
           "sentiment": {
-            "positive": 0,
+            "positive": 1,
             "neutral": 0,
             "negative": 0,
             "unknown": 0
@@ -3820,7 +3864,7 @@
         }
       ],
       "sentiment": {
-        "positive": 14,
+        "positive": 15,
         "neutral": 31,
         "negative": 0,
         "unknown": 52
@@ -3843,8 +3887,8 @@
         {
           "person_id": "louis-hyman",
           "name": "Louis Hyman",
-          "count": 15,
-          "reach": 23,
+          "count": 16,
+          "reach": 24,
           "is_ces": true
         },
         {
@@ -3948,15 +3992,15 @@
         },
         {
           "source": "Other",
-          "count": 52,
-          "reach": 96,
+          "count": 53,
+          "reach": 97,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 50
+          "count": 51
         },
         {
           "source_type": "social network",
@@ -3997,11 +4041,11 @@
           "row_label": "Louis Hyman",
           "person_id": "louis-hyman",
           "is_ces": true,
-          "positive": 2,
+          "positive": 3,
           "neutral": 4,
           "negative": 0,
           "unknown": 9,
-          "total": 15
+          "total": 16
         },
         {
           "row_label": "Steven Teles",
@@ -4077,11 +4121,11 @@
       "source_type_sentiment_crosstab": [
         {
           "row_label": "online news",
-          "positive": 8,
+          "positive": 9,
           "neutral": 19,
           "negative": 0,
           "unknown": 23,
-          "total": 50
+          "total": 51
         },
         {
           "row_label": "social network",
@@ -4115,6 +4159,16 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 775,
+              "person": "Louis Hyman",
+              "person_id": "louis-hyman",
+              "is_ces": true,
+              "title": "AI and the Future of History",
+              "url": "https://hub.jhu.edu/events/2026/10/01/ai-and-the-future-of-history/",
+              "source": "Hub - Johns Hopkins University",
+              "date": "2026-09-22"
+            },
             {
               "id": 521,
               "person": "Henry Farrell",
@@ -4262,6 +4316,10 @@
               "count": 3
             },
             {
+              "keyphrase": "addition",
+              "count": 2
+            },
+            {
               "keyphrase": "aei and hopkins talk",
               "count": 2
             },
@@ -4291,10 +4349,6 @@
             },
             {
               "keyphrase": "civics schools",
-              "count": 2
-            },
-            {
-              "keyphrase": "aea meeting",
               "count": 2
             }
           ]
