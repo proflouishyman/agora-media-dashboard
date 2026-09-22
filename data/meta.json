@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-22T11:01:15-04:00",
+  "generated_at": "2026-09-22T14:24:40-04:00",
   "generated_date": "2026-09-22",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
@@ -89,8 +89,8 @@
       "2026-09-21",
       "2026-09-22"
     ],
-    "total_mentions": 802,
-    "total_raw_documents": 3094,
+    "total_mentions": 809,
+    "total_raw_documents": 3103,
     "total_tracked_people": 100,
     "total_ces_people": 17
   },
@@ -98,7 +98,7 @@
     "all": {
       "label": "SNF Agora Institute",
       "people": 100,
-      "mentions": 802
+      "mentions": 809
     },
     "ces": {
       "label": "Center on Economy and Society",
@@ -109,8 +109,8 @@
   "data_quality": {
     "mentions_missing_url": 192,
     "mentions_no_text_captured": 89,
-    "mentions_sentiment_unknown": 544,
-    "mentions_shareable": 591,
+    "mentions_sentiment_unknown": 551,
+    "mentions_shareable": 598,
     "unmatched_persons": [
       {
         "person": "unknown",
@@ -118,7 +118,7 @@
       },
       {
         "person": "Johns Hopkins",
-        "mentions": 59
+        "mentions": 65
       },
       {
         "person": "None (keyword noise)",

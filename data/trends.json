@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T11:01:15-04:00",
+  "generated_at": "2026-09-22T14:24:40-04:00",
   "window": {
     "start": "2026-07-02",
     "end": "2026-09-22"
@@ -7,12 +7,12 @@
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 802,
+        "mentions": 809,
         "in_digest": 272,
-        "reach_proxy": 2300,
+        "reach_proxy": 2307,
         "people_covered": 96,
         "people_tracked": 100,
-        "sources": 363,
+        "sources": 369,
         "negative": 11
       },
       "deltas": {
@@ -614,8 +614,8 @@
         },
         {
           "date": "2026-09-22",
-          "count": 12,
-          "reach": 83,
+          "count": 19,
+          "reach": 90,
           "in_digest": 1,
           "observed": true
         }
@@ -779,15 +779,15 @@
         },
         {
           "week_start": "2026-09-21",
-          "count": 46,
-          "reach": 133,
+          "count": 53,
+          "reach": 140,
           "in_digest": 6,
           "people": 13,
           "sentiment": {
             "positive": 2,
             "neutral": 0,
             "negative": 0,
-            "unknown": 44
+            "unknown": 51
           }
         }
       ],
@@ -795,7 +795,7 @@
         "positive": 92,
         "neutral": 155,
         "negative": 11,
-        "unknown": 544
+        "unknown": 551
       },
       "top_people": [
         {
@@ -813,6 +813,13 @@
           "is_ces": false
         },
         {
+          "person_id": "johns-hopkins",
+          "name": "Johns Hopkins",
+          "count": 65,
+          "reach": 137,
+          "is_ces": false
+        },
+        {
           "person_id": "anne-applebaum",
           "name": "Anne Applebaum",
           "count": 59,
@@ -820,17 +827,10 @@
           "is_ces": false
         },
         {
-          "person_id": "johns-hopkins",
-          "name": "Johns Hopkins",
-          "count": 59,
-          "reach": 131,
-          "is_ces": false
-        },
-        {
           "person_id": "yascha-mounk",
           "name": "Yascha Mounk",
-          "count": 38,
-          "reach": 219,
+          "count": 39,
+          "reach": 220,
           "is_ces": false
         },
         {
@@ -920,15 +920,15 @@
         },
         {
           "source": "Other",
-          "count": 493,
-          "reach": 1739,
+          "count": 500,
+          "reach": 1746,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 395
+          "count": 402
         },
         {
           "source_type": "social network",
@@ -978,6 +978,16 @@
           "total": 84
         },
         {
+          "row_label": "Johns Hopkins",
+          "person_id": "johns-hopkins",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 65,
+          "total": 65
+        },
+        {
           "row_label": "Anne Applebaum",
           "person_id": "anne-applebaum",
           "is_ces": false,
@@ -988,24 +998,14 @@
           "total": 59
         },
         {
-          "row_label": "Johns Hopkins",
-          "person_id": "johns-hopkins",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 59,
-          "total": 59
-        },
-        {
           "row_label": "Yascha Mounk",
           "person_id": "yascha-mounk",
           "is_ces": false,
           "positive": 2,
           "neutral": 10,
           "negative": 1,
-          "unknown": 25,
-          "total": 38
+          "unknown": 26,
+          "total": 39
         },
         {
           "row_label": "Henry Farrell",
@@ -1924,8 +1924,8 @@
           "positive": 31,
           "neutral": 98,
           "negative": 2,
-          "unknown": 264,
-          "total": 395
+          "unknown": 271,
+          "total": 402
         },
         {
           "row_label": "social network",
