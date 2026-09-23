@@ -221,21 +221,21 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 65,
+    "mentions_total": 77,
     "mentions_in_digest": 0,
-    "reach_proxy": 137,
+    "reach_proxy": 873,
     "first_mention_date": "2026-08-30",
-    "last_mention_date": "2026-09-22",
+    "last_mention_date": "2026-09-23",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
       "negative": 0,
-      "unknown": 65
+      "unknown": 77
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 11
+        "count": 14
       },
       {
         "source": "Substack",
@@ -312,8 +312,8 @@
       },
       {
         "week_start": "2026-09-21",
-        "count": 24,
-        "reach": 95
+        "count": 36,
+        "reach": 831
       }
     ]
   },
@@ -329,16 +329,16 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 59,
+    "mentions_total": 60,
     "mentions_in_digest": 32,
-    "reach_proxy": 314,
+    "reach_proxy": 315,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-09-21",
+    "last_mention_date": "2026-09-22",
     "sentiment": {
       "positive": 10,
       "neutral": 12,
       "negative": 5,
-      "unknown": 32
+      "unknown": 33
     },
     "top_sources": [
       {
@@ -358,7 +358,7 @@
         "count": 4
       },
       {
-        "source": "Instituto Rothbard",
+        "source": "Bluesky",
         "count": 2
       }
     ],
@@ -420,8 +420,8 @@
       },
       {
         "week_start": "2026-09-21",
-        "count": 3,
-        "reach": 3
+        "count": 4,
+        "reach": 4
       }
     ]
   },

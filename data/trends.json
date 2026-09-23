@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-22T14:24:40-04:00",
+  "generated_at": "2026-09-23T07:05:17-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-09-22"
+    "end": "2026-09-23"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 809,
+        "mentions": 822,
         "in_digest": 272,
-        "reach_proxy": 2307,
+        "reach_proxy": 3044,
         "people_covered": 96,
         "people_tracked": 100,
-        "sources": 369,
+        "sources": 373,
         "negative": 11
       },
       "deltas": {
@@ -614,9 +614,16 @@
         },
         {
           "date": "2026-09-22",
-          "count": 19,
-          "reach": 90,
+          "count": 29,
+          "reach": 824,
           "in_digest": 1,
+          "observed": true
+        },
+        {
+          "date": "2026-09-23",
+          "count": 3,
+          "reach": 3,
+          "in_digest": 0,
           "observed": true
         }
       ],
@@ -779,15 +786,15 @@
         },
         {
           "week_start": "2026-09-21",
-          "count": 53,
-          "reach": 140,
+          "count": 66,
+          "reach": 877,
           "in_digest": 6,
           "people": 13,
           "sentiment": {
             "positive": 2,
             "neutral": 0,
             "negative": 0,
-            "unknown": 51
+            "unknown": 64
           }
         }
       ],
@@ -795,7 +802,7 @@
         "positive": 92,
         "neutral": 155,
         "negative": 11,
-        "unknown": 551
+        "unknown": 564
       },
       "top_people": [
         {
@@ -815,15 +822,15 @@
         {
           "person_id": "johns-hopkins",
           "name": "Johns Hopkins",
-          "count": 65,
-          "reach": 137,
+          "count": 77,
+          "reach": 873,
           "is_ces": false
         },
         {
           "person_id": "anne-applebaum",
           "name": "Anne Applebaum",
-          "count": 59,
-          "reach": 314,
+          "count": 60,
+          "reach": 315,
           "is_ces": false
         },
         {
@@ -872,14 +879,14 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 149,
-          "reach": 368,
+          "count": 152,
+          "reach": 1095,
           "is_other": false
         },
         {
           "source": "Youtube",
-          "count": 33,
-          "reach": 30,
+          "count": 34,
+          "reach": 31,
           "is_other": false
         },
         {
@@ -902,8 +909,8 @@
         },
         {
           "source": "Bluesky",
-          "count": 21,
-          "reach": 32,
+          "count": 22,
+          "reach": 33,
           "is_other": false
         },
         {
@@ -914,25 +921,25 @@
         },
         {
           "source": "The New York Times",
-          "count": 13,
-          "reach": 38,
+          "count": 14,
+          "reach": 39,
           "is_other": false
         },
         {
           "source": "Other",
-          "count": 500,
-          "reach": 1746,
+          "count": 507,
+          "reach": 1753,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 402
+          "count": 410
         },
         {
           "source_type": "social network",
-          "count": 151
+          "count": 153
         },
         {
           "source_type": "blog",
@@ -940,7 +947,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 224
+          "count": 227
         }
       ],
       "negative_stories": [
@@ -984,8 +991,8 @@
           "positive": 0,
           "neutral": 0,
           "negative": 0,
-          "unknown": 65,
-          "total": 65
+          "unknown": 77,
+          "total": 77
         },
         {
           "row_label": "Anne Applebaum",
@@ -994,8 +1001,8 @@
           "positive": 10,
           "neutral": 12,
           "negative": 5,
-          "unknown": 32,
-          "total": 59
+          "unknown": 33,
+          "total": 60
         },
         {
           "row_label": "Yascha Mounk",
@@ -1924,16 +1931,16 @@
           "positive": 31,
           "neutral": 98,
           "negative": 2,
-          "unknown": 271,
-          "total": 402
+          "unknown": 279,
+          "total": 410
         },
         {
           "row_label": "social network",
           "positive": 33,
           "neutral": 39,
           "negative": 1,
-          "unknown": 78,
-          "total": 151
+          "unknown": 80,
+          "total": 153
         },
         {
           "row_label": "blog",
@@ -1948,8 +1955,8 @@
           "positive": 22,
           "neutral": 11,
           "negative": 8,
-          "unknown": 183,
-          "total": 224
+          "unknown": 186,
+          "total": 227
         }
       ],
       "sentiment_examples": {
@@ -3689,6 +3696,13 @@
           "count": 1,
           "reach": 1,
           "in_digest": 1,
+          "observed": true
+        },
+        {
+          "date": "2026-09-23",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
           "observed": true
         }
       ],
