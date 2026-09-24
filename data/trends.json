@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-23T07:05:17-04:00",
+  "generated_at": "2026-09-24T07:07:23-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-09-23"
+    "end": "2026-09-24"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 822,
-        "in_digest": 272,
-        "reach_proxy": 3044,
+        "mentions": 843,
+        "in_digest": 274,
+        "reach_proxy": 3290,
         "people_covered": 96,
         "people_tracked": 100,
-        "sources": 373,
+        "sources": 384,
         "negative": 11
       },
       "deltas": {
@@ -614,16 +614,23 @@
         },
         {
           "date": "2026-09-22",
-          "count": 29,
-          "reach": 824,
-          "in_digest": 1,
+          "count": 30,
+          "reach": 825,
+          "in_digest": 2,
           "observed": true
         },
         {
           "date": "2026-09-23",
-          "count": 3,
-          "reach": 3,
+          "count": 18,
+          "reach": 207,
           "in_digest": 0,
+          "observed": true
+        },
+        {
+          "date": "2026-09-24",
+          "count": 5,
+          "reach": 41,
+          "in_digest": 1,
           "observed": true
         }
       ],
@@ -786,15 +793,15 @@
         },
         {
           "week_start": "2026-09-21",
-          "count": 66,
-          "reach": 877,
-          "in_digest": 6,
-          "people": 13,
+          "count": 87,
+          "reach": 1123,
+          "in_digest": 8,
+          "people": 14,
           "sentiment": {
             "positive": 2,
             "neutral": 0,
             "negative": 0,
-            "unknown": 64
+            "unknown": 85
           }
         }
       ],
@@ -802,9 +809,16 @@
         "positive": 92,
         "neutral": 155,
         "negative": 11,
-        "unknown": 564
+        "unknown": 585
       },
       "top_people": [
+        {
+          "person_id": "johns-hopkins",
+          "name": "Johns Hopkins",
+          "count": 96,
+          "reach": 1115,
+          "is_ces": false
+        },
         {
           "person_id": "unknown",
           "name": "unknown",
@@ -820,17 +834,10 @@
           "is_ces": false
         },
         {
-          "person_id": "johns-hopkins",
-          "name": "Johns Hopkins",
-          "count": 77,
-          "reach": 873,
-          "is_ces": false
-        },
-        {
           "person_id": "anne-applebaum",
           "name": "Anne Applebaum",
-          "count": 60,
-          "reach": 315,
+          "count": 61,
+          "reach": 316,
           "is_ces": false
         },
         {
@@ -879,26 +886,26 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 152,
-          "reach": 1095,
+          "count": 154,
+          "reach": 1281,
           "is_other": false
         },
         {
           "source": "Youtube",
-          "count": 34,
-          "reach": 31,
+          "count": 36,
+          "reach": 33,
+          "is_other": false
+        },
+        {
+          "source": "Substack",
+          "count": 26,
+          "reach": 29,
           "is_other": false
         },
         {
           "source": "LinkedIn",
           "count": 25,
           "reach": 22,
-          "is_other": false
-        },
-        {
-          "source": "Substack",
-          "count": 25,
-          "reach": 28,
           "is_other": false
         },
         {
@@ -927,27 +934,27 @@
         },
         {
           "source": "Other",
-          "count": 507,
-          "reach": 1753,
+          "count": 523,
+          "reach": 1810,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 410
+          "count": 424
         },
         {
           "source_type": "social network",
-          "count": 153
+          "count": 156
         },
         {
           "source_type": "blog",
-          "count": 32
+          "count": 33
         },
         {
           "source_type": "unresolved",
-          "count": 227
+          "count": 230
         }
       ],
       "negative_stories": [
@@ -964,6 +971,16 @@
         51
       ],
       "person_sentiment_crosstab": [
+        {
+          "row_label": "Johns Hopkins",
+          "person_id": "johns-hopkins",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 96,
+          "total": 96
+        },
         {
           "row_label": "unknown",
           "person_id": "unknown",
@@ -985,24 +1002,14 @@
           "total": 84
         },
         {
-          "row_label": "Johns Hopkins",
-          "person_id": "johns-hopkins",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 77,
-          "total": 77
-        },
-        {
           "row_label": "Anne Applebaum",
           "person_id": "anne-applebaum",
           "is_ces": false,
           "positive": 10,
           "neutral": 12,
           "negative": 5,
-          "unknown": 33,
-          "total": 60
+          "unknown": 34,
+          "total": 61
         },
         {
           "row_label": "Yascha Mounk",
@@ -1131,8 +1138,8 @@
           "positive": 7,
           "neutral": 5,
           "negative": 0,
-          "unknown": 0,
-          "total": 12
+          "unknown": 1,
+          "total": 13
         },
         {
           "row_label": "Peter Pomerantsev",
@@ -1931,32 +1938,32 @@
           "positive": 31,
           "neutral": 98,
           "negative": 2,
-          "unknown": 279,
-          "total": 410
+          "unknown": 293,
+          "total": 424
         },
         {
           "row_label": "social network",
           "positive": 33,
           "neutral": 39,
           "negative": 1,
-          "unknown": 80,
-          "total": 153
+          "unknown": 83,
+          "total": 156
         },
         {
           "row_label": "blog",
           "positive": 6,
           "neutral": 7,
           "negative": 0,
-          "unknown": 19,
-          "total": 32
+          "unknown": 20,
+          "total": 33
         },
         {
           "row_label": "unresolved",
           "positive": 22,
           "neutral": 11,
           "negative": 8,
-          "unknown": 186,
-          "total": 227
+          "unknown": 189,
+          "total": 230
         }
       ],
       "sentiment_examples": {
@@ -3700,6 +3707,13 @@
         },
         {
           "date": "2026-09-23",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
+          "observed": true
+        },
+        {
+          "date": "2026-09-24",
           "count": 0,
           "reach": 0,
           "in_digest": 0,
