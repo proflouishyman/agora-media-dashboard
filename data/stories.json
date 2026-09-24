@@ -1,7 +1,509 @@
 {
-  "generated_at": "2026-09-23T07:05:17-04:00",
-  "count": 822,
+  "generated_at": "2026-09-24T07:07:23-04:00",
+  "count": 843,
   "stories": [
+    {
+      "id": 831,
+      "date": "2026-09-24",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "These 3 NH colleges ranked among the top universities in the US",
+      "has_text": true,
+      "url": "https://www.yahoo.com/news/us/articles/3-nh-colleges-ranked-among-090653076.html",
+      "source": "Yahoo! News",
+      "source_type": "online news",
+      "similar_mention_count": 34,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "These 3 NH colleges ranked among the top universities in the US https://www.yahoo.com/news/us/articles/3-nh-colleges-ranked-among-090653076.html",
+          "chars": 87
+        },
+        "bluesky": {
+          "text": "These 3 NH colleges ranked among the top universities in the US https://www.yahoo.com/news/us/articles/3-nh-colleges-ranked-among-090653076.html",
+          "chars": 144
+        }
+      }
+    },
+    {
+      "id": 832,
+      "date": "2026-09-24",
+      "week_start": "2026-09-21",
+      "person_id": "ruth-braunstein",
+      "person": "Ruth Braunstein",
+      "is_ces": false,
+      "title": "Resistance to Christian Nationalism Could Help Decide Midterms | Opinion",
+      "has_text": true,
+      "url": "https://www.newsweek.com/resistance-to-christian-nationalism-could-help-decide-midterms-opinion-12472313",
+      "source": "Newsweek",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Resistance to Christian Nationalism Could Help Decide Midterms | Opinion https://www.newsweek.com/resistance-to-christian-nationalism-could-help-decide-midterms-opinion-12472313",
+          "chars": 96
+        },
+        "bluesky": {
+          "text": "Resistance to Christian Nationalism Could Help Decide Midterms | Opinion https://www.newsweek.com/resistance-to-christian-nationalism-could-help-decide-midterms-opinion-12472313",
+          "chars": 177
+        }
+      }
+    },
+    {
+      "id": 833,
+      "date": "2026-09-24",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Study links life purpose to lower suicide risk in college students",
+      "has_text": true,
+      "url": "https://www.yahoo.com/news/us/articles/study-links-life-purpose-lower-091407061.html",
+      "source": "Yahoo! News",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Study links life purpose to lower suicide risk in college students https://www.yahoo.com/news/us/articles/study-links-life-purpose-lower-091407061.html",
+          "chars": 90
+        },
+        "bluesky": {
+          "text": "Study links life purpose to lower suicide risk in college students https://www.yahoo.com/news/us/articles/study-links-life-purpose-lower-091407061.html",
+          "chars": 151
+        }
+      }
+    },
+    {
+      "id": 836,
+      "date": "2026-09-24",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Stellic Summit Brings Together Student Success and Credit Mobility Leaders to Rebuild the Student Journey From the Ground Up",
+      "has_text": true,
+      "url": "https://www.webull.com/news/15622265977717760",
+      "source": "Webull",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Stellic Summit Brings Together Student Success and Credit Mobility Leaders to Rebuild the Student Journey From the Ground Up https://www.webull.com/news/15622265977717760",
+          "chars": 148
+        },
+        "bluesky": {
+          "text": "Stellic Summit Brings Together Student Success and Credit Mobility Leaders to Rebuild the Student Journey From the Ground Up https://www.webull.com/news/15622265977717760",
+          "chars": 170
+        }
+      }
+    },
+    {
+      "id": 835,
+      "date": "2026-09-24",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Reddit r/Key_Intelligence_ post (How the CIA quietly shapes what universities teach) — no captured text",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/Key_Intelligence_/comments/1woukfz/how_the_cia_quietly_shapes_what_universities_teach/",
+      "source": "reddit.com/r/Key_Intelligence_",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Reddit r/Key_Intelligence_ post (How the CIA quietly shapes what universities teach) — no captured text https://www.reddit.com/r/Key_Intelligence_/comments/1woukfz/how_the_cia_quietly_shapes_what_universities_teach/",
+          "chars": 127
+        },
+        "bluesky": {
+          "text": "Reddit r/Key_Intelligence_ post (How the CIA quietly shapes what universities teach) — no captured text https://www.reddit.com/r/Key_Intelligence_/comments/1woukfz/how_the_cia_quietly_shapes_what_universities_teach/",
+          "chars": 215
+        }
+      }
+    },
+    {
+      "id": 834,
+      "date": "2026-09-23",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Twitter/X repost cluster on \"Johns Hopkins\" + \"NIH funding\" — no captured text",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 185,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 839,
+      "date": "2026-09-23",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Phil And Penny Knight Donate $1 Billion To The University Of Oregon",
+      "has_text": true,
+      "url": "https://www.forbes.com/sites/michaeltnietzel/2026/09/23/phil-and-penny-knight-donate-1-billion-to-the-university-of-oregon/",
+      "source": "Forbes",
+      "source_type": "online news",
+      "similar_mention_count": 5,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Phil And Penny Knight Donate $1 Billion To The University Of Oregon https://www.forbes.com/sites/michaeltnietzel/2026/09/23/phil-and-penny-knight-donate-1-billion-to-the-university-of-oregon/",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "Phil And Penny Knight Donate $1 Billion To The University Of Oregon https://www.forbes.com/sites/michaeltnietzel/2026/09/23/phil-and-penny-knight-donate-1-billion-to-the-university-of-oregon/",
+          "chars": 191
+        }
+      }
+    },
+    {
+      "id": 846,
+      "date": "2026-09-23",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Exame de sangue para detecção de câncer da Grail enfrenta uma análise crucial da FDA.",
+      "has_text": true,
+      "url": "https://www.tribunadosertao.com.br/internacional/2026/09/23/983925-exame-de-sangue-para-deteccao-de-cancer-da-grail-enfrenta-uma-analise-crucial-da-fda",
+      "source": "Tribuna do Sertão",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Exame de sangue para detecção de câncer da Grail enfrenta uma análise crucial da FDA. https://www.tribunadosertao.com.br/internacional/2026/09/23/983925-exame-de-sangue-para-deteccao-de-cancer-da-grail-enfrenta-uma-analise-crucial-da-fda",
+          "chars": 109
+        },
+        "bluesky": {
+          "text": "Exame de sangue para detecção de câncer da Grail enfrenta uma análise crucial da FDA. https://www.tribunadosertao.com.br/internacional/2026/09/23/983925-exame-de-sangue-para-deteccao-de-cancer-da-grail-enfrenta-uma-analise-crucial-da-fda",
+          "chars": 237
+        }
+      }
+    },
+    {
+      "id": 850,
+      "date": "2026-09-23",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Job Posting: Johns Hopkins University",
+      "has_text": true,
+      "url": "https://ombuds-blog.blogspot.com/2026/09/job-posting-johns-hopkins-university.html",
+      "source": "The Ombuds Blog",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Job Posting: Johns Hopkins University https://ombuds-blog.blogspot.com/2026/09/job-posting-johns-hopkins-university.html",
+          "chars": 61
+        },
+        "bluesky": {
+          "text": "Job Posting: Johns Hopkins University https://ombuds-blog.blogspot.com/2026/09/job-posting-johns-hopkins-university.html",
+          "chars": 120
+        }
+      }
+    },
+    {
+      "id": 849,
+      "date": "2026-09-23",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "This Cancer Breakthrough Has Scientists Cheering—and Crying",
+      "has_text": true,
+      "url": "https://portside.org/2026-09-23/cancer-breakthrough-has-scientists-cheering-and-crying",
+      "source": "Portside",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "This Cancer Breakthrough Has Scientists Cheering—and Crying https://portside.org/2026-09-23/cancer-breakthrough-has-scientists-cheering-and-crying",
+          "chars": 83
+        },
+        "bluesky": {
+          "text": "This Cancer Breakthrough Has Scientists Cheering—and Crying https://portside.org/2026-09-23/cancer-breakthrough-has-scientists-cheering-and-crying",
+          "chars": 146
+        }
+      }
+    },
+    {
+      "id": 848,
+      "date": "2026-09-23",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Episode 9: How a Child’s Civic Identity Takes Shape",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=YRbi8PShbks",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Episode 9: How a Child’s Civic Identity Takes Shape https://www.youtube.com/watch?v=YRbi8PShbks",
+          "chars": 75
+        },
+        "bluesky": {
+          "text": "Episode 9: How a Child’s Civic Identity Takes Shape https://www.youtube.com/watch?v=YRbi8PShbks",
+          "chars": 95
+        }
+      }
+    },
+    {
+      "id": 847,
+      "date": "2026-09-23",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "How Koched Up is RI Ed Commissioner?",
+      "has_text": true,
+      "url": "https://stew312856.substack.com/p/how-koched-up-is-ri-ed-commissioner",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "How Koched Up is RI Ed Commissioner? https://stew312856.substack.com/p/how-koched-up-is-ri-ed-commissioner",
+          "chars": 60
+        },
+        "bluesky": {
+          "text": "How Koched Up is RI Ed Commissioner? https://stew312856.substack.com/p/how-koched-up-is-ri-ed-commissioner",
+          "chars": 106
+        }
+      }
+    },
+    {
+      "id": 845,
+      "date": "2026-09-23",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "The Top US Research Universities: One Name Has Led Since 1979",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=KVgcvYdIP5Y",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Top US Research Universities: One Name Has Led Since 1979 https://www.youtube.com/watch?v=KVgcvYdIP5Y",
+          "chars": 85
+        },
+        "bluesky": {
+          "text": "The Top US Research Universities: One Name Has Led Since 1979 https://www.youtube.com/watch?v=KVgcvYdIP5Y",
+          "chars": 105
+        }
+      }
+    },
+    {
+      "id": 844,
+      "date": "2026-09-23",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Ford vai fechar 160 concessionárias e terá de brigar pelas lojas que vão restar",
+      "has_text": true,
+      "url": "https://cabresto.blogspot.com/2021/02/",
+      "source": "Cabresto",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Ford vai fechar 160 concessionárias e terá de brigar pelas lojas que vão restar https://cabresto.blogspot.com/2021/02/",
+          "chars": 103
+        },
+        "bluesky": {
+          "text": "Ford vai fechar 160 concessionárias e terá de brigar pelas lojas que vão restar https://cabresto.blogspot.com/2021/02/",
+          "chars": 118
+        }
+      }
+    },
+    {
+      "id": 843,
+      "date": "2026-09-23",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Study reviews potential health effects of mobile phone use during pregnancy",
+      "has_text": true,
+      "url": "https://medicalxpress.com/news/2026-09-potential-health-effects-mobile-pregnancy.html",
+      "source": "Medical Xpress",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Study reviews potential health effects of mobile phone use during pregnancy https://medicalxpress.com/news/2026-09-potential-health-effects-mobile-pregnancy.html",
+          "chars": 99
+        },
+        "bluesky": {
+          "text": "Study reviews potential health effects of mobile phone use during pregnancy https://medicalxpress.com/news/2026-09-potential-health-effects-mobile-pregnancy.html",
+          "chars": 161
+        }
+      }
+    },
+    {
+      "id": 842,
+      "date": "2026-09-23",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "As planilhas funcionam, mas os votos não vêm",
+      "has_text": true,
+      "url": "https://outraspalavras.net/estadoemdisputa/as-planilhas-funcionam-mas-os-votos-nao-vem/",
+      "source": "Outras Palavras",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "As planilhas funcionam, mas os votos não vêm https://outraspalavras.net/estadoemdisputa/as-planilhas-funcionam-mas-os-votos-nao-vem/",
+          "chars": 68
+        },
+        "bluesky": {
+          "text": "As planilhas funcionam, mas os votos não vêm https://outraspalavras.net/estadoemdisputa/as-planilhas-funcionam-mas-os-votos-nao-vem/",
+          "chars": 132
+        }
+      }
+    },
+    {
+      "id": 841,
+      "date": "2026-09-23",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Sing Chun Lee, Computer Science",
+      "has_text": true,
+      "url": "https://www.bucknell.edu/meet-bucknell/bucknell-stories/faculty-stories/sing-chun-lee-computer-science",
+      "source": "WVBU-FM (Lewisburg, PA)",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Sing Chun Lee, Computer Science https://www.bucknell.edu/meet-bucknell/bucknell-stories/faculty-stories/sing-chun-lee-computer-science",
+          "chars": 55
+        },
+        "bluesky": {
+          "text": "Sing Chun Lee, Computer Science https://www.bucknell.edu/meet-bucknell/bucknell-stories/faculty-stories/sing-chun-lee-computer-science",
+          "chars": 134
+        }
+      }
+    },
+    {
+      "id": 840,
+      "date": "2026-09-23",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Heldt Named as Campbell Trophy Semifinalist",
+      "has_text": true,
+      "url": "https://clemsontigers.com/news/2026/09/23/heldt-named-as-campbell-trophy-semifinalist",
+      "source": "Clemson Tigers",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Heldt Named as Campbell Trophy Semifinalist https://clemsontigers.com/news/2026/09/23/heldt-named-as-campbell-trophy-semifinalist",
+          "chars": 67
+        },
+        "bluesky": {
+          "text": "Heldt Named as Campbell Trophy Semifinalist https://clemsontigers.com/news/2026/09/23/heldt-named-as-campbell-trophy-semifinalist",
+          "chars": 129
+        }
+      }
+    },
+    {
+      "id": 838,
+      "date": "2026-09-23",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Predictive anatomical guidance system helps novice users acquire trauma ultrasound images",
+      "has_text": true,
+      "url": "https://medicalxpress.com/news/2026-09-anatomical-guidance-novice-users-trauma.html",
+      "source": "Medical Xpress",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Predictive anatomical guidance system helps novice users acquire trauma ultrasound images https://medicalxpress.com/news/2026-09-anatomical-guidance-novice-users-trauma.html",
+          "chars": 113
+        },
+        "bluesky": {
+          "text": "Predictive anatomical guidance system helps novice users acquire trauma ultrasound images https://medicalxpress.com/news/2026-09-anatomical-guidance-novice-users-trauma.html",
+          "chars": 173
+        }
+      }
+    },
+    {
+      "id": 837,
+      "date": "2026-09-23",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Twitter/X reply matching \"Hopkins\" + \"agora\" — no captured text",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
     {
       "id": 821,
       "date": "2026-09-23",
@@ -146,6 +648,32 @@
         "bluesky": {
           "text": "US News releases their 2027 Best Colleges list. See where Indiana schools ranked https://www.yahoo.com/news/us/articles/us-news-releases-2027-best-090535192.html",
           "chars": 161
+        }
+      }
+    },
+    {
+      "id": 851,
+      "date": "2026-09-22",
+      "week_start": "2026-09-21",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "A Conversation on Defending Democracy With Senator Elissa Slotkin and Anne Applebaum",
+      "has_text": true,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZkZnRU91YnRBWUlPTmIwdVdKRDNOY2Q2X3RobEREUjA1d2FGQlM2Nl9EZXktQmpIX05iTXFweGJQZ0RRQVphYWlFaEtSQzhZbnJkT0pwUnFONGpMVUotQjg4TUFyY3dqbUJDUEVSWUVHWVl4NlVwbWlrVUVmSm5NSWpkcUVkVWF4aUdCWUlTcU9TTGxOaXlRRjFfblkwWlFFSFJZU2NxVkhrR010U2VEZTNkajVOUmc5V2NhZ3QyWEwtaW9Hc2Zwag?oc=5",
+      "source": "Carnegie Endowment for International Peace",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "A Conversation on Defending Democracy With Senator Elissa Slotkin and Anne Applebaum https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZkZnRU91YnRBWUlPTmIwdVdKRDNOY2Q2X3RobEREUjA1d2FGQlM2Nl9EZXktQmpIX05iTXFweGJQZ0RRQVphYWlFaEtSQzhZbnJkT0pwUnFONGpMVUotQjg4TUFyY3dqbUJDUEVSWUVHWVl4NlVwbWlrVUVmSm5NSWpkcUVkVWF4aUdCWUlTcU9TTGxOaXlRRjFfblkwWlFFSFJZU2NxVkhrR010U2VEZTNkajVOUmc5V2NhZ3QyWEwtaW9Hc2Zwag?oc=5",
+          "chars": 108
+        },
+        "bluesky": {
+          "text": "… https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZkZnRU91YnRBWUlPTmIwdVdKRDNOY2Q2X3RobEREUjA1d2FGQlM2Nl9EZXktQmpIX05iTXFweGJQZ0RRQVphYWlFaEtSQzhZbnJkT0pwUnFONGpMVUotQjg4TUFyY3dqbUJDUEVSWUVHWVl4NlVwbWlrVUVmSm5NSWpkcUVkVWF4aUdCWUlTcU9TTGxOaXlRRjFfblkwWlFFSFJZU2NxVkhrR010U2VEZTNkajVOUmc5V2NhZ3QyWEwtaW9Hc2Zwag?oc=5",
+          "chars": 318
         }
       }
     },

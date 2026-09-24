@@ -1,5 +1,111 @@
 [
   {
+    "id": "johns-hopkins",
+    "name": "Johns Hopkins",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 96,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1115,
+    "first_mention_date": "2026-08-30",
+    "last_mention_date": "2026-09-24",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 96
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 16
+      },
+      {
+        "source": "Substack",
+        "count": 5
+      },
+      {
+        "source": "Medical Xpress",
+        "count": 4
+      },
+      {
+        "source": "Yahoo! News",
+        "count": 4
+      },
+      {
+        "source": "Youtube",
+        "count": 4
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 6,
+        "reach": 7
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 16,
+        "reach": 16
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 19,
+        "reach": 19
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 55,
+        "reach": 1073
+      }
+    ]
+  },
+  {
     "id": "unknown",
     "name": "unknown",
     "kind": "unmatched",
@@ -212,112 +318,6 @@
     ]
   },
   {
-    "id": "johns-hopkins",
-    "name": "Johns Hopkins",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 77,
-    "mentions_in_digest": 0,
-    "reach_proxy": 873,
-    "first_mention_date": "2026-08-30",
-    "last_mention_date": "2026-09-23",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 77
-    },
-    "top_sources": [
-      {
-        "source": "Twitter",
-        "count": 14
-      },
-      {
-        "source": "Substack",
-        "count": 4
-      },
-      {
-        "source": "Springer",
-        "count": 3
-      },
-      {
-        "source": "Medical Xpress",
-        "count": 2
-      },
-      {
-        "source": "University World News",
-        "count": 2
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 6,
-        "reach": 7
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 16,
-        "reach": 16
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 19,
-        "reach": 19
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 36,
-        "reach": 831
-      }
-    ]
-  },
-  {
     "id": "anne-applebaum",
     "name": "Anne Applebaum",
     "kind": "faculty",
@@ -329,16 +329,16 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 60,
-    "mentions_in_digest": 32,
-    "reach_proxy": 315,
+    "mentions_total": 61,
+    "mentions_in_digest": 33,
+    "reach_proxy": 316,
     "first_mention_date": "2026-07-02",
     "last_mention_date": "2026-09-22",
     "sentiment": {
       "positive": 10,
       "neutral": 12,
       "negative": 5,
-      "unknown": 33
+      "unknown": 34
     },
     "top_sources": [
       {
@@ -420,8 +420,8 @@
       },
       {
         "week_start": "2026-09-21",
-        "count": 4,
-        "reach": 4
+        "count": 5,
+        "reach": 5
       }
     ]
   },
@@ -1719,16 +1719,16 @@
       "Core Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 12,
-    "mentions_in_digest": 11,
-    "reach_proxy": 29,
+    "mentions_total": 13,
+    "mentions_in_digest": 12,
+    "reach_proxy": 32,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-09-17",
+    "last_mention_date": "2026-09-24",
     "sentiment": {
       "positive": 7,
       "neutral": 5,
       "negative": 0,
-      "unknown": 0
+      "unknown": 1
     },
     "top_sources": [
       {
@@ -1744,11 +1744,11 @@
         "count": 1
       },
       {
-        "source": "RealClearInvestigations",
+        "source": "Newsweek",
         "count": 1
       },
       {
-        "source": "The Hub - Johns Hopkins University",
+        "source": "RealClearInvestigations",
         "count": 1
       }
     ],
@@ -1810,8 +1810,8 @@
       },
       {
         "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 3
       }
     ]
   },

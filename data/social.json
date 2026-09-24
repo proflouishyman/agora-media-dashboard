@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-23T07:05:17-04:00",
-  "count": 59,
+  "generated_at": "2026-09-24T07:07:23-04:00",
+  "count": 60,
   "picks": [
+    {
+      "id": 78,
+      "mention_id": 832,
+      "digest_date": "2026-09-24",
+      "person": "Ruth Braunstein",
+      "person_id": "ruth-braunstein",
+      "person_ids": [
+        "ruth-braunstein"
+      ],
+      "is_ces": false,
+      "punchy_title": "Two-thirds of Americans reject Christian nationalism, and it could swing the midterms",
+      "headline": "Two-thirds of Americans reject Christian nationalism, and it could swing the midterms",
+      "pull_quote": "A new joint survey report from the Public Religion Research Institute (PRRI) and the Meanings of Democracy Lab of the SNF Agora Institute at Johns Hopkins University finds that nearly two-thirds of Americans reject this worldview.",
+      "rationale": "A new joint survey report from the Public Religion Research Institute (PRRI) and the Meanings of Democracy Lab of the SNF Agora Institute at Johns Hopkins University finds that nearly two-thirds of Americans reject this worldview.",
+      "url": "https://www.newsweek.com/resistance-to-christian-nationalism-could-help-decide-midterms-opinion-12472313",
+      "story_url": "https://www.newsweek.com/resistance-to-christian-nationalism-could-help-decide-midterms-opinion-12472313",
+      "created_at": "2026-09-24 11:07:19",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Nearly two-thirds of Americans reject Christian nationalism, per a new PRRI/SNF Agora survey. Ruth Braunstein and Melissa Deckman in Newsweek on the midterms: https://www.newsweek.com/resistance-to-christian-nationalism-could-help-decide-midterms-opinion-12472313",
+          "chars": 263,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Nearly%20two-thirds%20of%20Americans%20reject%20Christian%20nationalism%2C%20per%20a%20new%20PRRI/SNF%20Agora%20survey.%20Ruth%20Braunstein%20and%20Melissa%20Deckman%20in%20Newsweek%20on%20the%20midterms%3A%20https%3A//www.newsweek.com/resistance-to-christian-nationalism-could-help-decide-midterms-opinion-12472313"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Nearly two-thirds of Americans reject Christian nationalism, finds a new PRRI and SNF Agora survey. Ruth Braunstein and Melissa Deckman in Newsweek on why that could matter in November: https://www.newsweek.com/resistance-to-christian-nationalism-could-help-decide-midterms-opinion-12472313",
+          "chars": 290,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Nearly%20two-thirds%20of%20Americans%20reject%20Christian%20nationalism%2C%20finds%20a%20new%20PRRI%20and%20SNF%20Agora%20survey.%20Ruth%20Braunstein%20and%20Melissa%20Deckman%20in%20Newsweek%20on%20why%20that%20could%20matter%20in%20November%3A%20https%3A//www.newsweek.com/resistance-to-christian-nationalism-could-help-decide-midterms-opinion-12472313"
+        }
+      ]
+    },
     {
       "id": 77,
       "mention_id": 771,
