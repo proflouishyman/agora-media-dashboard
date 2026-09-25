@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-24T07:07:23-04:00",
-  "count": 60,
+  "generated_at": "2026-09-25T07:06:30-04:00",
+  "count": 61,
   "picks": [
+    {
+      "id": 79,
+      "mention_id": 852,
+      "digest_date": "2026-09-24",
+      "person": "Ruth Braunstein",
+      "person_id": "ruth-braunstein",
+      "person_ids": [
+        "ruth-braunstein"
+      ],
+      "is_ces": false,
+      "punchy_title": "Deep-red Utah pushes back on Christian nationalism",
+      "headline": "Deep-red Utah pushes back on Christian nationalism",
+      "pull_quote": "The findings suggest it's possible to be very conservative and also deeply skeptical of Christian nationalism.",
+      "rationale": "The findings suggest it's possible to be very conservative and also deeply skeptical of Christian nationalism.",
+      "url": "https://religionnews.com/2026/09/24/can-a-person-be-very-conservative-and-also-oppose-christian-nationalism-our-survey-says-yes/",
+      "story_url": "https://religionnews.com/2026/09/24/can-a-person-be-very-conservative-and-also-oppose-christian-nationalism-our-survey-says-yes/",
+      "created_at": "2026-09-25 11:06:26",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Utah is deep red, yet resists Christian nationalism more than the US as a whole. SNF Agora's Ruth Braunstein and PRRI's Melissa Deckman explain why. https://religionnews.com/2026/09/24/can-a-person-be-very-conservative-and-also-oppose-christian-nationalism-our-survey-says-yes/",
+          "chars": 277,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Utah%20is%20deep%20red%2C%20yet%20resists%20Christian%20nationalism%20more%20than%20the%20US%20as%20a%20whole.%20SNF%20Agora%27s%20Ruth%20Braunstein%20and%20PRRI%27s%20Melissa%20Deckman%20explain%20why.%20https%3A//religionnews.com/2026/09/24/can-a-person-be-very-conservative-and-also-oppose-christian-nationalism-our-survey-says-yes/"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Utah is the most conservative state, yet the one red state where resistance to Christian nationalism beats the national rate. Ruth Braunstein and Melissa Deckman in RNS. https://religionnews.com/2026/09/24/can-a-person-be-very-conservative-and-also-oppose-christian-nationalism-our-survey-says-yes/",
+          "chars": 298,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Utah%20is%20the%20most%20conservative%20state%2C%20yet%20the%20one%20red%20state%20where%20resistance%20to%20Christian%20nationalism%20beats%20the%20national%20rate.%20Ruth%20Braunstein%20and%20Melissa%20Deckman%20in%20RNS.%20https%3A//religionnews.com/2026/09/24/can-a-person-be-very-conservative-and-also-oppose-christian-nationalism-our-survey-says-yes/"
+        }
+      ]
+    },
     {
       "id": 78,
       "mention_id": 832,

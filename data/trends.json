@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-24T07:07:23-04:00",
+  "generated_at": "2026-09-25T07:06:30-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-09-24"
+    "end": "2026-09-25"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 843,
-        "in_digest": 274,
-        "reach_proxy": 3290,
-        "people_covered": 96,
+        "mentions": 867,
+        "in_digest": 277,
+        "reach_proxy": 3322,
+        "people_covered": 97,
         "people_tracked": 100,
-        "sources": 384,
+        "sources": 393,
         "negative": 11
       },
       "deltas": {
@@ -628,9 +628,16 @@
         },
         {
           "date": "2026-09-24",
-          "count": 5,
-          "reach": 41,
-          "in_digest": 1,
+          "count": 25,
+          "reach": 69,
+          "in_digest": 4,
+          "observed": true
+        },
+        {
+          "date": "2026-09-25",
+          "count": 4,
+          "reach": 4,
+          "in_digest": 0,
           "observed": true
         }
       ],
@@ -793,30 +800,30 @@
         },
         {
           "week_start": "2026-09-21",
-          "count": 87,
-          "reach": 1123,
-          "in_digest": 8,
-          "people": 14,
+          "count": 111,
+          "reach": 1155,
+          "in_digest": 11,
+          "people": 16,
           "sentiment": {
-            "positive": 2,
+            "positive": 3,
             "neutral": 0,
             "negative": 0,
-            "unknown": 85
+            "unknown": 108
           }
         }
       ],
       "sentiment": {
-        "positive": 92,
+        "positive": 93,
         "neutral": 155,
         "negative": 11,
-        "unknown": 585
+        "unknown": 608
       },
       "top_people": [
         {
           "person_id": "johns-hopkins",
           "name": "Johns Hopkins",
-          "count": 96,
-          "reach": 1115,
+          "count": 115,
+          "reach": 1141,
           "is_ces": false
         },
         {
@@ -829,8 +836,8 @@
         {
           "person_id": "snf-agora-institute",
           "name": "SNF Agora Institute",
-          "count": 84,
-          "reach": 186,
+          "count": 85,
+          "reach": 188,
           "is_ces": false
         },
         {
@@ -850,8 +857,8 @@
         {
           "person_id": "henry-farrell",
           "name": "Henry Farrell",
-          "count": 35,
-          "reach": 54,
+          "count": 36,
+          "reach": 55,
           "is_ces": true
         },
         {
@@ -886,26 +893,26 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 154,
-          "reach": 1281,
+          "count": 157,
+          "reach": 1289,
           "is_other": false
         },
         {
           "source": "Youtube",
-          "count": 36,
-          "reach": 33,
+          "count": 40,
+          "reach": 37,
+          "is_other": false
+        },
+        {
+          "source": "LinkedIn",
+          "count": 27,
+          "reach": 25,
           "is_other": false
         },
         {
           "source": "Substack",
           "count": 26,
           "reach": 29,
-          "is_other": false
-        },
-        {
-          "source": "LinkedIn",
-          "count": 25,
-          "reach": 22,
           "is_other": false
         },
         {
@@ -922,8 +929,8 @@
         },
         {
           "source": "Springer",
-          "count": 19,
-          "reach": 19,
+          "count": 22,
+          "reach": 22,
           "is_other": false
         },
         {
@@ -934,27 +941,27 @@
         },
         {
           "source": "Other",
-          "count": 523,
-          "reach": 1810,
+          "count": 535,
+          "reach": 1824,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 424
+          "count": 438
         },
         {
           "source_type": "social network",
-          "count": 156
+          "count": 162
         },
         {
           "source_type": "blog",
-          "count": 33
+          "count": 34
         },
         {
           "source_type": "unresolved",
-          "count": 230
+          "count": 233
         }
       ],
       "negative_stories": [
@@ -978,8 +985,8 @@
           "positive": 0,
           "neutral": 0,
           "negative": 0,
-          "unknown": 96,
-          "total": 96
+          "unknown": 115,
+          "total": 115
         },
         {
           "row_label": "unknown",
@@ -998,8 +1005,8 @@
           "positive": 21,
           "neutral": 27,
           "negative": 3,
-          "unknown": 33,
-          "total": 84
+          "unknown": 34,
+          "total": 85
         },
         {
           "row_label": "Anne Applebaum",
@@ -1028,8 +1035,8 @@
           "positive": 2,
           "neutral": 12,
           "negative": 0,
-          "unknown": 21,
-          "total": 35
+          "unknown": 22,
+          "total": 36
         },
         {
           "row_label": "None (keyword noise)",
@@ -1102,6 +1109,16 @@
           "total": 16
         },
         {
+          "row_label": "Ruth Braunstein",
+          "person_id": "ruth-braunstein",
+          "is_ces": false,
+          "positive": 7,
+          "neutral": 5,
+          "negative": 0,
+          "unknown": 3,
+          "total": 15
+        },
+        {
           "row_label": "Denise Dresser",
           "person_id": "denise-dresser",
           "is_ces": false,
@@ -1129,16 +1146,6 @@
           "neutral": 7,
           "negative": 0,
           "unknown": 3,
-          "total": 13
-        },
-        {
-          "row_label": "Ruth Braunstein",
-          "person_id": "ruth-braunstein",
-          "is_ces": false,
-          "positive": 7,
-          "neutral": 5,
-          "negative": 0,
-          "unknown": 1,
           "total": 13
         },
         {
@@ -1612,6 +1619,16 @@
           "total": 1
         },
         {
+          "row_label": "Ben Cardin",
+          "person_id": "ben-cardin",
+          "is_ces": false,
+          "positive": 1,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 0,
+          "total": 1
+        },
+        {
           "row_label": "Daniel Sabet",
           "person_id": "daniel-sabet",
           "is_ces": false,
@@ -1938,32 +1955,32 @@
           "positive": 31,
           "neutral": 98,
           "negative": 2,
-          "unknown": 293,
-          "total": 424
+          "unknown": 307,
+          "total": 438
         },
         {
           "row_label": "social network",
-          "positive": 33,
+          "positive": 34,
           "neutral": 39,
           "negative": 1,
-          "unknown": 83,
-          "total": 156
+          "unknown": 88,
+          "total": 162
         },
         {
           "row_label": "blog",
           "positive": 6,
           "neutral": 7,
           "negative": 0,
-          "unknown": 20,
-          "total": 33
+          "unknown": 21,
+          "total": 34
         },
         {
           "row_label": "unresolved",
           "positive": 22,
           "neutral": 11,
           "negative": 8,
-          "unknown": 189,
-          "total": 230
+          "unknown": 192,
+          "total": 233
         }
       ],
       "sentiment_examples": {
@@ -2125,6 +2142,16 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 853,
+              "person": "Ben Cardin",
+              "person_id": "ben-cardin",
+              "is_ces": false,
+              "title": "Lessons in Leadership: The Future of American Engagement in Global Health with Senator Ben Cardin",
+              "url": "https://www.youtube.com/watch?v=ycQnJC6y7rU",
+              "source": "Youtube",
+              "date": "2026-09-24"
+            },
             {
               "id": 775,
               "person": "Louis Hyman",
@@ -3093,12 +3120,12 @@
     },
     "ces": {
       "totals": {
-        "mentions": 98,
-        "in_digest": 65,
-        "reach_proxy": 160,
+        "mentions": 99,
+        "in_digest": 66,
+        "reach_proxy": 161,
         "people_covered": 10,
         "people_tracked": 17,
-        "sources": 53,
+        "sources": 54,
         "negative": 0
       },
       "deltas": {
@@ -3714,6 +3741,13 @@
         },
         {
           "date": "2026-09-24",
+          "count": 1,
+          "reach": 1,
+          "in_digest": 1,
+          "observed": true
+        },
+        {
+          "date": "2026-09-25",
           "count": 0,
           "reach": 0,
           "in_digest": 0,
@@ -3879,15 +3913,15 @@
         },
         {
           "week_start": "2026-09-21",
-          "count": 1,
-          "reach": 1,
-          "in_digest": 1,
-          "people": 1,
+          "count": 2,
+          "reach": 2,
+          "in_digest": 2,
+          "people": 2,
           "sentiment": {
             "positive": 1,
             "neutral": 0,
             "negative": 0,
-            "unknown": 0
+            "unknown": 1
           }
         }
       ],
@@ -3895,14 +3929,14 @@
         "positive": 15,
         "neutral": 31,
         "negative": 0,
-        "unknown": 52
+        "unknown": 53
       },
       "top_people": [
         {
           "person_id": "henry-farrell",
           "name": "Henry Farrell",
-          "count": 35,
-          "reach": 54,
+          "count": 36,
+          "reach": 55,
           "is_ces": true
         },
         {
@@ -4020,15 +4054,15 @@
         },
         {
           "source": "Other",
-          "count": 53,
-          "reach": 97,
+          "count": 54,
+          "reach": 98,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 51
+          "count": 52
         },
         {
           "source_type": "social network",
@@ -4052,8 +4086,8 @@
           "positive": 2,
           "neutral": 12,
           "negative": 0,
-          "unknown": 21,
-          "total": 35
+          "unknown": 22,
+          "total": 36
         },
         {
           "row_label": "Yuen Yuen Ang",
@@ -4152,8 +4186,8 @@
           "positive": 9,
           "neutral": 19,
           "negative": 0,
-          "unknown": 23,
-          "total": 51
+          "unknown": 24,
+          "total": 52
         },
         {
           "row_label": "social network",

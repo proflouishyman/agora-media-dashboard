@@ -1,7 +1,111 @@
 {
-  "generated_at": "2026-09-24T07:07:23-04:00",
-  "count": 843,
+  "generated_at": "2026-09-25T07:06:30-04:00",
+  "count": 867,
   "stories": [
+    {
+      "id": 865,
+      "date": "2026-09-25",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "What the Cornell Report Gets Right About the Purpose of the University",
+      "has_text": true,
+      "url": "https://www.insidehighered.com/opinion/views/2026/09/25/cornell-report-gets-purpose-university-right-opinion",
+      "source": "Inside Higher Ed",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "What the Cornell Report Gets Right About the Purpose of the University https://www.insidehighered.com/opinion/views/2026/09/25/cornell-report-gets-purpose-university-right-opinion",
+          "chars": 94
+        },
+        "bluesky": {
+          "text": "What the Cornell Report Gets Right About the Purpose of the University https://www.insidehighered.com/opinion/views/2026/09/25/cornell-report-gets-purpose-university-right-opinion",
+          "chars": 179
+        }
+      }
+    },
+    {
+      "id": 864,
+      "date": "2026-09-25",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Key to academic success of second-generation Indian Americans: Parental expectations",
+      "has_text": true,
+      "url": "https://thesouthasiantimes.info/lifestyle/news/key-to-academic-success-of-second-generation-indian-americans-parental-expectations/10062",
+      "source": "The South Asian Times",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Key to academic success of second-generation Indian Americans: Parental expectations https://thesouthasiantimes.info/lifestyle/news/key-to-academic-success-of-second-generation-indian-americans-parental-expectations/10062",
+          "chars": 108
+        },
+        "bluesky": {
+          "text": "Key to academic success of second-generation Indian Americans: Parental expectations https://thesouthasiantimes.info/lifestyle/news/key-to-academic-success-of-second-generation-indian-americans-parental-expectations/10062",
+          "chars": 221
+        }
+      }
+    },
+    {
+      "id": 863,
+      "date": "2026-09-25",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "AI and the illusions of college teaching",
+      "has_text": true,
+      "url": "https://www.inquirer.com/opinion/ai-teaching-education-bots-data-revolution-20260925.html",
+      "source": "The Philadelphia Inquirer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "AI and the illusions of college teaching https://www.inquirer.com/opinion/ai-teaching-education-bots-data-revolution-20260925.html",
+          "chars": 64
+        },
+        "bluesky": {
+          "text": "AI and the illusions of college teaching https://www.inquirer.com/opinion/ai-teaching-education-bots-data-revolution-20260925.html",
+          "chars": 130
+        }
+      }
+    },
+    {
+      "id": 862,
+      "date": "2026-09-25",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Three Sisters, BRCA1 Mutations, and a Cancer Diagnosis While Pregnant",
+      "has_text": true,
+      "url": "https://www.aacr.org/blog/2026/09/25/three-sisters-brca1-mutations-and-a-cancer-diagnosis-while-pregnant/",
+      "source": "American Association for Cancer Research",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Three Sisters, BRCA1 Mutations, and a Cancer Diagnosis While Pregnant https://www.aacr.org/blog/2026/09/25/three-sisters-brca1-mutations-and-a-cancer-diagnosis-while-pregnant/",
+          "chars": 93
+        },
+        "bluesky": {
+          "text": "Three Sisters, BRCA1 Mutations, and a Cancer Diagnosis While Pregnant https://www.aacr.org/blog/2026/09/25/three-sisters-brca1-mutations-and-a-cancer-diagnosis-while-pregnant/",
+          "chars": 175
+        }
+      }
+    },
     {
       "id": 831,
       "date": "2026-09-24",
@@ -27,6 +131,23 @@
           "chars": 144
         }
       }
+    },
+    {
+      "id": 859,
+      "date": "2026-09-24",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Twitter/X repost cluster on \"Johns Hopkins\" + \"NIH funding\" — no captured text",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 5,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
     },
     {
       "id": 832,
@@ -55,6 +176,101 @@
       }
     },
     {
+      "id": 860,
+      "date": "2026-09-24",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Twitter/X university-rankings posts matching \"Higher Education\" + \"Johns Hopkins\" — no captured text",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 858,
+      "date": "2026-09-24",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Análise | Trump luta para encontrar meios de pressionar Xi sobre as exportações chinesas",
+      "has_text": true,
+      "url": "https://www.estadao.com.br/internacional/trump-luta-para-encontrar-meios-de-pressionar-xi-sobre-as-exportacoes-chinesas/",
+      "source": "Estado",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Análise | Trump luta para encontrar meios de pressionar Xi sobre as exportações chinesas https://www.estadao.com.br/internacional/trump-luta-para-encontrar-meios-de-pressionar-xi-sobre-as-exportacoes-chinesas/",
+          "chars": 112
+        },
+        "bluesky": {
+          "text": "Análise | Trump luta para encontrar meios de pressionar Xi sobre as exportações chinesas https://www.estadao.com.br/internacional/trump-luta-para-encontrar-meios-de-pressionar-xi-sobre-as-exportacoes-chinesas/",
+          "chars": 209
+        }
+      }
+    },
+    {
+      "id": 857,
+      "date": "2026-09-24",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "As planilhas funcionam, mas os votos não vêm",
+      "has_text": true,
+      "url": "https://racismoambiental.net.br/2026/09/24/as-planilhas-funcionam-mas-os-votos-nao-vem/",
+      "source": "Combate Racismo Ambiental",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "As planilhas funcionam, mas os votos não vêm https://racismoambiental.net.br/2026/09/24/as-planilhas-funcionam-mas-os-votos-nao-vem/",
+          "chars": 68
+        },
+        "bluesky": {
+          "text": "As planilhas funcionam, mas os votos não vêm https://racismoambiental.net.br/2026/09/24/as-planilhas-funcionam-mas-os-votos-nao-vem/",
+          "chars": 132
+        }
+      }
+    },
+    {
+      "id": 856,
+      "date": "2026-09-24",
+      "week_start": "2026-09-21",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "PRRI / Meanings of Democracy Lab report announcement (LinkedIn, Instagram)",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7508924117119766532",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "PRRI / Meanings of Democracy Lab report announcement (LinkedIn, Instagram) https://www.linkedin.com/feed/update/urn:li:ugcPost:7508924117119766532",
+          "chars": 98
+        },
+        "bluesky": {
+          "text": "PRRI / Meanings of Democracy Lab report announcement (LinkedIn, Instagram) https://www.linkedin.com/feed/update/urn:li:ugcPost:7508924117119766532",
+          "chars": 146
+        }
+      }
+    },
+    {
       "id": 833,
       "date": "2026-09-24",
       "week_start": "2026-09-21",
@@ -77,6 +293,387 @@
         "bluesky": {
           "text": "Study links life purpose to lower suicide risk in college students https://www.yahoo.com/news/us/articles/study-links-life-purpose-lower-091407061.html",
           "chars": 151
+        }
+      }
+    },
+    {
+      "id": 875,
+      "date": "2026-09-24",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Academic Capitalism and the ‘Publish or Perish’ Doctorate: Insights from Kazakhstan",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1057/s41307-026-00474-y",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Academic Capitalism and the ‘Publish or Perish’ Doctorate: Insights from Kazakhstan https://link.springer.com/article/10.1057/s41307-026-00474-y",
+          "chars": 107
+        },
+        "bluesky": {
+          "text": "Academic Capitalism and the ‘Publish or Perish’ Doctorate: Insights from Kazakhstan https://link.springer.com/article/10.1057/s41307-026-00474-y",
+          "chars": 144
+        }
+      }
+    },
+    {
+      "id": 874,
+      "date": "2026-09-24",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Model of joint integrative-organisational activity of the pedagogical department and the resource and methodological centre of the university",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s43545-026-01769-y",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Model of joint integrative-organisational activity of the pedagogical department and the resource and methodological centre of the university https://link.springer.com/article/10.1007/s43545-026-01769-y",
+          "chars": 165
+        },
+        "bluesky": {
+          "text": "Model of joint integrative-organisational activity of the pedagogical department and the resource and methodological centre of the university https://link.springer.com/article/10.1007/s43545-026-01769-y",
+          "chars": 202
+        }
+      }
+    },
+    {
+      "id": 873,
+      "date": "2026-09-24",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Libraries, research and development funding, and economic prosperity: data for the holistic university",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s11192-026-05787-8",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Libraries, research and development funding, and economic prosperity: data for the holistic university https://link.springer.com/article/10.1007/s11192-026-05787-8",
+          "chars": 126
+        },
+        "bluesky": {
+          "text": "Libraries, research and development funding, and economic prosperity: data for the holistic university https://link.springer.com/article/10.1007/s11192-026-05787-8",
+          "chars": 163
+        }
+      }
+    },
+    {
+      "id": 872,
+      "date": "2026-09-24",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Tracy Whitaker: Intersection of The Lived Experience and Mental Health",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=JUhr0e60jWI",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Tracy Whitaker: Intersection of The Lived Experience and Mental Health https://www.youtube.com/watch?v=JUhr0e60jWI",
+          "chars": 94
+        },
+        "bluesky": {
+          "text": "Tracy Whitaker: Intersection of The Lived Experience and Mental Health https://www.youtube.com/watch?v=JUhr0e60jWI",
+          "chars": 114
+        }
+      }
+    },
+    {
+      "id": 871,
+      "date": "2026-09-24",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Saga trwa. Mają dowody, że są gigantycznym wsparciem dla Iranu",
+      "has_text": true,
+      "url": "https://znalezisko.pl/id/420666/saga-trwa-maja-dowody-ze-sa-gigantycznym-wsparciem-dla-iranu",
+      "source": "Znalezisko.pl",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Saga trwa. Mają dowody, że są gigantycznym wsparciem dla Iranu https://znalezisko.pl/id/420666/saga-trwa-maja-dowody-ze-sa-gigantycznym-wsparciem-dla-iranu",
+          "chars": 86
+        },
+        "bluesky": {
+          "text": "Saga trwa. Mają dowody, że są gigantycznym wsparciem dla Iranu https://znalezisko.pl/id/420666/saga-trwa-maja-dowody-ze-sa-gigantycznym-wsparciem-dla-iranu",
+          "chars": 155
+        }
+      }
+    },
+    {
+      "id": 870,
+      "date": "2026-09-24",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Ensaio 1656 - Não sabemos como a matéria se torna imaginação - Entre charmes semânticos e explicações limitadas",
+      "has_text": true,
+      "url": "http://pedrodemo.blogspot.com/2026/09/ensaio-1656-nao-sabemos-como-materia-se.html",
+      "source": "Prof. Pedro Demo",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Ensaio 1656 - Não sabemos como a matéria se torna imaginação - Entre charmes semânticos e explicações limitadas http://pedrodemo.blogspot.com/2026/09/ensaio-1656-nao-sabemos-como-materia-se.html",
+          "chars": 135
+        },
+        "bluesky": {
+          "text": "Ensaio 1656 - Não sabemos como a matéria se torna imaginação - Entre charmes semânticos e explicações limitadas http://pedrodemo.blogspot.com/2026/09/ensaio-1656-nao-sabemos-como-materia-se.html",
+          "chars": 194
+        }
+      }
+    },
+    {
+      "id": 869,
+      "date": "2026-09-24",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Avanço da China em IA reduz vantagem dos EUA e reacende debate global sobre riscos",
+      "has_text": true,
+      "url": "https://folhadeguarulhos.com.br/novas/30/avanco-da-china-em-ia-reduz-vantagem-dos-eua-e-reacende-debate-global-sobre-riscos/",
+      "source": "Jornal Folha de Guarulhos",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Avanço da China em IA reduz vantagem dos EUA e reacende debate global sobre riscos https://folhadeguarulhos.com.br/novas/30/avanco-da-china-em-ia-reduz-vantagem-dos-eua-e-reacende-debate-global-sobre-riscos/",
+          "chars": 106
+        },
+        "bluesky": {
+          "text": "Avanço da China em IA reduz vantagem dos EUA e reacende debate global sobre riscos https://folhadeguarulhos.com.br/novas/30/avanco-da-china-em-ia-reduz-vantagem-dos-eua-e-reacende-debate-global-sobre-riscos/",
+          "chars": 207
+        }
+      }
+    },
+    {
+      "id": 868,
+      "date": "2026-09-24",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Want to study at a U.S. university where research is shaping the future? Here are 20 names to know.",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=HYQBBZLKf5o",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Want to study at a U.S. university where research is shaping the future? Here are 20 names to know. https://www.youtube.com/watch?v=HYQBBZLKf5o",
+          "chars": 123
+        },
+        "bluesky": {
+          "text": "Want to study at a U.S. university where research is shaping the future? Here are 20 names to know. https://www.youtube.com/watch?v=HYQBBZLKf5o",
+          "chars": 143
+        }
+      }
+    },
+    {
+      "id": 867,
+      "date": "2026-09-24",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Higher Education AI: AI Agent Guidance",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=LNr6diYLht8",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Higher Education AI: AI Agent Guidance https://www.youtube.com/watch?v=LNr6diYLht8",
+          "chars": 62
+        },
+        "bluesky": {
+          "text": "Higher Education AI: AI Agent Guidance https://www.youtube.com/watch?v=LNr6diYLht8",
+          "chars": 82
+        }
+      }
+    },
+    {
+      "id": 866,
+      "date": "2026-09-24",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "3.3.1 Current Collaborations with Health Institutions",
+      "has_text": true,
+      "url": "https://www.ateneo.edu/report/2026/09/331-current-collaborations-health-institutions",
+      "source": "Ateneo de Manila University",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "3.3.1 Current Collaborations with Health Institutions https://www.ateneo.edu/report/2026/09/331-current-collaborations-health-institutions",
+          "chars": 77
+        },
+        "bluesky": {
+          "text": "3.3.1 Current Collaborations with Health Institutions https://www.ateneo.edu/report/2026/09/331-current-collaborations-health-institutions",
+          "chars": 138
+        }
+      }
+    },
+    {
+      "id": 861,
+      "date": "2026-09-24",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Twitter/X post matching \"AGORA\" + \"Hopkins\" (Life is Strange game) — no captured text",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 855,
+      "date": "2026-09-24",
+      "week_start": "2026-09-21",
+      "person_id": "ruth-braunstein",
+      "person": "Ruth Braunstein",
+      "is_ces": false,
+      "title": "LinkedIn post promoting the Braunstein/Deckman Newsweek op-ed",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7508890072163803136",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "LinkedIn post promoting the Braunstein/Deckman Newsweek op-ed https://www.linkedin.com/feed/update/urn:li:share:7508890072163803136",
+          "chars": 85
+        },
+        "bluesky": {
+          "text": "LinkedIn post promoting the Braunstein/Deckman Newsweek op-ed https://www.linkedin.com/feed/update/urn:li:share:7508890072163803136",
+          "chars": 131
+        }
+      }
+    },
+    {
+      "id": 854,
+      "date": "2026-09-24",
+      "week_start": "2026-09-21",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Runtime: The father of Java on the art of code",
+      "has_text": true,
+      "url": "https://www.thestack.technology/runtime-the-father-of-java-on-the-art-of-code/",
+      "source": "The Stack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Runtime: The father of Java on the art of code https://www.thestack.technology/runtime-the-father-of-java-on-the-art-of-code/",
+          "chars": 70
+        },
+        "bluesky": {
+          "text": "Runtime: The father of Java on the art of code https://www.thestack.technology/runtime-the-father-of-java-on-the-art-of-code/",
+          "chars": 125
+        }
+      }
+    },
+    {
+      "id": 853,
+      "date": "2026-09-24",
+      "week_start": "2026-09-21",
+      "person_id": "ben-cardin",
+      "person": "Ben Cardin",
+      "is_ces": false,
+      "title": "Lessons in Leadership: The Future of American Engagement in Global Health with Senator Ben Cardin",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=ycQnJC6y7rU",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Lessons in Leadership: The Future of American Engagement in Global Health with Senator Ben Cardin https://www.youtube.com/watch?v=ycQnJC6y7rU",
+          "chars": 121
+        },
+        "bluesky": {
+          "text": "Lessons in Leadership: The Future of American Engagement in Global Health with Senator Ben Cardin https://www.youtube.com/watch?v=ycQnJC6y7rU",
+          "chars": 141
+        }
+      }
+    },
+    {
+      "id": 852,
+      "date": "2026-09-24",
+      "week_start": "2026-09-21",
+      "person_id": "ruth-braunstein",
+      "person": "Ruth Braunstein",
+      "is_ces": false,
+      "title": "Can a person be very conservative and also oppose Christian nationalism? Our survey says yes.",
+      "has_text": true,
+      "url": "https://religionnews.com/2026/09/24/can-a-person-be-very-conservative-and-also-oppose-christian-nationalism-our-survey-says-yes/",
+      "source": "Religion News Service",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Can a person be very conservative and also oppose Christian nationalism? Our survey says yes. https://religionnews.com/2026/09/24/can-a-person-be-very-conservative-and-also-oppose-christian-nationalism-our-survey-says-yes/",
+          "chars": 117
+        },
+        "bluesky": {
+          "text": "Can a person be very conservative and also oppose Christian nationalism? Our survey says yes. https://religionnews.com/2026/09/24/can-a-person-be-very-conservative-and-also-oppose-christian-nationalism-our-survey-says-yes/",
+          "chars": 222
         }
       }
     },
