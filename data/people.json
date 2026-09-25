@@ -9,21 +9,29 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 96,
+    "mentions_total": 115,
     "mentions_in_digest": 0,
-    "reach_proxy": 1115,
+    "reach_proxy": 1141,
     "first_mention_date": "2026-08-30",
-    "last_mention_date": "2026-09-24",
+    "last_mention_date": "2026-09-25",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
       "negative": 0,
-      "unknown": 96
+      "unknown": 115
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 16
+        "count": 19
+      },
+      {
+        "source": "Youtube",
+        "count": 7
+      },
+      {
+        "source": "Springer",
+        "count": 6
       },
       {
         "source": "Substack",
@@ -31,14 +39,6 @@
       },
       {
         "source": "Medical Xpress",
-        "count": 4
-      },
-      {
-        "source": "Yahoo! News",
-        "count": 4
-      },
-      {
-        "source": "Youtube",
         "count": 4
       }
     ],
@@ -100,8 +100,8 @@
       },
       {
         "week_start": "2026-09-21",
-        "count": 55,
-        "reach": 1073
+        "count": 74,
+        "reach": 1099
       }
     ]
   },
@@ -221,16 +221,16 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 84,
+    "mentions_total": 85,
     "mentions_in_digest": 31,
-    "reach_proxy": 186,
+    "reach_proxy": 188,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-09-21",
+    "last_mention_date": "2026-09-24",
     "sentiment": {
       "positive": 21,
       "neutral": 27,
       "negative": 3,
-      "unknown": 33
+      "unknown": 34
     },
     "top_sources": [
       {
@@ -239,7 +239,7 @@
       },
       {
         "source": "LinkedIn",
-        "count": 12
+        "count": 13
       },
       {
         "source": "Bluesky",
@@ -312,8 +312,8 @@
       },
       {
         "week_start": "2026-09-21",
-        "count": 2,
-        "reach": 16
+        "count": 3,
+        "reach": 18
       }
     ]
   },
@@ -545,16 +545,16 @@
       "Core Faculty"
     ],
     "is_ces": true,
-    "mentions_total": 35,
-    "mentions_in_digest": 24,
-    "reach_proxy": 54,
+    "mentions_total": 36,
+    "mentions_in_digest": 25,
+    "reach_proxy": 55,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-09-17",
+    "last_mention_date": "2026-09-24",
     "sentiment": {
       "positive": 2,
       "neutral": 12,
       "negative": 0,
-      "unknown": 21
+      "unknown": 22
     },
     "top_sources": [
       {
@@ -636,8 +636,8 @@
       },
       {
         "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -1394,6 +1394,114 @@
     ]
   },
   {
+    "id": "ruth-braunstein",
+    "name": "Ruth Braunstein",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Institute Professor of Sociology",
+    "profile_url": "https://snfagora.jhu.edu/directory/ruth-braunstein/",
+    "photo_url": null,
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 15,
+    "mentions_in_digest": 13,
+    "reach_proxy": 34,
+    "first_mention_date": "2026-07-04",
+    "last_mention_date": "2026-09-24",
+    "sentiment": {
+      "positive": 7,
+      "neutral": 5,
+      "negative": 0,
+      "unknown": 3
+    },
+    "top_sources": [
+      {
+        "source": "LinkedIn",
+        "count": 4
+      },
+      {
+        "source": "Baltimore Fishbowl",
+        "count": 2
+      },
+      {
+        "source": "JHU Hub",
+        "count": 1
+      },
+      {
+        "source": "Newsweek",
+        "count": 1
+      },
+      {
+        "source": "RealClearInvestigations",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 3,
+        "reach": 14
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 3,
+        "reach": 10
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 3,
+        "reach": 5
+      }
+    ]
+  },
+  {
     "id": "denise-dresser",
     "name": "Denise Dresser",
     "kind": "faculty",
@@ -1704,114 +1812,6 @@
         "week_start": "2026-09-21",
         "count": 1,
         "reach": 1
-      }
-    ]
-  },
-  {
-    "id": "ruth-braunstein",
-    "name": "Ruth Braunstein",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Institute Professor of Sociology",
-    "profile_url": "https://snfagora.jhu.edu/directory/ruth-braunstein/",
-    "photo_url": null,
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 13,
-    "mentions_in_digest": 12,
-    "reach_proxy": 32,
-    "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-09-24",
-    "sentiment": {
-      "positive": 7,
-      "neutral": 5,
-      "negative": 0,
-      "unknown": 1
-    },
-    "top_sources": [
-      {
-        "source": "LinkedIn",
-        "count": 3
-      },
-      {
-        "source": "Baltimore Fishbowl",
-        "count": 2
-      },
-      {
-        "source": "JHU Hub",
-        "count": 1
-      },
-      {
-        "source": "Newsweek",
-        "count": 1
-      },
-      {
-        "source": "RealClearInvestigations",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 3,
-        "reach": 14
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 3,
-        "reach": 10
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 1,
-        "reach": 3
       }
     ]
   },
@@ -6468,6 +6468,98 @@
     ]
   },
   {
+    "id": "ben-cardin",
+    "name": "Ben Cardin",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Distinguished Senior Fellow",
+    "profile_url": "https://snfagora.jhu.edu/directory/ben-cardin/",
+    "photo_url": "images/people/ben-cardin.jpg",
+    "categories": [
+      "Continuing Faculty + Fellows"
+    ],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 1,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-09-24",
+    "last_mention_date": "2026-09-24",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 0
+    },
+    "top_sources": [
+      {
+        "source": "Youtube",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "daniel-sabet",
     "name": "Daniel Sabet",
     "kind": "faculty",
@@ -9468,93 +9560,6 @@
     "photo_url": "images/people/andrew-perrin.jpg",
     "categories": [
       "Core Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 0,
-    "mentions_in_digest": 0,
-    "reach_proxy": 0,
-    "first_mention_date": null,
-    "last_mention_date": null,
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [],
-    "weekly": [
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "ben-cardin",
-    "name": "Ben Cardin",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Distinguished Senior Fellow",
-    "profile_url": "https://snfagora.jhu.edu/directory/ben-cardin/",
-    "photo_url": "images/people/ben-cardin.jpg",
-    "categories": [
-      "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
     "mentions_total": 0,
