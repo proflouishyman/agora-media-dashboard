@@ -9,29 +9,29 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 115,
+    "mentions_total": 130,
     "mentions_in_digest": 0,
-    "reach_proxy": 1141,
+    "reach_proxy": 1161,
     "first_mention_date": "2026-08-30",
-    "last_mention_date": "2026-09-25",
+    "last_mention_date": "2026-09-26",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
       "negative": 0,
-      "unknown": 115
+      "unknown": 130
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 19
+        "count": 21
       },
       {
         "source": "Youtube",
-        "count": 7
+        "count": 12
       },
       {
         "source": "Springer",
-        "count": 6
+        "count": 7
       },
       {
         "source": "Substack",
@@ -100,8 +100,8 @@
       },
       {
         "week_start": "2026-09-21",
-        "count": 74,
-        "reach": 1099
+        "count": 89,
+        "reach": 1119
       }
     ]
   },
@@ -329,16 +329,16 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 61,
-    "mentions_in_digest": 33,
-    "reach_proxy": 316,
+    "mentions_total": 62,
+    "mentions_in_digest": 34,
+    "reach_proxy": 318,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-09-22",
+    "last_mention_date": "2026-09-25",
     "sentiment": {
       "positive": 10,
       "neutral": 12,
       "negative": 5,
-      "unknown": 34
+      "unknown": 35
     },
     "top_sources": [
       {
@@ -420,8 +420,8 @@
       },
       {
         "week_start": "2026-09-21",
-        "count": 5,
-        "reach": 5
+        "count": 6,
+        "reach": 7
       }
     ]
   },
@@ -545,16 +545,16 @@
       "Core Faculty"
     ],
     "is_ces": true,
-    "mentions_total": 36,
-    "mentions_in_digest": 25,
-    "reach_proxy": 55,
+    "mentions_total": 37,
+    "mentions_in_digest": 26,
+    "reach_proxy": 59,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-09-24",
+    "last_mention_date": "2026-09-25",
     "sentiment": {
       "positive": 2,
       "neutral": 12,
       "negative": 0,
-      "unknown": 22
+      "unknown": 23
     },
     "top_sources": [
       {
@@ -636,8 +636,8 @@
       },
       {
         "week_start": "2026-09-21",
-        "count": 1,
-        "reach": 1
+        "count": 2,
+        "reach": 5
       }
     ]
   },
@@ -1178,6 +1178,114 @@
     ]
   },
   {
+    "id": "louis-hyman",
+    "name": "Louis Hyman",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Dorothy Ross Professor of History",
+    "profile_url": "https://snfagora.jhu.edu/directory/louis-hyman/",
+    "photo_url": "images/people/louis-hyman.jpg",
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": true,
+    "mentions_total": 17,
+    "mentions_in_digest": 7,
+    "reach_proxy": 25,
+    "first_mention_date": "2026-07-10",
+    "last_mention_date": "2026-09-25",
+    "sentiment": {
+      "positive": 3,
+      "neutral": 5,
+      "negative": 0,
+      "unknown": 9
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 9
+      },
+      {
+        "source": "Baltimore Fishbowl",
+        "count": 1
+      },
+      {
+        "source": "Hub - Johns Hopkins University",
+        "count": 1
+      },
+      {
+        "source": "Indiecinema",
+        "count": 1
+      },
+      {
+        "source": "LinkedIn",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-06",
+        "count": 8,
+        "reach": 8
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 2,
+        "reach": 7
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 1,
+        "reach": 4
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 2,
+        "reach": 2
+      }
+    ]
+  },
+  {
     "id": "lilliana-mason",
     "name": "Lilliana Mason",
     "kind": "faculty",
@@ -1286,114 +1394,6 @@
     ]
   },
   {
-    "id": "louis-hyman",
-    "name": "Louis Hyman",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Dorothy Ross Professor of History",
-    "profile_url": "https://snfagora.jhu.edu/directory/louis-hyman/",
-    "photo_url": "images/people/louis-hyman.jpg",
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": true,
-    "mentions_total": 16,
-    "mentions_in_digest": 6,
-    "reach_proxy": 24,
-    "first_mention_date": "2026-07-10",
-    "last_mention_date": "2026-09-22",
-    "sentiment": {
-      "positive": 3,
-      "neutral": 4,
-      "negative": 0,
-      "unknown": 9
-    },
-    "top_sources": [
-      {
-        "source": "Twitter",
-        "count": 9
-      },
-      {
-        "source": "Baltimore Fishbowl",
-        "count": 1
-      },
-      {
-        "source": "Hub - Johns Hopkins University",
-        "count": 1
-      },
-      {
-        "source": "Indiecinema",
-        "count": 1
-      },
-      {
-        "source": "Marketplace",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-06",
-        "count": 8,
-        "reach": 8
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 2,
-        "reach": 7
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 4
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 1,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 1,
-        "reach": 1
-      }
-    ]
-  },
-  {
     "id": "ruth-braunstein",
     "name": "Ruth Braunstein",
     "kind": "faculty",
@@ -1405,16 +1405,16 @@
       "Core Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 15,
-    "mentions_in_digest": 13,
-    "reach_proxy": 34,
+    "mentions_total": 16,
+    "mentions_in_digest": 14,
+    "reach_proxy": 35,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-09-24",
+    "last_mention_date": "2026-09-25",
     "sentiment": {
       "positive": 7,
       "neutral": 5,
       "negative": 0,
-      "unknown": 3
+      "unknown": 4
     },
     "top_sources": [
       {
@@ -1496,8 +1496,8 @@
       },
       {
         "week_start": "2026-09-21",
-        "count": 3,
-        "reach": 5
+        "count": 4,
+        "reach": 6
       }
     ]
   },
@@ -2354,6 +2354,110 @@
     ]
   },
   {
+    "id": "emily-white",
+    "name": "Emily White",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Fellow, Impact Concerts & Data",
+    "profile_url": "https://snfagora.jhu.edu/directory/emily-white/",
+    "photo_url": "images/people/emily-white.jpeg",
+    "categories": [
+      "Continuing Faculty + Fellows"
+    ],
+    "is_ces": false,
+    "mentions_total": 8,
+    "mentions_in_digest": 2,
+    "reach_proxy": 8,
+    "first_mention_date": "2026-07-17",
+    "last_mention_date": "2026-09-26",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 7
+    },
+    "top_sources": [
+      {
+        "source": "WAND-TV",
+        "count": 4
+      },
+      {
+        "source": "The Berkshire Edge",
+        "count": 2
+      },
+      {
+        "source": "LinkedIn",
+        "count": 1
+      },
+      {
+        "source": "Substack (Friday Power Lunch)",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 3,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "amy-binder",
     "name": "Amy Binder",
     "kind": "faculty",
@@ -2453,110 +2557,6 @@
         "week_start": "2026-09-14",
         "count": 3,
         "reach": 3
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "emily-white",
-    "name": "Emily White",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Fellow, Impact Concerts & Data",
-    "profile_url": "https://snfagora.jhu.edu/directory/emily-white/",
-    "photo_url": "images/people/emily-white.jpeg",
-    "categories": [
-      "Continuing Faculty + Fellows"
-    ],
-    "is_ces": false,
-    "mentions_total": 7,
-    "mentions_in_digest": 2,
-    "reach_proxy": 7,
-    "first_mention_date": "2026-07-17",
-    "last_mention_date": "2026-09-18",
-    "sentiment": {
-      "positive": 1,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 6
-    },
-    "top_sources": [
-      {
-        "source": "WAND-TV",
-        "count": 3
-      },
-      {
-        "source": "The Berkshire Edge",
-        "count": 2
-      },
-      {
-        "source": "LinkedIn",
-        "count": 1
-      },
-      {
-        "source": "Substack (Friday Power Lunch)",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 3,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 1,
-        "reach": 1
       },
       {
         "week_start": "2026-09-21",
@@ -5550,6 +5550,102 @@
         "week_start": "2026-09-21",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "nina-hall",
+    "name": "Nina Hall",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Assistant Professor in International Relations",
+    "profile_url": "https://snfagora.jhu.edu/directory/nina-hall/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 2,
+    "mentions_in_digest": 2,
+    "reach_proxy": 2,
+    "first_mention_date": "2026-08-04",
+    "last_mention_date": "2026-09-25",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0,
+      "unknown": 0
+    },
+    "top_sources": [
+      {
+        "source": "Substack (E-International Relations)",
+        "count": 1
+      },
+      {
+        "source": "Zero",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-06",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -9081,98 +9177,6 @@
         "week_start": "2026-08-31",
         "count": 1,
         "reach": 1
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "nina-hall",
-    "name": "Nina Hall",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Assistant Professor in International Relations",
-    "profile_url": "https://snfagora.jhu.edu/directory/nina-hall/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 1,
-    "mentions_in_digest": 1,
-    "reach_proxy": 1,
-    "first_mention_date": "2026-08-04",
-    "last_mention_date": "2026-08-04",
-    "sentiment": {
-      "positive": 1,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [
-      {
-        "source": "Substack (E-International Relations)",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-06",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
       },
       {
         "week_start": "2026-09-07",

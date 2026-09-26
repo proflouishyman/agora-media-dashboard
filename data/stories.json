@@ -1,7 +1,535 @@
 {
-  "generated_at": "2026-09-25T07:06:30-04:00",
-  "count": 867,
+  "generated_at": "2026-09-26T07:06:43-04:00",
+  "count": 888,
   "stories": [
+    {
+      "id": 884,
+      "date": "2026-09-26",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Harvard’s last Affirmative Action program is for the rich",
+      "has_text": true,
+      "url": "https://fortune.com/2026/09/26/harvard-legacy-admissions-affirmative-action/",
+      "source": "Fortune",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Harvard’s last Affirmative Action program is for the rich https://fortune.com/2026/09/26/harvard-legacy-admissions-affirmative-action/",
+          "chars": 81
+        },
+        "bluesky": {
+          "text": "Harvard’s last Affirmative Action program is for the rich https://fortune.com/2026/09/26/harvard-legacy-admissions-affirmative-action/",
+          "chars": 134
+        }
+      }
+    },
+    {
+      "id": 881,
+      "date": "2026-09-26",
+      "week_start": "2026-09-21",
+      "person_id": "emily-white",
+      "person": "Emily White",
+      "is_ces": false,
+      "title": "WAND’s Athlete of the Week: Khloe Hartrich",
+      "has_text": true,
+      "url": "https://www.wandtv.com/2026/09/26/wands-athlete-week-khloe-hartrich/",
+      "source": "WAND-TV",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "WAND’s Athlete of the Week: Khloe Hartrich https://www.wandtv.com/2026/09/26/wands-athlete-week-khloe-hartrich/",
+          "chars": 66
+        },
+        "bluesky": {
+          "text": "WAND’s Athlete of the Week: Khloe Hartrich https://www.wandtv.com/2026/09/26/wands-athlete-week-khloe-hartrich/",
+          "chars": 111
+        }
+      }
+    },
+    {
+      "id": 876,
+      "date": "2026-09-25",
+      "week_start": "2026-09-21",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Da ALCA aos minerais críticos: Lula e os 21 anos de uma guerra invisível pela soberania do Brasil, por Reynaldo Aragon",
+      "has_text": true,
+      "url": "https://jornalggn.com.br/artigos/lula-e-os-21-anos-de-guerra-pela-soberania-por-reynaldo-aragon/",
+      "source": "Jornal GGN",
+      "source_type": "online news",
+      "similar_mention_count": 4,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Da ALCA aos minerais críticos: Lula e os 21 anos de uma guerra invisível pela soberania do Brasil, por Reynaldo Aragon https://jornalggn.com.br/artigos/lula-e-os-21-anos-de-guerra-pela-soberania-por-reynaldo-aragon/",
+          "chars": 142
+        },
+        "bluesky": {
+          "text": "Da ALCA aos minerais críticos: Lula e os 21 anos de uma guerra invisível pela soberania do Brasil, por Reynaldo Aragon https://jornalggn.com.br/artigos/lula-e-os-21-anos-de-guerra-pela-soberania-por-reynaldo-aragon/",
+          "chars": 215
+        }
+      }
+    },
+    {
+      "id": 883,
+      "date": "2026-09-25",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Twitter/X university-rankings posts matching \"Higher Education\" + \"Johns Hopkins\" — no captured text",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 882,
+      "date": "2026-09-25",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Twitter/X posts matching \"Johns Hopkins\" + \"NIH funding\" — no captured text",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 877,
+      "date": "2026-09-25",
+      "week_start": "2026-09-21",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Canada’s Counter-Revolution",
+      "has_text": true,
+      "url": "https://anneapplebaum.substack.com/p/canadas-counter-revolution",
+      "source": "Open Letters, from Anne Applebaum",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Canada’s Counter-Revolution https://anneapplebaum.substack.com/p/canadas-counter-revolution",
+          "chars": 51
+        },
+        "bluesky": {
+          "text": "Canada’s Counter-Revolution https://anneapplebaum.substack.com/p/canadas-counter-revolution",
+          "chars": 91
+        }
+      }
+    },
+    {
+      "id": 896,
+      "date": "2026-09-25",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Good for Business Podcast - Episode 60 - Elise Wilson",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=edoCBCaiDKA",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Good for Business Podcast - Episode 60 - Elise Wilson https://www.youtube.com/watch?v=edoCBCaiDKA",
+          "chars": 77
+        },
+        "bluesky": {
+          "text": "Good for Business Podcast - Episode 60 - Elise Wilson https://www.youtube.com/watch?v=edoCBCaiDKA",
+          "chars": 97
+        }
+      }
+    },
+    {
+      "id": 895,
+      "date": "2026-09-25",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Pittsburgh Jewish Book Festival returns with aim to educate and entertain",
+      "has_text": true,
+      "url": "https://jewishchronicle.timesofisrael.com/pittsburgh-jewish-book-festival-returns-with-aim-to-educate-and-entertain/",
+      "source": "The Pittsburgh Jewish Chronicle",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Pittsburgh Jewish Book Festival returns with aim to educate and entertain https://jewishchronicle.timesofisrael.com/pittsburgh-jewish-book-festival-returns-with-aim-to-educate-and-entertain/",
+          "chars": 97
+        },
+        "bluesky": {
+          "text": "Pittsburgh Jewish Book Festival returns with aim to educate and entertain https://jewishchronicle.timesofisrael.com/pittsburgh-jewish-book-festival-returns-with-aim-to-educate-and-entertain/",
+          "chars": 190
+        }
+      }
+    },
+    {
+      "id": 894,
+      "date": "2026-09-25",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Drone espacial",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=EydvjrX35wg",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Drone espacial https://www.youtube.com/watch?v=EydvjrX35wg",
+          "chars": 38
+        },
+        "bluesky": {
+          "text": "Drone espacial https://www.youtube.com/watch?v=EydvjrX35wg",
+          "chars": 58
+        }
+      }
+    },
+    {
+      "id": 893,
+      "date": "2026-09-25",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "With $1 Billion, Nike Founder Phil Knight Makes Largest Single Donation to a Public University",
+      "has_text": true,
+      "url": "https://www.goodnewsnetwork.org/with-1-billion-nike-founder-phil-knight-makes-largest-single-donation-to-a-public-university/",
+      "source": "Good News Network",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "With $1 Billion, Nike Founder Phil Knight Makes Largest Single Donation to a Public University https://www.goodnewsnetwork.org/with-1-billion-nike-founder-phil-knight-makes-largest-single-donation-to-a-public-university/",
+          "chars": 118
+        },
+        "bluesky": {
+          "text": "With $1 Billion, Nike Founder Phil Knight Makes Largest Single Donation to a Public University https://www.goodnewsnetwork.org/with-1-billion-nike-founder-phil-knight-makes-largest-single-donation-to-a-public-university/",
+          "chars": 220
+        }
+      }
+    },
+    {
+      "id": 892,
+      "date": "2026-09-25",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Impact of a Bioengineering Innovation and Design Curriculum on Industry and Entrepreneurship Career Pathways",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s43683-026-00251-8",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Impact of a Bioengineering Innovation and Design Curriculum on Industry and Entrepreneurship Career Pathways https://link.springer.com/article/10.1007/s43683-026-00251-8",
+          "chars": 132
+        },
+        "bluesky": {
+          "text": "Impact of a Bioengineering Innovation and Design Curriculum on Industry and Entrepreneurship Career Pathways https://link.springer.com/article/10.1007/s43683-026-00251-8",
+          "chars": 169
+        }
+      }
+    },
+    {
+      "id": 891,
+      "date": "2026-09-25",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Latino/as in Education: Pathways, Possibility, and the Power of Educators",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=yldXmKDXWWA",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Latino/as in Education: Pathways, Possibility, and the Power of Educators https://www.youtube.com/watch?v=yldXmKDXWWA",
+          "chars": 97
+        },
+        "bluesky": {
+          "text": "Latino/as in Education: Pathways, Possibility, and the Power of Educators https://www.youtube.com/watch?v=yldXmKDXWWA",
+          "chars": 117
+        }
+      }
+    },
+    {
+      "id": 890,
+      "date": "2026-09-25",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Pandemia empareda governadores bolsonaristas e escancara contradições",
+      "has_text": true,
+      "url": "https://www.infonavweb.com.br/2021/04/",
+      "source": "INFONAVWEB",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Pandemia empareda governadores bolsonaristas e escancara contradições https://www.infonavweb.com.br/2021/04/",
+          "chars": 93
+        },
+        "bluesky": {
+          "text": "Pandemia empareda governadores bolsonaristas e escancara contradições https://www.infonavweb.com.br/2021/04/",
+          "chars": 108
+        }
+      }
+    },
+    {
+      "id": 889,
+      "date": "2026-09-25",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Support Rolls in from Academic Experts, AI Researchers for Kelly’s Make AI Work for Americans Act",
+      "has_text": true,
+      "url": "https://www.kelly.senate.gov/newsroom/press-releases/support-rolls-in-from-academic-experts-ai-researchers-for-kellys-make-ai-work-for-americans-act/",
+      "source": "United States Senate",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Support Rolls in from Academic Experts, AI Researchers for Kelly’s Make AI Work for Americans Act https://www.kelly.senate.gov/newsroom/press-releases/support-rolls-in-from-academic-experts-ai-researchers-for-kellys-make-ai-work-for-americans-act/",
+          "chars": 121
+        },
+        "bluesky": {
+          "text": "Support Rolls in from Academic Experts, AI Researchers for Kelly’s Make AI Work for Americans Act https://www.kelly.senate.gov/newsroom/press-releases/support-rolls-in-from-academic-experts-ai-researchers-for-kellys-make-ai-work-for-americans-act/",
+          "chars": 247
+        }
+      }
+    },
+    {
+      "id": 888,
+      "date": "2026-09-25",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Bolsonaro anuncia aumento do salário-mínimo para R$ 1.100",
+      "has_text": true,
+      "url": "https://www.infonavweb.com.br/2020/12/",
+      "source": "INFONAVWEB",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Bolsonaro anuncia aumento do salário-mínimo para R$ 1.100 https://www.infonavweb.com.br/2020/12/",
+          "chars": 81
+        },
+        "bluesky": {
+          "text": "Bolsonaro anuncia aumento do salário-mínimo para R$ 1.100 https://www.infonavweb.com.br/2020/12/",
+          "chars": 96
+        }
+      }
+    },
+    {
+      "id": 887,
+      "date": "2026-09-25",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "O momento em que a sonda atravessa o vento solar 🌪️☀️ #astronomia #shortsvideo",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=mSDnh_jIVww",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "O momento em que a sonda atravessa o vento solar 🌪️☀️ #astronomia #shortsvideo https://www.youtube.com/watch?v=mSDnh_jIVww",
+          "chars": 102
+        },
+        "bluesky": {
+          "text": "O momento em que a sonda atravessa o vento solar 🌪️☀️ #astronomia #shortsvideo https://www.youtube.com/watch?v=mSDnh_jIVww",
+          "chars": 122
+        }
+      }
+    },
+    {
+      "id": 886,
+      "date": "2026-09-25",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Trump e Xi encerram visita de Estado marcada mais por espetáculo do que por acordos",
+      "has_text": true,
+      "url": "https://timesbrasil.com.br/mundo/trump-e-xi-encerram-visita-com-mais-cerimonia-que-acordos/",
+      "source": "Times Brasil-  CNBC",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Trump e Xi encerram visita de Estado marcada mais por espetáculo do que por acordos https://timesbrasil.com.br/mundo/trump-e-xi-encerram-visita-com-mais-cerimonia-que-acordos/",
+          "chars": 107
+        },
+        "bluesky": {
+          "text": "Trump e Xi encerram visita de Estado marcada mais por espetáculo do que por acordos https://timesbrasil.com.br/mundo/trump-e-xi-encerram-visita-com-mais-cerimonia-que-acordos/",
+          "chars": 175
+        }
+      }
+    },
+    {
+      "id": 885,
+      "date": "2026-09-25",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "German POWs Went to College in American Camps. Germany Agreed to Honor Their Exams.",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=EFnsqCmbc6o",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "German POWs Went to College in American Camps. Germany Agreed to Honor Their Exams. https://www.youtube.com/watch?v=EFnsqCmbc6o",
+          "chars": 107
+        },
+        "bluesky": {
+          "text": "German POWs Went to College in American Camps. Germany Agreed to Honor Their Exams. https://www.youtube.com/watch?v=EFnsqCmbc6o",
+          "chars": 127
+        }
+      }
+    },
+    {
+      "id": 880,
+      "date": "2026-09-25",
+      "week_start": "2026-09-21",
+      "person_id": "nina-hall",
+      "person": "Nina Hall",
+      "is_ces": false,
+      "title": "Sensing the Climate: la seconda edizione del festival che riflette sull’immaginazione ecologica",
+      "has_text": true,
+      "url": "https://zero.eu/it/news/sensing-the-climate-la-seconda-edizione-del-festival-che-riflette-sullimmaginazione-ecologica/",
+      "source": "Zero",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Sensing the Climate: la seconda edizione del festival che riflette sull’immaginazione ecologica https://zero.eu/it/news/sensing-the-climate-la-seconda-edizione-del-festival-che-riflette-sullimmaginazione-ecologica/",
+          "chars": 119
+        },
+        "bluesky": {
+          "text": "Sensing the Climate: la seconda edizione del festival che riflette sull’immaginazione ecologica https://zero.eu/it/news/sensing-the-climate-la-seconda-edizione-del-festival-che-riflette-sullimmaginazione-ecologica/",
+          "chars": 214
+        }
+      }
+    },
+    {
+      "id": 879,
+      "date": "2026-09-25",
+      "week_start": "2026-09-21",
+      "person_id": "louis-hyman",
+      "person": "Louis Hyman",
+      "is_ces": true,
+      "title": "LinkedIn post announcing Louis Hyman October 1 talk on AI and history",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7509371334754189313",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "LinkedIn post announcing Louis Hyman October 1 talk on AI and history https://www.linkedin.com/feed/update/urn:li:share:7509371334754189313",
+          "chars": 93
+        },
+        "bluesky": {
+          "text": "LinkedIn post announcing Louis Hyman October 1 talk on AI and history https://www.linkedin.com/feed/update/urn:li:share:7509371334754189313",
+          "chars": 139
+        }
+      }
+    },
+    {
+      "id": 878,
+      "date": "2026-09-25",
+      "week_start": "2026-09-21",
+      "person_id": "ruth-braunstein",
+      "person": "Ruth Braunstein",
+      "is_ces": false,
+      "title": "New PRRI National Survey Analyzes the Two-Thirds of Americans Who Resist Christian Nationalism; Large Majorities of Democrats (82%) and Independents (72%) Resist Christian Nationalist Beliefs, Compared With 40% of Republicans",
+      "has_text": true,
+      "url": "https://www.goldrushcam.com/sierrasuntimes/index.php/news/local-news/81972-new-prri-national-survey-analyzes-the-two-thirds-of-americans-who-resist-christian-nationalism-large-majorities-of-democrats-82-and-independents-72-resist-christian-nationalist-beliefs-compared-with-40-of-republicans",
+      "source": "Sierra Sun Times",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "New PRRI National Survey Analyzes the Two-Thirds of Americans Who Resist Christian Nationalism; Large Majorities of Democrats (82%) and Independents (72%) Resist Christian Nationalist Beliefs, Compared With 40% of Republicans https://www.goldrushcam.com/sierrasuntimes/index.php/news/local-news/81972-new-prri-national-survey-analyzes-the-two-thirds-of-americans-who-resist-christian-nationalism-large-majorities-of-democrats-82-and-independents-72-resist-christian-nationalist-beliefs-compared-with-40-of-republicans",
+          "chars": 249
+        },
+        "bluesky": {
+          "text": "New PR… https://www.goldrushcam.com/sierrasuntimes/index.php/news/local-news/81972-new-prri-national-survey-analyzes-the-two-thirds-of-americans-who-resist-christian-nationalism-large-majorities-of-democrats-82-and-independents-72-resist-christian-nationalist-beliefs-compared-with-40-of-republicans",
+          "chars": 299
+        }
+      }
+    },
     {
       "id": 865,
       "date": "2026-09-25",
