@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-26T07:06:43-04:00",
-  "count": 62,
+  "generated_at": "2026-09-27T07:06:22-04:00",
+  "count": 63,
   "picks": [
+    {
+      "id": 81,
+      "mention_id": 909,
+      "digest_date": "2026-09-27",
+      "person": "Henry Farrell",
+      "person_id": "henry-farrell",
+      "person_ids": [
+        "henry-farrell"
+      ],
+      "is_ces": true,
+      "punchy_title": "Henry Farrell: The datacenter backlash is about who gets to choose",
+      "headline": "Henry Farrell: The datacenter backlash is about who gets to choose",
+      "pull_quote": "the push against datacenters speaks to the frustration of people who don't feel they are making the choices in their lives.",
+      "rationale": "the push against datacenters speaks to the frustration of people who don't feel they are making the choices in their lives.",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/sep/27/democracy-ai-datacenters-power",
+      "story_url": "https://www.theguardian.com/technology/ng-interactive/2026/sep/27/democracy-ai-datacenters-power",
+      "created_at": "2026-09-27 11:06:17",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "\"The push against datacenters speaks to the frustration of people who don't feel they are making the choices in their lives.\" SNF Agora's Henry Farrell in The Guardian. https://www.theguardian.com/technology/ng-interactive/2026/sep/27/democracy-ai-datacenters-power",
+          "chars": 265,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=%22The%20push%20against%20datacenters%20speaks%20to%20the%20frustration%20of%20people%20who%20don%27t%20feel%20they%20are%20making%20the%20choices%20in%20their%20lives.%22%20SNF%20Agora%27s%20Henry%20Farrell%20in%20The%20Guardian.%20https%3A//www.theguardian.com/technology/ng-interactive/2026/sep/27/democracy-ai-datacenters-power"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Why the AI datacenter backlash? \"The push against datacenters speaks to the frustration of people who don't feel they are making the choices in their lives.\" SNF Agora's Henry Farrell in The Guardian. https://www.theguardian.com/technology/ng-interactive/2026/sep/27/democracy-ai-datacenters-power",
+          "chars": 297,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Why%20the%20AI%20datacenter%20backlash%3F%20%22The%20push%20against%20datacenters%20speaks%20to%20the%20frustration%20of%20people%20who%20don%27t%20feel%20they%20are%20making%20the%20choices%20in%20their%20lives.%22%20SNF%20Agora%27s%20Henry%20Farrell%20in%20The%20Guardian.%20https%3A//www.theguardian.com/technology/ng-interactive/2026/sep/27/democracy-ai-datacenters-power"
+        }
+      ]
+    },
     {
       "id": 80,
       "mention_id": 878,

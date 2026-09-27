@@ -1,7 +1,76 @@
 {
-  "generated_at": "2026-09-26T07:06:43-04:00",
-  "count": 888,
+  "generated_at": "2026-09-27T07:06:22-04:00",
+  "count": 901,
   "stories": [
+    {
+      "id": 909,
+      "date": "2026-09-27",
+      "week_start": "2026-09-21",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Democracy blindsides Silicon Valley's power players looking to transform the world with AI",
+      "has_text": true,
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/sep/27/democracy-ai-datacenters-power",
+      "source": "The Guardian",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Democracy blindsides Silicon Valley's power players looking to transform the world with AI https://www.theguardian.com/technology/ng-interactive/2026/sep/27/democracy-ai-datacenters-power",
+          "chars": 114
+        },
+        "bluesky": {
+          "text": "Democracy blindsides Silicon Valley's power players looking to transform the world with AI https://www.theguardian.com/technology/ng-interactive/2026/sep/27/democracy-ai-datacenters-power",
+          "chars": 187
+        }
+      }
+    },
+    {
+      "id": 899,
+      "date": "2026-09-26",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Como a hermética comunidade amish combate o surto de sarampo mais mortal da história recente dos EUA",
+      "has_text": true,
+      "url": "https://www.bbc.com/portuguese/articles/c64g7d7w2xx4o",
+      "source": "BBC News Brasil",
+      "source_type": "online news",
+      "similar_mention_count": 14,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Como a hermética comunidade amish combate o surto de sarampo mais mortal da história recente dos EUA https://www.bbc.com/portuguese/articles/c64g7d7w2xx4o",
+          "chars": 124
+        },
+        "bluesky": {
+          "text": "Como a hermética comunidade amish combate o surto de sarampo mais mortal da história recente dos EUA https://www.bbc.com/portuguese/articles/c64g7d7w2xx4o",
+          "chars": 154
+        }
+      }
+    },
+    {
+      "id": 898,
+      "date": "2026-09-26",
+      "week_start": "2026-09-21",
+      "person_id": "leah-wright",
+      "person": "Leah Wright",
+      "is_ces": false,
+      "title": "Twitter/X reposts matching \"Johns Hopkins\" + \"Leah Wright\" — no captured text",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 7,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
     {
       "id": 884,
       "date": "2026-09-26",
@@ -25,6 +94,257 @@
         "bluesky": {
           "text": "Harvard’s last Affirmative Action program is for the rich https://fortune.com/2026/09/26/harvard-legacy-admissions-affirmative-action/",
           "chars": 134
+        }
+      }
+    },
+    {
+      "id": 900,
+      "date": "2026-09-26",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "AI vs the classroom: How Should Universities Redesign Assessment for the ChatGPT Generation?",
+      "has_text": true,
+      "url": "https://curriculum-magazine.com/ai-vs-the-classroom-how-should-universities-redesign-assessment-for-the-chatgpt-generation/",
+      "source": "Curriculum",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "AI vs the classroom: How Should Universities Redesign Assessment for the ChatGPT Generation? https://curriculum-magazine.com/ai-vs-the-classroom-how-should-universities-redesign-assessment-for-the-chatgpt-generation/",
+          "chars": 116
+        },
+        "bluesky": {
+          "text": "AI vs the classroom: How Should Universities Redesign Assessment for the ChatGPT Generation? https://curriculum-magazine.com/ai-vs-the-classroom-how-should-universities-redesign-assessment-for-the-chatgpt-generation/",
+          "chars": 216
+        }
+      }
+    },
+    {
+      "id": 908,
+      "date": "2026-09-26",
+      "week_start": "2026-09-21",
+      "person_id": "agora",
+      "person": "Agora",
+      "is_ces": false,
+      "title": "6 filmes em alta na Netflix para ver neste fim de semana (26 e 27/09)",
+      "has_text": true,
+      "url": "https://atarde.com.br/cineinsite/6-filmes-em-alta-na-netflix-para-ver-neste-fim-de-semana-26-e-2709-1403329",
+      "source": "A Tarde",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "6 filmes em alta na Netflix para ver neste fim de semana (26 e 27/09) https://atarde.com.br/cineinsite/6-filmes-em-alta-na-netflix-para-ver-neste-fim-de-semana-26-e-2709-1403329",
+          "chars": 93
+        },
+        "bluesky": {
+          "text": "6 filmes em alta na Netflix para ver neste fim de semana (26 e 27/09) https://atarde.com.br/cineinsite/6-filmes-em-alta-na-netflix-para-ver-neste-fim-de-semana-26-e-2709-1403329",
+          "chars": 177
+        }
+      }
+    },
+    {
+      "id": 907,
+      "date": "2026-09-26",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Twitter/X university-rankings post matching \"Higher Education\" + \"Johns Hopkins\" — no captured text",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 906,
+      "date": "2026-09-26",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Psilocybin available for sale in Australia, invest in Psilocybin in Australia, acquire Psilocybin in Australia, purchase Psilocybin in Australia, Shop Psilocybin in Australia.",
+      "has_text": true,
+      "url": "https://mushroom-for-sale-near-m288950.digiblogbox.com/67585773/psilocybin-available-for-sale-in-australia-invest-in-psilocybin-in-australia-acquire-psilocybin-in-australia-purchase-psilocybin-in-australia-shop-psilocybin-in-australia",
+      "source": "Takemyclass61594 Blog",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Psilocybin available for sale in Australia, invest in Psilocybin in Australia, acquire Psilocybin in Australia, purchase Psilocybin in Australia, Shop Psilocybin in Australia. https://mushroom-for-sale-near-m288950.digiblogbox.com/67585773/psilocybin-available-for-sale-in-australia-invest-in-psilocybin-in-australia-acquire-psilocybin-in-australia-purchase-psilocybin-in-australia-shop-psilocybin-in-australia",
+          "chars": 199
+        },
+        "bluesky": {
+          "text": "Psilocybin available for sale in Australia, invest in Psilocybi… https://mushroom-for-sale-near-m288950.digiblogbox.com/67585773/psilocybin-available-for-sale-in-australia-invest-in-psilocybin-in-australia-acquire-psilocybin-in-australia-purchase-psilocybin-in-australia-shop-psilocybin-in-australia",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 905,
+      "date": "2026-09-26",
+      "week_start": "2026-09-21",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "LinkedIn post by former SNF Agora community member announcing Northwestern PhD",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7509682087558381568",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "LinkedIn post by former SNF Agora community member announcing Northwestern PhD https://www.linkedin.com/feed/update/urn:li:ugcPost:7509682087558381568",
+          "chars": 102
+        },
+        "bluesky": {
+          "text": "LinkedIn post by former SNF Agora community member announcing Northwestern PhD https://www.linkedin.com/feed/update/urn:li:ugcPost:7509682087558381568",
+          "chars": 150
+        }
+      }
+    },
+    {
+      "id": 904,
+      "date": "2026-09-26",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Harvard’s affirmative action ban missed one glaring loophole: the rich list",
+      "has_text": true,
+      "url": "https://vnwired.com/finance/harvards-affirmative-action-ban-missed-one-glaring-loophole-the-rich-list/",
+      "source": "Vietname Wired",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Harvard’s affirmative action ban missed one glaring loophole: the rich list https://vnwired.com/finance/harvards-affirmative-action-ban-missed-one-glaring-loophole-the-rich-list/",
+          "chars": 99
+        },
+        "bluesky": {
+          "text": "Harvard’s affirmative action ban missed one glaring loophole: the rich list https://vnwired.com/finance/harvards-affirmative-action-ban-missed-one-glaring-loophole-the-rich-list/",
+          "chars": 178
+        }
+      }
+    },
+    {
+      "id": 903,
+      "date": "2026-09-26",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Nike Founder Phil Knight Gives Away a Billion Dollars – the Largest Single Donation to a Public University",
+      "has_text": true,
+      "url": "https://www.goodnewsnetwork.org/nike-founder-phil-knight-donates-1-billion-to-oregon-university/",
+      "source": "Good News Network",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Nike Founder Phil Knight Gives Away a Billion Dollars – the Largest Single Donation to a Public University https://www.goodnewsnetwork.org/nike-founder-phil-knight-donates-1-billion-to-oregon-university/",
+          "chars": 130
+        },
+        "bluesky": {
+          "text": "Nike Founder Phil Knight Gives Away a Billion Dollars – the Largest Single Donation to a Public University https://www.goodnewsnetwork.org/nike-founder-phil-knight-donates-1-billion-to-oregon-university/",
+          "chars": 203
+        }
+      }
+    },
+    {
+      "id": 902,
+      "date": "2026-09-26",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "TECH Global University, regarded as the ‘online Harvard’ thanks to its Ivy League faculty",
+      "has_text": true,
+      "url": "https://www.lusakatimes.com/2026/09/27/tech-global-university-regarded-as-the-online-harvard-thanks-to-its-ivy-league-faculty/#respond",
+      "source": "lusakatimes.com",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "TECH Global University, regarded as the ‘online Harvard’ thanks to its Ivy League faculty https://www.lusakatimes.com/2026/09/27/tech-global-university-regarded-as-the-online-harvard-thanks-to-its-ivy-league-faculty/#respond",
+          "chars": 113
+        },
+        "bluesky": {
+          "text": "TECH Global University, regarded as the ‘online Harvard’ thanks to its Ivy League faculty https://www.lusakatimes.com/2026/09/27/tech-global-university-regarded-as-the-online-harvard-thanks-to-its-ivy-league-faculty/#respond",
+          "chars": 224
+        }
+      }
+    },
+    {
+      "id": 901,
+      "date": "2026-09-26",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Real-world wisdom for when the textbook ends. Why do some of the most successful people in the world--from Bill Gates to Steve Jobs, Oprah Winfrey to Ralph Lauren--never finish college, while others with every academic advantage still struggle to find their way? For William R. Brody, a renowned physician-scientist and the former president of Johns Hopkins University, the answer lies in a truth higher education all too often overlooks: life, unlike textbooks, has no answer key. Most of the truly important questions we face rarely have a ready rubric and a simple solution. In Uncommon Sense, Brody distills lessons from decades in medicine, engineering, entrepreneurship, and academic leadership into a thoughtful, surprising, and often humorous exploration of how to think--and live--beyond t",
+      "has_text": true,
+      "url": "https://ie.pinterest.com/pin/849421179765953703/",
+      "source": "Pinterest",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Real-world wisdom for when the textbook ends. Why do some of the most successful people in the world--from Bill Gates to Steve Jobs, Oprah Winfrey to Ralph Lauren--never finish college, while others with every academic advantage still struggle to find the… https://ie.pinterest.com/pin/849421179765953703/",
+          "chars": 280
+        },
+        "bluesky": {
+          "text": "Real-world wisdom for when the textbook ends. Why do some of the most successful people in the world--from Bill Gates to Steve Jobs, Oprah Winfrey to Ralph Lauren--never finish college, while others with every academic advantage still struggle to fi… https://ie.pinterest.com/pin/849421179765953703/",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 897,
+      "date": "2026-09-26",
+      "week_start": "2026-09-21",
+      "person_id": "leah-wright",
+      "person": "Leah Wright",
+      "is_ces": false,
+      "title": "CNN Has Total Meltdown Over Trump Showing Xi the Autopen Photo",
+      "has_text": true,
+      "url": "https://pjmedia.com/matt-margolis/2026/09/26/cnn-has-total-meltdown-over-trump-showing-xi-the-autopen-photo-n4957661",
+      "source": "PJ Media",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "CNN Has Total Meltdown Over Trump Showing Xi the Autopen Photo https://pjmedia.com/matt-margolis/2026/09/26/cnn-has-total-meltdown-over-trump-showing-xi-the-autopen-photo-n4957661",
+          "chars": 86
+        },
+        "bluesky": {
+          "text": "CNN Has Total Meltdown Over Trump Showing Xi the Autopen Photo https://pjmedia.com/matt-margolis/2026/09/26/cnn-has-total-meltdown-over-trump-showing-xi-the-autopen-photo-n4957661",
+          "chars": 179
         }
       }
     },
