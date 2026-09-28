@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-09-27T07:06:22-04:00",
+  "generated_at": "2026-09-28T07:06:27-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-09-27"
+    "end": "2026-09-28"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 901,
-        "in_digest": 284,
-        "reach_proxy": 3385,
+        "mentions": 916,
+        "in_digest": 288,
+        "reach_proxy": 3410,
         "people_covered": 98,
         "people_tracked": 100,
-        "sources": 407,
+        "sources": 413,
         "negative": 11
       },
       "deltas": {
-        "week_start": "2026-09-14",
-        "prev_week_start": "2026-09-07",
+        "week_start": "2026-09-21",
+        "prev_week_start": "2026-09-14",
         "mentions": {
-          "current": 157,
-          "previous": 55,
-          "change": 102,
-          "pct_change": 185.5
+          "current": 156,
+          "previous": 157,
+          "change": -1,
+          "pct_change": -0.6
         },
         "reach_proxy": {
-          "current": 212,
-          "previous": 112,
-          "change": 100,
-          "pct_change": 89.3
+          "current": 1239,
+          "previous": 212,
+          "change": 1027,
+          "pct_change": 484.4
         },
         "people_covered": {
-          "current": 29,
-          "previous": 17,
-          "change": 12,
-          "pct_change": 70.6
+          "current": 21,
+          "previous": 29,
+          "change": -8,
+          "pct_change": -27.6
         }
       },
       "daily": [
@@ -649,8 +649,15 @@
         },
         {
           "date": "2026-09-27",
-          "count": 1,
-          "reach": 1,
+          "count": 12,
+          "reach": 22,
+          "in_digest": 4,
+          "observed": true
+        },
+        {
+          "date": "2026-09-28",
+          "count": 4,
+          "reach": 4,
           "in_digest": 1,
           "observed": true
         }
@@ -814,30 +821,43 @@
         },
         {
           "week_start": "2026-09-21",
-          "count": 145,
-          "reach": 1218,
-          "in_digest": 18,
-          "people": 20,
+          "count": 156,
+          "reach": 1239,
+          "in_digest": 21,
+          "people": 21,
           "sentiment": {
             "positive": 3,
-            "neutral": 3,
+            "neutral": 6,
             "negative": 0,
-            "unknown": 139
+            "unknown": 147
+          }
+        },
+        {
+          "week_start": "2026-09-28",
+          "count": 4,
+          "reach": 4,
+          "in_digest": 1,
+          "people": 3,
+          "sentiment": {
+            "positive": 0,
+            "neutral": 1,
+            "negative": 0,
+            "unknown": 3
           }
         }
       ],
       "sentiment": {
         "positive": 93,
-        "neutral": 158,
+        "neutral": 162,
         "negative": 11,
-        "unknown": 639
+        "unknown": 650
       },
       "top_people": [
         {
           "person_id": "johns-hopkins",
           "name": "Johns Hopkins",
-          "count": 138,
-          "reach": 1183,
+          "count": 145,
+          "reach": 1192,
           "is_ces": false
         },
         {
@@ -857,22 +877,22 @@
         {
           "person_id": "anne-applebaum",
           "name": "Anne Applebaum",
-          "count": 62,
-          "reach": 318,
+          "count": 63,
+          "reach": 319,
           "is_ces": false
         },
         {
           "person_id": "yascha-mounk",
           "name": "Yascha Mounk",
-          "count": 39,
-          "reach": 220,
+          "count": 40,
+          "reach": 221,
           "is_ces": false
         },
         {
           "person_id": "henry-farrell",
           "name": "Henry Farrell",
-          "count": 38,
-          "reach": 60,
+          "count": 39,
+          "reach": 69,
           "is_ces": true
         },
         {
@@ -907,14 +927,14 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 161,
-          "reach": 1302,
+          "count": 163,
+          "reach": 1304,
           "is_other": false
         },
         {
           "source": "Youtube",
-          "count": 45,
-          "reach": 42,
+          "count": 47,
+          "reach": 44,
           "is_other": false
         },
         {
@@ -930,15 +950,15 @@
           "is_other": false
         },
         {
-          "source": "YouTube",
-          "count": 24,
-          "reach": 24,
+          "source": "Springer",
+          "count": 25,
+          "reach": 25,
           "is_other": false
         },
         {
-          "source": "Springer",
-          "count": 23,
-          "reach": 23,
+          "source": "YouTube",
+          "count": 24,
+          "reach": 24,
           "is_other": false
         },
         {
@@ -955,19 +975,19 @@
         },
         {
           "source": "Other",
-          "count": 557,
-          "reach": 1866,
+          "count": 566,
+          "reach": 1885,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 459
+          "count": 470
         },
         {
           "source_type": "social network",
-          "count": 170
+          "count": 172
         },
         {
           "source_type": "blog",
@@ -975,7 +995,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 238
+          "count": 240
         }
       ],
       "negative_stories": [
@@ -999,8 +1019,8 @@
           "positive": 0,
           "neutral": 0,
           "negative": 0,
-          "unknown": 138,
-          "total": 138
+          "unknown": 145,
+          "total": 145
         },
         {
           "row_label": "unknown",
@@ -1027,10 +1047,10 @@
           "person_id": "anne-applebaum",
           "is_ces": false,
           "positive": 10,
-          "neutral": 12,
+          "neutral": 13,
           "negative": 5,
           "unknown": 35,
-          "total": 62
+          "total": 63
         },
         {
           "row_label": "Yascha Mounk",
@@ -1039,18 +1059,18 @@
           "positive": 2,
           "neutral": 10,
           "negative": 1,
-          "unknown": 26,
-          "total": 39
+          "unknown": 27,
+          "total": 40
         },
         {
           "row_label": "Henry Farrell",
           "person_id": "henry-farrell",
           "is_ces": true,
           "positive": 2,
-          "neutral": 12,
+          "neutral": 13,
           "negative": 0,
           "unknown": 24,
-          "total": 38
+          "total": 39
         },
         {
           "row_label": "None (keyword noise)",
@@ -1233,6 +1253,16 @@
           "total": 7
         },
         {
+          "row_label": "Leah Wright",
+          "person_id": "leah-wright",
+          "is_ces": false,
+          "positive": 1,
+          "neutral": 2,
+          "negative": 0,
+          "unknown": 4,
+          "total": 7
+        },
+        {
           "row_label": "Christopher Krupenye",
           "person_id": "christopher-krupenye",
           "is_ces": false,
@@ -1253,6 +1283,16 @@
           "total": 6
         },
         {
+          "row_label": "Dylan Selterman",
+          "person_id": "dylan-selterman",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 4,
+          "negative": 0,
+          "unknown": 2,
+          "total": 6
+        },
+        {
           "row_label": "Eliot Cohen",
           "person_id": "eliot-cohen",
           "is_ces": false,
@@ -1270,16 +1310,6 @@
           "neutral": 1,
           "negative": 0,
           "unknown": 2,
-          "total": 6
-        },
-        {
-          "row_label": "Leah Wright",
-          "person_id": "leah-wright",
-          "is_ces": false,
-          "positive": 1,
-          "neutral": 2,
-          "negative": 0,
-          "unknown": 3,
           "total": 6
         },
         {
@@ -1323,16 +1353,6 @@
           "total": 5
         },
         {
-          "row_label": "Dylan Selterman",
-          "person_id": "dylan-selterman",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 2,
-          "negative": 0,
-          "unknown": 2,
-          "total": 4
-        },
-        {
           "row_label": "Johns Hopkins University",
           "person_id": "johns-hopkins-university",
           "is_ces": false,
@@ -1373,11 +1393,31 @@
           "total": 4
         },
         {
+          "row_label": "André Nogueira",
+          "person_id": "andre-nogueira",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 1,
+          "negative": 0,
+          "unknown": 2,
+          "total": 3
+        },
+        {
           "row_label": "Angus Burgin",
           "person_id": "angus-burgin",
           "is_ces": true,
           "positive": 1,
           "neutral": 0,
+          "negative": 0,
+          "unknown": 2,
+          "total": 3
+        },
+        {
+          "row_label": "Ling Chen",
+          "person_id": "ling-chen",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 1,
           "negative": 0,
           "unknown": 2,
           "total": 3
@@ -1443,16 +1483,6 @@
           "total": 2
         },
         {
-          "row_label": "André Nogueira",
-          "person_id": "andre-nogueira",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 1,
-          "negative": 0,
-          "unknown": 1,
-          "total": 2
-        },
-        {
           "row_label": "Benjamin Storey",
           "person_id": "benjamin-storey",
           "is_ces": false,
@@ -1490,16 +1520,6 @@
           "neutral": 2,
           "negative": 0,
           "unknown": 0,
-          "total": 2
-        },
-        {
-          "row_label": "Ling Chen",
-          "person_id": "ling-chen",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 1,
-          "negative": 0,
-          "unknown": 1,
           "total": 2
         },
         {
@@ -1977,18 +1997,18 @@
         {
           "row_label": "online news",
           "positive": 31,
-          "neutral": 100,
+          "neutral": 103,
           "negative": 2,
-          "unknown": 326,
-          "total": 459
+          "unknown": 334,
+          "total": 470
         },
         {
           "row_label": "social network",
           "positive": 34,
-          "neutral": 40,
+          "neutral": 41,
           "negative": 1,
-          "unknown": 95,
-          "total": 170
+          "unknown": 96,
+          "total": 172
         },
         {
           "row_label": "blog",
@@ -2003,8 +2023,8 @@
           "positive": 22,
           "neutral": 11,
           "negative": 8,
-          "unknown": 197,
-          "total": 238
+          "unknown": 199,
+          "total": 240
         }
       ],
       "sentiment_examples": {
@@ -3144,17 +3164,17 @@
     },
     "ces": {
       "totals": {
-        "mentions": 102,
-        "in_digest": 69,
-        "reach_proxy": 167,
+        "mentions": 103,
+        "in_digest": 70,
+        "reach_proxy": 176,
         "people_covered": 10,
         "people_tracked": 17,
-        "sources": 57,
+        "sources": 58,
         "negative": 0
       },
       "deltas": {
-        "week_start": "2026-09-14",
-        "prev_week_start": "2026-09-07",
+        "week_start": "2026-09-21",
+        "prev_week_start": "2026-09-14",
         "mentions": {
           "current": 6,
           "previous": 6,
@@ -3162,16 +3182,16 @@
           "pct_change": 0.0
         },
         "reach_proxy": {
-          "current": 8,
-          "previous": 6,
-          "change": 2,
-          "pct_change": 33.3
+          "current": 17,
+          "previous": 8,
+          "change": 9,
+          "pct_change": 112.5
         },
         "people_covered": {
-          "current": 6,
-          "previous": 3,
-          "change": 3,
-          "pct_change": 100.0
+          "current": 2,
+          "previous": 6,
+          "change": -4,
+          "pct_change": -66.7
         }
       },
       "daily": [
@@ -3786,9 +3806,16 @@
         },
         {
           "date": "2026-09-27",
-          "count": 1,
-          "reach": 1,
-          "in_digest": 1,
+          "count": 2,
+          "reach": 10,
+          "in_digest": 2,
+          "observed": true
+        },
+        {
+          "date": "2026-09-28",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
           "observed": true
         }
       ],
@@ -3951,21 +3978,34 @@
         },
         {
           "week_start": "2026-09-21",
-          "count": 5,
-          "reach": 8,
-          "in_digest": 5,
+          "count": 6,
+          "reach": 17,
+          "in_digest": 6,
           "people": 2,
           "sentiment": {
             "positive": 1,
-            "neutral": 1,
+            "neutral": 2,
             "negative": 0,
             "unknown": 3
+          }
+        },
+        {
+          "week_start": "2026-09-28",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
+          "people": 0,
+          "sentiment": {
+            "positive": 0,
+            "neutral": 0,
+            "negative": 0,
+            "unknown": 0
           }
         }
       ],
       "sentiment": {
         "positive": 15,
-        "neutral": 32,
+        "neutral": 33,
         "negative": 0,
         "unknown": 55
       },
@@ -3973,8 +4013,8 @@
         {
           "person_id": "henry-farrell",
           "name": "Henry Farrell",
-          "count": 38,
-          "reach": 60,
+          "count": 39,
+          "reach": 69,
           "is_ces": true
         },
         {
@@ -4092,15 +4132,15 @@
         },
         {
           "source": "Other",
-          "count": 57,
-          "reach": 104,
+          "count": 58,
+          "reach": 113,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 53
+          "count": 54
         },
         {
           "source_type": "social network",
@@ -4122,10 +4162,10 @@
           "person_id": "henry-farrell",
           "is_ces": true,
           "positive": 2,
-          "neutral": 12,
+          "neutral": 13,
           "negative": 0,
           "unknown": 24,
-          "total": 38
+          "total": 39
         },
         {
           "row_label": "Yuen Yuen Ang",
@@ -4222,10 +4262,10 @@
         {
           "row_label": "online news",
           "positive": 9,
-          "neutral": 19,
+          "neutral": 20,
           "negative": 0,
           "unknown": 25,
-          "total": 53
+          "total": 54
         },
         {
           "row_label": "social network",
