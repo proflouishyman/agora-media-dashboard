@@ -1,7 +1,379 @@
 {
-  "generated_at": "2026-09-27T07:06:22-04:00",
-  "count": 901,
+  "generated_at": "2026-09-28T07:06:27-04:00",
+  "count": 916,
   "stories": [
+    {
+      "id": 918,
+      "date": "2026-09-28",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Young Men’s Excessive Internet Use ‘Foremost Challenge of Our Time’",
+      "has_text": true,
+      "url": "https://www.insidehighered.com/news/student-success/health-wellness/2026/09/28/young-mens-internet-use-foremost-challenge-our-time",
+      "source": "Inside Higher Ed",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Young Men’s Excessive Internet Use ‘Foremost Challenge of Our Time’ https://www.insidehighered.com/news/student-success/health-wellness/2026/09/28/young-mens-internet-use-foremost-challenge-our-time",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "Young Men’s Excessive Internet Use ‘Foremost Challenge of Our Time’ https://www.insidehighered.com/news/student-success/health-wellness/2026/09/28/young-mens-internet-use-foremost-challenge-our-time",
+          "chars": 198
+        }
+      }
+    },
+    {
+      "id": 917,
+      "date": "2026-09-28",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Exploring the Potential of Parent Report for Autism/Developmental Screening at the 18-Month Visit",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s10803-026-07472-4",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Exploring the Potential of Parent Report for Autism/Developmental Screening at the 18-Month Visit https://link.springer.com/article/10.1007/s10803-026-07472-4",
+          "chars": 121
+        },
+        "bluesky": {
+          "text": "Exploring the Potential of Parent Report for Autism/Developmental Screening at the 18-Month Visit https://link.springer.com/article/10.1007/s10803-026-07472-4",
+          "chars": 158
+        }
+      }
+    },
+    {
+      "id": 914,
+      "date": "2026-09-28",
+      "week_start": "2026-09-28",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "Autocratization in the 21st century: Concepts, mechanisms, and new directions in comparative political research",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s12286-026-00663-4",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Autocratization in the 21st century: Concepts, mechanisms, and new directions in comparative political research https://link.springer.com/article/10.1007/s12286-026-00663-4",
+          "chars": 135
+        },
+        "bluesky": {
+          "text": "Autocratization in the 21st century: Concepts, mechanisms, and new directions in comparative political research https://link.springer.com/article/10.1007/s12286-026-00663-4",
+          "chars": 172
+        }
+      }
+    },
+    {
+      "id": 912,
+      "date": "2026-09-28",
+      "week_start": "2026-09-28",
+      "person_id": "dylan-selterman",
+      "person": "Dylan Selterman",
+      "is_ces": false,
+      "title": "Világszerte álmodnak róla: ezt jelentheti, ha álmodban kihullanak a fogaid",
+      "has_text": true,
+      "url": "https://elle.hu/psziche/vilagszerte-almodnak-rola-ezt-jelentheti-ha-almodban-kihullanak-a-fogaid",
+      "source": "Ellemagazin.hu",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Világszerte álmodnak róla: ezt jelentheti, ha álmodban kihullanak a fogaid https://elle.hu/psziche/vilagszerte-almodnak-rola-ezt-jelentheti-ha-almodban-kihullanak-a-fogaid",
+          "chars": 98
+        },
+        "bluesky": {
+          "text": "Világszerte álmodnak róla: ezt jelentheti, ha álmodban kihullanak a fogaid https://elle.hu/psziche/vilagszerte-almodnak-rola-ezt-jelentheti-ha-almodban-kihullanak-a-fogaid",
+          "chars": 171
+        }
+      }
+    },
+    {
+      "id": 910,
+      "date": "2026-09-27",
+      "week_start": "2026-09-21",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Democracy blindsides Silicon Valley’s power players looking to transform the world with AI",
+      "has_text": true,
+      "url": "https://uk.news.yahoo.com/democracy-blindsides-silicon-valley-power-110003546.html",
+      "source": "Yahoo! News UK",
+      "source_type": "online news",
+      "similar_mention_count": 9,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Democracy blindsides Silicon Valley’s power players looking to transform the world with AI https://uk.news.yahoo.com/democracy-blindsides-silicon-valley-power-110003546.html",
+          "chars": 114
+        },
+        "bluesky": {
+          "text": "Democracy blindsides Silicon Valley’s power players looking to transform the world with AI https://uk.news.yahoo.com/democracy-blindsides-silicon-valley-power-110003546.html",
+          "chars": 173
+        }
+      }
+    },
+    {
+      "id": 923,
+      "date": "2026-09-27",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Após quase morrer, médico transforma transplantes e testa órgãos suínos",
+      "has_text": true,
+      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/09/apos-quase-morrer-medico-transforma-transplantes-e-testa-orgaos-suinos.shtml",
+      "source": "Tudo   um pouco",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Após quase morrer, médico transforma transplantes e testa órgãos suínos https://www1.folha.uol.com.br/equilibrioesaude/2026/09/apos-quase-morrer-medico-transforma-transplantes-e-testa-orgaos-suinos.shtml",
+          "chars": 95
+        },
+        "bluesky": {
+          "text": "Após quase morrer, médico transforma transplantes e testa órgãos suínos https://www1.folha.uol.com.br/equilibrioesaude/2026/09/apos-quase-morrer-medico-transforma-transplantes-e-testa-orgaos-suinos.shtml",
+          "chars": 203
+        }
+      }
+    },
+    {
+      "id": 920,
+      "date": "2026-09-27",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Sneaker billionaire behind the biggest university gift in US history gives his alma mater $1B",
+      "has_text": true,
+      "url": "https://tezzbuzz.com/sneaker-billionaire-behind-the-biggest-university-gift-in-us-history-gives-his-alma-mater-1b/",
+      "source": "Tezzbuzz",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Sneaker billionaire behind the biggest university gift in US history gives his alma mater $1B https://tezzbuzz.com/sneaker-billionaire-behind-the-biggest-university-gift-in-us-history-gives-his-alma-mater-1b/",
+          "chars": 117
+        },
+        "bluesky": {
+          "text": "Sneaker billionaire behind the biggest university gift in US history gives his alma mater $1B https://tezzbuzz.com/sneaker-billionaire-behind-the-biggest-university-gift-in-us-history-gives-his-alma-mater-1b/",
+          "chars": 208
+        }
+      }
+    },
+    {
+      "id": 924,
+      "date": "2026-09-27",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Reino Unido em alerta máximo: neve e frio extremo podem chegar em breve",
+      "has_text": true,
+      "url": "https://www.bra1.com.br/geral/id-698564/reino_unido_em_alerta_maximo__neve_e_frio_extremo_podem_chegar_em_breve",
+      "source": "BRA 1",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Reino Unido em alerta máximo: neve e frio extremo podem chegar em breve https://www.bra1.com.br/geral/id-698564/reino_unido_em_alerta_maximo__neve_e_frio_extremo_podem_chegar_em_breve",
+          "chars": 95
+        },
+        "bluesky": {
+          "text": "Reino Unido em alerta máximo: neve e frio extremo podem chegar em breve https://www.bra1.com.br/geral/id-698564/reino_unido_em_alerta_maximo__neve_e_frio_extremo_podem_chegar_em_breve",
+          "chars": 183
+        }
+      }
+    },
+    {
+      "id": 922,
+      "date": "2026-09-27",
+      "week_start": "2026-09-21",
+      "person_id": "ling-chen",
+      "person": "Ling Chen",
+      "is_ces": false,
+      "title": "Humilhado por ex interesseira e playboy herdeiro, ele renasce 10 min antes do apocalipse e vira rei",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=aU_wEcyuC7Q",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Humilhado por ex interesseira e playboy herdeiro, ele renasce 10 min antes do apocalipse e vira rei https://www.youtube.com/watch?v=aU_wEcyuC7Q",
+          "chars": 123
+        },
+        "bluesky": {
+          "text": "Humilhado por ex interesseira e playboy herdeiro, ele renasce 10 min antes do apocalipse e vira rei https://www.youtube.com/watch?v=aU_wEcyuC7Q",
+          "chars": 143
+        }
+      }
+    },
+    {
+      "id": 921,
+      "date": "2026-09-27",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "The 50 colleges in America that are most worth the money, based on data",
+      "has_text": true,
+      "url": "https://www.msn.com/en-us/money/general/the-50-colleges-in-america-that-are-most-worth-the-money-based-on-data/ar-AA2d4a2e",
+      "source": "MSN.com",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The 50 colleges in America that are most worth the money, based on data https://www.msn.com/en-us/money/general/the-50-colleges-in-america-that-are-most-worth-the-money-based-on-data/ar-AA2d4a2e",
+          "chars": 95
+        },
+        "bluesky": {
+          "text": "The 50 colleges in America that are most worth the money, based on data https://www.msn.com/en-us/money/general/the-50-colleges-in-america-that-are-most-worth-the-money-based-on-data/ar-AA2d4a2e",
+          "chars": 194
+        }
+      }
+    },
+    {
+      "id": 919,
+      "date": "2026-09-27",
+      "week_start": "2026-09-21",
+      "person_id": "andre-nogueira",
+      "person": "André Nogueira",
+      "is_ces": false,
+      "title": "Desembargador Marco André Hanson celebra 40 anos de Magistratura",
+      "has_text": true,
+      "url": "https://www.viamorena.com/justica/desembargador-marco-andre-hanson-celebra-40-anos-de-magistratura/",
+      "source": "VIAMORENA",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Desembargador Marco André Hanson celebra 40 anos de Magistratura https://www.viamorena.com/justica/desembargador-marco-andre-hanson-celebra-40-anos-de-magistratura/",
+          "chars": 88
+        },
+        "bluesky": {
+          "text": "Desembargador Marco André Hanson celebra 40 anos de Magistratura https://www.viamorena.com/justica/desembargador-marco-andre-hanson-celebra-40-anos-de-magistratura/",
+          "chars": 164
+        }
+      }
+    },
+    {
+      "id": 916,
+      "date": "2026-09-27",
+      "week_start": "2026-09-21",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 915,
+      "date": "2026-09-27",
+      "week_start": "2026-09-21",
+      "person_id": "leah-wright",
+      "person": "Leah Wright",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 913,
+      "date": "2026-09-27",
+      "week_start": "2026-09-21",
+      "person_id": "dylan-selterman",
+      "person": "Dylan Selterman",
+      "is_ces": false,
+      "title": "The Dream Face Myth, According To Researchers",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=OIXJv61XqfI",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "The Dream Face Myth, According To Researchers https://www.youtube.com/watch?v=OIXJv61XqfI",
+          "chars": 69
+        },
+        "bluesky": {
+          "text": "The Dream Face Myth, According To Researchers https://www.youtube.com/watch?v=OIXJv61XqfI",
+          "chars": 89
+        }
+      }
+    },
+    {
+      "id": 911,
+      "date": "2026-09-27",
+      "week_start": "2026-09-21",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Amerikansk topanalytiker i interview med DR: USA's drømme om Grønland lever videre",
+      "has_text": true,
+      "url": "https://www.dr.dk/nyheder/udland/amerikansk-topanalytiker-i-interview-med-dr-usa-s-droemme-om-groenland-lever-videre",
+      "source": "DR dr.dk",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Amerikansk topanalytiker i interview med DR: USA's drømme om Grønland lever videre https://www.dr.dk/nyheder/udland/amerikansk-topanalytiker-i-interview-med-dr-usa-s-droemme-om-groenland-lever-videre",
+          "chars": 106
+        },
+        "bluesky": {
+          "text": "Amerikansk topanalytiker i interview med DR: USA's drømme om Grønland lever videre https://www.dr.dk/nyheder/udland/amerikansk-topanalytiker-i-interview-med-dr-usa-s-droemme-om-groenland-lever-videre",
+          "chars": 199
+        }
+      }
+    },
     {
       "id": 909,
       "date": "2026-09-27",

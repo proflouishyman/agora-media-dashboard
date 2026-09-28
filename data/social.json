@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-27T07:06:22-04:00",
-  "count": 63,
+  "generated_at": "2026-09-28T07:06:27-04:00",
+  "count": 64,
   "picks": [
+    {
+      "id": 82,
+      "mention_id": 911,
+      "digest_date": "2026-09-27",
+      "person": "Anne Applebaum",
+      "person_id": "anne-applebaum",
+      "person_ids": [
+        "anne-applebaum"
+      ],
+      "is_ces": false,
+      "punchy_title": "Applebaum to Denmark: America's Greenland ambitions haven't gone away",
+      "headline": "Applebaum to Denmark: America's Greenland ambitions haven't gone away",
+      "pull_quote": null,
+      "rationale": null,
+      "url": "https://www.dr.dk/nyheder/udland/amerikansk-topanalytiker-i-interview-med-dr-usa-s-droemme-om-groenland-lever-videre",
+      "story_url": "https://www.dr.dk/nyheder/udland/amerikansk-topanalytiker-i-interview-med-dr-usa-s-droemme-om-groenland-lever-videre",
+      "created_at": "2026-09-28 11:06:23",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "SNF Agora's Anne Applebaum tells Denmark's DR the US push on Greenland isn't over, and Denmark needs a plan B for a US that is no longer the same kind of ally. https://www.dr.dk/nyheder/udland/amerikansk-topanalytiker-i-interview-med-dr-usa-s-droemme-om-groenland-lever-videre",
+          "chars": 276,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=SNF%20Agora%27s%20Anne%20Applebaum%20tells%20Denmark%27s%20DR%20the%20US%20push%20on%20Greenland%20isn%27t%20over%2C%20and%20Denmark%20needs%20a%20plan%20B%20for%20a%20US%20that%20is%20no%20longer%20the%20same%20kind%20of%20ally.%20https%3A//www.dr.dk/nyheder/udland/amerikansk-topanalytiker-i-interview-med-dr-usa-s-droemme-om-groenland-lever-videre"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "SNF Agora's Anne Applebaum tells Denmark's DR that US pressure on Greenland continues despite the deal, and Denmark needs a plan B for a US that is no longer the same kind of ally. https://www.dr.dk/nyheder/udland/amerikansk-topanalytiker-i-interview-med-dr-usa-s-droemme-om-groenland-lever-videre",
+          "chars": 297,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=SNF%20Agora%27s%20Anne%20Applebaum%20tells%20Denmark%27s%20DR%20that%20US%20pressure%20on%20Greenland%20continues%20despite%20the%20deal%2C%20and%20Denmark%20needs%20a%20plan%20B%20for%20a%20US%20that%20is%20no%20longer%20the%20same%20kind%20of%20ally.%20https%3A//www.dr.dk/nyheder/udland/amerikansk-topanalytiker-i-interview-med-dr-usa-s-droemme-om-groenland-lever-videre"
+        }
+      ]
+    },
     {
       "id": 81,
       "mention_id": 909,
