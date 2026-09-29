@@ -1,7 +1,518 @@
 {
-  "generated_at": "2026-09-28T07:06:27-04:00",
-  "count": 916,
+  "generated_at": "2026-09-29T07:07:05-04:00",
+  "count": 936,
   "stories": [
+    {
+      "id": 934,
+      "date": "2026-09-29",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Prof Tyali named chair of Film and Publication Board",
+      "has_text": true,
+      "url": "https://www.timeslive.co.za/news/south-africa/2026-09-29-prof-tyali-named-chair-of-film-and-publication-board/",
+      "source": "Times LIVE",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Prof Tyali named chair of Film and Publication Board https://www.timeslive.co.za/news/south-africa/2026-09-29-prof-tyali-named-chair-of-film-and-publication-board/",
+          "chars": 76
+        },
+        "bluesky": {
+          "text": "Prof Tyali named chair of Film and Publication Board https://www.timeslive.co.za/news/south-africa/2026-09-29-prof-tyali-named-chair-of-film-and-publication-board/",
+          "chars": 163
+        }
+      }
+    },
+    {
+      "id": 933,
+      "date": "2026-09-28",
+      "week_start": "2026-09-28",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Text-less Reddit r/creepypasta posts (Nina the Killer)",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/creepypasta/comments/1wsx4qn/nina_the_killer_minha_versão_da_creepypasta/",
+      "source": "reddit.com/r/creepypasta",
+      "source_type": "social network",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Text-less Reddit r/creepypasta posts (Nina the Killer) https://www.reddit.com/r/creepypasta/comments/1wsx4qn/nina_the_killer_minha_versão_da_creepypasta/",
+          "chars": 78
+        },
+        "bluesky": {
+          "text": "Text-less Reddit r/creepypasta posts (Nina the Killer) https://www.reddit.com/r/creepypasta/comments/1wsx4qn/nina_the_killer_minha_versão_da_creepypasta/",
+          "chars": 153
+        }
+      }
+    },
+    {
+      "id": 941,
+      "date": "2026-09-28",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "UAE Releases Full List of 100 Universities Whose Graduates Qualify for Abu Dhabi Golden Visa",
+      "has_text": true,
+      "url": "https://yen.com.gh/world/asia/312748-uae-releases-full-list-100-universities-graduates-qualify-abu-dhabi-golden-visa/",
+      "source": "Yen",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "UAE Releases Full List of 100 Universities Whose Graduates Qualify for Abu Dhabi Golden Visa https://yen.com.gh/world/asia/312748-uae-releases-full-list-100-universities-graduates-qualify-abu-dhabi-golden-visa/",
+          "chars": 116
+        },
+        "bluesky": {
+          "text": "UAE Releases Full List of 100 Universities Whose Graduates Qualify for Abu Dhabi Golden Visa https://yen.com.gh/world/asia/312748-uae-releases-full-list-100-universities-graduates-qualify-abu-dhabi-golden-visa/",
+          "chars": 210
+        }
+      }
+    },
+    {
+      "id": 927,
+      "date": "2026-09-28",
+      "week_start": "2026-09-28",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Democracy blindsides Silicon Valley’s power players looking to transform the world with AI",
+      "has_text": true,
+      "url": "http://www.execreview.com/2026/09/democracy-blindsides-silicon-valleys-power-players-looking-to-transform-the-world-with-ai/",
+      "source": "ExecReview",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Democracy blindsides Silicon Valley’s power players looking to transform the world with AI http://www.execreview.com/2026/09/democracy-blindsides-silicon-valleys-power-players-looking-to-transform-the-world-with-ai/",
+          "chars": 114
+        },
+        "bluesky": {
+          "text": "Democracy blindsides Silicon Valley’s power players looking to transform the world with AI http://www.execreview.com/2026/09/democracy-blindsides-silicon-valleys-power-players-looking-to-transform-the-world-with-ai/",
+          "chars": 215
+        }
+      }
+    },
+    {
+      "id": 944,
+      "date": "2026-09-28",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Regulatory Inversion in Higher Education Governance: Concept, Evidence, and Cross-national Application",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1057/s41307-026-00478-8",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Regulatory Inversion in Higher Education Governance: Concept, Evidence, and Cross-national Application https://link.springer.com/article/10.1057/s41307-026-00478-8",
+          "chars": 126
+        },
+        "bluesky": {
+          "text": "Regulatory Inversion in Higher Education Governance: Concept, Evidence, and Cross-national Application https://link.springer.com/article/10.1057/s41307-026-00478-8",
+          "chars": 163
+        }
+      }
+    },
+    {
+      "id": 943,
+      "date": "2026-09-28",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "The City & State Trailblazers in Healthcare 2026",
+      "has_text": true,
+      "url": "https://www.cityandstatepa.com/power-lists/2026/09/city-state-trailblazers-healthcare-2026/416217/?oref=ng-homepage-top-story",
+      "source": "City & State PA",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The City & State Trailblazers in Healthcare 2026 https://www.cityandstatepa.com/power-lists/2026/09/city-state-trailblazers-healthcare-2026/416217/?oref=ng-homepage-top-story",
+          "chars": 72
+        },
+        "bluesky": {
+          "text": "The City & State Trailblazers in Healthcare 2026 https://www.cityandstatepa.com/power-lists/2026/09/city-state-trailblazers-healthcare-2026/416217/?oref=ng-homepage-top-story",
+          "chars": 174
+        }
+      }
+    },
+    {
+      "id": 942,
+      "date": "2026-09-28",
+      "week_start": "2026-09-28",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Psiquiatra da Johns Hopkins parou de receitar comprimidos para DORMIR. Em vez disso, ensinou às",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=MXUJevrq77M",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Psiquiatra da Johns Hopkins parou de receitar comprimidos para DORMIR. Em vez disso, ensinou às https://www.youtube.com/watch?v=MXUJevrq77M",
+          "chars": 119
+        },
+        "bluesky": {
+          "text": "Psiquiatra da Johns Hopkins parou de receitar comprimidos para DORMIR. Em vez disso, ensinou às https://www.youtube.com/watch?v=MXUJevrq77M",
+          "chars": 139
+        }
+      }
+    },
+    {
+      "id": 940,
+      "date": "2026-09-28",
+      "week_start": "2026-09-28",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "No DF, governo Celina extingue núcleos da Educação que atingem atendimento inclusivo",
+      "has_text": true,
+      "url": "https://www.brasildefato.com.br/2026/09/28/no-df-governo-celina-extingue-nucleos-da-educacao-que-atingem-atendimento-inclusivo/",
+      "source": "Brasil de Fato",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "No DF, governo Celina extingue núcleos da Educação que atingem atendimento inclusivo https://www.brasildefato.com.br/2026/09/28/no-df-governo-celina-extingue-nucleos-da-educacao-que-atingem-atendimento-inclusivo/",
+          "chars": 108
+        },
+        "bluesky": {
+          "text": "No DF, governo Celina extingue núcleos da Educação que atingem atendimento inclusivo https://www.brasildefato.com.br/2026/09/28/no-df-governo-celina-extingue-nucleos-da-educacao-que-atingem-atendimento-inclusivo/",
+          "chars": 212
+        }
+      }
+    },
+    {
+      "id": 939,
+      "date": "2026-09-28",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Foley Scholar Awards",
+      "has_text": true,
+      "url": "https://peopletech.gatech.edu/students/foley-scholar-awards",
+      "source": "Georgia Tech",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Foley Scholar Awards https://peopletech.gatech.edu/students/foley-scholar-awards",
+          "chars": 44
+        },
+        "bluesky": {
+          "text": "Foley Scholar Awards https://peopletech.gatech.edu/students/foley-scholar-awards",
+          "chars": 80
+        }
+      }
+    },
+    {
+      "id": 938,
+      "date": "2026-09-28",
+      "week_start": "2026-09-28",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "“O amador do insolúvel” – Edward SAID",
+      "has_text": true,
+      "url": "https://portalcioranbr.wordpress.com/2026/09/28/amador-insoluvel-edward-said/",
+      "source": "wordpress.com",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "“O amador do insolúvel” – Edward SAID https://portalcioranbr.wordpress.com/2026/09/28/amador-insoluvel-edward-said/",
+          "chars": 61
+        },
+        "bluesky": {
+          "text": "“O amador do insolúvel” – Edward SAID https://portalcioranbr.wordpress.com/2026/09/28/amador-insoluvel-edward-said/",
+          "chars": 115
+        }
+      }
+    },
+    {
+      "id": 937,
+      "date": "2026-09-28",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "RCSA Backs Five Collaborative Projects for STEM Teaching, Learning, Advocacy",
+      "has_text": true,
+      "url": "https://rescorp.org/2026/09/rcsa-backs-five-collaborative-projects-for-stem-teaching-learning-advocacy/",
+      "source": "Research Corporation for Science Advancement",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "RCSA Backs Five Collaborative Projects for STEM Teaching, Learning, Advocacy https://rescorp.org/2026/09/rcsa-backs-five-collaborative-projects-for-stem-teaching-learning-advocacy/",
+          "chars": 100
+        },
+        "bluesky": {
+          "text": "RCSA Backs Five Collaborative Projects for STEM Teaching, Learning, Advocacy https://rescorp.org/2026/09/rcsa-backs-five-collaborative-projects-for-stem-teaching-learning-advocacy/",
+          "chars": 180
+        }
+      }
+    },
+    {
+      "id": 936,
+      "date": "2026-09-28",
+      "week_start": "2026-09-28",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Power Ranking da NWSL: Jaedyn Shaw faz história enquanto o Gotham FC segue em 1º, Ashley Sanchez iguala recorde de gols em uma única temporada",
+      "has_text": true,
+      "url": "https://www.goal.com/br/listas/power-ranking-da-nwsl-jaedyn-shaw-faz-historia-enquanto-o-gotham-fc-segue-em-1o-ashley-sanchez-iguala-recorde-de-gols-em-uma-unica-temporada/bltafa7e3e17326a7d7",
+      "source": "Goal.com (PT)",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Power Ranking da NWSL: Jaedyn Shaw faz história enquanto o Gotham FC segue em 1º, Ashley Sanchez iguala recorde de gols em uma única temporada https://www.goal.com/br/listas/power-ranking-da-nwsl-jaedyn-shaw-faz-historia-enquanto-o-gotham-fc-segue-em-1o-ashley-sanchez-iguala-recorde-de-gols-em-uma-unica-temporada/bltafa7e3e17326a7d7",
+          "chars": 166
+        },
+        "bluesky": {
+          "text": "Power Ranking da NWSL: Jaedyn Shaw faz história enquanto o Gotham FC segue em 1º, Ashley Sanchez iguala re… https://www.goal.com/br/listas/power-ranking-da-nwsl-jaedyn-shaw-faz-historia-enquanto-o-gotham-fc-segue-em-1o-ashley-sanchez-iguala-recorde-de-gols-em-uma-unica-temporada/bltafa7e3e17326a7d7",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 935,
+      "date": "2026-09-28",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "How can India make quality higher education affordable?",
+      "has_text": true,
+      "url": "https://www.thehindu.com/education/how-can-india-make-quality-higher-education-affordable/article71518940.ece",
+      "source": "The Hindu",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "How can India make quality higher education affordable? https://www.thehindu.com/education/how-can-india-make-quality-higher-education-affordable/article71518940.ece",
+          "chars": 79
+        },
+        "bluesky": {
+          "text": "How can India make quality higher education affordable? https://www.thehindu.com/education/how-can-india-make-quality-higher-education-affordable/article71518940.ece",
+          "chars": 165
+        }
+      }
+    },
+    {
+      "id": 932,
+      "date": "2026-09-28",
+      "week_start": "2026-09-28",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Text-less X/Twitter post (Anne Applebaum + agora)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 931,
+      "date": "2026-09-28",
+      "week_start": "2026-09-28",
+      "person_id": "nina-hall",
+      "person": "Nina Hall",
+      "is_ces": false,
+      "title": "Sensing The Climate – il Festival of Ecological Imagination torna a Serra Madre",
+      "has_text": true,
+      "url": "https://www.radiocittafujiko.it/sensing-the-climate-il-festival-of-ecological-imagination-torna-a-serra-madre/",
+      "source": "Radio City Fujiko",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Sensing The Climate – il Festival of Ecological Imagination torna a Serra Madre https://www.radiocittafujiko.it/sensing-the-climate-il-festival-of-ecological-imagination-torna-a-serra-madre/",
+          "chars": 103
+        },
+        "bluesky": {
+          "text": "Sensing The Climate – il Festival of Ecological Imagination torna a Serra Madre https://www.radiocittafujiko.it/sensing-the-climate-il-festival-of-ecological-imagination-torna-a-serra-madre/",
+          "chars": 190
+        }
+      }
+    },
+    {
+      "id": 930,
+      "date": "2026-09-28",
+      "week_start": "2026-09-28",
+      "person_id": "ruth-braunstein",
+      "person": "Ruth Braunstein",
+      "is_ces": false,
+      "title": "\"It turns out that Americans believe in religious freedom, diversity, and democracy, not racist theocracy\"",
+      "has_text": true,
+      "url": "https://teacherpoetmusicianglenbrown.blogspot.com/2026/09/it-turns-out-that-americans-believe-in.html",
+      "source": "glen brown",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "\"It turns out that Americans believe in religious freedom, diversity, and democracy, not racist theocracy\" https://teacherpoetmusicianglenbrown.blogspot.com/2026/09/it-turns-out-that-americans-believe-in.html",
+          "chars": 130
+        },
+        "bluesky": {
+          "text": "\"It turns out that Americans believe in religious freedom, diversity, and democracy, not racist theocracy\" https://teacherpoetmusicianglenbrown.blogspot.com/2026/09/it-turns-out-that-americans-believe-in.html",
+          "chars": 208
+        }
+      }
+    },
+    {
+      "id": 929,
+      "date": "2026-09-28",
+      "week_start": "2026-09-28",
+      "person_id": "ruth-braunstein",
+      "person": "Ruth Braunstein",
+      "is_ces": false,
+      "title": "Resistance to Christian Nationalism Could Help Decide Midterms | Opinion",
+      "has_text": true,
+      "url": "https://endrtimes.blogspot.com/2026/09/resistance-to-christian-nationalism.html",
+      "source": "EndrTimes",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Resistance to Christian Nationalism Could Help Decide Midterms | Opinion https://endrtimes.blogspot.com/2026/09/resistance-to-christian-nationalism.html",
+          "chars": 96
+        },
+        "bluesky": {
+          "text": "Resistance to Christian Nationalism Could Help Decide Midterms | Opinion https://endrtimes.blogspot.com/2026/09/resistance-to-christian-nationalism.html",
+          "chars": 152
+        }
+      }
+    },
+    {
+      "id": 928,
+      "date": "2026-09-28",
+      "week_start": "2026-09-28",
+      "person_id": "louis-hyman",
+      "person": "Louis Hyman",
+      "is_ces": true,
+      "title": "LinkedIn post promoting Louis Hyman Oct. 1 AI and the Future of History event",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7510373147246850048",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "LinkedIn post promoting Louis Hyman Oct. 1 AI and the Future of History event https://www.linkedin.com/feed/update/urn:li:share:7510373147246850048",
+          "chars": 101
+        },
+        "bluesky": {
+          "text": "LinkedIn post promoting Louis Hyman Oct. 1 AI and the Future of History event https://www.linkedin.com/feed/update/urn:li:share:7510373147246850048",
+          "chars": 147
+        }
+      }
+    },
+    {
+      "id": 926,
+      "date": "2026-09-28",
+      "week_start": "2026-09-28",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "O jornalismo não morreu de mentira — morreu de omissão.",
+      "has_text": true,
+      "url": "https://www.komunica.net.br/materia/737barra-mansa/mk-marcelo-kieling/o-jornalismo-nao-morreu-de-mentira-mdash-morreu-de-omissao.html",
+      "source": "komunica",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "O jornalismo não morreu de mentira — morreu de omissão. https://www.komunica.net.br/materia/737barra-mansa/mk-marcelo-kieling/o-jornalismo-nao-morreu-de-mentira-mdash-morreu-de-omissao.html",
+          "chars": 79
+        },
+        "bluesky": {
+          "text": "O jornalismo não morreu de mentira — morreu de omissão. https://www.komunica.net.br/materia/737barra-mansa/mk-marcelo-kieling/o-jornalismo-nao-morreu-de-mentira-mdash-morreu-de-omissao.html",
+          "chars": 189
+        }
+      }
+    },
+    {
+      "id": 925,
+      "date": "2026-09-28",
+      "week_start": "2026-09-28",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "Political polarization and the US Midterms: In conversation with Lilliana Mason",
+      "has_text": true,
+      "url": "https://calendar.boell.de/en/event/political-polarization-and-us-midterms-conversation-lilliana-mason",
+      "source": "Heinrich Böll Foundation (calendar.boell.de)",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Political polarization and the US Midterms: In conversation with Lilliana Mason https://calendar.boell.de/en/event/political-polarization-and-us-midterms-conversation-lilliana-mason",
+          "chars": 103
+        },
+        "bluesky": {
+          "text": "Political polarization and the US Midterms: In conversation with Lilliana Mason https://calendar.boell.de/en/event/political-polarization-and-us-midterms-conversation-lilliana-mason",
+          "chars": 181
+        }
+      }
+    },
     {
       "id": 918,
       "date": "2026-09-28",

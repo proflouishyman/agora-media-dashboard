@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-28T07:06:27-04:00",
-  "count": 64,
+  "generated_at": "2026-09-29T07:07:05-04:00",
+  "count": 65,
   "picks": [
+    {
+      "id": 83,
+      "mention_id": 925,
+      "digest_date": "2026-09-28",
+      "person": "Lilliana Mason",
+      "person_id": "lilliana-mason",
+      "person_ids": [
+        "lilliana-mason"
+      ],
+      "is_ces": false,
+      "punchy_title": "Lilliana Mason Takes America's Partisan Divide to Berlin Before the Midterms",
+      "headline": "Lilliana Mason Takes America's Partisan Divide to Berlin Before the Midterms",
+      "pull_quote": "Mason will lead a discussion on her research and its implications for democratic societies, both in the United States and Europe",
+      "rationale": "Mason will lead a discussion on her research and its implications for democratic societies, both in the United States and Europe",
+      "url": "https://calendar.boell.de/en/event/political-polarization-and-us-midterms-conversation-lilliana-mason",
+      "story_url": "https://calendar.boell.de/en/event/political-polarization-and-us-midterms-conversation-lilliana-mason",
+      "created_at": "2026-09-29 11:06:55",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Before the US midterms, SNF Agora's Lilliana Mason joins The New Yorker's Joshua Yaffa in Berlin to ask why partisanship has become so entrenched and what it means for democracy. https://calendar.boell.de/en/event/political-polarization-and-us-midterms-conversation-lilliana-mason",
+          "chars": 280,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Before%20the%20US%20midterms%2C%20SNF%20Agora%27s%20Lilliana%20Mason%20joins%20The%20New%20Yorker%27s%20Joshua%20Yaffa%20in%20Berlin%20to%20ask%20why%20partisanship%20has%20become%20so%20entrenched%20and%20what%20it%20means%20for%20democracy.%20https%3A//calendar.boell.de/en/event/political-polarization-and-us-midterms-conversation-lilliana-mason"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Before the US midterms, SNF Agora's Lilliana Mason, author of Uncivil Agreement, joins The New Yorker's Joshua Yaffa in Berlin to ask why partisanship runs so deep and what it means for democracy. https://calendar.boell.de/en/event/political-polarization-and-us-midterms-conversation-lilliana-mason",
+          "chars": 298,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Before%20the%20US%20midterms%2C%20SNF%20Agora%27s%20Lilliana%20Mason%2C%20author%20of%20Uncivil%20Agreement%2C%20joins%20The%20New%20Yorker%27s%20Joshua%20Yaffa%20in%20Berlin%20to%20ask%20why%20partisanship%20runs%20so%20deep%20and%20what%20it%20means%20for%20democracy.%20https%3A//calendar.boell.de/en/event/political-polarization-and-us-midterms-conversation-lilliana-mason"
+        }
+      ]
+    },
     {
       "id": 82,
       "mention_id": 911,
