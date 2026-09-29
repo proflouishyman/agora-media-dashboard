@@ -9,16 +9,16 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 145,
+    "mentions_total": 152,
     "mentions_in_digest": 0,
-    "reach_proxy": 1192,
+    "reach_proxy": 1200,
     "first_mention_date": "2026-08-30",
-    "last_mention_date": "2026-09-28",
+    "last_mention_date": "2026-09-29",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
       "negative": 0,
-      "unknown": 145
+      "unknown": 152
     },
     "top_sources": [
       {
@@ -31,7 +31,7 @@
       },
       {
         "source": "Springer",
-        "count": 8
+        "count": 9
       },
       {
         "source": "Substack",
@@ -100,8 +100,114 @@
       },
       {
         "week_start": "2026-09-28",
-        "count": 2,
-        "reach": 2
+        "count": 9,
+        "reach": 10
+      }
+    ]
+  },
+  {
+    "id": "snf-agora-institute",
+    "name": "SNF Agora Institute",
+    "kind": "org",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 91,
+    "mentions_in_digest": 31,
+    "reach_proxy": 196,
+    "first_mention_date": "2026-07-04",
+    "last_mention_date": "2026-09-28",
+    "sentiment": {
+      "positive": 21,
+      "neutral": 27,
+      "negative": 3,
+      "unknown": 40
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 30
+      },
+      {
+        "source": "LinkedIn",
+        "count": 14
+      },
+      {
+        "source": "Bluesky",
+        "count": 5
+      },
+      {
+        "source": "Youtube",
+        "count": 4
+      },
+      {
+        "source": "Medium",
+        "count": 3
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-13",
+        "count": 8,
+        "reach": 6
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 4,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 13,
+        "reach": 45
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 19,
+        "reach": 60
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 5,
+        "reach": 11
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 6,
+        "reach": 16
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 8,
+        "reach": 10
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 7,
+        "reach": 13
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 4,
+        "reach": 19
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 5,
+        "reach": 7
       }
     ]
   },
@@ -212,112 +318,6 @@
     ]
   },
   {
-    "id": "snf-agora-institute",
-    "name": "SNF Agora Institute",
-    "kind": "org",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 86,
-    "mentions_in_digest": 31,
-    "reach_proxy": 189,
-    "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-09-26",
-    "sentiment": {
-      "positive": 21,
-      "neutral": 27,
-      "negative": 3,
-      "unknown": 35
-    },
-    "top_sources": [
-      {
-        "source": "Twitter",
-        "count": 30
-      },
-      {
-        "source": "LinkedIn",
-        "count": 14
-      },
-      {
-        "source": "Bluesky",
-        "count": 5
-      },
-      {
-        "source": "Medium",
-        "count": 3
-      },
-      {
-        "source": "Youtube",
-        "count": 3
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-13",
-        "count": 8,
-        "reach": 6
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 4,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 13,
-        "reach": 45
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 19,
-        "reach": 60
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 5,
-        "reach": 11
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 6,
-        "reach": 16
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 8,
-        "reach": 10
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 7,
-        "reach": 13
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 4,
-        "reach": 19
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
     "id": "anne-applebaum",
     "name": "Anne Applebaum",
     "kind": "faculty",
@@ -329,21 +329,21 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 63,
+    "mentions_total": 64,
     "mentions_in_digest": 35,
-    "reach_proxy": 319,
+    "reach_proxy": 320,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-09-27",
+    "last_mention_date": "2026-09-28",
     "sentiment": {
       "positive": 10,
       "neutral": 13,
       "negative": 5,
-      "unknown": 35
+      "unknown": 36
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 10
+        "count": 11
       },
       {
         "source": "Substack",
@@ -420,8 +420,116 @@
       },
       {
         "week_start": "2026-09-28",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
+    "id": "henry-farrell",
+    "name": "Henry Farrell",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Institute Professor of International Affairs at SAIS",
+    "profile_url": "https://snfagora.jhu.edu/directory/henry-farrell/",
+    "photo_url": null,
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": true,
+    "mentions_total": 40,
+    "mentions_in_digest": 29,
+    "reach_proxy": 71,
+    "first_mention_date": "2026-07-04",
+    "last_mention_date": "2026-09-28",
+    "sentiment": {
+      "positive": 2,
+      "neutral": 13,
+      "negative": 0,
+      "unknown": 25
+    },
+    "top_sources": [
+      {
+        "source": "The New York Times",
+        "count": 6
+      },
+      {
+        "source": "Youtube",
+        "count": 6
+      },
+      {
+        "source": "Twitter",
+        "count": 3
+      },
+      {
+        "source": "Folha de S.Paulo",
+        "count": 2
+      },
+      {
+        "source": "Internazionale",
+        "count": 2
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-13",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 3,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 1,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 7,
+        "reach": 9
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 15,
+        "reach": 34
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 4,
+        "reach": 4
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 4,
+        "reach": 15
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 1,
+        "reach": 2
       }
     ]
   },
@@ -530,114 +638,6 @@
         "week_start": "2026-09-28",
         "count": 1,
         "reach": 1
-      }
-    ]
-  },
-  {
-    "id": "henry-farrell",
-    "name": "Henry Farrell",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Institute Professor of International Affairs at SAIS",
-    "profile_url": "https://snfagora.jhu.edu/directory/henry-farrell/",
-    "photo_url": null,
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": true,
-    "mentions_total": 39,
-    "mentions_in_digest": 28,
-    "reach_proxy": 69,
-    "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-09-27",
-    "sentiment": {
-      "positive": 2,
-      "neutral": 13,
-      "negative": 0,
-      "unknown": 24
-    },
-    "top_sources": [
-      {
-        "source": "The New York Times",
-        "count": 6
-      },
-      {
-        "source": "Youtube",
-        "count": 6
-      },
-      {
-        "source": "Twitter",
-        "count": 3
-      },
-      {
-        "source": "Folha de S.Paulo",
-        "count": 2
-      },
-      {
-        "source": "Internazionale",
-        "count": 2
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 3,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 1,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 7,
-        "reach": 9
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 15,
-        "reach": 34
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 4,
-        "reach": 4
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 4,
-        "reach": 15
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
       }
     ]
   },
@@ -1178,114 +1178,6 @@
     ]
   },
   {
-    "id": "louis-hyman",
-    "name": "Louis Hyman",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Dorothy Ross Professor of History",
-    "profile_url": "https://snfagora.jhu.edu/directory/louis-hyman/",
-    "photo_url": "images/people/louis-hyman.jpg",
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": true,
-    "mentions_total": 17,
-    "mentions_in_digest": 7,
-    "reach_proxy": 25,
-    "first_mention_date": "2026-07-10",
-    "last_mention_date": "2026-09-25",
-    "sentiment": {
-      "positive": 3,
-      "neutral": 5,
-      "negative": 0,
-      "unknown": 9
-    },
-    "top_sources": [
-      {
-        "source": "Twitter",
-        "count": 9
-      },
-      {
-        "source": "Baltimore Fishbowl",
-        "count": 1
-      },
-      {
-        "source": "Hub - Johns Hopkins University",
-        "count": 1
-      },
-      {
-        "source": "Indiecinema",
-        "count": 1
-      },
-      {
-        "source": "LinkedIn",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-13",
-        "count": 2,
-        "reach": 7
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 4
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 1,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
     "id": "lilliana-mason",
     "name": "Lilliana Mason",
     "kind": "faculty",
@@ -1297,16 +1189,16 @@
       "Core Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 16,
-    "mentions_in_digest": 10,
-    "reach_proxy": 50,
+    "mentions_total": 18,
+    "mentions_in_digest": 12,
+    "reach_proxy": 52,
     "first_mention_date": "2026-07-08",
-    "last_mention_date": "2026-09-14",
+    "last_mention_date": "2026-09-28",
     "sentiment": {
       "positive": 1,
-      "neutral": 4,
+      "neutral": 5,
       "negative": 0,
-      "unknown": 11
+      "unknown": 12
     },
     "top_sources": [
       {
@@ -1322,11 +1214,11 @@
         "count": 1
       },
       {
-        "source": "Indiecinema",
+        "source": "Heinrich Böll Foundation (calendar.boell.de)",
         "count": 1
       },
       {
-        "source": "MSN.com",
+        "source": "Indiecinema",
         "count": 1
       }
     ],
@@ -1388,8 +1280,116 @@
       },
       {
         "week_start": "2026-09-28",
+        "count": 2,
+        "reach": 2
+      }
+    ]
+  },
+  {
+    "id": "louis-hyman",
+    "name": "Louis Hyman",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Dorothy Ross Professor of History",
+    "profile_url": "https://snfagora.jhu.edu/directory/louis-hyman/",
+    "photo_url": "images/people/louis-hyman.jpg",
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": true,
+    "mentions_total": 18,
+    "mentions_in_digest": 8,
+    "reach_proxy": 26,
+    "first_mention_date": "2026-07-10",
+    "last_mention_date": "2026-09-28",
+    "sentiment": {
+      "positive": 4,
+      "neutral": 5,
+      "negative": 0,
+      "unknown": 9
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 9
+      },
+      {
+        "source": "LinkedIn",
+        "count": 2
+      },
+      {
+        "source": "Baltimore Fishbowl",
+        "count": 1
+      },
+      {
+        "source": "Hub - Johns Hopkins University",
+        "count": 1
+      },
+      {
+        "source": "Indiecinema",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-13",
+        "count": 2,
+        "reach": 7
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 1,
+        "reach": 4
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-08-10",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -1405,16 +1405,16 @@
       "Core Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 16,
-    "mentions_in_digest": 14,
-    "reach_proxy": 35,
+    "mentions_total": 18,
+    "mentions_in_digest": 16,
+    "reach_proxy": 37,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-09-25",
+    "last_mention_date": "2026-09-28",
     "sentiment": {
       "positive": 7,
       "neutral": 5,
       "negative": 0,
-      "unknown": 4
+      "unknown": 6
     },
     "top_sources": [
       {
@@ -1426,15 +1426,15 @@
         "count": 2
       },
       {
+        "source": "EndrTimes",
+        "count": 1
+      },
+      {
         "source": "JHU Hub",
         "count": 1
       },
       {
         "source": "Newsweek",
-        "count": 1
-      },
-      {
-        "source": "RealClearInvestigations",
         "count": 1
       }
     ],
@@ -1496,8 +1496,8 @@
       },
       {
         "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
+        "count": 2,
+        "reach": 2
       }
     ]
   },
@@ -4424,6 +4424,106 @@
     ]
   },
   {
+    "id": "nina-hall",
+    "name": "Nina Hall",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Assistant Professor in International Relations",
+    "profile_url": "https://snfagora.jhu.edu/directory/nina-hall/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 3,
+    "mentions_in_digest": 3,
+    "reach_proxy": 3,
+    "first_mention_date": "2026-08-04",
+    "last_mention_date": "2026-09-28",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Radio City Fujiko",
+        "count": 1
+      },
+      {
+        "source": "Substack (E-International Relations)",
+        "count": 1
+      },
+      {
+        "source": "Zero",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "ronald-j-daniels",
     "name": "Ronald J. Daniels",
     "kind": "unmatched",
@@ -5561,102 +5661,6 @@
         "week_start": "2026-09-21",
         "count": 0,
         "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "nina-hall",
-    "name": "Nina Hall",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Assistant Professor in International Relations",
-    "profile_url": "https://snfagora.jhu.edu/directory/nina-hall/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 2,
-    "mentions_in_digest": 2,
-    "reach_proxy": 2,
-    "first_mention_date": "2026-08-04",
-    "last_mention_date": "2026-09-25",
-    "sentiment": {
-      "positive": 1,
-      "neutral": 1,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [
-      {
-        "source": "Substack (E-International Relations)",
-        "count": 1
-      },
-      {
-        "source": "Zero",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 1,
-        "reach": 1
       },
       {
         "week_start": "2026-09-28",
