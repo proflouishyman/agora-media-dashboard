@@ -1,7 +1,1003 @@
 {
-  "generated_at": "2026-09-29T07:07:05-04:00",
-  "count": 936,
+  "generated_at": "2026-09-30T07:07:35-04:00",
+  "count": 975,
   "stories": [
+    {
+      "id": 946,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Hedge fund CEO Ken Griffin gives record $3B to Carnegie Mellon to build Miami campus",
+      "has_text": true,
+      "url": "https://www.independent.co.uk/news/miami-phil-knight-michael-bloomberg-construction-pittsburgh-b3058865.html",
+      "source": "The Independent",
+      "source_type": "online news",
+      "similar_mention_count": 136,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Hedge fund CEO Ken Griffin gives record $3B to Carnegie Mellon to build Miami campus https://www.independent.co.uk/news/miami-phil-knight-michael-bloomberg-construction-pittsburgh-b3058865.html",
+          "chars": 108
+        },
+        "bluesky": {
+          "text": "Hedge fund CEO Ken Griffin gives record $3B to Carnegie Mellon to build Miami campus https://www.independent.co.uk/news/miami-phil-knight-michael-bloomberg-construction-pittsburgh-b3058865.html",
+          "chars": 193
+        }
+      }
+    },
+    {
+      "id": 955,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Citadel's Griffin donates $3 billion to Carnegie Mellon with plans for Miami campus",
+      "has_text": true,
+      "url": "https://www.reuters.com/world/us/citadels-griffin-donates-3-billion-carnegie-mellon-with-plans-miami-campus-2026-09-30/",
+      "source": "Reuters",
+      "source_type": "online news",
+      "similar_mention_count": 43,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Citadel's Griffin donates $3 billion to Carnegie Mellon with plans for Miami campus https://www.reuters.com/world/us/citadels-griffin-donates-3-billion-carnegie-mellon-with-plans-miami-campus-2026-09-30/",
+          "chars": 107
+        },
+        "bluesky": {
+          "text": "Citadel's Griffin donates $3 billion to Carnegie Mellon with plans for Miami campus https://www.reuters.com/world/us/citadels-griffin-donates-3-billion-carnegie-mellon-with-plans-miami-campus-2026-09-30/",
+          "chars": 203
+        }
+      }
+    },
+    {
+      "id": 945,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "African contingent expands as flagship rejoins top 150 in Times Higher Education World University Rankings 2027",
+      "has_text": true,
+      "url": "https://www.africa-newsroom.com/press/african-contingent-expands-as-flagship-rejoins-top-150-in-times-higher-education-world-university-rankings-2027?lang=en",
+      "source": "Africa Newsroom",
+      "source_type": "online news",
+      "similar_mention_count": 30,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "African contingent expands as flagship rejoins top 150 in Times Higher Education World University Rankings 2027 https://www.africa-newsroom.com/press/african-contingent-expands-as-flagship-rejoins-top-150-in-times-higher-education-world-university-rankings-2027?lang=en",
+          "chars": 135
+        },
+        "bluesky": {
+          "text": "African contingent expands as flagship rejoins top 150 in Times Higher Education World University Rankings 2027 https://www.africa-newsroom.com/press/african-contingent-expands-as-flagship-rejoins-top-150-in-times-higher-education-world-university-rankings-2027?lang=en",
+          "chars": 269
+        }
+      }
+    },
+    {
+      "id": 952,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Hedge fund CEO Ken Griffin donates $3 billion to Carnegie Mellon as part of his bet on Florida",
+      "has_text": true,
+      "url": "https://www.cnn.com/2026/09/30/business/ken-griffin-carnegie-mellon-donation-miami",
+      "source": "CNN",
+      "source_type": "online news",
+      "similar_mention_count": 18,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Hedge fund CEO Ken Griffin donates $3 billion to Carnegie Mellon as part of his bet on Florida https://www.cnn.com/2026/09/30/business/ken-griffin-carnegie-mellon-donation-miami",
+          "chars": 118
+        },
+        "bluesky": {
+          "text": "Hedge fund CEO Ken Griffin donates $3 billion to Carnegie Mellon as part of his bet on Florida https://www.cnn.com/2026/09/30/business/ken-griffin-carnegie-mellon-donation-miami",
+          "chars": 177
+        }
+      }
+    },
+    {
+      "id": 950,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Donor Gives $3 Billion to Carnegie Mellon, the Largest University Gift Ever",
+      "has_text": true,
+      "url": "https://www.nytimes.com/2026/09/30/us/3-billion-donation-carnegie-mellon-largest-university-gift.html",
+      "source": "The New York Times",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Donor Gives $3 Billion to Carnegie Mellon, the Largest University Gift Ever https://www.nytimes.com/2026/09/30/us/3-billion-donation-carnegie-mellon-largest-university-gift.html",
+          "chars": 99
+        },
+        "bluesky": {
+          "text": "Donor Gives $3 Billion to Carnegie Mellon, the Largest University Gift Ever https://www.nytimes.com/2026/09/30/us/3-billion-donation-carnegie-mellon-largest-university-gift.html",
+          "chars": 177
+        }
+      }
+    },
+    {
+      "id": 965,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "UChicago Falls to No. 9 in 2027 U.S. News National Universities Ranking",
+      "has_text": true,
+      "url": "https://chicagomaroon.com/53794/news/uchicago-falls-to-no-9-in-2027-u-s-news-national-universities-ranking/",
+      "source": "The Chicago Maroon",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "UChicago Falls to No. 9 in 2027 U.S. News National Universities Ranking https://chicagomaroon.com/53794/news/uchicago-falls-to-no-9-in-2027-u-s-news-national-universities-ranking/",
+          "chars": 95
+        },
+        "bluesky": {
+          "text": "UChicago Falls to No. 9 in 2027 U.S. News National Universities Ranking https://chicagomaroon.com/53794/news/uchicago-falls-to-no-9-in-2027-u-s-news-national-universities-ranking/",
+          "chars": 179
+        }
+      }
+    },
+    {
+      "id": 964,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "A framework for institutional change in the age of AI",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1186/s40594-026-00649-4",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "A framework for institutional change in the age of AI https://link.springer.com/article/10.1186/s40594-026-00649-4",
+          "chars": 77
+        },
+        "bluesky": {
+          "text": "A framework for institutional change in the age of AI https://link.springer.com/article/10.1186/s40594-026-00649-4",
+          "chars": 114
+        }
+      }
+    },
+    {
+      "id": 963,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Industry 4.0 Technologies in Health Professions Education: A Scoping Review of Curriculum Innovation and Competency Development",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s40670-026-02906-1",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Industry 4.0 Technologies in Health Professions Education: A Scoping Review of Curriculum Innovation and Competency Development https://link.springer.com/article/10.1007/s40670-026-02906-1",
+          "chars": 151
+        },
+        "bluesky": {
+          "text": "Industry 4.0 Technologies in Health Professions Education: A Scoping Review of Curriculum Innovation and Competency Development https://link.springer.com/article/10.1007/s40670-026-02906-1",
+          "chars": 188
+        }
+      }
+    },
+    {
+      "id": 962,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "50 Universitas Terbaik di Dunia Versi THE WUR 2027, Ada 3 Kampus Asia di Top 15",
+      "has_text": true,
+      "url": "https://www.detik.com/edu/perguruan-tinggi/d-8685915/50-universitas-terbaik-di-dunia-versi-the-wur-2027-ada-3-kampus-asia-di-top-15",
+      "source": "Detik.com",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "50 Universitas Terbaik di Dunia Versi THE WUR 2027, Ada 3 Kampus Asia di Top 15 https://www.detik.com/edu/perguruan-tinggi/d-8685915/50-universitas-terbaik-di-dunia-versi-the-wur-2027-ada-3-kampus-asia-di-top-15",
+          "chars": 103
+        },
+        "bluesky": {
+          "text": "50 Universitas Terbaik di Dunia Versi THE WUR 2027, Ada 3 Kampus Asia di Top 15 https://www.detik.com/edu/perguruan-tinggi/d-8685915/50-universitas-terbaik-di-dunia-versi-the-wur-2027-ada-3-kampus-asia-di-top-15",
+          "chars": 211
+        }
+      }
+    },
+    {
+      "id": 961,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Carnegie Mellon to open Miami campus after multi-billion dollar gift from hedge fund CEO Ken Griffin",
+      "has_text": true,
+      "url": "https://www.post-gazette.com/news/education/2026/09/30/carnegie-mellon-miami-ken-griffin-billionaire-new-campus/stories/202609290061",
+      "source": "Pittsburgh Post-Gazette",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Carnegie Mellon to open Miami campus after multi-billion dollar gift from hedge fund CEO Ken Griffin https://www.post-gazette.com/news/education/2026/09/30/carnegie-mellon-miami-ken-griffin-billionaire-new-campus/stories/202609290061",
+          "chars": 124
+        },
+        "bluesky": {
+          "text": "Carnegie Mellon to open Miami campus after multi-billion dollar gift from hedge fund CEO Ken Griffin https://www.post-gazette.com/news/education/2026/09/30/carnegie-mellon-miami-ken-griffin-billionaire-new-campus/stories/202609290061",
+          "chars": 233
+        }
+      }
+    },
+    {
+      "id": 960,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "What is Carnegie Mellon? Inside the university’s big move into Miami",
+      "has_text": true,
+      "url": "https://www.miamiherald.com/news/local/education/article317412165.html",
+      "source": "Miami Herald",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "What is Carnegie Mellon? Inside the university’s big move into Miami https://www.miamiherald.com/news/local/education/article317412165.html",
+          "chars": 92
+        },
+        "bluesky": {
+          "text": "What is Carnegie Mellon? Inside the university’s big move into Miami https://www.miamiherald.com/news/local/education/article317412165.html",
+          "chars": 139
+        }
+      }
+    },
+    {
+      "id": 959,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Text-less MarketScreener item (no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "MarketScreener",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 958,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Lower cognitive test scores among adults in their 60s may signal higher future stroke risk",
+      "has_text": true,
+      "url": "https://medicalxpress.com/news/2026-09-cognitive-scores-adults-60s-higher.html",
+      "source": "Medical Xpress",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Lower cognitive test scores among adults in their 60s may signal higher future stroke risk https://medicalxpress.com/news/2026-09-cognitive-scores-adults-60s-higher.html",
+          "chars": 114
+        },
+        "bluesky": {
+          "text": "Lower cognitive test scores among adults in their 60s may signal higher future stroke risk https://medicalxpress.com/news/2026-09-cognitive-scores-adults-60s-higher.html",
+          "chars": 169
+        }
+      }
+    },
+    {
+      "id": 957,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "THE World University Rankings 2027: Oxford Retains No. 1 Spot For 11th Year; UK, US Dominate Top 30",
+      "has_text": true,
+      "url": "https://www.jagranjosh.com/news/the-world-university-rankings-2027-oxford-retains-no-1-spot-for-11th-year-uk-us-dominate-top-30-187944",
+      "source": "Jagran Josh",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "THE World University Rankings 2027: Oxford Retains No. 1 Spot For 11th Year; UK, US Dominate Top 30 https://www.jagranjosh.com/news/the-world-university-rankings-2027-oxford-retains-no-1-spot-for-11th-year-uk-us-dominate-top-30-187944",
+          "chars": 123
+        },
+        "bluesky": {
+          "text": "THE World University Rankings 2027: Oxford Retains No. 1 Spot For 11th Year; UK, US Dominate Top 30 https://www.jagranjosh.com/news/the-world-university-rankings-2027-oxford-retains-no-1-spot-for-11th-year-uk-us-dominate-top-30-187944",
+          "chars": 234
+        }
+      }
+    },
+    {
+      "id": 956,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "She fled war and became India's first female cardiologist: Dr S.I. Padmavati, who built the country's first cath lab and worked 12 hours a day to serve the poor",
+      "has_text": true,
+      "url": "https://www.moneycontrol.com/education/she-fled-war-and-became-india-s-first-female-cardiologist-dr-s-i-padmavati-who-built-the-country-s-first-cath-lab-and-worked-12-hours-a-day-to-serve-the-poor-article-14041861.html",
+      "source": "Moneycontrol.com",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "She fled war and became India's first female cardiologist: Dr S.I. Padmavati, who built the country's first cath lab and worked 12 hours a day to serve the poor https://www.moneycontrol.com/education/she-fled-war-and-became-india-s-first-female-cardiologist-dr-s-i-padmavati-who-built-the-country-s-first-cath-lab-and-worked-12-hours-a-day-to-serve-the-poor-article-14041861.html",
+          "chars": 184
+        },
+        "bluesky": {
+          "text": "She fled war and became India's first female cardiologist: Dr S.I. Padmavati, w… https://www.moneycontrol.com/education/she-fled-war-and-became-india-s-first-female-cardiologist-dr-s-i-padmavati-who-built-the-country-s-first-cath-lab-and-worked-12-hours-a-day-to-serve-the-poor-article-14041861.html",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 954,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "The 'Historic' $3 Billion Gift Is a Promise - and a Bet That Your Degree Is Obsolete",
+      "has_text": true,
+      "url": "https://www.ainvest.com/news/historic-3-billion-gift-promise-bet-degree-obsolete-2609/",
+      "source": "AInvest",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The 'Historic' $3 Billion Gift Is a Promise - and a Bet That Your Degree Is Obsolete https://www.ainvest.com/news/historic-3-billion-gift-promise-bet-degree-obsolete-2609/",
+          "chars": 108
+        },
+        "bluesky": {
+          "text": "The 'Historic' $3 Billion Gift Is a Promise - and a Bet That Your Degree Is Obsolete https://www.ainvest.com/news/historic-3-billion-gift-promise-bet-degree-obsolete-2609/",
+          "chars": 171
+        }
+      }
+    },
+    {
+      "id": 953,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Le 100 migliori università al mondo, la classifica 2027. Dov’è l’Italia?",
+      "has_text": true,
+      "url": "https://www.money.it/migliori-universita-al-mondo-classifica-2027",
+      "source": "Money.it",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Le 100 migliori università al mondo, la classifica 2027. Dov’è l’Italia? https://www.money.it/migliori-universita-al-mondo-classifica-2027",
+          "chars": 96
+        },
+        "bluesky": {
+          "text": "Le 100 migliori università al mondo, la classifica 2027. Dov’è l’Italia? https://www.money.it/migliori-universita-al-mondo-classifica-2027",
+          "chars": 138
+        }
+      }
+    },
+    {
+      "id": 951,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "CNN Bluesky post on Ken Griffin $3B Carnegie Mellon gift",
+      "has_text": true,
+      "url": "https://bsky.app/profile/cnn.com/post/3mwq3iuyvko2q",
+      "source": "Bluesky",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "CNN Bluesky post on Ken Griffin $3B Carnegie Mellon gift https://bsky.app/profile/cnn.com/post/3mwq3iuyvko2q",
+          "chars": 80
+        },
+        "bluesky": {
+          "text": "CNN Bluesky post on Ken Griffin $3B Carnegie Mellon gift https://bsky.app/profile/cnn.com/post/3mwq3iuyvko2q",
+          "chars": 108
+        }
+      }
+    },
+    {
+      "id": 949,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Ken Griffin Donates $3 Billion for New Carnegie Mellon Campus in Miami",
+      "has_text": true,
+      "url": "https://news.ssbcrack.com/ken-griffin-donates-3-billion-for-new-carnegie-mellon-campus-in-miami/",
+      "source": "SSBCrack News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Ken Griffin Donates $3 Billion for New Carnegie Mellon Campus in Miami https://news.ssbcrack.com/ken-griffin-donates-3-billion-for-new-carnegie-mellon-campus-in-miami/",
+          "chars": 94
+        },
+        "bluesky": {
+          "text": "Ken Griffin Donates $3 Billion for New Carnegie Mellon Campus in Miami https://news.ssbcrack.com/ken-griffin-donates-3-billion-for-new-carnegie-mellon-campus-in-miami/",
+          "chars": 167
+        }
+      }
+    },
+    {
+      "id": 948,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Carnegie Mellon University Receives Record $3 Billion Gift from Ken Griffin for New Miami Campus",
+      "has_text": true,
+      "url": "https://us.headtopics.com/news/carnegie-mellon-university-receives-record-3-billion-gift-88297922",
+      "source": "Head Topics",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Carnegie Mellon University Receives Record $3 Billion Gift from Ken Griffin for New Miami Campus https://us.headtopics.com/news/carnegie-mellon-university-receives-record-3-billion-gift-88297922",
+          "chars": 120
+        },
+        "bluesky": {
+          "text": "Carnegie Mellon University Receives Record $3 Billion Gift from Ken Griffin for New Miami Campus https://us.headtopics.com/news/carnegie-mellon-university-receives-record-3-billion-gift-88297922",
+          "chars": 194
+        }
+      }
+    },
+    {
+      "id": 947,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Hedge fund billionaire Ken Griffin gives record $3 billion to Carnegie Mellon",
+      "has_text": true,
+      "url": "https://www.billionaires.africa/2026/09/30/hedge-fund-billionaire-ken-griffin-gives-record-3-billion-to-carnegie-mellon/",
+      "source": "Billionaires.Africa",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Hedge fund billionaire Ken Griffin gives record $3 billion to Carnegie Mellon https://www.billionaires.africa/2026/09/30/hedge-fund-billionaire-ken-griffin-gives-record-3-billion-to-carnegie-mellon/",
+          "chars": 101
+        },
+        "bluesky": {
+          "text": "Hedge fund billionaire Ken Griffin gives record $3 billion to Carnegie Mellon https://www.billionaires.africa/2026/09/30/hedge-fund-billionaire-ken-griffin-gives-record-3-billion-to-carnegie-mellon/",
+          "chars": 198
+        }
+      }
+    },
+    {
+      "id": 983,
+      "date": "2026-09-29",
+      "week_start": "2026-09-28",
+      "person_id": "ruth-braunstein",
+      "person": "Ruth Braunstein",
+      "is_ces": false,
+      "title": "Bluesky post sharing The Contrarian's \"A Defining Moment of Religious Pluralism\" (PRRI / Meanings of Democracy Lab survey)",
+      "has_text": true,
+      "url": "https://bsky.app/profile/erbhedgehog.bsky.social/post/3mwnqfb4dzs26",
+      "source": "Bluesky",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Bluesky post sharing The Contrarian's \"A Defining Moment of Religious Pluralism\" (PRRI / Meanings of Democracy Lab survey) https://bsky.app/profile/erbhedgehog.bsky.social/post/3mwnqfb4dzs26",
+          "chars": 146
+        },
+        "bluesky": {
+          "text": "Bluesky post sharing The Contrarian's \"A Defining Moment of Religious Pluralism\" (PRRI / Meanings of Democracy Lab survey) https://bsky.app/profile/erbhedgehog.bsky.social/post/3mwnqfb4dzs26",
+          "chars": 190
+        }
+      }
+    },
+    {
+      "id": 982,
+      "date": "2026-09-29",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Text-less X/Twitter post (Johns Hopkins + NIH funding)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 981,
+      "date": "2026-09-29",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Prof Tyali named chair of Film and Publication Board",
+      "has_text": true,
+      "url": "https://za.headtopics.com/news/prof-tyali-named-chair-of-film-and-publication-board-88261612",
+      "source": "Head Topics",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Prof Tyali named chair of Film and Publication Board https://za.headtopics.com/news/prof-tyali-named-chair-of-film-and-publication-board-88261612",
+          "chars": 76
+        },
+        "bluesky": {
+          "text": "Prof Tyali named chair of Film and Publication Board https://za.headtopics.com/news/prof-tyali-named-chair-of-film-and-publication-board-88261612",
+          "chars": 145
+        }
+      }
+    },
+    {
+      "id": 980,
+      "date": "2026-09-29",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Ken Blackwell",
+      "has_text": true,
+      "url": "https://patriotpost.us/authors/ken-blackwell-48",
+      "source": "The Patriot Post",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Ken Blackwell https://patriotpost.us/authors/ken-blackwell-48",
+          "chars": 37
+        },
+        "bluesky": {
+          "text": "Ken Blackwell https://patriotpost.us/authors/ken-blackwell-48",
+          "chars": 61
+        }
+      }
+    },
+    {
+      "id": 979,
+      "date": "2026-09-29",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "AI, Entrepreneurship, and Community Impact",
+      "has_text": true,
+      "url": "https://www.blackengineer.com/news-2/ai-entrepreneurship-and-community-impact/",
+      "source": "US Black Engineer and Information Technology Magazine",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "AI, Entrepreneurship, and Community Impact https://www.blackengineer.com/news-2/ai-entrepreneurship-and-community-impact/",
+          "chars": 66
+        },
+        "bluesky": {
+          "text": "AI, Entrepreneurship, and Community Impact https://www.blackengineer.com/news-2/ai-entrepreneurship-and-community-impact/",
+          "chars": 121
+        }
+      }
+    },
+    {
+      "id": 978,
+      "date": "2026-09-29",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Tenure-Track Faculty 2026-2027",
+      "has_text": true,
+      "url": "https://jobs.world.edu/jobs/tenure-track-faculty-2026-2027/",
+      "source": "World",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Tenure-Track Faculty 2026-2027 https://jobs.world.edu/jobs/tenure-track-faculty-2026-2027/",
+          "chars": 54
+        },
+        "bluesky": {
+          "text": "Tenure-Track Faculty 2026-2027 https://jobs.world.edu/jobs/tenure-track-faculty-2026-2027/",
+          "chars": 90
+        }
+      }
+    },
+    {
+      "id": 977,
+      "date": "2026-09-29",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "From The University of Arizona: [Evolutionary Biology/Paleobiology] ‘Capybaras in the desert? Fossil casts doubt on Atacama as world’s oldest continuously dry region’",
+      "has_text": true,
+      "url": "https://sciencesprings.wordpress.com/2026/09/29/from-the-university-of-arizona-evolutionary-biology-paleobiology-capybaras-in-the-desert-fossil-casts-doubt-on-atacama-as-worlds-oldest-continuously-dry-region/",
+      "source": "wordpress.com",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "From The University of Arizona: [Evolutionary Biology/Paleobiology] ‘Capybaras in the desert? Fossil casts doubt on Atacama as world’s oldest continuously dry region’ https://sciencesprings.wordpress.com/2026/09/29/from-the-university-of-arizona-evolutionary-biology-paleobiology-capybaras-in-the-desert-fossil-casts-doubt-on-atacama-as-worlds-oldest-continuously-dry-region/",
+          "chars": 190
+        },
+        "bluesky": {
+          "text": "From The University of Arizona: [Evolutionary Biology/Paleobiology] ‘Capybaras in the des… https://sciencesprings.wordpress.com/2026/09/29/from-the-university-of-arizona-evolutionary-biology-paleobiology-capybaras-in-the-desert-fossil-casts-doubt-on-atacama-as-worlds-oldest-continuously-dry-region/",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 976,
+      "date": "2026-09-29",
+      "week_start": "2026-09-28",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Time sem trincheira nunca ganha Guerra",
+      "has_text": true,
+      "url": "https://medium.com/@ph_fernandes_souza/time-sem-trincheira-nunca-ganha-guerra-5bd6eedb50a2",
+      "source": "Medium",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Time sem trincheira nunca ganha Guerra https://medium.com/@ph_fernandes_souza/time-sem-trincheira-nunca-ganha-guerra-5bd6eedb50a2",
+          "chars": 62
+        },
+        "bluesky": {
+          "text": "Time sem trincheira nunca ganha Guerra https://medium.com/@ph_fernandes_souza/time-sem-trincheira-nunca-ganha-guerra-5bd6eedb50a2",
+          "chars": 129
+        }
+      }
+    },
+    {
+      "id": 975,
+      "date": "2026-09-29",
+      "week_start": "2026-09-28",
+      "person_id": "leah-wright",
+      "person": "Leah Wright",
+      "is_ces": false,
+      "title": "Democracy Under Pressure Series — Race, the Ballot, and the Fight for Democracy",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=AScvt6Eyods",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Democracy Under Pressure Series — Race, the Ballot, and the Fight for Democracy https://www.youtube.com/watch?v=AScvt6Eyods",
+          "chars": 103
+        },
+        "bluesky": {
+          "text": "Democracy Under Pressure Series — Race, the Ballot, and the Fight for Democracy https://www.youtube.com/watch?v=AScvt6Eyods",
+          "chars": 123
+        }
+      }
+    },
+    {
+      "id": 974,
+      "date": "2026-09-29",
+      "week_start": "2026-09-28",
+      "person_id": "johnnie-moore",
+      "person": "Johnnie Moore",
+      "is_ces": false,
+      "title": "Pepperdine University Hosts Sixth Annual Human-Centered AI Conference",
+      "has_text": true,
+      "url": "https://www.pepperdine.edu/newsroom/articles/pepperdine-university-hosts-sixth-annual-human-centered-ai-conference.htm",
+      "source": "Pepperdine University",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Pepperdine University Hosts Sixth Annual Human-Centered AI Conference https://www.pepperdine.edu/newsroom/articles/pepperdine-university-hosts-sixth-annual-human-centered-ai-conference.htm",
+          "chars": 93
+        },
+        "bluesky": {
+          "text": "Pepperdine University Hosts Sixth Annual Human-Centered AI Conference https://www.pepperdine.edu/newsroom/articles/pepperdine-university-hosts-sixth-annual-human-centered-ai-conference.htm",
+          "chars": 188
+        }
+      }
+    },
+    {
+      "id": 973,
+      "date": "2026-09-29",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Virtual reality-assisted psychological treatment of aggression for violent offenders: a pilot descriptive case series in maximum-security forensic psychiatry",
+      "has_text": true,
+      "url": "https://www.frontiersin.org/journals/health-services/articles/10.3389/frhs.2026.1920018/full",
+      "source": "Frontiers",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Virtual reality-assisted psychological treatment of aggression for violent offenders: a pilot descriptive case series in maximum-security forensic psychiatry https://www.frontiersin.org/journals/health-services/articles/10.3389/frhs.2026.1920018/full",
+          "chars": 181
+        },
+        "bluesky": {
+          "text": "Virtual reality-assisted psychological treatment of aggression for violent offenders: a pilot descriptive case series in maximum-security forensic psychiatry https://www.frontiersin.org/journals/health-services/articles/10.3389/frhs.2026.1920018/full",
+          "chars": 250
+        }
+      }
+    },
+    {
+      "id": 972,
+      "date": "2026-09-29",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Green Industrialization, Productive Transformation, and Economic Sovereignty",
+      "has_text": true,
+      "url": "https://cebri.org/revista/en/artigo/291/green-industrialization-productive-transformation-and-economic-sovereignty",
+      "source": "Cebri",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Green Industrialization, Productive Transformation, and Economic Sovereignty https://cebri.org/revista/en/artigo/291/green-industrialization-productive-transformation-and-economic-sovereignty",
+          "chars": 100
+        },
+        "bluesky": {
+          "text": "Green Industrialization, Productive Transformation, and Economic Sovereignty https://cebri.org/revista/en/artigo/291/green-industrialization-productive-transformation-and-economic-sovereignty",
+          "chars": 191
+        }
+      }
+    },
+    {
+      "id": 971,
+      "date": "2026-09-29",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Industrialização verde, transformação produtiva e soberania econômica",
+      "has_text": true,
+      "url": "https://cebri.org/revista/br/artigo/291/industrializacao-verde-transformacao-produtiva-e-soberania-economica",
+      "source": "Cebri",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Industrialização verde, transformação produtiva e soberania econômica https://cebri.org/revista/br/artigo/291/industrializacao-verde-transformacao-produtiva-e-soberania-economica",
+          "chars": 93
+        },
+        "bluesky": {
+          "text": "Industrialização verde, transformação produtiva e soberania econômica https://cebri.org/revista/br/artigo/291/industrializacao-verde-transformacao-produtiva-e-soberania-economica",
+          "chars": 178
+        }
+      }
+    },
+    {
+      "id": 970,
+      "date": "2026-09-29",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "TECH Global University has international teaching staff that positions it as the online Harvard",
+      "has_text": true,
+      "url": "https://manilastandard.net/tech/tech-news/314791275/tech-global-university-has-an-international-teaching-staff-that-positions-it-as-the-online-harvard.html",
+      "source": "Manila Standard",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "TECH Global University has international teaching staff that positions it as the online Harvard https://manilastandard.net/tech/tech-news/314791275/tech-global-university-has-an-international-teaching-staff-that-positions-it-as-the-online-harvard.html",
+          "chars": 119
+        },
+        "bluesky": {
+          "text": "TECH Global University has international teaching staff that positions it as the online Harvard https://manilastandard.net/tech/tech-news/314791275/tech-global-university-has-an-international-teaching-staff-that-positions-it-as-the-online-harvard.html",
+          "chars": 251
+        }
+      }
+    },
+    {
+      "id": 969,
+      "date": "2026-09-29",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Webinar: The History and Future of Education",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=abKv1xzZKeE",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Webinar: The History and Future of Education https://www.youtube.com/watch?v=abKv1xzZKeE",
+          "chars": 68
+        },
+        "bluesky": {
+          "text": "Webinar: The History and Future of Education https://www.youtube.com/watch?v=abKv1xzZKeE",
+          "chars": 88
+        }
+      }
+    },
+    {
+      "id": 968,
+      "date": "2026-09-29",
+      "week_start": "2026-09-28",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "O último baile de Sergio Llull en Sar fronte ao Monbus Obradoiro?",
+      "has_text": true,
+      "url": "https://galego.lavozdegalicia.es/noticia/andarmiudino/2026/09/29/ultimo-baile-sergio-llull-sar-frente-monbus-obradoiro/00031790704232195884375.htm",
+      "source": "La Voz de Galicia",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "O último baile de Sergio Llull en Sar fronte ao Monbus Obradoiro? https://galego.lavozdegalicia.es/noticia/andarmiudino/2026/09/29/ultimo-baile-sergio-llull-sar-frente-monbus-obradoiro/00031790704232195884375.htm",
+          "chars": 89
+        },
+        "bluesky": {
+          "text": "O último baile de Sergio Llull en Sar fronte ao Monbus Obradoiro? https://galego.lavozdegalicia.es/noticia/andarmiudino/2026/09/29/ultimo-baile-sergio-llull-sar-frente-monbus-obradoiro/00031790704232195884375.htm",
+          "chars": 212
+        }
+      }
+    },
+    {
+      "id": 967,
+      "date": "2026-09-29",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Psilocybin on the market in Australia, acquire Psilocybin in Australia, Purchase Psilocybin in Australia, Order Psilocybin in Australia, Shop Psilocybin in Australia.",
+      "has_text": true,
+      "url": "https://owning-in-the-setting-of226696.digiblogbox.com/67629380/psilocybin-on-the-market-in-australia-acquire-psilocybin-in-australia-purchase-psilocybin-in-australia-order-psilocybin-in-australia-shop-psilocybin-in-australia",
+      "source": "Takemyclass61594 Blog",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Psilocybin on the market in Australia, acquire Psilocybin in Australia, Purchase Psilocybin in Australia, Order Psilocybin in Australia, Shop Psilocybin in Australia. https://owning-in-the-setting-of226696.digiblogbox.com/67629380/psilocybin-on-the-market-in-australia-acquire-psilocybin-in-australia-purchase-psilocybin-in-australia-order-psilocybin-in-australia-shop-psilocybin-in-australia",
+          "chars": 190
+        },
+        "bluesky": {
+          "text": "Psilocybin on the market in Australia, acquire Psilocybin in Australia, … https://owning-in-the-setting-of226696.digiblogbox.com/67629380/psilocybin-on-the-market-in-australia-acquire-psilocybin-in-australia-purchase-psilocybin-in-australia-order-psilocybin-in-australia-shop-psilocybin-in-australia",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 966,
+      "date": "2026-09-29",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Top 10 US Cities with the Best Public Schools in 2026 & 2027",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=mMNAtb6oHnc",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Top 10 US Cities with the Best Public Schools in 2026 & 2027 https://www.youtube.com/watch?v=mMNAtb6oHnc",
+          "chars": 84
+        },
+        "bluesky": {
+          "text": "Top 10 US Cities with the Best Public Schools in 2026 & 2027 https://www.youtube.com/watch?v=mMNAtb6oHnc",
+          "chars": 104
+        }
+      }
+    },
     {
       "id": 934,
       "date": "2026-09-29",

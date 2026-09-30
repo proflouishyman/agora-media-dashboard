@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-29T07:07:05-04:00",
+  "generated_at": "2026-09-30T07:07:35-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-09-29"
+    "end": "2026-09-30"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 936,
-        "in_digest": 295,
-        "reach_proxy": 3434,
+        "mentions": 975,
+        "in_digest": 298,
+        "reach_proxy": 3697,
         "people_covered": 98,
         "people_tracked": 100,
-        "sources": 428,
+        "sources": 447,
         "negative": 11
       },
       "deltas": {
@@ -663,8 +663,15 @@
         },
         {
           "date": "2026-09-29",
-          "count": 1,
-          "reach": 1,
+          "count": 19,
+          "reach": 19,
+          "in_digest": 3,
+          "observed": true
+        },
+        {
+          "date": "2026-09-30",
+          "count": 21,
+          "reach": 245,
           "in_digest": 0,
           "observed": true
         }
@@ -841,37 +848,37 @@
         },
         {
           "week_start": "2026-09-28",
-          "count": 24,
-          "reach": 28,
-          "in_digest": 8,
-          "people": 10,
+          "count": 63,
+          "reach": 291,
+          "in_digest": 11,
+          "people": 12,
           "sentiment": {
-            "positive": 1,
+            "positive": 3,
             "neutral": 2,
             "negative": 0,
-            "unknown": 21
+            "unknown": 58
           }
         }
       ],
       "sentiment": {
-        "positive": 94,
+        "positive": 96,
         "neutral": 163,
         "negative": 11,
-        "unknown": 668
+        "unknown": 705
       },
       "top_people": [
         {
           "person_id": "johns-hopkins",
           "name": "Johns Hopkins",
-          "count": 152,
-          "reach": 1200,
+          "count": 186,
+          "reach": 1458,
           "is_ces": false
         },
         {
           "person_id": "snf-agora-institute",
           "name": "SNF Agora Institute",
-          "count": 91,
-          "reach": 196,
+          "count": 93,
+          "reach": 198,
           "is_ces": false
         },
         {
@@ -934,14 +941,14 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 164,
-          "reach": 1305,
+          "count": 165,
+          "reach": 1306,
           "is_other": false
         },
         {
           "source": "Youtube",
-          "count": 48,
-          "reach": 45,
+          "count": 51,
+          "reach": 48,
           "is_other": false
         },
         {
@@ -952,8 +959,8 @@
         },
         {
           "source": "Springer",
-          "count": 26,
-          "reach": 26,
+          "count": 28,
+          "reach": 28,
           "is_other": false
         },
         {
@@ -963,46 +970,46 @@
           "is_other": false
         },
         {
+          "source": "Bluesky",
+          "count": 24,
+          "reach": 35,
+          "is_other": false
+        },
+        {
           "source": "YouTube",
           "count": 24,
           "reach": 24,
           "is_other": false
         },
         {
-          "source": "Bluesky",
-          "count": 22,
-          "reach": 33,
-          "is_other": false
-        },
-        {
           "source": "The New York Times",
-          "count": 14,
-          "reach": 39,
+          "count": 15,
+          "reach": 41,
           "is_other": false
         },
         {
           "source": "Other",
-          "count": 582,
-          "reach": 1905,
+          "count": 612,
+          "reach": 2158,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 482
+          "count": 513
         },
         {
           "source_type": "social network",
-          "count": 175
+          "count": 180
         },
         {
           "source_type": "blog",
-          "count": 37
+          "count": 38
         },
         {
           "source_type": "unresolved",
-          "count": 242
+          "count": 244
         }
       ],
       "negative_stories": [
@@ -1026,8 +1033,8 @@
           "positive": 0,
           "neutral": 0,
           "negative": 0,
-          "unknown": 152,
-          "total": 152
+          "unknown": 186,
+          "total": 186
         },
         {
           "row_label": "SNF Agora Institute",
@@ -1036,8 +1043,8 @@
           "positive": 21,
           "neutral": 27,
           "negative": 3,
-          "unknown": 40,
-          "total": 91
+          "unknown": 42,
+          "total": 93
         },
         {
           "row_label": "unknown",
@@ -1130,6 +1137,16 @@
           "total": 21
         },
         {
+          "row_label": "Ruth Braunstein",
+          "person_id": "ruth-braunstein",
+          "is_ces": false,
+          "positive": 7,
+          "neutral": 5,
+          "negative": 0,
+          "unknown": 7,
+          "total": 19
+        },
+        {
           "row_label": "Lilliana Mason",
           "person_id": "lilliana-mason",
           "is_ces": false,
@@ -1147,16 +1164,6 @@
           "neutral": 5,
           "negative": 0,
           "unknown": 9,
-          "total": 18
-        },
-        {
-          "row_label": "Ruth Braunstein",
-          "person_id": "ruth-braunstein",
-          "is_ces": false,
-          "positive": 7,
-          "neutral": 5,
-          "negative": 0,
-          "unknown": 6,
           "total": 18
         },
         {
@@ -1250,6 +1257,16 @@
           "total": 8
         },
         {
+          "row_label": "Leah Wright",
+          "person_id": "leah-wright",
+          "is_ces": false,
+          "positive": 2,
+          "neutral": 2,
+          "negative": 0,
+          "unknown": 4,
+          "total": 8
+        },
+        {
           "row_label": "Amy Binder",
           "person_id": "amy-binder",
           "is_ces": false,
@@ -1257,16 +1274,6 @@
           "neutral": 2,
           "negative": 0,
           "unknown": 5,
-          "total": 7
-        },
-        {
-          "row_label": "Leah Wright",
-          "person_id": "leah-wright",
-          "is_ces": false,
-          "positive": 1,
-          "neutral": 2,
-          "negative": 0,
-          "unknown": 4,
           "total": 7
         },
         {
@@ -1420,6 +1427,16 @@
           "total": 3
         },
         {
+          "row_label": "Johnnie Moore",
+          "person_id": "johnnie-moore",
+          "is_ces": false,
+          "positive": 1,
+          "neutral": 2,
+          "negative": 0,
+          "unknown": 0,
+          "total": 3
+        },
+        {
           "row_label": "Ling Chen",
           "person_id": "ling-chen",
           "is_ces": false,
@@ -1527,16 +1544,6 @@
           "neutral": 0,
           "negative": 0,
           "unknown": 2,
-          "total": 2
-        },
-        {
-          "row_label": "Johnnie Moore",
-          "person_id": "johnnie-moore",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 2,
-          "negative": 0,
-          "unknown": 0,
           "total": 2
         },
         {
@@ -2003,35 +2010,35 @@
       "source_type_sentiment_crosstab": [
         {
           "row_label": "online news",
-          "positive": 31,
+          "positive": 32,
           "neutral": 104,
           "negative": 2,
-          "unknown": 345,
-          "total": 482
+          "unknown": 375,
+          "total": 513
         },
         {
           "row_label": "social network",
-          "positive": 35,
+          "positive": 36,
           "neutral": 41,
           "negative": 1,
-          "unknown": 98,
-          "total": 175
+          "unknown": 102,
+          "total": 180
         },
         {
           "row_label": "blog",
           "positive": 6,
           "neutral": 7,
           "negative": 0,
-          "unknown": 24,
-          "total": 37
+          "unknown": 25,
+          "total": 38
         },
         {
           "row_label": "unresolved",
           "positive": 22,
           "neutral": 11,
           "negative": 8,
-          "unknown": 201,
-          "total": 242
+          "unknown": 203,
+          "total": 244
         }
       ],
       "sentiment_examples": {
@@ -2193,6 +2200,26 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 975,
+              "person": "Leah Wright",
+              "person_id": "leah-wright",
+              "is_ces": false,
+              "title": "Democracy Under Pressure Series — Race, the Ballot, and the Fight for Democracy",
+              "url": "https://www.youtube.com/watch?v=AScvt6Eyods",
+              "source": "Youtube",
+              "date": "2026-09-29"
+            },
+            {
+              "id": 974,
+              "person": "Johnnie Moore",
+              "person_id": "johnnie-moore",
+              "is_ces": false,
+              "title": "Pepperdine University Hosts Sixth Annual Human-Centered AI Conference",
+              "url": "https://www.pepperdine.edu/newsroom/articles/pepperdine-university-hosts-sixth-annual-human-centered-ai-conference.htm",
+              "source": "Pepperdine University",
+              "date": "2026-09-29"
+            },
             {
               "id": 928,
               "person": "Louis Hyman",
@@ -3152,8 +3179,16 @@
               "count": 6
             },
             {
+              "keyphrase": "author",
+              "count": 5
+            },
+            {
               "keyphrase": "civil dialogue",
               "count": 5
+            },
+            {
+              "keyphrase": "director",
+              "count": 4
             },
             {
               "keyphrase": "community",
@@ -3165,14 +3200,6 @@
             },
             {
               "keyphrase": "campus",
-              "count": 4
-            },
-            {
-              "keyphrase": "faculty",
-              "count": 4
-            },
-            {
-              "keyphrase": "research",
               "count": 4
             }
           ]
@@ -3837,6 +3864,13 @@
         },
         {
           "date": "2026-09-29",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
+          "observed": true
+        },
+        {
+          "date": "2026-09-30",
           "count": 0,
           "reach": 0,
           "in_digest": 0,
