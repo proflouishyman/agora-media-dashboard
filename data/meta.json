@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-29T07:07:05-04:00",
-  "generated_date": "2026-09-29",
+  "generated_at": "2026-09-30T07:07:35-04:00",
+  "generated_date": "2026-09-30",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-09-29",
+    "last_mention_date": "2026-09-30",
     "observed_dates": [
       "2026-07-02",
       "2026-07-03",
@@ -94,10 +94,11 @@
       "2026-09-26",
       "2026-09-27",
       "2026-09-28",
-      "2026-09-29"
+      "2026-09-29",
+      "2026-09-30"
     ],
-    "total_mentions": 936,
-    "total_raw_documents": 4225,
+    "total_mentions": 975,
+    "total_raw_documents": 4488,
     "total_tracked_people": 100,
     "total_ces_people": 17
   },
@@ -105,7 +106,7 @@
     "all": {
       "label": "SNF Agora Institute",
       "people": 100,
-      "mentions": 936
+      "mentions": 975
     },
     "ces": {
       "label": "Center on Economy and Society",
@@ -114,14 +115,14 @@
     }
   },
   "data_quality": {
-    "mentions_missing_url": 207,
+    "mentions_missing_url": 209,
     "mentions_no_text_captured": 89,
-    "mentions_sentiment_unknown": 668,
-    "mentions_shareable": 710,
+    "mentions_sentiment_unknown": 705,
+    "mentions_shareable": 747,
     "unmatched_persons": [
       {
         "person": "Johns Hopkins",
-        "mentions": 152
+        "mentions": 186
       },
       {
         "person": "unknown",
@@ -168,6 +169,10 @@
         "mentions": 4
       },
       {
+        "person": "Johnnie Moore",
+        "mentions": 3
+      },
+      {
         "person": "Namesake/noise match: Johns Hopkins, agora",
         "mentions": 3
       },
@@ -185,10 +190,6 @@
       },
       {
         "person": "James Loeffler (not tracked)",
-        "mentions": 2
-      },
-      {
-        "person": "Johnnie Moore",
         "mentions": 2
       },
       {
