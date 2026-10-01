@@ -1,7 +1,266 @@
 {
-  "generated_at": "2026-09-30T07:07:35-04:00",
-  "count": 975,
+  "generated_at": "2026-10-01T07:07:36-04:00",
+  "count": 1034,
   "stories": [
+    {
+      "id": 995,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "mara-karlin",
+      "person": "Mara Karlin",
+      "is_ces": false,
+      "title": "Come sopravvivono le alleanze, di K. M. Campbell e Rush Doshi",
+      "has_text": true,
+      "url": "https://italiaeilmondo.com/2026/10/01/come-sopravvivono-le-alleanze-di-k-m-campbell-e-rush-doshi/",
+      "source": "L'Italia e il Mondo",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Come sopravvivono le alleanze, di K. M. Campbell e Rush Doshi https://italiaeilmondo.com/2026/10/01/come-sopravvivono-le-alleanze-di-k-m-campbell-e-rush-doshi/",
+          "chars": 85
+        },
+        "bluesky": {
+          "text": "Come sopravvivono le alleanze, di K. M. Campbell e Rush Doshi https://italiaeilmondo.com/2026/10/01/come-sopravvivono-le-alleanze-di-k-m-campbell-e-rush-doshi/",
+          "chars": 159
+        }
+      }
+    },
+    {
+      "id": 993,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "peter-pomerantsev",
+      "person": "Peter Pomerantsev",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 992,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "U.S. Universities Slip Again in THE World University Rankings",
+      "has_text": true,
+      "url": "https://www.insidehighered.com/news/institutions/research-universities/2026/10/01/us-universities-slip-again-world-university",
+      "source": "Inside Higher Ed",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "U.S. Universities Slip Again in THE World University Rankings https://www.insidehighered.com/news/institutions/research-universities/2026/10/01/us-universities-slip-again-world-university",
+          "chars": 85
+        },
+        "bluesky": {
+          "text": "U.S. Universities Slip Again in THE World University Rankings https://www.insidehighered.com/news/institutions/research-universities/2026/10/01/us-universities-slip-again-world-university",
+          "chars": 187
+        }
+      }
+    },
+    {
+      "id": 991,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Transformaciones de la educación superior en Perú (1983-2024): lógicas de institucionalismo, autocracia y mercado",
+      "has_text": true,
+      "url": "https://www.ries.universia.unam.mx/index.php/ries/article/view/2199",
+      "source": "Revista Iberoamericana de Educación Superior (RIES)",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Transformaciones de la educación superior en Perú (1983-2024): lógicas de institucionalismo, autocracia y mercado https://www.ries.universia.unam.mx/index.php/ries/article/view/2199",
+          "chars": 137
+        },
+        "bluesky": {
+          "text": "Transformaciones de la educación superior en Perú (1983-2024): lógicas de institucionalismo, autocracia y mercado https://www.ries.universia.unam.mx/index.php/ries/article/view/2199",
+          "chars": 181
+        }
+      }
+    },
+    {
+      "id": 990,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Revolution in Higher Education: How a Small Band of Innovators Will Make College Accessible and",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=1ynSeuEfiHI",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Revolution in Higher Education: How a Small Band of Innovators Will Make College Accessible and https://www.youtube.com/watch?v=1ynSeuEfiHI",
+          "chars": 119
+        },
+        "bluesky": {
+          "text": "Revolution in Higher Education: How a Small Band of Innovators Will Make College Accessible and https://www.youtube.com/watch?v=1ynSeuEfiHI",
+          "chars": 139
+        }
+      }
+    },
+    {
+      "id": 989,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "69 Master’s and PhD Scholarships and Fellowships You Can Apply for Now – October 1, 2026",
+      "has_text": true,
+      "url": "https://opportunitydesk.org/2026/10/01/69-masters-phd-scholarships-and-fellowships-you-can-apply-for-now-october-1-2026/",
+      "source": "Opportunity Desk",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "69 Master’s and PhD Scholarships and Fellowships You Can Apply for Now – October 1, 2026 https://opportunitydesk.org/2026/10/01/69-masters-phd-scholarships-and-fellowships-you-can-apply-for-now-october-1-2026/",
+          "chars": 112
+        },
+        "bluesky": {
+          "text": "69 Master’s and PhD Scholarships and Fellowships You Can Apply for Now – October 1, 2026 https://opportunitydesk.org/2026/10/01/69-masters-phd-scholarships-and-fellowships-you-can-apply-for-now-october-1-2026/",
+          "chars": 209
+        }
+      }
+    },
+    {
+      "id": 988,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "HUST alumnus admitted to Phd programs at nine US universities",
+      "has_text": true,
+      "url": "https://vietnamnet.vn/en/hust-alumnus-admitted-to-phd-programs-at-nine-us-universities-2558348.html",
+      "source": "VietNamNet",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "HUST alumnus admitted to Phd programs at nine US universities https://vietnamnet.vn/en/hust-alumnus-admitted-to-phd-programs-at-nine-us-universities-2558348.html",
+          "chars": 85
+        },
+        "bluesky": {
+          "text": "HUST alumnus admitted to Phd programs at nine US universities https://vietnamnet.vn/en/hust-alumnus-admitted-to-phd-programs-at-nine-us-universities-2558348.html",
+          "chars": 161
+        }
+      }
+    },
+    {
+      "id": 987,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Beyond the Demographic Cliff: Structural Reconstruction and Institutional Transformation in East Asian Higher Education",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1057/s41307-026-00493-9",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Beyond the Demographic Cliff: Structural Reconstruction and Institutional Transformation in East Asian Higher Education https://link.springer.com/article/10.1057/s41307-026-00493-9",
+          "chars": 143
+        },
+        "bluesky": {
+          "text": "Beyond the Demographic Cliff: Structural Reconstruction and Institutional Transformation in East Asian Higher Education https://link.springer.com/article/10.1057/s41307-026-00493-9",
+          "chars": 180
+        }
+      }
+    },
+    {
+      "id": 986,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "EUA confirmam 5ª morte por sarampo este ano; entenda como queda na vacinação levou país ao pior surto em décadas",
+      "has_text": true,
+      "url": "https://www.radiolitoralfm.com.br/news/viewAuto/eua-confirmam-5-morte-por-sarampo-este-ano-entenda-como-queda-na-vacinacao-levou-pais-ao-pior-surto-em-decadas",
+      "source": "Rádio Litoral FM",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "EUA confirmam 5ª morte por sarampo este ano; entenda como queda na vacinação levou país ao pior surto em décadas https://www.radiolitoralfm.com.br/news/viewAuto/eua-confirmam-5-morte-por-sarampo-este-ano-entenda-como-queda-na-vacinacao-levou-pais-ao-pior-surto-em-decadas",
+          "chars": 136
+        },
+        "bluesky": {
+          "text": "EUA confirmam 5ª morte por sarampo este ano; entenda como queda na vacinação levou país ao pior surto em décadas https://www.radiolitoralfm.com.br/news/viewAuto/eua-confirmam-5-morte-por-sarampo-este-ano-entenda-como-queda-na-vacinacao-levou-pais-ao-pior-surto-em-decadas",
+          "chars": 271
+        }
+      }
+    },
+    {
+      "id": 985,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter quote)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 984,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter repost)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
     {
       "id": 946,
       "date": "2026-09-30",
@@ -25,6 +284,32 @@
         "bluesky": {
           "text": "Hedge fund CEO Ken Griffin gives record $3B to Carnegie Mellon to build Miami campus https://www.independent.co.uk/news/miami-phil-knight-michael-bloomberg-construction-pittsburgh-b3058865.html",
           "chars": 193
+        }
+      }
+    },
+    {
+      "id": 994,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Hedge fund CEO gives record $3B to Pa. college to add Miami campus",
+      "has_text": true,
+      "url": "https://www.pennlive.com/education/2026/09/hedge-fund-ceo-gives-record-3b-to-pa-college-to-add-miami-campus.html",
+      "source": "PennLive.com",
+      "source_type": "online news",
+      "similar_mention_count": 63,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Hedge fund CEO gives record $3B to Pa. college to add Miami campus https://www.pennlive.com/education/2026/09/hedge-fund-ceo-gives-record-3b-to-pa-college-to-add-miami-campus.html",
+          "chars": 90
+        },
+        "bluesky": {
+          "text": "Hedge fund CEO gives record $3B to Pa. college to add Miami campus https://www.pennlive.com/education/2026/09/hedge-fund-ceo-gives-record-3b-to-pa-college-to-add-miami-campus.html",
+          "chars": 179
         }
       }
     },
@@ -107,6 +392,188 @@
       }
     },
     {
+      "id": 1021,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "US$ 3 bi: CEO da Citadel anuncia maior doação da história do ensino superior dos EUA",
+      "has_text": true,
+      "url": "https://www.infomoney.com.br/business/global/us-3-bi-ceo-da-citadel-anuncia-maior-doacao-da-historia-do-ensino-superior-dos-eua/",
+      "source": "InfoMoney",
+      "source_type": "online news",
+      "similar_mention_count": 4,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "US$ 3 bi: CEO da Citadel anuncia maior doação da história do ensino superior dos EUA https://www.infomoney.com.br/business/global/us-3-bi-ceo-da-citadel-anuncia-maior-doacao-da-historia-do-ensino-superior-dos-eua/",
+          "chars": 108
+        },
+        "bluesky": {
+          "text": "US$ 3 bi: CEO da Citadel anuncia maior doação da história do ensino superior dos EUA https://www.infomoney.com.br/business/global/us-3-bi-ceo-da-citadel-anuncia-maior-doacao-da-historia-do-ensino-superior-dos-eua/",
+          "chars": 213
+        }
+      }
+    },
+    {
+      "id": 1016,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Hedge fund CEO Ken Griffin donates $3 billion to Carnegie Mellon as part of his bet on Florida",
+      "has_text": true,
+      "url": "https://www.msn.com/en-us/money/economy/hedge-fund-ceo-ken-griffin-donates-3-billion-to-carnegie-mellon-as-part-of-his-bet-on-florida/ar-AA2dfwd6",
+      "source": "MSN.com",
+      "source_type": "online news",
+      "similar_mention_count": 4,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Hedge fund CEO Ken Griffin donates $3 billion to Carnegie Mellon as part of his bet on Florida https://www.msn.com/en-us/money/economy/hedge-fund-ceo-ken-griffin-donates-3-billion-to-carnegie-mellon-as-part-of-his-bet-on-florida/ar-AA2dfwd6",
+          "chars": 118
+        },
+        "bluesky": {
+          "text": "Hedge fund CEO Ken Griffin donates $3 billion to Carnegie Mellon as part of his bet on Florida https://www.msn.com/en-us/money/economy/hedge-fund-ceo-ken-griffin-donates-3-billion-to-carnegie-mellon-as-part-of-his-bet-on-florida/ar-AA2dfwd6",
+          "chars": 240
+        }
+      }
+    },
+    {
+      "id": 1030,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Citadel's Griffin donates $3 billion to Carnegie Mellon with plans for Miami campus",
+      "has_text": true,
+      "url": "https://ground.news/article/hedge-fund-ceo-ken-griffin-donates-3-billion-to-carnegie-mellon-as-part-of-his-bet-on-florida",
+      "source": "Ground News",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Citadel's Griffin donates $3 billion to Carnegie Mellon with plans for Miami campus https://ground.news/article/hedge-fund-ceo-ken-griffin-donates-3-billion-to-carnegie-mellon-as-part-of-his-bet-on-florida",
+          "chars": 107
+        },
+        "bluesky": {
+          "text": "Citadel's Griffin donates $3 billion to Carnegie Mellon with plans for Miami campus https://ground.news/article/hedge-fund-ceo-ken-griffin-donates-3-billion-to-carnegie-mellon-as-part-of-his-bet-on-florida",
+          "chars": 205
+        }
+      }
+    },
+    {
+      "id": 1029,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "$3 Billion from Ken Griffin sets a new record for higher education and brings Carnegie Mellon to Miami",
+      "has_text": true,
+      "url": "https://lifestylesmagazine.com/latest-news/3-billion-from-ken-griffin-sets-a-new-record-for-higher-education-and-brings-carnegie-mellon-to-miami/",
+      "source": "Lifestyles Magazine",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "$3 Billion from Ken Griffin sets a new record for higher education and brings Carnegie Mellon to Miami https://lifestylesmagazine.com/latest-news/3-billion-from-ken-griffin-sets-a-new-record-for-higher-education-and-brings-carnegie-mellon-to-miami/",
+          "chars": 126
+        },
+        "bluesky": {
+          "text": "$3 Billion from Ken Griffin sets a new record for higher education and brings Carnegie Mellon to Miami https://lifestylesmagazine.com/latest-news/3-billion-from-ken-griffin-sets-a-new-record-for-higher-education-and-brings-carnegie-mellon-to-miami/",
+          "chars": 248
+        }
+      }
+    },
+    {
+      "id": 1022,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Ken Griffin Donates Record $3 Billion to Carnegie Mellon University",
+      "has_text": true,
+      "url": "https://www.theepochtimes.com/us/ken-griffin-donates-record-3-billion-to-carnegie-mellon-university-6096770",
+      "source": "The Epoch Times",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Ken Griffin Donates Record $3 Billion to Carnegie Mellon University https://www.theepochtimes.com/us/ken-griffin-donates-record-3-billion-to-carnegie-mellon-university-6096770",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "Ken Griffin Donates Record $3 Billion to Carnegie Mellon University https://www.theepochtimes.com/us/ken-griffin-donates-record-3-billion-to-carnegie-mellon-university-6096770",
+          "chars": 175
+        }
+      }
+    },
+    {
+      "id": 1011,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": "Does the Universe repeat infinitely?: Scientists calculate the restart of history",
+      "has_text": true,
+      "url": "https://zamin.uz/en/world/223167-does-the-universe-repeat-infinitely-scientists-calculate-the-restart-of-history.html",
+      "source": "Zamin.uz",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Does the Universe repeat infinitely?: Scientists calculate the restart of history https://zamin.uz/en/world/223167-does-the-universe-repeat-infinitely-scientists-calculate-the-restart-of-history.html",
+          "chars": 105
+        },
+        "bluesky": {
+          "text": "Does the Universe repeat infinitely?: Scientists calculate the restart of history https://zamin.uz/en/world/223167-does-the-universe-repeat-infinitely-scientists-calculate-the-restart-of-history.html",
+          "chars": 199
+        }
+      }
+    },
+    {
+      "id": 1007,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "peter-pomerantsev",
+      "person": "Peter Pomerantsev",
+      "is_ces": false,
+      "title": "Focus On The Effects of Misinformation Rather Than Intent | Peter Pomerantsev",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=SfAgvnpTX0s",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 2,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Focus On The Effects of Misinformation Rather Than Intent | Peter Pomerantsev https://www.youtube.com/watch?v=SfAgvnpTX0s",
+          "chars": 101
+        },
+        "bluesky": {
+          "text": "Focus On The Effects of Misinformation Rather Than Intent | Peter Pomerantsev https://www.youtube.com/watch?v=SfAgvnpTX0s",
+          "chars": 121
+        }
+      }
+    },
+    {
       "id": 950,
       "date": "2026-09-30",
       "week_start": "2026-09-28",
@@ -131,6 +598,1010 @@
           "chars": 177
         }
       }
+    },
+    {
+      "id": 1042,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "$3 Billion Donation Breaks U.S. Higher Education Record | My TV International#KenGriffin #Carnegie",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=Ht-QegImru4",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "$3 Billion Donation Breaks U.S. Higher Education Record | My TV International#KenGriffin #Carnegie https://www.youtube.com/watch?v=Ht-QegImru4",
+          "chars": 122
+        },
+        "bluesky": {
+          "text": "$3 Billion Donation Breaks U.S. Higher Education Record | My TV International#KenGriffin #Carnegie https://www.youtube.com/watch?v=Ht-QegImru4",
+          "chars": 142
+        }
+      }
+    },
+    {
+      "id": 1041,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Ken Griffin Pledges Record $3 Billion to Carnegie Mellon for Miami Campus",
+      "has_text": true,
+      "url": "https://finance.biggo.com/news/d4381611-48ee-4c84-86d6-0c83f89a4c85",
+      "source": "BigGo Finance",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Ken Griffin Pledges Record $3 Billion to Carnegie Mellon for Miami Campus https://finance.biggo.com/news/d4381611-48ee-4c84-86d6-0c83f89a4c85",
+          "chars": 97
+        },
+        "bluesky": {
+          "text": "Ken Griffin Pledges Record $3 Billion to Carnegie Mellon for Miami Campus https://finance.biggo.com/news/d4381611-48ee-4c84-86d6-0c83f89a4c85",
+          "chars": 141
+        }
+      }
+    },
+    {
+      "id": 1040,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Estaremos a tratar a SOMP de uma forma completamente errada?",
+      "has_text": true,
+      "url": "https://www.europesays.com/pt/540035/",
+      "source": "EUROPE SAYS",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Estaremos a tratar a SOMP de uma forma completamente errada? https://www.europesays.com/pt/540035/",
+          "chars": 84
+        },
+        "bluesky": {
+          "text": "Estaremos a tratar a SOMP de uma forma completamente errada? https://www.europesays.com/pt/540035/",
+          "chars": 98
+        }
+      }
+    },
+    {
+      "id": 1039,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "The tectonic plates of global higher education are shifting permanently",
+      "has_text": true,
+      "url": "https://www.weforum.org/stories/education-and-skills/the-tectonic-plates-of-global-higher-education-are-shifting-permanently/",
+      "source": "World Economic Forum - FR",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The tectonic plates of global higher education are shifting permanently https://www.weforum.org/stories/education-and-skills/the-tectonic-plates-of-global-higher-education-are-shifting-permanently/",
+          "chars": 95
+        },
+        "bluesky": {
+          "text": "The tectonic plates of global higher education are shifting permanently https://www.weforum.org/stories/education-and-skills/the-tectonic-plates-of-global-higher-education-are-shifting-permanently/",
+          "chars": 197
+        }
+      }
+    },
+    {
+      "id": 1038,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "UAE Lists 100 Universities Whose Graduates Can Qualify for Abu Dhabi Golden Visa",
+      "has_text": true,
+      "url": "https://www.tuko.co.ke/people/family/641448-uae-lists-100-universities-graduates-qualify-abu-dhabi-golden-visa/",
+      "source": "tuko",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "UAE Lists 100 Universities Whose Graduates Can Qualify for Abu Dhabi Golden Visa https://www.tuko.co.ke/people/family/641448-uae-lists-100-universities-graduates-qualify-abu-dhabi-golden-visa/",
+          "chars": 104
+        },
+        "bluesky": {
+          "text": "UAE Lists 100 Universities Whose Graduates Can Qualify for Abu Dhabi Golden Visa https://www.tuko.co.ke/people/family/641448-uae-lists-100-universities-graduates-qualify-abu-dhabi-golden-visa/",
+          "chars": 192
+        }
+      }
+    },
+    {
+      "id": 1037,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "The University as a Site of Agonistic Democracy: Rethinking Pluralism Amid Cultural and Political Conflict",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s11024-026-09664-9",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The University as a Site of Agonistic Democracy: Rethinking Pluralism Amid Cultural and Political Conflict https://link.springer.com/article/10.1007/s11024-026-09664-9",
+          "chars": 130
+        },
+        "bluesky": {
+          "text": "The University as a Site of Agonistic Democracy: Rethinking Pluralism Amid Cultural and Political Conflict https://link.springer.com/article/10.1007/s11024-026-09664-9",
+          "chars": 167
+        }
+      }
+    },
+    {
+      "id": 1036,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "FATOS E FIGURAS DE HOLYWOOD E DA INDÚSTRIA DE CINEMA 1939",
+      "has_text": true,
+      "url": "https://www.historiasdecinema.com/2026/09/fatos-e-figuras-de-holywood-e-da-industria-de-cinema-1939/",
+      "source": "Histórias de Cinema",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "FATOS E FIGURAS DE HOLYWOOD E DA INDÚSTRIA DE CINEMA 1939 https://www.historiasdecinema.com/2026/09/fatos-e-figuras-de-holywood-e-da-industria-de-cinema-1939/",
+          "chars": 81
+        },
+        "bluesky": {
+          "text": "FATOS E FIGURAS DE HOLYWOOD E DA INDÚSTRIA DE CINEMA 1939 https://www.historiasdecinema.com/2026/09/fatos-e-figuras-de-holywood-e-da-industria-de-cinema-1939/",
+          "chars": 158
+        }
+      }
+    },
+    {
+      "id": 1035,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Billionaire Ken Griffin Pledges Record $3 Billion To Carnegie Mellon—Backing Miami Campus Plans",
+      "has_text": true,
+      "url": "https://www.forbesmiddleeast.com/industry/education/billionaire-ken-griffin-pledges-record-%243-billion-to-carnegie-mellonbacking-miami-campus-plans",
+      "source": "Forbes Middle East",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Billionaire Ken Griffin Pledges Record $3 Billion To Carnegie Mellon—Backing Miami Campus Plans https://www.forbesmiddleeast.com/industry/education/billionaire-ken-griffin-pledges-record-%243-billion-to-carnegie-mellonbacking-miami-campus-plans",
+          "chars": 119
+        },
+        "bluesky": {
+          "text": "Billionaire Ken Griffin Pledges Record $3 Billion To Carnegie Mellon—Backing Miami Campus Plans https://www.forbesmiddleeast.com/industry/education/billionaire-ken-griffin-pledges-record-%243-billion-to-carnegie-mellonbacking-miami-campus-plans",
+          "chars": 244
+        }
+      }
+    },
+    {
+      "id": 1034,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Ken Griffin's Miami Bet Gets Bigger: From Citadel HQ to $2 Billion Carnegie Mellon Campus",
+      "has_text": true,
+      "url": "https://www.ibtimes.sg/ken-griffins-miami-bet-gets-bigger-citadel-hq-2-billion-carnegie-mellon-campus-94468",
+      "source": "International Business Times - Singapore",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Ken Griffin's Miami Bet Gets Bigger: From Citadel HQ to $2 Billion Carnegie Mellon Campus https://www.ibtimes.sg/ken-griffins-miami-bet-gets-bigger-citadel-hq-2-billion-carnegie-mellon-campus-94468",
+          "chars": 113
+        },
+        "bluesky": {
+          "text": "Ken Griffin's Miami Bet Gets Bigger: From Citadel HQ to $2 Billion Carnegie Mellon Campus https://www.ibtimes.sg/ken-griffins-miami-bet-gets-bigger-citadel-hq-2-billion-carnegie-mellon-campus-94468",
+          "chars": 197
+        }
+      }
+    },
+    {
+      "id": 1033,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1032,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "U.S. and world news for Sept. 30",
+      "has_text": true,
+      "url": "https://westfaironline.com/world-news/u-s-and-world-news-for-sept-30-4/",
+      "source": "Westfair Online",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "U.S. and world news for Sept. 30 https://westfaironline.com/world-news/u-s-and-world-news-for-sept-30-4/",
+          "chars": 56
+        },
+        "bluesky": {
+          "text": "U.S. and world news for Sept. 30 https://westfaironline.com/world-news/u-s-and-world-news-for-sept-30-4/",
+          "chars": 104
+        }
+      }
+    },
+    {
+      "id": 1031,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Como Anthony Hopkins confrontou diretor que gritava com atriz em set: 'Nenhuma pessoa pode ser humilhada por um filme'",
+      "has_text": true,
+      "url": "https://revistamonet.globo.com/filmes/noticia/2026/09/como-anthony-hopkins-confrontou-diretor-que-gritava-com-atriz-em-set-nenhuma-pessoa-pode-ser-humilhada-por-um-filme.ghtml?amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#ampshare=https%3A%2F%2Frevistamonet.globo.com%2Ffilmes%2Fnoticia%2F2026%2F09%2Fcomo-anthony-hopkins-confrontou-diretor-que-gritava-com-atriz-em-set-nenhuma-pessoa-pode-ser-humilhada-por-um-filme.ghtml",
+      "source": "CASA VOGUE",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Como Anthony Hopkins confrontou diretor que gritava com atriz em set: 'Nenhuma pessoa pode ser humilhada por um filme' https://revistamonet.globo.com/filmes/noticia/2026/09/como-anthony-hopkins-confrontou-diretor-que-gritava-com-atriz-em-set-nenhuma-pessoa-pode-ser-humilhada-por-um-filme.ghtml?amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#ampshare=https%3A%2F%2Frevistamonet.globo.com%2Ffilmes%2Fnoticia%2F2026%2F09%2Fcomo-anthony-hopkins-confrontou-diretor-que-gritava-com-atriz-em-set-nenhuma-pessoa-pode-ser-humilhada-por-um-filme.ghtml",
+          "chars": 142
+        },
+        "bluesky": {
+          "text": "… https://revistamonet.globo.com/filmes/noticia/2026/09/como-anthony-hopkins-confrontou-diretor-que-gritava-com-atriz-em-set-nenhuma-pessoa-pode-ser-humilhada-por-um-filme.ghtml?amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#ampshare=https%3A%2F%2Frevistamonet.globo.com%2Ffilmes%2Fnoticia%2F2026%2F09%2Fcomo-anthony-hopkins-confrontou-diretor-que-gritava-com-atriz-em-set-nenhuma-pessoa-pode-ser-humilhada-por-um-filme.ghtml",
+          "chars": 422
+        }
+      }
+    },
+    {
+      "id": 1028,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Ken Griffin Gives Record $3 Billion to Carnegie Mellon to Launch Miami Campus in Biggest College Gift Ever",
+      "has_text": true,
+      "url": "https://www.ibtimes.com.au/ken-griffin-record-gift-carnegie-mellon-miami-campus-1876088",
+      "source": "International Business Times Australia",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Ken Griffin Gives Record $3 Billion to Carnegie Mellon to Launch Miami Campus in Biggest College Gift Ever https://www.ibtimes.com.au/ken-griffin-record-gift-carnegie-mellon-miami-campus-1876088",
+          "chars": 130
+        },
+        "bluesky": {
+          "text": "Ken Griffin Gives Record $3 Billion to Carnegie Mellon to Launch Miami Campus in Biggest College Gift Ever https://www.ibtimes.com.au/ken-griffin-record-gift-carnegie-mellon-miami-campus-1876088",
+          "chars": 194
+        }
+      }
+    },
+    {
+      "id": 1027,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "UCT Ranks Highest Among African Universities in the 2027 Times Higher Education World University Rankings",
+      "has_text": true,
+      "url": "https://dailyargus.co.za/2026/09/30/uct-ranks-highest-among-african-universities-in-the-2027-times-higher-education-world-university-rankings/",
+      "source": "Daily Argus",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "UCT Ranks Highest Among African Universities in the 2027 Times Higher Education World University Rankings https://dailyargus.co.za/2026/09/30/uct-ranks-highest-among-african-universities-in-the-2027-times-higher-education-world-university-rankings/",
+          "chars": 129
+        },
+        "bluesky": {
+          "text": "UCT Ranks Highest Among African Universities in the 2027 Times Higher Education World University Rankings https://dailyargus.co.za/2026/09/30/uct-ranks-highest-among-african-universities-in-the-2027-times-higher-education-world-university-rankings/",
+          "chars": 248
+        }
+      }
+    },
+    {
+      "id": 1026,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Ken Griffin commits $3bn to Carnegie Mellon in single largest donation ever",
+      "has_text": true,
+      "url": "https://www.business-standard.com/world-news/ken-griffin-commits-3bn-to-carnegie-mellon-in-single-largest-donation-ever-126093001297_1.html",
+      "source": "Business Standard",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Ken Griffin commits $3bn to Carnegie Mellon in single largest donation ever https://www.business-standard.com/world-news/ken-griffin-commits-3bn-to-carnegie-mellon-in-single-largest-donation-ever-126093001297_1.html",
+          "chars": 99
+        },
+        "bluesky": {
+          "text": "Ken Griffin commits $3bn to Carnegie Mellon in single largest donation ever https://www.business-standard.com/world-news/ken-griffin-commits-3bn-to-carnegie-mellon-in-single-largest-donation-ever-126093001297_1.html",
+          "chars": 215
+        }
+      }
+    },
+    {
+      "id": 1025,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "MID – ATLANTIC: From Discovery To Production",
+      "has_text": true,
+      "url": "https://siteselection.com/mid-atlantic-from-discovery-to-production/",
+      "source": "Site Selection",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "MID – ATLANTIC: From Discovery To Production https://siteselection.com/mid-atlantic-from-discovery-to-production/",
+          "chars": 68
+        },
+        "bluesky": {
+          "text": "MID – ATLANTIC: From Discovery To Production https://siteselection.com/mid-atlantic-from-discovery-to-production/",
+          "chars": 113
+        }
+      }
+    },
+    {
+      "id": 1024,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Ken Griffin Gives Carnegie Mellon $3 Billion in Record Higher Education Donation",
+      "has_text": true,
+      "url": "https://www.albertpham.info/2026/09/30/ken-griffin-gives-carnegie-mellon-3-billion-in-record-higher-education-donation/",
+      "source": "Albert Pham",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Ken Griffin Gives Carnegie Mellon $3 Billion in Record Higher Education Donation https://www.albertpham.info/2026/09/30/ken-griffin-gives-carnegie-mellon-3-billion-in-record-higher-education-donation/",
+          "chars": 104
+        },
+        "bluesky": {
+          "text": "Ken Griffin Gives Carnegie Mellon $3 Billion in Record Higher Education Donation https://www.albertpham.info/2026/09/30/ken-griffin-gives-carnegie-mellon-3-billion-in-record-higher-education-donation/",
+          "chars": 200
+        }
+      }
+    },
+    {
+      "id": 1023,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "African contingent expands as flagship rejoins top 150 in Times Higher Education World University...",
+      "has_text": true,
+      "url": "https://www.businessghana.com/site/news/General/357013/African-contingent-expands-as-flagship-rejoins-top-150-in-Times-Higher-Education-World-University...",
+      "source": "BusinessGhana",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "African contingent expands as flagship rejoins top 150 in Times Higher Education World University... https://www.businessghana.com/site/news/General/357013/African-contingent-expands-as-flagship-rejoins-top-150-in-Times-Higher-Education-World-University...",
+          "chars": 124
+        },
+        "bluesky": {
+          "text": "African contingent expands as flagship rejoins top 150 in Times Higher Education World University... https://www.businessghana.com/site/news/General/357013/African-contingent-expands-as-flagship-rejoins-top-150-in-Times-Higher-Education-World-University...",
+          "chars": 256
+        }
+      }
+    },
+    {
+      "id": 1020,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "The End of Science? Agnosis and American Fascism, by Paul Edwards, Ph.D., September 2026 issue, Science, Technology, & Human Values",
+      "has_text": true,
+      "url": "https://texasedequity.blogspot.com/2026/09/the-end-of-science-agnosis-and-american.html",
+      "source": "Educational Equity, Politics &amp; Policy in Texas",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The End of Science? Agnosis and American Fascism, by Paul Edwards, Ph.D., September 2026 issue, Science, Technology, & Human Values https://texasedequity.blogspot.com/2026/09/the-end-of-science-agnosis-and-american.html",
+          "chars": 155
+        },
+        "bluesky": {
+          "text": "The End of Science? Agnosis and American Fascism, by Paul Edwards, Ph.D., September 2026 issue, Science, Technology, & Human Values https://texasedequity.blogspot.com/2026/09/the-end-of-science-agnosis-and-american.html",
+          "chars": 219
+        }
+      }
+    },
+    {
+      "id": 1019,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — reddit.com/r/TradeVerseNetwork forum post)",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/TradeVerseNetwork/comments/1wuaw2u/ken_griffin_donates_3b_to_carnegie_mellon_largest/",
+      "source": "reddit.com/r/TradeVerseNetwork",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "(no captured text — reddit.com/r/TradeVerseNetwork forum post) https://www.reddit.com/r/TradeVerseNetwork/comments/1wuaw2u/ken_griffin_donates_3b_to_carnegie_mellon_largest/",
+          "chars": 86
+        },
+        "bluesky": {
+          "text": "(no captured text — reddit.com/r/TradeVerseNetwork forum post) https://www.reddit.com/r/TradeVerseNetwork/comments/1wuaw2u/ken_griffin_donates_3b_to_carnegie_mellon_largest/",
+          "chars": 173
+        }
+      }
+    },
+    {
+      "id": 1018,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "(no captured text — Twitter repost)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1017,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Johns Hopkins SGA weighs input on federal higher-ed call",
+      "has_text": true,
+      "url": "https://www.campusreform.org/article/johns-hopkins-sga-weighs-input-federal-higher-ed-call/30685",
+      "source": "Campus Reform",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Johns Hopkins SGA weighs input on federal higher-ed call https://www.campusreform.org/article/johns-hopkins-sga-weighs-input-federal-higher-ed-call/30685",
+          "chars": 80
+        },
+        "bluesky": {
+          "text": "Johns Hopkins SGA weighs input on federal higher-ed call https://www.campusreform.org/article/johns-hopkins-sga-weighs-input-federal-higher-ed-call/30685",
+          "chars": 153
+        }
+      }
+    },
+    {
+      "id": 1015,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Carnegie Mellon nets $3 billion gift, most ever given to a university",
+      "has_text": true,
+      "url": "https://dnyuz.com/2026/09/30/carnegie-mellon-nets-3-billion-gift-most-ever-given-to-a-university/",
+      "source": "DNYUZ",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Carnegie Mellon nets $3 billion gift, most ever given to a university https://dnyuz.com/2026/09/30/carnegie-mellon-nets-3-billion-gift-most-ever-given-to-a-university/",
+          "chars": 93
+        },
+        "bluesky": {
+          "text": "Carnegie Mellon nets $3 billion gift, most ever given to a university https://dnyuz.com/2026/09/30/carnegie-mellon-nets-3-billion-gift-most-ever-given-to-a-university/",
+          "chars": 167
+        }
+      }
+    },
+    {
+      "id": 1014,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Decadelong study finds smoking worsens sickle cell retinopathy",
+      "has_text": true,
+      "url": "https://medicalxpress.com/news/2026-09-decadelong-worsens-sickle-cell-retinopathy.html",
+      "source": "Medical Xpress",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Decadelong study finds smoking worsens sickle cell retinopathy https://medicalxpress.com/news/2026-09-decadelong-worsens-sickle-cell-retinopathy.html",
+          "chars": 86
+        },
+        "bluesky": {
+          "text": "Decadelong study finds smoking worsens sickle cell retinopathy https://medicalxpress.com/news/2026-09-decadelong-worsens-sickle-cell-retinopathy.html",
+          "chars": 149
+        }
+      }
+    },
+    {
+      "id": 1013,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Donor Gives $3 Billion to Carnegie Mellon, the Largest University Gift Ever",
+      "has_text": true,
+      "url": "https://www.nytimes.com/2026/09/30/us/3-billion-donation-carnegie-mellon-largest-university-gift.html",
+      "source": "The New York Times",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Donor Gives $3 Billion to Carnegie Mellon, the Largest University Gift Ever https://www.nytimes.com/2026/09/30/us/3-billion-donation-carnegie-mellon-largest-university-gift.html",
+          "chars": 99
+        },
+        "bluesky": {
+          "text": "Donor Gives $3 Billion to Carnegie Mellon, the Largest University Gift Ever https://www.nytimes.com/2026/09/30/us/3-billion-donation-carnegie-mellon-largest-university-gift.html",
+          "chars": 177
+        }
+      }
+    },
+    {
+      "id": 1012,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Largest Higher Ed Donations: Ken Griffin Sets $3 Billion Record At Carnegie Mellon",
+      "has_text": true,
+      "url": "https://www.bundle.app/en/finance/largest-higher-ed-donations-ken-griffin-sets-3-billion-record-at-carnegie-mellon-d4ae83be-ba6f-583e-bc57-d5d00f326840",
+      "source": "Bundle",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Largest Higher Ed Donations: Ken Griffin Sets $3 Billion Record At Carnegie Mellon https://www.bundle.app/en/finance/largest-higher-ed-donations-ken-griffin-sets-3-billion-record-at-carnegie-mellon-d4ae83be-ba6f-583e-bc57-d5d00f326840",
+          "chars": 106
+        },
+        "bluesky": {
+          "text": "Largest Higher Ed Donations: Ken Griffin Sets $3 Billion Record At Carnegie Mellon https://www.bundle.app/en/finance/largest-higher-ed-donations-ken-griffin-sets-3-billion-record-at-carnegie-mellon-d4ae83be-ba6f-583e-bc57-d5d00f326840",
+          "chars": 234
+        }
+      }
+    },
+    {
+      "id": 1010,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Ken Griffin’s Record-Setting $3 Billion Higher Ed Donation Tops These Billionaires’ Mega-Gifts",
+      "has_text": true,
+      "url": "https://www.forbes.com/sites/maryroeloffs/2026/09/30/ken-griffins-record-setting-3-billion-higher-ed-donation-tops-these-billionaires-mega-gifts/",
+      "source": "Forbes",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Ken Griffin’s Record-Setting $3 Billion Higher Ed Donation Tops These Billionaires’ Mega-Gifts https://www.forbes.com/sites/maryroeloffs/2026/09/30/ken-griffins-record-setting-3-billion-higher-ed-donation-tops-these-billionaires-mega-gifts/",
+          "chars": 118
+        },
+        "bluesky": {
+          "text": "Ken Griffin’s Record-Setting $3 Billion Higher Ed Donation Tops These Billionaires’ Mega-Gifts https://www.forbes.com/sites/maryroeloffs/2026/09/30/ken-griffins-record-setting-3-billion-higher-ed-donation-tops-these-billionaires-mega-gifts/",
+          "chars": 240
+        }
+      }
+    },
+    {
+      "id": 1009,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Voting Central Florida: Meet the candidates for U.S. Senate",
+      "has_text": true,
+      "url": "https://www.aroundosceola.com/election-2026/voting-central-florida-meet-candidates-us-senate",
+      "source": "Osceola News-Gazette",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Voting Central Florida: Meet the candidates for U.S. Senate https://www.aroundosceola.com/election-2026/voting-central-florida-meet-candidates-us-senate",
+          "chars": 83
+        },
+        "bluesky": {
+          "text": "Voting Central Florida: Meet the candidates for U.S. Senate https://www.aroundosceola.com/election-2026/voting-central-florida-meet-candidates-us-senate",
+          "chars": 152
+        }
+      }
+    },
+    {
+      "id": 1008,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Investigators identify a metabolic weak point in exhausted immune cells in head and neck cancer",
+      "has_text": true,
+      "url": "https://medicalxpress.com/news/2026-09-metabolic-weak-exhausted-immune-cells.html",
+      "source": "Medical Xpress",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Investigators identify a metabolic weak point in exhausted immune cells in head and neck cancer https://medicalxpress.com/news/2026-09-metabolic-weak-exhausted-immune-cells.html",
+          "chars": 119
+        },
+        "bluesky": {
+          "text": "Investigators identify a metabolic weak point in exhausted immune cells in head and neck cancer https://medicalxpress.com/news/2026-09-metabolic-weak-exhausted-immune-cells.html",
+          "chars": 177
+        }
+      }
+    },
+    {
+      "id": 1006,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "benjamin-storey",
+      "person": "Benjamin Storey",
+      "is_ces": false,
+      "title": "Viewpoint diversity initiatives at Hopkins spark academic debate",
+      "has_text": true,
+      "url": "https://www.jhunewsletter.com/article/2026/09/viewpoint-diversity-initiatives-at-hopkins-spark-academic-debate",
+      "source": "The Johns Hopkins News-Letter",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Viewpoint diversity initiatives at Hopkins spark academic debate https://www.jhunewsletter.com/article/2026/09/viewpoint-diversity-initiatives-at-hopkins-spark-academic-debate",
+          "chars": 88
+        },
+        "bluesky": {
+          "text": "Viewpoint diversity initiatives at Hopkins spark academic debate https://www.jhunewsletter.com/article/2026/09/viewpoint-diversity-initiatives-at-hopkins-spark-academic-debate",
+          "chars": 175
+        }
+      }
+    },
+    {
+      "id": 1005,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": "Viewpoint diversity initiatives at Hopkins spark academic debate",
+      "has_text": true,
+      "url": "https://www.jhunewsletter.com/article/2026/09/viewpoint-diversity-initiatives-at-hopkins-spark-academic-debate",
+      "source": "The Johns Hopkins News-Letter",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Viewpoint diversity initiatives at Hopkins spark academic debate https://www.jhunewsletter.com/article/2026/09/viewpoint-diversity-initiatives-at-hopkins-spark-academic-debate",
+          "chars": 88
+        },
+        "bluesky": {
+          "text": "Viewpoint diversity initiatives at Hopkins spark academic debate https://www.jhunewsletter.com/article/2026/09/viewpoint-diversity-initiatives-at-hopkins-spark-academic-debate",
+          "chars": 175
+        }
+      }
+    },
+    {
+      "id": 1004,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "steven-teles",
+      "person": "Steven Teles",
+      "is_ces": true,
+      "title": "Viewpoint diversity initiatives at Hopkins spark academic debate",
+      "has_text": true,
+      "url": "https://www.jhunewsletter.com/article/2026/09/viewpoint-diversity-initiatives-at-hopkins-spark-academic-debate",
+      "source": "The Johns Hopkins News-Letter",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Viewpoint diversity initiatives at Hopkins spark academic debate https://www.jhunewsletter.com/article/2026/09/viewpoint-diversity-initiatives-at-hopkins-spark-academic-debate",
+          "chars": 88
+        },
+        "bluesky": {
+          "text": "Viewpoint diversity initiatives at Hopkins spark academic debate https://www.jhunewsletter.com/article/2026/09/viewpoint-diversity-initiatives-at-hopkins-spark-academic-debate",
+          "chars": 175
+        }
+      }
+    },
+    {
+      "id": 1003,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "jeanne-marie-jackson",
+      "person": "Jeanne-Marie Jackson",
+      "is_ces": true,
+      "title": "Viewpoint diversity initiatives at Hopkins spark academic debate",
+      "has_text": true,
+      "url": "https://www.jhunewsletter.com/article/2026/09/viewpoint-diversity-initiatives-at-hopkins-spark-academic-debate",
+      "source": "The Johns Hopkins News-Letter",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Viewpoint diversity initiatives at Hopkins spark academic debate https://www.jhunewsletter.com/article/2026/09/viewpoint-diversity-initiatives-at-hopkins-spark-academic-debate",
+          "chars": 88
+        },
+        "bluesky": {
+          "text": "Viewpoint diversity initiatives at Hopkins spark academic debate https://www.jhunewsletter.com/article/2026/09/viewpoint-diversity-initiatives-at-hopkins-spark-academic-debate",
+          "chars": 175
+        }
+      }
+    },
+    {
+      "id": 1002,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "andrew-perrin",
+      "person": "Andrew Perrin",
+      "is_ces": false,
+      "title": "Viewpoint diversity initiatives at Hopkins spark academic debate",
+      "has_text": true,
+      "url": "https://www.jhunewsletter.com/article/2026/09/viewpoint-diversity-initiatives-at-hopkins-spark-academic-debate",
+      "source": "The Johns Hopkins News-Letter",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Viewpoint diversity initiatives at Hopkins spark academic debate https://www.jhunewsletter.com/article/2026/09/viewpoint-diversity-initiatives-at-hopkins-spark-academic-debate",
+          "chars": 88
+        },
+        "bluesky": {
+          "text": "Viewpoint diversity initiatives at Hopkins spark academic debate https://www.jhunewsletter.com/article/2026/09/viewpoint-diversity-initiatives-at-hopkins-spark-academic-debate",
+          "chars": 175
+        }
+      }
+    },
+    {
+      "id": 1001,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "IA, energia e gente: as megatendências que convergem daqui até 2030",
+      "has_text": true,
+      "url": "https://theshift.info/hot/megatendencias-2030-convergencias-copenhagen-ieee-ey/",
+      "source": "The Shift",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "IA, energia e gente: as megatendências que convergem daqui até 2030 https://theshift.info/hot/megatendencias-2030-convergencias-copenhagen-ieee-ey/",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "IA, energia e gente: as megatendências que convergem daqui até 2030 https://theshift.info/hot/megatendencias-2030-convergencias-copenhagen-ieee-ey/",
+          "chars": 147
+        }
+      }
+    },
+    {
+      "id": 1000,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "ruth-braunstein",
+      "person": "Ruth Braunstein",
+      "is_ces": false,
+      "title": "Alexander Grass Humanities Institute hosts Teresa Bejan for book lunch on First Among Equals",
+      "has_text": true,
+      "url": "https://www.jhunewsletter.com/article/2026/09/alexander-grass-humanities-institute-hosts-teresa-bejan-for-book-lunch-on-first-among-equals",
+      "source": "The Johns Hopkins News-Letter",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Alexander Grass Humanities Institute hosts Teresa Bejan for book lunch on First Among Equals https://www.jhunewsletter.com/article/2026/09/alexander-grass-humanities-institute-hosts-teresa-bejan-for-book-lunch-on-first-among-equals",
+          "chars": 116
+        },
+        "bluesky": {
+          "text": "Alexander Grass Humanities Institute hosts Teresa Bejan for book lunch on First Among Equals https://www.jhunewsletter.com/article/2026/09/alexander-grass-humanities-institute-hosts-teresa-bejan-for-book-lunch-on-first-among-equals",
+          "chars": 231
+        }
+      }
+    },
+    {
+      "id": 999,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter repost)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 998,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Carnegie Mellon to open Miami campus after multibillion-dollar gift from hedge fund CEO Ken Griffin",
+      "has_text": true,
+      "url": "https://hanfordsentinel.com/news/national/carnegie-mellon-to-open-miami-campus-after-multibillion-dollar-gift-from-hedge-fund-ceo-ken/article_8179d593-1f1c-5302-9456-9dfce753960c.html",
+      "source": "The Hanford Sentinel",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Carnegie Mellon to open Miami campus after multibillion-dollar gift from hedge fund CEO Ken Griffin https://hanfordsentinel.com/news/national/carnegie-mellon-to-open-miami-campus-after-multibillion-dollar-gift-from-hedge-fund-ceo-ken/article_8179d593-1f1c-5302-9456-9dfce753960c.html",
+          "chars": 123
+        },
+        "bluesky": {
+          "text": "Carnegie Mellon to open Miami campus after multibillion-dollar gift from hedge fund CEO Ken Griffin https://hanfordsentinel.com/news/national/carnegie-mellon-to-open-miami-campus-after-multibillion-dollar-gift-from-hedge-fund-ceo-ken/article_8179d593-1f1c-5302-9456-9dfce753960c.html",
+          "chars": 283
+        }
+      }
+    },
+    {
+      "id": 997,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Johns Hopkins Ranks No. 17 in Times Higher Education List",
+      "has_text": true,
+      "url": "https://www.miragenews.com/johns-hopkins-ranks-no-17-in-times-higher-1753174/",
+      "source": "Mirage.News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Johns Hopkins Ranks No. 17 in Times Higher Education List https://www.miragenews.com/johns-hopkins-ranks-no-17-in-times-higher-1753174/",
+          "chars": 81
+        },
+        "bluesky": {
+          "text": "Johns Hopkins Ranks No. 17 in Times Higher Education List https://www.miragenews.com/johns-hopkins-ranks-no-17-in-times-higher-1753174/",
+          "chars": 135
+        }
+      }
+    },
+    {
+      "id": 996,
+      "date": "2026-09-30",
+      "week_start": "2026-09-28",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "(no captured text — Twitter repost)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
     },
     {
       "id": 965,
