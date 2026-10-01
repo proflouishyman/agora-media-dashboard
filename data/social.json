@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-30T07:07:35-04:00",
-  "count": 66,
+  "generated_at": "2026-10-01T07:07:36-04:00",
+  "count": 67,
   "picks": [
+    {
+      "id": 85,
+      "mention_id": 1007,
+      "digest_date": "2026-09-30",
+      "person": "Peter Pomerantsev",
+      "person_id": "peter-pomerantsev",
+      "person_ids": [
+        "peter-pomerantsev"
+      ],
+      "is_ces": false,
+      "punchy_title": "Pomerantsev: Judge Misinformation by What It Does, Not Why",
+      "headline": "Pomerantsev: Judge Misinformation by What It Does, Not Why",
+      "pull_quote": "clip from Brian's conversation with Peter Pomerantsev, one of the world's leading thinkers on propaganda, disinformation, and political warfare. Peter is a journalist, author, and Senior Fellow at the SNF Agora Institute at Johns Hopkins University. This conversation traces the",
+      "rationale": "clip from Brian's conversation with Peter Pomerantsev, one of the world's leading thinkers on propaganda, disinformation, and political warfare. Peter is a journalist, author, and Senior Fellow at the SNF Agora Institute at Johns Hopkins University. This conversation traces the",
+      "url": "https://www.youtube.com/watch?v=SfAgvnpTX0s",
+      "story_url": "https://www.youtube.com/watch?v=SfAgvnpTX0s",
+      "created_at": "2026-10-01 11:07:31",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "SNF Agora Senior Fellow Peter Pomerantsev, one of the leading thinkers on propaganda and disinformation, on why we should focus on the effects of misinformation rather than intent. https://www.youtube.com/watch?v=SfAgvnpTX0s",
+          "chars": 224,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=SNF%20Agora%20Senior%20Fellow%20Peter%20Pomerantsev%2C%20one%20of%20the%20leading%20thinkers%20on%20propaganda%20and%20disinformation%2C%20on%20why%20we%20should%20focus%20on%20the%20effects%20of%20misinformation%20rather%20than%20intent.%20https%3A//www.youtube.com/watch%3Fv%3DSfAgvnpTX0s"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Why focus on the effects of misinformation rather than intent? SNF Agora Senior Fellow Peter Pomerantsev, one of the leading thinkers on propaganda, disinformation and political warfare, explains in a new interview clip. https://www.youtube.com/watch?v=SfAgvnpTX0s",
+          "chars": 264,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Why%20focus%20on%20the%20effects%20of%20misinformation%20rather%20than%20intent%3F%20SNF%20Agora%20Senior%20Fellow%20Peter%20Pomerantsev%2C%20one%20of%20the%20leading%20thinkers%20on%20propaganda%2C%20disinformation%20and%20political%20warfare%2C%20explains%20in%20a%20new%20interview%20clip.%20https%3A//www.youtube.com/watch%3Fv%3DSfAgvnpTX0s"
+        }
+      ]
+    },
     {
       "id": 84,
       "mention_id": 975,

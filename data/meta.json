@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-30T07:07:35-04:00",
-  "generated_date": "2026-09-30",
+  "generated_at": "2026-10-01T07:07:36-04:00",
+  "generated_date": "2026-10-01",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-09-30",
+    "last_mention_date": "2026-10-01",
     "observed_dates": [
       "2026-07-02",
       "2026-07-03",
@@ -95,10 +95,11 @@
       "2026-09-27",
       "2026-09-28",
       "2026-09-29",
-      "2026-09-30"
+      "2026-09-30",
+      "2026-10-01"
     ],
-    "total_mentions": 975,
-    "total_raw_documents": 4488,
+    "total_mentions": 1034,
+    "total_raw_documents": 4616,
     "total_tracked_people": 100,
     "total_ces_people": 17
   },
@@ -106,23 +107,23 @@
     "all": {
       "label": "SNF Agora Institute",
       "people": 100,
-      "mentions": 975
+      "mentions": 1034
     },
     "ces": {
       "label": "Center on Economy and Society",
       "people": 17,
-      "mentions": 105
+      "mentions": 107
     }
   },
   "data_quality": {
-    "mentions_missing_url": 209,
+    "mentions_missing_url": 216,
     "mentions_no_text_captured": 89,
-    "mentions_sentiment_unknown": 705,
-    "mentions_shareable": 747,
+    "mentions_sentiment_unknown": 760,
+    "mentions_shareable": 799,
     "unmatched_persons": [
       {
         "person": "Johns Hopkins",
-        "mentions": 186
+        "mentions": 233
       },
       {
         "person": "unknown",
@@ -218,6 +219,10 @@
       },
       {
         "person": "Agora",
+        "mentions": 1
+      },
+      {
+        "person": "Andrew Perrin",
         "mentions": 1
       },
       {

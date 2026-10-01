@@ -9,33 +9,33 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 186,
+    "mentions_total": 233,
     "mentions_in_digest": 0,
-    "reach_proxy": 1458,
+    "reach_proxy": 1577,
     "first_mention_date": "2026-08-30",
-    "last_mention_date": "2026-09-30",
+    "last_mention_date": "2026-10-01",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
       "negative": 0,
-      "unknown": 186
+      "unknown": 233
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 24
+        "count": 28
       },
       {
         "source": "Youtube",
-        "count": 14
+        "count": 16
       },
       {
         "source": "Springer",
-        "count": 11
+        "count": 13
       },
       {
         "source": "Medical Xpress",
-        "count": 5
+        "count": 7
       },
       {
         "source": "Substack",
@@ -100,8 +100,8 @@
       },
       {
         "week_start": "2026-09-28",
-        "count": 43,
-        "reach": 268
+        "count": 90,
+        "reach": 387
       }
     ]
   },
@@ -115,21 +115,21 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 93,
+    "mentions_total": 94,
     "mentions_in_digest": 31,
-    "reach_proxy": 198,
+    "reach_proxy": 199,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-09-29",
+    "last_mention_date": "2026-09-30",
     "sentiment": {
       "positive": 21,
       "neutral": 27,
       "negative": 3,
-      "unknown": 42
+      "unknown": 43
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 30
+        "count": 31
       },
       {
         "source": "LinkedIn",
@@ -206,8 +206,8 @@
       },
       {
         "week_start": "2026-09-28",
-        "count": 7,
-        "reach": 9
+        "count": 8,
+        "reach": 10
       }
     ]
   },
@@ -329,21 +329,21 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 64,
+    "mentions_total": 65,
     "mentions_in_digest": 35,
-    "reach_proxy": 320,
+    "reach_proxy": 321,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-09-28",
+    "last_mention_date": "2026-09-30",
     "sentiment": {
       "positive": 10,
       "neutral": 13,
       "negative": 5,
-      "unknown": 36
+      "unknown": 37
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 11
+        "count": 12
       },
       {
         "source": "Substack",
@@ -420,8 +420,8 @@
       },
       {
         "week_start": "2026-09-28",
-        "count": 1,
-        "reach": 1
+        "count": 2,
+        "reach": 2
       }
     ]
   },
@@ -642,6 +642,114 @@
     ]
   },
   {
+    "id": "sean-carroll",
+    "name": "Sean Carroll",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Homewood Professor of Natural Philosophy at Johns Hopkins University",
+    "profile_url": "https://snfagora.jhu.edu/directory/sean-carroll/",
+    "photo_url": "images/people/sean-carroll.jpeg",
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 33,
+    "mentions_in_digest": 13,
+    "reach_proxy": 58,
+    "first_mention_date": "2026-07-03",
+    "last_mention_date": "2026-09-30",
+    "sentiment": {
+      "positive": 6,
+      "neutral": 12,
+      "negative": 1,
+      "unknown": 14
+    },
+    "top_sources": [
+      {
+        "source": "Youtube",
+        "count": 4
+      },
+      {
+        "source": "Twitter",
+        "count": 3
+      },
+      {
+        "source": "YouTube",
+        "count": 3
+      },
+      {
+        "source": "Bluesky",
+        "count": 2
+      },
+      {
+        "source": "The New York Times",
+        "count": 2
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-13",
+        "count": 2,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 5,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 4,
+        "reach": 29
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 5,
+        "reach": 6
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 6,
+        "reach": 8
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 3,
+        "reach": 6
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 1,
+        "reach": 2
+      }
+    ]
+  },
+  {
     "id": "none-keyword-noise",
     "name": "None (keyword noise)",
     "kind": "unmatched",
@@ -739,114 +847,6 @@
         "week_start": "2026-09-21",
         "count": 0,
         "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "sean-carroll",
-    "name": "Sean Carroll",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Homewood Professor of Natural Philosophy at Johns Hopkins University",
-    "profile_url": "https://snfagora.jhu.edu/directory/sean-carroll/",
-    "photo_url": "images/people/sean-carroll.jpeg",
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 32,
-    "mentions_in_digest": 12,
-    "reach_proxy": 56,
-    "first_mention_date": "2026-07-03",
-    "last_mention_date": "2026-09-22",
-    "sentiment": {
-      "positive": 5,
-      "neutral": 12,
-      "negative": 1,
-      "unknown": 14
-    },
-    "top_sources": [
-      {
-        "source": "Youtube",
-        "count": 4
-      },
-      {
-        "source": "Twitter",
-        "count": 3
-      },
-      {
-        "source": "YouTube",
-        "count": 3
-      },
-      {
-        "source": "Bluesky",
-        "count": 2
-      },
-      {
-        "source": "The New York Times",
-        "count": 2
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-13",
-        "count": 2,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 5,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 4,
-        "reach": 29
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 5,
-        "reach": 6
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 6,
-        "reach": 8
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 3,
-        "reach": 6
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 1,
-        "reach": 1
       },
       {
         "week_start": "2026-09-28",
@@ -975,16 +975,16 @@
       "Core Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 23,
-    "mentions_in_digest": 11,
-    "reach_proxy": 359,
+    "mentions_total": 24,
+    "mentions_in_digest": 12,
+    "reach_proxy": 360,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-09-21",
+    "last_mention_date": "2026-09-30",
     "sentiment": {
       "positive": 11,
       "neutral": 3,
       "negative": 0,
-      "unknown": 9
+      "unknown": 10
     },
     "top_sources": [
       {
@@ -1066,8 +1066,8 @@
       },
       {
         "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -1189,13 +1189,13 @@
       "Core Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 19,
-    "mentions_in_digest": 17,
-    "reach_proxy": 38,
+    "mentions_total": 20,
+    "mentions_in_digest": 18,
+    "reach_proxy": 39,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-09-29",
+    "last_mention_date": "2026-09-30",
     "sentiment": {
-      "positive": 7,
+      "positive": 8,
       "neutral": 5,
       "negative": 0,
       "unknown": 7
@@ -1210,15 +1210,15 @@
         "count": 2
       },
       {
+        "source": "The Johns Hopkins News-Letter",
+        "count": 2
+      },
+      {
         "source": "Bluesky",
         "count": 1
       },
       {
         "source": "EndrTimes",
-        "count": 1
-      },
-      {
-        "source": "JHU Hub",
         "count": 1
       }
     ],
@@ -1280,8 +1280,8 @@
       },
       {
         "week_start": "2026-09-28",
-        "count": 3,
-        "reach": 3
+        "count": 4,
+        "reach": 4
       }
     ]
   },
@@ -1827,21 +1827,21 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 11,
-    "mentions_in_digest": 5,
-    "reach_proxy": 27,
+    "mentions_total": 13,
+    "mentions_in_digest": 6,
+    "reach_proxy": 30,
     "first_mention_date": "2026-08-12",
-    "last_mention_date": "2026-09-14",
+    "last_mention_date": "2026-10-01",
     "sentiment": {
-      "positive": 1,
+      "positive": 2,
       "neutral": 0,
       "negative": 0,
-      "unknown": 10
+      "unknown": 11
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 5
+        "count": 6
       },
       {
         "source": "Adevarul.ro",
@@ -1918,8 +1918,8 @@
       },
       {
         "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
+        "count": 2,
+        "reach": 3
       }
     ]
   },
@@ -2674,6 +2674,114 @@
     ]
   },
   {
+    "id": "mara-karlin",
+    "name": "Mara Karlin",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Director of the Foreign Policy Institute at Johns Hopkins School of Advanced International Studies",
+    "profile_url": "https://snfagora.jhu.edu/directory/mara-karlin/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 7,
+    "mentions_in_digest": 3,
+    "reach_proxy": 83,
+    "first_mention_date": "2026-07-19",
+    "last_mention_date": "2026-10-01",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0,
+      "unknown": 3
+    },
+    "top_sources": [
+      {
+        "source": "Council on Foreign Relations",
+        "count": 1
+      },
+      {
+        "source": "EUROPE SAYS",
+        "count": 1
+      },
+      {
+        "source": "L'Italia e il Mondo",
+        "count": 1
+      },
+      {
+        "source": "Münchner Merkur",
+        "count": 1
+      },
+      {
+        "source": "Newsweek",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-13",
+        "count": 1,
+        "reach": 8
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 1,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 2,
+        "reach": 69
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "christopher-krupenye",
     "name": "Christopher Krupenye",
     "kind": "faculty",
@@ -3206,114 +3314,6 @@
     ]
   },
   {
-    "id": "mara-karlin",
-    "name": "Mara Karlin",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Director of the Foreign Policy Institute at Johns Hopkins School of Advanced International Studies",
-    "profile_url": "https://snfagora.jhu.edu/directory/mara-karlin/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 6,
-    "mentions_in_digest": 3,
-    "reach_proxy": 82,
-    "first_mention_date": "2026-07-19",
-    "last_mention_date": "2026-08-18",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 4,
-      "negative": 0,
-      "unknown": 2
-    },
-    "top_sources": [
-      {
-        "source": "Council on Foreign Relations",
-        "count": 1
-      },
-      {
-        "source": "EUROPE SAYS",
-        "count": 1
-      },
-      {
-        "source": "Münchner Merkur",
-        "count": 1
-      },
-      {
-        "source": "Newsweek",
-        "count": 1
-      },
-      {
-        "source": "The Cipher Brief",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-13",
-        "count": 1,
-        "reach": 8
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 1,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 2,
-        "reach": 69
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
     "id": "max-cohen",
     "name": "Max Cohen",
     "kind": "faculty",
@@ -3612,6 +3612,114 @@
         "week_start": "2026-09-28",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "steven-teles",
+    "name": "Steven Teles",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Professor of Political Science",
+    "profile_url": "https://snfagora.jhu.edu/directory/steven-teles/",
+    "photo_url": null,
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": true,
+    "mentions_total": 5,
+    "mentions_in_digest": 4,
+    "reach_proxy": 9,
+    "first_mention_date": "2026-07-16",
+    "last_mention_date": "2026-09-30",
+    "sentiment": {
+      "positive": 2,
+      "neutral": 1,
+      "negative": 0,
+      "unknown": 2
+    },
+    "top_sources": [
+      {
+        "source": "Substack (Glenn Loury)",
+        "count": 1
+      },
+      {
+        "source": "The Glenn Show (Substack)",
+        "count": 1
+      },
+      {
+        "source": "The Johns Hopkins News-Letter",
+        "count": 1
+      },
+      {
+        "source": "Twitter",
+        "count": 1
+      },
+      {
+        "source": "UCLA Faculty Association",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-13",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 1,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 1,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -3922,110 +4030,6 @@
     ]
   },
   {
-    "id": "steven-teles",
-    "name": "Steven Teles",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Professor of Political Science",
-    "profile_url": "https://snfagora.jhu.edu/directory/steven-teles/",
-    "photo_url": null,
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": true,
-    "mentions_total": 4,
-    "mentions_in_digest": 3,
-    "reach_proxy": 8,
-    "first_mention_date": "2026-07-16",
-    "last_mention_date": "2026-09-02",
-    "sentiment": {
-      "positive": 2,
-      "neutral": 1,
-      "negative": 0,
-      "unknown": 1
-    },
-    "top_sources": [
-      {
-        "source": "Substack (Glenn Loury)",
-        "count": 1
-      },
-      {
-        "source": "The Glenn Show (Substack)",
-        "count": 1
-      },
-      {
-        "source": "Twitter",
-        "count": 1
-      },
-      {
-        "source": "UCLA Faculty Association",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-13",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 1,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 1,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
     "id": "andre-nogueira",
     "name": "André Nogueira",
     "kind": "faculty",
@@ -4222,6 +4226,206 @@
         "week_start": "2026-09-28",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "benjamin-storey",
+    "name": "Benjamin Storey",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Visiting Fellow, AY25-26",
+    "profile_url": "https://snfagora.jhu.edu/directory/benjamin-storey/",
+    "photo_url": null,
+    "categories": [
+      "Visiting Fellows"
+    ],
+    "is_ces": false,
+    "mentions_total": 3,
+    "mentions_in_digest": 3,
+    "reach_proxy": 3,
+    "first_mention_date": "2026-08-27",
+    "last_mention_date": "2026-09-30",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 3
+    },
+    "top_sources": [
+      {
+        "source": "The Hub",
+        "count": 1
+      },
+      {
+        "source": "The Hub - Johns Hopkins University",
+        "count": 1
+      },
+      {
+        "source": "The Johns Hopkins News-Letter",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
+    "id": "jeanne-marie-jackson",
+    "name": "Jeanne-Marie Jackson",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Professor of English & Director, Alexander Grass Humanities Institute",
+    "profile_url": "https://snfagora.jhu.edu/directory/jeanne-marie-jackson/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": true,
+    "mentions_total": 3,
+    "mentions_in_digest": 2,
+    "reach_proxy": 3,
+    "first_mention_date": "2026-08-24",
+    "last_mention_date": "2026-09-30",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 3
+    },
+    "top_sources": [
+      {
+        "source": "Bluesky",
+        "count": 1
+      },
+      {
+        "source": "Forums",
+        "count": 1
+      },
+      {
+        "source": "The Johns Hopkins News-Letter",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -5104,102 +5308,6 @@
     ]
   },
   {
-    "id": "benjamin-storey",
-    "name": "Benjamin Storey",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Visiting Fellow, AY25-26",
-    "profile_url": "https://snfagora.jhu.edu/directory/benjamin-storey/",
-    "photo_url": null,
-    "categories": [
-      "Visiting Fellows"
-    ],
-    "is_ces": false,
-    "mentions_total": 2,
-    "mentions_in_digest": 2,
-    "reach_proxy": 2,
-    "first_mention_date": "2026-08-27",
-    "last_mention_date": "2026-08-27",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 2
-    },
-    "top_sources": [
-      {
-        "source": "The Hub",
-        "count": 1
-      },
-      {
-        "source": "The Hub - Johns Hopkins University",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
     "id": "james-loeffler-not-tracked",
     "name": "James Loeffler (not tracked)",
     "kind": "unmatched",
@@ -5280,102 +5388,6 @@
         "week_start": "2026-09-14",
         "count": 1,
         "reach": 1
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "jeanne-marie-jackson",
-    "name": "Jeanne-Marie Jackson",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Professor of English & Director, Alexander Grass Humanities Institute",
-    "profile_url": "https://snfagora.jhu.edu/directory/jeanne-marie-jackson/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": true,
-    "mentions_total": 2,
-    "mentions_in_digest": 1,
-    "reach_proxy": 2,
-    "first_mention_date": "2026-08-24",
-    "last_mention_date": "2026-09-08",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 2
-    },
-    "top_sources": [
-      {
-        "source": "Bluesky",
-        "count": 1
-      },
-      {
-        "source": "Forums",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
       },
       {
         "week_start": "2026-09-21",
@@ -6404,6 +6416,96 @@
         "week_start": "2026-09-28",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "andrew-perrin",
+    "name": "Andrew Perrin",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": "images/people/andrew-perrin.jpg",
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 1,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-09-30",
+    "last_mention_date": "2026-09-30",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0,
+      "unknown": 0
+    },
+    "top_sources": [
+      {
+        "source": "The Johns Hopkins News-Letter",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
