@@ -9,25 +9,25 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 233,
+    "mentions_total": 269,
     "mentions_in_digest": 0,
-    "reach_proxy": 1577,
+    "reach_proxy": 1629,
     "first_mention_date": "2026-08-30",
-    "last_mention_date": "2026-10-01",
+    "last_mention_date": "2026-10-02",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
       "negative": 0,
-      "unknown": 233
+      "unknown": 269
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 28
+        "count": 47
       },
       {
         "source": "Youtube",
-        "count": 16
+        "count": 23
       },
       {
         "source": "Springer",
@@ -100,8 +100,8 @@
       },
       {
         "week_start": "2026-09-28",
-        "count": 90,
-        "reach": 387
+        "count": 126,
+        "reach": 439
       }
     ]
   },
@@ -115,25 +115,25 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 94,
-    "mentions_in_digest": 31,
-    "reach_proxy": 199,
+    "mentions_total": 97,
+    "mentions_in_digest": 32,
+    "reach_proxy": 202,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-09-30",
+    "last_mention_date": "2026-10-01",
     "sentiment": {
       "positive": 21,
-      "neutral": 27,
+      "neutral": 28,
       "negative": 3,
-      "unknown": 43
+      "unknown": 45
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 31
+        "count": 33
       },
       {
         "source": "LinkedIn",
-        "count": 14
+        "count": 15
       },
       {
         "source": "Bluesky",
@@ -206,8 +206,8 @@
       },
       {
         "week_start": "2026-09-28",
-        "count": 8,
-        "reach": 10
+        "count": 11,
+        "reach": 13
       }
     ]
   },
@@ -329,14 +329,14 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 65,
-    "mentions_in_digest": 35,
-    "reach_proxy": 321,
+    "mentions_total": 66,
+    "mentions_in_digest": 36,
+    "reach_proxy": 322,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-09-30",
+    "last_mention_date": "2026-10-01",
     "sentiment": {
       "positive": 10,
-      "neutral": 13,
+      "neutral": 14,
       "negative": 5,
       "unknown": 37
     },
@@ -417,6 +417,114 @@
         "week_start": "2026-09-21",
         "count": 7,
         "reach": 8
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 3,
+        "reach": 3
+      }
+    ]
+  },
+  {
+    "id": "yascha-mounk",
+    "name": "Yascha Mounk",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Senior Fellow and Professor of Practice, SAIS",
+    "profile_url": "https://snfagora.jhu.edu/directory/yascha-mounk/",
+    "photo_url": null,
+    "categories": [
+      "Continuing Faculty + Fellows"
+    ],
+    "is_ces": false,
+    "mentions_total": 41,
+    "mentions_in_digest": 15,
+    "reach_proxy": 222,
+    "first_mention_date": "2026-07-02",
+    "last_mention_date": "2026-10-02",
+    "sentiment": {
+      "positive": 2,
+      "neutral": 11,
+      "negative": 1,
+      "unknown": 27
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 17
+      },
+      {
+        "source": "Le Figaro",
+        "count": 2
+      },
+      {
+        "source": "Substack",
+        "count": 2
+      },
+      {
+        "source": "Youtube",
+        "count": 2
+      },
+      {
+        "source": "reddit.com/r/philosophypodcasts",
+        "count": 2
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-13",
+        "count": 4,
+        "reach": 5
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 3,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 3,
+        "reach": 130
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 4,
+        "reach": 5
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 2,
+        "reach": 13
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 4,
+        "reach": 46
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 10,
+        "reach": 12
       },
       {
         "week_start": "2026-09-28",
@@ -530,114 +638,6 @@
         "week_start": "2026-09-28",
         "count": 1,
         "reach": 2
-      }
-    ]
-  },
-  {
-    "id": "yascha-mounk",
-    "name": "Yascha Mounk",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Senior Fellow and Professor of Practice, SAIS",
-    "profile_url": "https://snfagora.jhu.edu/directory/yascha-mounk/",
-    "photo_url": null,
-    "categories": [
-      "Continuing Faculty + Fellows"
-    ],
-    "is_ces": false,
-    "mentions_total": 40,
-    "mentions_in_digest": 14,
-    "reach_proxy": 221,
-    "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-09-28",
-    "sentiment": {
-      "positive": 2,
-      "neutral": 10,
-      "negative": 1,
-      "unknown": 27
-    },
-    "top_sources": [
-      {
-        "source": "Twitter",
-        "count": 17
-      },
-      {
-        "source": "Le Figaro",
-        "count": 2
-      },
-      {
-        "source": "Substack",
-        "count": 2
-      },
-      {
-        "source": "Youtube",
-        "count": 2
-      },
-      {
-        "source": "reddit.com/r/philosophypodcasts",
-        "count": 2
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-13",
-        "count": 4,
-        "reach": 5
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 3,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 3,
-        "reach": 130
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 4,
-        "reach": 5
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 2,
-        "reach": 13
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 4,
-        "reach": 46
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 10,
-        "reach": 12
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 1,
-        "reach": 1
       }
     ]
   },
@@ -1189,16 +1189,16 @@
       "Core Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 20,
+    "mentions_total": 21,
     "mentions_in_digest": 18,
-    "reach_proxy": 39,
+    "reach_proxy": 40,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-09-30",
+    "last_mention_date": "2026-10-01",
     "sentiment": {
       "positive": 8,
       "neutral": 5,
       "negative": 0,
-      "unknown": 7
+      "unknown": 8
     },
     "top_sources": [
       {
@@ -1214,11 +1214,11 @@
         "count": 2
       },
       {
-        "source": "Bluesky",
-        "count": 1
+        "source": "Twitter",
+        "count": 2
       },
       {
-        "source": "EndrTimes",
+        "source": "Bluesky",
         "count": 1
       }
     ],
@@ -1280,8 +1280,8 @@
       },
       {
         "week_start": "2026-09-28",
-        "count": 4,
-        "reach": 4
+        "count": 5,
+        "reach": 5
       }
     ]
   },
@@ -1297,13 +1297,13 @@
       "Core Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 18,
-    "mentions_in_digest": 12,
-    "reach_proxy": 52,
+    "mentions_total": 19,
+    "mentions_in_digest": 13,
+    "reach_proxy": 53,
     "first_mention_date": "2026-07-08",
-    "last_mention_date": "2026-09-28",
+    "last_mention_date": "2026-10-01",
     "sentiment": {
-      "positive": 1,
+      "positive": 2,
       "neutral": 5,
       "negative": 0,
       "unknown": 12
@@ -1388,8 +1388,8 @@
       },
       {
         "week_start": "2026-09-28",
-        "count": 2,
-        "reach": 2
+        "count": 3,
+        "reach": 3
       }
     ]
   },
@@ -1610,6 +1610,114 @@
     ]
   },
   {
+    "id": "peter-pomerantsev",
+    "name": "Peter Pomerantsev",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Senior Fellow",
+    "profile_url": "https://snfagora.jhu.edu/directory/peter-pomerantsev/",
+    "photo_url": "images/people/peter-pomerantsev.jpg",
+    "categories": [
+      "Continuing Faculty + Fellows"
+    ],
+    "is_ces": false,
+    "mentions_total": 14,
+    "mentions_in_digest": 7,
+    "reach_proxy": 31,
+    "first_mention_date": "2026-08-12",
+    "last_mention_date": "2026-10-01",
+    "sentiment": {
+      "positive": 3,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 11
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 6
+      },
+      {
+        "source": "Youtube",
+        "count": 2
+      },
+      {
+        "source": "Adevarul.ro",
+        "count": 1
+      },
+      {
+        "source": "Alles over boeken en schrijvers",
+        "count": 1
+      },
+      {
+        "source": "Comisarul.ro",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-13",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 3,
+        "reach": 19
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 4,
+        "reach": 4
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 3,
+        "reach": 4
+      }
+    ]
+  },
+  {
     "id": "unattributed-institutional-keyword-only",
     "name": "Unattributed (institutional keyword only)",
     "kind": "unmatched",
@@ -1812,114 +1920,6 @@
         "week_start": "2026-09-28",
         "count": 0,
         "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "peter-pomerantsev",
-    "name": "Peter Pomerantsev",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Senior Fellow",
-    "profile_url": "https://snfagora.jhu.edu/directory/peter-pomerantsev/",
-    "photo_url": "images/people/peter-pomerantsev.jpg",
-    "categories": [
-      "Continuing Faculty + Fellows"
-    ],
-    "is_ces": false,
-    "mentions_total": 13,
-    "mentions_in_digest": 6,
-    "reach_proxy": 30,
-    "first_mention_date": "2026-08-12",
-    "last_mention_date": "2026-10-01",
-    "sentiment": {
-      "positive": 2,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 11
-    },
-    "top_sources": [
-      {
-        "source": "Twitter",
-        "count": 6
-      },
-      {
-        "source": "Adevarul.ro",
-        "count": 1
-      },
-      {
-        "source": "Alles over boeken en schrijvers",
-        "count": 1
-      },
-      {
-        "source": "Comisarul.ro",
-        "count": 1
-      },
-      {
-        "source": "LinkedIn",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-13",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 3,
-        "reach": 19
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 4,
-        "reach": 4
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 2,
-        "reach": 3
       }
     ]
   },
