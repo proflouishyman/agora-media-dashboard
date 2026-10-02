@@ -1,7 +1,953 @@
 {
-  "generated_at": "2026-10-01T07:07:36-04:00",
-  "count": 1034,
+  "generated_at": "2026-10-02T07:07:06-04:00",
+  "count": 1078,
   "stories": [
+    {
+      "id": 1073,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "What Universities Owe Democracy Audiobook by Ronald J. Daniels",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=Gp9QZiBhyuA",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "What Universities Owe Democracy Audiobook by Ronald J. Daniels https://www.youtube.com/watch?v=Gp9QZiBhyuA",
+          "chars": 86
+        },
+        "bluesky": {
+          "text": "What Universities Owe Democracy Audiobook by Ronald J. Daniels https://www.youtube.com/watch?v=Gp9QZiBhyuA",
+          "chars": 106
+        }
+      }
+    },
+    {
+      "id": 1072,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Unwelcome Guests: A History of Access to American Higher Education Audiobook by Harold S. Wechsler",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=Ue_aUUfbKw8",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Unwelcome Guests: A History of Access to American Higher Education Audiobook by Harold S. Wechsler https://www.youtube.com/watch?v=Ue_aUUfbKw8",
+          "chars": 122
+        },
+        "bluesky": {
+          "text": "Unwelcome Guests: A History of Access to American Higher Education Audiobook by Harold S. Wechsler https://www.youtube.com/watch?v=Ue_aUUfbKw8",
+          "chars": 142
+        }
+      }
+    },
+    {
+      "id": 1071,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "American Higher Education in the Twenty-First Century: Social, Political, and Economic Challenges",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=rAw_uSov1S8",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "American Higher Education in the Twenty-First Century: Social, Political, and Economic Challenges https://www.youtube.com/watch?v=rAw_uSov1S8",
+          "chars": 121
+        },
+        "bluesky": {
+          "text": "American Higher Education in the Twenty-First Century: Social, Political, and Economic Challenges https://www.youtube.com/watch?v=rAw_uSov1S8",
+          "chars": 141
+        }
+      }
+    },
+    {
+      "id": 1070,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Westworld: série completa 10 anos e cancelada",
+      "has_text": true,
+      "url": "https://culpadolag.com.br/westworld-serie-completa-10-anos-e-cancelada",
+      "source": "Culpa do Lag",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Westworld: série completa 10 anos e cancelada https://culpadolag.com.br/westworld-serie-completa-10-anos-e-cancelada",
+          "chars": 69
+        },
+        "bluesky": {
+          "text": "Westworld: série completa 10 anos e cancelada https://culpadolag.com.br/westworld-serie-completa-10-anos-e-cancelada",
+          "chars": 116
+        }
+      }
+    },
+    {
+      "id": 1051,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1050,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1049,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1045,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "Werden die Midterms zur Abrechnung mit Trump?",
+      "has_text": true,
+      "url": "https://www.zeit.de/politik/2026-10/us-demokraten-midterms-donald-trump-politikpodcast",
+      "source": "ZEIT online",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Werden die Midterms zur Abrechnung mit Trump? https://www.zeit.de/politik/2026-10/us-demokraten-midterms-donald-trump-politikpodcast",
+          "chars": 69
+        },
+        "bluesky": {
+          "text": "Werden die Midterms zur Abrechnung mit Trump? https://www.zeit.de/politik/2026-10/us-demokraten-midterms-donald-trump-politikpodcast",
+          "chars": 132
+        }
+      }
+    },
+    {
+      "id": 1077,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Hedge fund CEO Ken Griffin gives record $3B to Carnegie Mellon to build Miami campus",
+      "has_text": true,
+      "url": "https://www.courant.com/2026/10/01/hedge-fund-ceo-ken-griffin-gives-record-3b-to-carnegie-mellon-to-build-miami-campus/",
+      "source": "Hartford Courant",
+      "source_type": "online news",
+      "similar_mention_count": 15,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Hedge fund CEO Ken Griffin gives record $3B to Carnegie Mellon to build Miami campus https://www.courant.com/2026/10/01/hedge-fund-ceo-ken-griffin-gives-record-3b-to-carnegie-mellon-to-build-miami-campus/",
+          "chars": 108
+        },
+        "bluesky": {
+          "text": "Hedge fund CEO Ken Griffin gives record $3B to Carnegie Mellon to build Miami campus https://www.courant.com/2026/10/01/hedge-fund-ceo-ken-griffin-gives-record-3b-to-carnegie-mellon-to-build-miami-campus/",
+          "chars": 204
+        }
+      }
+    },
+    {
+      "id": 1086,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "A mitologia americana da “democracia liberal”",
+      "has_text": true,
+      "url": "https://alemdarena.blogspot.com/2026/10/a-mitologia-americana-da-democracia.html",
+      "source": "além d'arena",
+      "source_type": "blog",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "A mitologia americana da “democracia liberal” https://alemdarena.blogspot.com/2026/10/a-mitologia-americana-da-democracia.html",
+          "chars": 69
+        },
+        "bluesky": {
+          "text": "A mitologia americana da “democracia liberal” https://alemdarena.blogspot.com/2026/10/a-mitologia-americana-da-democracia.html",
+          "chars": 126
+        }
+      }
+    },
+    {
+      "id": 1080,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "What is Carnegie Mellon? Inside the university’s big move into Miami",
+      "has_text": true,
+      "url": "https://www.sacbee.com/news/nation-world/national/article317412165.html",
+      "source": "The Sacramento Bee",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "What is Carnegie Mellon? Inside the university’s big move into Miami https://www.sacbee.com/news/nation-world/national/article317412165.html",
+          "chars": 92
+        },
+        "bluesky": {
+          "text": "What is Carnegie Mellon? Inside the university’s big move into Miami https://www.sacbee.com/news/nation-world/national/article317412165.html",
+          "chars": 140
+        }
+      }
+    },
+    {
+      "id": 1085,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "EUA confirmam 5ª morte por sarampo este ano; entenda o que leva país ao pior surto desde os anos 2000",
+      "has_text": true,
+      "url": "https://jornaldeminas.com.br/eua-confirmam-5a-morte-por-sarampo-este-ano-entenda-o-que-leva-pais-ao-pior-surto-desde-os-anos-2000/",
+      "source": "Jornal de Minas",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "EUA confirmam 5ª morte por sarampo este ano; entenda o que leva país ao pior surto desde os anos 2000 https://jornaldeminas.com.br/eua-confirmam-5a-morte-por-sarampo-este-ano-entenda-o-que-leva-pais-ao-pior-surto-desde-os-anos-2000/",
+          "chars": 125
+        },
+        "bluesky": {
+          "text": "EUA confirmam 5ª morte por sarampo este ano; entenda o que leva país ao pior surto desde os anos 2000 https://jornaldeminas.com.br/eua-confirmam-5a-morte-por-sarampo-este-ano-entenda-o-que-leva-pais-ao-pior-surto-desde-os-anos-2000/",
+          "chars": 232
+        }
+      }
+    },
+    {
+      "id": 1084,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Academic freedom ‘completely restricted’ under Erdogan",
+      "has_text": true,
+      "url": "https://www.universityworldnews.com/post.php?story=20261001161248813",
+      "source": "University World News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Academic freedom ‘completely restricted’ under Erdogan https://www.universityworldnews.com/post.php?story=20261001161248813",
+          "chars": 78
+        },
+        "bluesky": {
+          "text": "Academic freedom ‘completely restricted’ under Erdogan https://www.universityworldnews.com/post.php?story=20261001161248813",
+          "chars": 123
+        }
+      }
+    },
+    {
+      "id": 1083,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Relationship-Rich Education: How Human Connections Drive Success in College",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=ayCzvJrow-o",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Relationship-Rich Education: How Human Connections Drive Success in College https://www.youtube.com/watch?v=ayCzvJrow-o",
+          "chars": 99
+        },
+        "bluesky": {
+          "text": "Relationship-Rich Education: How Human Connections Drive Success in College https://www.youtube.com/watch?v=ayCzvJrow-o",
+          "chars": 119
+        }
+      }
+    },
+    {
+      "id": 1082,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "ODU Honors Monarchs Making Their Mark Across Generations",
+      "has_text": true,
+      "url": "https://www.odu.edu/article/odu-honors-monarchs-making-their-mark-across-generations",
+      "source": "Monarch Magazine",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "ODU Honors Monarchs Making Their Mark Across Generations https://www.odu.edu/article/odu-honors-monarchs-making-their-mark-across-generations",
+          "chars": 80
+        },
+        "bluesky": {
+          "text": "ODU Honors Monarchs Making Their Mark Across Generations https://www.odu.edu/article/odu-honors-monarchs-making-their-mark-across-generations",
+          "chars": 141
+        }
+      }
+    },
+    {
+      "id": 1081,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "From Arizona State’s School of Earth and Space Exploration: [Astronomy, Cosmology & Astrophysics/Black Hole Science] ‘Black hole jets may shape the fate of entire galaxies’",
+      "has_text": true,
+      "url": "https://sciencesprings.wordpress.com/2026/10/01/from-arizona-states-school-of-earth-and-space-exploration-astronomy-cosmology-astrophysics-black-hole-science-black-hole-jets-may-shape-the-fate-of-entire-galaxies/",
+      "source": "wordpress.com",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "From Arizona State’s School of Earth and Space Exploration: [Astronomy, Cosmology & Astrophysics/Black Hole Science] ‘Black hole jets may shape the fate of entire galaxies’ https://sciencesprings.wordpress.com/2026/10/01/from-arizona-states-school-of-earth-and-space-exploration-astronomy-cosmology-astrophysics-black-hole-science-black-hole-jets-may-shape-the-fate-of-entire-galaxies/",
+          "chars": 196
+        },
+        "bluesky": {
+          "text": "From Arizona State’s School of Earth and Space Exploration: [Astronomy, Cosmology & A… https://sciencesprings.wordpress.com/2026/10/01/from-arizona-states-school-of-earth-and-space-exploration-astronomy-cosmology-astrophysics-black-hole-science-black-hole-jets-may-shape-the-fate-of-entire-galaxies/",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 1079,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Forbes Daily: Judge Clears The Way For Paramount Skydance’s Merger",
+      "has_text": true,
+      "url": "https://www.forbes.com/sites/daniellechemtob/2026/10/01/forbes-daily-a-judge-clears-the-way-for-paramount-skydances-merger/",
+      "source": "Forbes",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Forbes Daily: Judge Clears The Way For Paramount Skydance’s Merger https://www.forbes.com/sites/daniellechemtob/2026/10/01/forbes-daily-a-judge-clears-the-way-for-paramount-skydances-merger/",
+          "chars": 90
+        },
+        "bluesky": {
+          "text": "Forbes Daily: Judge Clears The Way For Paramount Skydance’s Merger https://www.forbes.com/sites/daniellechemtob/2026/10/01/forbes-daily-a-judge-clears-the-way-for-paramount-skydances-merger/",
+          "chars": 190
+        }
+      }
+    },
+    {
+      "id": 1078,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Carnegie Mellon nets $3 billion gift, most ever given to a university",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=2wKwoAKYNy0",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Carnegie Mellon nets $3 billion gift, most ever given to a university https://www.youtube.com/watch?v=2wKwoAKYNy0",
+          "chars": 93
+        },
+        "bluesky": {
+          "text": "Carnegie Mellon nets $3 billion gift, most ever given to a university https://www.youtube.com/watch?v=2wKwoAKYNy0",
+          "chars": 113
+        }
+      }
+    },
+    {
+      "id": 1076,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Massachusetts institute of technology Cambridge",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=r1CINzGcxok",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Massachusetts institute of technology Cambridge https://www.youtube.com/watch?v=r1CINzGcxok",
+          "chars": 71
+        },
+        "bluesky": {
+          "text": "Massachusetts institute of technology Cambridge https://www.youtube.com/watch?v=r1CINzGcxok",
+          "chars": 91
+        }
+      }
+    },
+    {
+      "id": 1075,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "THE World University Rankings 2027 Explained - Top Colleges, Scores & Trends | Study Abroad",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=4K3PEdkkMY0",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "THE World University Rankings 2027 Explained - Top Colleges, Scores & Trends | Study Abroad https://www.youtube.com/watch?v=4K3PEdkkMY0",
+          "chars": 115
+        },
+        "bluesky": {
+          "text": "THE World University Rankings 2027 Explained - Top Colleges, Scores & Trends | Study Abroad https://www.youtube.com/watch?v=4K3PEdkkMY0",
+          "chars": 135
+        }
+      }
+    },
+    {
+      "id": 1074,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "20 Kampus Terbaik di Dunia Versi THE WUR 2027: Oxford, MIT, dan Stanford Masih di Puncak",
+      "has_text": true,
+      "url": "https://www.medcom.id/pendidikan/news-pendidikan/aNr1z76K-20-kampus-terbaik-di-dunia-versi-the-wur-2027-oxford-mit-dan-stanford-masih-di-puncak",
+      "source": "Medcom ID",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "20 Kampus Terbaik di Dunia Versi THE WUR 2027: Oxford, MIT, dan Stanford Masih di Puncak https://www.medcom.id/pendidikan/news-pendidikan/aNr1z76K-20-kampus-terbaik-di-dunia-versi-the-wur-2027-oxford-mit-dan-stanford-masih-di-puncak",
+          "chars": 112
+        },
+        "bluesky": {
+          "text": "20 Kampus Terbaik di Dunia Versi THE WUR 2027: Oxford, MIT, dan Stanford Masih di Puncak https://www.medcom.id/pendidikan/news-pendidikan/aNr1z76K-20-kampus-terbaik-di-dunia-versi-the-wur-2027-oxford-mit-dan-stanford-masih-di-puncak",
+          "chars": 232
+        }
+      }
+    },
+    {
+      "id": 1069,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1068,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1067,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1066,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1065,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1064,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1063,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1062,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1061,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1060,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1059,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1058,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1057,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1056,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1055,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1054,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1053,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1052,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1048,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "ruth-braunstein",
+      "person": "Ruth Braunstein",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1047,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Open to Debate and SNF Agora Institute named Shorty Impact Awards finalists (LinkedIn post)",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7511459473928921089",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Open to Debate and SNF Agora Institute named Shorty Impact Awards finalists (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:share:7511459473928921089",
+          "chars": 115
+        },
+        "bluesky": {
+          "text": "Open to Debate and SNF Agora Institute named Shorty Impact Awards finalists (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:share:7511459473928921089",
+          "chars": 161
+        }
+      }
+    },
+    {
+      "id": 1046,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "peter-pomerantsev",
+      "person": "Peter Pomerantsev",
+      "is_ces": false,
+      "title": "How To Defend Yourself From Misinformation Campaigns | Peter Pomerantsev",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=5Jm_PA__BK0",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "How To Defend Yourself From Misinformation Campaigns | Peter Pomerantsev https://www.youtube.com/watch?v=5Jm_PA__BK0",
+          "chars": 96
+        },
+        "bluesky": {
+          "text": "How To Defend Yourself From Misinformation Campaigns | Peter Pomerantsev https://www.youtube.com/watch?v=5Jm_PA__BK0",
+          "chars": 116
+        }
+      }
+    },
+    {
+      "id": 1044,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Anne Applebaum: The Corruption Most Americans Don't See",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=6Z_N23JFiQ4",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Anne Applebaum: The Corruption Most Americans Don't See https://www.youtube.com/watch?v=6Z_N23JFiQ4",
+          "chars": 79
+        },
+        "bluesky": {
+          "text": "Anne Applebaum: The Corruption Most Americans Don't See https://www.youtube.com/watch?v=6Z_N23JFiQ4",
+          "chars": 99
+        }
+      }
+    },
+    {
+      "id": 1043,
+      "date": "2026-10-01",
+      "week_start": "2026-09-28",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "Polarization Is Not the Problem (Journal of Democracy essay, LinkedIn post)",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7511523701314498560",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Polarization Is Not the Problem (Journal of Democracy essay, LinkedIn post) https://www.linkedin.com/feed/update/urn:li:share:7511523701314498560",
+          "chars": 99
+        },
+        "bluesky": {
+          "text": "Polarization Is Not the Problem (Journal of Democracy essay, LinkedIn post) https://www.linkedin.com/feed/update/urn:li:share:7511523701314498560",
+          "chars": 145
+        }
+      }
+    },
     {
       "id": 995,
       "date": "2026-10-01",

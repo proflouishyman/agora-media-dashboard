@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-10-01T07:07:36-04:00",
-  "count": 67,
+  "generated_at": "2026-10-02T07:07:06-04:00",
+  "count": 68,
   "picks": [
+    {
+      "id": 86,
+      "mention_id": 1043,
+      "digest_date": "2026-10-01",
+      "person": "Lilliana Mason",
+      "person_id": "lilliana-mason",
+      "person_ids": [
+        "lilliana-mason"
+      ],
+      "is_ces": false,
+      "punchy_title": "Lilliana Mason: Polarization Isn't the Disease, It's the Immune Response",
+      "headline": "Lilliana Mason: Polarization Isn't the Disease, It's the Immune Response",
+      "pull_quote": "Polarization is the country’s immune response to an unpopular, antidemocratic, and intentionally divisive faction grabbing for disproportionate power to the detriment of national success, reputation, and democratic self-government.",
+      "rationale": "Polarization is the country’s immune response to an unpopular, antidemocratic, and intentionally divisive faction grabbing for disproportionate power to the detriment of national success, reputation, and democratic self-government.",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7511523701314498560",
+      "story_url": "https://www.linkedin.com/feed/update/urn:li:share:7511523701314498560",
+      "created_at": "2026-10-02 11:06:53",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "SNF Agora's Lilliana Mason in the Journal of Democracy: polarization is \"the country's immune response\" to an antidemocratic faction grabbing for power. https://www.linkedin.com/feed/update/urn:li:share:7511523701314498560",
+          "chars": 222,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=SNF%20Agora%27s%20Lilliana%20Mason%20in%20the%20Journal%20of%20Democracy%3A%20polarization%20is%20%22the%20country%27s%20immune%20response%22%20to%20an%20antidemocratic%20faction%20grabbing%20for%20power.%20https%3A//www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7511523701314498560"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "\"The thing to 'fix' is not polarization,\" argues SNF Agora's Lilliana Mason in the Journal of Democracy. It is \"the country's immune response\" to an antidemocratic faction grabbing for disproportionate power. https://www.linkedin.com/feed/update/urn:li:share:7511523701314498560",
+          "chars": 278,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=%22The%20thing%20to%20%27fix%27%20is%20not%20polarization%2C%22%20argues%20SNF%20Agora%27s%20Lilliana%20Mason%20in%20the%20Journal%20of%20Democracy.%20It%20is%20%22the%20country%27s%20immune%20response%22%20to%20an%20antidemocratic%20faction%20grabbing%20for%20disproportionate%20power.%20https%3A//www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7511523701314498560"
+        }
+      ]
+    },
     {
       "id": 85,
       "mention_id": 1007,
