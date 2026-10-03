@@ -1,7 +1,628 @@
 {
-  "generated_at": "2026-10-02T07:07:06-04:00",
-  "count": 1078,
+  "generated_at": "2026-10-03T07:07:11-04:00",
+  "count": 1105,
   "stories": [
+    {
+      "id": 1088,
+      "date": "2026-10-03",
+      "week_start": "2026-09-28",
+      "person_id": "dylan-selterman",
+      "person": "Dylan Selterman",
+      "is_ces": false,
+      "title": "How Left-wing justifications partly shield antisemitism from liberal disapproval, study suggests",
+      "has_text": true,
+      "url": "https://healthmedicinet.com/hmn-2026-how-left-wing-justifications-partly-shield-antisemitism-from-liberal-disapproval-study-suggests/",
+      "source": "Health Medicine Network",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "How Left-wing justifications partly shield antisemitism from liberal disapproval, study suggests https://healthmedicinet.com/hmn-2026-how-left-wing-justifications-partly-shield-antisemitism-from-liberal-disapproval-study-suggests/",
+          "chars": 120
+        },
+        "bluesky": {
+          "text": "How Left-wing justifications partly shield antisemitism from liberal disapproval, study suggests https://healthmedicinet.com/hmn-2026-how-left-wing-justifications-partly-shield-antisemitism-from-liberal-disapproval-study-suggests/",
+          "chars": 230
+        }
+      }
+    },
+    {
+      "id": 1092,
+      "date": "2026-10-03",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1103,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Morgan Faculty and Staff Earn Recognition for Leadership, Scholarship and Community Impact",
+      "has_text": true,
+      "url": "https://globalhealthcaretoday.com/article/947016713-morgan-faculty-and-staff-earn-recognition-for-leadership-scholarship-and-community-impact",
+      "source": "Global Healthcare Today",
+      "source_type": "online news",
+      "similar_mention_count": 9,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Morgan Faculty and Staff Earn Recognition for Leadership, Scholarship and Community Impact https://globalhealthcaretoday.com/article/947016713-morgan-faculty-and-staff-earn-recognition-for-leadership-scholarship-and-community-impact",
+          "chars": 114
+        },
+        "bluesky": {
+          "text": "Morgan Faculty and Staff Earn Recognition for Leadership, Scholarship and Community Impact https://globalhealthcaretoday.com/article/947016713-morgan-faculty-and-staff-earn-recognition-for-leadership-scholarship-and-community-impact",
+          "chars": 232
+        }
+      }
+    },
+    {
+      "id": 1109,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "LinkedIn post: new PhD student thanks mentors incl. SNF Agora Institute",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7511709472889720832",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "LinkedIn post: new PhD student thanks mentors incl. SNF Agora Institute https://www.linkedin.com/feed/update/urn:li:share:7511709472889720832",
+          "chars": 95
+        },
+        "bluesky": {
+          "text": "LinkedIn post: new PhD student thanks mentors incl. SNF Agora Institute https://www.linkedin.com/feed/update/urn:li:share:7511709472889720832",
+          "chars": 141
+        }
+      }
+    },
+    {
+      "id": 1105,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "agora",
+      "person": "agora",
+      "is_ces": false,
+      "title": "Da libertação da mulher à desconfiança, como a pílula deixou de ser a escolha óbvia de contracepção",
+      "has_text": true,
+      "url": "https://www.terra.com.br/noticias/mundo/europa/da-libertacao-da-mulher-a-desconfianca-como-a-pilula-deixou-de-ser-a-escolha-obvia-de-contracepcao,216253799d44060f0b53cb3bd7046277636gsyle.html",
+      "source": "Terra",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Da libertação da mulher à desconfiança, como a pílula deixou de ser a escolha óbvia de contracepção https://www.terra.com.br/noticias/mundo/europa/da-libertacao-da-mulher-a-desconfianca-como-a-pilula-deixou-de-ser-a-escolha-obvia-de-contracepcao,216253799d44060f0b53cb3bd7046277636gsyle.html",
+          "chars": 123
+        },
+        "bluesky": {
+          "text": "Da libertação da mulher à desconfiança, como a pílula deixou de ser a escolha óbvia de contracepção https://www.terra.com.br/noticias/mundo/europa/da-libertacao-da-mulher-a-desconfianca-como-a-pilula-deixou-de-ser-a-escolha-obvia-de-contracepcao,216253799d44060f0b53cb3bd7046277636gsyle.html",
+          "chars": 291
+        }
+      }
+    },
+    {
+      "id": 1090,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Hopkins Political Union encourages dialogue across differences",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/2026/10/02/hopkins-political-union-student-dialogue-innovation-fund/",
+      "source": "The Hub",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Hopkins Political Union encourages dialogue across differences https://hub.jhu.edu/2026/10/02/hopkins-political-union-student-dialogue-innovation-fund/",
+          "chars": 86
+        },
+        "bluesky": {
+          "text": "Hopkins Political Union encourages dialogue across differences https://hub.jhu.edu/2026/10/02/hopkins-political-union-student-dialogue-innovation-fund/",
+          "chars": 151
+        }
+      }
+    },
+    {
+      "id": 1089,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Lock the Vote: Confronting Confusion and Chaos in the Midterm Elections (Oct. 20 event)",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7511825697921851392",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 2,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Lock the Vote: Confronting Confusion and Chaos in the Midterm Elections (Oct. 20 event) https://www.linkedin.com/feed/update/urn:li:share:7511825697921851392",
+          "chars": 111
+        },
+        "bluesky": {
+          "text": "Lock the Vote: Confronting Confusion and Chaos in the Midterm Elections (Oct. 20 event) https://www.linkedin.com/feed/update/urn:li:share:7511825697921851392",
+          "chars": 157
+        }
+      }
+    },
+    {
+      "id": 1087,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": "Why an octogenarian's eviction has sent Spaniards into the streets",
+      "has_text": true,
+      "url": "https://www.csmonitor.com/World/Europe/2026/1002/maricarmen-madrid-spain-housing-rental-protests",
+      "source": "The Christian Science Monitor",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Why an octogenarian's eviction has sent Spaniards into the streets https://www.csmonitor.com/World/Europe/2026/1002/maricarmen-madrid-spain-housing-rental-protests",
+          "chars": 90
+        },
+        "bluesky": {
+          "text": "Why an octogenarian's eviction has sent Spaniards into the streets https://www.csmonitor.com/World/Europe/2026/1002/maricarmen-madrid-spain-housing-rental-protests",
+          "chars": 163
+        }
+      }
+    },
+    {
+      "id": 1113,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Determinants of participation in collaborative agribusiness models among young potato smallholder farmers in Wanging’ombe, Tanzania",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s44279-026-00787-x",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Determinants of participation in collaborative agribusiness models among young potato smallholder farmers in Wanging’ombe, Tanzania https://link.springer.com/article/10.1007/s44279-026-00787-x",
+          "chars": 155
+        },
+        "bluesky": {
+          "text": "Determinants of participation in collaborative agribusiness models among young potato smallholder farmers in Wanging’ombe, Tanzania https://link.springer.com/article/10.1007/s44279-026-00787-x",
+          "chars": 192
+        }
+      }
+    },
+    {
+      "id": 1112,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Johns Hopkins University, MD | OnRoute",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=4uoTse1yXi8",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Johns Hopkins University, MD | OnRoute https://www.youtube.com/watch?v=4uoTse1yXi8",
+          "chars": 62
+        },
+        "bluesky": {
+          "text": "Johns Hopkins University, MD | OnRoute https://www.youtube.com/watch?v=4uoTse1yXi8",
+          "chars": 82
+        }
+      }
+    },
+    {
+      "id": 1111,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Africa re-enters global top 150 as THE unveils 2027 university rankings",
+      "has_text": true,
+      "url": "https://ashenewsdaily.com/education/africa-re-enters-global-top-150-as-the-unveils-2027-university-rankings/",
+      "source": "Ashe News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Africa re-enters global top 150 as THE unveils 2027 university rankings https://ashenewsdaily.com/education/africa-re-enters-global-top-150-as-the-unveils-2027-university-rankings/",
+          "chars": 95
+        },
+        "bluesky": {
+          "text": "Africa re-enters global top 150 as THE unveils 2027 university rankings https://ashenewsdaily.com/education/africa-re-enters-global-top-150-as-the-unveils-2027-university-rankings/",
+          "chars": 180
+        }
+      }
+    },
+    {
+      "id": 1110,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Morehouse College Names Richard Ammons As Interim Vice President For Institutional Advancement",
+      "has_text": true,
+      "url": "https://pulse2.com/morehouse-college-names-richard-ammons-interim-vice-president-for-institutional-advancement/",
+      "source": "Pulse 2.0",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Morehouse College Names Richard Ammons As Interim Vice President For Institutional Advancement https://pulse2.com/morehouse-college-names-richard-ammons-interim-vice-president-for-institutional-advancement/",
+          "chars": 118
+        },
+        "bluesky": {
+          "text": "Morehouse College Names Richard Ammons As Interim Vice President For Institutional Advancement https://pulse2.com/morehouse-college-names-richard-ammons-interim-vice-president-for-institutional-advancement/",
+          "chars": 206
+        }
+      }
+    },
+    {
+      "id": 1108,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Ep 021: Billionaires Are Reshaping Universities",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=Eyg_fDBwpvM",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Ep 021: Billionaires Are Reshaping Universities https://www.youtube.com/watch?v=Eyg_fDBwpvM",
+          "chars": 71
+        },
+        "bluesky": {
+          "text": "Ep 021: Billionaires Are Reshaping Universities https://www.youtube.com/watch?v=Eyg_fDBwpvM",
+          "chars": 91
+        }
+      }
+    },
+    {
+      "id": 1107,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Hedge fund CEO gives $3B to Carnegie Mellon",
+      "has_text": true,
+      "url": "https://www.altoonamirror.com/news/local-business/2026/10/carnegiemellon-3b-donation-miamicampus-hedgefund-ceo-gives/",
+      "source": "The Altoona Mirror",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Hedge fund CEO gives $3B to Carnegie Mellon https://www.altoonamirror.com/news/local-business/2026/10/carnegiemellon-3b-donation-miamicampus-hedgefund-ceo-gives/",
+          "chars": 67
+        },
+        "bluesky": {
+          "text": "Hedge fund CEO gives $3B to Carnegie Mellon https://www.altoonamirror.com/news/local-business/2026/10/carnegiemellon-3b-donation-miamicampus-hedgefund-ceo-gives/",
+          "chars": 161
+        }
+      }
+    },
+    {
+      "id": 1106,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Johns Hopkins celebrates 150 years of impact and partnership in Baltimore",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/2026/10/02/johns-hopkins-rooted-in-baltimore/",
+      "source": "Hub - Johns Hopkins University",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Johns Hopkins celebrates 150 years of impact and partnership in Baltimore https://hub.jhu.edu/2026/10/02/johns-hopkins-rooted-in-baltimore/",
+          "chars": 97
+        },
+        "bluesky": {
+          "text": "Johns Hopkins celebrates 150 years of impact and partnership in Baltimore https://hub.jhu.edu/2026/10/02/johns-hopkins-rooted-in-baltimore/",
+          "chars": 139
+        }
+      }
+    },
+    {
+      "id": 1104,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "From Arizona State University’s School of Earth and Space Exploration With Hubble: [Astronomy, Cosmology & Astrophysics] ‘Hubble reveals thousands of fine threads in Messier 82’s galactic wind’",
+      "has_text": true,
+      "url": "https://sciencesprings.wordpress.com/2026/10/02/from-arizona-state-universitys-school-of-earth-and-space-exploration-with-hubble-astronomy-cosmology-astrophysics-hubble-reveals-thousands-of-fine-threads-in-messier-82s-gala/",
+      "source": "wordpress.com",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "From Arizona State University’s School of Earth and Space Exploration With Hubble: [Astronomy, Cosmology & Astrophysics] ‘Hubble reveals thousands of fine threads in Messier 82’s galactic wind’ https://sciencesprings.wordpress.com/2026/10/02/from-arizona-state-universitys-school-of-earth-and-space-exploration-with-hubble-astronomy-cosmology-astrophysics-hubble-reveals-thousands-of-fine-threads-in-messier-82s-gala/",
+          "chars": 217
+        },
+        "bluesky": {
+          "text": "From Arizona State University’s School of Earth and Space Exploration With… https://sciencesprings.wordpress.com/2026/10/02/from-arizona-state-universitys-school-of-earth-and-space-exploration-with-hubble-astronomy-cosmology-astrophysics-hubble-reveals-thousands-of-fine-threads-in-messier-82s-gala/",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 1102,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Reddit forum reply)",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/HBCU/comments/1wv332s/comment/pde16gq/",
+      "source": "reddit.com/r/HBCU",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "(no captured text — Reddit forum reply) https://www.reddit.com/r/HBCU/comments/1wv332s/comment/pde16gq/",
+          "chars": 63
+        },
+        "bluesky": {
+          "text": "(no captured text — Reddit forum reply) https://www.reddit.com/r/HBCU/comments/1wv332s/comment/pde16gq/",
+          "chars": 103
+        }
+      }
+    },
+    {
+      "id": 1101,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Reddit forum reply)",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/ApplyingToCollege/comments/1wvtwbs/comment/pdesphy/",
+      "source": "reddit.com/r/ApplyingToCollege",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "(no captured text — Reddit forum reply) https://www.reddit.com/r/ApplyingToCollege/comments/1wvtwbs/comment/pdesphy/",
+          "chars": 63
+        },
+        "bluesky": {
+          "text": "(no captured text — Reddit forum reply) https://www.reddit.com/r/ApplyingToCollege/comments/1wvtwbs/comment/pdesphy/",
+          "chars": 116
+        }
+      }
+    },
+    {
+      "id": 1100,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1099,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1098,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1097,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1096,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1095,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1094,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1093,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1091,
+      "date": "2026-10-02",
+      "week_start": "2026-09-28",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "The Evolutionary Psychology and Neuroscience of Tribalism",
+      "has_text": true,
+      "url": "https://davidcycleback.substack.com/p/the-evolutionary-psychology-and-neuroscience-d1e",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "The Evolutionary Psychology and Neuroscience of Tribalism https://davidcycleback.substack.com/p/the-evolutionary-psychology-and-neuroscience-d1e",
+          "chars": 81
+        },
+        "bluesky": {
+          "text": "The Evolutionary Psychology and Neuroscience of Tribalism https://davidcycleback.substack.com/p/the-evolutionary-psychology-and-neuroscience-d1e",
+          "chars": 144
+        }
+      }
+    },
     {
       "id": 1073,
       "date": "2026-10-02",
