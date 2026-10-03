@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-10-02T07:07:06-04:00",
-  "count": 68,
+  "generated_at": "2026-10-03T07:07:11-04:00",
+  "count": 69,
   "picks": [
+    {
+      "id": 87,
+      "mention_id": 1087,
+      "digest_date": "2026-10-02",
+      "person": "Hahrie Han",
+      "person_id": "hahrie-han",
+      "person_ids": [
+        "hahrie-han"
+      ],
+      "is_ces": false,
+      "punchy_title": "Why viral protest isn't enough: Hahrie Han on Spain's eviction backlash",
+      "headline": "Why viral protest isn't enough: Hahrie Han on Spain's eviction backlash",
+      "pull_quote": "Just because you have a viral protest doesn't mean that change actually happens.",
+      "rationale": "Just because you have a viral protest doesn't mean that change actually happens.",
+      "url": "https://www.csmonitor.com/World/Europe/2026/1002/maricarmen-madrid-spain-housing-rental-protests",
+      "story_url": "https://www.csmonitor.com/World/Europe/2026/1002/maricarmen-madrid-spain-housing-rental-protests",
+      "created_at": "2026-10-03 11:06:54",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Hahrie Han on Spain's protests: \"Just because you have a viral protest doesn't mean that change actually happens.\" - SNF Agora's Hahrie Han, via the Christian Science Monitor https://www.csmonitor.com/World/Europe/2026/1002/maricarmen-madrid-spain-housing-rental-protests",
+          "chars": 271,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Hahrie%20Han%20on%20Spain%27s%20protests%3A%20%22Just%20because%20you%20have%20a%20viral%20protest%20doesn%27t%20mean%20that%20change%20actually%20happens.%22%20-%20SNF%20Agora%27s%20Hahrie%20Han%2C%20via%20the%20Christian%20Science%20Monitor%20https%3A//www.csmonitor.com/World/Europe/2026/1002/maricarmen-madrid-spain-housing-rental-protests"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "SNF Agora's Hahrie Han on the Madrid eviction protests: \"Just because you have a viral protest doesn't mean that change actually happens.\" https://www.csmonitor.com/World/Europe/2026/1002/maricarmen-madrid-spain-housing-rental-protests",
+          "chars": 235,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=SNF%20Agora%27s%20Hahrie%20Han%20on%20the%20Madrid%20eviction%20protests%3A%20%22Just%20because%20you%20have%20a%20viral%20protest%20doesn%27t%20mean%20that%20change%20actually%20happens.%22%20https%3A//www.csmonitor.com/World/Europe/2026/1002/maricarmen-madrid-spain-housing-rental-protests"
+        }
+      ]
+    },
     {
       "id": 86,
       "mention_id": 1043,
