@@ -1,7 +1,137 @@
 {
-  "generated_at": "2026-10-03T07:07:11-04:00",
-  "count": 1105,
+  "generated_at": "2026-10-04T07:06:09-04:00",
+  "count": 1117,
   "stories": [
+    {
+      "id": 1115,
+      "date": "2026-10-04",
+      "week_start": "2026-09-28",
+      "person_id": "agora",
+      "person": "agora",
+      "is_ces": false,
+      "title": "Da libertação da mulher à desconfiança, como a pílula deixou de ser a escolha óbvia de contracepção",
+      "has_text": true,
+      "url": "https://oglobo.globo.com/saude/noticia/2026/10/04/da-libertacao-da-mulher-a-desconfianca-como-a-pilula-deixou-de-ser-a-escolha-obvia-de-contracepcao.ghtml",
+      "source": "CASA VOGUE",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Da libertação da mulher à desconfiança, como a pílula deixou de ser a escolha óbvia de contracepção https://oglobo.globo.com/saude/noticia/2026/10/04/da-libertacao-da-mulher-a-desconfianca-como-a-pilula-deixou-de-ser-a-escolha-obvia-de-contracepcao.ghtml",
+          "chars": 123
+        },
+        "bluesky": {
+          "text": "Da libertação da mulher à desconfiança, como a pílula deixou de ser a escolha óbvia de contracepção https://oglobo.globo.com/saude/noticia/2026/10/04/da-libertacao-da-mulher-a-desconfianca-como-a-pilula-deixou-de-ser-a-escolha-obvia-de-contracepcao.ghtml",
+          "chars": 254
+        }
+      }
+    },
+    {
+      "id": 1114,
+      "date": "2026-10-04",
+      "week_start": "2026-09-28",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": "Bluesky post: visiting speaker to give talk at JHU Natural Philosophy Forum, meeting Jenann Ismael and Sean Carroll",
+      "has_text": true,
+      "url": "https://bsky.app/profile/gemmadlc.bsky.social/post/3mwzubbnoqc2i",
+      "source": "Bluesky",
+      "source_type": "social network",
+      "similar_mention_count": 2,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Bluesky post: visiting speaker to give talk at JHU Natural Philosophy Forum, meeting Jenann Ismael and Sean Carroll https://bsky.app/profile/gemmadlc.bsky.social/post/3mwzubbnoqc2i",
+          "chars": 139
+        },
+        "bluesky": {
+          "text": "Bluesky post: visiting speaker to give talk at JHU Natural Philosophy Forum, meeting Jenann Ismael and Sean Carroll https://bsky.app/profile/gemmadlc.bsky.social/post/3mwzubbnoqc2i",
+          "chars": 180
+        }
+      }
+    },
+    {
+      "id": 1119,
+      "date": "2026-10-04",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Inside the Johns Hopkins Whiting School of Engineering × Great Learning | Dr. Sridevi Sarma",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=oxLdGViUck0",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Inside the Johns Hopkins Whiting School of Engineering × Great Learning | Dr. Sridevi Sarma https://www.youtube.com/watch?v=oxLdGViUck0",
+          "chars": 115
+        },
+        "bluesky": {
+          "text": "Inside the Johns Hopkins Whiting School of Engineering × Great Learning | Dr. Sridevi Sarma https://www.youtube.com/watch?v=oxLdGViUck0",
+          "chars": 135
+        }
+      }
+    },
+    {
+      "id": 1118,
+      "date": "2026-10-04",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "The New Academic Year’s Network Security Test: How Higher-Ed IT Teams Can Prepare for More Devices, Traffic and Risk | #hacking | #cybersecurity | #infosec | #comptia | #pentest | #ransomware",
+      "has_text": true,
+      "url": "https://nationalcybersecurity.com/the-new-academic-years-network-security-test-how-higher-ed-it-teams-can-prepare-for-more-devices-traffic-and-risk-hacking-cybersecurity-infosec-comptia-pentest-ransomware/",
+      "source": "National Cyber Security",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The New Academic Year’s Network Security Test: How Higher-Ed IT Teams Can Prepare for More Devices, Traffic and Risk | #hacking | #cybersecurity | #infosec | #comptia | #pentest | #ransomware https://nationalcybersecurity.com/the-new-academic-years-network-security-test-how-higher-ed-it-teams-can-prepare-for-more-devices-traffic-and-risk-hacking-cybersecurity-infosec-comptia-pentest-ransomware/",
+          "chars": 215
+        },
+        "bluesky": {
+          "text": "The New Academic Year’s Network Security Test: How Higher-Ed IT Teams Can Prepare for More D… https://nationalcybersecurity.com/the-new-academic-years-network-security-test-how-higher-ed-it-teams-can-prepare-for-more-devices-traffic-and-risk-hacking-cybersecurity-infosec-comptia-pentest-ransomware/",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 1116,
+      "date": "2026-10-03",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Obama Judge Tanya Chutkan Blocks Trump Education Department From Naming Foreign Donors Who Dumped Billions Into Harvard, Columbia, and Other Elite Campuses",
+      "has_text": true,
+      "url": "https://www.thegatewaypundit.com/2026/10/obama-judge-tanya-chutkan-blocks-trump-education-department/",
+      "source": "The Gateway Pundit",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Obama Judge Tanya Chutkan Blocks Trump Education Department From Naming Foreign Donors Who Dumped Billions Into Harvard, Columbia, and Other Elite Campuses https://www.thegatewaypundit.com/2026/10/obama-judge-tanya-chutkan-blocks-trump-education-department/",
+          "chars": 179
+        },
+        "bluesky": {
+          "text": "Obama Judge Tanya Chutkan Blocks Trump Education Department From Naming Foreign Donors Who Dumped Billions Into Harvard, Columbia, and Other Elite Campuses https://www.thegatewaypundit.com/2026/10/obama-judge-tanya-chutkan-blocks-trump-education-department/",
+          "chars": 257
+        }
+      }
+    },
     {
       "id": 1088,
       "date": "2026-10-03",
@@ -25,6 +155,161 @@
         "bluesky": {
           "text": "How Left-wing justifications partly shield antisemitism from liberal disapproval, study suggests https://healthmedicinet.com/hmn-2026-how-left-wing-justifications-partly-shield-antisemitism-from-liberal-disapproval-study-suggests/",
           "chars": 230
+        }
+      }
+    },
+    {
+      "id": 1125,
+      "date": "2026-10-03",
+      "week_start": "2026-09-28",
+      "person_id": "louis-hyman",
+      "person": "Louis Hyman",
+      "is_ces": true,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1124,
+      "date": "2026-10-03",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1123,
+      "date": "2026-10-03",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1122,
+      "date": "2026-10-03",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Still rector, no longer in charge: symbolic displacement and managerial governance in a Polish private university",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s11233-026-09187-8",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Still rector, no longer in charge: symbolic displacement and managerial governance in a Polish private university https://link.springer.com/article/10.1007/s11233-026-09187-8",
+          "chars": 137
+        },
+        "bluesky": {
+          "text": "Still rector, no longer in charge: symbolic displacement and managerial governance in a Polish private university https://link.springer.com/article/10.1007/s11233-026-09187-8",
+          "chars": 174
+        }
+      }
+    },
+    {
+      "id": 1121,
+      "date": "2026-10-03",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "From The University of Geneva [Université de Genève] (CH) Via SciTechDaily: [Particle Physics/Quantum technologies] ‘Scientists Directly Observe the Hidden Geometry of Electrons’",
+      "has_text": true,
+      "url": "https://sciencesprings.wordpress.com/2026/10/03/from-the-university-of-geneva-universite-de-geneve-ch-via-scitechdaily-particle-physics-quantum-technologies-scientists-directly-observe-the-hidden-geometry-of-electrons/",
+      "source": "wordpress.com",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "From The University of Geneva [Université de Genève] (CH) Via SciTechDaily: [Particle Physics/Quantum technologies] ‘Scientists Directly Observe the Hidden Geometry of Electrons’ https://sciencesprings.wordpress.com/2026/10/03/from-the-university-of-geneva-universite-de-geneve-ch-via-scitechdaily-particle-physics-quantum-technologies-scientists-directly-observe-the-hidden-geometry-of-electrons/",
+          "chars": 202
+        },
+        "bluesky": {
+          "text": "From The University of Geneva [Université de Genève] (CH) Via SciTechDaily: [Pa… https://sciencesprings.wordpress.com/2026/10/03/from-the-university-of-geneva-universite-de-geneve-ch-via-scitechdaily-particle-physics-quantum-technologies-scientists-directly-observe-the-hidden-geometry-of-electrons/",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 1120,
+      "date": "2026-10-03",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "A PÔR NO CÁLICE E BEBER SAGRADA (APOCALIPSE E BÍBLIA SAGRADA): Segurar um copo contendo o Chá da Ayahuasca na mão direita… Segurar um copo contendo café morno na mão esquerda… Beber o chá o mais rápido o possível e logo em seguida beber o café aos poucos, modificando o paladar amargo… “¹⁵ Conheço as tuas obras, que nem és frio nem quente; quem dera foras frio ou quente!” (Apocalipse 3:15 | ACF)",
+      "has_text": true,
+      "url": "https://oevangelhosegundoelias.wordpress.com/2026/10/03/a-por-no-calice-e-beber-sagrada-apocalipse-e-biblia-sagrada-segurar-um-copo-contendo-o-cha-da-ayahuasca-na-mao-direita-segurar-um-copo-contendo-cafe-morno-na-mao-esquerda-beber-o-cha-o-mais-r/",
+      "source": "wordpress.com",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "A PÔR NO CÁLICE E BEBER SAGRADA (APOCALIPSE E BÍBLIA SAGRADA): Segurar um copo contendo o Chá da Ayahuasca na mão direita… Segurar um copo contendo café morno na mão esquerda… Beber o chá o mais rápido o possível e logo em seguida beber o café aos poucos,… https://oevangelhosegundoelias.wordpress.com/2026/10/03/a-por-no-calice-e-beber-sagrada-apocalipse-e-biblia-sagrada-segurar-um-copo-contendo-o-cha-da-ayahuasca-na-mao-direita-segurar-um-copo-contendo-cafe-morno-na-mao-esquerda-beber-o-cha-o-mais-r/",
+          "chars": 280
+        },
+        "bluesky": {
+          "text": "A PÔR NO CÁLICE E BEBER SAGRADA (APOCALIPSE E BÍB… https://oevangelhosegundoelias.wordpress.com/2026/10/03/a-por-no-calice-e-beber-sagrada-apocalipse-e-biblia-sagrada-segurar-um-copo-contendo-o-cha-da-ayahuasca-na-mao-direita-segurar-um-copo-contendo-cafe-morno-na-mao-esquerda-beber-o-cha-o-mais-r/",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 1117,
+      "date": "2026-10-03",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Hedge fund CEO Ken Griffin gives record $3B to Carnegie Mellon to build Miami campus",
+      "has_text": true,
+      "url": "https://www.breitbart.com/news/hedge-fund-ceo-ken-griffin-gives-record-3b-to-carnegie-mellon-to-build-miami-campus/",
+      "source": "Breitbart News Network",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Hedge fund CEO Ken Griffin gives record $3B to Carnegie Mellon to build Miami campus https://www.breitbart.com/news/hedge-fund-ceo-ken-griffin-gives-record-3b-to-carnegie-mellon-to-build-miami-campus/",
+          "chars": 108
+        },
+        "bluesky": {
+          "text": "Hedge fund CEO Ken Griffin gives record $3B to Carnegie Mellon to build Miami campus https://www.breitbart.com/news/hedge-fund-ceo-ken-griffin-gives-record-3b-to-carnegie-mellon-to-build-miami-campus/",
+          "chars": 200
         }
       }
     },

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-03T07:07:11-04:00",
+  "generated_at": "2026-10-04T07:06:09-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-10-03"
+    "end": "2026-10-04"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 1105,
-        "in_digest": 316,
-        "reach_proxy": 3931,
+        "mentions": 1117,
+        "in_digest": 317,
+        "reach_proxy": 3948,
         "people_covered": 100,
         "people_tracked": 100,
-        "sources": 491,
+        "sources": 494,
         "negative": 11
       },
       "deltas": {
@@ -691,8 +691,15 @@
         },
         {
           "date": "2026-10-03",
-          "count": 2,
-          "reach": 3,
+          "count": 10,
+          "reach": 13,
+          "in_digest": 1,
+          "observed": true
+        },
+        {
+          "date": "2026-10-04",
+          "count": 4,
+          "reach": 7,
           "in_digest": 1,
           "observed": true
         }
@@ -869,30 +876,30 @@
         },
         {
           "week_start": "2026-09-28",
-          "count": 193,
-          "reach": 525,
-          "in_digest": 29,
+          "count": 205,
+          "reach": 542,
+          "in_digest": 30,
           "people": 21,
           "sentiment": {
             "positive": 8,
-            "neutral": 8,
+            "neutral": 9,
             "negative": 0,
-            "unknown": 177
+            "unknown": 188
           }
         }
       ],
       "sentiment": {
         "positive": 101,
-        "neutral": 169,
+        "neutral": 170,
         "negative": 11,
-        "unknown": 824
+        "unknown": 835
       },
       "top_people": [
         {
           "person_id": "johns-hopkins",
           "name": "Johns Hopkins",
-          "count": 289,
-          "reach": 1657,
+          "count": 298,
+          "reach": 1668,
           "is_ces": false
         },
         {
@@ -933,8 +940,8 @@
         {
           "person_id": "sean-carroll",
           "name": "Sean Carroll",
-          "count": 33,
-          "reach": 58,
+          "count": 34,
+          "reach": 60,
           "is_ces": false
         },
         {
@@ -962,14 +969,14 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 203,
-          "reach": 1344,
+          "count": 206,
+          "reach": 1347,
           "is_other": false
         },
         {
           "source": "Youtube",
-          "count": 65,
-          "reach": 63,
+          "count": 66,
+          "reach": 64,
           "is_other": false
         },
         {
@@ -980,8 +987,8 @@
         },
         {
           "source": "Springer",
-          "count": 31,
-          "reach": 31,
+          "count": 32,
+          "reach": 32,
           "is_other": false
         },
         {
@@ -992,8 +999,8 @@
         },
         {
           "source": "Bluesky",
-          "count": 24,
-          "reach": 35,
+          "count": 25,
+          "reach": 37,
           "is_other": false
         },
         {
@@ -1004,33 +1011,33 @@
         },
         {
           "source": "wordpress.com",
-          "count": 17,
-          "reach": 15,
+          "count": 19,
+          "reach": 17,
           "is_other": false
         },
         {
           "source": "Other",
-          "count": 680,
-          "reach": 2355,
+          "count": 684,
+          "reach": 2363,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 577
+          "count": 582
         },
         {
           "source_type": "social network",
-          "count": 201
+          "count": 203
         },
         {
           "source_type": "blog",
-          "count": 43
+          "count": 45
         },
         {
           "source_type": "unresolved",
-          "count": 284
+          "count": 287
         }
       ],
       "negative_stories": [
@@ -1054,8 +1061,8 @@
           "positive": 0,
           "neutral": 0,
           "negative": 0,
-          "unknown": 289,
-          "total": 289
+          "unknown": 298,
+          "total": 298
         },
         {
           "row_label": "SNF Agora Institute",
@@ -1112,10 +1119,10 @@
           "person_id": "sean-carroll",
           "is_ces": false,
           "positive": 6,
-          "neutral": 12,
+          "neutral": 13,
           "negative": 1,
           "unknown": 14,
-          "total": 33
+          "total": 34
         },
         {
           "row_label": "None (keyword noise)",
@@ -1184,8 +1191,8 @@
           "positive": 4,
           "neutral": 5,
           "negative": 0,
-          "unknown": 9,
-          "total": 18
+          "unknown": 10,
+          "total": 19
         },
         {
           "row_label": "Denise Dresser",
@@ -1628,6 +1635,16 @@
           "total": 2
         },
         {
+          "row_label": "agora",
+          "person_id": "agora",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 2,
+          "total": 2
+        },
+        {
           "row_label": "(unidentified Visiting Fellow)",
           "person_id": "unidentified-visiting-fellow",
           "is_ces": false,
@@ -2028,16 +2045,6 @@
           "total": 1
         },
         {
-          "row_label": "agora",
-          "person_id": "agora",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 1,
-          "total": 1
-        },
-        {
           "row_label": "unknown (SNF Agora Institute mention, no text)",
           "person_id": "unknown-snf-agora-institute-mention-no-text",
           "is_ces": false,
@@ -2054,32 +2061,32 @@
           "positive": 34,
           "neutral": 107,
           "negative": 2,
-          "unknown": 434,
-          "total": 577
+          "unknown": 439,
+          "total": 582
         },
         {
           "row_label": "social network",
           "positive": 39,
-          "neutral": 44,
+          "neutral": 45,
           "negative": 1,
-          "unknown": 117,
-          "total": 201
+          "unknown": 118,
+          "total": 203
         },
         {
           "row_label": "blog",
           "positive": 6,
           "neutral": 7,
           "negative": 0,
-          "unknown": 30,
-          "total": 43
+          "unknown": 32,
+          "total": 45
         },
         {
           "row_label": "unresolved",
           "positive": 22,
           "neutral": 11,
           "negative": 8,
-          "unknown": 243,
-          "total": 284
+          "unknown": 246,
+          "total": 287
         }
       ],
       "sentiment_examples": {
@@ -3299,9 +3306,9 @@
     },
     "ces": {
       "totals": {
-        "mentions": 107,
+        "mentions": 108,
         "in_digest": 74,
-        "reach_proxy": 181,
+        "reach_proxy": 182,
         "people_covered": 10,
         "people_tracked": 17,
         "sources": 60,
@@ -3983,6 +3990,13 @@
         },
         {
           "date": "2026-10-03",
+          "count": 1,
+          "reach": 1,
+          "in_digest": 0,
+          "observed": true
+        },
+        {
+          "date": "2026-10-04",
           "count": 0,
           "reach": 0,
           "in_digest": 0,
@@ -4161,15 +4175,15 @@
         },
         {
           "week_start": "2026-09-28",
-          "count": 4,
-          "reach": 5,
+          "count": 5,
+          "reach": 6,
           "in_digest": 4,
           "people": 4,
           "sentiment": {
             "positive": 1,
             "neutral": 0,
             "negative": 0,
-            "unknown": 3
+            "unknown": 4
           }
         }
       ],
@@ -4177,7 +4191,7 @@
         "positive": 16,
         "neutral": 33,
         "negative": 0,
-        "unknown": 58
+        "unknown": 59
       },
       "top_people": [
         {
@@ -4197,8 +4211,8 @@
         {
           "person_id": "louis-hyman",
           "name": "Louis Hyman",
-          "count": 18,
-          "reach": 26,
+          "count": 19,
+          "reach": 27,
           "is_ces": true
         },
         {
@@ -4254,8 +4268,8 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 18,
-          "reach": 25,
+          "count": 19,
+          "reach": 26,
           "is_other": false
         },
         {
@@ -4322,7 +4336,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 29
+          "count": 30
         }
       ],
       "negative_stories": [],
@@ -4354,8 +4368,8 @@
           "positive": 4,
           "neutral": 5,
           "negative": 0,
-          "unknown": 9,
-          "total": 18
+          "unknown": 10,
+          "total": 19
         },
         {
           "row_label": "Steven Teles",
@@ -4458,8 +4472,8 @@
           "positive": 3,
           "neutral": 1,
           "negative": 0,
-          "unknown": 25,
-          "total": 29
+          "unknown": 26,
+          "total": 30
         }
       ],
       "sentiment_examples": {
