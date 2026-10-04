@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-03T07:07:11-04:00",
-  "generated_date": "2026-10-03",
+  "generated_at": "2026-10-04T07:06:09-04:00",
+  "generated_date": "2026-10-04",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-10-03",
+    "last_mention_date": "2026-10-04",
     "observed_dates": [
       "2026-07-02",
       "2026-07-03",
@@ -98,10 +98,11 @@
       "2026-09-30",
       "2026-10-01",
       "2026-10-02",
-      "2026-10-03"
+      "2026-10-03",
+      "2026-10-04"
     ],
-    "total_mentions": 1105,
-    "total_raw_documents": 4716,
+    "total_mentions": 1117,
+    "total_raw_documents": 4733,
     "total_tracked_people": 100,
     "total_ces_people": 17
   },
@@ -109,23 +110,23 @@
     "all": {
       "label": "SNF Agora Institute",
       "people": 100,
-      "mentions": 1105
+      "mentions": 1117
     },
     "ces": {
       "label": "Center on Economy and Society",
       "people": 17,
-      "mentions": 107
+      "mentions": 108
     }
   },
   "data_quality": {
-    "mentions_missing_url": 247,
+    "mentions_missing_url": 250,
     "mentions_no_text_captured": 89,
-    "mentions_sentiment_unknown": 824,
-    "mentions_shareable": 839,
+    "mentions_sentiment_unknown": 835,
+    "mentions_shareable": 848,
     "unmatched_persons": [
       {
         "person": "Johns Hopkins",
-        "mentions": 289
+        "mentions": 298
       },
       {
         "person": "unknown",
@@ -209,6 +210,10 @@
       },
       {
         "person": "Unattributed",
+        "mentions": 2
+      },
+      {
+        "person": "agora",
         "mentions": 2
       },
       {
@@ -313,10 +318,6 @@
       },
       {
         "person": "Suchi Saria (not tracked)",
-        "mentions": 1
-      },
-      {
-        "person": "agora",
         "mentions": 1
       },
       {
