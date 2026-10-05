@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-10-04T07:06:09-04:00",
-  "count": 69,
+  "generated_at": "2026-10-05T07:06:57-04:00",
+  "count": 70,
   "picks": [
+    {
+      "id": 88,
+      "mention_id": 1126,
+      "digest_date": "2026-10-04",
+      "person": "Anne Applebaum",
+      "person_id": "anne-applebaum",
+      "person_ids": [
+        "anne-applebaum"
+      ],
+      "is_ces": false,
+      "punchy_title": "Applebaum Asks Whom American Foreign Policy Really Serves",
+      "headline": "Applebaum Asks Whom American Foreign Policy Really Serves",
+      "pull_quote": "Read my original article, Kleptocracy Inc and check out the SNF Agora Institute chart",
+      "rationale": "Read my original article, Kleptocracy Inc and check out the SNF Agora Institute chart",
+      "url": "https://anneapplebaum.substack.com/p/who-is-american-foreign-policy-for",
+      "story_url": "https://anneapplebaum.substack.com/p/who-is-american-foreign-policy-for",
+      "created_at": "2026-10-05 11:06:52",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Who is American foreign policy for? SNF Agora Senior Fellow Anne Applebaum asks the question in her latest essay, drawing on her Kleptocracy Inc reporting and an SNF Agora Institute chart. https://anneapplebaum.substack.com/p/who-is-american-foreign-policy-for",
+          "chars": 260,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Who%20is%20American%20foreign%20policy%20for%3F%20SNF%20Agora%20Senior%20Fellow%20Anne%20Applebaum%20asks%20the%20question%20in%20her%20latest%20essay%2C%20drawing%20on%20her%20Kleptocracy%20Inc%20reporting%20and%20an%20SNF%20Agora%20Institute%20chart.%20https%3A//anneapplebaum.substack.com/p/who-is-american-foreign-policy-for"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Who is American foreign policy for? SNF Agora Senior Fellow Anne Applebaum asks the question in her latest essay, drawing on her Kleptocracy Inc reporting and an SNF Agora Institute chart. https://anneapplebaum.substack.com/p/who-is-american-foreign-policy-for",
+          "chars": 260,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Who%20is%20American%20foreign%20policy%20for%3F%20SNF%20Agora%20Senior%20Fellow%20Anne%20Applebaum%20asks%20the%20question%20in%20her%20latest%20essay%2C%20drawing%20on%20her%20Kleptocracy%20Inc%20reporting%20and%20an%20SNF%20Agora%20Institute%20chart.%20https%3A//anneapplebaum.substack.com/p/who-is-american-foreign-policy-for"
+        }
+      ]
+    },
     {
       "id": 87,
       "mention_id": 1087,

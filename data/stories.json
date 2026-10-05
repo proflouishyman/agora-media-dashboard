@@ -1,7 +1,137 @@
 {
-  "generated_at": "2026-10-04T07:06:09-04:00",
-  "count": 1117,
+  "generated_at": "2026-10-05T07:06:57-04:00",
+  "count": 1131,
   "stories": [
+    {
+      "id": 1134,
+      "date": "2026-10-05",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Anti-Suicide Fans To Mesh Barriers: Can Physical Changes Prevent Student Suicides?",
+      "has_text": true,
+      "url": "https://www.newspointapp.com/english/city/anti-suicide-fans-to-mesh-barriers-can-physical-changes-prevent-student-suicides-freepressjournal/articleshow/14504820d9725936d7fb66fa64d1213f7bdc0e8c",
+      "source": "newspointapp",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Anti-Suicide Fans To Mesh Barriers: Can Physical Changes Prevent Student Suicides? https://www.newspointapp.com/english/city/anti-suicide-fans-to-mesh-barriers-can-physical-changes-prevent-student-suicides-freepressjournal/articleshow/14504820d9725936d7fb66fa64d1213f7bdc0e8c",
+          "chars": 106
+        },
+        "bluesky": {
+          "text": "Anti-Suicide Fans To Mesh Barriers: Can Physical Changes Prevent Student Suicides? https://www.newspointapp.com/english/city/anti-suicide-fans-to-mesh-barriers-can-physical-changes-prevent-student-suicides-freepressjournal/articleshow/14504820d9725936d7fb66fa64d1213f7bdc0e8c",
+          "chars": 275
+        }
+      }
+    },
+    {
+      "id": 1133,
+      "date": "2026-10-05",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Validation of pure and total movement dispersion variables as measures of the distribution of daily activity using accelerometers: a secondary analysis of a prospective cohort",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s10389-026-02892-z",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Validation of pure and total movement dispersion variables as measures of the distribution of daily activity using accelerometers: a secondary analysis of a prospective cohort https://link.springer.com/article/10.1007/s10389-026-02892-z",
+          "chars": 199
+        },
+        "bluesky": {
+          "text": "Validation of pure and total movement dispersion variables as measures of the distribution of daily activity using accelerometers: a secondary analysis of a prospective cohort https://link.springer.com/article/10.1007/s10389-026-02892-z",
+          "chars": 236
+        }
+      }
+    },
+    {
+      "id": 1132,
+      "date": "2026-10-05",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "20 Universitas Terbaik di Dunia 2027, Ada 3 Kampus dari Asia",
+      "has_text": true,
+      "url": "https://www.fortuneidn.com/news/universitas-terbaik-di-dunia-2027-d7w02-00-fykp7-hlzc0s",
+      "source": "Fortune Indonesia",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "20 Universitas Terbaik di Dunia 2027, Ada 3 Kampus dari Asia https://www.fortuneidn.com/news/universitas-terbaik-di-dunia-2027-d7w02-00-fykp7-hlzc0s",
+          "chars": 84
+        },
+        "bluesky": {
+          "text": "20 Universitas Terbaik di Dunia 2027, Ada 3 Kampus dari Asia https://www.fortuneidn.com/news/universitas-terbaik-di-dunia-2027-d7w02-00-fykp7-hlzc0s",
+          "chars": 148
+        }
+      }
+    },
+    {
+      "id": 1130,
+      "date": "2026-10-04",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "FBI arrests California realtor for allegedly spying on Taiwan Presidents son",
+      "has_text": true,
+      "url": "https://www.news18.com/agency-feeds/fbi-arrests-california-realtor-for-allegedly-spying-on-taiwan-presidents-son-10367335.html",
+      "source": "News18",
+      "source_type": "online news",
+      "similar_mention_count": 168,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "FBI arrests California realtor for allegedly spying on Taiwan Presidents son https://www.news18.com/agency-feeds/fbi-arrests-california-realtor-for-allegedly-spying-on-taiwan-presidents-son-10367335.html",
+          "chars": 100
+        },
+        "bluesky": {
+          "text": "FBI arrests California realtor for allegedly spying on Taiwan Presidents son https://www.news18.com/agency-feeds/fbi-arrests-california-realtor-for-allegedly-spying-on-taiwan-presidents-son-10367335.html",
+          "chars": 203
+        }
+      }
+    },
+    {
+      "id": 1131,
+      "date": "2026-10-04",
+      "week_start": "2026-09-28",
+      "person_id": "agora",
+      "person": "agora",
+      "is_ces": false,
+      "title": "RFI: Da libertação da mulher à desconfiança, como a pílula deixou de ser a escolha óbvia de contracepção",
+      "has_text": true,
+      "url": "https://www.europesays.com/pt/544413/",
+      "source": "EUROPE SAYS",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "RFI: Da libertação da mulher à desconfiança, como a pílula deixou de ser a escolha óbvia de contracepção https://www.europesays.com/pt/544413/",
+          "chars": 128
+        },
+        "bluesky": {
+          "text": "RFI: Da libertação da mulher à desconfiança, como a pílula deixou de ser a escolha óbvia de contracepção https://www.europesays.com/pt/544413/",
+          "chars": 142
+        }
+      }
+    },
     {
       "id": 1115,
       "date": "2026-10-04",
@@ -29,6 +159,58 @@
       }
     },
     {
+      "id": 1128,
+      "date": "2026-10-04",
+      "week_start": "2026-09-28",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Substack: Don’t Panic",
+      "has_text": true,
+      "url": "https://madisonian.net/2026/10/04/substack-dont-panic/",
+      "source": "Madisonian",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Substack: Don’t Panic https://madisonian.net/2026/10/04/substack-dont-panic/",
+          "chars": 45
+        },
+        "bluesky": {
+          "text": "Substack: Don’t Panic https://madisonian.net/2026/10/04/substack-dont-panic/",
+          "chars": 76
+        }
+      }
+    },
+    {
+      "id": 1126,
+      "date": "2026-10-04",
+      "week_start": "2026-09-28",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Who is American foreign policy for?",
+      "has_text": true,
+      "url": "https://anneapplebaum.substack.com/p/who-is-american-foreign-policy-for",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Who is American foreign policy for? https://anneapplebaum.substack.com/p/who-is-american-foreign-policy-for",
+          "chars": 59
+        },
+        "bluesky": {
+          "text": "Who is American foreign policy for? https://anneapplebaum.substack.com/p/who-is-american-foreign-policy-for",
+          "chars": 107
+        }
+      }
+    },
+    {
       "id": 1114,
       "date": "2026-10-04",
       "week_start": "2026-09-28",
@@ -51,6 +233,170 @@
         "bluesky": {
           "text": "Bluesky post: visiting speaker to give talk at JHU Natural Philosophy Forum, meeting Jenann Ismael and Sean Carroll https://bsky.app/profile/gemmadlc.bsky.social/post/3mwzubbnoqc2i",
           "chars": 180
+        }
+      }
+    },
+    {
+      "id": 1139,
+      "date": "2026-10-04",
+      "week_start": "2026-09-28",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1138,
+      "date": "2026-10-04",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1137,
+      "date": "2026-10-04",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Rastriya Swatantra Party IT & Startup Innovation Head: Dr. Ananda Bahadur Chand",
+      "has_text": true,
+      "url": "https://ictframe.com/rastriya-swatantra-party-it-startup-innovation/",
+      "source": "https://ictframe.com/",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Rastriya Swatantra Party IT & Startup Innovation Head: Dr. Ananda Bahadur Chand https://ictframe.com/rastriya-swatantra-party-it-startup-innovation/",
+          "chars": 103
+        },
+        "bluesky": {
+          "text": "Rastriya Swatantra Party IT & Startup Innovation Head: Dr. Ananda Bahadur Chand https://ictframe.com/rastriya-swatantra-party-it-startup-innovation/",
+          "chars": 148
+        }
+      }
+    },
+    {
+      "id": 1136,
+      "date": "2026-10-04",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Why Nigerian NGOs Need to Use the Right Language: How Deficit Grant Language Can Undermine Mother-Tongue-Based Education",
+      "has_text": true,
+      "url": "https://medium.com/@danabdul_69417/why-nigerian-ngos-need-to-use-the-right-language-how-deficit-grant-language-can-undermine-f1859631ffbb",
+      "source": "Medium",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Why Nigerian NGOs Need to Use the Right Language: How Deficit Grant Language Can Undermine Mother-Tongue-Based Education https://medium.com/@danabdul_69417/why-nigerian-ngos-need-to-use-the-right-language-how-deficit-grant-language-can-undermine-f1859631ffbb",
+          "chars": 144
+        },
+        "bluesky": {
+          "text": "Why Nigerian NGOs Need to Use the Right Language: How Deficit Grant Language Can Undermine Mother-Tongue-Based Education https://medium.com/@danabdul_69417/why-nigerian-ngos-need-to-use-the-right-language-how-deficit-grant-language-can-undermine-f1859631ffbb",
+          "chars": 258
+        }
+      }
+    },
+    {
+      "id": 1135,
+      "date": "2026-10-04",
+      "week_start": "2026-09-28",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Ken Griffin Bought Wynwood. Now He Is Building a University in It.",
+      "has_text": true,
+      "url": "https://medium.com/newsarticulated/ken-griffin-bought-wynwood-now-he-is-building-a-university-in-it-924f1cc138c2",
+      "source": "Medium",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Ken Griffin Bought Wynwood. Now He Is Building a University in It. https://medium.com/newsarticulated/ken-griffin-bought-wynwood-now-he-is-building-a-university-in-it-924f1cc138c2",
+          "chars": 90
+        },
+        "bluesky": {
+          "text": "Ken Griffin Bought Wynwood. Now He Is Building a University in It. https://medium.com/newsarticulated/ken-griffin-bought-wynwood-now-he-is-building-a-university-in-it-924f1cc138c2",
+          "chars": 179
+        }
+      }
+    },
+    {
+      "id": 1129,
+      "date": "2026-10-04",
+      "week_start": "2026-09-28",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Red state parents lash out at Trump: 'Never had this problem before'",
+      "has_text": true,
+      "url": "https://www.alternet.org/red-state-parents-trump/",
+      "source": "AlterNet",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Red state parents lash out at Trump: 'Never had this problem before' https://www.alternet.org/red-state-parents-trump/",
+          "chars": 92
+        },
+        "bluesky": {
+          "text": "Red state parents lash out at Trump: 'Never had this problem before' https://www.alternet.org/red-state-parents-trump/",
+          "chars": 118
+        }
+      }
+    },
+    {
+      "id": 1127,
+      "date": "2026-10-04",
+      "week_start": "2026-09-28",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "Mounk: “La sinistra superi il welfare state e riparta dai lavoratori impoveriti”",
+      "has_text": true,
+      "url": "https://www.repubblica.it/politica/2026/10/05/news/mounk_sinistra_welfare_state_intervista-425625924/",
+      "source": "La Repubblica",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Mounk: “La sinistra superi il welfare state e riparta dai lavoratori impoveriti” https://www.repubblica.it/politica/2026/10/05/news/mounk_sinistra_welfare_state_intervista-425625924/",
+          "chars": 104
+        },
+        "bluesky": {
+          "text": "Mounk: “La sinistra superi il welfare state e riparta dai lavoratori impoveriti” https://www.repubblica.it/politica/2026/10/05/news/mounk_sinistra_welfare_state_intervista-425625924/",
+          "chars": 182
         }
       }
     },
