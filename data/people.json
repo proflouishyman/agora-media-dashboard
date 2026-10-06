@@ -9,16 +9,16 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 306,
+    "mentions_total": 322,
     "mentions_in_digest": 0,
-    "reach_proxy": 1843,
+    "reach_proxy": 1972,
     "first_mention_date": "2026-08-30",
-    "last_mention_date": "2026-10-05",
+    "last_mention_date": "2026-10-06",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
       "negative": 0,
-      "unknown": 306
+      "unknown": 322
     },
     "top_sources": [
       {
@@ -100,8 +100,8 @@
       },
       {
         "week_start": "2026-10-05",
-        "count": 3,
-        "reach": 3
+        "count": 19,
+        "reach": 132
       }
     ]
   },
@@ -115,25 +115,25 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 101,
-    "mentions_in_digest": 35,
-    "reach_proxy": 209,
+    "mentions_total": 104,
+    "mentions_in_digest": 36,
+    "reach_proxy": 212,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-10-04",
+    "last_mention_date": "2026-10-06",
     "sentiment": {
       "positive": 21,
-      "neutral": 29,
+      "neutral": 30,
       "negative": 3,
-      "unknown": 48
+      "unknown": 50
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 33
+        "count": 34
       },
       {
         "source": "LinkedIn",
-        "count": 17
+        "count": 18
       },
       {
         "source": "Bluesky",
@@ -206,8 +206,8 @@
       },
       {
         "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
+        "count": 3,
+        "reach": 3
       }
     ]
   },
@@ -437,16 +437,16 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 43,
+    "mentions_total": 44,
     "mentions_in_digest": 16,
-    "reach_proxy": 224,
+    "reach_proxy": 225,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-10-04",
+    "last_mention_date": "2026-10-06",
     "sentiment": {
       "positive": 2,
       "neutral": 12,
       "negative": 1,
-      "unknown": 28
+      "unknown": 29
     },
     "top_sources": [
       {
@@ -458,15 +458,15 @@
         "count": 2
       },
       {
+        "source": "Springer",
+        "count": 2
+      },
+      {
         "source": "Substack",
         "count": 2
       },
       {
         "source": "Youtube",
-        "count": 2
-      },
-      {
-        "source": "reddit.com/r/philosophypodcasts",
         "count": 2
       }
     ],
@@ -528,8 +528,8 @@
       },
       {
         "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -545,14 +545,14 @@
       "Core Faculty"
     ],
     "is_ces": true,
-    "mentions_total": 41,
-    "mentions_in_digest": 30,
-    "reach_proxy": 73,
+    "mentions_total": 42,
+    "mentions_in_digest": 31,
+    "reach_proxy": 74,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-10-04",
+    "last_mention_date": "2026-10-05",
     "sentiment": {
       "positive": 2,
-      "neutral": 13,
+      "neutral": 14,
       "negative": 0,
       "unknown": 26
     },
@@ -636,8 +636,8 @@
       },
       {
         "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -867,16 +867,16 @@
       "Core Faculty"
     ],
     "is_ces": true,
-    "mentions_total": 30,
-    "mentions_in_digest": 23,
-    "reach_proxy": 52,
+    "mentions_total": 31,
+    "mentions_in_digest": 24,
+    "reach_proxy": 53,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-09-14",
+    "last_mention_date": "2026-10-06",
     "sentiment": {
       "positive": 6,
       "neutral": 10,
       "negative": 0,
-      "unknown": 14
+      "unknown": 15
     },
     "top_sources": [
       {
@@ -958,8 +958,8 @@
       },
       {
         "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -2354,6 +2354,114 @@
     ]
   },
   {
+    "id": "dylan-selterman",
+    "name": "Dylan Selterman",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Associate Teaching Professor, Department of Psychological and Brain Sciences, Johns Hopkins University",
+    "profile_url": "https://snfagora.jhu.edu/directory/dylan-selterman/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 8,
+    "mentions_in_digest": 6,
+    "reach_proxy": 15,
+    "first_mention_date": "2026-07-17",
+    "last_mention_date": "2026-10-05",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0,
+      "unknown": 3
+    },
+    "top_sources": [
+      {
+        "source": "Ellemagazin.hu",
+        "count": 1
+      },
+      {
+        "source": "Health Medicine Network",
+        "count": 1
+      },
+      {
+        "source": "HuffPost",
+        "count": 1
+      },
+      {
+        "source": "The Hub - Johns Hopkins University",
+        "count": 1
+      },
+      {
+        "source": "Twitter",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 1,
+        "reach": 7
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 2,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "emily-white",
     "name": "Emily White",
     "kind": "faculty",
@@ -2665,114 +2773,6 @@
         "week_start": "2026-09-28",
         "count": 0,
         "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "dylan-selterman",
-    "name": "Dylan Selterman",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Associate Teaching Professor, Department of Psychological and Brain Sciences, Johns Hopkins University",
-    "profile_url": "https://snfagora.jhu.edu/directory/dylan-selterman/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 7,
-    "mentions_in_digest": 6,
-    "reach_proxy": 14,
-    "first_mention_date": "2026-07-17",
-    "last_mention_date": "2026-10-03",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 5,
-      "negative": 0,
-      "unknown": 2
-    },
-    "top_sources": [
-      {
-        "source": "Ellemagazin.hu",
-        "count": 1
-      },
-      {
-        "source": "Health Medicine Network",
-        "count": 1
-      },
-      {
-        "source": "HuffPost",
-        "count": 1
-      },
-      {
-        "source": "The Hub - Johns Hopkins University",
-        "count": 1
-      },
-      {
-        "source": "YouTube",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 1,
-        "reach": 7
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 2,
-        "reach": 3
       },
       {
         "week_start": "2026-10-05",

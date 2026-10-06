@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-05T07:06:57-04:00",
-  "generated_date": "2026-10-05",
+  "generated_at": "2026-10-06T07:06:45-04:00",
+  "generated_date": "2026-10-06",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-10-05",
+    "last_mention_date": "2026-10-06",
     "observed_dates": [
       "2026-07-02",
       "2026-07-03",
@@ -100,10 +100,11 @@
       "2026-10-02",
       "2026-10-03",
       "2026-10-04",
-      "2026-10-05"
+      "2026-10-05",
+      "2026-10-06"
     ],
-    "total_mentions": 1131,
-    "total_raw_documents": 4916,
+    "total_mentions": 1154,
+    "total_raw_documents": 5050,
     "total_tracked_people": 100,
     "total_ces_people": 17
   },
@@ -111,23 +112,23 @@
     "all": {
       "label": "SNF Agora Institute",
       "people": 100,
-      "mentions": 1131
+      "mentions": 1154
     },
     "ces": {
       "label": "Center on Economy and Society",
       "people": 17,
-      "mentions": 109
+      "mentions": 111
     }
   },
   "data_quality": {
-    "mentions_missing_url": 252,
+    "mentions_missing_url": 254,
     "mentions_no_text_captured": 89,
-    "mentions_sentiment_unknown": 847,
-    "mentions_shareable": 860,
+    "mentions_sentiment_unknown": 868,
+    "mentions_shareable": 881,
     "unmatched_persons": [
       {
         "person": "Johns Hopkins",
-        "mentions": 306
+        "mentions": 322
       },
       {
         "person": "unknown",
