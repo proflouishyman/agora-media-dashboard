@@ -1,7 +1,587 @@
 {
-  "generated_at": "2026-10-05T07:06:57-04:00",
-  "count": 1131,
+  "generated_at": "2026-10-06T07:06:45-04:00",
+  "count": 1154,
   "stories": [
+    {
+      "id": 1162,
+      "date": "2026-10-06",
+      "week_start": "2026-10-05",
+      "person_id": "yuen-yuen-ang",
+      "person": "Yuen Yuen Ang",
+      "is_ces": true,
+      "title": "Kampanye Antikorupsi China Meluas, Birokrasi dan Sektor Swasta Hadapi Tantangan",
+      "has_text": true,
+      "url": "https://www.tribunnews.com/internasional/7892853/kampanye-antikorupsi-china-meluas-birokrasi-dan-sektor-swasta-hadapi-tantangan",
+      "source": "Tribunnews.com",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Kampanye Antikorupsi China Meluas, Birokrasi dan Sektor Swasta Hadapi Tantangan https://www.tribunnews.com/internasional/7892853/kampanye-antikorupsi-china-meluas-birokrasi-dan-sektor-swasta-hadapi-tantangan",
+          "chars": 103
+        },
+        "bluesky": {
+          "text": "Kampanye Antikorupsi China Meluas, Birokrasi dan Sektor Swasta Hadapi Tantangan https://www.tribunnews.com/internasional/7892853/kampanye-antikorupsi-china-meluas-birokrasi-dan-sektor-swasta-hadapi-tantangan",
+          "chars": 207
+        }
+      }
+    },
+    {
+      "id": 1144,
+      "date": "2026-10-06",
+      "week_start": "2026-10-05",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "Questionnaire Democrats? Reconsidering the Relevance of Abstract Democracy Support in the American Public",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s11109-026-10205-z",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Questionnaire Democrats? Reconsidering the Relevance of Abstract Democracy Support in the American Public https://link.springer.com/article/10.1007/s11109-026-10205-z",
+          "chars": 129
+        },
+        "bluesky": {
+          "text": "Questionnaire Democrats? Reconsidering the Relevance of Abstract Democracy Support in the American Public https://link.springer.com/article/10.1007/s11109-026-10205-z",
+          "chars": 166
+        }
+      }
+    },
+    {
+      "id": 1143,
+      "date": "2026-10-06",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Relationship between science and religion",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/Relationship_between_religion_and_science",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Relationship between science and religion https://en.wikipedia.org/wiki/Relationship_between_religion_and_science",
+          "chars": 65
+        },
+        "bluesky": {
+          "text": "Relationship between science and religion https://en.wikipedia.org/wiki/Relationship_between_religion_and_science",
+          "chars": 113
+        }
+      }
+    },
+    {
+      "id": 1142,
+      "date": "2026-10-06",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "How HSIs Can Move Forward After Federal Funding Cuts",
+      "has_text": true,
+      "url": "https://www.insidehighered.com/news/institutions/minority-serving-institutions/2026/10/06/how-hsis-can-move-forward-after-federal",
+      "source": "Inside Higher Ed",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "How HSIs Can Move Forward After Federal Funding Cuts https://www.insidehighered.com/news/institutions/minority-serving-institutions/2026/10/06/how-hsis-can-move-forward-after-federal",
+          "chars": 76
+        },
+        "bluesky": {
+          "text": "How HSIs Can Move Forward After Federal Funding Cuts https://www.insidehighered.com/news/institutions/minority-serving-institutions/2026/10/06/how-hsis-can-move-forward-after-federal",
+          "chars": 182
+        }
+      }
+    },
+    {
+      "id": 1141,
+      "date": "2026-10-06",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "STEM Education: Igniting a Bright Future in CBSE Schools",
+      "has_text": true,
+      "url": "https://writeupcafe.com/stem-education-igniting-a-bright-future-in-cbse-schools",
+      "source": "WriteUpCafe",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "STEM Education: Igniting a Bright Future in CBSE Schools https://writeupcafe.com/stem-education-igniting-a-bright-future-in-cbse-schools",
+          "chars": 80
+        },
+        "bluesky": {
+          "text": "STEM Education: Igniting a Bright Future in CBSE Schools https://writeupcafe.com/stem-education-igniting-a-bright-future-in-cbse-schools",
+          "chars": 136
+        }
+      }
+    },
+    {
+      "id": 1140,
+      "date": "2026-10-06",
+      "week_start": "2026-10-05",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1156,
+      "date": "2026-10-05",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Five Rubin Rudman Attorneys Named to 2027 Lawdragon 500 Leading Corporate Employment Lawyers",
+      "has_text": true,
+      "url": "https://newsblaze.com/pr-newswire/?rkey=20261005NE63846&filter=12684",
+      "source": "NewsBlaze",
+      "source_type": "online news",
+      "similar_mention_count": 113,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Five Rubin Rudman Attorneys Named to 2027 Lawdragon 500 Leading Corporate Employment Lawyers https://newsblaze.com/pr-newswire/?rkey=20261005NE63846&filter=12684",
+          "chars": 116
+        },
+        "bluesky": {
+          "text": "Five Rubin Rudman Attorneys Named to 2027 Lawdragon 500 Leading Corporate Employment Lawyers https://newsblaze.com/pr-newswire/?rkey=20261005NE63846&filter=12684",
+          "chars": 161
+        }
+      }
+    },
+    {
+      "id": 1148,
+      "date": "2026-10-05",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "The Top Women Leaders of Pittsburgh for 2026 (Complete)",
+      "has_text": true,
+      "url": "https://thewomenweadmire.com/2026/10/the-top-women-leaders-of-pittsburgh-for-2026-complete/",
+      "source": "Women We Admire",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Top Women Leaders of Pittsburgh for 2026 (Complete) https://thewomenweadmire.com/2026/10/the-top-women-leaders-of-pittsburgh-for-2026-complete/",
+          "chars": 79
+        },
+        "bluesky": {
+          "text": "The Top Women Leaders of Pittsburgh for 2026 (Complete) https://thewomenweadmire.com/2026/10/the-top-women-leaders-of-pittsburgh-for-2026-complete/",
+          "chars": 147
+        }
+      }
+    },
+    {
+      "id": 1161,
+      "date": "2026-10-05",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Janet Yellen",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/Janet_Yellen",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Janet Yellen https://en.wikipedia.org/wiki/Janet_Yellen",
+          "chars": 36
+        },
+        "bluesky": {
+          "text": "Janet Yellen https://en.wikipedia.org/wiki/Janet_Yellen",
+          "chars": 55
+        }
+      }
+    },
+    {
+      "id": 1160,
+      "date": "2026-10-05",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Virginia Cavaliers football",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/Virginia_Cavaliers_football",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Virginia Cavaliers football https://en.wikipedia.org/wiki/Virginia_Cavaliers_football",
+          "chars": 51
+        },
+        "bluesky": {
+          "text": "Virginia Cavaliers football https://en.wikipedia.org/wiki/Virginia_Cavaliers_football",
+          "chars": 85
+        }
+      }
+    },
+    {
+      "id": 1159,
+      "date": "2026-10-05",
+      "week_start": "2026-10-05",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Trump Childcare Subsidy: Red State Parent Declares 'We've Never Had This Problem Before' Amid Delays",
+      "has_text": true,
+      "url": "https://www.ibtimes.co.uk/nebraska-childcare-subsidy-delays-eligibility-checks-1823717",
+      "source": "IBTimes - International Business Times UK",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Trump Childcare Subsidy: Red State Parent Declares 'We've Never Had This Problem Before' Amid Delays https://www.ibtimes.co.uk/nebraska-childcare-subsidy-delays-eligibility-checks-1823717",
+          "chars": 124
+        },
+        "bluesky": {
+          "text": "Trump Childcare Subsidy: Red State Parent Declares 'We've Never Had This Problem Before' Amid Delays https://www.ibtimes.co.uk/nebraska-childcare-subsidy-delays-eligibility-checks-1823717",
+          "chars": 187
+        }
+      }
+    },
+    {
+      "id": 1158,
+      "date": "2026-10-05",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "UMich’s Los Alamos partnership threatens research enterprise",
+      "has_text": true,
+      "url": "https://www.michigandaily.com/opinion/op-eds/los-alamos-partnership-threatens-research-enterprise-ties-university-to-nuclear-weapons-research/",
+      "source": "The Michigan Daily",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "UMich’s Los Alamos partnership threatens research enterprise https://www.michigandaily.com/opinion/op-eds/los-alamos-partnership-threatens-research-enterprise-ties-university-to-nuclear-weapons-research/",
+          "chars": 84
+        },
+        "bluesky": {
+          "text": "UMich’s Los Alamos partnership threatens research enterprise https://www.michigandaily.com/opinion/op-eds/los-alamos-partnership-threatens-research-enterprise-ties-university-to-nuclear-weapons-research/",
+          "chars": 203
+        }
+      }
+    },
+    {
+      "id": 1157,
+      "date": "2026-10-05",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Da libertação da mulher à desconfiança, como a pílula deixou de ser a escolha óbvia de contracepção",
+      "has_text": true,
+      "url": "https://maistopnews.com.br/da-libertacao-da-mulher-a-desconfianca-como-a-pilula-deixou-de-ser-a-escolha-obvia-de-contracepcao/",
+      "source": "Mais Top News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Da libertação da mulher à desconfiança, como a pílula deixou de ser a escolha óbvia de contracepção https://maistopnews.com.br/da-libertacao-da-mulher-a-desconfianca-como-a-pilula-deixou-de-ser-a-escolha-obvia-de-contracepcao/",
+          "chars": 123
+        },
+        "bluesky": {
+          "text": "Da libertação da mulher à desconfiança, como a pílula deixou de ser a escolha óbvia de contracepção https://maistopnews.com.br/da-libertacao-da-mulher-a-desconfianca-como-a-pilula-deixou-de-ser-a-escolha-obvia-de-contracepcao/",
+          "chars": 226
+        }
+      }
+    },
+    {
+      "id": 1155,
+      "date": "2026-10-05",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "The Attendance Crisis Isn't Over: What's Driving It - and What Works",
+      "has_text": true,
+      "url": "https://www.newswise.com/articles/the-attendance-crisis-isn-t-over-what-s-driving-it-and-what-works",
+      "source": "Newswise",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Attendance Crisis Isn't Over: What's Driving It - and What Works https://www.newswise.com/articles/the-attendance-crisis-isn-t-over-what-s-driving-it-and-what-works",
+          "chars": 92
+        },
+        "bluesky": {
+          "text": "The Attendance Crisis Isn't Over: What's Driving It - and What Works https://www.newswise.com/articles/the-attendance-crisis-isn-t-over-what-s-driving-it-and-what-works",
+          "chars": 168
+        }
+      }
+    },
+    {
+      "id": 1154,
+      "date": "2026-10-05",
+      "week_start": "2026-10-05",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Center for Economy and Society postdoc call (LinkedIn post)",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7512937027416432640",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Center for Economy and Society postdoc call (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:share:7512937027416432640",
+          "chars": 83
+        },
+        "bluesky": {
+          "text": "Center for Economy and Society postdoc call (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:share:7512937027416432640",
+          "chars": 129
+        }
+      }
+    },
+    {
+      "id": 1153,
+      "date": "2026-10-05",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Dirigente do Wrexham fala sobre como um conto de fadas do futebol pode revitalizar uma cidade: ‘Agora, as pessoas veem esperança’",
+      "has_text": true,
+      "url": "https://maistopnews.com.br/dirigente-do-wrexham-fala-sobre-como-um-conto-de-fadas-do-futebol-pode-revitalizar-uma-cidade-agora-as-pessoas-veem-esperanca/",
+      "source": "Mais Top News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Dirigente do Wrexham fala sobre como um conto de fadas do futebol pode revitalizar uma cidade: ‘Agora, as pessoas veem esperança’ https://maistopnews.com.br/dirigente-do-wrexham-fala-sobre-como-um-conto-de-fadas-do-futebol-pode-revitalizar-uma-cidade-agora-as-pessoas-veem-esperanca/",
+          "chars": 153
+        },
+        "bluesky": {
+          "text": "Dirigente do Wrexham fala sobre como um conto de fadas do futebol pode revitalizar uma cidade: ‘Agora, as pessoas veem esperança’ https://maistopnews.com.br/dirigente-do-wrexham-fala-sobre-como-um-conto-de-fadas-do-futebol-pode-revitalizar-uma-cidade-agora-as-pessoas-veem-esperanca/",
+          "chars": 283
+        }
+      }
+    },
+    {
+      "id": 1152,
+      "date": "2026-10-05",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Virginia Set to Honor Herman Moore with Oct. 10 NFF Hall of Fame On-Campus Salute",
+      "has_text": true,
+      "url": "https://virginiasports.com/news/2026/10/5/virginia-set-to-honor-herman-moore-with-oct-10-nff-hall-of-fame-on-campus-salute",
+      "source": "VirginiaSports.com",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Virginia Set to Honor Herman Moore with Oct. 10 NFF Hall of Fame On-Campus Salute https://virginiasports.com/news/2026/10/5/virginia-set-to-honor-herman-moore-with-oct-10-nff-hall-of-fame-on-campus-salute",
+          "chars": 105
+        },
+        "bluesky": {
+          "text": "Virginia Set to Honor Herman Moore with Oct. 10 NFF Hall of Fame On-Campus Salute https://virginiasports.com/news/2026/10/5/virginia-set-to-honor-herman-moore-with-oct-10-nff-hall-of-fame-on-campus-salute",
+          "chars": 204
+        }
+      }
+    },
+    {
+      "id": 1151,
+      "date": "2026-10-05",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "WSL anuncia quatro wildcards portugueses para o MEO Rip Curl Pro Portugal",
+      "has_text": true,
+      "url": "https://pt.headtopics.com/news/wsl-anuncia-quatro-wildcards-portugueses-para-o-meo-rip-88488413",
+      "source": "Head Topics",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "WSL anuncia quatro wildcards portugueses para o MEO Rip Curl Pro Portugal https://pt.headtopics.com/news/wsl-anuncia-quatro-wildcards-portugueses-para-o-meo-rip-88488413",
+          "chars": 97
+        },
+        "bluesky": {
+          "text": "WSL anuncia quatro wildcards portugueses para o MEO Rip Curl Pro Portugal https://pt.headtopics.com/news/wsl-anuncia-quatro-wildcards-portugueses-para-o-meo-rip-88488413",
+          "chars": 169
+        }
+      }
+    },
+    {
+      "id": 1150,
+      "date": "2026-10-05",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Wrexham transforma sucesso no futebol em esperanÃ§a para uma cidade inteira",
+      "has_text": true,
+      "url": "https://portaldozacarias.com.br/site/noticia/wrexham-transforma-sucesso-no-futebol-em-esperanca-para-uma-cidade-inteira/",
+      "source": "Portal Do Zacarias",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Wrexham transforma sucesso no futebol em esperanÃ§a para uma cidade inteira https://portaldozacarias.com.br/site/noticia/wrexham-transforma-sucesso-no-futebol-em-esperanca-para-uma-cidade-inteira/",
+          "chars": 99
+        },
+        "bluesky": {
+          "text": "Wrexham transforma sucesso no futebol em esperanÃ§a para uma cidade inteira https://portaldozacarias.com.br/site/noticia/wrexham-transforma-sucesso-no-futebol-em-esperanca-para-uma-cidade-inteira/",
+          "chars": 196
+        }
+      }
+    },
+    {
+      "id": 1149,
+      "date": "2026-10-05",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Ensaio 1678 - Não sabemos como a matéria se torna imaginação - Entre charmes semânticos e explicações limitadas",
+      "has_text": true,
+      "url": "http://pedrodemo.blogspot.com/2026/10/ensaio-1678-nao-sabemos-como-materia-se.html",
+      "source": "Prof. Pedro Demo",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Ensaio 1678 - Não sabemos como a matéria se torna imaginação - Entre charmes semânticos e explicações limitadas http://pedrodemo.blogspot.com/2026/10/ensaio-1678-nao-sabemos-como-materia-se.html",
+          "chars": 135
+        },
+        "bluesky": {
+          "text": "Ensaio 1678 - Não sabemos como a matéria se torna imaginação - Entre charmes semânticos e explicações limitadas http://pedrodemo.blogspot.com/2026/10/ensaio-1678-nao-sabemos-como-materia-se.html",
+          "chars": 194
+        }
+      }
+    },
+    {
+      "id": 1147,
+      "date": "2026-10-05",
+      "week_start": "2026-10-05",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Não estão uniformizados, mas estas empresas americanas estão a lutar pela Ucrânia",
+      "has_text": true,
+      "url": "https://feriadoauportugal.blogspot.com/2026/10/nao-estao-uniformizados-mas-estas.html",
+      "source": "Feriado au Portugal",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Não estão uniformizados, mas estas empresas americanas estão a lutar pela Ucrânia https://feriadoauportugal.blogspot.com/2026/10/nao-estao-uniformizados-mas-estas.html",
+          "chars": 105
+        },
+        "bluesky": {
+          "text": "Não estão uniformizados, mas estas empresas americanas estão a lutar pela Ucrânia https://feriadoauportugal.blogspot.com/2026/10/nao-estao-uniformizados-mas-estas.html",
+          "chars": 167
+        }
+      }
+    },
+    {
+      "id": 1146,
+      "date": "2026-10-05",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "'Silence is complicity.' What would you do?",
+      "has_text": true,
+      "url": "https://www.knoxnews.com/story/nletter/2026/10/05/t-newsletter-university-tennessee-campus-news-what-would-you-do-if-john-quiones-visited-ut/92101636007/",
+      "source": "Knoxville News-Sentinel",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "'Silence is complicity.' What would you do? https://www.knoxnews.com/story/nletter/2026/10/05/t-newsletter-university-tennessee-campus-news-what-would-you-do-if-john-quiones-visited-ut/92101636007/",
+          "chars": 67
+        },
+        "bluesky": {
+          "text": "'Silence is complicity.' What would you do? https://www.knoxnews.com/story/nletter/2026/10/05/t-newsletter-university-tennessee-campus-news-what-would-you-do-if-john-quiones-visited-ut/92101636007/",
+          "chars": 197
+        }
+      }
+    },
+    {
+      "id": 1145,
+      "date": "2026-10-05",
+      "week_start": "2026-10-05",
+      "person_id": "dylan-selterman",
+      "person": "Dylan Selterman",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
     {
       "id": 1134,
       "date": "2026-10-05",

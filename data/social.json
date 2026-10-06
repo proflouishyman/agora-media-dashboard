@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-10-05T07:06:57-04:00",
-  "count": 70,
+  "generated_at": "2026-10-06T07:06:45-04:00",
+  "count": 71,
   "picks": [
+    {
+      "id": 89,
+      "mention_id": 1154,
+      "digest_date": "2026-10-05",
+      "person": "SNF Agora Institute",
+      "person_id": "snf-agora-institute",
+      "person_ids": [
+        "snf-agora-institute"
+      ],
+      "is_ces": false,
+      "punchy_title": "Join CES and SNF Agora: three-year postdocs in political economy",
+      "headline": "Join CES and SNF Agora: three-year postdocs in political economy",
+      "pull_quote": "Come work with us! The Center for Economy and Society at @[The Johns Hopkins University](urn:li:organization:3528) and @[SNF Agora Institute at Johns Hopkins University](urn:li:organization:74054112) is hiring 3-year-long postdoctoral fellows working on interdisciplinary issues",
+      "rationale": "Come work with us! The Center for Economy and Society at @[The Johns Hopkins University](urn:li:organization:3528) and @[SNF Agora Institute at Johns Hopkins University](urn:li:organization:74054112) is hiring 3-year-long postdoctoral fellows working on interdisciplinary issues",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7512937027416432640",
+      "story_url": "https://www.linkedin.com/feed/update/urn:li:share:7512937027416432640",
+      "created_at": "2026-10-06 11:06:38",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "The Center for Economy and Society at Johns Hopkins and the SNF Agora Institute are hiring 3-year postdoctoral fellows in political economy. Applications due Nov. 6. https://www.linkedin.com/feed/update/urn:li:share:7512937027416432640",
+          "chars": 235,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=The%20Center%20for%20Economy%20and%20Society%20at%20Johns%20Hopkins%20and%20the%20SNF%20Agora%20Institute%20are%20hiring%203-year%20postdoctoral%20fellows%20in%20political%20economy.%20Applications%20due%20Nov.%206.%20https%3A//www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7512937027416432640"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Come work with us: the Center for Economy and Society at Johns Hopkins and the SNF Agora Institute are hiring 3-year postdoctoral fellows working on interdisciplinary issues in political economy. Applications due Nov. 6. https://www.linkedin.com/feed/update/urn:li:share:7512937027416432640",
+          "chars": 290,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Come%20work%20with%20us%3A%20the%20Center%20for%20Economy%20and%20Society%20at%20Johns%20Hopkins%20and%20the%20SNF%20Agora%20Institute%20are%20hiring%203-year%20postdoctoral%20fellows%20working%20on%20interdisciplinary%20issues%20in%20political%20economy.%20Applications%20due%20Nov.%206.%20https%3A//www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7512937027416432640"
+        }
+      ]
+    },
     {
       "id": 88,
       "mention_id": 1126,
