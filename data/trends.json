@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-06T07:06:45-04:00",
+  "generated_at": "2026-10-07T07:06:57-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-10-06"
+    "end": "2026-10-07"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 1154,
-        "in_digest": 324,
-        "reach_proxy": 4269,
+        "mentions": 1185,
+        "in_digest": 331,
+        "reach_proxy": 4302,
         "people_covered": 100,
         "people_tracked": 100,
-        "sources": 512,
+        "sources": 521,
         "negative": 11
       },
       "deltas": {
@@ -712,9 +712,16 @@
         },
         {
           "date": "2026-10-06",
-          "count": 6,
-          "reach": 6,
-          "in_digest": 1,
+          "count": 28,
+          "reach": 28,
+          "in_digest": 6,
+          "observed": true
+        },
+        {
+          "date": "2026-10-07",
+          "count": 9,
+          "reach": 11,
+          "in_digest": 2,
           "observed": true
         }
       ],
@@ -903,37 +910,37 @@
         },
         {
           "week_start": "2026-10-05",
-          "count": 26,
-          "reach": 139,
-          "in_digest": 3,
-          "people": 6,
+          "count": 57,
+          "reach": 172,
+          "in_digest": 10,
+          "people": 13,
           "sentiment": {
-            "positive": 0,
-            "neutral": 2,
+            "positive": 1,
+            "neutral": 3,
             "negative": 0,
-            "unknown": 24
+            "unknown": 53
           }
         }
       ],
       "sentiment": {
-        "positive": 101,
-        "neutral": 174,
+        "positive": 102,
+        "neutral": 175,
         "negative": 11,
-        "unknown": 868
+        "unknown": 897
       },
       "top_people": [
         {
           "person_id": "johns-hopkins",
           "name": "Johns Hopkins",
-          "count": 322,
-          "reach": 1972,
+          "count": 343,
+          "reach": 1994,
           "is_ces": false
         },
         {
           "person_id": "snf-agora-institute",
           "name": "SNF Agora Institute",
-          "count": 104,
-          "reach": 212,
+          "count": 105,
+          "reach": 213,
           "is_ces": false
         },
         {
@@ -946,8 +953,8 @@
         {
           "person_id": "anne-applebaum",
           "name": "Anne Applebaum",
-          "count": 67,
-          "reach": 324,
+          "count": 69,
+          "reach": 327,
           "is_ces": false
         },
         {
@@ -996,32 +1003,32 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 210,
-          "reach": 1351,
+          "count": 213,
+          "reach": 1354,
           "is_other": false
         },
         {
           "source": "Youtube",
-          "count": 66,
-          "reach": 64,
+          "count": 71,
+          "reach": 69,
           "is_other": false
         },
         {
           "source": "LinkedIn",
+          "count": 36,
+          "reach": 36,
+          "is_other": false
+        },
+        {
+          "source": "Springer",
           "count": 35,
           "reach": 35,
           "is_other": false
         },
         {
-          "source": "Springer",
-          "count": 34,
-          "reach": 34,
-          "is_other": false
-        },
-        {
           "source": "Substack",
-          "count": 28,
-          "reach": 32,
+          "count": 29,
+          "reach": 33,
           "is_other": false
         },
         {
@@ -1044,27 +1051,27 @@
         },
         {
           "source": "Other",
-          "count": 713,
-          "reach": 2675,
+          "count": 733,
+          "reach": 2697,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 610
+          "count": 627
         },
         {
           "source_type": "social network",
-          "count": 204
+          "count": 212
         },
         {
           "source_type": "blog",
-          "count": 47
+          "count": 49
         },
         {
           "source_type": "unresolved",
-          "count": 293
+          "count": 297
         }
       ],
       "negative_stories": [
@@ -1088,8 +1095,8 @@
           "positive": 0,
           "neutral": 0,
           "negative": 0,
-          "unknown": 322,
-          "total": 322
+          "unknown": 343,
+          "total": 343
         },
         {
           "row_label": "SNF Agora Institute",
@@ -1098,8 +1105,8 @@
           "positive": 21,
           "neutral": 30,
           "negative": 3,
-          "unknown": 50,
-          "total": 104
+          "unknown": 51,
+          "total": 105
         },
         {
           "row_label": "unknown",
@@ -1115,11 +1122,11 @@
           "row_label": "Anne Applebaum",
           "person_id": "anne-applebaum",
           "is_ces": false,
-          "positive": 10,
+          "positive": 11,
           "neutral": 15,
           "negative": 5,
-          "unknown": 37,
-          "total": 67
+          "unknown": 38,
+          "total": 69
         },
         {
           "row_label": "Yascha Mounk",
@@ -1222,6 +1229,16 @@
           "total": 19
         },
         {
+          "row_label": "Peter Pomerantsev",
+          "person_id": "peter-pomerantsev",
+          "is_ces": false,
+          "positive": 3,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 12,
+          "total": 15
+        },
+        {
           "row_label": "Denise Dresser",
           "person_id": "denise-dresser",
           "is_ces": false,
@@ -1229,16 +1246,6 @@
           "neutral": 2,
           "negative": 0,
           "unknown": 12,
-          "total": 14
-        },
-        {
-          "row_label": "Peter Pomerantsev",
-          "person_id": "peter-pomerantsev",
-          "is_ces": false,
-          "positive": 3,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 11,
           "total": 14
         },
         {
@@ -1280,6 +1287,16 @@
           "negative": 0,
           "unknown": 4,
           "total": 10
+        },
+        {
+          "row_label": "Amy Binder",
+          "person_id": "amy-binder",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 2,
+          "negative": 0,
+          "unknown": 7,
+          "total": 9
         },
         {
           "row_label": "(false positive)",
@@ -1332,11 +1349,11 @@
           "total": 8
         },
         {
-          "row_label": "Amy Binder",
-          "person_id": "amy-binder",
+          "row_label": "Eliot Cohen",
+          "person_id": "eliot-cohen",
           "is_ces": false,
-          "positive": 0,
-          "neutral": 2,
+          "positive": 2,
+          "neutral": 0,
           "negative": 0,
           "unknown": 5,
           "total": 7
@@ -1369,16 +1386,6 @@
           "neutral": 0,
           "negative": 0,
           "unknown": 6,
-          "total": 6
-        },
-        {
-          "row_label": "Eliot Cohen",
-          "person_id": "eliot-cohen",
-          "is_ces": false,
-          "positive": 2,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 4,
           "total": 6
         },
         {
@@ -1452,6 +1459,16 @@
           "total": 4
         },
         {
+          "row_label": "Ling Chen",
+          "person_id": "ling-chen",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 1,
+          "negative": 0,
+          "unknown": 3,
+          "total": 4
+        },
+        {
           "row_label": "Namesake/noise match: Johns Hopkins, higher education",
           "person_id": "namesake-noise-match-johns-hopkins-higher-education",
           "is_ces": false,
@@ -1459,6 +1476,16 @@
           "neutral": 0,
           "negative": 0,
           "unknown": 4,
+          "total": 4
+        },
+        {
+          "row_label": "Nina Hall",
+          "person_id": "nina-hall",
+          "is_ces": false,
+          "positive": 1,
+          "neutral": 1,
+          "negative": 0,
+          "unknown": 2,
           "total": 4
         },
         {
@@ -1512,16 +1539,6 @@
           "total": 3
         },
         {
-          "row_label": "Ling Chen",
-          "person_id": "ling-chen",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 1,
-          "negative": 0,
-          "unknown": 2,
-          "total": 3
-        },
-        {
           "row_label": "Namesake/noise match: Johns Hopkins, agora",
           "person_id": "namesake-noise-match-johns-hopkins-agora",
           "is_ces": false,
@@ -1529,16 +1546,6 @@
           "neutral": 0,
           "negative": 0,
           "unknown": 3,
-          "total": 3
-        },
-        {
-          "row_label": "Nina Hall",
-          "person_id": "nina-hall",
-          "is_ces": false,
-          "positive": 1,
-          "neutral": 1,
-          "negative": 0,
-          "unknown": 1,
           "total": 3
         },
         {
@@ -1569,6 +1576,16 @@
           "neutral": 2,
           "negative": 0,
           "unknown": 1,
+          "total": 3
+        },
+        {
+          "row_label": "Thomas Cudjoe",
+          "person_id": "thomas-cudjoe-m-d",
+          "is_ces": false,
+          "positive": 1,
+          "neutral": 2,
+          "negative": 0,
+          "unknown": 0,
           "total": 3
         },
         {
@@ -1649,16 +1666,6 @@
           "neutral": 0,
           "negative": 0,
           "unknown": 2,
-          "total": 2
-        },
-        {
-          "row_label": "Thomas Cudjoe",
-          "person_id": "thomas-cudjoe-m-d",
-          "is_ces": false,
-          "positive": 1,
-          "neutral": 1,
-          "negative": 0,
-          "unknown": 0,
           "total": 2
         },
         {
@@ -2088,32 +2095,32 @@
           "positive": 34,
           "neutral": 109,
           "negative": 2,
-          "unknown": 465,
-          "total": 610
+          "unknown": 482,
+          "total": 627
         },
         {
           "row_label": "social network",
-          "positive": 39,
-          "neutral": 46,
+          "positive": 40,
+          "neutral": 47,
           "negative": 1,
-          "unknown": 118,
-          "total": 204
+          "unknown": 124,
+          "total": 212
         },
         {
           "row_label": "blog",
           "positive": 6,
           "neutral": 8,
           "negative": 0,
-          "unknown": 33,
-          "total": 47
+          "unknown": 35,
+          "total": 49
         },
         {
           "row_label": "unresolved",
           "positive": 22,
           "neutral": 11,
           "negative": 8,
-          "unknown": 252,
-          "total": 293
+          "unknown": 256,
+          "total": 297
         }
       ],
       "sentiment_examples": {
@@ -2275,6 +2282,16 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 1169,
+              "person": "Anne Applebaum",
+              "person_id": "anne-applebaum",
+              "is_ces": false,
+              "title": "On Autocracy with Anne Applebaum",
+              "url": "https://www.youtube.com/watch?v=wzhjLqIAVq8",
+              "source": "Youtube",
+              "date": "2026-10-07"
+            },
             {
               "id": 1046,
               "person": "Peter Pomerantsev",
@@ -4041,6 +4058,13 @@
           "count": 1,
           "reach": 1,
           "in_digest": 1,
+          "observed": true
+        },
+        {
+          "date": "2026-10-07",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
           "observed": true
         }
       ],
