@@ -1,7 +1,786 @@
 {
-  "generated_at": "2026-10-06T07:06:45-04:00",
-  "count": 1154,
+  "generated_at": "2026-10-07T07:06:57-04:00",
+  "count": 1185,
   "stories": [
+    {
+      "id": 1165,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Peter Bergen: Difference between revisions",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/w/index.php?title=Peter_Bergen&curid=5596460&diff=1379002143&oldid=1379000303",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Peter Bergen: Difference between revisions https://en.wikipedia.org/w/index.php?title=Peter_Bergen&curid=5596460&diff=1379002143&oldid=1379000303",
+          "chars": 66
+        },
+        "bluesky": {
+          "text": "Peter Bergen: Difference between revisions https://en.wikipedia.org/w/index.php?title=Peter_Bergen&curid=5596460&diff=1379002143&oldid=1379000303",
+          "chars": 145
+        }
+      }
+    },
+    {
+      "id": 1163,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Francis Fukuyama’s Failures of Imagination",
+      "has_text": true,
+      "url": "https://newrepublic.com/article/213518/francis-fukuyama-failures-imagination",
+      "source": "The New Republic",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Francis Fukuyama’s Failures of Imagination https://newrepublic.com/article/213518/francis-fukuyama-failures-imagination",
+          "chars": 66
+        },
+        "bluesky": {
+          "text": "Francis Fukuyama’s Failures of Imagination https://newrepublic.com/article/213518/francis-fukuyama-failures-imagination",
+          "chars": 119
+        }
+      }
+    },
+    {
+      "id": 1193,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "peter-pomerantsev",
+      "person": "Peter Pomerantsev",
+      "is_ces": false,
+      "title": "Is Putin Really Winning? Peter Pomeranzev, Johns Hopkins University",
+      "has_text": true,
+      "url": "https://www.princeton.edu/events/2026/putin-really-winning-peter-pomeranzev-johns-hopkins-university",
+      "source": "Princeton University",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Is Putin Really Winning? Peter Pomeranzev, Johns Hopkins University https://www.princeton.edu/events/2026/putin-really-winning-peter-pomeranzev-johns-hopkins-university",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "Is Putin Really Winning? Peter Pomeranzev, Johns Hopkins University https://www.princeton.edu/events/2026/putin-really-winning-peter-pomeranzev-johns-hopkins-university",
+          "chars": 168
+        }
+      }
+    },
+    {
+      "id": 1170,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Trump explota a guerra contra o 'woke' nas eleccións de EEUU mentres o custo de vida erosiona o seu apoio",
+      "has_text": true,
+      "url": "https://galego.farodevigo.es/mundo/2026/10/07/trump-explota-woke-guerra-cultura-eeuu-elecciones-medio-mandato-135081541.html",
+      "source": "Faro de Vigo",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Trump explota a guerra contra o 'woke' nas eleccións de EEUU mentres o custo de vida erosiona o seu apoio https://galego.farodevigo.es/mundo/2026/10/07/trump-explota-woke-guerra-cultura-eeuu-elecciones-medio-mandato-135081541.html",
+          "chars": 129
+        },
+        "bluesky": {
+          "text": "Trump explota a guerra contra o 'woke' nas eleccións de EEUU mentres o custo de vida erosiona o seu apoio https://galego.farodevigo.es/mundo/2026/10/07/trump-explota-woke-guerra-cultura-eeuu-elecciones-medio-mandato-135081541.html",
+          "chars": 230
+        }
+      }
+    },
+    {
+      "id": 1169,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "On Autocracy with Anne Applebaum",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=wzhjLqIAVq8",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "On Autocracy with Anne Applebaum https://www.youtube.com/watch?v=wzhjLqIAVq8",
+          "chars": 56
+        },
+        "bluesky": {
+          "text": "On Autocracy with Anne Applebaum https://www.youtube.com/watch?v=wzhjLqIAVq8",
+          "chars": 76
+        }
+      }
+    },
+    {
+      "id": 1168,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "A sustainable profession: a qualitative exploration of peer experiences and the value of lived experience among the peer support workforce",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1186/s13011-026-00771-0",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "A sustainable profession: a qualitative exploration of peer experiences and the value of lived experience among the peer support workforce https://link.springer.com/article/10.1186/s13011-026-00771-0",
+          "chars": 162
+        },
+        "bluesky": {
+          "text": "A sustainable profession: a qualitative exploration of peer experiences and the value of lived experience among the peer support workforce https://link.springer.com/article/10.1186/s13011-026-00771-0",
+          "chars": 199
+        }
+      }
+    },
+    {
+      "id": 1167,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": ":::: Dünyanın En İyi 100 Üniversitesi ::::",
+      "has_text": true,
+      "url": "https://www.maxicep.com/forum/konu/dunyanin-en-iyi-100-universitesi.262184/",
+      "source": "MaxiCep",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": ":::: Dünyanın En İyi 100 Üniversitesi :::: https://www.maxicep.com/forum/konu/dunyanin-en-iyi-100-universitesi.262184/",
+          "chars": 66
+        },
+        "bluesky": {
+          "text": ":::: Dünyanın En İyi 100 Üniversitesi :::: https://www.maxicep.com/forum/konu/dunyanin-en-iyi-100-universitesi.262184/",
+          "chars": 118
+        }
+      }
+    },
+    {
+      "id": 1166,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Clark University",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/Clark_Cougars",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Clark University https://en.wikipedia.org/wiki/Clark_Cougars",
+          "chars": 40
+        },
+        "bluesky": {
+          "text": "Clark University https://en.wikipedia.org/wiki/Clark_Cougars",
+          "chars": 60
+        }
+      }
+    },
+    {
+      "id": 1164,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Gordon Moore",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/Gordon_Moore",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Gordon Moore https://en.wikipedia.org/wiki/Gordon_Moore",
+          "chars": 36
+        },
+        "bluesky": {
+          "text": "Gordon Moore https://en.wikipedia.org/wiki/Gordon_Moore",
+          "chars": 55
+        }
+      }
+    },
+    {
+      "id": 1192,
+      "date": "2026-10-06",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Leading with Data: Martin O'Malley on Building Smarter Schools and Stronger Communities",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=M-hJhx4GVeA",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Leading with Data: Martin O'Malley on Building Smarter Schools and Stronger Communities https://www.youtube.com/watch?v=M-hJhx4GVeA",
+          "chars": 111
+        },
+        "bluesky": {
+          "text": "Leading with Data: Martin O'Malley on Building Smarter Schools and Stronger Communities https://www.youtube.com/watch?v=M-hJhx4GVeA",
+          "chars": 131
+        }
+      }
+    },
+    {
+      "id": 1191,
+      "date": "2026-10-06",
+      "week_start": "2026-10-05",
+      "person_id": "eliot-cohen",
+      "person": "Eliot Cohen",
+      "is_ces": false,
+      "title": "Hegseth's One Percent (Tumblr repost of Atlantic essay)",
+      "has_text": true,
+      "url": "https://dreaminginthedeepsouth.tumblr.com/post/829726494148395008",
+      "source": "Wait - what ?",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Hegseth's One Percent (Tumblr repost of Atlantic essay) https://dreaminginthedeepsouth.tumblr.com/post/829726494148395008",
+          "chars": 79
+        },
+        "bluesky": {
+          "text": "Hegseth's One Percent (Tumblr repost of Atlantic essay) https://dreaminginthedeepsouth.tumblr.com/post/829726494148395008",
+          "chars": 121
+        }
+      }
+    },
+    {
+      "id": 1190,
+      "date": "2026-10-06",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Rethinking the Four-Year Degree: The Story Behind College-in-3 with Chancellor Lori Carrell — Part 1",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=xnXa8HvS3co",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Rethinking the Four-Year Degree: The Story Behind College-in-3 with Chancellor Lori Carrell — Part 1 https://www.youtube.com/watch?v=xnXa8HvS3co",
+          "chars": 124
+        },
+        "bluesky": {
+          "text": "Rethinking the Four-Year Degree: The Story Behind College-in-3 with Chancellor Lori Carrell — Part 1 https://www.youtube.com/watch?v=xnXa8HvS3co",
+          "chars": 144
+        }
+      }
+    },
+    {
+      "id": 1189,
+      "date": "2026-10-06",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "COVID-19 pandemic in the United States",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_States",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "COVID-19 pandemic in the United States https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_States",
+          "chars": 62
+        },
+        "bluesky": {
+          "text": "COVID-19 pandemic in the United States https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_States",
+          "chars": 107
+        }
+      }
+    },
+    {
+      "id": 1188,
+      "date": "2026-10-06",
+      "week_start": "2026-10-05",
+      "person_id": "nina-hall",
+      "person": "Nina Hall",
+      "is_ces": false,
+      "title": "Sensing The Climate",
+      "has_text": true,
+      "url": "https://zero.eu/it/eventi/380370-sensing-the-climate,bologna/",
+      "source": "Zero",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Sensing The Climate https://zero.eu/it/eventi/380370-sensing-the-climate,bologna/",
+          "chars": 43
+        },
+        "bluesky": {
+          "text": "Sensing The Climate https://zero.eu/it/eventi/380370-sensing-the-climate,bologna/",
+          "chars": 81
+        }
+      }
+    },
+    {
+      "id": 1187,
+      "date": "2026-10-06",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Emmy Awards agora serão transmitidos pelo Prime Video em um acordo de seis anos",
+      "has_text": true,
+      "url": "https://portaldemocrata.com.br/2026/10/06/emmy-awards-agora-serao-transmitidos-pelo-prime-video-em-um-acordo-de-seis-anos/",
+      "source": "Portal Democrata",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Emmy Awards agora serão transmitidos pelo Prime Video em um acordo de seis anos https://portaldemocrata.com.br/2026/10/06/emmy-awards-agora-serao-transmitidos-pelo-prime-video-em-um-acordo-de-seis-anos/",
+          "chars": 103
+        },
+        "bluesky": {
+          "text": "Emmy Awards agora serão transmitidos pelo Prime Video em um acordo de seis anos https://portaldemocrata.com.br/2026/10/06/emmy-awards-agora-serao-transmitidos-pelo-prime-video-em-um-acordo-de-seis-anos/",
+          "chars": 202
+        }
+      }
+    },
+    {
+      "id": 1186,
+      "date": "2026-10-06",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Faculty Senate discusses new student retention model, updates on hiring processes",
+      "has_text": true,
+      "url": "https://www.thedaonline.com/news/university/faculty-senate-discusses-new-student-retention-model-updates-on-hiring-processes/article_e81921af-cda5-4cf2-b643-5418093b2b6c.html",
+      "source": "The Daily Athenaeum",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Faculty Senate discusses new student retention model, updates on hiring processes https://www.thedaonline.com/news/university/faculty-senate-discusses-new-student-retention-model-updates-on-hiring-processes/article_e81921af-cda5-4cf2-b643-5418093b2b6c.html",
+          "chars": 105
+        },
+        "bluesky": {
+          "text": "Faculty Senate discusses new student retention model, updates on hiring processes https://www.thedaonline.com/news/university/faculty-senate-discusses-new-student-retention-model-updates-on-hiring-processes/article_e81921af-cda5-4cf2-b643-5418093b2b6c.html",
+          "chars": 256
+        }
+      }
+    },
+    {
+      "id": 1185,
+      "date": "2026-10-06",
+      "week_start": "2026-10-05",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "BmoreArt’s Picks: October 6-12",
+      "has_text": true,
+      "url": "https://baltimorefishbowl.com/stories/bmorearts-picks-october-6-12/",
+      "source": "Baltimore Fishbowl",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "BmoreArt’s Picks: October 6-12 https://baltimorefishbowl.com/stories/bmorearts-picks-october-6-12/",
+          "chars": 54
+        },
+        "bluesky": {
+          "text": "BmoreArt’s Picks: October 6-12 https://baltimorefishbowl.com/stories/bmorearts-picks-october-6-12/",
+          "chars": 98
+        }
+      }
+    },
+    {
+      "id": 1184,
+      "date": "2026-10-06",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Reddit reply)",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/opiniaopopular/comments/1wz54bd/comment/pe99ynz/",
+      "source": "reddit.com/r/opiniaopopular",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "(no captured text — Reddit reply) https://www.reddit.com/r/opiniaopopular/comments/1wz54bd/comment/pe99ynz/",
+          "chars": 57
+        },
+        "bluesky": {
+          "text": "(no captured text — Reddit reply) https://www.reddit.com/r/opiniaopopular/comments/1wz54bd/comment/pe99ynz/",
+          "chars": 107
+        }
+      }
+    },
+    {
+      "id": 1183,
+      "date": "2026-10-06",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Psilocybin for sale in Australia, acquire Psilocybin in Australia, obtain Psilocybin in Australia, buy Psilocybin in Australia, Shop Psilocybin in Australia.",
+      "has_text": true,
+      "url": "https://mushroom-for-sale-near-m996250.digiblogbox.com/67713741/psilocybin-for-sale-in-australia-acquire-psilocybin-in-australia-obtain-psilocybin-in-australia-buy-psilocybin-in-australia-shop-psilocybin-in-australia",
+      "source": "Takemyclass61594 Blog",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Psilocybin for sale in Australia, acquire Psilocybin in Australia, obtain Psilocybin in Australia, buy Psilocybin in Australia, Shop Psilocybin in Australia. https://mushroom-for-sale-near-m996250.digiblogbox.com/67713741/psilocybin-for-sale-in-australia-acquire-psilocybin-in-australia-obtain-psilocybin-in-australia-buy-psilocybin-in-australia-shop-psilocybin-in-australia",
+          "chars": 181
+        },
+        "bluesky": {
+          "text": "Psilocybin for sale in Australia, acquire Psilocybin in Australia, obtain Psilocy… https://mushroom-for-sale-near-m996250.digiblogbox.com/67713741/psilocybin-for-sale-in-australia-acquire-psilocybin-in-australia-obtain-psilocybin-in-australia-buy-psilocybin-in-australia-shop-psilocybin-in-australia",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 1182,
+      "date": "2026-10-06",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Newly identified prostate cell type may help explain why enlarged prostate develops in one region of gland",
+      "has_text": true,
+      "url": "https://medicalxpress.com/news/2026-10-newly-prostate-cell-enlarged-region.html",
+      "source": "Medical Xpress",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Newly identified prostate cell type may help explain why enlarged prostate develops in one region of gland https://medicalxpress.com/news/2026-10-newly-prostate-cell-enlarged-region.html",
+          "chars": 130
+        },
+        "bluesky": {
+          "text": "Newly identified prostate cell type may help explain why enlarged prostate develops in one region of gland https://medicalxpress.com/news/2026-10-newly-prostate-cell-enlarged-region.html",
+          "chars": 186
+        }
+      }
+    },
+    {
+      "id": 1181,
+      "date": "2026-10-06",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter reply)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1180,
+      "date": "2026-10-06",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Conahp 2026 reúne principais lideranças da saúde para discutir o futuro do setor",
+      "has_text": true,
+      "url": "https://portalhospitaisbrasil.com.br/conahp-2026-reune-principais-liderancas-da-saude-para-discutir-o-futuro-do-setor/",
+      "source": "Revista Hospitais Brasil",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Conahp 2026 reúne principais lideranças da saúde para discutir o futuro do setor https://portalhospitaisbrasil.com.br/conahp-2026-reune-principais-liderancas-da-saude-para-discutir-o-futuro-do-setor/",
+          "chars": 104
+        },
+        "bluesky": {
+          "text": "Conahp 2026 reúne principais lideranças da saúde para discutir o futuro do setor https://portalhospitaisbrasil.com.br/conahp-2026-reune-principais-liderancas-da-saude-para-discutir-o-futuro-do-setor/",
+          "chars": 199
+        }
+      }
+    },
+    {
+      "id": 1179,
+      "date": "2026-10-06",
+      "week_start": "2026-10-05",
+      "person_id": "amy-binder",
+      "person": "Amy Binder",
+      "is_ces": false,
+      "title": "NASPAA 2026 conference thank-you (LinkedIn post)",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7513318563655462912",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "NASPAA 2026 conference thank-you (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:ugcPost:7513318563655462912",
+          "chars": 72
+        },
+        "bluesky": {
+          "text": "NASPAA 2026 conference thank-you (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:ugcPost:7513318563655462912",
+          "chars": 120
+        }
+      }
+    },
+    {
+      "id": 1178,
+      "date": "2026-10-06",
+      "week_start": "2026-10-05",
+      "person_id": "thomas-cudjoe-m-d",
+      "person": "Thomas Cudjoe",
+      "is_ces": false,
+      "title": "After 60, Doctors Warn: Loneliness Can Harm Your Health (7 Daily Habits)",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=W7PqIaU4wes",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "After 60, Doctors Warn: Loneliness Can Harm Your Health (7 Daily Habits) https://www.youtube.com/watch?v=W7PqIaU4wes",
+          "chars": 96
+        },
+        "bluesky": {
+          "text": "After 60, Doctors Warn: Loneliness Can Harm Your Health (7 Daily Habits) https://www.youtube.com/watch?v=W7PqIaU4wes",
+          "chars": 116
+        }
+      }
+    },
+    {
+      "id": 1177,
+      "date": "2026-10-06",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Childhood and Education #21: Grades and Standards",
+      "has_text": true,
+      "url": "https://thezvi.substack.com/p/childhood-and-education-21-grades",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Childhood and Education #21: Grades and Standards https://thezvi.substack.com/p/childhood-and-education-21-grades",
+          "chars": 73
+        },
+        "bluesky": {
+          "text": "Childhood and Education #21: Grades and Standards https://thezvi.substack.com/p/childhood-and-education-21-grades",
+          "chars": 113
+        }
+      }
+    },
+    {
+      "id": 1176,
+      "date": "2026-10-06",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Reddit reply)",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1wyza4c/comment/pebpdt0/",
+      "source": "reddit.com/r/NoStupidQuestions",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "(no captured text — Reddit reply) https://www.reddit.com/r/NoStupidQuestions/comments/1wyza4c/comment/pebpdt0/",
+          "chars": 57
+        },
+        "bluesky": {
+          "text": "(no captured text — Reddit reply) https://www.reddit.com/r/NoStupidQuestions/comments/1wyza4c/comment/pebpdt0/",
+          "chars": 110
+        }
+      }
+    },
+    {
+      "id": 1175,
+      "date": "2026-10-06",
+      "week_start": "2026-10-05",
+      "person_id": "amy-binder",
+      "person": "Amy Binder",
+      "is_ces": false,
+      "title": "Elite universities are failing us",
+      "has_text": true,
+      "url": "https://www.jhunewsletter.com/article/2026/10/elite-universities-are-failing-us",
+      "source": "The Johns Hopkins News-Letter",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Elite universities are failing us https://www.jhunewsletter.com/article/2026/10/elite-universities-are-failing-us",
+          "chars": 57
+        },
+        "bluesky": {
+          "text": "Elite universities are failing us https://www.jhunewsletter.com/article/2026/10/elite-universities-are-failing-us",
+          "chars": 113
+        }
+      }
+    },
+    {
+      "id": 1174,
+      "date": "2026-10-06",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1173,
+      "date": "2026-10-06",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "\"Rumo ao Azul\" de Emma Brodie | Penguin",
+      "has_text": true,
+      "url": "http://www.clubedoslivros.pt/2026/10/rumo-ao-azul-de-emma-brodie-penguin.html",
+      "source": "Clube dos Livros",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "\"Rumo ao Azul\" de Emma Brodie | Penguin http://www.clubedoslivros.pt/2026/10/rumo-ao-azul-de-emma-brodie-penguin.html",
+          "chars": 63
+        },
+        "bluesky": {
+          "text": "\"Rumo ao Azul\" de Emma Brodie | Penguin http://www.clubedoslivros.pt/2026/10/rumo-ao-azul-de-emma-brodie-penguin.html",
+          "chars": 117
+        }
+      }
+    },
+    {
+      "id": 1172,
+      "date": "2026-10-06",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter social post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1171,
+      "date": "2026-10-06",
+      "week_start": "2026-10-05",
+      "person_id": "ling-chen",
+      "person": "Ling Chen",
+      "is_ces": false,
+      "title": "Noiva traidora e herdeiro playboy humilham 10 min antes do apocalipse, mas pingente revela portal",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=TBuZ9MFV9rM",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Noiva traidora e herdeiro playboy humilham 10 min antes do apocalipse, mas pingente revela portal https://www.youtube.com/watch?v=TBuZ9MFV9rM",
+          "chars": 121
+        },
+        "bluesky": {
+          "text": "Noiva traidora e herdeiro playboy humilham 10 min antes do apocalipse, mas pingente revela portal https://www.youtube.com/watch?v=TBuZ9MFV9rM",
+          "chars": 141
+        }
+      }
+    },
     {
       "id": 1162,
       "date": "2026-10-06",
