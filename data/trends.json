@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-07T07:06:57-04:00",
+  "generated_at": "2026-10-08T07:08:33-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-10-07"
+    "end": "2026-10-08"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 1185,
-        "in_digest": 331,
-        "reach_proxy": 4302,
+        "mentions": 1215,
+        "in_digest": 339,
+        "reach_proxy": 4716,
         "people_covered": 100,
         "people_tracked": 100,
-        "sources": 521,
+        "sources": 532,
         "negative": 11
       },
       "deltas": {
@@ -719,9 +719,16 @@
         },
         {
           "date": "2026-10-07",
+          "count": 30,
+          "reach": 242,
+          "in_digest": 9,
+          "observed": true
+        },
+        {
+          "date": "2026-10-08",
           "count": 9,
-          "reach": 11,
-          "in_digest": 2,
+          "reach": 183,
+          "in_digest": 1,
           "observed": true
         }
       ],
@@ -910,37 +917,37 @@
         },
         {
           "week_start": "2026-10-05",
-          "count": 57,
-          "reach": 172,
-          "in_digest": 10,
-          "people": 13,
+          "count": 87,
+          "reach": 586,
+          "in_digest": 18,
+          "people": 16,
           "sentiment": {
-            "positive": 1,
-            "neutral": 3,
+            "positive": 2,
+            "neutral": 6,
             "negative": 0,
-            "unknown": 53
+            "unknown": 79
           }
         }
       ],
       "sentiment": {
-        "positive": 102,
-        "neutral": 175,
+        "positive": 103,
+        "neutral": 178,
         "negative": 11,
-        "unknown": 897
+        "unknown": 923
       },
       "top_people": [
         {
           "person_id": "johns-hopkins",
           "name": "Johns Hopkins",
-          "count": 343,
-          "reach": 1994,
+          "count": 363,
+          "reach": 2396,
           "is_ces": false
         },
         {
           "person_id": "snf-agora-institute",
           "name": "SNF Agora Institute",
-          "count": 105,
-          "reach": 213,
+          "count": 111,
+          "reach": 220,
           "is_ces": false
         },
         {
@@ -974,8 +981,8 @@
         {
           "person_id": "sean-carroll",
           "name": "Sean Carroll",
-          "count": 34,
-          "reach": 60,
+          "count": 35,
+          "reach": 62,
           "is_ces": false
         },
         {
@@ -1003,26 +1010,26 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 213,
-          "reach": 1354,
+          "count": 214,
+          "reach": 1355,
           "is_other": false
         },
         {
           "source": "Youtube",
-          "count": 71,
-          "reach": 69,
+          "count": 74,
+          "reach": 72,
           "is_other": false
         },
         {
           "source": "LinkedIn",
-          "count": 36,
-          "reach": 36,
+          "count": 39,
+          "reach": 40,
           "is_other": false
         },
         {
           "source": "Springer",
-          "count": 35,
-          "reach": 35,
+          "count": 36,
+          "reach": 36,
           "is_other": false
         },
         {
@@ -1051,19 +1058,19 @@
         },
         {
           "source": "Other",
-          "count": 733,
-          "reach": 2697,
+          "count": 755,
+          "reach": 3102,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 627
+          "count": 650
         },
         {
           "source_type": "social network",
-          "count": 212
+          "count": 218
         },
         {
           "source_type": "blog",
@@ -1071,7 +1078,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 297
+          "count": 298
         }
       ],
       "negative_stories": [
@@ -1095,18 +1102,18 @@
           "positive": 0,
           "neutral": 0,
           "negative": 0,
-          "unknown": 343,
-          "total": 343
+          "unknown": 363,
+          "total": 363
         },
         {
           "row_label": "SNF Agora Institute",
           "person_id": "snf-agora-institute",
           "is_ces": false,
-          "positive": 21,
-          "neutral": 30,
+          "positive": 22,
+          "neutral": 32,
           "negative": 3,
-          "unknown": 51,
-          "total": 105
+          "unknown": 54,
+          "total": 111
         },
         {
           "row_label": "unknown",
@@ -1155,8 +1162,8 @@
           "positive": 6,
           "neutral": 13,
           "negative": 1,
-          "unknown": 14,
-          "total": 34
+          "unknown": 15,
+          "total": 35
         },
         {
           "row_label": "None (keyword noise)",
@@ -1349,6 +1356,16 @@
           "total": 8
         },
         {
+          "row_label": "Mara Karlin",
+          "person_id": "mara-karlin",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 5,
+          "negative": 0,
+          "unknown": 3,
+          "total": 8
+        },
+        {
           "row_label": "Eliot Cohen",
           "person_id": "eliot-cohen",
           "is_ces": false,
@@ -1356,16 +1373,6 @@
           "neutral": 0,
           "negative": 0,
           "unknown": 5,
-          "total": 7
-        },
-        {
-          "row_label": "Mara Karlin",
-          "person_id": "mara-karlin",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 4,
-          "negative": 0,
-          "unknown": 3,
           "total": 7
         },
         {
@@ -1439,6 +1446,16 @@
           "total": 5
         },
         {
+          "row_label": "Angus Burgin",
+          "person_id": "angus-burgin",
+          "is_ces": true,
+          "positive": 1,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 3,
+          "total": 4
+        },
+        {
           "row_label": "Johns Hopkins University",
           "person_id": "johns-hopkins-university",
           "is_ces": false,
@@ -1489,21 +1506,21 @@
           "total": 4
         },
         {
+          "row_label": "Thomas Cudjoe",
+          "person_id": "thomas-cudjoe-m-d",
+          "is_ces": false,
+          "positive": 1,
+          "neutral": 2,
+          "negative": 0,
+          "unknown": 1,
+          "total": 4
+        },
+        {
           "row_label": "André Nogueira",
           "person_id": "andre-nogueira",
           "is_ces": false,
           "positive": 0,
           "neutral": 1,
-          "negative": 0,
-          "unknown": 2,
-          "total": 3
-        },
-        {
-          "row_label": "Angus Burgin",
-          "person_id": "angus-burgin",
-          "is_ces": true,
-          "positive": 1,
-          "neutral": 0,
           "negative": 0,
           "unknown": 2,
           "total": 3
@@ -1576,16 +1593,6 @@
           "neutral": 2,
           "negative": 0,
           "unknown": 1,
-          "total": 3
-        },
-        {
-          "row_label": "Thomas Cudjoe",
-          "person_id": "thomas-cudjoe-m-d",
-          "is_ces": false,
-          "positive": 1,
-          "neutral": 2,
-          "negative": 0,
-          "unknown": 0,
           "total": 3
         },
         {
@@ -2093,18 +2100,18 @@
         {
           "row_label": "online news",
           "positive": 34,
-          "neutral": 109,
+          "neutral": 111,
           "negative": 2,
-          "unknown": 482,
-          "total": 627
+          "unknown": 503,
+          "total": 650
         },
         {
           "row_label": "social network",
-          "positive": 40,
-          "neutral": 47,
+          "positive": 41,
+          "neutral": 48,
           "negative": 1,
-          "unknown": 124,
-          "total": 212
+          "unknown": 128,
+          "total": 218
         },
         {
           "row_label": "blog",
@@ -2119,8 +2126,8 @@
           "positive": 22,
           "neutral": 11,
           "negative": 8,
-          "unknown": 256,
-          "total": 297
+          "unknown": 257,
+          "total": 298
         }
       ],
       "sentiment_examples": {
@@ -2282,6 +2289,16 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 1219,
+              "person": "SNF Agora Institute",
+              "person_id": "snf-agora-institute",
+              "is_ces": false,
+              "title": "Open to Debate award nominations incl. Hopkins Forum Shorty Impact finalist (LinkedIn post)",
+              "url": "https://www.linkedin.com/feed/update/urn:li:share:7513654250028097537",
+              "source": "LinkedIn",
+              "date": "2026-10-07"
+            },
             {
               "id": 1169,
               "person": "Anne Applebaum",
@@ -3350,12 +3367,12 @@
     },
     "ces": {
       "totals": {
-        "mentions": 111,
-        "in_digest": 77,
-        "reach_proxy": 186,
+        "mentions": 112,
+        "in_digest": 78,
+        "reach_proxy": 187,
         "people_covered": 10,
         "people_tracked": 17,
-        "sources": 63,
+        "sources": 64,
         "negative": 0
       },
       "deltas": {
@@ -4062,6 +4079,13 @@
         },
         {
           "date": "2026-10-07",
+          "count": 1,
+          "reach": 1,
+          "in_digest": 1,
+          "observed": true
+        },
+        {
+          "date": "2026-10-08",
           "count": 0,
           "reach": 0,
           "in_digest": 0,
@@ -4253,15 +4277,15 @@
         },
         {
           "week_start": "2026-10-05",
-          "count": 2,
-          "reach": 2,
-          "in_digest": 2,
-          "people": 2,
+          "count": 3,
+          "reach": 3,
+          "in_digest": 3,
+          "people": 3,
           "sentiment": {
             "positive": 0,
             "neutral": 1,
             "negative": 0,
-            "unknown": 1
+            "unknown": 2
           }
         }
       ],
@@ -4269,7 +4293,7 @@
         "positive": 16,
         "neutral": 34,
         "negative": 0,
-        "unknown": 61
+        "unknown": 62
       },
       "top_people": [
         {
@@ -4303,8 +4327,8 @@
         {
           "person_id": "angus-burgin",
           "name": "Angus Burgin",
-          "count": 3,
-          "reach": 3,
+          "count": 4,
+          "reach": 4,
           "is_ces": true
         },
         {
@@ -4394,15 +4418,15 @@
         },
         {
           "source": "Other",
-          "count": 65,
-          "reach": 122,
+          "count": 66,
+          "reach": 123,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 57
+          "count": 58
         },
         {
           "source_type": "social network",
@@ -4466,8 +4490,8 @@
           "positive": 1,
           "neutral": 0,
           "negative": 0,
-          "unknown": 2,
-          "total": 3
+          "unknown": 3,
+          "total": 4
         },
         {
           "row_label": "Jeanne-Marie Jackson",
@@ -4526,8 +4550,8 @@
           "positive": 9,
           "neutral": 20,
           "negative": 0,
-          "unknown": 28,
-          "total": 57
+          "unknown": 29,
+          "total": 58
         },
         {
           "row_label": "social network",

@@ -9,37 +9,37 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 343,
+    "mentions_total": 363,
     "mentions_in_digest": 0,
-    "reach_proxy": 1994,
+    "reach_proxy": 2396,
     "first_mention_date": "2026-08-30",
-    "last_mention_date": "2026-10-07",
+    "last_mention_date": "2026-10-08",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
       "negative": 0,
-      "unknown": 343
+      "unknown": 363
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 62
+        "count": 63
       },
       {
         "source": "Youtube",
-        "count": 28
+        "count": 30
       },
       {
         "source": "Springer",
-        "count": 17
+        "count": 18
       },
       {
         "source": "Medical Xpress",
-        "count": 8
+        "count": 9
       },
       {
         "source": "N2O Records",
-        "count": 6
+        "count": 8
       }
     ],
     "weekly": [
@@ -100,8 +100,8 @@
       },
       {
         "week_start": "2026-10-05",
-        "count": 40,
-        "reach": 154
+        "count": 60,
+        "reach": 556
       }
     ]
   },
@@ -115,16 +115,16 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 105,
-    "mentions_in_digest": 37,
-    "reach_proxy": 213,
+    "mentions_total": 111,
+    "mentions_in_digest": 42,
+    "reach_proxy": 220,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-10-06",
+    "last_mention_date": "2026-10-07",
     "sentiment": {
-      "positive": 21,
-      "neutral": 30,
+      "positive": 22,
+      "neutral": 32,
       "negative": 3,
-      "unknown": 51
+      "unknown": 54
     },
     "top_sources": [
       {
@@ -133,7 +133,7 @@
       },
       {
         "source": "LinkedIn",
-        "count": 18
+        "count": 21
       },
       {
         "source": "Bluesky",
@@ -206,8 +206,8 @@
       },
       {
         "week_start": "2026-10-05",
-        "count": 4,
-        "reach": 4
+        "count": 10,
+        "reach": 11
       }
     ]
   },
@@ -653,16 +653,16 @@
       "Affiliated Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 34,
+    "mentions_total": 35,
     "mentions_in_digest": 14,
-    "reach_proxy": 60,
+    "reach_proxy": 62,
     "first_mention_date": "2026-07-03",
-    "last_mention_date": "2026-10-04",
+    "last_mention_date": "2026-10-07",
     "sentiment": {
       "positive": 6,
       "neutral": 13,
       "negative": 1,
-      "unknown": 14
+      "unknown": 15
     },
     "top_sources": [
       {
@@ -744,8 +744,8 @@
       },
       {
         "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 2
       }
     ]
   },
@@ -2782,6 +2782,114 @@
     ]
   },
   {
+    "id": "mara-karlin",
+    "name": "Mara Karlin",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Director of the Foreign Policy Institute at Johns Hopkins School of Advanced International Studies",
+    "profile_url": "https://snfagora.jhu.edu/directory/mara-karlin/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 8,
+    "mentions_in_digest": 4,
+    "reach_proxy": 84,
+    "first_mention_date": "2026-07-19",
+    "last_mention_date": "2026-10-08",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0,
+      "unknown": 3
+    },
+    "top_sources": [
+      {
+        "source": "Council on Foreign Relations",
+        "count": 1
+      },
+      {
+        "source": "EUROPE SAYS",
+        "count": 1
+      },
+      {
+        "source": "L'Italia e il Mondo",
+        "count": 1
+      },
+      {
+        "source": "Münchner Merkur",
+        "count": 1
+      },
+      {
+        "source": "Newsweek",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-20",
+        "count": 1,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 2,
+        "reach": 69
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "eliot-cohen",
     "name": "Eliot Cohen",
     "kind": "unmatched",
@@ -2884,114 +2992,6 @@
         "week_start": "2026-10-05",
         "count": 1,
         "reach": 1
-      }
-    ]
-  },
-  {
-    "id": "mara-karlin",
-    "name": "Mara Karlin",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Director of the Foreign Policy Institute at Johns Hopkins School of Advanced International Studies",
-    "profile_url": "https://snfagora.jhu.edu/directory/mara-karlin/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 7,
-    "mentions_in_digest": 3,
-    "reach_proxy": 83,
-    "first_mention_date": "2026-07-19",
-    "last_mention_date": "2026-10-01",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 4,
-      "negative": 0,
-      "unknown": 3
-    },
-    "top_sources": [
-      {
-        "source": "Council on Foreign Relations",
-        "count": 1
-      },
-      {
-        "source": "EUROPE SAYS",
-        "count": 1
-      },
-      {
-        "source": "L'Italia e il Mondo",
-        "count": 1
-      },
-      {
-        "source": "Münchner Merkur",
-        "count": 1
-      },
-      {
-        "source": "Newsweek",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-20",
-        "count": 1,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 2,
-        "reach": 69
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
       }
     ]
   },
@@ -3724,6 +3724,110 @@
     ]
   },
   {
+    "id": "angus-burgin",
+    "name": "Angus Burgin",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Associate Professor of History at Johns Hopkins University",
+    "profile_url": "https://snfagora.jhu.edu/directory/angus-burgin/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": true,
+    "mentions_total": 4,
+    "mentions_in_digest": 4,
+    "reach_proxy": 4,
+    "first_mention_date": "2026-07-16",
+    "last_mention_date": "2026-10-07",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 3
+    },
+    "top_sources": [
+      {
+        "source": "Agencia EFE",
+        "count": 1
+      },
+      {
+        "source": "Modern Intellectual History (Cambridge)",
+        "count": 1
+      },
+      {
+        "source": "Substack",
+        "count": 1
+      },
+      {
+        "source": "The Hub - Johns Hopkins University",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "johns-hopkins-university",
     "name": "Johns Hopkins University",
     "kind": "unmatched",
@@ -4230,6 +4334,110 @@
     ]
   },
   {
+    "id": "thomas-cudjoe-m-d",
+    "name": "Thomas Cudjoe",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Robert and Jane Meyerhoff Endowed Associate Professor of Medicine",
+    "profile_url": "https://snfagora.jhu.edu/directory/thomas-cudjoe-m-d/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 4,
+    "mentions_in_digest": 4,
+    "reach_proxy": 4,
+    "first_mention_date": "2026-07-02",
+    "last_mention_date": "2026-10-07",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Bolde",
+        "count": 1
+      },
+      {
+        "source": "ClinicalTrials.gov",
+        "count": 1
+      },
+      {
+        "source": "Pantallazos Noticias",
+        "count": 1
+      },
+      {
+        "source": "Youtube",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 2,
+        "reach": 2
+      }
+    ]
+  },
+  {
     "id": "andre-nogueira",
     "name": "André Nogueira",
     "kind": "faculty",
@@ -4316,106 +4524,6 @@
         "week_start": "2026-09-21",
         "count": 2,
         "reach": 2
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "angus-burgin",
-    "name": "Angus Burgin",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Associate Professor of History at Johns Hopkins University",
-    "profile_url": "https://snfagora.jhu.edu/directory/angus-burgin/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": true,
-    "mentions_total": 3,
-    "mentions_in_digest": 3,
-    "reach_proxy": 3,
-    "first_mention_date": "2026-07-16",
-    "last_mention_date": "2026-09-14",
-    "sentiment": {
-      "positive": 1,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 2
-    },
-    "top_sources": [
-      {
-        "source": "Modern Intellectual History (Cambridge)",
-        "count": 1
-      },
-      {
-        "source": "Substack",
-        "count": 1
-      },
-      {
-        "source": "The Hub - Johns Hopkins University",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
       },
       {
         "week_start": "2026-09-28",
@@ -5114,106 +5222,6 @@
         "week_start": "2026-10-05",
         "count": 0,
         "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "thomas-cudjoe-m-d",
-    "name": "Thomas Cudjoe",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Robert and Jane Meyerhoff Endowed Associate Professor of Medicine",
-    "profile_url": "https://snfagora.jhu.edu/directory/thomas-cudjoe-m-d/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 3,
-    "mentions_in_digest": 3,
-    "reach_proxy": 3,
-    "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-10-06",
-    "sentiment": {
-      "positive": 1,
-      "neutral": 2,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [
-      {
-        "source": "Bolde",
-        "count": 1
-      },
-      {
-        "source": "Pantallazos Noticias",
-        "count": 1
-      },
-      {
-        "source": "Youtube",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 1,
-        "reach": 1
       }
     ]
   },
