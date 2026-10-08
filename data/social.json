@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-10-07T07:06:57-04:00",
-  "count": 72,
+  "generated_at": "2026-10-08T07:08:33-04:00",
+  "count": 73,
   "picks": [
+    {
+      "id": 91,
+      "mention_id": 1204,
+      "digest_date": "2026-10-07",
+      "person": "SNF Agora Institute",
+      "person_id": "snf-agora-institute",
+      "person_ids": [
+        "snf-agora-institute"
+      ],
+      "is_ces": false,
+      "punchy_title": "Republicans and Democrats, one union: the Hopkins Political Union bridges the campus divide with SNF Agora",
+      "headline": "Republicans and Democrats, one union: the Hopkins Political Union bridges the campus divide with SNF Agora",
+      "pull_quote": "The union is co-led by the College Republicans and Hopkins Democrats, in partnership with the university's SNF Agora ...",
+      "rationale": "The union is co-led by the College Republicans and Hopkins Democrats, in partnership with the university's SNF Agora ...",
+      "url": "https://www.newindiaabroad.com/english/people/indian-origin-student-founds-hopkins-political-union-to-bridge-campus-divide",
+      "story_url": "https://www.newindiaabroad.com/english/people/indian-origin-student-founds-hopkins-political-union-to-bridge-campus-divide",
+      "created_at": "2026-10-08 11:08:29",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "College Republicans and Hopkins Democrats, together: the Hopkins Political Union, in partnership with SNF Agora, is working to bridge the campus divide. https://www.newindiaabroad.com/english/people/indian-origin-student-founds-hopkins-political-union-to-bridge-campus-divide",
+          "chars": 275,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=College%20Republicans%20and%20Hopkins%20Democrats%2C%20together%3A%20the%20Hopkins%20Political%20Union%2C%20in%20partnership%20with%20SNF%20Agora%2C%20is%20working%20to%20bridge%20the%20campus%20divide.%20https%3A//www.newindiaabroad.com/english/people/indian-origin-student-founds-hopkins-political-union-to-bridge-campus-divide"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "College Republicans and Hopkins Democrats, together: New India Abroad on the Hopkins Political Union, a student-founded effort with SNF Agora to bridge the campus divide. https://www.newindiaabroad.com/english/people/indian-origin-student-founds-hopkins-political-union-to-bridge-campus-divide",
+          "chars": 293,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=College%20Republicans%20and%20Hopkins%20Democrats%2C%20together%3A%20New%20India%20Abroad%20on%20the%20Hopkins%20Political%20Union%2C%20a%20student-founded%20effort%20with%20SNF%20Agora%20to%20bridge%20the%20campus%20divide.%20https%3A//www.newindiaabroad.com/english/people/indian-origin-student-founds-hopkins-political-union-to-bridge-campus-divide"
+        }
+      ]
+    },
     {
       "id": 90,
       "mention_id": 1175,

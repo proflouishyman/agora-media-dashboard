@@ -1,7 +1,397 @@
 {
-  "generated_at": "2026-10-07T07:06:57-04:00",
-  "count": 1185,
+  "generated_at": "2026-10-08T07:08:33-04:00",
+  "count": 1215,
   "stories": [
+    {
+      "id": 1199,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "World's Top Universities from US, UK, Australia & Europe Offer Study Abroad Opportunities with Scholarship to Chandigarh University During 'International Education Expo 2026'",
+      "has_text": true,
+      "url": "https://www.singaporenews.net/news/279357679/world-top-universities-from-us-uk-australia-europe-offer-study-abroad-opportunities-with-scholarship-to-chandigarh-university-during-international-education-expo-2026",
+      "source": "Singapore News | Local & World Coverage: Singapore News.Net",
+      "source_type": "online news",
+      "similar_mention_count": 172,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "World's Top Universities from US, UK, Australia & Europe Offer Study Abroad Opportunities with Scholarship to Chandigarh University During 'International Education Expo 2026' https://www.singaporenews.net/news/279357679/world-top-universities-from-us-uk-australia-europe-offer-study-abroad-opportunities-with-scholarship-to-chandigarh-university-during-international-education-expo-2026",
+          "chars": 198
+        },
+        "bluesky": {
+          "text": "World's Top Universities from US, UK, Australia & Europe Offer Study Abroad Opportunit… https://www.singaporenews.net/news/279357679/world-top-universities-from-us-uk-australia-europe-offer-study-abroad-opportunities-with-scholarship-to-chandigarh-university-during-international-education-expo-2026",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 1195,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Trump Makes $100 Million Push to Train American Scientists",
+      "has_text": true,
+      "url": "https://www.ndtv.com/world-news/trump-makes-100-million-push-to-train-american-scientists-12155816",
+      "source": "Swachh India",
+      "source_type": "online news",
+      "similar_mention_count": 4,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Trump Makes $100 Million Push to Train American Scientists https://www.ndtv.com/world-news/trump-makes-100-million-push-to-train-american-scientists-12155816",
+          "chars": 82
+        },
+        "bluesky": {
+          "text": "Trump Makes $100 Million Push to Train American Scientists https://www.ndtv.com/world-news/trump-makes-100-million-push-to-train-american-scientists-12155816",
+          "chars": 157
+        }
+      }
+    },
+    {
+      "id": 1202,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Georgetown University",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/Georgetown_University",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Georgetown University https://en.wikipedia.org/wiki/Georgetown_University",
+          "chars": 45
+        },
+        "bluesky": {
+          "text": "Georgetown University https://en.wikipedia.org/wiki/Georgetown_University",
+          "chars": 73
+        }
+      }
+    },
+    {
+      "id": 1201,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "mara-karlin",
+      "person": "Mara Karlin",
+      "is_ces": false,
+      "title": "Helsinki Security Forum 2026: The bunker is back: building the resilient state and Closing remarks",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=oIgi4UIac8s",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Helsinki Security Forum 2026: The bunker is back: building the resilient state and Closing remarks https://www.youtube.com/watch?v=oIgi4UIac8s",
+          "chars": 122
+        },
+        "bluesky": {
+          "text": "Helsinki Security Forum 2026: The bunker is back: building the resilient state and Closing remarks https://www.youtube.com/watch?v=oIgi4UIac8s",
+          "chars": 142
+        }
+      }
+    },
+    {
+      "id": 1200,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "COVID-19 pandemic in Malaysia",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Malaysia",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "COVID-19 pandemic in Malaysia https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Malaysia",
+          "chars": 53
+        },
+        "bluesky": {
+          "text": "COVID-19 pandemic in Malaysia https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Malaysia",
+          "chars": 89
+        }
+      }
+    },
+    {
+      "id": 1198,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Ele mudou o mundo dos transplantes de órgãos — e precisou entrar na fila à espera de um coração",
+      "has_text": true,
+      "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/ele-mudou-o-mundo-dos-transplantes-de-orgaos-e-precisou-entrar-na-fila-a-espera-de-um-coracao/",
+      "source": "Jornal do Carro - Estadão",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Ele mudou o mundo dos transplantes de órgãos — e precisou entrar na fila à espera de um coração https://www.estadao.com.br/pulsa/medicina-e-estudos/ele-mudou-o-mundo-dos-transplantes-de-orgaos-e-precisou-entrar-na-fila-a-espera-de-um-coracao/",
+          "chars": 119
+        },
+        "bluesky": {
+          "text": "Ele mudou o mundo dos transplantes de órgãos — e precisou entrar na fila à espera de um coração https://www.estadao.com.br/pulsa/medicina-e-estudos/ele-mudou-o-mundo-dos-transplantes-de-orgaos-e-precisou-entrar-na-fila-a-espera-de-um-coracao/",
+          "chars": 242
+        }
+      }
+    },
+    {
+      "id": 1197,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "The mouth is Heaven’s gate? A biochemist-turned-Adventist on food for life",
+      "has_text": true,
+      "url": "https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/mouth-is-heavens-gate-a-biochemistturnedadventist-on-food-for-life/EDF21520CE7790FD4A051C2B779677C9",
+      "source": "Cambridge University Press & Assessment",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The mouth is Heaven’s gate? A biochemist-turned-Adventist on food for life https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/mouth-is-heavens-gate-a-biochemistturnedadventist-on-food-for-life/EDF21520CE7790FD4A051C2B779677C9",
+          "chars": 98
+        },
+        "bluesky": {
+          "text": "The mouth is Heaven’s gate? A biochemist-turned-Adventist on food for life https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/mouth-is-heavens-gate-a-biochemistturnedadventist-on-food-for-life/EDF21520CE7790FD4A051C2B779677C9",
+          "chars": 265
+        }
+      }
+    },
+    {
+      "id": 1196,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Unraveling the Gut Microbiota Influence on Arsenic Toxicity and Detoxification",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s12088-026-01584-2",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Unraveling the Gut Microbiota Influence on Arsenic Toxicity and Detoxification https://link.springer.com/article/10.1007/s12088-026-01584-2",
+          "chars": 102
+        },
+        "bluesky": {
+          "text": "Unraveling the Gut Microbiota Influence on Arsenic Toxicity and Detoxification https://link.springer.com/article/10.1007/s12088-026-01584-2",
+          "chars": 139
+        }
+      }
+    },
+    {
+      "id": 1194,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Promoting Collaborative Learning in The Online Environment: How Can Faculty Overcome Challenges?",
+      "has_text": true,
+      "url": "https://www.adjunctnation.com/2011/08/19/promoting-collaborative-learning-in-the-online-environment-how-can-faculty-overcome-challenges-2/",
+      "source": "The Adjunct Advocate",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Promoting Collaborative Learning in The Online Environment: How Can Faculty Overcome Challenges? https://www.adjunctnation.com/2011/08/19/promoting-collaborative-learning-in-the-online-environment-how-can-faculty-overcome-challenges-2/",
+          "chars": 120
+        },
+        "bluesky": {
+          "text": "Promoting Collaborative Learning in The Online Environment: How Can Faculty Overcome Challenges? https://www.adjunctnation.com/2011/08/19/promoting-collaborative-learning-in-the-online-environment-how-can-faculty-overcome-challenges-2/",
+          "chars": 235
+        }
+      }
+    },
+    {
+      "id": 1203,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "ACGME Approves New Board of Director Officers",
+      "has_text": true,
+      "url": "https://lifestyle.paraskevas.net/story/921785/acgme-approves-new-board-of-director-officers/",
+      "source": "Paraskevas",
+      "source_type": "online news",
+      "similar_mention_count": 205,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "ACGME Approves New Board of Director Officers https://lifestyle.paraskevas.net/story/921785/acgme-approves-new-board-of-director-officers/",
+          "chars": 69
+        },
+        "bluesky": {
+          "text": "ACGME Approves New Board of Director Officers https://lifestyle.paraskevas.net/story/921785/acgme-approves-new-board-of-director-officers/",
+          "chars": 138
+        }
+      }
+    },
+    {
+      "id": 1209,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Mary Elizabeth Garrett donated $306,977 to finish the fund that opened the Johns Hopkins medical school in 1893; she required that women be admitted on the same terms as men",
+      "has_text": true,
+      "url": "https://www.yahoo.com/lifestyle/articles/mary-elizabeth-garrett-donated-306-224425006.html",
+      "source": "Yahoo! Life",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Mary Elizabeth Garrett donated $306,977 to finish the fund that opened the Johns Hopkins medical school in 1893; she required that women be admitted on the same terms as men https://www.yahoo.com/lifestyle/articles/mary-elizabeth-garrett-donated-306-224425006.html",
+          "chars": 197
+        },
+        "bluesky": {
+          "text": "Mary Elizabeth Garrett donated $306,977 to finish the fund that opened the Johns Hopkins medical school in 1893; she required that women be admitted on the same terms as men https://www.yahoo.com/lifestyle/articles/mary-elizabeth-garrett-donated-306-224425006.html",
+          "chars": 264
+        }
+      }
+    },
+    {
+      "id": 1225,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Mapping the Modern Agora / MapAgora (LinkedIn posts)",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7513614137608781826",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Mapping the Modern Agora / MapAgora (LinkedIn posts) https://www.linkedin.com/feed/update/urn:li:share:7513614137608781826",
+          "chars": 76
+        },
+        "bluesky": {
+          "text": "Mapping the Modern Agora / MapAgora (LinkedIn posts) https://www.linkedin.com/feed/update/urn:li:share:7513614137608781826",
+          "chars": 122
+        }
+      }
+    },
+    {
+      "id": 1222,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "O mundo resiste ao choque da guerra com o Irão. A grande questão é: até quando?",
+      "has_text": true,
+      "url": "https://executivedigest.sapo.pt/o-mundo-resiste-ao-choque-da-guerra-com-o-irao-a-grande-questao-e-ate-quando/",
+      "source": "Executive Digest",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "O mundo resiste ao choque da guerra com o Irão. A grande questão é: até quando? https://executivedigest.sapo.pt/o-mundo-resiste-ao-choque-da-guerra-com-o-irao-a-grande-questao-e-ate-quando/",
+          "chars": 103
+        },
+        "bluesky": {
+          "text": "O mundo resiste ao choque da guerra com o Irão. A grande questão é: até quando? https://executivedigest.sapo.pt/o-mundo-resiste-ao-choque-da-guerra-com-o-irao-a-grande-questao-e-ate-quando/",
+          "chars": 189
+        }
+      }
+    },
+    {
+      "id": 1216,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Personnel File, October 14, 2026",
+      "has_text": true,
+      "url": "https://www.yahoo.com/news/articles/personnel-file-october-14-2026-190500889.html",
+      "source": "Yahoo! News",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Personnel File, October 14, 2026 https://www.yahoo.com/news/articles/personnel-file-october-14-2026-190500889.html",
+          "chars": 56
+        },
+        "bluesky": {
+          "text": "Personnel File, October 14, 2026 https://www.yahoo.com/news/articles/personnel-file-october-14-2026-190500889.html",
+          "chars": 114
+        }
+      }
+    },
+    {
+      "id": 1205,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": "Here's who won Wednesday's RI high school games",
+      "has_text": true,
+      "url": "https://www.providencejournal.com/story/sports/high-school/2026/10/07/high-school-scores-stats-and-more-from-wednesday-october-7/92131308007/",
+      "source": "The Providence Journal",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Here's who won Wednesday's RI high school games https://www.providencejournal.com/story/sports/high-school/2026/10/07/high-school-scores-stats-and-more-from-wednesday-october-7/92131308007/",
+          "chars": 71
+        },
+        "bluesky": {
+          "text": "Here's who won Wednesday's RI high school games https://www.providencejournal.com/story/sports/high-school/2026/10/07/high-school-scores-stats-and-more-from-wednesday-october-7/92131308007/",
+          "chars": 189
+        }
+      }
+    },
     {
       "id": 1165,
       "date": "2026-10-07",
@@ -51,6 +441,387 @@
         "bluesky": {
           "text": "Francis Fukuyama’s Failures of Imagination https://newrepublic.com/article/213518/francis-fukuyama-failures-imagination",
           "chars": 119
+        }
+      }
+    },
+    {
+      "id": 1224,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "BULLY, DOS CRIADORES DE GTA, O CLÁSSICO DO PS2 ATÉ ZERAR! - RESET #018 #flowgames",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=soIcm2uB-1k",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "BULLY, DOS CRIADORES DE GTA, O CLÁSSICO DO PS2 ATÉ ZERAR! - RESET #018 #flowgames https://www.youtube.com/watch?v=soIcm2uB-1k",
+          "chars": 105
+        },
+        "bluesky": {
+          "text": "BULLY, DOS CRIADORES DE GTA, O CLÁSSICO DO PS2 ATÉ ZERAR! - RESET #018 #flowgames https://www.youtube.com/watch?v=soIcm2uB-1k",
+          "chars": 125
+        }
+      }
+    },
+    {
+      "id": 1223,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter repost)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1221,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "thomas-cudjoe-m-d",
+      "person": "Thomas Cudjoe",
+      "is_ces": false,
+      "title": "Social Connection Collective for Older Adults in Subsidized Housing",
+      "has_text": true,
+      "url": "https://clinicaltrials.gov/study/NCT07863583",
+      "source": "ClinicalTrials.gov",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Social Connection Collective for Older Adults in Subsidized Housing https://clinicaltrials.gov/study/NCT07863583",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "Social Connection Collective for Older Adults in Subsidized Housing https://clinicaltrials.gov/study/NCT07863583",
+          "chars": 112
+        }
+      }
+    },
+    {
+      "id": 1220,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Lock the Vote: Confronting Confusion and Chaos in the Midterm Elections",
+      "has_text": true,
+      "url": "https://baltimorefishbowl.com/stories/lock-the-vote-confronting-confusion-and-chaos-in-the-midterm-elections/",
+      "source": "Baltimore Fishbowl",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Lock the Vote: Confronting Confusion and Chaos in the Midterm Elections https://baltimorefishbowl.com/stories/lock-the-vote-confronting-confusion-and-chaos-in-the-midterm-elections/",
+          "chars": 95
+        },
+        "bluesky": {
+          "text": "Lock the Vote: Confronting Confusion and Chaos in the Midterm Elections https://baltimorefishbowl.com/stories/lock-the-vote-confronting-confusion-and-chaos-in-the-midterm-elections/",
+          "chars": 181
+        }
+      }
+    },
+    {
+      "id": 1219,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Open to Debate award nominations incl. Hopkins Forum Shorty Impact finalist (LinkedIn post)",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7513654250028097537",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Open to Debate award nominations incl. Hopkins Forum Shorty Impact finalist (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:share:7513654250028097537",
+          "chars": 115
+        },
+        "bluesky": {
+          "text": "Open to Debate award nominations incl. Hopkins Forum Shorty Impact finalist (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:share:7513654250028097537",
+          "chars": 161
+        }
+      }
+    },
+    {
+      "id": 1218,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Will Generative AI Enhance or Stunt College Learning? Live debate from Open to Debate and SNF Agora Institute (press release)",
+      "has_text": true,
+      "url": "https://shorefire.com/releases/entry/will-generative-ai-enhance-or-stunt-college-learning-live-debate-from-open-to-debate-and-johns-hopkins-snf-agora-institute",
+      "source": "Shore Fire Media",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Will Generative AI Enhance or Stunt College Learning? Live debate from Open to Debate and SNF Agora Institute (press release) https://shorefire.com/releases/entry/will-generative-ai-enhance-or-stunt-college-learning-live-debate-from-open-to-debate-and-johns-hopkins-snf-agora-institute",
+          "chars": 149
+        },
+        "bluesky": {
+          "text": "Will Generative AI Enhance or Stunt College Learning? Live debate from Open to Debate and SNF Agora Institute (press release) https://shorefire.com/releases/entry/will-generative-ai-enhance-or-stunt-college-learning-live-debate-from-open-to-debate-and-johns-hopkins-snf-agora-institute",
+          "chars": 285
+        }
+      }
+    },
+    {
+      "id": 1215,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "France. A Cosmic Clown Show of Financial Instability",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=vyWuE2HpNYQ",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "France. A Cosmic Clown Show of Financial Instability https://www.youtube.com/watch?v=vyWuE2HpNYQ",
+          "chars": 76
+        },
+        "bluesky": {
+          "text": "France. A Cosmic Clown Show of Financial Instability https://www.youtube.com/watch?v=vyWuE2HpNYQ",
+          "chars": 96
+        }
+      }
+    },
+    {
+      "id": 1214,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Senator Murray Launches Public Health for America Working Group to Determine What Comes Next After Trump & RFK Jr.",
+      "has_text": true,
+      "url": "https://www.murray.senate.gov/senator-murray-launches-public-health-for-america-working-group-to-determine-what-comes-next-after-trump-rfk-jr/",
+      "source": "United States Senate",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Senator Murray Launches Public Health for America Working Group to Determine What Comes Next After Trump & RFK Jr. https://www.murray.senate.gov/senator-murray-launches-public-health-for-america-working-group-to-determine-what-comes-next-after-trump-rfk-jr/",
+          "chars": 138
+        },
+        "bluesky": {
+          "text": "Senator Murray Launches Public Health for America Working Group to Determine What Comes Next After Trump & RFK Jr. https://www.murray.senate.gov/senator-murray-launches-public-health-for-america-working-group-to-determine-what-comes-next-after-trump-rfk-jr/",
+          "chars": 257
+        }
+      }
+    },
+    {
+      "id": 1213,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Flu season may be starting early; experts say get vaccinated now",
+      "has_text": true,
+      "url": "https://medicalxpress.com/news/2026-10-flu-season-early-experts-vaccinated.html",
+      "source": "Medical Xpress",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Flu season may be starting early; experts say get vaccinated now https://medicalxpress.com/news/2026-10-flu-season-early-experts-vaccinated.html",
+          "chars": 88
+        },
+        "bluesky": {
+          "text": "Flu season may be starting early; experts say get vaccinated now https://medicalxpress.com/news/2026-10-flu-season-early-experts-vaccinated.html",
+          "chars": 144
+        }
+      }
+    },
+    {
+      "id": 1212,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "angus-burgin",
+      "person": "Angus Burgin",
+      "is_ces": true,
+      "title": "Sven Beckert traerá a México su revisión global de la historia del capitalismo",
+      "has_text": true,
+      "url": "https://efecomunica.efe.com/sven-beckert-traera-mexico-revision-global-historia-capitalismo/",
+      "source": "Agencia EFE",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Sven Beckert traerá a México su revisión global de la historia del capitalismo https://efecomunica.efe.com/sven-beckert-traera-mexico-revision-global-historia-capitalismo/",
+          "chars": 102
+        },
+        "bluesky": {
+          "text": "Sven Beckert traerá a México su revisión global de la historia del capitalismo https://efecomunica.efe.com/sven-beckert-traera-mexico-revision-global-historia-capitalismo/",
+          "chars": 171
+        }
+      }
+    },
+    {
+      "id": 1211,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "New SNF Agora event assistant job announcement (LinkedIn post)",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7513721391360372736",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "New SNF Agora event assistant job announcement (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:share:7513721391360372736",
+          "chars": 86
+        },
+        "bluesky": {
+          "text": "New SNF Agora event assistant job announcement (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:share:7513721391360372736",
+          "chars": 132
+        }
+      }
+    },
+    {
+      "id": 1210,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "27 Scholarship Opportunities Closing in October – October 7, 2026",
+      "has_text": true,
+      "url": "https://opportunitydesk.org/2026/10/07/27-scholarship-opportunities-closing-in-october-october-7-2026/",
+      "source": "Opportunity Desk",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "27 Scholarship Opportunities Closing in October – October 7, 2026 https://opportunitydesk.org/2026/10/07/27-scholarship-opportunities-closing-in-october-october-7-2026/",
+          "chars": 89
+        },
+        "bluesky": {
+          "text": "27 Scholarship Opportunities Closing in October – October 7, 2026 https://opportunitydesk.org/2026/10/07/27-scholarship-opportunities-closing-in-october-october-7-2026/",
+          "chars": 168
+        }
+      }
+    },
+    {
+      "id": 1208,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Review of Getting Learning Right: A New Social Compact for Higher Education, by C. W. Gallagher, K. Girdharry & K. G. Smith",
+      "has_text": true,
+      "url": "https://edrev.asu.edu/index.php/ER/article/view/5022",
+      "source": "Current Issues in Ed",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Review of Getting Learning Right: A New Social Compact for Higher Education, by C. W. Gallagher, K. Girdharry & K. G. Smith https://edrev.asu.edu/index.php/ER/article/view/5022",
+          "chars": 147
+        },
+        "bluesky": {
+          "text": "Review of Getting Learning Right: A New Social Compact for Higher Education, by C. W. Gallagher, K. Girdharry & K. G. Smith https://edrev.asu.edu/index.php/ER/article/view/5022",
+          "chars": 176
+        }
+      }
+    },
+    {
+      "id": 1206,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Five Rubin Rudman Attorneys Named to 2027 Lawdragon 500 Leading Corporate Employment Lawyers",
+      "has_text": true,
+      "url": "https://www.webull.com/news/15696524816958464",
+      "source": "Webull",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Five Rubin Rudman Attorneys Named to 2027 Lawdragon 500 Leading Corporate Employment Lawyers https://www.webull.com/news/15696524816958464",
+          "chars": 116
+        },
+        "bluesky": {
+          "text": "Five Rubin Rudman Attorneys Named to 2027 Lawdragon 500 Leading Corporate Employment Lawyers https://www.webull.com/news/15696524816958464",
+          "chars": 138
+        }
+      }
+    },
+    {
+      "id": 1204,
+      "date": "2026-10-07",
+      "week_start": "2026-10-05",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Indian-origin student founds Hopkins Political Union to bridge campus divide",
+      "has_text": true,
+      "url": "https://www.newindiaabroad.com/english/people/indian-origin-student-founds-hopkins-political-union-to-bridge-campus-divide",
+      "source": "New India Abroad",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Indian-origin student founds Hopkins Political Union to bridge campus divide https://www.newindiaabroad.com/english/people/indian-origin-student-founds-hopkins-political-union-to-bridge-campus-divide",
+          "chars": 100
+        },
+        "bluesky": {
+          "text": "Indian-origin student founds Hopkins Political Union to bridge campus divide https://www.newindiaabroad.com/english/people/indian-origin-student-founds-hopkins-political-union-to-bridge-campus-divide",
+          "chars": 199
         }
       }
     },
