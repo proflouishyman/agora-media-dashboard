@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-10-08T07:08:33-04:00",
-  "count": 73,
+  "generated_at": "2026-10-09T09:52:32-04:00",
+  "count": 74,
   "picks": [
+    {
+      "id": 92,
+      "mention_id": 1231,
+      "digest_date": "2026-10-08",
+      "person": "Louis Hyman",
+      "person_id": "louis-hyman",
+      "person_ids": [
+        "louis-hyman"
+      ],
+      "is_ces": true,
+      "punchy_title": "When most people ask AI what really happened",
+      "headline": "When most people ask AI what really happened",
+      "pull_quote": "What does it mean for a democracy when most people ask AI what really happened?",
+      "rationale": "What does it mean for a democracy when most people ask AI what really happened?",
+      "url": "https://www.youtube.com/watch?v=M_X2N8GpXwc",
+      "story_url": "https://www.youtube.com/watch?v=M_X2N8GpXwc",
+      "created_at": "2026-10-09 13:52:29",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "AI and the Future of History: Louis Hyman's talk asks what it means for a democracy when most people ask AI what really happened. Presented by Hopkins at Home, the SNF Agora Institute and the Data Science and AI Institute. https://www.youtube.com/watch?v=M_X2N8GpXwc",
+          "chars": 266,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=AI%20and%20the%20Future%20of%20History%3A%20Louis%20Hyman%27s%20talk%20asks%20what%20it%20means%20for%20a%20democracy%20when%20most%20people%20ask%20AI%20what%20really%20happened.%20Presented%20by%20Hopkins%20at%20Home%2C%20the%20SNF%20Agora%20Institute%20and%20the%20Data%20Science%20and%20AI%20Institute.%20https%3A//www.youtube.com/watch%3Fv%3DM_X2N8GpXwc"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "AI and the Future of History: Louis Hyman's talk asks what it means for a democracy when most people ask AI what really happened. Presented by Hopkins at Home, the SNF Agora Institute and the Data Science and AI Institute. https://www.youtube.com/watch?v=M_X2N8GpXwc",
+          "chars": 266,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=AI%20and%20the%20Future%20of%20History%3A%20Louis%20Hyman%27s%20talk%20asks%20what%20it%20means%20for%20a%20democracy%20when%20most%20people%20ask%20AI%20what%20really%20happened.%20Presented%20by%20Hopkins%20at%20Home%2C%20the%20SNF%20Agora%20Institute%20and%20the%20Data%20Science%20and%20AI%20Institute.%20https%3A//www.youtube.com/watch%3Fv%3DM_X2N8GpXwc"
+        }
+      ]
+    },
     {
       "id": 91,
       "mention_id": 1204,
