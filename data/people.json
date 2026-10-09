@@ -9,25 +9,25 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 363,
+    "mentions_total": 379,
     "mentions_in_digest": 0,
-    "reach_proxy": 2396,
+    "reach_proxy": 2417,
     "first_mention_date": "2026-08-30",
-    "last_mention_date": "2026-10-08",
+    "last_mention_date": "2026-10-09",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
       "negative": 0,
-      "unknown": 363
+      "unknown": 379
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 63
+        "count": 64
       },
       {
         "source": "Youtube",
-        "count": 30
+        "count": 31
       },
       {
         "source": "Springer",
@@ -39,7 +39,7 @@
       },
       {
         "source": "N2O Records",
-        "count": 8
+        "count": 9
       }
     ],
     "weekly": [
@@ -100,8 +100,8 @@
       },
       {
         "week_start": "2026-10-05",
-        "count": 60,
-        "reach": 556
+        "count": 76,
+        "reach": 577
       }
     ]
   },
@@ -115,16 +115,16 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 111,
-    "mentions_in_digest": 42,
-    "reach_proxy": 220,
+    "mentions_total": 113,
+    "mentions_in_digest": 44,
+    "reach_proxy": 222,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-10-07",
+    "last_mention_date": "2026-10-08",
     "sentiment": {
-      "positive": 22,
+      "positive": 23,
       "neutral": 32,
       "negative": 3,
-      "unknown": 54
+      "unknown": 55
     },
     "top_sources": [
       {
@@ -133,7 +133,7 @@
       },
       {
         "source": "LinkedIn",
-        "count": 21
+        "count": 22
       },
       {
         "source": "Bluesky",
@@ -206,8 +206,8 @@
       },
       {
         "week_start": "2026-10-05",
-        "count": 10,
-        "reach": 11
+        "count": 12,
+        "reach": 13
       }
     ]
   },
@@ -329,16 +329,16 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 69,
-    "mentions_in_digest": 38,
-    "reach_proxy": 327,
+    "mentions_total": 71,
+    "mentions_in_digest": 40,
+    "reach_proxy": 329,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-10-07",
+    "last_mention_date": "2026-10-08",
     "sentiment": {
       "positive": 11,
-      "neutral": 15,
+      "neutral": 16,
       "negative": 5,
-      "unknown": 38
+      "unknown": 39
     },
     "top_sources": [
       {
@@ -420,8 +420,8 @@
       },
       {
         "week_start": "2026-10-05",
-        "count": 2,
-        "reach": 3
+        "count": 4,
+        "reach": 5
       }
     ]
   },
@@ -1405,13 +1405,13 @@
       "Core Faculty"
     ],
     "is_ces": true,
-    "mentions_total": 19,
-    "mentions_in_digest": 8,
-    "reach_proxy": 27,
+    "mentions_total": 20,
+    "mentions_in_digest": 9,
+    "reach_proxy": 28,
     "first_mention_date": "2026-07-10",
-    "last_mention_date": "2026-10-03",
+    "last_mention_date": "2026-10-08",
     "sentiment": {
-      "positive": 4,
+      "positive": 5,
       "neutral": 5,
       "negative": 0,
       "unknown": 10
@@ -1496,8 +1496,8 @@
       },
       {
         "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -1718,6 +1718,114 @@
     ]
   },
   {
+    "id": "martha-s-jones",
+    "name": "Martha S. Jones",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Society of Black Alumni Presidential Professor, Professor of History, Professor of the SNF Agora Institute",
+    "profile_url": "https://snfagora.jhu.edu/directory/martha-s-jones/",
+    "photo_url": null,
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 14,
+    "mentions_in_digest": 14,
+    "reach_proxy": 12,
+    "first_mention_date": "2026-07-02",
+    "last_mention_date": "2026-10-08",
+    "sentiment": {
+      "positive": 3,
+      "neutral": 7,
+      "negative": 0,
+      "unknown": 4
+    },
+    "top_sources": [
+      {
+        "source": "SCOTUSblog",
+        "count": 2
+      },
+      {
+        "source": "YouTube",
+        "count": 2
+      },
+      {
+        "source": "Alem da Arena (blog)",
+        "count": 1
+      },
+      {
+        "source": "Baltimore Fishbowl",
+        "count": 1
+      },
+      {
+        "source": "Hub - Johns Hopkins University",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-20",
+        "count": 2,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "unattributed-institutional-keyword-only",
     "name": "Unattributed (institutional keyword only)",
     "kind": "unmatched",
@@ -1816,114 +1924,6 @@
     ]
   },
   {
-    "id": "martha-s-jones",
-    "name": "Martha S. Jones",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Society of Black Alumni Presidential Professor, Professor of History, Professor of the SNF Agora Institute",
-    "profile_url": "https://snfagora.jhu.edu/directory/martha-s-jones/",
-    "photo_url": null,
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 13,
-    "mentions_in_digest": 13,
-    "reach_proxy": 11,
-    "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-09-21",
-    "sentiment": {
-      "positive": 3,
-      "neutral": 7,
-      "negative": 0,
-      "unknown": 3
-    },
-    "top_sources": [
-      {
-        "source": "SCOTUSblog",
-        "count": 2
-      },
-      {
-        "source": "YouTube",
-        "count": 2
-      },
-      {
-        "source": "Alem da Arena (blog)",
-        "count": 1
-      },
-      {
-        "source": "Baltimore Fishbowl",
-        "count": 1
-      },
-      {
-        "source": "Hub - Johns Hopkins University",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-20",
-        "count": 2,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
     "id": "scott-warren",
     "name": "Scott Warren",
     "kind": "faculty",
@@ -1935,13 +1935,13 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 11,
-    "mentions_in_digest": 9,
-    "reach_proxy": 15,
+    "mentions_total": 12,
+    "mentions_in_digest": 10,
+    "reach_proxy": 16,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-09-21",
+    "last_mention_date": "2026-10-08",
     "sentiment": {
-      "positive": 3,
+      "positive": 4,
       "neutral": 4,
       "negative": 0,
       "unknown": 4
@@ -1960,11 +1960,11 @@
         "count": 1
       },
       {
-        "source": "Pinterest",
+        "source": "Instagram",
         "count": 1
       },
       {
-        "source": "Reddit",
+        "source": "Pinterest",
         "count": 1
       }
     ],
@@ -2026,8 +2026,8 @@
       },
       {
         "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -6982,6 +6982,98 @@
     ]
   },
   {
+    "id": "bridget-diana",
+    "name": "Bridget Diana",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Postdoctoral Fellow",
+    "profile_url": "https://snfagora.jhu.edu/directory/bridget-diana/",
+    "photo_url": "images/people/bridget-diana.jpg",
+    "categories": [
+      "Postdoctoral + Student Fellows"
+    ],
+    "is_ces": true,
+    "mentions_total": 1,
+    "mentions_in_digest": 1,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-10-08",
+    "last_mention_date": "2026-10-08",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0,
+      "unknown": 0
+    },
+    "top_sources": [
+      {
+        "source": "LinkedIn",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "daniel-sabet",
     "name": "Daniel Sabet",
     "kind": "faculty",
@@ -10066,93 +10158,6 @@
       "Affiliated Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 0,
-    "mentions_in_digest": 0,
-    "reach_proxy": 0,
-    "first_mention_date": null,
-    "last_mention_date": null,
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [],
-    "weekly": [
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "bridget-diana",
-    "name": "Bridget Diana",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Postdoctoral Fellow",
-    "profile_url": "https://snfagora.jhu.edu/directory/bridget-diana/",
-    "photo_url": "images/people/bridget-diana.jpg",
-    "categories": [
-      "Postdoctoral + Student Fellows"
-    ],
-    "is_ces": true,
     "mentions_total": 0,
     "mentions_in_digest": 0,
     "reach_proxy": 0,

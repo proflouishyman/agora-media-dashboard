@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-10-08T07:08:33-04:00",
-  "count": 1215,
+  "generated_at": "2026-10-09T09:52:32-04:00",
+  "count": 1239,
   "stories": [
+    {
+      "id": 1226,
+      "date": "2026-10-09",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "A GLP For Universities",
+      "has_text": true,
+      "url": "https://www.forbes.com/sites/ryancraig/2026/10/09/a-glp-for-universities/",
+      "source": "Forbes",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "A GLP For Universities https://www.forbes.com/sites/ryancraig/2026/10/09/a-glp-for-universities/",
+          "chars": 46
+        },
+        "bluesky": {
+          "text": "A GLP For Universities https://www.forbes.com/sites/ryancraig/2026/10/09/a-glp-for-universities/",
+          "chars": 96
+        }
+      }
+    },
     {
       "id": 1199,
       "date": "2026-10-08",
@@ -51,6 +77,595 @@
         "bluesky": {
           "text": "Trump Makes $100 Million Push to Train American Scientists https://www.ndtv.com/world-news/trump-makes-100-million-push-to-train-american-scientists-12155816",
           "chars": 157
+        }
+      }
+    },
+    {
+      "id": 1229,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "O que os especialistas querem saber sobre o alerta de peste na Rússia",
+      "has_text": true,
+      "url": "https://www.infomoney.com.br/business/global/o-que-os-especialistas-querem-saber-sobre-o-alerta-de-peste-na-russia/",
+      "source": "InfoMoney",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "O que os especialistas querem saber sobre o alerta de peste na Rússia https://www.infomoney.com.br/business/global/o-que-os-especialistas-querem-saber-sobre-o-alerta-de-peste-na-russia/",
+          "chars": 93
+        },
+        "bluesky": {
+          "text": "O que os especialistas querem saber sobre o alerta de peste na Rússia https://www.infomoney.com.br/business/global/o-que-os-especialistas-querem-saber-sobre-o-alerta-de-peste-na-russia/",
+          "chars": 185
+        }
+      }
+    },
+    {
+      "id": 1243,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Trump is set to announce $100 million-plus in STEM fellowships for American PhD students",
+      "has_text": true,
+      "url": "https://qz.com/trump-stem-fellowship-initiative-phd-students-100826",
+      "source": "Quartz",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Trump is set to announce $100 million-plus in STEM fellowships for American PhD students https://qz.com/trump-stem-fellowship-initiative-phd-students-100826",
+          "chars": 112
+        },
+        "bluesky": {
+          "text": "Trump is set to announce $100 million-plus in STEM fellowships for American PhD students https://qz.com/trump-stem-fellowship-initiative-phd-students-100826",
+          "chars": 156
+        }
+      }
+    },
+    {
+      "id": 1239,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "DHS Immigration Rule Proposes $100,000 In Practical Training Fees",
+      "has_text": true,
+      "url": "https://www.forbes.com/sites/stuartanderson/2026/10/08/dhs-immigration-rule-proposes-100000-in-practical-training-fees/",
+      "source": "Forbes",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "DHS Immigration Rule Proposes $100,000 In Practical Training Fees https://www.forbes.com/sites/stuartanderson/2026/10/08/dhs-immigration-rule-proposes-100000-in-practical-training-fees/",
+          "chars": 89
+        },
+        "bluesky": {
+          "text": "DHS Immigration Rule Proposes $100,000 In Practical Training Fees https://www.forbes.com/sites/stuartanderson/2026/10/08/dhs-immigration-rule-proposes-100000-in-practical-training-fees/",
+          "chars": 185
+        }
+      }
+    },
+    {
+      "id": 1236,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Contraception Within Reach? Burkina Faso’s Family Planning Gap Mapped Facility by Facility",
+      "has_text": true,
+      "url": "https://bioengineer.org/contraception-within-reach-burkina-fasos-family-planning-gap-mapped-facility-by-facility/",
+      "source": "Bioengineer.org",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Contraception Within Reach? Burkina Faso’s Family Planning Gap Mapped Facility by Facility https://bioengineer.org/contraception-within-reach-burkina-fasos-family-planning-gap-mapped-facility-by-facility/",
+          "chars": 114
+        },
+        "bluesky": {
+          "text": "Contraception Within Reach? Burkina Faso’s Family Planning Gap Mapped Facility by Facility https://bioengineer.org/contraception-within-reach-burkina-fasos-family-planning-gap-mapped-facility-by-facility/",
+          "chars": 204
+        }
+      }
+    },
+    {
+      "id": 1249,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "What do polls have to say?",
+      "has_text": true,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjUlVFdGpFdFJlV3NEbmdOX2RFVnRlY2xyLWJOMUZORlA1WFlXS2ZnamN3c2RhX3lRQnk5QXd1SVhRdGJGUUp2SlhYMFdxNUxJOGNTbE1WUHdLQ1Y3TkViNkJxcy1mczktQm50bXhyRmRUQTg?oc=5",
+      "source": "Google News (Johns Hopkins University)",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "What do polls have to say? https://news.google.com/rss/articles/CBMic0FVX3lxTFBjUlVFdGpFdFJlV3NEbmdOX2RFVnRlY2xyLWJOMUZORlA1WFlXS2ZnamN3c2RhX3lRQnk5QXd1SVhRdGJGUUp2SlhYMFdxNUxJOGNTbE1WUHdLQ1Y3TkViNkJxcy1mczktQm50bXhyRmRUQTg?oc=5",
+          "chars": 50
+        },
+        "bluesky": {
+          "text": "What do polls have to say? https://news.google.com/rss/articles/CBMic0FVX3lxTFBjUlVFdGpFdFJlV3NEbmdOX2RFVnRlY2xyLWJOMUZORlA1WFlXS2ZnamN3c2RhX3lRQnk5QXd1SVhRdGJGUUp2SlhYMFdxNUxJOGNTbE1WUHdLQ1Y3TkViNkJxcy1mczktQm50bXhyRmRUQTg?oc=5",
+          "chars": 228
+        }
+      }
+    },
+    {
+      "id": 1248,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Reclaiming the public square",
+      "has_text": true,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVUl6VzU4RTlvcXJkVHRoaW14NmZKa1p4RTBlVnFGT0w0blhSdGdlRlhaOHlfYklmbDdtUFI3VGg1aU5EaHA0NFpyMkdrN0g3SzA5dVBRZ3lkSlJfYmN0M3E5OVlCeGlJaF9HYVFqQ3pwcEpyWEVaNV9kU0gzUWtmaS1fT3NsY3poNmc?oc=5",
+      "source": "Google News (Johns Hopkins University)",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Reclaiming the public square https://news.google.com/rss/articles/CBMiigFBVV95cUxNVUl6VzU4RTlvcXJkVHRoaW14NmZKa1p4RTBlVnFGT0w0blhSdGdlRlhaOHlfYklmbDdtUFI3VGg1aU5EaHA0NFpyMkdrN0g3SzA5dVBRZ3lkSlJfYmN0M3E5OVlCeGlJaF9HYVFqQ3pwcEpyWEVaNV9kU0gzUWtmaS1fT3NsY3poNmc?oc=5",
+          "chars": 52
+        },
+        "bluesky": {
+          "text": "Reclaiming the public square https://news.google.com/rss/articles/CBMiigFBVV95cUxNVUl6VzU4RTlvcXJkVHRoaW14NmZKa1p4RTBlVnFGT0w0blhSdGdlRlhaOHlfYklmbDdtUFI3VGg1aU5EaHA0NFpyMkdrN0g3SzA5dVBRZ3lkSlJfYmN0M3E5OVlCeGlJaF9HYVFqQ3pwcEpyWEVaNV9kU0gzUWtmaS1fT3NsY3poNmc?oc=5",
+          "chars": 262
+        }
+      }
+    },
+    {
+      "id": 1247,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Who's getting rich off of U.S. foreign policy?",
+      "has_text": true,
+      "url": "https://think.kera.org/2026/10/08/whos-getting-rich-off-of-u-s-foreign-policy/",
+      "source": "KERA Think",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Who's getting rich off of U.S. foreign policy? https://think.kera.org/2026/10/08/whos-getting-rich-off-of-u-s-foreign-policy/",
+          "chars": 70
+        },
+        "bluesky": {
+          "text": "Who's getting rich off of U.S. foreign policy? https://think.kera.org/2026/10/08/whos-getting-rich-off-of-u-s-foreign-policy/",
+          "chars": 125
+        }
+      }
+    },
+    {
+      "id": 1246,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "martha-s-jones",
+      "person": "Martha S. Jones",
+      "is_ces": false,
+      "title": "Abbreviated (Johns Hopkins Magazine, Fall 2026)",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/magazine/2026/fall/abbreviated-fall-2026/",
+      "source": "The Hub",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Abbreviated (Johns Hopkins Magazine, Fall 2026) https://hub.jhu.edu/magazine/2026/fall/abbreviated-fall-2026/",
+          "chars": 71
+        },
+        "bluesky": {
+          "text": "Abbreviated (Johns Hopkins Magazine, Fall 2026) https://hub.jhu.edu/magazine/2026/fall/abbreviated-fall-2026/",
+          "chars": 109
+        }
+      }
+    },
+    {
+      "id": 1245,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "The Cathedral’s top floors are home to some of the University’s top scholars",
+      "has_text": true,
+      "url": "https://www.pittwire.pitt.edu/magazine/features-articles/2026/10/08/honors-education-foote-frederick-rees",
+      "source": "Pitt Magazine",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Cathedral’s top floors are home to some of the University’s top scholars https://www.pittwire.pitt.edu/magazine/features-articles/2026/10/08/honors-education-foote-frederick-rees",
+          "chars": 100
+        },
+        "bluesky": {
+          "text": "The Cathedral’s top floors are home to some of the University’s top scholars https://www.pittwire.pitt.edu/magazine/features-articles/2026/10/08/honors-education-foote-frederick-rees",
+          "chars": 182
+        }
+      }
+    },
+    {
+      "id": 1244,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "NBER Appoints 35 Research Associates, Fall 2026",
+      "has_text": true,
+      "url": "https://www.nber.org/news/nber-appoints-35-research-associates-fall-2026",
+      "source": "National Bureau of Economic Research",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "NBER Appoints 35 Research Associates, Fall 2026 https://www.nber.org/news/nber-appoints-35-research-associates-fall-2026",
+          "chars": 71
+        },
+        "bluesky": {
+          "text": "NBER Appoints 35 Research Associates, Fall 2026 https://www.nber.org/news/nber-appoints-35-research-associates-fall-2026",
+          "chars": 120
+        }
+      }
+    },
+    {
+      "id": 1242,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Psilocybin for sale in Australia, get Psilocybin in Australia, buy Psilocybin in Australia",
+      "has_text": true,
+      "url": "https://psilocybin-for-sale-in-a963680.digiblogbox.com/67735637/psilocybin-for-sale-in-australia-get-psilocybin-in-australia-buy-psilocybin-in-australia-order-psilocybin-in-australia-store-psilocybin-in-australia",
+      "source": "Takemyclass61594 Blog",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Psilocybin for sale in Australia, get Psilocybin in Australia, buy Psilocybin in Australia https://psilocybin-for-sale-in-a963680.digiblogbox.com/67735637/psilocybin-for-sale-in-australia-get-psilocybin-in-australia-buy-psilocybin-in-australia-order-psilocybin-in-australia-store-psilocybin-in-australia",
+          "chars": 114
+        },
+        "bluesky": {
+          "text": "Psilocybin for sale in Australia, get Psilocybin in Australia, buy Psilocybin in Aust… https://psilocybin-for-sale-in-a963680.digiblogbox.com/67735637/psilocybin-for-sale-in-australia-get-psilocybin-in-australia-buy-psilocybin-in-australia-order-psilocybin-in-australia-store-psilocybin-in-australia",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 1241,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "bridget-diana",
+      "person": "Bridget Diana",
+      "is_ces": true,
+      "title": "Guest lecture in Diana's Political Economy of Regulation class (LinkedIn post)",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7513959097273282560",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Guest lecture in Diana's Political Economy of Regulation class (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:share:7513959097273282560",
+          "chars": 102
+        },
+        "bluesky": {
+          "text": "Guest lecture in Diana's Political Economy of Regulation class (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:share:7513959097273282560",
+          "chars": 148
+        }
+      }
+    },
+    {
+      "id": 1240,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "World's Top Universities from US, UK, Australia & Europe Offer Study Abroad Opportunities with Scholarship to Chandigarh University During 'International Education Expo 2026'",
+      "has_text": true,
+      "url": "https://www.kenyastar.com/news/279357679/world-top-universities-from-us-uk-australia-europe-offer-study-abroad-opportunities-with-scholarship-to-chandigarh-university-during-international-education-expo-2026",
+      "source": "Kenya Star",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "World's Top Universities from US, UK, Australia & Europe Offer Study Abroad Opportunities with Scholarship to Chandigarh University During 'International Education Expo 2026' https://www.kenyastar.com/news/279357679/world-top-universities-from-us-uk-australia-europe-offer-study-abroad-opportunities-with-scholarship-to-chandigarh-university-during-international-education-expo-2026",
+          "chars": 198
+        },
+        "bluesky": {
+          "text": "World's Top Universities from US, UK, Australia & Europe Offer Study Abroad Opportunities … https://www.kenyastar.com/news/279357679/world-top-universities-from-us-uk-australia-europe-offer-study-abroad-opportunities-with-scholarship-to-chandigarh-university-during-international-education-expo-2026",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 1238,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Next generation takes spotlight at UNCF Baltimore Mayor’s Masked Ball",
+      "has_text": true,
+      "url": "https://www.afro.com/baltimore-events/next-generation-takes-spotlight-at-uncf-baltimore-mayors-masked-ball-a88757b0",
+      "source": "The Afro-American Newspapers",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Next generation takes spotlight at UNCF Baltimore Mayor’s Masked Ball https://www.afro.com/baltimore-events/next-generation-takes-spotlight-at-uncf-baltimore-mayors-masked-ball-a88757b0",
+          "chars": 93
+        },
+        "bluesky": {
+          "text": "Next generation takes spotlight at UNCF Baltimore Mayor’s Masked Ball https://www.afro.com/baltimore-events/next-generation-takes-spotlight-at-uncf-baltimore-mayors-masked-ball-a88757b0",
+          "chars": 185
+        }
+      }
+    },
+    {
+      "id": 1237,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Só Lula pode minimizar estragos na Democracia brasileira",
+      "has_text": true,
+      "url": "https://www.pacocacomcebola.com.br/politica/so-lula-pode-minimizar-estragos-na-democracia-brasileira/",
+      "source": "Paçoca com Cebola",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Só Lula pode minimizar estragos na Democracia brasileira https://www.pacocacomcebola.com.br/politica/so-lula-pode-minimizar-estragos-na-democracia-brasileira/",
+          "chars": 80
+        },
+        "bluesky": {
+          "text": "Só Lula pode minimizar estragos na Democracia brasileira https://www.pacocacomcebola.com.br/politica/so-lula-pode-minimizar-estragos-na-democracia-brasileira/",
+          "chars": 158
+        }
+      }
+    },
+    {
+      "id": 1235,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Wesleyan University",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/Wesleyan_University",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Wesleyan University https://en.wikipedia.org/wiki/Wesleyan_University",
+          "chars": 43
+        },
+        "bluesky": {
+          "text": "Wesleyan University https://en.wikipedia.org/wiki/Wesleyan_University",
+          "chars": 69
+        }
+      }
+    },
+    {
+      "id": 1234,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "The Hopkins Forum: Will Generative AI Enhance or Stunt College Learning?",
+      "has_text": true,
+      "url": "https://baltimorefishbowl.com/stories/live-debate-podcast-recording-the-hopkins-forum-will-generative-ai-enhance-or-stunt-college-learning/",
+      "source": "Baltimore Fishbowl",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "The Hopkins Forum: Will Generative AI Enhance or Stunt College Learning? https://baltimorefishbowl.com/stories/live-debate-podcast-recording-the-hopkins-forum-will-generative-ai-enhance-or-stunt-college-learning/",
+          "chars": 96
+        },
+        "bluesky": {
+          "text": "The Hopkins Forum: Will Generative AI Enhance or Stunt College Learning? https://baltimorefishbowl.com/stories/live-debate-podcast-recording-the-hopkins-forum-will-generative-ai-enhance-or-stunt-college-learning/",
+          "chars": 212
+        }
+      }
+    },
+    {
+      "id": 1233,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "scott-warren",
+      "person": "Scott Warren",
+      "is_ces": false,
+      "title": "Outrage Overload clip on democratic norms (Instagram reel)",
+      "has_text": true,
+      "url": "https://www.instagram.com/reel/DePhz36GIhS/",
+      "source": "Instagram",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Outrage Overload clip on democratic norms (Instagram reel) https://www.instagram.com/reel/DePhz36GIhS/",
+          "chars": 82
+        },
+        "bluesky": {
+          "text": "Outrage Overload clip on democratic norms (Instagram reel) https://www.instagram.com/reel/DePhz36GIhS/",
+          "chars": 102
+        }
+      }
+    },
+    {
+      "id": 1232,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "The Fur Trader’s Will That Created McGill University? | Unspoken History",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=0kYsGLChCh4",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Fur Trader’s Will That Created McGill University? | Unspoken History https://www.youtube.com/watch?v=0kYsGLChCh4",
+          "chars": 96
+        },
+        "bluesky": {
+          "text": "The Fur Trader’s Will That Created McGill University? | Unspoken History https://www.youtube.com/watch?v=0kYsGLChCh4",
+          "chars": 116
+        }
+      }
+    },
+    {
+      "id": 1231,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "louis-hyman",
+      "person": "Louis Hyman",
+      "is_ces": true,
+      "title": "SNF Agora Institute: AI and the Future of History",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=M_X2N8GpXwc",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "SNF Agora Institute: AI and the Future of History https://www.youtube.com/watch?v=M_X2N8GpXwc",
+          "chars": 73
+        },
+        "bluesky": {
+          "text": "SNF Agora Institute: AI and the Future of History https://www.youtube.com/watch?v=M_X2N8GpXwc",
+          "chars": 93
+        }
+      }
+    },
+    {
+      "id": 1230,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text — Twitter repost)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1228,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Daniel Hanley's campus visit (LinkedIn post)",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7514091619026018305",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Daniel Hanley's campus visit (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:share:7514091619026018305",
+          "chars": 68
+        },
+        "bluesky": {
+          "text": "Daniel Hanley's campus visit (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:share:7514091619026018305",
+          "chars": 114
+        }
+      }
+    },
+    {
+      "id": 1227,
+      "date": "2026-10-08",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Coinbase's Top Cryptographer Calls 'Bunker Mode' FUD",
+      "has_text": true,
+      "url": "https://thedefiant.io/newsletter/defi-daily/coinbase-s-top-cryptographer-calls-bunker-mode-fud",
+      "source": "The Defiant",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Coinbase's Top Cryptographer Calls 'Bunker Mode' FUD https://thedefiant.io/newsletter/defi-daily/coinbase-s-top-cryptographer-calls-bunker-mode-fud",
+          "chars": 76
+        },
+        "bluesky": {
+          "text": "Coinbase's Top Cryptographer Calls 'Bunker Mode' FUD https://thedefiant.io/newsletter/defi-daily/coinbase-s-top-cryptographer-calls-bunker-mode-fud",
+          "chars": 147
         }
       }
     },

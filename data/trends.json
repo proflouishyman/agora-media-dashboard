@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-08T07:08:33-04:00",
+  "generated_at": "2026-10-09T09:52:32-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-10-08"
+    "end": "2026-10-09"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 1215,
-        "in_digest": 339,
-        "reach_proxy": 4716,
-        "people_covered": 100,
+        "mentions": 1239,
+        "in_digest": 347,
+        "reach_proxy": 4745,
+        "people_covered": 101,
         "people_tracked": 100,
-        "sources": 532,
+        "sources": 542,
         "negative": 11
       },
       "deltas": {
@@ -726,9 +726,16 @@
         },
         {
           "date": "2026-10-08",
-          "count": 9,
-          "reach": 183,
-          "in_digest": 1,
+          "count": 32,
+          "reach": 211,
+          "in_digest": 9,
+          "observed": true
+        },
+        {
+          "date": "2026-10-09",
+          "count": 1,
+          "reach": 1,
+          "in_digest": 0,
           "observed": true
         }
       ],
@@ -917,37 +924,37 @@
         },
         {
           "week_start": "2026-10-05",
-          "count": 87,
-          "reach": 586,
-          "in_digest": 18,
-          "people": 16,
+          "count": 111,
+          "reach": 615,
+          "in_digest": 26,
+          "people": 20,
           "sentiment": {
-            "positive": 2,
-            "neutral": 6,
+            "positive": 5,
+            "neutral": 8,
             "negative": 0,
-            "unknown": 79
+            "unknown": 98
           }
         }
       ],
       "sentiment": {
-        "positive": 103,
-        "neutral": 178,
+        "positive": 106,
+        "neutral": 180,
         "negative": 11,
-        "unknown": 923
+        "unknown": 942
       },
       "top_people": [
         {
           "person_id": "johns-hopkins",
           "name": "Johns Hopkins",
-          "count": 363,
-          "reach": 2396,
+          "count": 379,
+          "reach": 2417,
           "is_ces": false
         },
         {
           "person_id": "snf-agora-institute",
           "name": "SNF Agora Institute",
-          "count": 111,
-          "reach": 220,
+          "count": 113,
+          "reach": 222,
           "is_ces": false
         },
         {
@@ -960,8 +967,8 @@
         {
           "person_id": "anne-applebaum",
           "name": "Anne Applebaum",
-          "count": 69,
-          "reach": 327,
+          "count": 71,
+          "reach": 329,
           "is_ces": false
         },
         {
@@ -1010,20 +1017,20 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 214,
-          "reach": 1355,
+          "count": 215,
+          "reach": 1356,
           "is_other": false
         },
         {
           "source": "Youtube",
-          "count": 74,
-          "reach": 72,
+          "count": 76,
+          "reach": 74,
           "is_other": false
         },
         {
           "source": "LinkedIn",
-          "count": 39,
-          "reach": 40,
+          "count": 41,
+          "reach": 42,
           "is_other": false
         },
         {
@@ -1058,19 +1065,19 @@
         },
         {
           "source": "Other",
-          "count": 755,
-          "reach": 3102,
+          "count": 774,
+          "reach": 3126,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 650
+          "count": 664
         },
         {
           "source_type": "social network",
-          "count": 218
+          "count": 223
         },
         {
           "source_type": "blog",
@@ -1078,7 +1085,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 298
+          "count": 303
         }
       ],
       "negative_stories": [
@@ -1102,18 +1109,18 @@
           "positive": 0,
           "neutral": 0,
           "negative": 0,
-          "unknown": 363,
-          "total": 363
+          "unknown": 379,
+          "total": 379
         },
         {
           "row_label": "SNF Agora Institute",
           "person_id": "snf-agora-institute",
           "is_ces": false,
-          "positive": 22,
+          "positive": 23,
           "neutral": 32,
           "negative": 3,
-          "unknown": 54,
-          "total": 111
+          "unknown": 55,
+          "total": 113
         },
         {
           "row_label": "unknown",
@@ -1130,10 +1137,10 @@
           "person_id": "anne-applebaum",
           "is_ces": false,
           "positive": 11,
-          "neutral": 15,
+          "neutral": 16,
           "negative": 5,
-          "unknown": 38,
-          "total": 69
+          "unknown": 39,
+          "total": 71
         },
         {
           "row_label": "Yascha Mounk",
@@ -1229,11 +1236,11 @@
           "row_label": "Louis Hyman",
           "person_id": "louis-hyman",
           "is_ces": true,
-          "positive": 4,
+          "positive": 5,
           "neutral": 5,
           "negative": 0,
           "unknown": 10,
-          "total": 19
+          "total": 20
         },
         {
           "row_label": "Peter Pomerantsev",
@@ -1256,6 +1263,16 @@
           "total": 14
         },
         {
+          "row_label": "Martha S. Jones",
+          "person_id": "martha-s-jones",
+          "is_ces": false,
+          "positive": 3,
+          "neutral": 7,
+          "negative": 0,
+          "unknown": 4,
+          "total": 14
+        },
+        {
           "row_label": "Unattributed (institutional keyword only)",
           "person_id": "unattributed-institutional-keyword-only",
           "is_ces": false,
@@ -1266,24 +1283,14 @@
           "total": 14
         },
         {
-          "row_label": "Martha S. Jones",
-          "person_id": "martha-s-jones",
-          "is_ces": false,
-          "positive": 3,
-          "neutral": 7,
-          "negative": 0,
-          "unknown": 3,
-          "total": 13
-        },
-        {
           "row_label": "Scott Warren",
           "person_id": "scott-warren",
           "is_ces": false,
-          "positive": 3,
+          "positive": 4,
           "neutral": 4,
           "negative": 0,
           "unknown": 4,
-          "total": 11
+          "total": 12
         },
         {
           "row_label": "Eugene Scott",
@@ -1786,6 +1793,16 @@
           "total": 1
         },
         {
+          "row_label": "Bridget Diana",
+          "person_id": "bridget-diana",
+          "is_ces": true,
+          "positive": 0,
+          "neutral": 1,
+          "negative": 0,
+          "unknown": 0,
+          "total": 1
+        },
+        {
           "row_label": "Daniel Sabet",
           "person_id": "daniel-sabet",
           "is_ces": false,
@@ -2100,18 +2117,18 @@
         {
           "row_label": "online news",
           "positive": 34,
-          "neutral": 111,
+          "neutral": 112,
           "negative": 2,
-          "unknown": 503,
-          "total": 650
+          "unknown": 516,
+          "total": 664
         },
         {
           "row_label": "social network",
-          "positive": 41,
-          "neutral": 48,
+          "positive": 44,
+          "neutral": 49,
           "negative": 1,
-          "unknown": 128,
-          "total": 218
+          "unknown": 129,
+          "total": 223
         },
         {
           "row_label": "blog",
@@ -2126,8 +2143,8 @@
           "positive": 22,
           "neutral": 11,
           "negative": 8,
-          "unknown": 257,
-          "total": 298
+          "unknown": 262,
+          "total": 303
         }
       ],
       "sentiment_examples": {
@@ -2289,6 +2306,36 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 1233,
+              "person": "Scott Warren",
+              "person_id": "scott-warren",
+              "is_ces": false,
+              "title": "Outrage Overload clip on democratic norms (Instagram reel)",
+              "url": "https://www.instagram.com/reel/DePhz36GIhS/",
+              "source": "Instagram",
+              "date": "2026-10-08"
+            },
+            {
+              "id": 1231,
+              "person": "Louis Hyman",
+              "person_id": "louis-hyman",
+              "is_ces": true,
+              "title": "SNF Agora Institute: AI and the Future of History",
+              "url": "https://www.youtube.com/watch?v=M_X2N8GpXwc",
+              "source": "Youtube",
+              "date": "2026-10-08"
+            },
+            {
+              "id": 1228,
+              "person": "SNF Agora Institute",
+              "person_id": "snf-agora-institute",
+              "is_ces": false,
+              "title": "Daniel Hanley's campus visit (LinkedIn post)",
+              "url": "https://www.linkedin.com/feed/update/urn:li:share:7514091619026018305",
+              "source": "LinkedIn",
+              "date": "2026-10-08"
+            },
             {
               "id": 1219,
               "person": "SNF Agora Institute",
@@ -3322,12 +3369,12 @@
           ],
           "top_keyphrases": [
             {
-              "keyphrase": "organization",
-              "count": 9
+              "keyphrase": "democracy",
+              "count": 10
             },
             {
-              "keyphrase": "democracy",
-              "count": 9
+              "keyphrase": "organization",
+              "count": 10
             },
             {
               "keyphrase": "author",
@@ -3342,6 +3389,14 @@
               "count": 6
             },
             {
+              "keyphrase": "history",
+              "count": 5
+            },
+            {
+              "keyphrase": "research",
+              "count": 5
+            },
+            {
               "keyphrase": "civil dialogue",
               "count": 5
             },
@@ -3350,15 +3405,7 @@
               "count": 4
             },
             {
-              "keyphrase": "history",
-              "count": 4
-            },
-            {
               "keyphrase": "authors",
-              "count": 4
-            },
-            {
-              "keyphrase": "director",
               "count": 4
             }
           ]
@@ -3367,10 +3414,10 @@
     },
     "ces": {
       "totals": {
-        "mentions": 112,
-        "in_digest": 78,
-        "reach_proxy": 187,
-        "people_covered": 10,
+        "mentions": 114,
+        "in_digest": 80,
+        "reach_proxy": 189,
+        "people_covered": 11,
         "people_tracked": 17,
         "sources": 64,
         "negative": 0
@@ -4086,6 +4133,13 @@
         },
         {
           "date": "2026-10-08",
+          "count": 2,
+          "reach": 2,
+          "in_digest": 2,
+          "observed": true
+        },
+        {
+          "date": "2026-10-09",
           "count": 0,
           "reach": 0,
           "in_digest": 0,
@@ -4277,21 +4331,21 @@
         },
         {
           "week_start": "2026-10-05",
-          "count": 3,
-          "reach": 3,
-          "in_digest": 3,
-          "people": 3,
+          "count": 5,
+          "reach": 5,
+          "in_digest": 5,
+          "people": 5,
           "sentiment": {
-            "positive": 0,
-            "neutral": 1,
+            "positive": 1,
+            "neutral": 2,
             "negative": 0,
             "unknown": 2
           }
         }
       ],
       "sentiment": {
-        "positive": 16,
-        "neutral": 34,
+        "positive": 17,
+        "neutral": 35,
         "negative": 0,
         "unknown": 62
       },
@@ -4313,8 +4367,8 @@
         {
           "person_id": "louis-hyman",
           "name": "Louis Hyman",
-          "count": 19,
-          "reach": 27,
+          "count": 20,
+          "reach": 28,
           "is_ces": true
         },
         {
@@ -4353,15 +4407,15 @@
           "is_ces": true
         },
         {
-          "person_id": "glory-m-liu",
-          "name": "Glory Liu",
+          "person_id": "bridget-diana",
+          "name": "Bridget Diana",
           "count": 1,
           "reach": 1,
           "is_ces": true
         },
         {
-          "person_id": "jacob-roundtree",
-          "name": "Jacob Roundtree",
+          "person_id": "glory-m-liu",
+          "name": "Glory Liu",
           "count": 1,
           "reach": 1,
           "is_ces": true
@@ -4375,21 +4429,27 @@
           "is_other": false
         },
         {
+          "source": "Youtube",
+          "count": 7,
+          "reach": 7,
+          "is_other": false
+        },
+        {
           "source": "The New York Times",
           "count": 6,
           "reach": 19,
           "is_other": false
         },
         {
-          "source": "Youtube",
-          "count": 6,
-          "reach": 6,
-          "is_other": false
-        },
-        {
           "source": "YouTube",
           "count": 5,
           "reach": 5,
+          "is_other": false
+        },
+        {
+          "source": "LinkedIn",
+          "count": 3,
+          "reach": 3,
           "is_other": false
         },
         {
@@ -4411,12 +4471,6 @@
           "is_other": false
         },
         {
-          "source": "Bluesky",
-          "count": 2,
-          "reach": 2,
-          "is_other": false
-        },
-        {
           "source": "Other",
           "count": 66,
           "reach": 123,
@@ -4430,7 +4484,7 @@
         },
         {
           "source_type": "social network",
-          "count": 17
+          "count": 19
         },
         {
           "source_type": "blog",
@@ -4467,11 +4521,11 @@
           "row_label": "Louis Hyman",
           "person_id": "louis-hyman",
           "is_ces": true,
-          "positive": 4,
+          "positive": 5,
           "neutral": 5,
           "negative": 0,
           "unknown": 10,
-          "total": 19
+          "total": 20
         },
         {
           "row_label": "Steven Teles",
@@ -4524,6 +4578,16 @@
           "total": 3
         },
         {
+          "row_label": "Bridget Diana",
+          "person_id": "bridget-diana",
+          "is_ces": true,
+          "positive": 0,
+          "neutral": 1,
+          "negative": 0,
+          "unknown": 0,
+          "total": 1
+        },
+        {
           "row_label": "Glory Liu",
           "person_id": "glory-m-liu",
           "is_ces": true,
@@ -4555,11 +4619,11 @@
         },
         {
           "row_label": "social network",
-          "positive": 2,
-          "neutral": 11,
+          "positive": 3,
+          "neutral": 12,
           "negative": 0,
           "unknown": 4,
-          "total": 17
+          "total": 19
         },
         {
           "row_label": "blog",
@@ -4585,6 +4649,16 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 1231,
+              "person": "Louis Hyman",
+              "person_id": "louis-hyman",
+              "is_ces": true,
+              "title": "SNF Agora Institute: AI and the Future of History",
+              "url": "https://www.youtube.com/watch?v=M_X2N8GpXwc",
+              "source": "Youtube",
+              "date": "2026-10-08"
+            },
             {
               "id": 928,
               "person": "Louis Hyman",
@@ -4748,15 +4822,23 @@
           ],
           "top_keyphrases": [
             {
+              "keyphrase": "archives",
+              "count": 3
+            },
+            {
+              "keyphrase": "history",
+              "count": 3
+            },
+            {
               "keyphrase": "center",
               "count": 3
             },
             {
-              "keyphrase": "archives",
+              "keyphrase": "democracy",
               "count": 2
             },
             {
-              "keyphrase": "history",
+              "keyphrase": "faculty member",
               "count": 2
             },
             {
@@ -4777,14 +4859,6 @@
             },
             {
               "keyphrase": "agora professor",
-              "count": 2
-            },
-            {
-              "keyphrase": "better research university",
-              "count": 2
-            },
-            {
-              "keyphrase": "cajoling by presidents",
               "count": 2
             }
           ]
