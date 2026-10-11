@@ -1,7 +1,951 @@
 {
-  "generated_at": "2026-10-09T09:52:32-04:00",
-  "count": 1239,
+  "generated_at": "2026-10-11T13:48:57-04:00",
+  "count": 1276,
   "stories": [
+    {
+      "id": 1272,
+      "date": "2026-10-11",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Beyond Preservation: Rehumanizing the University from the Inside Out, with Randy Bass",
+      "has_text": true,
+      "url": "https://events.umass.edu/event/beyond-preservation-rehumanizing-the-university-from-the-inside-out-with-randy-bass",
+      "source": "UMass Amherst",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Beyond Preservation: Rehumanizing the University from the Inside Out, with Randy Bass https://events.umass.edu/event/beyond-preservation-rehumanizing-the-university-from-the-inside-out-with-randy-bass",
+          "chars": 109
+        },
+        "bluesky": {
+          "text": "Beyond Preservation: Rehumanizing the University from the Inside Out, with Randy Bass https://events.umass.edu/event/beyond-preservation-rehumanizing-the-university-from-the-inside-out-with-randy-bass",
+          "chars": 200
+        }
+      }
+    },
+    {
+      "id": 1271,
+      "date": "2026-10-11",
+      "week_start": "2026-10-05",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Anne Applebaum Alter",
+      "has_text": true,
+      "url": "https://deutschermeme.com/anne-applebaum-alter/?utm_source=rss&utm_medium=rss&utm_campaign=anne-applebaum-alter",
+      "source": "Promi-News-Blog",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Anne Applebaum Alter https://deutschermeme.com/anne-applebaum-alter/?utm_source=rss&utm_medium=rss&utm_campaign=anne-applebaum-alter",
+          "chars": 44
+        },
+        "bluesky": {
+          "text": "Anne Applebaum Alter https://deutschermeme.com/anne-applebaum-alter/?utm_source=rss&utm_medium=rss&utm_campaign=anne-applebaum-alter",
+          "chars": 132
+        }
+      }
+    },
+    {
+      "id": 1251,
+      "date": "2026-10-10",
+      "week_start": "2026-10-05",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Die AfD ist Donald Trumps Rammbock in Europa",
+      "has_text": true,
+      "url": "https://www.n-tv.de/politik/Die-EU-sollte-abgeschafft-werden-Die-AfD-ist-Donald-Trumps-Rammbock-in-Europa-id31400100.html",
+      "source": "n-tv",
+      "source_type": "online news",
+      "similar_mention_count": 5,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Die AfD ist Donald Trumps Rammbock in Europa https://www.n-tv.de/politik/Die-EU-sollte-abgeschafft-werden-Die-AfD-ist-Donald-Trumps-Rammbock-in-Europa-id31400100.html",
+          "chars": 68
+        },
+        "bluesky": {
+          "text": "Die AfD ist Donald Trumps Rammbock in Europa https://www.n-tv.de/politik/Die-EU-sollte-abgeschafft-werden-Die-AfD-ist-Donald-Trumps-Rammbock-in-Europa-id31400100.html",
+          "chars": 166
+        }
+      }
+    },
+    {
+      "id": 1258,
+      "date": "2026-10-10",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "In 2024, Michael Bloomberg's foundation gave Johns Hopkins $1 billion; the gift made medical school tuition-free for students from families earning under $300,000 and expanded help with living costs",
+      "has_text": true,
+      "url": "https://timesofindia.indiatimes.com/world/us/in-2024-michael-bloombergs-foundation-gave-johns-hopkins-1-billion-the-gift-made-medical-school-tuition-free-for-students-from-families-earning-under-300000-and-expanded-help-with-living-costs/articleshow/134850680.cms",
+      "source": "The Times of India",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "In 2024, Michael Bloomberg's foundation gave Johns Hopkins $1 billion; the gift made medical school tuition-free for students from families earning under $300,000 and expanded help with living costs https://timesofindia.indiatimes.com/world/us/in-2024-michael-bloombergs-foundation-gave-johns-hopkins-1-billion-the-gift-made-medical-school-tuition-free-for-students-from-families-earning-under-300000-and-expanded-help-with-living-costs/articleshow/134850680.cms",
+          "chars": 222
+        },
+        "bluesky": {
+          "text": "In 2024, Michael Bloomberg's found… https://timesofindia.indiatimes.com/world/us/in-2024-michael-bloombergs-foundation-gave-johns-hopkins-1-billion-the-gift-made-medical-school-tuition-free-for-students-from-families-earning-under-300000-and-expanded-help-with-living-costs/articleshow/134850680.cms",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 1286,
+      "date": "2026-10-10",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Beyond the buzz: analyzing (re)politicization in higher education",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s10734-026-01787-y",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Beyond the buzz: analyzing (re)politicization in higher education https://link.springer.com/article/10.1007/s10734-026-01787-y",
+          "chars": 89
+        },
+        "bluesky": {
+          "text": "Beyond the buzz: analyzing (re)politicization in higher education https://link.springer.com/article/10.1007/s10734-026-01787-y",
+          "chars": 126
+        }
+      }
+    },
+    {
+      "id": 1285,
+      "date": "2026-10-10",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "DESTAQUES MEGAPIX DE 12 A 18 DE OUTUBRO",
+      "has_text": true,
+      "url": "https://www.ousadosmoda.com/2026/10/destaques-megapix-de-12-18-de-outubro.html",
+      "source": "Ousados Moda",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "DESTAQUES MEGAPIX DE 12 A 18 DE OUTUBRO https://www.ousadosmoda.com/2026/10/destaques-megapix-de-12-18-de-outubro.html",
+          "chars": 63
+        },
+        "bluesky": {
+          "text": "DESTAQUES MEGAPIX DE 12 A 18 DE OUTUBRO https://www.ousadosmoda.com/2026/10/destaques-megapix-de-12-18-de-outubro.html",
+          "chars": 118
+        }
+      }
+    },
+    {
+      "id": 1284,
+      "date": "2026-10-10",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "From Penn State’s College of Earth and Mineral Sciences: [Meteorology/Computer Science & Technology/Environmental Sciences] ‘How does “atmospheric turbulence” impact tornado formation?’ – sciencesprings",
+      "has_text": true,
+      "url": "https://sciencesprings.wordpress.com/2026/10/10/from-penn-states-college-of-earth-and-mineral-sciences-meteorology-computer-science-technology-environmental-sciences-how-does-atmospheric-turbulence-impact-tornado-formation/",
+      "source": "wordpress.com",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "From Penn State’s College of Earth and Mineral Sciences: [Meteorology/Computer Science & Technology/Environmental Sciences] ‘How does “atmospheric turbulence” impact tornado formation?’ – sciencesprings https://sciencesprings.wordpress.com/2026/10/10/from-penn-states-college-of-earth-and-mineral-sciences-meteorology-computer-science-technology-environmental-sciences-how-does-atmospheric-turbulence-impact-tornado-formation/",
+          "chars": 226
+        },
+        "bluesky": {
+          "text": "From Penn State’s College of Earth and Mineral Sciences: [Meteorology/Comp… https://sciencesprings.wordpress.com/2026/10/10/from-penn-states-college-of-earth-and-mineral-sciences-meteorology-computer-science-technology-environmental-sciences-how-does-atmospheric-turbulence-impact-tornado-formation/",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 1283,
+      "date": "2026-10-10",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "In 2024, Michael Bloomberg’s foundation gave Johns Hopkins $1 billion; the gift made medical school tuition-free for students from families earning under $300,000 and expanded help with living costs",
+      "has_text": true,
+      "url": "https://www.7globe.in/in-2024-michael-bloombergs-foundation-gave-johns-hopkins-1-billion-the-gift-made-medical-school-tuition-free-for-students-from-families-earning-under-300000-and-expanded-help-with-living-costs/",
+      "source": "7 Globe News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "In 2024, Michael Bloomberg’s foundation gave Johns Hopkins $1 billion; the gift made medical school tuition-free for students from families earning under $300,000 and expanded help with living costs https://www.7globe.in/in-2024-michael-bloombergs-foundation-gave-johns-hopkins-1-billion-the-gift-made-medical-school-tuition-free-for-students-from-families-earning-under-300000-and-expanded-help-with-living-costs/",
+          "chars": 222
+        },
+        "bluesky": {
+          "text": "In 2024, Michael Bloomberg’s foundation gave Johns Hopkins $1 billion; the gift ma… https://www.7globe.in/in-2024-michael-bloombergs-foundation-gave-johns-hopkins-1-billion-the-gift-made-medical-school-tuition-free-for-students-from-families-earning-under-300000-and-expanded-help-with-living-costs/",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 1282,
+      "date": "2026-10-10",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Baltimore Nonprofit Trains Teens To Spot Abuse Before It Starts",
+      "has_text": true,
+      "url": "https://hoodline.com/2026/10/baltimore-nonprofit-trains-teens-to-spot-abuse-before-it-starts/",
+      "source": "Hoodline",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Baltimore Nonprofit Trains Teens To Spot Abuse Before It Starts https://hoodline.com/2026/10/baltimore-nonprofit-trains-teens-to-spot-abuse-before-it-starts/",
+          "chars": 87
+        },
+        "bluesky": {
+          "text": "Baltimore Nonprofit Trains Teens To Spot Abuse Before It Starts https://hoodline.com/2026/10/baltimore-nonprofit-trains-teens-to-spot-abuse-before-it-starts/",
+          "chars": 157
+        }
+      }
+    },
+    {
+      "id": 1281,
+      "date": "2026-10-10",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Miami Has The Money. Carnegie Mellon Is Bringing The Talent.",
+      "has_text": true,
+      "url": "https://www.forbes.com/sites/christopherrim/2026/10/10/miami-has-the-money-carnegie-mellon-is-bringing-the-talent/",
+      "source": "Forbes",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Miami Has The Money. Carnegie Mellon Is Bringing The Talent. https://www.forbes.com/sites/christopherrim/2026/10/10/miami-has-the-money-carnegie-mellon-is-bringing-the-talent/",
+          "chars": 84
+        },
+        "bluesky": {
+          "text": "Miami Has The Money. Carnegie Mellon Is Bringing The Talent. https://www.forbes.com/sites/christopherrim/2026/10/10/miami-has-the-money-carnegie-mellon-is-bringing-the-talent/",
+          "chars": 175
+        }
+      }
+    },
+    {
+      "id": 1280,
+      "date": "2026-10-10",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Christian Herter",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/Christian_Herter",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Christian Herter https://en.wikipedia.org/wiki/Christian_Herter",
+          "chars": 40
+        },
+        "bluesky": {
+          "text": "Christian Herter https://en.wikipedia.org/wiki/Christian_Herter",
+          "chars": 63
+        }
+      }
+    },
+    {
+      "id": 1279,
+      "date": "2026-10-10",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "The Confession (Why More \"Bailouts\" Are Coming in the Perma-Rescue Era)",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=rwIZismikeQ",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Confession (Why More \"Bailouts\" Are Coming in the Perma-Rescue Era) https://www.youtube.com/watch?v=rwIZismikeQ",
+          "chars": 95
+        },
+        "bluesky": {
+          "text": "The Confession (Why More \"Bailouts\" Are Coming in the Perma-Rescue Era) https://www.youtube.com/watch?v=rwIZismikeQ",
+          "chars": 115
+        }
+      }
+    },
+    {
+      "id": 1278,
+      "date": "2026-10-10",
+      "week_start": "2026-10-05",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Outrage Overload clip: Sophia Winner on the SNF Agora ethnographic study of conservative trust (Instagram reel)",
+      "has_text": true,
+      "url": "https://www.instagram.com/reel/DeUu4RSGgKy/",
+      "source": "Instagram",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Outrage Overload clip: Sophia Winner on the SNF Agora ethnographic study of conservative trust (Instagram reel) https://www.instagram.com/reel/DeUu4RSGgKy/",
+          "chars": 135
+        },
+        "bluesky": {
+          "text": "Outrage Overload clip: Sophia Winner on the SNF Agora ethnographic study of conservative trust (Instagram reel) https://www.instagram.com/reel/DeUu4RSGgKy/",
+          "chars": 155
+        }
+      }
+    },
+    {
+      "id": 1277,
+      "date": "2026-10-10",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Column: Protecting NIH research is urgent — and personal",
+      "has_text": true,
+      "url": "https://www.dailypress.com/2026/10/10/column-protecting-nih-research-is-urgent-and-personal/",
+      "source": "The Daily Press",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Column: Protecting NIH research is urgent — and personal https://www.dailypress.com/2026/10/10/column-protecting-nih-research-is-urgent-and-personal/",
+          "chars": 80
+        },
+        "bluesky": {
+          "text": "Column: Protecting NIH research is urgent — and personal https://www.dailypress.com/2026/10/10/column-protecting-nih-research-is-urgent-and-personal/",
+          "chars": 149
+        }
+      }
+    },
+    {
+      "id": 1276,
+      "date": "2026-10-10",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Messi joga hoje? Inter Miami x DC United: onde assistir ao vivo, horário, palpite e escalações pela MLS",
+      "has_text": true,
+      "url": "https://ndmais.com.br/futebol/messi-joga-hoje-inter-miami-x-dc-united-onde-assistir-ao-vivo-horario-palpite-e-escalacoes-pela-mls/",
+      "source": "ND Mais",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Messi joga hoje? Inter Miami x DC United: onde assistir ao vivo, horário, palpite e escalações pela MLS https://ndmais.com.br/futebol/messi-joga-hoje-inter-miami-x-dc-united-onde-assistir-ao-vivo-horario-palpite-e-escalacoes-pela-mls/",
+          "chars": 127
+        },
+        "bluesky": {
+          "text": "Messi joga hoje? Inter Miami x DC United: onde assistir ao vivo, horário, palpite e escalações pela MLS https://ndmais.com.br/futebol/messi-joga-hoje-inter-miami-x-dc-united-onde-assistir-ao-vivo-horario-palpite-e-escalacoes-pela-mls/",
+          "chars": 234
+        }
+      }
+    },
+    {
+      "id": 1275,
+      "date": "2026-10-10",
+      "week_start": "2026-10-05",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1274,
+      "date": "2026-10-10",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Old White Men: Historians as the Gatekeepers of American Myth",
+      "has_text": true,
+      "url": "https://barryspector534265.substack.com/p/old-white-men-historians-as-the-gatekeepers",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Old White Men: Historians as the Gatekeepers of American Myth https://barryspector534265.substack.com/p/old-white-men-historians-as-the-gatekeepers",
+          "chars": 85
+        },
+        "bluesky": {
+          "text": "Old White Men: Historians as the Gatekeepers of American Myth https://barryspector534265.substack.com/p/old-white-men-historians-as-the-gatekeepers",
+          "chars": 147
+        }
+      }
+    },
+    {
+      "id": 1273,
+      "date": "2026-10-10",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "BEST Medical Schools in the USA (2026) | How to Get Into Top 10 Med Schools",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=7ArbrRWjr_M",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "BEST Medical Schools in the USA (2026) | How to Get Into Top 10 Med Schools https://www.youtube.com/watch?v=7ArbrRWjr_M",
+          "chars": 99
+        },
+        "bluesky": {
+          "text": "BEST Medical Schools in the USA (2026) | How to Get Into Top 10 Med Schools https://www.youtube.com/watch?v=7ArbrRWjr_M",
+          "chars": 119
+        }
+      }
+    },
+    {
+      "id": 1260,
+      "date": "2026-10-10",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Fair treatment, fearless reporting: the link between procedural fairness and whistleblowing in research misconduct",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s10734-026-01789-w",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Fair treatment, fearless reporting: the link between procedural fairness and whistleblowing in research misconduct https://link.springer.com/article/10.1007/s10734-026-01789-w",
+          "chars": 138
+        },
+        "bluesky": {
+          "text": "Fair treatment, fearless reporting: the link between procedural fairness and whistleblowing in research misconduct https://link.springer.com/article/10.1007/s10734-026-01789-w",
+          "chars": 175
+        }
+      }
+    },
+    {
+      "id": 1257,
+      "date": "2026-10-10",
+      "week_start": "2026-10-05",
+      "person_id": "emily-white",
+      "person": "Emily White",
+      "is_ces": false,
+      "title": "WAND’s Athlete of the Week: Calin Hinds",
+      "has_text": true,
+      "url": "https://www.wandtv.com/2026/10/10/wands-athlete-week-calin-hinds/",
+      "source": "WAND-TV",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "WAND’s Athlete of the Week: Calin Hinds https://www.wandtv.com/2026/10/10/wands-athlete-week-calin-hinds/",
+          "chars": 63
+        },
+        "bluesky": {
+          "text": "WAND’s Athlete of the Week: Calin Hinds https://www.wandtv.com/2026/10/10/wands-athlete-week-calin-hinds/",
+          "chars": 105
+        }
+      }
+    },
+    {
+      "id": 1256,
+      "date": "2026-10-10",
+      "week_start": "2026-10-05",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "Politics of the United States",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/Politics_of_the_United_States",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Politics of the United States https://en.wikipedia.org/wiki/Politics_of_the_United_States",
+          "chars": 53
+        },
+        "bluesky": {
+          "text": "Politics of the United States https://en.wikipedia.org/wiki/Politics_of_the_United_States",
+          "chars": 89
+        }
+      }
+    },
+    {
+      "id": 1250,
+      "date": "2026-10-09",
+      "week_start": "2026-10-05",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Henry Farrell of Johns Hopkins Agora Comes to Berkeley: FOG & FLATLANDS",
+      "has_text": true,
+      "url": "https://braddelong.substack.com/p/henry-farrell-of-johns-hopkins-agora",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 7,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Henry Farrell of Johns Hopkins Agora Comes to Berkeley: FOG & FLATLANDS https://braddelong.substack.com/p/henry-farrell-of-johns-hopkins-agora",
+          "chars": 95
+        },
+        "bluesky": {
+          "text": "Henry Farrell of Johns Hopkins Agora Comes to Berkeley: FOG & FLATLANDS https://braddelong.substack.com/p/henry-farrell-of-johns-hopkins-agora",
+          "chars": 142
+        }
+      }
+    },
+    {
+      "id": 1252,
+      "date": "2026-10-09",
+      "week_start": "2026-10-05",
+      "person_id": "scott-warren",
+      "person": "Scott Warren",
+      "is_ces": false,
+      "title": "In our current system, Congress’s crazy behavior is actually rational",
+      "has_text": true,
+      "url": "https://www.washingtonpost.com/ripple/2026/10/09/congressional-incentive-reform/",
+      "source": "The Washington Post",
+      "source_type": "online news",
+      "similar_mention_count": 6,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "In our current system, Congress’s crazy behavior is actually rational https://www.washingtonpost.com/ripple/2026/10/09/congressional-incentive-reform/",
+          "chars": 93
+        },
+        "bluesky": {
+          "text": "In our current system, Congress’s crazy behavior is actually rational https://www.washingtonpost.com/ripple/2026/10/09/congressional-incentive-reform/",
+          "chars": 150
+        }
+      }
+    },
+    {
+      "id": 1259,
+      "date": "2026-10-09",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Trump Proposes $70K OPT Fee – Plus $30K More For STEM Grads – And B-Schools Would Pay",
+      "has_text": true,
+      "url": "https://poetsandquants.com/2026/10/09/trump-proposes-70k-opt-fee-plus-30k-more-for-stem-grads-and-b-schools-would-pay/",
+      "source": "Poets&Quants",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Trump Proposes $70K OPT Fee – Plus $30K More For STEM Grads – And B-Schools Would Pay https://poetsandquants.com/2026/10/09/trump-proposes-70k-opt-fee-plus-30k-more-for-stem-grads-and-b-schools-would-pay/",
+          "chars": 109
+        },
+        "bluesky": {
+          "text": "Trump Proposes $70K OPT Fee – Plus $30K More For STEM Grads – And B-Schools Would Pay https://poetsandquants.com/2026/10/09/trump-proposes-70k-opt-fee-plus-30k-more-for-stem-grads-and-b-schools-would-pay/",
+          "chars": 204
+        }
+      }
+    },
+    {
+      "id": 1270,
+      "date": "2026-10-09",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "သုတေသန ရင်းနှီးမြှုပ်နှံမှုနှင့် ကမ္ဘာ့တက္ကသိုလ် အဆင့်များ ပြောင်းလဲလာခြင်း",
+      "has_text": true,
+      "url": "https://www.mmgpmedia.com/static/content/MFN/2026-10-09/1558190996277469184.html",
+      "source": "缅甸金凤凰报",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "သုတေသန ရင်းနှီးမြှုပ်နှံမှုနှင့် ကမ္ဘာ့တက္ကသိုလ် အဆင့်များ ပြောင်းလဲလာခြင်း https://www.mmgpmedia.com/static/content/MFN/2026-10-09/1558190996277469184.html",
+          "chars": 99
+        },
+        "bluesky": {
+          "text": "သုတေသန ရင်းနှီးမြှုပ်နှံမှုနှင့် ကမ္ဘာ့တက္ကသိုလ် အဆင့်များ ပြောင်းလဲလာခြင်း https://www.mmgpmedia.com/static/content/MFN/2026-10-09/1558190996277469184.html",
+          "chars": 156
+        }
+      }
+    },
+    {
+      "id": 1269,
+      "date": "2026-10-09",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Pouring Money Into the Ivy League Universities Won't Solve Its Problems",
+      "has_text": true,
+      "url": "https://mokslas-studijos-ekonomika.blogspot.com/2026/10/pouring-money-into-ivy-league.html",
+      "source": "Mokslas, studijos ir ekonomika",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Pouring Money Into the Ivy League Universities Won't Solve Its Problems https://mokslas-studijos-ekonomika.blogspot.com/2026/10/pouring-money-into-ivy-league.html",
+          "chars": 95
+        },
+        "bluesky": {
+          "text": "Pouring Money Into the Ivy League Universities Won't Solve Its Problems https://mokslas-studijos-ekonomika.blogspot.com/2026/10/pouring-money-into-ivy-league.html",
+          "chars": 162
+        }
+      }
+    },
+    {
+      "id": 1268,
+      "date": "2026-10-09",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Distinguished inductees in the 2026 Class of Fellows of the American Academy of Nursing",
+      "has_text": true,
+      "url": "https://case.edu/news/distinguished-inductees-2026-class-fellows-american-academy-nursing",
+      "source": "Canada-United States Law Journal",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Distinguished inductees in the 2026 Class of Fellows of the American Academy of Nursing https://case.edu/news/distinguished-inductees-2026-class-fellows-american-academy-nursing",
+          "chars": 111
+        },
+        "bluesky": {
+          "text": "Distinguished inductees in the 2026 Class of Fellows of the American Academy of Nursing https://case.edu/news/distinguished-inductees-2026-class-fellows-american-academy-nursing",
+          "chars": 177
+        }
+      }
+    },
+    {
+      "id": 1267,
+      "date": "2026-10-09",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "How AI Is Breaking Higher Education",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=LavCcMuQLUA",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "How AI Is Breaking Higher Education https://www.youtube.com/watch?v=LavCcMuQLUA",
+          "chars": 59
+        },
+        "bluesky": {
+          "text": "How AI Is Breaking Higher Education https://www.youtube.com/watch?v=LavCcMuQLUA",
+          "chars": 79
+        }
+      }
+    },
+    {
+      "id": 1266,
+      "date": "2026-10-09",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "From Penn State’s College of Agricultural Sciences : [Agricultural Science] ‘Mixing plant material with manure may be key to profitable biogas production’",
+      "has_text": true,
+      "url": "https://sciencesprings.wordpress.com/2026/10/09/from-penn-states-college-of-agricultural-sciences-agricultural-science-mixing-plant-material-with-manure-may-be-key-to-profitable-biogas-production/",
+      "source": "wordpress.com",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "From Penn State’s College of Agricultural Sciences : [Agricultural Science] ‘Mixing plant material with manure may be key to profitable biogas production’ https://sciencesprings.wordpress.com/2026/10/09/from-penn-states-college-of-agricultural-sciences-agricultural-science-mixing-plant-material-with-manure-may-be-key-to-profitable-biogas-production/",
+          "chars": 178
+        },
+        "bluesky": {
+          "text": "From Penn State’s College of Agricultural Sciences : [Agricultural Science] ‘Mixing plant material wi… https://sciencesprings.wordpress.com/2026/10/09/from-penn-states-college-of-agricultural-sciences-agricultural-science-mixing-plant-material-with-manure-may-be-key-to-profitable-biogas-production/",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 1265,
+      "date": "2026-10-09",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Local Hispanic leader empowers Baltimore youth to prevent intimate partner violence",
+      "has_text": true,
+      "url": "https://www.cbsnews.com/baltimore/news/hispanic-leader-empowers-baltimore-youth-prevent-partner-violence/",
+      "source": "CBS News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Local Hispanic leader empowers Baltimore youth to prevent intimate partner violence https://www.cbsnews.com/baltimore/news/hispanic-leader-empowers-baltimore-youth-prevent-partner-violence/",
+          "chars": 107
+        },
+        "bluesky": {
+          "text": "Local Hispanic leader empowers Baltimore youth to prevent intimate partner violence https://www.cbsnews.com/baltimore/news/hispanic-leader-empowers-baltimore-youth-prevent-partner-violence/",
+          "chars": 189
+        }
+      }
+    },
+    {
+      "id": 1264,
+      "date": "2026-10-09",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Ele mudou o mundo dos transplantes de órgãos",
+      "has_text": true,
+      "url": "https://ocapixaba.com.br/saude/2026/10/ele-mudou-o-mundo-dos-transplantes-de-orgaos/",
+      "source": "O Capixaba",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Ele mudou o mundo dos transplantes de órgãos https://ocapixaba.com.br/saude/2026/10/ele-mudou-o-mundo-dos-transplantes-de-orgaos/",
+          "chars": 68
+        },
+        "bluesky": {
+          "text": "Ele mudou o mundo dos transplantes de órgãos https://ocapixaba.com.br/saude/2026/10/ele-mudou-o-mundo-dos-transplantes-de-orgaos/",
+          "chars": 129
+        }
+      }
+    },
+    {
+      "id": 1263,
+      "date": "2026-10-09",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "When Medical Education Institutions Make People Sick",
+      "has_text": true,
+      "url": "https://medium.com/@helenamica/when-medical-education-institutions-make-people-sick-1c406ac11d79",
+      "source": "Medium",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "When Medical Education Institutions Make People Sick https://medium.com/@helenamica/when-medical-education-institutions-make-people-sick-1c406ac11d79",
+          "chars": 76
+        },
+        "bluesky": {
+          "text": "When Medical Education Institutions Make People Sick https://medium.com/@helenamica/when-medical-education-institutions-make-people-sick-1c406ac11d79",
+          "chars": 149
+        }
+      }
+    },
+    {
+      "id": 1262,
+      "date": "2026-10-09",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "L’illusione dei rilevatori di IA e il ritorno all’umano nell’università, by Rafael Julivert Ramírez",
+      "has_text": true,
+      "url": "https://masticadoresitalia.com/2026/10/10/lillusione-dei-rilevatori-di-ia-e-il-ritorno-allumano-nelluniversita-by-rafael-julivert-ramirez/",
+      "source": "masticadoresitalia.com",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "L’illusione dei rilevatori di IA e il ritorno all’umano nell’università, by Rafael Julivert Ramírez https://masticadoresitalia.com/2026/10/10/lillusione-dei-rilevatori-di-ia-e-il-ritorno-allumano-nelluniversita-by-rafael-julivert-ramirez/",
+          "chars": 123
+        },
+        "bluesky": {
+          "text": "L’illusione dei rilevatori di IA e il ritorno all’umano nell’università, by Rafael Julivert Ramírez https://masticadoresitalia.com/2026/10/10/lillusione-dei-rilevatori-di-ia-e-il-ritorno-allumano-nelluniversita-by-rafael-julivert-ramirez/",
+          "chars": 238
+        }
+      }
+    },
+    {
+      "id": 1261,
+      "date": "2026-10-09",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "John Dewey",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/John_Dewey",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "John Dewey https://en.wikipedia.org/wiki/John_Dewey",
+          "chars": 34
+        },
+        "bluesky": {
+          "text": "John Dewey https://en.wikipedia.org/wiki/John_Dewey",
+          "chars": 51
+        }
+      }
+    },
+    {
+      "id": 1255,
+      "date": "2026-10-09",
+      "week_start": "2026-10-05",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": null,
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1254,
+      "date": "2026-10-09",
+      "week_start": "2026-10-05",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "News with Nuance: Oct. 9, 2026",
+      "has_text": true,
+      "url": "https://angeladenker.substack.com/p/news-with-nuance-oct-9-2026",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "News with Nuance: Oct. 9, 2026 https://angeladenker.substack.com/p/news-with-nuance-oct-9-2026",
+          "chars": 54
+        },
+        "bluesky": {
+          "text": "News with Nuance: Oct. 9, 2026 https://angeladenker.substack.com/p/news-with-nuance-oct-9-2026",
+          "chars": 94
+        }
+      }
+    },
+    {
+      "id": 1253,
+      "date": "2026-10-09",
+      "week_start": "2026-10-05",
+      "person_id": "adam-seth-levine",
+      "person": "Adam Seth Levine",
+      "is_ces": false,
+      "title": "Policy Makers' Unmet Desire for Science - Adam Seth Levine, PhD",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=p_saD4ziiBU",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Policy Makers' Unmet Desire for Science - Adam Seth Levine, PhD https://www.youtube.com/watch?v=p_saD4ziiBU",
+          "chars": 87
+        },
+        "bluesky": {
+          "text": "Policy Makers' Unmet Desire for Science - Adam Seth Levine, PhD https://www.youtube.com/watch?v=p_saD4ziiBU",
+          "chars": 107
+        }
+      }
+    },
     {
       "id": 1226,
       "date": "2026-10-09",

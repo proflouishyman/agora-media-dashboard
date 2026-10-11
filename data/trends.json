@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-09T09:52:32-04:00",
+  "generated_at": "2026-10-11T13:48:57-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-10-09"
+    "end": "2026-10-11"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 1239,
-        "in_digest": 347,
-        "reach_proxy": 4745,
+        "mentions": 1276,
+        "in_digest": 353,
+        "reach_proxy": 4800,
         "people_covered": 101,
         "people_tracked": 100,
-        "sources": 542,
+        "sources": 555,
         "negative": 11
       },
       "deltas": {
@@ -733,8 +733,22 @@
         },
         {
           "date": "2026-10-09",
-          "count": 1,
-          "reach": 1,
+          "count": 17,
+          "reach": 29,
+          "in_digest": 4,
+          "observed": true
+        },
+        {
+          "date": "2026-10-10",
+          "count": 19,
+          "reach": 25,
+          "in_digest": 2,
+          "observed": true
+        },
+        {
+          "date": "2026-10-11",
+          "count": 2,
+          "reach": 2,
           "in_digest": 0,
           "observed": true
         }
@@ -924,37 +938,37 @@
         },
         {
           "week_start": "2026-10-05",
-          "count": 111,
-          "reach": 615,
-          "in_digest": 26,
-          "people": 20,
+          "count": 148,
+          "reach": 670,
+          "in_digest": 32,
+          "people": 23,
           "sentiment": {
-            "positive": 5,
-            "neutral": 8,
+            "positive": 7,
+            "neutral": 9,
             "negative": 0,
-            "unknown": 98
+            "unknown": 132
           }
         }
       ],
       "sentiment": {
-        "positive": 106,
-        "neutral": 180,
+        "positive": 108,
+        "neutral": 181,
         "negative": 11,
-        "unknown": 942
+        "unknown": 976
       },
       "top_people": [
         {
           "person_id": "johns-hopkins",
           "name": "Johns Hopkins",
-          "count": 379,
-          "reach": 2417,
+          "count": 405,
+          "reach": 2446,
           "is_ces": false
         },
         {
           "person_id": "snf-agora-institute",
           "name": "SNF Agora Institute",
-          "count": 113,
-          "reach": 222,
+          "count": 115,
+          "reach": 224,
           "is_ces": false
         },
         {
@@ -967,23 +981,23 @@
         {
           "person_id": "anne-applebaum",
           "name": "Anne Applebaum",
-          "count": 71,
-          "reach": 329,
-          "is_ces": false
-        },
-        {
-          "person_id": "yascha-mounk",
-          "name": "Yascha Mounk",
-          "count": 44,
-          "reach": 225,
+          "count": 72,
+          "reach": 330,
           "is_ces": false
         },
         {
           "person_id": "henry-farrell",
           "name": "Henry Farrell",
-          "count": 42,
-          "reach": 74,
+          "count": 45,
+          "reach": 87,
           "is_ces": true
+        },
+        {
+          "person_id": "yascha-mounk",
+          "name": "Yascha Mounk",
+          "count": 45,
+          "reach": 226,
+          "is_ces": false
         },
         {
           "person_id": "sean-carroll",
@@ -1017,14 +1031,14 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 215,
-          "reach": 1356,
+          "count": 217,
+          "reach": 1358,
           "is_other": false
         },
         {
           "source": "Youtube",
-          "count": 76,
-          "reach": 74,
+          "count": 80,
+          "reach": 78,
           "is_other": false
         },
         {
@@ -1035,14 +1049,14 @@
         },
         {
           "source": "Springer",
-          "count": 36,
-          "reach": 36,
+          "count": 38,
+          "reach": 38,
           "is_other": false
         },
         {
           "source": "Substack",
-          "count": 29,
-          "reach": 33,
+          "count": 32,
+          "reach": 42,
           "is_other": false
         },
         {
@@ -1059,33 +1073,33 @@
         },
         {
           "source": "wordpress.com",
-          "count": 19,
-          "reach": 17,
+          "count": 21,
+          "reach": 19,
           "is_other": false
         },
         {
           "source": "Other",
-          "count": 774,
-          "reach": 3126,
+          "count": 798,
+          "reach": 3162,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 664
+          "count": 689
         },
         {
           "source_type": "social network",
-          "count": 223
+          "count": 228
         },
         {
           "source_type": "blog",
-          "count": 49
+          "count": 54
         },
         {
           "source_type": "unresolved",
-          "count": 303
+          "count": 305
         }
       ],
       "negative_stories": [
@@ -1109,18 +1123,18 @@
           "positive": 0,
           "neutral": 0,
           "negative": 0,
-          "unknown": 379,
-          "total": 379
+          "unknown": 405,
+          "total": 405
         },
         {
           "row_label": "SNF Agora Institute",
           "person_id": "snf-agora-institute",
           "is_ces": false,
           "positive": 23,
-          "neutral": 32,
+          "neutral": 33,
           "negative": 3,
-          "unknown": 55,
-          "total": 113
+          "unknown": 56,
+          "total": 115
         },
         {
           "row_label": "unknown",
@@ -1139,8 +1153,18 @@
           "positive": 11,
           "neutral": 16,
           "negative": 5,
-          "unknown": 39,
-          "total": 71
+          "unknown": 40,
+          "total": 72
+        },
+        {
+          "row_label": "Henry Farrell",
+          "person_id": "henry-farrell",
+          "is_ces": true,
+          "positive": 3,
+          "neutral": 14,
+          "negative": 0,
+          "unknown": 28,
+          "total": 45
         },
         {
           "row_label": "Yascha Mounk",
@@ -1149,18 +1173,8 @@
           "positive": 2,
           "neutral": 12,
           "negative": 1,
-          "unknown": 29,
-          "total": 44
-        },
-        {
-          "row_label": "Henry Farrell",
-          "person_id": "henry-farrell",
-          "is_ces": true,
-          "positive": 2,
-          "neutral": 14,
-          "negative": 0,
-          "unknown": 26,
-          "total": 42
+          "unknown": 30,
+          "total": 45
         },
         {
           "row_label": "Sean Carroll",
@@ -1203,6 +1217,16 @@
           "total": 25
         },
         {
+          "row_label": "Lilliana Mason",
+          "person_id": "lilliana-mason",
+          "is_ces": false,
+          "positive": 2,
+          "neutral": 5,
+          "negative": 0,
+          "unknown": 14,
+          "total": 21
+        },
+        {
           "row_label": "None (no captured text)",
           "person_id": "none-no-captured-text",
           "is_ces": false,
@@ -1221,16 +1245,6 @@
           "negative": 0,
           "unknown": 8,
           "total": 21
-        },
-        {
-          "row_label": "Lilliana Mason",
-          "person_id": "lilliana-mason",
-          "is_ces": false,
-          "positive": 2,
-          "neutral": 5,
-          "negative": 0,
-          "unknown": 13,
-          "total": 20
         },
         {
           "row_label": "Louis Hyman",
@@ -1289,8 +1303,8 @@
           "positive": 4,
           "neutral": 4,
           "negative": 0,
-          "unknown": 4,
-          "total": 12
+          "unknown": 5,
+          "total": 13
         },
         {
           "row_label": "Eugene Scott",
@@ -1310,6 +1324,16 @@
           "neutral": 2,
           "negative": 0,
           "unknown": 7,
+          "total": 9
+        },
+        {
+          "row_label": "Emily White",
+          "person_id": "emily-white",
+          "is_ces": false,
+          "positive": 1,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 8,
           "total": 9
         },
         {
@@ -1340,16 +1364,6 @@
           "neutral": 5,
           "negative": 0,
           "unknown": 3,
-          "total": 8
-        },
-        {
-          "row_label": "Emily White",
-          "person_id": "emily-white",
-          "is_ces": false,
-          "positive": 1,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 7,
           "total": 8
         },
         {
@@ -1623,6 +1637,16 @@
           "total": 3
         },
         {
+          "row_label": "Adam Seth Levine",
+          "person_id": "adam-seth-levine",
+          "is_ces": false,
+          "positive": 1,
+          "neutral": 1,
+          "negative": 0,
+          "unknown": 0,
+          "total": 2
+        },
+        {
           "row_label": "Andre Nogueira",
           "person_id": "andre-nogueira",
           "is_ces": false,
@@ -1710,16 +1734,6 @@
           "neutral": 0,
           "negative": 0,
           "unknown": 1,
-          "total": 1
-        },
-        {
-          "row_label": "Adam Seth Levine",
-          "person_id": "adam-seth-levine",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 1,
-          "negative": 0,
-          "unknown": 0,
           "total": 1
         },
         {
@@ -2116,35 +2130,35 @@
       "source_type_sentiment_crosstab": [
         {
           "row_label": "online news",
-          "positive": 34,
+          "positive": 35,
           "neutral": 112,
           "negative": 2,
-          "unknown": 516,
-          "total": 664
+          "unknown": 540,
+          "total": 689
         },
         {
           "row_label": "social network",
-          "positive": 44,
-          "neutral": 49,
+          "positive": 45,
+          "neutral": 50,
           "negative": 1,
-          "unknown": 129,
-          "total": 223
+          "unknown": 132,
+          "total": 228
         },
         {
           "row_label": "blog",
           "positive": 6,
           "neutral": 8,
           "negative": 0,
-          "unknown": 35,
-          "total": 49
+          "unknown": 40,
+          "total": 54
         },
         {
           "row_label": "unresolved",
           "positive": 22,
           "neutral": 11,
           "negative": 8,
-          "unknown": 262,
-          "total": 303
+          "unknown": 264,
+          "total": 305
         }
       ],
       "sentiment_examples": {
@@ -2306,6 +2320,26 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 1253,
+              "person": "Adam Seth Levine",
+              "person_id": "adam-seth-levine",
+              "is_ces": false,
+              "title": "Policy Makers' Unmet Desire for Science - Adam Seth Levine, PhD",
+              "url": "https://www.youtube.com/watch?v=p_saD4ziiBU",
+              "source": "Youtube",
+              "date": "2026-10-09"
+            },
+            {
+              "id": 1250,
+              "person": "Henry Farrell",
+              "person_id": "henry-farrell",
+              "is_ces": true,
+              "title": "Henry Farrell of Johns Hopkins Agora Comes to Berkeley: FOG & FLATLANDS",
+              "url": "https://braddelong.substack.com/p/henry-farrell-of-johns-hopkins-agora",
+              "source": "Substack",
+              "date": "2026-10-09"
+            },
             {
               "id": 1233,
               "person": "Scott Warren",
@@ -3414,12 +3448,12 @@
     },
     "ces": {
       "totals": {
-        "mentions": 114,
-        "in_digest": 80,
-        "reach_proxy": 189,
+        "mentions": 117,
+        "in_digest": 82,
+        "reach_proxy": 202,
         "people_covered": 11,
         "people_tracked": 17,
-        "sources": 64,
+        "sources": 65,
         "negative": 0
       },
       "deltas": {
@@ -4140,6 +4174,20 @@
         },
         {
           "date": "2026-10-09",
+          "count": 2,
+          "reach": 8,
+          "in_digest": 1,
+          "observed": true
+        },
+        {
+          "date": "2026-10-10",
+          "count": 1,
+          "reach": 5,
+          "in_digest": 1,
+          "observed": true
+        },
+        {
+          "date": "2026-10-11",
           "count": 0,
           "reach": 0,
           "in_digest": 0,
@@ -4331,30 +4379,30 @@
         },
         {
           "week_start": "2026-10-05",
-          "count": 5,
-          "reach": 5,
-          "in_digest": 5,
+          "count": 8,
+          "reach": 18,
+          "in_digest": 7,
           "people": 5,
           "sentiment": {
-            "positive": 1,
+            "positive": 2,
             "neutral": 2,
             "negative": 0,
-            "unknown": 2
+            "unknown": 4
           }
         }
       ],
       "sentiment": {
-        "positive": 17,
+        "positive": 18,
         "neutral": 35,
         "negative": 0,
-        "unknown": 62
+        "unknown": 64
       },
       "top_people": [
         {
           "person_id": "henry-farrell",
           "name": "Henry Farrell",
-          "count": 42,
-          "reach": 74,
+          "count": 45,
+          "reach": 87,
           "is_ces": true
         },
         {
@@ -4424,8 +4472,8 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 19,
-          "reach": 26,
+          "count": 20,
+          "reach": 27,
           "is_other": false
         },
         {
@@ -4447,13 +4495,13 @@
           "is_other": false
         },
         {
-          "source": "LinkedIn",
-          "count": 3,
-          "reach": 3,
+          "source": "Substack",
+          "count": 4,
+          "reach": 10,
           "is_other": false
         },
         {
-          "source": "Substack",
+          "source": "LinkedIn",
           "count": 3,
           "reach": 3,
           "is_other": false
@@ -4472,15 +4520,15 @@
         },
         {
           "source": "Other",
-          "count": 66,
-          "reach": 123,
+          "count": 67,
+          "reach": 128,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 58
+          "count": 60
         },
         {
           "source_type": "social network",
@@ -4492,7 +4540,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 32
+          "count": 33
         }
       ],
       "negative_stories": [],
@@ -4501,11 +4549,11 @@
           "row_label": "Henry Farrell",
           "person_id": "henry-farrell",
           "is_ces": true,
-          "positive": 2,
+          "positive": 3,
           "neutral": 14,
           "negative": 0,
-          "unknown": 26,
-          "total": 42
+          "unknown": 28,
+          "total": 45
         },
         {
           "row_label": "Yuen Yuen Ang",
@@ -4611,11 +4659,11 @@
       "source_type_sentiment_crosstab": [
         {
           "row_label": "online news",
-          "positive": 9,
+          "positive": 10,
           "neutral": 20,
           "negative": 0,
-          "unknown": 29,
-          "total": 58
+          "unknown": 30,
+          "total": 60
         },
         {
           "row_label": "social network",
@@ -4638,8 +4686,8 @@
           "positive": 3,
           "neutral": 1,
           "negative": 0,
-          "unknown": 28,
-          "total": 32
+          "unknown": 29,
+          "total": 33
         }
       ],
       "sentiment_examples": {
@@ -4649,6 +4697,16 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 1250,
+              "person": "Henry Farrell",
+              "person_id": "henry-farrell",
+              "is_ces": true,
+              "title": "Henry Farrell of Johns Hopkins Agora Comes to Berkeley: FOG & FLATLANDS",
+              "url": "https://braddelong.substack.com/p/henry-farrell-of-johns-hopkins-agora",
+              "source": "Substack",
+              "date": "2026-10-09"
+            },
             {
               "id": 1231,
               "person": "Louis Hyman",

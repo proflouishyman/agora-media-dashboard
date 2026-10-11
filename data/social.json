@@ -1,7 +1,79 @@
 {
-  "generated_at": "2026-10-09T09:52:32-04:00",
-  "count": 74,
+  "generated_at": "2026-10-11T13:48:57-04:00",
+  "count": 76,
   "picks": [
+    {
+      "id": 94,
+      "mention_id": 1278,
+      "digest_date": "2026-10-10",
+      "person": "SNF Agora Institute",
+      "person_id": "snf-agora-institute",
+      "person_ids": [
+        "snf-agora-institute"
+      ],
+      "is_ces": false,
+      "punchy_title": "Faith, Family, Freedom, Place: what conservative trust in government is built on",
+      "headline": "Faith, Family, Freedom, Place: what conservative trust in government is built on",
+      "pull_quote": "The study identified four foundational pillars—Faith, Family, Freedom, and Place",
+      "rationale": "The study identified four foundational pillars—Faith, Family, Freedom, and Place",
+      "url": "https://www.instagram.com/reel/DeUu4RSGgKy/",
+      "story_url": "https://www.instagram.com/reel/DeUu4RSGgKy/",
+      "created_at": "2026-10-11 11:06:18",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "How do conservatives judge whether government is legitimate? On Outrage Overload, SNF Agora's Sophia Winner explains our study's four pillars of trust: Faith, Family, Freedom and Place. https://www.instagram.com/reel/DeUu4RSGgKy/",
+          "chars": 229,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=How%20do%20conservatives%20judge%20whether%20government%20is%20legitimate%3F%20On%20Outrage%20Overload%2C%20SNF%20Agora%27s%20Sophia%20Winner%20explains%20our%20study%27s%20four%20pillars%20of%20trust%3A%20Faith%2C%20Family%2C%20Freedom%20and%20Place.%20https%3A//www.instagram.com/reel/DeUu4RSGgKy/"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "How do conservatives judge whether government is legitimate? On Outrage Overload, SNF Agora's Sophia Winner explains our ethnographic study's four pillars of trust: Faith, Family, Freedom and Place, and why appeals to procedure alone can miss. https://www.instagram.com/reel/DeUu4RSGgKy/",
+          "chars": 287,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=How%20do%20conservatives%20judge%20whether%20government%20is%20legitimate%3F%20On%20Outrage%20Overload%2C%20SNF%20Agora%27s%20Sophia%20Winner%20explains%20our%20ethnographic%20study%27s%20four%20pillars%20of%20trust%3A%20Faith%2C%20Family%2C%20Freedom%20and%20Place%2C%20and%20why%20appeals%20to%20procedure%20alone%20can%20miss.%20https%3A//www.instagram.com/reel/DeUu4RSGgKy/"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "mention_id": 1252,
+      "digest_date": "2026-10-09",
+      "person": "Scott Warren",
+      "person_id": "scott-warren",
+      "person_ids": [
+        "scott-warren"
+      ],
+      "is_ces": false,
+      "punchy_title": "Congress Isn't Broken by Accident: It's Following the Incentives",
+      "headline": "Congress Isn't Broken by Accident: It's Following the Incentives",
+      "pull_quote": "Ultimately, the Congress we get is the Congress we choose.",
+      "rationale": "Ultimately, the Congress we get is the Congress we choose.",
+      "url": "https://www.washingtonpost.com/ripple/2026/10/09/congressional-incentive-reform/",
+      "story_url": "https://www.washingtonpost.com/ripple/2026/10/09/congressional-incentive-reform/",
+      "created_at": "2026-10-10 11:13:20",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Why does Congress campaign instead of govern? SNF Agora's Scott Warren and AEI's Kevin Kosar argue it's rational: members respond to electoral incentives. To fix Congress, change the incentives. https://www.washingtonpost.com/ripple/2026/10/09/congressional-incentive-reform/",
+          "chars": 275,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Why%20does%20Congress%20campaign%20instead%20of%20govern%3F%20SNF%20Agora%27s%20Scott%20Warren%20and%20AEI%27s%20Kevin%20Kosar%20argue%20it%27s%20rational%3A%20members%20respond%20to%20electoral%20incentives.%20To%20fix%20Congress%2C%20change%20the%20incentives.%20https%3A//www.washingtonpost.com/ripple/2026/10/09/congressional-incentive-reform/"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Why does Congress campaign instead of govern? In The Washington Post, SNF Agora's Scott Warren and AEI's Kevin Kosar argue it's rational: members follow electoral incentives. To fix Congress, change the incentives. https://www.washingtonpost.com/ripple/2026/10/09/congressional-incentive-reform/",
+          "chars": 295,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Why%20does%20Congress%20campaign%20instead%20of%20govern%3F%20In%20The%20Washington%20Post%2C%20SNF%20Agora%27s%20Scott%20Warren%20and%20AEI%27s%20Kevin%20Kosar%20argue%20it%27s%20rational%3A%20members%20follow%20electoral%20incentives.%20To%20fix%20Congress%2C%20change%20the%20incentives.%20https%3A//www.washingtonpost.com/ripple/2026/10/09/congressional-incentive-reform/"
+        }
+      ]
+    },
     {
       "id": 92,
       "mention_id": 1231,

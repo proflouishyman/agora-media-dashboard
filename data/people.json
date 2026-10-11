@@ -9,16 +9,16 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 379,
+    "mentions_total": 405,
     "mentions_in_digest": 0,
-    "reach_proxy": 2417,
+    "reach_proxy": 2446,
     "first_mention_date": "2026-08-30",
-    "last_mention_date": "2026-10-09",
+    "last_mention_date": "2026-10-11",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
       "negative": 0,
-      "unknown": 379
+      "unknown": 405
     },
     "top_sources": [
       {
@@ -27,18 +27,18 @@
       },
       {
         "source": "Youtube",
-        "count": 31
+        "count": 34
       },
       {
         "source": "Springer",
-        "count": 18
-      },
-      {
-        "source": "Medical Xpress",
-        "count": 9
+        "count": 20
       },
       {
         "source": "N2O Records",
+        "count": 11
+      },
+      {
+        "source": "Medical Xpress",
         "count": 9
       }
     ],
@@ -100,8 +100,8 @@
       },
       {
         "week_start": "2026-10-05",
-        "count": 76,
-        "reach": 577
+        "count": 102,
+        "reach": 606
       }
     ]
   },
@@ -115,21 +115,21 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 113,
-    "mentions_in_digest": 44,
-    "reach_proxy": 222,
+    "mentions_total": 115,
+    "mentions_in_digest": 45,
+    "reach_proxy": 224,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-10-08",
+    "last_mention_date": "2026-10-10",
     "sentiment": {
       "positive": 23,
-      "neutral": 32,
+      "neutral": 33,
       "negative": 3,
-      "unknown": 55
+      "unknown": 56
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 34
+        "count": 35
       },
       {
         "source": "LinkedIn",
@@ -206,8 +206,8 @@
       },
       {
         "week_start": "2026-10-05",
-        "count": 12,
-        "reach": 13
+        "count": 14,
+        "reach": 15
       }
     ]
   },
@@ -329,16 +329,16 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 71,
+    "mentions_total": 72,
     "mentions_in_digest": 40,
-    "reach_proxy": 329,
+    "reach_proxy": 330,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-10-08",
+    "last_mention_date": "2026-10-11",
     "sentiment": {
       "positive": 11,
       "neutral": 16,
       "negative": 5,
-      "unknown": 39
+      "unknown": 40
     },
     "top_sources": [
       {
@@ -420,8 +420,116 @@
       },
       {
         "week_start": "2026-10-05",
+        "count": 5,
+        "reach": 6
+      }
+    ]
+  },
+  {
+    "id": "henry-farrell",
+    "name": "Henry Farrell",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Institute Professor of International Affairs at SAIS",
+    "profile_url": "https://snfagora.jhu.edu/directory/henry-farrell/",
+    "photo_url": null,
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": true,
+    "mentions_total": 45,
+    "mentions_in_digest": 33,
+    "reach_proxy": 87,
+    "first_mention_date": "2026-07-04",
+    "last_mention_date": "2026-10-10",
+    "sentiment": {
+      "positive": 3,
+      "neutral": 14,
+      "negative": 0,
+      "unknown": 28
+    },
+    "top_sources": [
+      {
+        "source": "The New York Times",
+        "count": 6
+      },
+      {
+        "source": "Youtube",
+        "count": 6
+      },
+      {
+        "source": "Twitter",
+        "count": 4
+      },
+      {
+        "source": "Folha de S.Paulo",
+        "count": 2
+      },
+      {
+        "source": "Internazionale",
+        "count": 2
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-20",
+        "count": 3,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 1,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 7,
+        "reach": 9
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 15,
+        "reach": 34
+      },
+      {
+        "week_start": "2026-09-07",
         "count": 4,
-        "reach": 5
+        "reach": 4
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 4,
+        "reach": 15
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 2,
+        "reach": 4
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 4,
+        "reach": 14
       }
     ]
   },
@@ -437,16 +545,16 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 44,
+    "mentions_total": 45,
     "mentions_in_digest": 16,
-    "reach_proxy": 225,
+    "reach_proxy": 226,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-10-06",
+    "last_mention_date": "2026-10-10",
     "sentiment": {
       "positive": 2,
       "neutral": 12,
       "negative": 1,
-      "unknown": 29
+      "unknown": 30
     },
     "top_sources": [
       {
@@ -528,116 +636,8 @@
       },
       {
         "week_start": "2026-10-05",
-        "count": 1,
-        "reach": 1
-      }
-    ]
-  },
-  {
-    "id": "henry-farrell",
-    "name": "Henry Farrell",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Institute Professor of International Affairs at SAIS",
-    "profile_url": "https://snfagora.jhu.edu/directory/henry-farrell/",
-    "photo_url": null,
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": true,
-    "mentions_total": 42,
-    "mentions_in_digest": 31,
-    "reach_proxy": 74,
-    "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-10-05",
-    "sentiment": {
-      "positive": 2,
-      "neutral": 14,
-      "negative": 0,
-      "unknown": 26
-    },
-    "top_sources": [
-      {
-        "source": "The New York Times",
-        "count": 6
-      },
-      {
-        "source": "Youtube",
-        "count": 6
-      },
-      {
-        "source": "Twitter",
-        "count": 3
-      },
-      {
-        "source": "Folha de S.Paulo",
-        "count": 2
-      },
-      {
-        "source": "Internazionale",
-        "count": 2
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-20",
-        "count": 3,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 1,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-08-17",
         "count": 2,
         "reach": 2
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 7,
-        "reach": 9
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 15,
-        "reach": 34
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 4,
-        "reach": 4
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 4,
-        "reach": 15
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 2,
-        "reach": 4
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 1,
-        "reach": 1
       }
     ]
   },
@@ -1072,6 +1072,114 @@
     ]
   },
   {
+    "id": "lilliana-mason",
+    "name": "Lilliana Mason",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Institute Professor of Political Science",
+    "profile_url": "https://snfagora.jhu.edu/directory/lilliana-mason/",
+    "photo_url": "images/people/lilliana-mason.jpeg",
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 21,
+    "mentions_in_digest": 15,
+    "reach_proxy": 55,
+    "first_mention_date": "2026-07-08",
+    "last_mention_date": "2026-10-09",
+    "sentiment": {
+      "positive": 2,
+      "neutral": 5,
+      "negative": 0,
+      "unknown": 14
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 5
+      },
+      {
+        "source": "Substack",
+        "count": 3
+      },
+      {
+        "source": "Bluesky",
+        "count": 2
+      },
+      {
+        "source": "Fior Reports",
+        "count": 1
+      },
+      {
+        "source": "Heinrich Böll Foundation (calendar.boell.de)",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 1,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 3,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 5,
+        "reach": 9
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 4,
+        "reach": 4
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "none-no-captured-text",
     "name": "None (no captured text)",
     "kind": "unmatched",
@@ -1277,114 +1385,6 @@
         "week_start": "2026-09-28",
         "count": 5,
         "reach": 5
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "lilliana-mason",
-    "name": "Lilliana Mason",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Institute Professor of Political Science",
-    "profile_url": "https://snfagora.jhu.edu/directory/lilliana-mason/",
-    "photo_url": "images/people/lilliana-mason.jpeg",
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 20,
-    "mentions_in_digest": 14,
-    "reach_proxy": 54,
-    "first_mention_date": "2026-07-08",
-    "last_mention_date": "2026-10-02",
-    "sentiment": {
-      "positive": 2,
-      "neutral": 5,
-      "negative": 0,
-      "unknown": 13
-    },
-    "top_sources": [
-      {
-        "source": "Twitter",
-        "count": 5
-      },
-      {
-        "source": "Bluesky",
-        "count": 2
-      },
-      {
-        "source": "Substack",
-        "count": 2
-      },
-      {
-        "source": "Fior Reports",
-        "count": 1
-      },
-      {
-        "source": "Heinrich Böll Foundation (calendar.boell.de)",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 1,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 3,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 5,
-        "reach": 9
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 4,
-        "reach": 4
       },
       {
         "week_start": "2026-10-05",
@@ -1935,16 +1935,16 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 12,
-    "mentions_in_digest": 10,
-    "reach_proxy": 16,
+    "mentions_total": 13,
+    "mentions_in_digest": 11,
+    "reach_proxy": 22,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-10-08",
+    "last_mention_date": "2026-10-09",
     "sentiment": {
       "positive": 4,
       "neutral": 4,
       "negative": 0,
-      "unknown": 4
+      "unknown": 5
     },
     "top_sources": [
       {
@@ -2026,8 +2026,8 @@
       },
       {
         "week_start": "2026-10-05",
-        "count": 1,
-        "reach": 1
+        "count": 2,
+        "reach": 7
       }
     ]
   },
@@ -2244,6 +2244,110 @@
         "week_start": "2026-10-05",
         "count": 2,
         "reach": 2
+      }
+    ]
+  },
+  {
+    "id": "emily-white",
+    "name": "Emily White",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Fellow, Impact Concerts & Data",
+    "profile_url": "https://snfagora.jhu.edu/directory/emily-white/",
+    "photo_url": "images/people/emily-white.jpeg",
+    "categories": [
+      "Continuing Faculty + Fellows"
+    ],
+    "is_ces": false,
+    "mentions_total": 9,
+    "mentions_in_digest": 2,
+    "reach_proxy": 9,
+    "first_mention_date": "2026-07-17",
+    "last_mention_date": "2026-10-10",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 8
+    },
+    "top_sources": [
+      {
+        "source": "WAND-TV",
+        "count": 5
+      },
+      {
+        "source": "The Berkshire Edge",
+        "count": 2
+      },
+      {
+        "source": "LinkedIn",
+        "count": 1
+      },
+      {
+        "source": "Substack (Friday Power Lunch)",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-20",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 3,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -2566,110 +2670,6 @@
         "week_start": "2026-10-05",
         "count": 1,
         "reach": 1
-      }
-    ]
-  },
-  {
-    "id": "emily-white",
-    "name": "Emily White",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Fellow, Impact Concerts & Data",
-    "profile_url": "https://snfagora.jhu.edu/directory/emily-white/",
-    "photo_url": "images/people/emily-white.jpeg",
-    "categories": [
-      "Continuing Faculty + Fellows"
-    ],
-    "is_ces": false,
-    "mentions_total": 8,
-    "mentions_in_digest": 2,
-    "reach_proxy": 8,
-    "first_mention_date": "2026-07-17",
-    "last_mention_date": "2026-09-26",
-    "sentiment": {
-      "positive": 1,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 7
-    },
-    "top_sources": [
-      {
-        "source": "WAND-TV",
-        "count": 4
-      },
-      {
-        "source": "The Berkshire Edge",
-        "count": 2
-      },
-      {
-        "source": "LinkedIn",
-        "count": 1
-      },
-      {
-        "source": "Substack (Friday Power Lunch)",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-20",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 3,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
       }
     ]
   },
@@ -5424,6 +5424,102 @@
     ]
   },
   {
+    "id": "adam-seth-levine",
+    "name": "Adam Seth Levine",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Professor of Health Policy and Management",
+    "profile_url": "https://snfagora.jhu.edu/directory/adam-seth-levine/",
+    "photo_url": "images/people/adam-seth-levine.jpg",
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 2,
+    "mentions_in_digest": 2,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-07-21",
+    "last_mention_date": "2026-10-09",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0,
+      "unknown": 0
+    },
+    "top_sources": [
+      {
+        "source": "Baltimore Fishbowl",
+        "count": 1
+      },
+      {
+        "source": "Youtube",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-20",
+        "count": 1,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "andre-nogueira",
     "name": "Andre Nogueira",
     "kind": "unmatched",
@@ -6217,98 +6313,6 @@
         "week_start": "2026-08-17",
         "count": 1,
         "reach": 1
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "adam-seth-levine",
-    "name": "Adam Seth Levine",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Professor of Health Policy and Management",
-    "profile_url": "https://snfagora.jhu.edu/directory/adam-seth-levine/",
-    "photo_url": "images/people/adam-seth-levine.jpg",
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 1,
-    "mentions_in_digest": 1,
-    "reach_proxy": 0,
-    "first_mention_date": "2026-07-21",
-    "last_mention_date": "2026-07-21",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 1,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [
-      {
-        "source": "Baltimore Fishbowl",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-20",
-        "count": 1,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
       },
       {
         "week_start": "2026-08-24",
