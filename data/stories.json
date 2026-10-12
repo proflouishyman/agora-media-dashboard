@@ -1,7 +1,275 @@
 {
-  "generated_at": "2026-10-11T13:48:57-04:00",
-  "count": 1276,
+  "generated_at": "2026-10-12T07:05:56-04:00",
+  "count": 1287,
   "stories": [
+    {
+      "id": 1287,
+      "date": "2026-10-12",
+      "week_start": "2026-10-12",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Acne na vida adulta: por que as espinhas aparecem depois dos 30 anos e como tratar?",
+      "has_text": true,
+      "url": "https://g1.globo.com/saude/noticia/2026/10/12/acne-na-vida-adulta-por-que-as-espinhas-aparecem-depois-dos-30-anos-e-como-tratar.ghtml",
+      "source": "G1",
+      "source_type": "online news",
+      "similar_mention_count": 4,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Acne na vida adulta: por que as espinhas aparecem depois dos 30 anos e como tratar? https://g1.globo.com/saude/noticia/2026/10/12/acne-na-vida-adulta-por-que-as-espinhas-aparecem-depois-dos-30-anos-e-como-tratar.ghtml",
+          "chars": 107
+        },
+        "bluesky": {
+          "text": "Acne na vida adulta: por que as espinhas aparecem depois dos 30 anos e como tratar? https://g1.globo.com/saude/noticia/2026/10/12/acne-na-vida-adulta-por-que-as-espinhas-aparecem-depois-dos-30-anos-e-como-tratar.ghtml",
+          "chars": 217
+        }
+      }
+    },
+    {
+      "id": 1289,
+      "date": "2026-10-12",
+      "week_start": "2026-10-12",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "The emancipation of technology as a subject: teachers’ views of technology content in secondary education",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s10798-026-10131-5",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The emancipation of technology as a subject: teachers’ views of technology content in secondary education https://link.springer.com/article/10.1007/s10798-026-10131-5",
+          "chars": 129
+        },
+        "bluesky": {
+          "text": "The emancipation of technology as a subject: teachers’ views of technology content in secondary education https://link.springer.com/article/10.1007/s10798-026-10131-5",
+          "chars": 166
+        }
+      }
+    },
+    {
+      "id": 1288,
+      "date": "2026-10-12",
+      "week_start": "2026-10-12",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "Why Are We Broke? Both Sides Blame The Elites! -So why do we fight each other?",
+      "has_text": true,
+      "url": "https://gcoleman86.substack.com/p/why-are-we-broke-both-sides-blame",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Why Are We Broke? Both Sides Blame The Elites! -So why do we fight each other? https://gcoleman86.substack.com/p/why-are-we-broke-both-sides-blame",
+          "chars": 102
+        },
+        "bluesky": {
+          "text": "Why Are We Broke? Both Sides Blame The Elites! -So why do we fight each other? https://gcoleman86.substack.com/p/why-are-we-broke-both-sides-blame",
+          "chars": 146
+        }
+      }
+    },
+    {
+      "id": 1297,
+      "date": "2026-10-11",
+      "week_start": "2026-10-05",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1296,
+      "date": "2026-10-11",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries",
+      "has_text": true,
+      "url": "https://medicalxpress.com/news/2026-10-high-blood-pressure-500k-cvd.html",
+      "source": "Medical Xpress",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries https://medicalxpress.com/news/2026-10-high-blood-pressure-500k-cvd.html",
+          "chars": 108
+        },
+        "bluesky": {
+          "text": "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries https://medicalxpress.com/news/2026-10-high-blood-pressure-500k-cvd.html",
+          "chars": 157
+        }
+      }
+    },
+    {
+      "id": 1295,
+      "date": "2026-10-11",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "University of Michigan",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/University_of_Michigan",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "University of Michigan https://en.wikipedia.org/wiki/University_of_Michigan",
+          "chars": 46
+        },
+        "bluesky": {
+          "text": "University of Michigan https://en.wikipedia.org/wiki/University_of_Michigan",
+          "chars": 75
+        }
+      }
+    },
+    {
+      "id": 1294,
+      "date": "2026-10-11",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1293,
+      "date": "2026-10-11",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "TOP 20 MEDICAL SCHOOLS IN THE WORLD 2026",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=PhYe_RMc3K4",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "TOP 20 MEDICAL SCHOOLS IN THE WORLD 2026 https://www.youtube.com/watch?v=PhYe_RMc3K4",
+          "chars": 64
+        },
+        "bluesky": {
+          "text": "TOP 20 MEDICAL SCHOOLS IN THE WORLD 2026 https://www.youtube.com/watch?v=PhYe_RMc3K4",
+          "chars": 84
+        }
+      }
+    },
+    {
+      "id": 1292,
+      "date": "2026-10-11",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Why AI is forcing B-schools to rethink the MBA blueprint",
+      "has_text": true,
+      "url": "https://www.financialexpress.com/jobs-career/education/why-ai-is-forcing-b-schools-to-rethink-the-mba-blueprint/4358837/",
+      "source": "The Financial Express",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Why AI is forcing B-schools to rethink the MBA blueprint https://www.financialexpress.com/jobs-career/education/why-ai-is-forcing-b-schools-to-rethink-the-mba-blueprint/4358837/",
+          "chars": 80
+        },
+        "bluesky": {
+          "text": "Why AI is forcing B-schools to rethink the MBA blueprint https://www.financialexpress.com/jobs-career/education/why-ai-is-forcing-b-schools-to-rethink-the-mba-blueprint/4358837/",
+          "chars": 177
+        }
+      }
+    },
+    {
+      "id": 1291,
+      "date": "2026-10-11",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "The 10 Best Universities in America (2026 Official Ranking)",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=IePhkMNohYg",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The 10 Best Universities in America (2026 Official Ranking) https://www.youtube.com/watch?v=IePhkMNohYg",
+          "chars": 83
+        },
+        "bluesky": {
+          "text": "The 10 Best Universities in America (2026 Official Ranking) https://www.youtube.com/watch?v=IePhkMNohYg",
+          "chars": 103
+        }
+      }
+    },
+    {
+      "id": 1290,
+      "date": "2026-10-11",
+      "week_start": "2026-10-05",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/taiwan/comments/1x32132/comment/pfdpi7g/",
+      "source": "reddit.com/r/taiwan",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " https://www.reddit.com/r/taiwan/comments/1x32132/comment/pfdpi7g/",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://www.reddit.com/r/taiwan/comments/1x32132/comment/pfdpi7g/",
+          "chars": 66
+        }
+      }
+    },
     {
       "id": 1272,
       "date": "2026-10-11",
