@@ -9,29 +9,29 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 414,
+    "mentions_total": 431,
     "mentions_in_digest": 0,
-    "reach_proxy": 2458,
+    "reach_proxy": 2478,
     "first_mention_date": "2026-08-30",
-    "last_mention_date": "2026-10-12",
+    "last_mention_date": "2026-10-13",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
       "negative": 0,
-      "unknown": 414
+      "unknown": 431
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 65
+        "count": 66
       },
       {
         "source": "Youtube",
-        "count": 36
+        "count": 38
       },
       {
         "source": "Springer",
-        "count": 21
+        "count": 24
       },
       {
         "source": "N2O Records",
@@ -39,7 +39,7 @@
       },
       {
         "source": "Medical Xpress",
-        "count": 10
+        "count": 11
       }
     ],
     "weekly": [
@@ -100,8 +100,8 @@
       },
       {
         "week_start": "2026-10-12",
-        "count": 2,
-        "reach": 5
+        "count": 19,
+        "reach": 25
       }
     ]
   },
@@ -115,21 +115,21 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 115,
+    "mentions_total": 116,
     "mentions_in_digest": 45,
-    "reach_proxy": 224,
+    "reach_proxy": 225,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-10-10",
+    "last_mention_date": "2026-10-13",
     "sentiment": {
       "positive": 23,
       "neutral": 33,
       "negative": 3,
-      "unknown": 56
+      "unknown": 57
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 35
+        "count": 36
       },
       {
         "source": "LinkedIn",
@@ -206,8 +206,8 @@
       },
       {
         "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -329,21 +329,21 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 73,
-    "mentions_in_digest": 40,
-    "reach_proxy": 331,
+    "mentions_total": 77,
+    "mentions_in_digest": 42,
+    "reach_proxy": 335,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-10-11",
+    "last_mention_date": "2026-10-13",
     "sentiment": {
       "positive": 11,
       "neutral": 16,
       "negative": 5,
-      "unknown": 41
+      "unknown": 45
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 13
+        "count": 15
       },
       {
         "source": "Substack",
@@ -420,8 +420,8 @@
       },
       {
         "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
+        "count": 4,
+        "reach": 4
       }
     ]
   },
@@ -975,21 +975,21 @@
       "Core Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 25,
-    "mentions_in_digest": 13,
-    "reach_proxy": 362,
+    "mentions_total": 27,
+    "mentions_in_digest": 14,
+    "reach_proxy": 364,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-10-02",
+    "last_mention_date": "2026-10-13",
     "sentiment": {
       "positive": 11,
       "neutral": 3,
       "negative": 0,
-      "unknown": 11
+      "unknown": 13
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 9
+        "count": 10
       },
       {
         "source": "YouTube",
@@ -1066,8 +1066,8 @@
       },
       {
         "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
+        "count": 2,
+        "reach": 2
       }
     ]
   },
@@ -1083,16 +1083,16 @@
       "Core Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 22,
-    "mentions_in_digest": 16,
-    "reach_proxy": 56,
+    "mentions_total": 25,
+    "mentions_in_digest": 18,
+    "reach_proxy": 66,
     "first_mention_date": "2026-07-08",
-    "last_mention_date": "2026-10-12",
+    "last_mention_date": "2026-10-13",
     "sentiment": {
-      "positive": 2,
+      "positive": 4,
       "neutral": 5,
       "negative": 0,
-      "unknown": 15
+      "unknown": 16
     },
     "top_sources": [
       {
@@ -1174,8 +1174,8 @@
       },
       {
         "week_start": "2026-10-12",
-        "count": 1,
-        "reach": 1
+        "count": 4,
+        "reach": 11
       }
     ]
   },
@@ -1513,21 +1513,21 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 15,
-    "mentions_in_digest": 8,
-    "reach_proxy": 32,
+    "mentions_total": 18,
+    "mentions_in_digest": 9,
+    "reach_proxy": 35,
     "first_mention_date": "2026-08-12",
-    "last_mention_date": "2026-10-07",
+    "last_mention_date": "2026-10-13",
     "sentiment": {
       "positive": 3,
       "neutral": 0,
       "negative": 0,
-      "unknown": 12
+      "unknown": 15
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 6
+        "count": 8
       },
       {
         "source": "Youtube",
@@ -1604,8 +1604,8 @@
       },
       {
         "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
+        "count": 3,
+        "reach": 3
       }
     ]
   },
@@ -4438,6 +4438,106 @@
     ]
   },
   {
+    "id": "adam-seth-levine",
+    "name": "Adam Seth Levine",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Professor of Health Policy and Management",
+    "profile_url": "https://snfagora.jhu.edu/directory/adam-seth-levine/",
+    "photo_url": "images/people/adam-seth-levine.jpg",
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 3,
+    "mentions_in_digest": 3,
+    "reach_proxy": 2,
+    "first_mention_date": "2026-07-21",
+    "last_mention_date": "2026-10-12",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Baltimore Fishbowl",
+        "count": 1
+      },
+      {
+        "source": "The Hub",
+        "count": 1
+      },
+      {
+        "source": "Youtube",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "andre-nogueira",
     "name": "André Nogueira",
     "kind": "faculty",
@@ -5415,102 +5515,6 @@
         "week_start": "2026-10-05",
         "count": 0,
         "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "adam-seth-levine",
-    "name": "Adam Seth Levine",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Professor of Health Policy and Management",
-    "profile_url": "https://snfagora.jhu.edu/directory/adam-seth-levine/",
-    "photo_url": "images/people/adam-seth-levine.jpg",
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 2,
-    "mentions_in_digest": 2,
-    "reach_proxy": 1,
-    "first_mention_date": "2026-07-21",
-    "last_mention_date": "2026-10-09",
-    "sentiment": {
-      "positive": 1,
-      "neutral": 1,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [
-      {
-        "source": "Baltimore Fishbowl",
-        "count": 1
-      },
-      {
-        "source": "Youtube",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 1,
-        "reach": 1
       },
       {
         "week_start": "2026-10-12",
@@ -7074,6 +7078,98 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "consuelo-amat",
+    "name": "Consuelo Amat",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Institute Assistant Professor of Political Science",
+    "profile_url": "https://snfagora.jhu.edu/directory/consuelo-amat/",
+    "photo_url": null,
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 1,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-10-12",
+    "last_mention_date": "2026-10-12",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "The Hub",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -10508,93 +10604,6 @@
     "photo_url": null,
     "categories": [
       "Affiliated Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 0,
-    "mentions_in_digest": 0,
-    "reach_proxy": 0,
-    "first_mention_date": null,
-    "last_mention_date": null,
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [],
-    "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "consuelo-amat",
-    "name": "Consuelo Amat",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Institute Assistant Professor of Political Science",
-    "profile_url": "https://snfagora.jhu.edu/directory/consuelo-amat/",
-    "photo_url": null,
-    "categories": [
-      "Core Faculty"
     ],
     "is_ces": false,
     "mentions_total": 0,

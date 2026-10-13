@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-10-12T07:05:56-04:00",
-  "count": 76,
+  "generated_at": "2026-10-13T07:07:09-04:00",
+  "count": 77,
   "picks": [
+    {
+      "id": 95,
+      "mention_id": 1298,
+      "digest_date": "2026-10-13",
+      "person": "Lilliana Mason",
+      "person_id": "lilliana-mason",
+      "person_ids": [
+        "lilliana-mason"
+      ],
+      "is_ces": false,
+      "punchy_title": "Lilliana Mason in the Times: Polarization Isn't the Disease, It's the Immune Response",
+      "headline": "Lilliana Mason in the Times: Polarization Isn't the Disease, It's the Immune Response",
+      "pull_quote": "Lilliana Mason, a political scientist at Johns Hopkins University and the author of the groundbreaking 2018 book \"Uncivil Agreement,\" is a prime exemplar of this shift.",
+      "rationale": "Lilliana Mason, a political scientist at Johns Hopkins University and the author of the groundbreaking 2018 book \"Uncivil Agreement,\" is a prime exemplar of this shift.",
+      "url": "https://www.nytimes.com/2026/10/13/opinion/trump-democracy-political-polarization.html",
+      "story_url": "https://www.nytimes.com/2026/10/13/opinion/trump-democracy-political-polarization.html",
+      "created_at": "2026-10-13 11:07:04",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Thomas Edsall's NYT column centers SNF Agora's Lilliana Mason: polarization is less the disease than democracy's immune response to an antidemocratic movement. https://www.nytimes.com/2026/10/13/opinion/trump-democracy-political-polarization.html",
+          "chars": 246,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Thomas%20Edsall%27s%20NYT%20column%20centers%20SNF%20Agora%27s%20Lilliana%20Mason%3A%20polarization%20is%20less%20the%20disease%20than%20democracy%27s%20immune%20response%20to%20an%20antidemocratic%20movement.%20https%3A//www.nytimes.com/2026/10/13/opinion/trump-democracy-political-polarization.html"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Thomas Edsall's New York Times column centers SNF Agora's Lilliana Mason and her argument that polarization is less the disease than \"democracy's immune response\" to an antidemocratic movement. https://www.nytimes.com/2026/10/13/opinion/trump-democracy-political-polarization.html",
+          "chars": 280,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Thomas%20Edsall%27s%20New%20York%20Times%20column%20centers%20SNF%20Agora%27s%20Lilliana%20Mason%20and%20her%20argument%20that%20polarization%20is%20less%20the%20disease%20than%20%22democracy%27s%20immune%20response%22%20to%20an%20antidemocratic%20movement.%20https%3A//www.nytimes.com/2026/10/13/opinion/trump-democracy-political-polarization.html"
+        }
+      ]
+    },
     {
       "id": 94,
       "mention_id": 1278,

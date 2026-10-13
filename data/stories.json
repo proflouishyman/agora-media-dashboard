@@ -1,7 +1,283 @@
 {
-  "generated_at": "2026-10-12T07:05:56-04:00",
-  "count": 1287,
+  "generated_at": "2026-10-13T07:07:09-04:00",
+  "count": 1319,
   "stories": [
+    {
+      "id": 1298,
+      "date": "2026-10-13",
+      "week_start": "2026-10-12",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "What if Political Polarization Is Not the Disease but the Cure?",
+      "has_text": true,
+      "url": "https://www.nytimes.com/2026/10/13/opinion/trump-democracy-political-polarization.html",
+      "source": "The New York Times",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "What if Political Polarization Is Not the Disease but the Cure? https://www.nytimes.com/2026/10/13/opinion/trump-democracy-political-polarization.html",
+          "chars": 87
+        },
+        "bluesky": {
+          "text": "What if Political Polarization Is Not the Disease but the Cure? https://www.nytimes.com/2026/10/13/opinion/trump-democracy-political-polarization.html",
+          "chars": 150
+        }
+      }
+    },
+    {
+      "id": 1318,
+      "date": "2026-10-13",
+      "week_start": "2026-10-12",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Narrative Medicine: Crossing Health Humanities Cultures in China, France, and Italy",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s10912-026-10068-9",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Narrative Medicine: Crossing Health Humanities Cultures in China, France, and Italy https://link.springer.com/article/10.1007/s10912-026-10068-9",
+          "chars": 107
+        },
+        "bluesky": {
+          "text": "Narrative Medicine: Crossing Health Humanities Cultures in China, France, and Italy https://link.springer.com/article/10.1007/s10912-026-10068-9",
+          "chars": 144
+        }
+      }
+    },
+    {
+      "id": 1317,
+      "date": "2026-10-13",
+      "week_start": "2026-10-12",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Colleges are cutting administrative jobs — and critics say that’s a good thing",
+      "has_text": true,
+      "url": "https://hechingerreport.org/colleges-are-cutting-administrative-jobs-and-critics-say-thats-a-good-thing/",
+      "source": "The Hechinger Report",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Colleges are cutting administrative jobs — and critics say that’s a good thing https://hechingerreport.org/colleges-are-cutting-administrative-jobs-and-critics-say-thats-a-good-thing/",
+          "chars": 102
+        },
+        "bluesky": {
+          "text": "Colleges are cutting administrative jobs — and critics say that’s a good thing https://hechingerreport.org/colleges-are-cutting-administrative-jobs-and-critics-say-thats-a-good-thing/",
+          "chars": 183
+        }
+      }
+    },
+    {
+      "id": 1316,
+      "date": "2026-10-13",
+      "week_start": "2026-10-12",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Can Daniel Weiss Fix the Philadelphia Museum of Art?",
+      "has_text": true,
+      "url": "https://www.artnews.com/art-news/news/daniel-weiss-philadelphia-museum-of-art-profile-1234801904/",
+      "source": "ARTnews",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Can Daniel Weiss Fix the Philadelphia Museum of Art? https://www.artnews.com/art-news/news/daniel-weiss-philadelphia-museum-of-art-profile-1234801904/",
+          "chars": 76
+        },
+        "bluesky": {
+          "text": "Can Daniel Weiss Fix the Philadelphia Museum of Art? https://www.artnews.com/art-news/news/daniel-weiss-philadelphia-museum-of-art-profile-1234801904/",
+          "chars": 150
+        }
+      }
+    },
+    {
+      "id": 1315,
+      "date": "2026-10-13",
+      "week_start": "2026-10-12",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Discipline, Race, and Equity: A Quantitative Study of In-School Suspension Among Black Students",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s12111-026-09744-w",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Discipline, Race, and Equity: A Quantitative Study of In-School Suspension Among Black Students https://link.springer.com/article/10.1007/s12111-026-09744-w",
+          "chars": 119
+        },
+        "bluesky": {
+          "text": "Discipline, Race, and Equity: A Quantitative Study of In-School Suspension Among Black Students https://link.springer.com/article/10.1007/s12111-026-09744-w",
+          "chars": 156
+        }
+      }
+    },
+    {
+      "id": 1309,
+      "date": "2026-10-13",
+      "week_start": "2026-10-12",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1308,
+      "date": "2026-10-13",
+      "week_start": "2026-10-12",
+      "person_id": "peter-pomerantsev",
+      "person": "Peter Pomerantsev",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1307,
+      "date": "2026-10-13",
+      "week_start": "2026-10-12",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1306,
+      "date": "2026-10-13",
+      "week_start": "2026-10-12",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1300,
+      "date": "2026-10-13",
+      "week_start": "2026-10-12",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Tramp 72 saat ərzində ABŞ siyasətini alt üst etdi",
+      "has_text": true,
+      "url": "https://icma.az/news/tramp-72-saat-erzinde-abs-siyasetini-alt-ust-etdi-2077171",
+      "source": "Icma.az",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Tramp 72 saat ərzində ABŞ siyasətini alt üst etdi https://icma.az/news/tramp-72-saat-erzinde-abs-siyasetini-alt-ust-etdi-2077171",
+          "chars": 73
+        },
+        "bluesky": {
+          "text": "Tramp 72 saat ərzində ABŞ siyasətini alt üst etdi https://icma.az/news/tramp-72-saat-erzinde-abs-siyasetini-alt-ust-etdi-2077171",
+          "chars": 128
+        }
+      }
+    },
+    {
+      "id": 1299,
+      "date": "2026-10-13",
+      "week_start": "2026-10-12",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "What’s Wrong With Civility?",
+      "has_text": true,
+      "url": "https://www.insidehighered.com/opinion/columns/echoes-quad/2026/10/13/whats-wrong-civility",
+      "source": "Inside Higher Ed",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "What’s Wrong With Civility? https://www.insidehighered.com/opinion/columns/echoes-quad/2026/10/13/whats-wrong-civility",
+          "chars": 51
+        },
+        "bluesky": {
+          "text": "What’s Wrong With Civility? https://www.insidehighered.com/opinion/columns/echoes-quad/2026/10/13/whats-wrong-civility",
+          "chars": 118
+        }
+      }
+    },
+    {
+      "id": 1314,
+      "date": "2026-10-12",
+      "week_start": "2026-10-12",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "Why Are We Broke? Both Sides Blame The Elites (Reddit crossposts)",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/DemocraticSocialism/comments/1x4140s/both_sides_blame_the_elites_so_why_do_they_only/",
+      "source": "reddit.com/r/DemocraticSocialism",
+      "source_type": "social network",
+      "similar_mention_count": 7,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Why Are We Broke? Both Sides Blame The Elites (Reddit crossposts) https://www.reddit.com/r/DemocraticSocialism/comments/1x4140s/both_sides_blame_the_elites_so_why_do_they_only/",
+          "chars": 89
+        },
+        "bluesky": {
+          "text": "Why Are We Broke? Both Sides Blame The Elites (Reddit crossposts) https://www.reddit.com/r/DemocraticSocialism/comments/1x4140s/both_sides_blame_the_elites_so_why_do_they_only/",
+          "chars": 176
+        }
+      }
+    },
     {
       "id": 1287,
       "date": "2026-10-12",
@@ -25,6 +301,499 @@
         "bluesky": {
           "text": "Acne na vida adulta: por que as espinhas aparecem depois dos 30 anos e como tratar? https://g1.globo.com/saude/noticia/2026/10/12/acne-na-vida-adulta-por-que-as-espinhas-aparecem-depois-dos-30-anos-e-como-tratar.ghtml",
           "chars": 217
+        }
+      }
+    },
+    {
+      "id": 1328,
+      "date": "2026-10-12",
+      "week_start": "2026-10-12",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "A destruição do processo de segurança nacional por Trump",
+      "has_text": true,
+      "url": "https://alemdarena.blogspot.com/2026/10/a-destruicao-do-processo-de-seguranca.html",
+      "source": "além d'arena",
+      "source_type": "blog",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "A destruição do processo de segurança nacional por Trump https://alemdarena.blogspot.com/2026/10/a-destruicao-do-processo-de-seguranca.html",
+          "chars": 80
+        },
+        "bluesky": {
+          "text": "A destruição do processo de segurança nacional por Trump https://alemdarena.blogspot.com/2026/10/a-destruicao-do-processo-de-seguranca.html",
+          "chars": 139
+        }
+      }
+    },
+    {
+      "id": 1327,
+      "date": "2026-10-12",
+      "week_start": "2026-10-12",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Michael and Susan Dell, Intel co-founder’s Gordon and Betty Moore fund and 8 largest single donations in university education history",
+      "has_text": true,
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/michael-and-susan-dell-intel-co-founders-gordon-and-betty-moore-fund-and-8-largest-single-donations-in-university-education-history/articleshow/134890541.cms",
+      "source": "The Times of India",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Michael and Susan Dell, Intel co-founder’s Gordon and Betty Moore fund and 8 largest single donations in university education history https://timesofindia.indiatimes.com/technology/tech-news/michael-and-susan-dell-intel-co-founders-gordon-and-betty-moore-fund-and-8-largest-single-donations-in-university-education-history/articleshow/134890541.cms",
+          "chars": 157
+        },
+        "bluesky": {
+          "text": "Michael and Susan Dell, Intel co-founder’s Gordon and Betty Moore fund and 8 larges… https://timesofindia.indiatimes.com/technology/tech-news/michael-and-susan-dell-intel-co-founders-gordon-and-betty-moore-fund-and-8-largest-single-donations-in-university-education-history/articleshow/134890541.cms",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 1321,
+      "date": "2026-10-12",
+      "week_start": "2026-10-12",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "How 3 universities are approaching international student recruitment",
+      "has_text": true,
+      "url": "https://www.yahoo.com/news/us/articles/3-universities-approaching-international-student-222722879.html",
+      "source": "Yahoo! News",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "How 3 universities are approaching international student recruitment https://www.yahoo.com/news/us/articles/3-universities-approaching-international-student-222722879.html",
+          "chars": 92
+        },
+        "bluesky": {
+          "text": "How 3 universities are approaching international student recruitment https://www.yahoo.com/news/us/articles/3-universities-approaching-international-student-222722879.html",
+          "chars": 171
+        }
+      }
+    },
+    {
+      "id": 1329,
+      "date": "2026-10-12",
+      "week_start": "2026-10-12",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "The Other Side of Free: Institutional Finance and the Limits of Demand-Side Policy in Chilean Higher Education",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1057/s41307-026-00489-5",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Other Side of Free: Institutional Finance and the Limits of Demand-Side Policy in Chilean Higher Education https://link.springer.com/article/10.1057/s41307-026-00489-5",
+          "chars": 134
+        },
+        "bluesky": {
+          "text": "The Other Side of Free: Institutional Finance and the Limits of Demand-Side Policy in Chilean Higher Education https://link.springer.com/article/10.1057/s41307-026-00489-5",
+          "chars": 171
+        }
+      }
+    },
+    {
+      "id": 1326,
+      "date": "2026-10-12",
+      "week_start": "2026-10-12",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Ensaio 1661 - Fazendo prompt de IA (4)",
+      "has_text": true,
+      "url": "http://pedrodemo.blogspot.com/2026/10/ensaio-1661-fazendo-prompt-de-ia-4.html",
+      "source": "Prof. Pedro Demo",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Ensaio 1661 - Fazendo prompt de IA (4) http://pedrodemo.blogspot.com/2026/10/ensaio-1661-fazendo-prompt-de-ia-4.html",
+          "chars": 62
+        },
+        "bluesky": {
+          "text": "Ensaio 1661 - Fazendo prompt de IA (4) http://pedrodemo.blogspot.com/2026/10/ensaio-1661-fazendo-prompt-de-ia-4.html",
+          "chars": 116
+        }
+      }
+    },
+    {
+      "id": 1325,
+      "date": "2026-10-12",
+      "week_start": "2026-10-12",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Crean minirobots do tamaño dun gran de arroz para administrar fármacos co corazón latexando",
+      "has_text": true,
+      "url": "https://galego.lavozdegalicia.es/noticia/sociedad/2026/10/12/crean-minirobots-tamano-grano-arroz-administrar-farmacos-corazon-latiendo/00031791812063177333951.htm",
+      "source": "La Voz de Galicia",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Crean minirobots do tamaño dun gran de arroz para administrar fármacos co corazón latexando https://galego.lavozdegalicia.es/noticia/sociedad/2026/10/12/crean-minirobots-tamano-grano-arroz-administrar-farmacos-corazon-latiendo/00031791812063177333951.htm",
+          "chars": 115
+        },
+        "bluesky": {
+          "text": "Crean minirobots do tamaño dun gran de arroz para administrar fármacos co corazón latexando https://galego.lavozdegalicia.es/noticia/sociedad/2026/10/12/crean-minirobots-tamano-grano-arroz-administrar-farmacos-corazon-latiendo/00031791812063177333951.htm",
+          "chars": 254
+        }
+      }
+    },
+    {
+      "id": 1324,
+      "date": "2026-10-12",
+      "week_start": "2026-10-12",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "The College Bargain Is Broken",
+      "has_text": true,
+      "url": "https://medium.com/the-futureplex/the-college-bargain-is-broken-f2703658d39f",
+      "source": "Medium",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The College Bargain Is Broken https://medium.com/the-futureplex/the-college-bargain-is-broken-f2703658d39f",
+          "chars": 53
+        },
+        "bluesky": {
+          "text": "The College Bargain Is Broken https://medium.com/the-futureplex/the-college-bargain-is-broken-f2703658d39f",
+          "chars": 106
+        }
+      }
+    },
+    {
+      "id": 1323,
+      "date": "2026-10-12",
+      "week_start": "2026-10-12",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Low levels of blood pressure protein may flag treatment-resistant psychosis",
+      "has_text": true,
+      "url": "https://medicalxpress.com/news/2026-10-blood-pressure-protein-flag-treatment.html",
+      "source": "Medical Xpress",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Low levels of blood pressure protein may flag treatment-resistant psychosis https://medicalxpress.com/news/2026-10-blood-pressure-protein-flag-treatment.html",
+          "chars": 99
+        },
+        "bluesky": {
+          "text": "Low levels of blood pressure protein may flag treatment-resistant psychosis https://medicalxpress.com/news/2026-10-blood-pressure-protein-flag-treatment.html",
+          "chars": 157
+        }
+      }
+    },
+    {
+      "id": 1322,
+      "date": "2026-10-12",
+      "week_start": "2026-10-12",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Psilocybin available for sale in Australia, acquire Psilocybin in Australia, Purchase Psilocybin in Australia, Order Psilocybin in Australia, Shop Psilocybin in Australia.",
+      "has_text": true,
+      "url": "https://list-of-wild-mushrooms-i566442.digiblogbox.com/67790253/psilocybin-available-for-sale-in-australia-acquire-psilocybin-in-australia-purchase-psilocybin-in-australia-order-psilocybin-in-australia-shop-psilocybin-in-australia",
+      "source": "Takemyclass61594 Blog",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Psilocybin available for sale in Australia, acquire Psilocybin in Australia, Purchase Psilocybin in Australia, Order Psilocybin in Australia, Shop Psilocybin in Australia. https://list-of-wild-mushrooms-i566442.digiblogbox.com/67790253/psilocybin-available-for-sale-in-australia-acquire-psilocybin-in-australia-purchase-psilocybin-in-australia-order-psilocybin-in-australia-shop-psilocybin-in-australia",
+          "chars": 195
+        },
+        "bluesky": {
+          "text": "Psilocybin available for sale in Australia, acquire Psilocybin in A… https://list-of-wild-mushrooms-i566442.digiblogbox.com/67790253/psilocybin-available-for-sale-in-australia-acquire-psilocybin-in-australia-purchase-psilocybin-in-australia-order-psilocybin-in-australia-shop-psilocybin-in-australia",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 1320,
+      "date": "2026-10-12",
+      "week_start": "2026-10-12",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "#120 - Chicken, Carrots, and A Side of Rat Poison. How One Dinner Overseas Nearly Ended His Life ...",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=PdFOUWPIpX8",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "#120 - Chicken, Carrots, and A Side of Rat Poison. How One Dinner Overseas Nearly Ended His Life ... https://www.youtube.com/watch?v=PdFOUWPIpX8",
+          "chars": 124
+        },
+        "bluesky": {
+          "text": "#120 - Chicken, Carrots, and A Side of Rat Poison. How One Dinner Overseas Nearly Ended His Life ... https://www.youtube.com/watch?v=PdFOUWPIpX8",
+          "chars": 144
+        }
+      }
+    },
+    {
+      "id": 1319,
+      "date": "2026-10-12",
+      "week_start": "2026-10-12",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Brain Health, CTE, and Brain Donation with Chris Nowinski",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=mXhVI9yhoFE",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Brain Health, CTE, and Brain Donation with Chris Nowinski https://www.youtube.com/watch?v=mXhVI9yhoFE",
+          "chars": 81
+        },
+        "bluesky": {
+          "text": "Brain Health, CTE, and Brain Donation with Chris Nowinski https://www.youtube.com/watch?v=mXhVI9yhoFE",
+          "chars": 101
+        }
+      }
+    },
+    {
+      "id": 1313,
+      "date": "2026-10-12",
+      "week_start": "2026-10-12",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/Manaus/comments/1x3qgqb/comment/pge7g4u/",
+      "source": "reddit.com/r/Manaus",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " https://www.reddit.com/r/Manaus/comments/1x3qgqb/comment/pge7g4u/",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://www.reddit.com/r/Manaus/comments/1x3qgqb/comment/pge7g4u/",
+          "chars": 66
+        }
+      }
+    },
+    {
+      "id": 1312,
+      "date": "2026-10-12",
+      "week_start": "2026-10-12",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1311,
+      "date": "2026-10-12",
+      "week_start": "2026-10-12",
+      "person_id": "peter-pomerantsev",
+      "person": "Peter Pomerantsev",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1310,
+      "date": "2026-10-12",
+      "week_start": "2026-10-12",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1305,
+      "date": "2026-10-12",
+      "week_start": "2026-10-12",
+      "person_id": "adam-seth-levine",
+      "person": "Adam Seth Levine",
+      "is_ces": false,
+      "title": "Reclaiming the public square",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/magazine/2026/fall/reclaiming-the-public-square-civil-society/",
+      "source": "The Hub",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Reclaiming the public square https://hub.jhu.edu/magazine/2026/fall/reclaiming-the-public-square-civil-society/",
+          "chars": 52
+        },
+        "bluesky": {
+          "text": "Reclaiming the public square https://hub.jhu.edu/magazine/2026/fall/reclaiming-the-public-square-civil-society/",
+          "chars": 111
+        }
+      }
+    },
+    {
+      "id": 1304,
+      "date": "2026-10-12",
+      "week_start": "2026-10-12",
+      "person_id": "consuelo-amat",
+      "person": "Consuelo Amat",
+      "is_ces": false,
+      "title": "Reclaiming the public square",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/magazine/2026/fall/reclaiming-the-public-square-civil-society/",
+      "source": "The Hub",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Reclaiming the public square https://hub.jhu.edu/magazine/2026/fall/reclaiming-the-public-square-civil-society/",
+          "chars": 52
+        },
+        "bluesky": {
+          "text": "Reclaiming the public square https://hub.jhu.edu/magazine/2026/fall/reclaiming-the-public-square-civil-society/",
+          "chars": 111
+        }
+      }
+    },
+    {
+      "id": 1303,
+      "date": "2026-10-12",
+      "week_start": "2026-10-12",
+      "person_id": "peter-pomerantsev",
+      "person": "Peter Pomerantsev",
+      "is_ces": false,
+      "title": "Reclaiming the public square",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/magazine/2026/fall/reclaiming-the-public-square-civil-society/",
+      "source": "The Hub",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Reclaiming the public square https://hub.jhu.edu/magazine/2026/fall/reclaiming-the-public-square-civil-society/",
+          "chars": 52
+        },
+        "bluesky": {
+          "text": "Reclaiming the public square https://hub.jhu.edu/magazine/2026/fall/reclaiming-the-public-square-civil-society/",
+          "chars": 111
+        }
+      }
+    },
+    {
+      "id": 1302,
+      "date": "2026-10-12",
+      "week_start": "2026-10-12",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": "Reclaiming the public square",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/magazine/2026/fall/reclaiming-the-public-square-civil-society/",
+      "source": "The Hub",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Reclaiming the public square https://hub.jhu.edu/magazine/2026/fall/reclaiming-the-public-square-civil-society/",
+          "chars": 52
+        },
+        "bluesky": {
+          "text": "Reclaiming the public square https://hub.jhu.edu/magazine/2026/fall/reclaiming-the-public-square-civil-society/",
+          "chars": 111
+        }
+      }
+    },
+    {
+      "id": 1301,
+      "date": "2026-10-12",
+      "week_start": "2026-10-12",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "What Students Will Be Reading: Campus Common Reading Roundup, 2026–27",
+      "has_text": true,
+      "url": "https://commonreads.com/2026/10/12/what-students-will-be-reading-campus-common-reading-roundup-2026-27/",
+      "source": "Penguin Random House Common Reads",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "What Students Will Be Reading: Campus Common Reading Roundup, 2026–27 https://commonreads.com/2026/10/12/what-students-will-be-reading-campus-common-reading-roundup-2026-27/",
+          "chars": 93
+        },
+        "bluesky": {
+          "text": "What Students Will Be Reading: Campus Common Reading Roundup, 2026–27 https://commonreads.com/2026/10/12/what-students-will-be-reading-campus-common-reading-roundup-2026-27/",
+          "chars": 173
         }
       }
     },

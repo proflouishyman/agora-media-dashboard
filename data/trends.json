@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-12T07:05:56-04:00",
+  "generated_at": "2026-10-13T07:07:09-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-10-12"
+    "end": "2026-10-13"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 1287,
-        "in_digest": 354,
-        "reach_proxy": 4814,
-        "people_covered": 101,
+        "mentions": 1319,
+        "in_digest": 362,
+        "reach_proxy": 4856,
+        "people_covered": 102,
         "people_tracked": 100,
-        "sources": 557,
+        "sources": 563,
         "negative": 11
       },
       "deltas": {
@@ -754,9 +754,16 @@
         },
         {
           "date": "2026-10-12",
-          "count": 3,
-          "reach": 6,
-          "in_digest": 1,
+          "count": 24,
+          "reach": 36,
+          "in_digest": 6,
+          "observed": true
+        },
+        {
+          "date": "2026-10-13",
+          "count": 11,
+          "reach": 12,
+          "in_digest": 3,
           "observed": true
         }
       ],
@@ -958,37 +965,37 @@
         },
         {
           "week_start": "2026-10-12",
-          "count": 3,
-          "reach": 6,
-          "in_digest": 1,
-          "people": 2,
+          "count": 35,
+          "reach": 48,
+          "in_digest": 9,
+          "people": 8,
           "sentiment": {
-            "positive": 0,
+            "positive": 2,
             "neutral": 0,
             "negative": 0,
-            "unknown": 3
+            "unknown": 33
           }
         }
       ],
       "sentiment": {
-        "positive": 108,
+        "positive": 110,
         "neutral": 181,
         "negative": 11,
-        "unknown": 987
+        "unknown": 1017
       },
       "top_people": [
         {
           "person_id": "johns-hopkins",
           "name": "Johns Hopkins",
-          "count": 414,
-          "reach": 2458,
+          "count": 431,
+          "reach": 2478,
           "is_ces": false
         },
         {
           "person_id": "snf-agora-institute",
           "name": "SNF Agora Institute",
-          "count": 115,
-          "reach": 224,
+          "count": 116,
+          "reach": 225,
           "is_ces": false
         },
         {
@@ -1001,8 +1008,8 @@
         {
           "person_id": "anne-applebaum",
           "name": "Anne Applebaum",
-          "count": 73,
-          "reach": 331,
+          "count": 77,
+          "reach": 335,
           "is_ces": false
         },
         {
@@ -1043,34 +1050,34 @@
         {
           "person_id": "hahrie-han",
           "name": "Hahrie Han",
-          "count": 25,
-          "reach": 362,
+          "count": 27,
+          "reach": 364,
           "is_ces": false
         }
       ],
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 219,
-          "reach": 1360,
+          "count": 226,
+          "reach": 1367,
           "is_other": false
         },
         {
           "source": "Youtube",
-          "count": 82,
-          "reach": 80,
+          "count": 84,
+          "reach": 82,
+          "is_other": false
+        },
+        {
+          "source": "Springer",
+          "count": 42,
+          "reach": 42,
           "is_other": false
         },
         {
           "source": "LinkedIn",
           "count": 41,
           "reach": 42,
-          "is_other": false
-        },
-        {
-          "source": "Springer",
-          "count": 39,
-          "reach": 39,
           "is_other": false
         },
         {
@@ -1099,27 +1106,27 @@
         },
         {
           "source": "Other",
-          "count": 803,
-          "reach": 3170,
+          "count": 823,
+          "reach": 3200,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 695
+          "count": 709
         },
         {
           "source_type": "social network",
-          "count": 231
+          "count": 235
         },
         {
           "source_type": "blog",
-          "count": 54
+          "count": 57
         },
         {
           "source_type": "unresolved",
-          "count": 307
+          "count": 318
         }
       ],
       "negative_stories": [
@@ -1143,8 +1150,8 @@
           "positive": 0,
           "neutral": 0,
           "negative": 0,
-          "unknown": 414,
-          "total": 414
+          "unknown": 431,
+          "total": 431
         },
         {
           "row_label": "SNF Agora Institute",
@@ -1153,8 +1160,8 @@
           "positive": 23,
           "neutral": 33,
           "negative": 3,
-          "unknown": 56,
-          "total": 115
+          "unknown": 57,
+          "total": 116
         },
         {
           "row_label": "unknown",
@@ -1173,8 +1180,8 @@
           "positive": 11,
           "neutral": 16,
           "negative": 5,
-          "unknown": 41,
-          "total": 73
+          "unknown": 45,
+          "total": 77
         },
         {
           "row_label": "Henry Farrell",
@@ -1233,18 +1240,18 @@
           "positive": 11,
           "neutral": 3,
           "negative": 0,
-          "unknown": 11,
-          "total": 25
+          "unknown": 13,
+          "total": 27
         },
         {
           "row_label": "Lilliana Mason",
           "person_id": "lilliana-mason",
           "is_ces": false,
-          "positive": 2,
+          "positive": 4,
           "neutral": 5,
           "negative": 0,
-          "unknown": 15,
-          "total": 22
+          "unknown": 16,
+          "total": 25
         },
         {
           "row_label": "None (no captured text)",
@@ -1283,8 +1290,8 @@
           "positive": 3,
           "neutral": 0,
           "negative": 0,
-          "unknown": 12,
-          "total": 15
+          "unknown": 15,
+          "total": 18
         },
         {
           "row_label": "Denise Dresser",
@@ -1557,6 +1564,16 @@
           "total": 4
         },
         {
+          "row_label": "Adam Seth Levine",
+          "person_id": "adam-seth-levine",
+          "is_ces": false,
+          "positive": 1,
+          "neutral": 1,
+          "negative": 0,
+          "unknown": 1,
+          "total": 3
+        },
+        {
           "row_label": "André Nogueira",
           "person_id": "andre-nogueira",
           "is_ces": false,
@@ -1655,16 +1672,6 @@
           "negative": 0,
           "unknown": 3,
           "total": 3
-        },
-        {
-          "row_label": "Adam Seth Levine",
-          "person_id": "adam-seth-levine",
-          "is_ces": false,
-          "positive": 1,
-          "neutral": 1,
-          "negative": 0,
-          "unknown": 0,
-          "total": 2
         },
         {
           "row_label": "Andre Nogueira",
@@ -1834,6 +1841,16 @@
           "neutral": 1,
           "negative": 0,
           "unknown": 0,
+          "total": 1
+        },
+        {
+          "row_label": "Consuelo Amat",
+          "person_id": "consuelo-amat",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
           "total": 1
         },
         {
@@ -2150,35 +2167,35 @@
       "source_type_sentiment_crosstab": [
         {
           "row_label": "online news",
-          "positive": 35,
+          "positive": 37,
           "neutral": 112,
           "negative": 2,
-          "unknown": 546,
-          "total": 695
+          "unknown": 558,
+          "total": 709
         },
         {
           "row_label": "social network",
           "positive": 45,
           "neutral": 50,
           "negative": 1,
-          "unknown": 135,
-          "total": 231
+          "unknown": 139,
+          "total": 235
         },
         {
           "row_label": "blog",
           "positive": 6,
           "neutral": 8,
           "negative": 0,
-          "unknown": 40,
-          "total": 54
+          "unknown": 43,
+          "total": 57
         },
         {
           "row_label": "unresolved",
           "positive": 22,
           "neutral": 11,
           "negative": 8,
-          "unknown": 266,
-          "total": 307
+          "unknown": 277,
+          "total": 318
         }
       ],
       "sentiment_examples": {
@@ -2340,6 +2357,26 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 1299,
+              "person": "Lilliana Mason",
+              "person_id": "lilliana-mason",
+              "is_ces": false,
+              "title": "What’s Wrong With Civility?",
+              "url": "https://www.insidehighered.com/opinion/columns/echoes-quad/2026/10/13/whats-wrong-civility",
+              "source": "Inside Higher Ed",
+              "date": "2026-10-13"
+            },
+            {
+              "id": 1298,
+              "person": "Lilliana Mason",
+              "person_id": "lilliana-mason",
+              "is_ces": false,
+              "title": "What if Political Polarization Is Not the Disease but the Cure?",
+              "url": "https://www.nytimes.com/2026/10/13/opinion/trump-democracy-political-polarization.html",
+              "source": "The New York Times",
+              "date": "2026-10-13"
+            },
             {
               "id": 1253,
               "person": "Adam Seth Levine",
@@ -3435,6 +3472,10 @@
               "count": 7
             },
             {
+              "keyphrase": "civil dialogue",
+              "count": 6
+            },
+            {
               "keyphrase": "civic engagement",
               "count": 6
             },
@@ -3448,10 +3489,6 @@
             },
             {
               "keyphrase": "research",
-              "count": 5
-            },
-            {
-              "keyphrase": "civil dialogue",
               "count": 5
             },
             {
@@ -4215,6 +4252,13 @@
         },
         {
           "date": "2026-10-12",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
+          "observed": true
+        },
+        {
+          "date": "2026-10-13",
           "count": 0,
           "reach": 0,
           "in_digest": 0,
