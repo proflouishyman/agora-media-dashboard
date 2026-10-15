@@ -9,16 +9,16 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 431,
+    "mentions_total": 440,
     "mentions_in_digest": 0,
-    "reach_proxy": 2478,
+    "reach_proxy": 2490,
     "first_mention_date": "2026-08-30",
-    "last_mention_date": "2026-10-13",
+    "last_mention_date": "2026-10-15",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
       "negative": 0,
-      "unknown": 431
+      "unknown": 440
     },
     "top_sources": [
       {
@@ -27,7 +27,7 @@
       },
       {
         "source": "Youtube",
-        "count": 38
+        "count": 39
       },
       {
         "source": "Springer",
@@ -35,7 +35,7 @@
       },
       {
         "source": "N2O Records",
-        "count": 12
+        "count": 14
       },
       {
         "source": "Medical Xpress",
@@ -100,8 +100,8 @@
       },
       {
         "week_start": "2026-10-12",
-        "count": 19,
-        "reach": 25
+        "count": 28,
+        "reach": 37
       }
     ]
   },
@@ -115,14 +115,14 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 116,
-    "mentions_in_digest": 45,
-    "reach_proxy": 225,
+    "mentions_total": 117,
+    "mentions_in_digest": 46,
+    "reach_proxy": 226,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-10-13",
+    "last_mention_date": "2026-10-14",
     "sentiment": {
       "positive": 23,
-      "neutral": 33,
+      "neutral": 34,
       "negative": 3,
       "unknown": 57
     },
@@ -133,7 +133,7 @@
       },
       {
         "source": "LinkedIn",
-        "count": 22
+        "count": 23
       },
       {
         "source": "Bluesky",
@@ -206,8 +206,8 @@
       },
       {
         "week_start": "2026-10-12",
-        "count": 1,
-        "reach": 1
+        "count": 2,
+        "reach": 2
       }
     ]
   },
@@ -329,16 +329,16 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 77,
-    "mentions_in_digest": 42,
-    "reach_proxy": 335,
+    "mentions_total": 79,
+    "mentions_in_digest": 44,
+    "reach_proxy": 338,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-10-13",
+    "last_mention_date": "2026-10-14",
     "sentiment": {
-      "positive": 11,
+      "positive": 12,
       "neutral": 16,
       "negative": 5,
-      "unknown": 45
+      "unknown": 46
     },
     "top_sources": [
       {
@@ -347,7 +347,7 @@
       },
       {
         "source": "Substack",
-        "count": 8
+        "count": 10
       },
       {
         "source": "YouTube",
@@ -420,8 +420,8 @@
       },
       {
         "week_start": "2026-10-12",
-        "count": 4,
-        "reach": 4
+        "count": 6,
+        "reach": 7
       }
     ]
   },
@@ -437,16 +437,16 @@
       "Core Faculty"
     ],
     "is_ces": true,
-    "mentions_total": 45,
-    "mentions_in_digest": 33,
-    "reach_proxy": 87,
+    "mentions_total": 46,
+    "mentions_in_digest": 34,
+    "reach_proxy": 88,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-10-10",
+    "last_mention_date": "2026-10-15",
     "sentiment": {
       "positive": 3,
       "neutral": 14,
       "negative": 0,
-      "unknown": 28
+      "unknown": 29
     },
     "top_sources": [
       {
@@ -528,8 +528,8 @@
       },
       {
         "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -653,25 +653,25 @@
       "Affiliated Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 35,
+    "mentions_total": 36,
     "mentions_in_digest": 14,
-    "reach_proxy": 62,
+    "reach_proxy": 63,
     "first_mention_date": "2026-07-03",
-    "last_mention_date": "2026-10-07",
+    "last_mention_date": "2026-10-14",
     "sentiment": {
       "positive": 6,
       "neutral": 13,
       "negative": 1,
-      "unknown": 15
+      "unknown": 16
     },
     "top_sources": [
       {
-        "source": "Youtube",
+        "source": "Bluesky",
         "count": 4
       },
       {
-        "source": "Bluesky",
-        "count": 3
+        "source": "Youtube",
+        "count": 4
       },
       {
         "source": "Twitter",
@@ -744,8 +744,8 @@
       },
       {
         "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -964,6 +964,114 @@
     ]
   },
   {
+    "id": "lilliana-mason",
+    "name": "Lilliana Mason",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Institute Professor of Political Science",
+    "profile_url": "https://snfagora.jhu.edu/directory/lilliana-mason/",
+    "photo_url": "images/people/lilliana-mason.jpeg",
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 29,
+    "mentions_in_digest": 21,
+    "reach_proxy": 70,
+    "first_mention_date": "2026-07-08",
+    "last_mention_date": "2026-10-14",
+    "sentiment": {
+      "positive": 5,
+      "neutral": 6,
+      "negative": 0,
+      "unknown": 18
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 5
+      },
+      {
+        "source": "Substack",
+        "count": 4
+      },
+      {
+        "source": "Bluesky",
+        "count": 2
+      },
+      {
+        "source": "Cold Spring Shops",
+        "count": 1
+      },
+      {
+        "source": "Duck Soup",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 1,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 3,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 5,
+        "reach": 9
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 4,
+        "reach": 4
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 8,
+        "reach": 15
+      }
+    ]
+  },
+  {
     "id": "hahrie-han",
     "name": "Hahrie Han",
     "kind": "faculty",
@@ -1068,114 +1176,6 @@
         "week_start": "2026-10-12",
         "count": 2,
         "reach": 2
-      }
-    ]
-  },
-  {
-    "id": "lilliana-mason",
-    "name": "Lilliana Mason",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Institute Professor of Political Science",
-    "profile_url": "https://snfagora.jhu.edu/directory/lilliana-mason/",
-    "photo_url": "images/people/lilliana-mason.jpeg",
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 25,
-    "mentions_in_digest": 18,
-    "reach_proxy": 66,
-    "first_mention_date": "2026-07-08",
-    "last_mention_date": "2026-10-13",
-    "sentiment": {
-      "positive": 4,
-      "neutral": 5,
-      "negative": 0,
-      "unknown": 16
-    },
-    "top_sources": [
-      {
-        "source": "Twitter",
-        "count": 5
-      },
-      {
-        "source": "Substack",
-        "count": 4
-      },
-      {
-        "source": "Bluesky",
-        "count": 2
-      },
-      {
-        "source": "Fior Reports",
-        "count": 1
-      },
-      {
-        "source": "Heinrich Böll Foundation (calendar.boell.de)",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 1,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 3,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 5,
-        "reach": 9
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 4,
-        "reach": 4
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 4,
-        "reach": 11
       }
     ]
   },
@@ -1610,6 +1610,114 @@
     ]
   },
   {
+    "id": "martha-s-jones",
+    "name": "Martha S. Jones",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Society of Black Alumni Presidential Professor, Professor of History, Professor of the SNF Agora Institute",
+    "profile_url": "https://snfagora.jhu.edu/directory/martha-s-jones/",
+    "photo_url": null,
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 15,
+    "mentions_in_digest": 15,
+    "reach_proxy": 13,
+    "first_mention_date": "2026-07-02",
+    "last_mention_date": "2026-10-14",
+    "sentiment": {
+      "positive": 3,
+      "neutral": 7,
+      "negative": 0,
+      "unknown": 5
+    },
+    "top_sources": [
+      {
+        "source": "SCOTUSblog",
+        "count": 2
+      },
+      {
+        "source": "YouTube",
+        "count": 2
+      },
+      {
+        "source": "Alem da Arena (blog)",
+        "count": 1
+      },
+      {
+        "source": "Baltimore Fishbowl",
+        "count": 1
+      },
+      {
+        "source": "Hub - Johns Hopkins University",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "denise-dresser",
     "name": "Denise Dresser",
     "kind": "faculty",
@@ -1709,114 +1817,6 @@
         "week_start": "2026-10-05",
         "count": 0,
         "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "martha-s-jones",
-    "name": "Martha S. Jones",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Society of Black Alumni Presidential Professor, Professor of History, Professor of the SNF Agora Institute",
-    "profile_url": "https://snfagora.jhu.edu/directory/martha-s-jones/",
-    "photo_url": null,
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 14,
-    "mentions_in_digest": 14,
-    "reach_proxy": 12,
-    "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-10-08",
-    "sentiment": {
-      "positive": 3,
-      "neutral": 7,
-      "negative": 0,
-      "unknown": 4
-    },
-    "top_sources": [
-      {
-        "source": "SCOTUSblog",
-        "count": 2
-      },
-      {
-        "source": "YouTube",
-        "count": 2
-      },
-      {
-        "source": "Alem da Arena (blog)",
-        "count": 1
-      },
-      {
-        "source": "Baltimore Fishbowl",
-        "count": 1
-      },
-      {
-        "source": "Hub - Johns Hopkins University",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 1,
-        "reach": 1
       },
       {
         "week_start": "2026-10-12",
@@ -4438,6 +4438,108 @@
     ]
   },
   {
+    "id": "agora",
+    "name": "agora",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 4,
+    "mentions_in_digest": 0,
+    "reach_proxy": 9,
+    "first_mention_date": "2026-10-02",
+    "last_mention_date": "2026-10-14",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 4
+    },
+    "top_sources": [
+      {
+        "source": "BLOG DO FREDSON PAIVA",
+        "count": 1
+      },
+      {
+        "source": "CASA VOGUE",
+        "count": 1
+      },
+      {
+        "source": "EUROPE SAYS",
+        "count": 1
+      },
+      {
+        "source": "Terra",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 3,
+        "reach": 8
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "adam-seth-levine",
     "name": "Adam Seth Levine",
     "kind": "faculty",
@@ -5412,104 +5514,6 @@
         "week_start": "2026-09-28",
         "count": 0,
         "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "agora",
-    "name": "agora",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 3,
-    "mentions_in_digest": 0,
-    "reach_proxy": 8,
-    "first_mention_date": "2026-10-02",
-    "last_mention_date": "2026-10-04",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 3
-    },
-    "top_sources": [
-      {
-        "source": "CASA VOGUE",
-        "count": 1
-      },
-      {
-        "source": "EUROPE SAYS",
-        "count": 1
-      },
-      {
-        "source": "Terra",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 3,
-        "reach": 8
       },
       {
         "week_start": "2026-10-05",
@@ -7624,6 +7628,98 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "eliana-m-perrin",
+    "name": "Eliana M. Perrin",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Bloomberg Distinguished Professor of Primary Care",
+    "profile_url": "https://snfagora.jhu.edu/directory/eliana-m-perrin/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-10-14",
+    "last_mention_date": "2026-10-14",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-07-27",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -10952,93 +11048,6 @@
     "photo_url": null,
     "categories": [
       "Staff"
-    ],
-    "is_ces": false,
-    "mentions_total": 0,
-    "mentions_in_digest": 0,
-    "reach_proxy": 0,
-    "first_mention_date": null,
-    "last_mention_date": null,
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [],
-    "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "eliana-m-perrin",
-    "name": "Eliana M. Perrin",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Bloomberg Distinguished Professor of Primary Care",
-    "profile_url": "https://snfagora.jhu.edu/directory/eliana-m-perrin/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
     ],
     "is_ces": false,
     "mentions_total": 0,

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-13T07:07:09-04:00",
+  "generated_at": "2026-10-15T07:07:55-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-10-13"
+    "end": "2026-10-15"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 1319,
-        "in_digest": 362,
-        "reach_proxy": 4856,
-        "people_covered": 102,
+        "mentions": 1340,
+        "in_digest": 370,
+        "reach_proxy": 4881,
+        "people_covered": 103,
         "people_tracked": 100,
-        "sources": 563,
+        "sources": 573,
         "negative": 11
       },
       "deltas": {
@@ -765,6 +765,20 @@
           "reach": 12,
           "in_digest": 3,
           "observed": true
+        },
+        {
+          "date": "2026-10-14",
+          "count": 17,
+          "reach": 21,
+          "in_digest": 7,
+          "observed": true
+        },
+        {
+          "date": "2026-10-15",
+          "count": 4,
+          "reach": 4,
+          "in_digest": 1,
+          "observed": true
         }
       ],
       "weekly": [
@@ -965,37 +979,37 @@
         },
         {
           "week_start": "2026-10-12",
-          "count": 35,
-          "reach": 48,
-          "in_digest": 9,
-          "people": 8,
+          "count": 56,
+          "reach": 73,
+          "in_digest": 17,
+          "people": 13,
           "sentiment": {
-            "positive": 2,
-            "neutral": 0,
+            "positive": 4,
+            "neutral": 2,
             "negative": 0,
-            "unknown": 33
+            "unknown": 50
           }
         }
       ],
       "sentiment": {
-        "positive": 110,
-        "neutral": 181,
+        "positive": 112,
+        "neutral": 183,
         "negative": 11,
-        "unknown": 1017
+        "unknown": 1034
       },
       "top_people": [
         {
           "person_id": "johns-hopkins",
           "name": "Johns Hopkins",
-          "count": 431,
-          "reach": 2478,
+          "count": 440,
+          "reach": 2490,
           "is_ces": false
         },
         {
           "person_id": "snf-agora-institute",
           "name": "SNF Agora Institute",
-          "count": 116,
-          "reach": 225,
+          "count": 117,
+          "reach": 226,
           "is_ces": false
         },
         {
@@ -1008,15 +1022,15 @@
         {
           "person_id": "anne-applebaum",
           "name": "Anne Applebaum",
-          "count": 77,
-          "reach": 335,
+          "count": 79,
+          "reach": 338,
           "is_ces": false
         },
         {
           "person_id": "henry-farrell",
           "name": "Henry Farrell",
-          "count": 45,
-          "reach": 87,
+          "count": 46,
+          "reach": 88,
           "is_ces": true
         },
         {
@@ -1029,8 +1043,8 @@
         {
           "person_id": "sean-carroll",
           "name": "Sean Carroll",
-          "count": 35,
-          "reach": 62,
+          "count": 36,
+          "reach": 63,
           "is_ces": false
         },
         {
@@ -1048,24 +1062,30 @@
           "is_ces": true
         },
         {
-          "person_id": "hahrie-han",
-          "name": "Hahrie Han",
-          "count": 27,
-          "reach": 364,
+          "person_id": "lilliana-mason",
+          "name": "Lilliana Mason",
+          "count": 29,
+          "reach": 70,
           "is_ces": false
         }
       ],
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 226,
-          "reach": 1367,
+          "count": 227,
+          "reach": 1368,
           "is_other": false
         },
         {
           "source": "Youtube",
-          "count": 84,
-          "reach": 82,
+          "count": 85,
+          "reach": 83,
+          "is_other": false
+        },
+        {
+          "source": "LinkedIn",
+          "count": 42,
+          "reach": 43,
           "is_other": false
         },
         {
@@ -1075,21 +1095,15 @@
           "is_other": false
         },
         {
-          "source": "LinkedIn",
-          "count": 41,
-          "reach": 42,
-          "is_other": false
-        },
-        {
           "source": "Substack",
-          "count": 33,
-          "reach": 43,
+          "count": 35,
+          "reach": 46,
           "is_other": false
         },
         {
           "source": "Bluesky",
-          "count": 25,
-          "reach": 37,
+          "count": 27,
+          "reach": 41,
           "is_other": false
         },
         {
@@ -1100,33 +1114,33 @@
         },
         {
           "source": "wordpress.com",
-          "count": 21,
-          "reach": 19,
+          "count": 22,
+          "reach": 20,
           "is_other": false
         },
         {
           "source": "Other",
-          "count": 823,
-          "reach": 3200,
+          "count": 836,
+          "reach": 3214,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 709
+          "count": 720
         },
         {
           "source_type": "social network",
-          "count": 235
+          "count": 239
         },
         {
           "source_type": "blog",
-          "count": 57
+          "count": 60
         },
         {
           "source_type": "unresolved",
-          "count": 318
+          "count": 321
         }
       ],
       "negative_stories": [
@@ -1150,18 +1164,18 @@
           "positive": 0,
           "neutral": 0,
           "negative": 0,
-          "unknown": 431,
-          "total": 431
+          "unknown": 440,
+          "total": 440
         },
         {
           "row_label": "SNF Agora Institute",
           "person_id": "snf-agora-institute",
           "is_ces": false,
           "positive": 23,
-          "neutral": 33,
+          "neutral": 34,
           "negative": 3,
           "unknown": 57,
-          "total": 116
+          "total": 117
         },
         {
           "row_label": "unknown",
@@ -1177,11 +1191,11 @@
           "row_label": "Anne Applebaum",
           "person_id": "anne-applebaum",
           "is_ces": false,
-          "positive": 11,
+          "positive": 12,
           "neutral": 16,
           "negative": 5,
-          "unknown": 45,
-          "total": 77
+          "unknown": 46,
+          "total": 79
         },
         {
           "row_label": "Henry Farrell",
@@ -1190,8 +1204,8 @@
           "positive": 3,
           "neutral": 14,
           "negative": 0,
-          "unknown": 28,
-          "total": 45
+          "unknown": 29,
+          "total": 46
         },
         {
           "row_label": "Yascha Mounk",
@@ -1210,8 +1224,8 @@
           "positive": 6,
           "neutral": 13,
           "negative": 1,
-          "unknown": 15,
-          "total": 35
+          "unknown": 16,
+          "total": 36
         },
         {
           "row_label": "None (keyword noise)",
@@ -1234,6 +1248,16 @@
           "total": 31
         },
         {
+          "row_label": "Lilliana Mason",
+          "person_id": "lilliana-mason",
+          "is_ces": false,
+          "positive": 5,
+          "neutral": 6,
+          "negative": 0,
+          "unknown": 18,
+          "total": 29
+        },
+        {
           "row_label": "Hahrie Han",
           "person_id": "hahrie-han",
           "is_ces": false,
@@ -1242,16 +1266,6 @@
           "negative": 0,
           "unknown": 13,
           "total": 27
-        },
-        {
-          "row_label": "Lilliana Mason",
-          "person_id": "lilliana-mason",
-          "is_ces": false,
-          "positive": 4,
-          "neutral": 5,
-          "negative": 0,
-          "unknown": 16,
-          "total": 25
         },
         {
           "row_label": "None (no captured text)",
@@ -1294,6 +1308,16 @@
           "total": 18
         },
         {
+          "row_label": "Martha S. Jones",
+          "person_id": "martha-s-jones",
+          "is_ces": false,
+          "positive": 3,
+          "neutral": 7,
+          "negative": 0,
+          "unknown": 5,
+          "total": 15
+        },
+        {
           "row_label": "Denise Dresser",
           "person_id": "denise-dresser",
           "is_ces": false,
@@ -1301,16 +1325,6 @@
           "neutral": 2,
           "negative": 0,
           "unknown": 12,
-          "total": 14
-        },
-        {
-          "row_label": "Martha S. Jones",
-          "person_id": "martha-s-jones",
-          "is_ces": false,
-          "positive": 3,
-          "neutral": 7,
-          "negative": 0,
-          "unknown": 4,
           "total": 14
         },
         {
@@ -1564,6 +1578,16 @@
           "total": 4
         },
         {
+          "row_label": "agora",
+          "person_id": "agora",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 4,
+          "total": 4
+        },
+        {
           "row_label": "Adam Seth Levine",
           "person_id": "adam-seth-levine",
           "is_ces": false,
@@ -1661,16 +1685,6 @@
           "neutral": 1,
           "negative": 0,
           "unknown": 2,
-          "total": 3
-        },
-        {
-          "row_label": "agora",
-          "person_id": "agora",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 3,
           "total": 3
         },
         {
@@ -1896,6 +1910,16 @@
         {
           "row_label": "Denise Dresser (namesake: OpenAI chief revenue officer, not the SNF Agora affiliate)",
           "person_id": "denise-dresser-namesake-openai-chief-revenue-officer-not-the-snf-agora-affiliate",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Eliana M. Perrin",
+          "person_id": "eliana-m-perrin",
           "is_ces": false,
           "positive": 0,
           "neutral": 0,
@@ -2167,35 +2191,35 @@
       "source_type_sentiment_crosstab": [
         {
           "row_label": "online news",
-          "positive": 37,
-          "neutral": 112,
+          "positive": 38,
+          "neutral": 113,
           "negative": 2,
-          "unknown": 558,
-          "total": 709
+          "unknown": 567,
+          "total": 720
         },
         {
           "row_label": "social network",
           "positive": 45,
-          "neutral": 50,
+          "neutral": 51,
           "negative": 1,
-          "unknown": 139,
-          "total": 235
+          "unknown": 142,
+          "total": 239
         },
         {
           "row_label": "blog",
-          "positive": 6,
+          "positive": 7,
           "neutral": 8,
           "negative": 0,
-          "unknown": 43,
-          "total": 57
+          "unknown": 45,
+          "total": 60
         },
         {
           "row_label": "unresolved",
           "positive": 22,
           "neutral": 11,
           "negative": 8,
-          "unknown": 277,
-          "total": 318
+          "unknown": 280,
+          "total": 321
         }
       ],
       "sentiment_examples": {
@@ -2357,6 +2381,26 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 1334,
+              "person": "Lilliana Mason",
+              "person_id": "lilliana-mason",
+              "is_ces": false,
+              "title": "What if Political Polarization Is Not the Disease but the Cure?",
+              "url": "https://reallyducksoup.blogspot.com/2026/10/what-if-political-polarization-is-not.html",
+              "source": "Duck Soup",
+              "date": "2026-10-14"
+            },
+            {
+              "id": 1331,
+              "person": "Anne Applebaum",
+              "person_id": "anne-applebaum",
+              "is_ces": false,
+              "title": "Our “deal” with Russia is not “politics”; it’s the death of America.",
+              "url": "https://wreidcrisplestina.substack.com/p/our-deal-with-russia-is-not-politics",
+              "source": "Substack",
+              "date": "2026-10-14"
+            },
             {
               "id": 1299,
               "person": "Lilliana Mason",
@@ -3461,11 +3505,15 @@
           "top_keyphrases": [
             {
               "keyphrase": "democracy",
-              "count": 10
+              "count": 11
             },
             {
               "keyphrase": "organization",
               "count": 10
+            },
+            {
+              "keyphrase": "book",
+              "count": 7
             },
             {
               "keyphrase": "author",
@@ -3480,8 +3528,8 @@
               "count": 6
             },
             {
-              "keyphrase": "book",
-              "count": 6
+              "keyphrase": "debate",
+              "count": 5
             },
             {
               "keyphrase": "history",
@@ -3494,10 +3542,6 @@
             {
               "keyphrase": "country",
               "count": 4
-            },
-            {
-              "keyphrase": "authors",
-              "count": 4
             }
           ]
         }
@@ -3505,12 +3549,12 @@
     },
     "ces": {
       "totals": {
-        "mentions": 117,
-        "in_digest": 82,
-        "reach_proxy": 202,
+        "mentions": 118,
+        "in_digest": 83,
+        "reach_proxy": 203,
         "people_covered": 11,
         "people_tracked": 17,
-        "sources": 65,
+        "sources": 66,
         "negative": 0
       },
       "deltas": {
@@ -4263,6 +4307,20 @@
           "reach": 0,
           "in_digest": 0,
           "observed": true
+        },
+        {
+          "date": "2026-10-14",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
+          "observed": true
+        },
+        {
+          "date": "2026-10-15",
+          "count": 1,
+          "reach": 1,
+          "in_digest": 1,
+          "observed": true
         }
       ],
       "weekly": [
@@ -4463,15 +4521,15 @@
         },
         {
           "week_start": "2026-10-12",
-          "count": 0,
-          "reach": 0,
-          "in_digest": 0,
-          "people": 0,
+          "count": 1,
+          "reach": 1,
+          "in_digest": 1,
+          "people": 1,
           "sentiment": {
             "positive": 0,
             "neutral": 0,
             "negative": 0,
-            "unknown": 0
+            "unknown": 1
           }
         }
       ],
@@ -4479,14 +4537,14 @@
         "positive": 18,
         "neutral": 35,
         "negative": 0,
-        "unknown": 64
+        "unknown": 65
       },
       "top_people": [
         {
           "person_id": "henry-farrell",
           "name": "Henry Farrell",
-          "count": 45,
-          "reach": 87,
+          "count": 46,
+          "reach": 88,
           "is_ces": true
         },
         {
@@ -4604,15 +4662,15 @@
         },
         {
           "source": "Other",
-          "count": 67,
-          "reach": 128,
+          "count": 68,
+          "reach": 129,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 60
+          "count": 61
         },
         {
           "source_type": "social network",
@@ -4636,8 +4694,8 @@
           "positive": 3,
           "neutral": 14,
           "negative": 0,
-          "unknown": 28,
-          "total": 45
+          "unknown": 29,
+          "total": 46
         },
         {
           "row_label": "Yuen Yuen Ang",
@@ -4746,8 +4804,8 @@
           "positive": 10,
           "neutral": 20,
           "negative": 0,
-          "unknown": 30,
-          "total": 60
+          "unknown": 31,
+          "total": 61
         },
         {
           "row_label": "social network",

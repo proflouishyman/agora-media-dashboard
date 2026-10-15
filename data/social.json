@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-10-13T07:07:09-04:00",
-  "count": 77,
+  "generated_at": "2026-10-15T07:07:55-04:00",
+  "count": 78,
   "picks": [
+    {
+      "id": 96,
+      "mention_id": 1349,
+      "digest_date": "2026-10-14",
+      "person": "Martha S. Jones",
+      "person_id": "martha-s-jones",
+      "person_ids": [
+        "martha-s-jones"
+      ],
+      "is_ces": false,
+      "punchy_title": "The Supreme Court Leaned on Her History of Birthright Citizenship",
+      "headline": "The Supreme Court Leaned on Her History of Birthright Citizenship",
+      "pull_quote": "it omits, and thus misrepresents, the historical forces that led the Framers to enshrine birthright citizenship in the Fourteenth Amendment",
+      "rationale": "it omits, and thus misrepresents, the historical forces that led the Framers to enshrine birthright citizenship in the Fourteenth Amendment",
+      "url": "https://nextcity.org/features/america-rebranded-the-birth-of-a-nation-and-the-question-of-citizenship",
+      "story_url": "https://nextcity.org/features/america-rebranded-the-birth-of-a-nation-and-the-question-of-citizenship",
+      "created_at": "2026-10-15 11:07:48",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "The Supreme Court's birthright citizenship ruling leaned heavily on the work of Hopkins historian Martha S. Jones. Next City on the fight over America's origin story: https://nextcity.org/features/america-rebranded-the-birth-of-a-nation-and-the-question-of-citizenship",
+          "chars": 268,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=The%20Supreme%20Court%27s%20birthright%20citizenship%20ruling%20leaned%20heavily%20on%20the%20work%20of%20Hopkins%20historian%20Martha%20S.%20Jones.%20Next%20City%20on%20the%20fight%20over%20America%27s%20origin%20story%3A%20https%3A//nextcity.org/features/america-rebranded-the-birth-of-a-nation-and-the-question-of-citizenship"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "The Supreme Court's birthright citizenship ruling leaned heavily on the work of SNF Agora's Martha S. Jones, author of Birthright Citizens. Next City on the fight over America's origin story: https://nextcity.org/features/america-rebranded-the-birth-of-a-nation-and-the-question-of-citizenship",
+          "chars": 293,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=The%20Supreme%20Court%27s%20birthright%20citizenship%20ruling%20leaned%20heavily%20on%20the%20work%20of%20SNF%20Agora%27s%20Martha%20S.%20Jones%2C%20author%20of%20Birthright%20Citizens.%20Next%20City%20on%20the%20fight%20over%20America%27s%20origin%20story%3A%20https%3A//nextcity.org/features/america-rebranded-the-birth-of-a-nation-and-the-question-of-citizenship"
+        }
+      ]
+    },
     {
       "id": 95,
       "mention_id": 1298,

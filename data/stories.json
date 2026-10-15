@@ -1,7 +1,544 @@
 {
-  "generated_at": "2026-10-13T07:07:09-04:00",
-  "count": 1319,
+  "generated_at": "2026-10-15T07:07:55-04:00",
+  "count": 1340,
   "stories": [
+    {
+      "id": 1342,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Colleges are cutting administrative bloat, but does that include DEI?",
+      "has_text": true,
+      "url": "https://www.thecollegefix.com/colleges-are-cutting-administrative-bloat-but-does-that-include-dei/",
+      "source": "The College Fix",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Colleges are cutting administrative bloat, but does that include DEI? https://www.thecollegefix.com/colleges-are-cutting-administrative-bloat-but-does-that-include-dei/",
+          "chars": 93
+        },
+        "bluesky": {
+          "text": "Colleges are cutting administrative bloat, but does that include DEI? https://www.thecollegefix.com/colleges-are-cutting-administrative-bloat-but-does-that-include-dei/",
+          "chars": 168
+        }
+      }
+    },
+    {
+      "id": 1341,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "RETOMADA DA ECONOMIA EM 2017 TRARÁ DE VOLTA GERAÇÃO DE EMPREGOS - DIZ MEIRELLES",
+      "has_text": true,
+      "url": "https://fredsonpaivareporter.blogspot.com/2016/10/",
+      "source": "BLOG DO FREDSON PAIVA",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "RETOMADA DA ECONOMIA EM 2017 TRARÁ DE VOLTA GERAÇÃO DE EMPREGOS - DIZ MEIRELLES https://fredsonpaivareporter.blogspot.com/2016/10/",
+          "chars": 103
+        },
+        "bluesky": {
+          "text": "RETOMADA DA ECONOMIA EM 2017 TRARÁ DE VOLTA GERAÇÃO DE EMPREGOS - DIZ MEIRELLES https://fredsonpaivareporter.blogspot.com/2016/10/",
+          "chars": 130
+        }
+      }
+    },
+    {
+      "id": 1340,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "User talk:Sevilledade",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/User_talk:Sevilledade",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "User talk:Sevilledade https://en.wikipedia.org/wiki/User_talk:Sevilledade",
+          "chars": 45
+        },
+        "bluesky": {
+          "text": "User talk:Sevilledade https://en.wikipedia.org/wiki/User_talk:Sevilledade",
+          "chars": 73
+        }
+      }
+    },
+    {
+      "id": 1335,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Europa á sombra dos imperios",
+      "has_text": true,
+      "url": "https://praza.gal/opinion/europa-a-sombra-dos-imperios",
+      "source": "The next newspaper of Galicia",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Europa á sombra dos imperios https://praza.gal/opinion/europa-a-sombra-dos-imperios",
+          "chars": 52
+        },
+        "bluesky": {
+          "text": "Europa á sombra dos imperios https://praza.gal/opinion/europa-a-sombra-dos-imperios",
+          "chars": 83
+        }
+      }
+    },
+    {
+      "id": 1339,
+      "date": "2026-10-14",
+      "week_start": "2026-10-12",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Bluesky post criticizing Hopkins-AEI partnership on future of the American university",
+      "has_text": true,
+      "url": "https://bsky.app/profile/asheeshks.org/post/3mxu6rteydc27",
+      "source": "Bluesky",
+      "source_type": "social network",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Bluesky post criticizing Hopkins-AEI partnership on future of the American university https://bsky.app/profile/asheeshks.org/post/3mxu6rteydc27",
+          "chars": 109
+        },
+        "bluesky": {
+          "text": "Bluesky post criticizing Hopkins-AEI partnership on future of the American university https://bsky.app/profile/asheeshks.org/post/3mxu6rteydc27",
+          "chars": 143
+        }
+      }
+    },
+    {
+      "id": 1347,
+      "date": "2026-10-14",
+      "week_start": "2026-10-12",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "“Modo bunker” não protegerá sua cripto, dizem críticos",
+      "has_text": true,
+      "url": "https://cointelegraph.com.br/magazine/bunker-mode-wont-protect-your-crypto-critics-say",
+      "source": "COINTELEGRAPH-BR",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "“Modo bunker” não protegerá sua cripto, dizem críticos https://cointelegraph.com.br/magazine/bunker-mode-wont-protect-your-crypto-critics-say",
+          "chars": 78
+        },
+        "bluesky": {
+          "text": "“Modo bunker” não protegerá sua cripto, dizem críticos https://cointelegraph.com.br/magazine/bunker-mode-wont-protect-your-crypto-critics-say",
+          "chars": 141
+        }
+      }
+    },
+    {
+      "id": 1330,
+      "date": "2026-10-14",
+      "week_start": "2026-10-12",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Russia, Russia, Russia",
+      "has_text": true,
+      "url": "https://anneapplebaum.substack.com/p/russia-russia-russia",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Russia, Russia, Russia https://anneapplebaum.substack.com/p/russia-russia-russia",
+          "chars": 46
+        },
+        "bluesky": {
+          "text": "Russia, Russia, Russia https://anneapplebaum.substack.com/p/russia-russia-russia",
+          "chars": 80
+        }
+      }
+    },
+    {
+      "id": 1350,
+      "date": "2026-10-14",
+      "week_start": "2026-10-12",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "HIGHER EDUCATION IS BEYOND PARODY.",
+      "has_text": true,
+      "url": "http://coldspringshops.blogspot.com/2026/10/higher-education-is-beyond-parody.html",
+      "source": "Cold Spring Shops",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "HIGHER EDUCATION IS BEYOND PARODY. http://coldspringshops.blogspot.com/2026/10/higher-education-is-beyond-parody.html",
+          "chars": 58
+        },
+        "bluesky": {
+          "text": "HIGHER EDUCATION IS BEYOND PARODY. http://coldspringshops.blogspot.com/2026/10/higher-education-is-beyond-parody.html",
+          "chars": 117
+        }
+      }
+    },
+    {
+      "id": 1349,
+      "date": "2026-10-14",
+      "week_start": "2026-10-12",
+      "person_id": "martha-s-jones",
+      "person": "Martha S. Jones",
+      "is_ces": false,
+      "title": "America, Rebranded: The Birth of a Nation and the Question of Citizenship",
+      "has_text": true,
+      "url": "https://nextcity.org/features/america-rebranded-the-birth-of-a-nation-and-the-question-of-citizenship",
+      "source": "Next City",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "America, Rebranded: The Birth of a Nation and the Question of Citizenship https://nextcity.org/features/america-rebranded-the-birth-of-a-nation-and-the-question-of-citizenship",
+          "chars": 97
+        },
+        "bluesky": {
+          "text": "America, Rebranded: The Birth of a Nation and the Question of Citizenship https://nextcity.org/features/america-rebranded-the-birth-of-a-nation-and-the-question-of-citizenship",
+          "chars": 175
+        }
+      }
+    },
+    {
+      "id": 1348,
+      "date": "2026-10-14",
+      "week_start": "2026-10-12",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "🙏 Pope Leo Prayers from Villanova After Diagnosed with Lung Cancer | Well Wishes from Rome Italy",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=e2i1Zv9RDso",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "🙏 Pope Leo Prayers from Villanova After Diagnosed with Lung Cancer | Well Wishes from Rome Italy https://www.youtube.com/watch?v=e2i1Zv9RDso",
+          "chars": 120
+        },
+        "bluesky": {
+          "text": "🙏 Pope Leo Prayers from Villanova After Diagnosed with Lung Cancer | Well Wishes from Rome Italy https://www.youtube.com/watch?v=e2i1Zv9RDso",
+          "chars": 140
+        }
+      }
+    },
+    {
+      "id": 1346,
+      "date": "2026-10-14",
+      "week_start": "2026-10-12",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "From Penn State’s College of Earth and Mineral Sciences: ‘Novel material’s magnetism could improve electronics’ speed, efficiency’",
+      "has_text": true,
+      "url": "https://sciencesprings.wordpress.com/2026/10/14/from-penn-states-college-of-earth-and-mineral-sciences-novel-materials-magnetism-could-improve-electronics-speed-efficiency/",
+      "source": "wordpress.com",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "From Penn State’s College of Earth and Mineral Sciences: ‘Novel material’s magnetism could improve electronics’ speed, efficiency’ https://sciencesprings.wordpress.com/2026/10/14/from-penn-states-college-of-earth-and-mineral-sciences-novel-materials-magnetism-could-improve-electronics-speed-efficiency/",
+          "chars": 154
+        },
+        "bluesky": {
+          "text": "From Penn State’s College of Earth and Mineral Sciences: ‘Novel material’s magnetism could improve electronics’ speed, effici… https://sciencesprings.wordpress.com/2026/10/14/from-penn-states-college-of-earth-and-mineral-sciences-novel-materials-magnetism-could-improve-electronics-speed-efficiency/",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 1345,
+      "date": "2026-10-14",
+      "week_start": "2026-10-12",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "Dua's layer: Difference between revisions",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/w/index.php?title=Dua%27s_layer&curid=39657695&diff=1380251705&oldid=1351825331",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Dua's layer: Difference between revisions https://en.wikipedia.org/w/index.php?title=Dua%27s_layer&curid=39657695&diff=1380251705&oldid=1351825331",
+          "chars": 65
+        },
+        "bluesky": {
+          "text": "Dua's layer: Difference between revisions https://en.wikipedia.org/w/index.php?title=Dua%27s_layer&curid=39657695&diff=1380251705&oldid=1351825331",
+          "chars": 146
+        }
+      }
+    },
+    {
+      "id": 1344,
+      "date": "2026-10-14",
+      "week_start": "2026-10-12",
+      "person_id": "johns-hopkins",
+      "person": "Johns Hopkins",
+      "is_ces": false,
+      "title": "The Trump DICTATORSHIP. – Stupidity, Cruelty, Corruption, Craziness. – &. – INCOMPETENCE!!!, CCXXX. – The Pretext Of Antisemitism",
+      "has_text": true,
+      "url": "https://withjusticeforall.com/2026/10/14/the-trump-dictatorship-stupidity-cruelty-corruption-craziness-incompetence-ccxxx-the-pretext-of-antisemitism/",
+      "source": "withjusticeforall.com",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Trump DICTATORSHIP. – Stupidity, Cruelty, Corruption, Craziness. – &. – INCOMPETENCE!!!, CCXXX. – The Pretext Of Antisemitism https://withjusticeforall.com/2026/10/14/the-trump-dictatorship-stupidity-cruelty-corruption-craziness-incompetence-ccxxx-the-pretext-of-antisemitism/",
+          "chars": 153
+        },
+        "bluesky": {
+          "text": "The Trump DICTATORSHIP. – Stupidity, Cruelty, Corruption, Craziness. – &. – INCOMPETENCE!!!, CCXXX. – The Pretext Of Antisemitism https://withjusticeforall.com/2026/10/14/the-trump-dictatorship-stupidity-cruelty-corruption-craziness-incompetence-ccxxx-the-pretext-of-antisemitism/",
+          "chars": 280
+        }
+      }
+    },
+    {
+      "id": 1343,
+      "date": "2026-10-14",
+      "week_start": "2026-10-12",
+      "person_id": "agora",
+      "person": "agora",
+      "is_ces": false,
+      "title": "WEB - EVENTO REÚNE INTERESSADOS EM BLOGS E VLOGS PARA DISCUTIR SOBRE ASSUNTO",
+      "has_text": true,
+      "url": "https://fredsonpaivareporter.blogspot.com/2012/10/",
+      "source": "BLOG DO FREDSON PAIVA",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "WEB - EVENTO REÚNE INTERESSADOS EM BLOGS E VLOGS PARA DISCUTIR SOBRE ASSUNTO https://fredsonpaivareporter.blogspot.com/2012/10/",
+          "chars": 100
+        },
+        "bluesky": {
+          "text": "WEB - EVENTO REÚNE INTERESSADOS EM BLOGS E VLOGS PARA DISCUTIR SOBRE ASSUNTO https://fredsonpaivareporter.blogspot.com/2012/10/",
+          "chars": 127
+        }
+      }
+    },
+    {
+      "id": 1338,
+      "date": "2026-10-14",
+      "week_start": "2026-10-12",
+      "person_id": "eliana-m-perrin",
+      "person": "Eliana M. Perrin",
+      "is_ces": false,
+      "title": "No text captured (matched: Eliana M. Perrin|Johns Hopkins)",
+      "has_text": false,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1337,
+      "date": "2026-10-14",
+      "week_start": "2026-10-12",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": "Bluesky post: CMU Jones Lecture by Sean Carroll on many-worlds quantum mechanics",
+      "has_text": true,
+      "url": "https://bsky.app/profile/cmuscience.bsky.social/post/3mxuazrvzcc2q",
+      "source": "Bluesky",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Bluesky post: CMU Jones Lecture by Sean Carroll on many-worlds quantum mechanics https://bsky.app/profile/cmuscience.bsky.social/post/3mxuazrvzcc2q",
+          "chars": 104
+        },
+        "bluesky": {
+          "text": "Bluesky post: CMU Jones Lecture by Sean Carroll on many-worlds quantum mechanics https://bsky.app/profile/cmuscience.bsky.social/post/3mxuazrvzcc2q",
+          "chars": 147
+        }
+      }
+    },
+    {
+      "id": 1336,
+      "date": "2026-10-14",
+      "week_start": "2026-10-12",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Hopkins Forum debate lineup: Will Generative AI Enhance or Stunt College Learning? (LinkedIn post)",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7516246659220111360",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Hopkins Forum debate lineup: Will Generative AI Enhance or Stunt College Learning? (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:share:7516246659220111360",
+          "chars": 122
+        },
+        "bluesky": {
+          "text": "Hopkins Forum debate lineup: Will Generative AI Enhance or Stunt College Learning? (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:share:7516246659220111360",
+          "chars": 168
+        }
+      }
+    },
+    {
+      "id": 1334,
+      "date": "2026-10-14",
+      "week_start": "2026-10-12",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "What if Political Polarization Is Not the Disease but the Cure?",
+      "has_text": true,
+      "url": "https://reallyducksoup.blogspot.com/2026/10/what-if-political-polarization-is-not.html",
+      "source": "Duck Soup",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "What if Political Polarization Is Not the Disease but the Cure? https://reallyducksoup.blogspot.com/2026/10/what-if-political-polarization-is-not.html",
+          "chars": 87
+        },
+        "bluesky": {
+          "text": "What if Political Polarization Is Not the Disease but the Cure? https://reallyducksoup.blogspot.com/2026/10/what-if-political-polarization-is-not.html",
+          "chars": 150
+        }
+      }
+    },
+    {
+      "id": 1333,
+      "date": "2026-10-14",
+      "week_start": "2026-10-12",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "Polarização afeta consumo: 38% dos brasileiros resistentes a outros grupos rejeitam marcas associadas a eles",
+      "has_text": true,
+      "url": "https://gazetamercantil.com/polarizacao-politica-consumo-confianca-marcas-brasil",
+      "source": "GAZETA MERCANTIL",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Polarização afeta consumo: 38% dos brasileiros resistentes a outros grupos rejeitam marcas associadas a eles https://gazetamercantil.com/polarizacao-politica-consumo-confianca-marcas-brasil",
+          "chars": 132
+        },
+        "bluesky": {
+          "text": "Polarização afeta consumo: 38% dos brasileiros resistentes a outros grupos rejeitam marcas associadas a eles https://gazetamercantil.com/polarizacao-politica-consumo-confianca-marcas-brasil",
+          "chars": 189
+        }
+      }
+    },
+    {
+      "id": 1332,
+      "date": "2026-10-14",
+      "week_start": "2026-10-12",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "Na era da polarização, o que ainda podemos compartilhar?",
+      "has_text": true,
+      "url": "https://economia.uol.com.br/colunas/jose-saad-neto/2026/10/14/na-era-da-polarizacao-o-que-ainda-podemos-compartilhar.htm",
+      "source": "UOL ",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Na era da polarização, o que ainda podemos compartilhar? https://economia.uol.com.br/colunas/jose-saad-neto/2026/10/14/na-era-da-polarizacao-o-que-ainda-podemos-compartilhar.htm",
+          "chars": 80
+        },
+        "bluesky": {
+          "text": "Na era da polarização, o que ainda podemos compartilhar? https://economia.uol.com.br/colunas/jose-saad-neto/2026/10/14/na-era-da-polarizacao-o-que-ainda-podemos-compartilhar.htm",
+          "chars": 177
+        }
+      }
+    },
+    {
+      "id": 1331,
+      "date": "2026-10-14",
+      "week_start": "2026-10-12",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Our “deal” with Russia is not “politics”; it’s the death of America.",
+      "has_text": true,
+      "url": "https://wreidcrisplestina.substack.com/p/our-deal-with-russia-is-not-politics",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Our “deal” with Russia is not “politics”; it’s the death of America. https://wreidcrisplestina.substack.com/p/our-deal-with-russia-is-not-politics",
+          "chars": 92
+        },
+        "bluesky": {
+          "text": "Our “deal” with Russia is not “politics”; it’s the death of America. https://wreidcrisplestina.substack.com/p/our-deal-with-russia-is-not-politics",
+          "chars": 146
+        }
+      }
+    },
     {
       "id": 1298,
       "date": "2026-10-13",
