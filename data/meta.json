@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-15T07:07:55-04:00",
-  "generated_date": "2026-10-15",
+  "generated_at": "2026-10-16T07:07:28-04:00",
+  "generated_date": "2026-10-16",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-10-15",
+    "last_mention_date": "2026-10-16",
     "observed_dates": [
       "2026-07-02",
       "2026-07-03",
@@ -110,10 +110,11 @@
       "2026-10-12",
       "2026-10-13",
       "2026-10-14",
-      "2026-10-15"
+      "2026-10-15",
+      "2026-10-16"
     ],
-    "total_mentions": 1340,
-    "total_raw_documents": 5647,
+    "total_mentions": 1373,
+    "total_raw_documents": 5699,
     "total_tracked_people": 100,
     "total_ces_people": 17
   },
@@ -121,19 +122,19 @@
     "all": {
       "label": "SNF Agora Institute",
       "people": 100,
-      "mentions": 1340
+      "mentions": 1373
     },
     "ces": {
       "label": "Center on Economy and Society",
       "people": 17,
-      "mentions": 118
+      "mentions": 120
     }
   },
   "data_quality": {
-    "mentions_missing_url": 271,
+    "mentions_missing_url": 275,
     "mentions_no_text_captured": 90,
-    "mentions_sentiment_unknown": 1034,
-    "mentions_shareable": 1050,
+    "mentions_sentiment_unknown": 1064,
+    "mentions_shareable": 1079,
     "unmatched_persons": [
       {
         "person": "Johns Hopkins",
@@ -169,6 +170,14 @@
       },
       {
         "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+        "mentions": 6
+      },
+      {
+        "person": "Namesake/noise match: higher education, Johns Hopkins",
+        "mentions": 6
+      },
+      {
+        "person": "Namesake/noise match: agora, Hopkins",
         "mentions": 5
       },
       {
@@ -184,6 +193,10 @@
         "mentions": 4
       },
       {
+        "person": "Ronald J. Daniels",
+        "mentions": 4
+      },
+      {
         "person": "agora",
         "mentions": 4
       },
@@ -193,10 +206,6 @@
       },
       {
         "person": "Namesake/noise match: Johns Hopkins, agora",
-        "mentions": 3
-      },
-      {
-        "person": "Ronald J. Daniels",
         "mentions": 3
       },
       {
@@ -212,11 +221,19 @@
         "mentions": 2
       },
       {
+        "person": "Namesake/noise match: Agora, agora, Hopkins",
+        "mentions": 2
+      },
+      {
         "person": "Namesake/noise match: Hopkins, agora",
         "mentions": 2
       },
       {
         "person": "Namesake/noise match: Johns Hopkins, NIH funding",
+        "mentions": 2
+      },
+      {
+        "person": "Namesake/noise match: agora, Johns Hopkins",
         "mentions": 2
       },
       {
@@ -288,7 +305,15 @@
         "mentions": 1
       },
       {
+        "person": "Namesake/noise match: Agora, Hopkins",
+        "mentions": 1
+      },
+      {
         "person": "Namesake/noise match: Agora, Johns Hopkins",
+        "mentions": 1
+      },
+      {
+        "person": "Namesake/noise match: Agora, agora, Johns Hopkins",
         "mentions": 1
       },
       {
@@ -304,7 +329,15 @@
         "mentions": 1
       },
       {
+        "person": "Namesake/noise match: Higher Education, higher education, Hopkins University",
+        "mentions": 1
+      },
+      {
         "person": "Namesake/noise match: Hopkins University, higher education",
+        "mentions": 1
+      },
+      {
+        "person": "Namesake/noise match: Johns Hopkins, University President",
         "mentions": 1
       },
       {
@@ -320,11 +353,23 @@
         "mentions": 1
       },
       {
+        "person": "Namesake/noise match: academic freedom, Academic freedom, Academic Freedom, Faculty Senate, higher education, Higher Education, Higher education, Johns Hopkins, viewpoint diversity",
+        "mentions": 1
+      },
+      {
         "person": "Namesake/noise match: agora, Agora, Johns Hopkins",
         "mentions": 1
       },
       {
-        "person": "Namesake/noise match: higher education, Johns Hopkins",
+        "person": "Namesake/noise match: higher education, Hopkins University, Johns Hopkins",
+        "mentions": 1
+      },
+      {
+        "person": "Namesake/noise match: higher education, Johns Hopkins, NIH funding, university president",
+        "mentions": 1
+      },
+      {
+        "person": "Namesake/noise match: higher education, Johns Hopkins, University President",
         "mentions": 1
       },
       {

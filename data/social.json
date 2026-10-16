@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-10-15T07:07:55-04:00",
-  "count": 78,
+  "generated_at": "2026-10-16T07:07:28-04:00",
+  "count": 79,
   "picks": [
+    {
+      "id": 97,
+      "mention_id": 1351,
+      "digest_date": "2026-10-15",
+      "person": "Louis Hyman",
+      "person_id": "louis-hyman",
+      "person_ids": [
+        "louis-hyman"
+      ],
+      "is_ces": true,
+      "punchy_title": "Good Debt Was Never Open to Everyone",
+      "headline": "Good Debt Was Never Open to Everyone",
+      "pull_quote": "This access to credit is really a two-tier system",
+      "rationale": "This access to credit is really a two-tier system",
+      "url": "https://www.cnbc.com/2026/10/15/good-debt-access.html",
+      "story_url": "https://www.cnbc.com/2026/10/15/good-debt-access.html",
+      "created_at": "2026-10-16 11:07:22",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Hopkins historian Louis Hyman tells CNBC that America's access to credit has long been a two-tier system, with the cheap, expansive tier built for the white middle class: https://www.cnbc.com/2026/10/15/good-debt-access.html",
+          "chars": 224,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Hopkins%20historian%20Louis%20Hyman%20tells%20CNBC%20that%20America%27s%20access%20to%20credit%20has%20long%20been%20a%20two-tier%20system%2C%20with%20the%20cheap%2C%20expansive%20tier%20built%20for%20the%20white%20middle%20class%3A%20https%3A//www.cnbc.com/2026/10/15/good-debt-access.html"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Who gets to have 'good debt'? Hopkins historian Louis Hyman, author of Debtor Nation, tells CNBC that access to credit \"is really a two-tier system,\" a legacy of the New Deal's credit regime: https://www.cnbc.com/2026/10/15/good-debt-access.html",
+          "chars": 245,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Who%20gets%20to%20have%20%27good%20debt%27%3F%20Hopkins%20historian%20Louis%20Hyman%2C%20author%20of%20Debtor%20Nation%2C%20tells%20CNBC%20that%20access%20to%20credit%20%22is%20really%20a%20two-tier%20system%2C%22%20a%20legacy%20of%20the%20New%20Deal%27s%20credit%20regime%3A%20https%3A//www.cnbc.com/2026/10/15/good-debt-access.html"
+        }
+      ]
+    },
     {
       "id": 96,
       "mention_id": 1349,

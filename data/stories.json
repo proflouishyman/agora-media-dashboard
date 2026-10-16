@@ -1,7 +1,829 @@
 {
-  "generated_at": "2026-10-15T07:07:55-04:00",
-  "count": 1340,
+  "generated_at": "2026-10-16T07:07:28-04:00",
+  "count": 1373,
   "stories": [
+    {
+      "id": 1366,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins-nih-funding-university-president",
+      "person": "Namesake/noise match: higher education, Johns Hopkins, NIH funding, university president",
+      "is_ces": false,
+      "title": "Iowa State University",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/Iowa_State_University",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Iowa State University https://en.wikipedia.org/wiki/Iowa_State_University",
+          "chars": 45
+        },
+        "bluesky": {
+          "text": "Iowa State University https://en.wikipedia.org/wiki/Iowa_State_University",
+          "chars": 73
+        }
+      }
+    },
+    {
+      "id": 1365,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-higher-education-higher-education-hopkins-university",
+      "person": "Namesake/noise match: Higher Education, higher education, Hopkins University",
+      "is_ces": false,
+      "title": "Reinforcing Europe’s Democratic Future: The Role of University Alliances in Higher Education",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=2rF6Q-9H6Ag",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Reinforcing Europe’s Democratic Future: The Role of University Alliances in Higher Education https://www.youtube.com/watch?v=2rF6Q-9H6Ag",
+          "chars": 116
+        },
+        "bluesky": {
+          "text": "Reinforcing Europe’s Democratic Future: The Role of University Alliances in Higher Education https://www.youtube.com/watch?v=2rF6Q-9H6Ag",
+          "chars": 136
+        }
+      }
+    },
+    {
+      "id": 1364,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-johns-hopkins-university-president",
+      "person": "Namesake/noise match: Johns Hopkins, University President",
+      "is_ces": false,
+      "title": "William L. Marbury Jr.",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/William_L._Marbury_Jr.",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "William L. Marbury Jr. https://en.wikipedia.org/wiki/William_L._Marbury_Jr.",
+          "chars": 46
+        },
+        "bluesky": {
+          "text": "William L. Marbury Jr. https://en.wikipedia.org/wiki/William_L._Marbury_Jr.",
+          "chars": 75
+        }
+      }
+    },
+    {
+      "id": 1360,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: agora, Hopkins",
+      "is_ces": false,
+      "title": "(no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1357,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "(no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1356,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": "The Multiverse Physicists Actually Believe In #Shorts",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=ddoXzoBAaRM",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Multiverse Physicists Actually Believe In #Shorts https://www.youtube.com/watch?v=ddoXzoBAaRM",
+          "chars": 77
+        },
+        "bluesky": {
+          "text": "The Multiverse Physicists Actually Believe In #Shorts https://www.youtube.com/watch?v=ddoXzoBAaRM",
+          "chars": 97
+        }
+      }
+    },
+    {
+      "id": 1361,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-agora-agora-hopkins",
+      "person": "Namesake/noise match: Agora, agora, Hopkins",
+      "is_ces": false,
+      "title": "Peringkat: 100 film horor terbaik sepanjang masa",
+      "has_text": true,
+      "url": "https://id.showmetech.com.br/film-horor-terbaik-sepanjang-masa/",
+      "source": "BAND.com.br - Showmetech",
+      "source_type": "online news",
+      "similar_mention_count": 10,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Peringkat: 100 film horor terbaik sepanjang masa https://id.showmetech.com.br/film-horor-terbaik-sepanjang-masa/",
+          "chars": 72
+        },
+        "bluesky": {
+          "text": "Peringkat: 100 film horor terbaik sepanjang masa https://id.showmetech.com.br/film-horor-terbaik-sepanjang-masa/",
+          "chars": 112
+        }
+      }
+    },
+    {
+      "id": 1362,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: agora, Hopkins",
+      "is_ces": false,
+      "title": "Surfistas portugueses animados para competir na prova de elite em Peniche",
+      "has_text": true,
+      "url": "https://www.cmjornal.pt/desporto/modalidades/detalhe/surfistas-portugueses-animados-para-competir-na-prova-de-elite-em-peniche",
+      "source": "Correio da Manhã",
+      "source_type": "online news",
+      "similar_mention_count": 6,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Surfistas portugueses animados para competir na prova de elite em Peniche https://www.cmjornal.pt/desporto/modalidades/detalhe/surfistas-portugueses-animados-para-competir-na-prova-de-elite-em-peniche",
+          "chars": 97
+        },
+        "bluesky": {
+          "text": "Surfistas portugueses animados para competir na prova de elite em Peniche https://www.cmjornal.pt/desporto/modalidades/detalhe/surfistas-portugueses-animados-para-competir-na-prova-de-elite-em-peniche",
+          "chars": 200
+        }
+      }
+    },
+    {
+      "id": 1351,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "louis-hyman",
+      "person": "Louis Hyman",
+      "is_ces": true,
+      "title": "Who gets to have 'good debt'? A sociologist, theologian, philosopher and other experts weigh in",
+      "has_text": true,
+      "url": "https://www.cnbc.com/2026/10/15/good-debt-access.html",
+      "source": "CNBC",
+      "source_type": "online news",
+      "similar_mention_count": 4,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Who gets to have 'good debt'? A sociologist, theologian, philosopher and other experts weigh in https://www.cnbc.com/2026/10/15/good-debt-access.html",
+          "chars": 119
+        },
+        "bluesky": {
+          "text": "Who gets to have 'good debt'? A sociologist, theologian, philosopher and other experts weigh in https://www.cnbc.com/2026/10/15/good-debt-access.html",
+          "chars": 149
+        }
+      }
+    },
+    {
+      "id": 1358,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "(no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1355,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins-university-president",
+      "person": "Namesake/noise match: higher education, Johns Hopkins, University President",
+      "is_ces": false,
+      "title": "Benson formally inaugurated as WVU's 27th president, outlines ambitious vision for university's future",
+      "has_text": true,
+      "url": "https://www.wvnews.com/news/wvnews/benson-formally-inaugurated-as-wvus-27th-president-outlines-ambitious-vision-for-universitys-future/article_17299db7-2836-4587-b194-37199b5f0ac3.html",
+      "source": "WV News",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Benson formally inaugurated as WVU's 27th president, outlines ambitious vision for university's future https://www.wvnews.com/news/wvnews/benson-formally-inaugurated-as-wvus-27th-president-outlines-ambitious-vision-for-universitys-future/article_17299db7-2836-4587-b194-37199b5f0ac3.html",
+          "chars": 126
+        },
+        "bluesky": {
+          "text": "Benson formally inaugurated as WVU's 27th president, outlines ambitious vision for university's future https://www.wvnews.com/news/wvnews/benson-formally-inaugurated-as-wvus-27th-president-outlines-ambitious-vision-for-universitys-future/article_17299db7-2836-4587-b194-37199b5f0ac3.html",
+          "chars": 287
+        }
+      }
+    },
+    {
+      "id": 1354,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "ronald-j-daniels",
+      "person": "Ronald J. Daniels",
+      "is_ces": false,
+      "title": "President Ron Daniels at Impact Maryland: “True Prosperity in Maryland Must Be Created Here”",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=O5lAbXkkaGI",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "President Ron Daniels at Impact Maryland: “True Prosperity in Maryland Must Be Created Here” https://www.youtube.com/watch?v=O5lAbXkkaGI",
+          "chars": 116
+        },
+        "bluesky": {
+          "text": "President Ron Daniels at Impact Maryland: “True Prosperity in Maryland Must Be Created Here” https://www.youtube.com/watch?v=O5lAbXkkaGI",
+          "chars": 136
+        }
+      }
+    },
+    {
+      "id": 1352,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "amy-binder",
+      "person": "Amy Binder",
+      "is_ces": false,
+      "title": "More members and money — and more fractures: The uncertain future of Erika Kirk’s Turning Point USA",
+      "has_text": true,
+      "url": "https://19thnews.org/2026/10/erika-kirk-turning-point-usa/",
+      "source": "The 19th",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "More members and money — and more fractures: The uncertain future of Erika Kirk’s Turning Point USA https://19thnews.org/2026/10/erika-kirk-turning-point-usa/",
+          "chars": 123
+        },
+        "bluesky": {
+          "text": "More members and money — and more fractures: The uncertain future of Erika Kirk’s Turning Point USA https://19thnews.org/2026/10/erika-kirk-turning-point-usa/",
+          "chars": 158
+        }
+      }
+    },
+    {
+      "id": 1383,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "steven-teles",
+      "person": "Steven Teles",
+      "is_ces": true,
+      "title": "THIS DOES NOT HAVE TO BE DIFFICULT.",
+      "has_text": true,
+      "url": "http://coldspringshops.blogspot.com/2026/10/this-does-not-have-to-be-difficult.html",
+      "source": "Cold Spring Shops",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "THIS DOES NOT HAVE TO BE DIFFICULT. http://coldspringshops.blogspot.com/2026/10/this-does-not-have-to-be-difficult.html",
+          "chars": 59
+        },
+        "bluesky": {
+          "text": "THIS DOES NOT HAVE TO BE DIFFICULT. http://coldspringshops.blogspot.com/2026/10/this-does-not-have-to-be-difficult.html",
+          "chars": 119
+        }
+      }
+    },
+    {
+      "id": 1382,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "jenna-storey",
+      "person": "Jenna Silber Storey",
+      "is_ces": false,
+      "title": "THIS DOES NOT HAVE TO BE DIFFICULT.",
+      "has_text": true,
+      "url": "http://coldspringshops.blogspot.com/2026/10/this-does-not-have-to-be-difficult.html",
+      "source": "Cold Spring Shops",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "THIS DOES NOT HAVE TO BE DIFFICULT. http://coldspringshops.blogspot.com/2026/10/this-does-not-have-to-be-difficult.html",
+          "chars": 59
+        },
+        "bluesky": {
+          "text": "THIS DOES NOT HAVE TO BE DIFFICULT. http://coldspringshops.blogspot.com/2026/10/this-does-not-have-to-be-difficult.html",
+          "chars": 119
+        }
+      }
+    },
+    {
+      "id": 1381,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: Agora, Hopkins",
+      "is_ces": false,
+      "title": "Salazar, os americanos e as Lajes",
+      "has_text": true,
+      "url": "https://otambosi.blogspot.com/2026/10/salazar-os-americanos-e-as-lajes.html",
+      "source": "BLOG DO ORLANDO TAMBOSI",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Salazar, os americanos e as Lajes https://otambosi.blogspot.com/2026/10/salazar-os-americanos-e-as-lajes.html",
+          "chars": 57
+        },
+        "bluesky": {
+          "text": "Salazar, os americanos e as Lajes https://otambosi.blogspot.com/2026/10/salazar-os-americanos-e-as-lajes.html",
+          "chars": 109
+        }
+      }
+    },
+    {
+      "id": 1380,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Is Global Health Still Worth It? Johns Hopkins Chair on Careers & PhD Admissions",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=gpZfEqQD4uU",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Is Global Health Still Worth It? Johns Hopkins Chair on Careers & PhD Admissions https://www.youtube.com/watch?v=gpZfEqQD4uU",
+          "chars": 104
+        },
+        "bluesky": {
+          "text": "Is Global Health Still Worth It? Johns Hopkins Chair on Careers & PhD Admissions https://www.youtube.com/watch?v=gpZfEqQD4uU",
+          "chars": 124
+        }
+      }
+    },
+    {
+      "id": 1379,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-agora-johns-hopkins",
+      "person": "Namesake/noise match: agora, Johns Hopkins",
+      "is_ces": false,
+      "title": "Mover criptomoedas para 'carteira virgem' por causa da IA pode não ser o bastante",
+      "has_text": true,
+      "url": "https://exame.com/future-of-money/mover-criptomoedas-para-carteira-virgem-por-causa-da-ia-pode-nao-ser-o-bastante/",
+      "source": "Exame",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Mover criptomoedas para 'carteira virgem' por causa da IA pode não ser o bastante https://exame.com/future-of-money/mover-criptomoedas-para-carteira-virgem-por-causa-da-ia-pode-nao-ser-o-bastante/",
+          "chars": 105
+        },
+        "bluesky": {
+          "text": "Mover criptomoedas para 'carteira virgem' por causa da IA pode não ser o bastante https://exame.com/future-of-money/mover-criptomoedas-para-carteira-virgem-por-causa-da-ia-pode-nao-ser-o-bastante/",
+          "chars": 196
+        }
+      }
+    },
+    {
+      "id": 1378,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: agora, Hopkins",
+      "is_ces": false,
+      "title": "25/11/2026 a 29/11/2026 Peça «O Filho», de Florian Zeller, chega a cinco cidades portuguesas",
+      "has_text": true,
+      "url": "https://www.cardapio.pt/teatro/78792-peca-o-filho-de-florian-zeller-chega-a-cinco-cidades-portuguesas/",
+      "source": "Cardápio",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "25/11/2026 a 29/11/2026 Peça «O Filho», de Florian Zeller, chega a cinco cidades portuguesas https://www.cardapio.pt/teatro/78792-peca-o-filho-de-florian-zeller-chega-a-cinco-cidades-portuguesas/",
+          "chars": 116
+        },
+        "bluesky": {
+          "text": "25/11/2026 a 29/11/2026 Peça «O Filho», de Florian Zeller, chega a cinco cidades portuguesas https://www.cardapio.pt/teatro/78792-peca-o-filho-de-florian-zeller-chega-a-cinco-cidades-portuguesas/",
+          "chars": 195
+        }
+      }
+    },
+    {
+      "id": 1377,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Introducing the graduate school tuition cut tracker",
+      "has_text": true,
+      "url": "https://prestoncooper93.substack.com/p/introducing-the-graduate-school-tuition",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Introducing the graduate school tuition cut tracker https://prestoncooper93.substack.com/p/introducing-the-graduate-school-tuition",
+          "chars": 75
+        },
+        "bluesky": {
+          "text": "Introducing the graduate school tuition cut tracker https://prestoncooper93.substack.com/p/introducing-the-graduate-school-tuition",
+          "chars": 130
+        }
+      }
+    },
+    {
+      "id": 1376,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "The top-ranked college in every state",
+      "has_text": true,
+      "url": "https://stacker.com/stories/careers-education/top-ranked-college-each-state",
+      "source": "Stacker",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The top-ranked college in every state https://stacker.com/stories/careers-education/top-ranked-college-each-state",
+          "chars": 61
+        },
+        "bluesky": {
+          "text": "The top-ranked college in every state https://stacker.com/stories/careers-education/top-ranked-college-each-state",
+          "chars": 113
+        }
+      }
+    },
+    {
+      "id": 1375,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Impact Maryland in Baltimore",
+      "has_text": true,
+      "url": "https://www.blackengineer.com/news-2/impact-maryland-2026-innovations-community-and-trust-shape-t/",
+      "source": "US Black Engineer and Information Technology Magazine",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Impact Maryland in Baltimore https://www.blackengineer.com/news-2/impact-maryland-2026-innovations-community-and-trust-shape-t/",
+          "chars": 52
+        },
+        "bluesky": {
+          "text": "Impact Maryland in Baltimore https://www.blackengineer.com/news-2/impact-maryland-2026-innovations-community-and-trust-shape-t/",
+          "chars": 127
+        }
+      }
+    },
+    {
+      "id": 1374,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-higher-education-hopkins-university-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Hopkins University, Johns Hopkins",
+      "is_ces": false,
+      "title": "Top 100 University Rankings Around The World 2026",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=rbiJTI05jAw",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Top 100 University Rankings Around The World 2026 https://www.youtube.com/watch?v=rbiJTI05jAw",
+          "chars": 73
+        },
+        "bluesky": {
+          "text": "Top 100 University Rankings Around The World 2026 https://www.youtube.com/watch?v=rbiJTI05jAw",
+          "chars": 93
+        }
+      }
+    },
+    {
+      "id": 1373,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-agora-agora-johns-hopkins",
+      "person": "Namesake/noise match: Agora, agora, Johns Hopkins",
+      "is_ces": false,
+      "title": "O problema com Foucault",
+      "has_text": true,
+      "url": "https://crisostomo.medium.com/o-problema-com-foucault-dbda58ffcc35",
+      "source": "Medium",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "O problema com Foucault https://crisostomo.medium.com/o-problema-com-foucault-dbda58ffcc35",
+          "chars": 47
+        },
+        "bluesky": {
+          "text": "O problema com Foucault https://crisostomo.medium.com/o-problema-com-foucault-dbda58ffcc35",
+          "chars": 90
+        }
+      }
+    },
+    {
+      "id": 1372,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-academic-freedom-academic-freedom-academic-freedom-faculty-senate-higher-education-higher-education-higher-education-johns-hopkins-viewpoint-diversity",
+      "person": "Namesake/noise match: academic freedom, Academic freedom, Academic Freedom, Faculty Senate, higher education, Higher Education, Higher education, Johns Hopkins, viewpoint diversity",
+      "is_ces": false,
+      "title": "Self-Censorship and Rule Governed Behavior",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s42822-026-00274-4",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Self-Censorship and Rule Governed Behavior https://link.springer.com/article/10.1007/s42822-026-00274-4",
+          "chars": 66
+        },
+        "bluesky": {
+          "text": "Self-Censorship and Rule Governed Behavior https://link.springer.com/article/10.1007/s42822-026-00274-4",
+          "chars": 103
+        }
+      }
+    },
+    {
+      "id": 1371,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-agora-johns-hopkins",
+      "person": "Namesake/noise match: agora, Johns Hopkins",
+      "is_ces": false,
+      "title": "Conheça Michael Bloomberg: o corretor de Wall Street demitido aos 39 anos que abriu uma empresa no dia seguinte e se tornou a pessoa mais rica de Nova York",
+      "has_text": true,
+      "url": "https://secretnyc.co/pt/conheca-michael-bloomberg-a-pessoa-mais-rica-de-nova-iorque-segundo-a-forbes-em-2026/",
+      "source": "Secret NYC",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Conheça Michael Bloomberg: o corretor de Wall Street demitido aos 39 anos que abriu uma empresa no dia seguinte e se tornou a pessoa mais rica de Nova York https://secretnyc.co/pt/conheca-michael-bloomberg-a-pessoa-mais-rica-de-nova-iorque-segundo-a-forbes-em-2026/",
+          "chars": 179
+        },
+        "bluesky": {
+          "text": "Conheça Michael Bloomberg: o corretor de Wall Street demitido aos 39 anos que abriu uma empresa no dia seguinte e se tornou a pessoa mais rica de Nova York https://secretnyc.co/pt/conheca-michael-bloomberg-a-pessoa-mais-rica-de-nova-iorque-segundo-a-forbes-em-2026/",
+          "chars": 265
+        }
+      }
+    },
+    {
+      "id": 1370,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: agora, Hopkins",
+      "is_ces": false,
+      "title": "Michael Schumacher: esposa relembra título de 1994 na Netflix enquanto família preserva estado de saúde",
+      "has_text": true,
+      "url": "https://www.mixvale.com.br/2026/10/15/michael-schumacher-esposa-relembra-titulo-de-1994-na-netflix-enquanto-familia-preserva-estado-de-saude/",
+      "source": "Mix Vale",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Michael Schumacher: esposa relembra título de 1994 na Netflix enquanto família preserva estado de saúde https://www.mixvale.com.br/2026/10/15/michael-schumacher-esposa-relembra-titulo-de-1994-na-netflix-enquanto-familia-preserva-estado-de-saude/",
+          "chars": 127
+        },
+        "bluesky": {
+          "text": "Michael Schumacher: esposa relembra título de 1994 na Netflix enquanto família preserva estado de saúde https://www.mixvale.com.br/2026/10/15/michael-schumacher-esposa-relembra-titulo-de-1994-na-netflix-enquanto-familia-preserva-estado-de-saude/",
+          "chars": 245
+        }
+      }
+    },
+    {
+      "id": 1369,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: agora, Hopkins",
+      "is_ces": false,
+      "title": "10 Filmes ABSURDOS de TÃO BONS!",
+      "has_text": true,
+      "url": "https://cinepop.com.br/10-filmes-absurdos-de-tao-bons-770622/",
+      "source": "CinePOP",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "10 Filmes ABSURDOS de TÃO BONS! https://cinepop.com.br/10-filmes-absurdos-de-tao-bons-770622/",
+          "chars": 55
+        },
+        "bluesky": {
+          "text": "10 Filmes ABSURDOS de TÃO BONS! https://cinepop.com.br/10-filmes-absurdos-de-tao-bons-770622/",
+          "chars": 93
+        }
+      }
+    },
+    {
+      "id": 1368,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "영국 Times Higher Education(THE) 2026 세계대학평가 랭킹",
+      "has_text": true,
+      "url": "https://pf.kakao.com/_RxnAJC/114905768",
+      "source": "KakaoTalk",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "영국 Times Higher Education(THE) 2026 세계대학평가 랭킹 https://pf.kakao.com/_RxnAJC/114905768",
+          "chars": 69
+        },
+        "bluesky": {
+          "text": "영국 Times Higher Education(THE) 2026 세계대학평가 랭킹 https://pf.kakao.com/_RxnAJC/114905768",
+          "chars": 84
+        }
+      }
+    },
+    {
+      "id": 1367,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Online sports betting linked to rise in depression and anxiety treatment",
+      "has_text": true,
+      "url": "https://medicalxpress.com/news/2026-10-online-sports-linked-depression-anxiety.html",
+      "source": "Medical Xpress",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Online sports betting linked to rise in depression and anxiety treatment https://medicalxpress.com/news/2026-10-online-sports-linked-depression-anxiety.html",
+          "chars": 96
+        },
+        "bluesky": {
+          "text": "Online sports betting linked to rise in depression and anxiety treatment https://medicalxpress.com/news/2026-10-online-sports-linked-depression-anxiety.html",
+          "chars": 156
+        }
+      }
+    },
+    {
+      "id": 1363,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-agora-agora-hopkins",
+      "person": "Namesake/noise match: Agora, agora, Hopkins",
+      "is_ces": false,
+      "title": "Do ‘wow’ ao céu é o limite. Todos os sonhos vão dar a Peniche",
+      "has_text": true,
+      "url": "https://24noticias.sapo.pt/desporto/artigos/do-wow-ao-ceu-e-o-limite-todos-os-sonhos-vao-dar-a-peniche",
+      "source": "SAPO",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Do ‘wow’ ao céu é o limite. Todos os sonhos vão dar a Peniche https://24noticias.sapo.pt/desporto/artigos/do-wow-ao-ceu-e-o-limite-todos-os-sonhos-vao-dar-a-peniche",
+          "chars": 85
+        },
+        "bluesky": {
+          "text": "Do ‘wow’ ao céu é o limite. Todos os sonhos vão dar a Peniche https://24noticias.sapo.pt/desporto/artigos/do-wow-ao-ceu-e-o-limite-todos-os-sonhos-vao-dar-a-peniche",
+          "chars": 164
+        }
+      }
+    },
+    {
+      "id": 1359,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "dylan-selterman",
+      "person": "Dylan Selterman",
+      "is_ces": false,
+      "title": "(no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1353,
+      "date": "2026-10-15",
+      "week_start": "2026-10-12",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "Yascha Mounk tiene una relazione magistrale al Words of Hope Forum 2026",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=KfSNWsmHvFc",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Yascha Mounk tiene una relazione magistrale al Words of Hope Forum 2026 https://www.youtube.com/watch?v=KfSNWsmHvFc",
+          "chars": 95
+        },
+        "bluesky": {
+          "text": "Yascha Mounk tiene una relazione magistrale al Words of Hope Forum 2026 https://www.youtube.com/watch?v=KfSNWsmHvFc",
+          "chars": 115
+        }
+      }
+    },
     {
       "id": 1342,
       "date": "2026-10-15",
