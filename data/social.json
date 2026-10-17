@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-10-16T07:07:28-04:00",
-  "count": 79,
+  "generated_at": "2026-10-17T07:08:42-04:00",
+  "count": 80,
   "picks": [
+    {
+      "id": 98,
+      "mention_id": 1395,
+      "digest_date": "2026-10-16",
+      "person": "Scott Warren",
+      "person_id": "scott-warren",
+      "person_ids": [
+        "scott-warren"
+      ],
+      "is_ces": false,
+      "punchy_title": "Scott Warren: Moral Righteousness Won't Win Anyone Over",
+      "headline": "Scott Warren: Moral Righteousness Won't Win Anyone Over",
+      "pull_quote": "Scott Warren reflects on the pitfalls of \"moral righteousness\" in political outreach. Drawing on deep ethnographic interviews conducted across rural Wyoming, South Carolina, and Michigan by the SNF Agora Institute at Johns Hopkins University",
+      "rationale": "Scott Warren reflects on the pitfalls of \"moral righteousness\" in political outreach. Drawing on deep ethnographic interviews conducted across rural Wyoming, South Carolina, and Michigan by the SNF Agora Institute at Johns Hopkins University",
+      "url": "https://www.instagram.com/reel/DekxVItmu2j/",
+      "story_url": "https://www.instagram.com/reel/DekxVItmu2j/",
+      "created_at": "2026-10-17 11:08:35",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Why \"we are right and they are wrong\" fails to build civic trust: on Outrage Overload, Scott Warren draws on SNF Agora Institute interviews in rural Wyoming, South Carolina and Michigan. https://www.instagram.com/reel/DekxVItmu2j/",
+          "chars": 230,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Why%20%22we%20are%20right%20and%20they%20are%20wrong%22%20fails%20to%20build%20civic%20trust%3A%20on%20Outrage%20Overload%2C%20Scott%20Warren%20draws%20on%20SNF%20Agora%20Institute%20interviews%20in%20rural%20Wyoming%2C%20South%20Carolina%20and%20Michigan.%20https%3A//www.instagram.com/reel/DekxVItmu2j/"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Why \"we are right and they are wrong\" fails to build civic trust: on the Outrage Overload podcast, Scott Warren draws on SNF Agora Institute ethnographic interviews in rural Wyoming, South Carolina and Michigan. https://www.instagram.com/reel/DekxVItmu2j/",
+          "chars": 255,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Why%20%22we%20are%20right%20and%20they%20are%20wrong%22%20fails%20to%20build%20civic%20trust%3A%20on%20the%20Outrage%20Overload%20podcast%2C%20Scott%20Warren%20draws%20on%20SNF%20Agora%20Institute%20ethnographic%20interviews%20in%20rural%20Wyoming%2C%20South%20Carolina%20and%20Michigan.%20https%3A//www.instagram.com/reel/DekxVItmu2j/"
+        }
+      ]
+    },
     {
       "id": 97,
       "mention_id": 1351,

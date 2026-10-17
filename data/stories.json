@@ -1,7 +1,759 @@
 {
-  "generated_at": "2026-10-16T07:07:28-04:00",
-  "count": 1373,
+  "generated_at": "2026-10-17T07:08:42-04:00",
+  "count": 1404,
   "stories": [
+    {
+      "id": 1388,
+      "date": "2026-10-17",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Nature Conference India 2026 at MAHE Manipal puts infectious disease threats under the scientific spotlight",
+      "has_text": true,
+      "url": "https://entrepreneursnewsroom.com/business/nature-conference-india-2026-at-mahe-manipal-puts-infectious-disease-threats-under-the-scientific-spotlight",
+      "source": "Entrepreneurs News Room",
+      "source_type": "online news",
+      "similar_mention_count": 134,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Nature Conference India 2026 at MAHE Manipal puts infectious disease threats under the scientific spotlight https://entrepreneursnewsroom.com/business/nature-conference-india-2026-at-mahe-manipal-puts-infectious-disease-threats-under-the-scientific-spotlight",
+          "chars": 131
+        },
+        "bluesky": {
+          "text": "Nature Conference India 2026 at MAHE Manipal puts infectious disease threats under the scientific spotlight https://entrepreneursnewsroom.com/business/nature-conference-india-2026-at-mahe-manipal-puts-infectious-disease-threats-under-the-scientific-spotlight",
+          "chars": 258
+        }
+      }
+    },
+    {
+      "id": 1384,
+      "date": "2026-10-17",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: Agora, Hopkins",
+      "is_ces": false,
+      "title": "(no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 37,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1390,
+      "date": "2026-10-17",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-emily-white-hopkins",
+      "person": "Namesake/noise match: Emily White, Hopkins",
+      "is_ces": false,
+      "title": "WAND’s Athlete of the Week: Phoenix Pope",
+      "has_text": true,
+      "url": "https://www.europesays.com/us/1124801/",
+      "source": "EUROPE SAYS",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "WAND’s Athlete of the Week: Phoenix Pope https://www.europesays.com/us/1124801/",
+          "chars": 64
+        },
+        "bluesky": {
+          "text": "WAND’s Athlete of the Week: Phoenix Pope https://www.europesays.com/us/1124801/",
+          "chars": 79
+        }
+      }
+    },
+    {
+      "id": 1389,
+      "date": "2026-10-17",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-agora-johns-hopkins",
+      "person": "Namesake/noise match: agora, Johns Hopkins",
+      "is_ces": false,
+      "title": "Troca de apoio à democracia da Ucrânia por petróleo da Rússia faz de Trump um traidor",
+      "has_text": true,
+      "url": "https://www1.folha.uol.com.br/colunas/thomas-l-friedman/2026/10/troca-de-apoio-a-democracia-da-ucrania-por-petroleo-da-russia-faz-de-trump-um-traidor.shtml",
+      "source": "UOL ",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Troca de apoio à democracia da Ucrânia por petróleo da Rússia faz de Trump um traidor https://www1.folha.uol.com.br/colunas/thomas-l-friedman/2026/10/troca-de-apoio-a-democracia-da-ucrania-por-petroleo-da-russia-faz-de-trump-um-traidor.shtml",
+          "chars": 109
+        },
+        "bluesky": {
+          "text": "Troca de apoio à democracia da Ucrânia por petróleo da Rússia faz de Trump um traidor https://www1.folha.uol.com.br/colunas/thomas-l-friedman/2026/10/troca-de-apoio-a-democracia-da-ucrania-por-petroleo-da-russia-faz-de-trump-um-traidor.shtml",
+          "chars": 241
+        }
+      }
+    },
+    {
+      "id": 1387,
+      "date": "2026-10-17",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-hopkins-max-cohen",
+      "person": "Namesake/noise match: Hopkins, max Cohen",
+      "is_ces": false,
+      "title": "Charting brain structure in 22q11.2 deletion syndrome with clinical neuroimaging",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1186/s13073-026-01788-7",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Charting brain structure in 22q11.2 deletion syndrome with clinical neuroimaging https://link.springer.com/article/10.1186/s13073-026-01788-7",
+          "chars": 104
+        },
+        "bluesky": {
+          "text": "Charting brain structure in 22q11.2 deletion syndrome with clinical neuroimaging https://link.springer.com/article/10.1186/s13073-026-01788-7",
+          "chars": 141
+        }
+      }
+    },
+    {
+      "id": 1386,
+      "date": "2026-10-17",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-hopkins-university-johns-hopkins",
+      "person": "Namesake/noise match: Hopkins University, Johns Hopkins",
+      "is_ces": false,
+      "title": "Hill-Lopes Seminar: Bioengineering of Molecules to Effectively Treat Cancer and Infectious Diseases",
+      "has_text": true,
+      "url": "https://events.towson.edu/event/hill-lopes-seminar-bioengineering-of-molecules-to-effectively-treat-cancer-and-infectious-diseases",
+      "source": "WMJF-TV (Towson, MD)",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Hill-Lopes Seminar: Bioengineering of Molecules to Effectively Treat Cancer and Infectious Diseases https://events.towson.edu/event/hill-lopes-seminar-bioengineering-of-molecules-to-effectively-treat-cancer-and-infectious-diseases",
+          "chars": 123
+        },
+        "bluesky": {
+          "text": "Hill-Lopes Seminar: Bioengineering of Molecules to Effectively Treat Cancer and Infectious Diseases https://events.towson.edu/event/hill-lopes-seminar-bioengineering-of-molecules-to-effectively-treat-cancer-and-infectious-diseases",
+          "chars": 230
+        }
+      }
+    },
+    {
+      "id": 1385,
+      "date": "2026-10-17",
+      "week_start": "2026-10-12",
+      "person_id": "louis-hyman",
+      "person": "Louis Hyman",
+      "is_ces": true,
+      "title": "Who Gets Access to Good Debt Experts Weigh In",
+      "has_text": true,
+      "url": "https://www.archyde.com/who-gets-access-to-good-debt-experts-weigh-in/",
+      "source": "ARCHYDE",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Who Gets Access to Good Debt Experts Weigh In https://www.archyde.com/who-gets-access-to-good-debt-experts-weigh-in/",
+          "chars": 69
+        },
+        "bluesky": {
+          "text": "Who Gets Access to Good Debt Experts Weigh In https://www.archyde.com/who-gets-access-to-good-debt-experts-weigh-in/",
+          "chars": 116
+        }
+      }
+    },
+    {
+      "id": 1393,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: Agora, Hopkins",
+      "is_ces": false,
+      "title": "(no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 343,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1392,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: agora, Hopkins",
+      "is_ces": false,
+      "title": "(no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 19,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1414,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "scott-warren",
+      "person": "Scott Warren",
+      "is_ces": false,
+      "title": "Global democracy under attack despite Biden push",
+      "has_text": true,
+      "url": "https://elevenmyanmar.com/news/global-democracy-under-attack-despite-biden-push",
+      "source": "Eleven Media Group Co., Ltd",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Global democracy under attack despite Biden push https://elevenmyanmar.com/news/global-democracy-under-attack-despite-biden-push",
+          "chars": 72
+        },
+        "bluesky": {
+          "text": "Global democracy under attack despite Biden push https://elevenmyanmar.com/news/global-democracy-under-attack-despite-biden-push",
+          "chars": 128
+        }
+      }
+    },
+    {
+      "id": 1413,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-higher-education-hopkins-university",
+      "person": "Namesake/noise match: Higher education, Hopkins University",
+      "is_ces": false,
+      "title": "(no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1412,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "FYI science policy news",
+      "has_text": true,
+      "url": "https://physicstoday.aip.org/news/fyi-science-policy-news-nov26",
+      "source": "FYI: Science Policy News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "FYI science policy news https://physicstoday.aip.org/news/fyi-science-policy-news-nov26",
+          "chars": 47
+        },
+        "bluesky": {
+          "text": "FYI science policy news https://physicstoday.aip.org/news/fyi-science-policy-news-nov26",
+          "chars": 87
+        }
+      }
+    },
+    {
+      "id": 1411,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "TECH Global University dispone de un claustro docente internacional que la posiciona como el Harvard online",
+      "has_text": true,
+      "url": "https://eleconomista.com.ar/internacional/tech-global-university-dispone-claustro-docente-internacional-posiciona-como-harvard-online-n98919",
+      "source": "El Economista",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "TECH Global University dispone de un claustro docente internacional que la posiciona como el Harvard online https://eleconomista.com.ar/internacional/tech-global-university-dispone-claustro-docente-internacional-posiciona-como-harvard-online-n98919",
+          "chars": 131
+        },
+        "bluesky": {
+          "text": "TECH Global University dispone de un claustro docente internacional que la posiciona como el Harvard online https://eleconomista.com.ar/internacional/tech-global-university-dispone-claustro-docente-internacional-posiciona-como-harvard-online-n98919",
+          "chars": 248
+        }
+      }
+    },
+    {
+      "id": 1410,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Discussion on infectious diseases held at conference",
+      "has_text": true,
+      "url": "https://timesofindia.indiatimes.com/city/mangaluru/discussion-on-infectious-diseases-held-at-conference/articleshow/134997286.cms",
+      "source": "The Times of India",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Discussion on infectious diseases held at conference https://timesofindia.indiatimes.com/city/mangaluru/discussion-on-infectious-diseases-held-at-conference/articleshow/134997286.cms",
+          "chars": 76
+        },
+        "bluesky": {
+          "text": "Discussion on infectious diseases held at conference https://timesofindia.indiatimes.com/city/mangaluru/discussion-on-infectious-diseases-held-at-conference/articleshow/134997286.cms",
+          "chars": 182
+        }
+      }
+    },
+    {
+      "id": 1409,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: Agora, Hopkins",
+      "is_ces": false,
+      "title": "Zastudil: The Cleveland homeland has its Guard up for Browns future",
+      "has_text": true,
+      "url": "https://baltimorepositive.com/zastudil-the-cleveland-homeland-has-its-guard-up-for-browns-future/",
+      "source": "Baltimore Positive",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Zastudil: The Cleveland homeland has its Guard up for Browns future https://baltimorepositive.com/zastudil-the-cleveland-homeland-has-its-guard-up-for-browns-future/",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "Zastudil: The Cleveland homeland has its Guard up for Browns future https://baltimorepositive.com/zastudil-the-cleveland-homeland-has-its-guard-up-for-browns-future/",
+          "chars": 165
+        }
+      }
+    },
+    {
+      "id": 1408,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "15 Online Summer Schools for Middle School Students",
+      "has_text": true,
+      "url": "https://www.lumiere-education.com/post/online-summer-schools-for-middle-school-students?utm_source=direct&utm_medium=none&utm_campaign=&utm_source_last=direct&utm_medium_last=none&utm_campaign_last=",
+      "source": "Lumiere Education",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "15 Online Summer Schools for Middle School Students https://www.lumiere-education.com/post/online-summer-schools-for-middle-school-students?utm_source=direct&utm_medium=none&utm_campaign=&utm_source_last=direct&utm_medium_last=none&utm_campaign_last=",
+          "chars": 75
+        },
+        "bluesky": {
+          "text": "15 Online Summer Schools for Middle School Students https://www.lumiere-education.com/post/online-summer-schools-for-middle-school-students?utm_source=direct&utm_medium=none&utm_campaign=&utm_source_last=direct&utm_medium_last=none&utm_campaign_last=",
+          "chars": 250
+        }
+      }
+    },
+    {
+      "id": 1407,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Hołodomor. Jak Stalin zamienił głód w broń przeciwko Ukrainie | Bez mitów #15",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=7Eo239bHCn0",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Hołodomor. Jak Stalin zamienił głód w broń przeciwko Ukrainie | Bez mitów #15 https://www.youtube.com/watch?v=7Eo239bHCn0",
+          "chars": 101
+        },
+        "bluesky": {
+          "text": "Hołodomor. Jak Stalin zamienił głód w broń przeciwko Ukrainie | Bez mitów #15 https://www.youtube.com/watch?v=7Eo239bHCn0",
+          "chars": 121
+        }
+      }
+    },
+    {
+      "id": 1406,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "dylan-selterman",
+      "person": "Dylan Selterman",
+      "is_ces": false,
+      "title": "(no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1405,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: agora, Hopkins",
+      "is_ces": false,
+      "title": "Guilherme Ribeiro, Teresa Bonvalot e Francisca Veselko nos quartos-de-final do MEO Rip Curl Pro",
+      "has_text": true,
+      "url": "https://comiteolimpicoportugal.pt/configuracoes/lista-de-noticias/guilherme-ribeiro-teresa-bonvalot-e-francisca-veselko-nos-quartos-de-final-do-meo-rip-curl-pro/",
+      "source": "Cop",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Guilherme Ribeiro, Teresa Bonvalot e Francisca Veselko nos quartos-de-final do MEO Rip Curl Pro https://comiteolimpicoportugal.pt/configuracoes/lista-de-noticias/guilherme-ribeiro-teresa-bonvalot-e-francisca-veselko-nos-quartos-de-final-do-meo-rip-curl-pro/",
+          "chars": 119
+        },
+        "bluesky": {
+          "text": "Guilherme Ribeiro, Teresa Bonvalot e Francisca Veselko nos quartos-de-final do MEO Rip Curl Pro https://comiteolimpicoportugal.pt/configuracoes/lista-de-noticias/guilherme-ribeiro-teresa-bonvalot-e-francisca-veselko-nos-quartos-de-final-do-meo-rip-curl-pro/",
+          "chars": 257
+        }
+      }
+    },
+    {
+      "id": 1404,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-agora-johns-hopkins",
+      "person": "Namesake/noise match: agora, Johns Hopkins",
+      "is_ces": false,
+      "title": "pessoas no mundo, em média. Tem 9 milhões de pessoas fazendo aniversário no mesmo dia que você.\n\nO U",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=d3DgB5PGAT0&lc=UgwNGZVP_fIv8J3pe5p4AaABAg",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "pessoas no mundo, em média. Tem 9 milhões de pessoas fazendo aniversário no mesmo dia que você.\n\nO U https://www.youtube.com/watch?v=d3DgB5PGAT0&lc=UgwNGZVP_fIv8J3pe5p4AaABAg",
+          "chars": 124
+        },
+        "bluesky": {
+          "text": "pessoas no mundo, em média. Tem 9 milhões de pessoas fazendo aniversário no mesmo dia que você.\n\nO U https://www.youtube.com/watch?v=d3DgB5PGAT0&lc=UgwNGZVP_fIv8J3pe5p4AaABAg",
+          "chars": 174
+        }
+      }
+    },
+    {
+      "id": 1403,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: Agora, Hopkins",
+      "is_ces": false,
+      "title": "Com revanche de Medina e triunfo no ranking, Brazilian Storm brilha no CT de Peniche e revira ranking da WSL",
+      "has_text": true,
+      "url": "https://www.nsctotal.com.br/esportes/com-revanche-de-media-e-triunfo-no-ranking-brazilian-storm-brilha-no-ct-de-peniche-e-revira-ranking-da-wsl",
+      "source": "NSC Total",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Com revanche de Medina e triunfo no ranking, Brazilian Storm brilha no CT de Peniche e revira ranking da WSL https://www.nsctotal.com.br/esportes/com-revanche-de-media-e-triunfo-no-ranking-brazilian-storm-brilha-no-ct-de-peniche-e-revira-ranking-da-wsl",
+          "chars": 132
+        },
+        "bluesky": {
+          "text": "Com revanche de Medina e triunfo no ranking, Brazilian Storm brilha no CT de Peniche e revira ranking da WSL https://www.nsctotal.com.br/esportes/com-revanche-de-media-e-triunfo-no-ranking-brazilian-storm-brilha-no-ct-de-peniche-e-revira-ranking-da-wsl",
+          "chars": 252
+        }
+      }
+    },
+    {
+      "id": 1402,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-johns-hopkins-university-president",
+      "person": "Namesake/noise match: Johns Hopkins, University president",
+      "is_ces": false,
+      "title": "AI Conference, New Center for Faith and Tech Bring Cultural Moment to Calvin",
+      "has_text": true,
+      "url": "https://www.thebanner.org/news/2026/10/ai-conference-new-center-for-faith-and-tech-bring-cultural-moment-to-calvin",
+      "source": "Banner",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "AI Conference, New Center for Faith and Tech Bring Cultural Moment to Calvin https://www.thebanner.org/news/2026/10/ai-conference-new-center-for-faith-and-tech-bring-cultural-moment-to-calvin",
+          "chars": 100
+        },
+        "bluesky": {
+          "text": "AI Conference, New Center for Faith and Tech Bring Cultural Moment to Calvin https://www.thebanner.org/news/2026/10/ai-conference-new-center-for-faith-and-tech-bring-cultural-moment-to-calvin",
+          "chars": 191
+        }
+      }
+    },
+    {
+      "id": 1401,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "CUNY LGBTQI+ Hub",
+      "has_text": true,
+      "url": "https://www.cuny.edu/about/administration/offices/student-affairs/programs-services/cuny-lgbtqi-hub/",
+      "source": "Scepter Student Newspaper",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "CUNY LGBTQI+ Hub https://www.cuny.edu/about/administration/offices/student-affairs/programs-services/cuny-lgbtqi-hub/",
+          "chars": 40
+        },
+        "bluesky": {
+          "text": "CUNY LGBTQI+ Hub https://www.cuny.edu/about/administration/offices/student-affairs/programs-services/cuny-lgbtqi-hub/",
+          "chars": 117
+        }
+      }
+    },
+    {
+      "id": 1400,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "The Speedback Loop",
+      "has_text": true,
+      "url": "https://adamgarfinkle.substack.com/p/the-speedback-loop",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "The Speedback Loop https://adamgarfinkle.substack.com/p/the-speedback-loop",
+          "chars": 42
+        },
+        "bluesky": {
+          "text": "The Speedback Loop https://adamgarfinkle.substack.com/p/the-speedback-loop",
+          "chars": 74
+        }
+      }
+    },
+    {
+      "id": 1399,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-agora-johns-hopkins",
+      "person": "Namesake/noise match: agora, Johns Hopkins",
+      "is_ces": false,
+      "title": "Genomas virais gerados por IA produzem 16 fagos viáveis, suscitando preocupações de segurança",
+      "has_text": true,
+      "url": "https://pt.cryptonomist.ch/2026/10/16/genomas-virais-gerados-por-ia-produzem-16-fagos-viaveis-suscitando-preocupacoes-de-seguranca/",
+      "source": "The Cryptonomist",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Genomas virais gerados por IA produzem 16 fagos viáveis, suscitando preocupações de segurança https://pt.cryptonomist.ch/2026/10/16/genomas-virais-gerados-por-ia-produzem-16-fagos-viaveis-suscitando-preocupacoes-de-seguranca/",
+          "chars": 117
+        },
+        "bluesky": {
+          "text": "Genomas virais gerados por IA produzem 16 fagos viáveis, suscitando preocupações de segurança https://pt.cryptonomist.ch/2026/10/16/genomas-virais-gerados-por-ia-produzem-16-fagos-viaveis-suscitando-preocupacoes-de-seguranca/",
+          "chars": 225
+        }
+      }
+    },
+    {
+      "id": 1398,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Napping linked to dementia risk",
+      "has_text": true,
+      "url": "https://medicalxpress.com/news/2026-10-napping-linked-dementia.html",
+      "source": "Medical Xpress",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Napping linked to dementia risk https://medicalxpress.com/news/2026-10-napping-linked-dementia.html",
+          "chars": 55
+        },
+        "bluesky": {
+          "text": "Napping linked to dementia risk https://medicalxpress.com/news/2026-10-napping-linked-dementia.html",
+          "chars": 99
+        }
+      }
+    },
+    {
+      "id": 1397,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: agora, Hopkins",
+      "is_ces": false,
+      "title": "Tim Burton está produzindo filme com roteiro de Kazuo Ishiguro",
+      "has_text": true,
+      "url": "https://blackcompany.com.br/cinema/tim-burton-filme-kazuo-ishiguro/",
+      "source": "Black&CO",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Tim Burton está produzindo filme com roteiro de Kazuo Ishiguro https://blackcompany.com.br/cinema/tim-burton-filme-kazuo-ishiguro/",
+          "chars": 86
+        },
+        "bluesky": {
+          "text": "Tim Burton está produzindo filme com roteiro de Kazuo Ishiguro https://blackcompany.com.br/cinema/tim-burton-filme-kazuo-ishiguro/",
+          "chars": 130
+        }
+      }
+    },
+    {
+      "id": 1396,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-agora-johns-hopkins",
+      "person": "Namesake/noise match: agora, Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1395,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "scott-warren",
+      "person": "Scott Warren",
+      "is_ces": false,
+      "title": "Outrage Overload clip: Scott Warren on \"moral righteousness\" in political outreach (Instagram reel)",
+      "has_text": true,
+      "url": "https://www.instagram.com/reel/DekxVItmu2j/",
+      "source": "Instagram",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Outrage Overload clip: Scott Warren on \"moral righteousness\" in political outreach (Instagram reel) https://www.instagram.com/reel/DekxVItmu2j/",
+          "chars": 123
+        },
+        "bluesky": {
+          "text": "Outrage Overload clip: Scott Warren on \"moral righteousness\" in political outreach (Instagram reel) https://www.instagram.com/reel/DekxVItmu2j/",
+          "chars": 143
+        }
+      }
+    },
+    {
+      "id": 1394,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Hackers steal personal data of millions of California students in massive breach",
+      "has_text": true,
+      "url": "https://us.headtopics.com/news/hackers-steal-personal-data-of-millions-of-california-88898257",
+      "source": "Head Topics",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Hackers steal personal data of millions of California students in massive breach https://us.headtopics.com/news/hackers-steal-personal-data-of-millions-of-california-88898257",
+          "chars": 104
+        },
+        "bluesky": {
+          "text": "Hackers steal personal data of millions of California students in massive breach https://us.headtopics.com/news/hackers-steal-personal-data-of-millions-of-california-88898257",
+          "chars": 174
+        }
+      }
+    },
+    {
+      "id": 1391,
+      "date": "2026-10-16",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "A surgeon who once stole cars and failed school finally tracks down the counselor who believed in him",
+      "has_text": true,
+      "url": "https://mypositiveoutlooks.com/counselor-helped-struggling-student-succeed-thank-him/",
+      "source": "Positive Outlooks",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "A surgeon who once stole cars and failed school finally tracks down the counselor who believed in him https://mypositiveoutlooks.com/counselor-helped-struggling-student-succeed-thank-him/",
+          "chars": 125
+        },
+        "bluesky": {
+          "text": "A surgeon who once stole cars and failed school finally tracks down the counselor who believed in him https://mypositiveoutlooks.com/counselor-helped-struggling-student-succeed-thank-him/",
+          "chars": 187
+        }
+      }
+    },
     {
       "id": 1366,
       "date": "2026-10-16",
