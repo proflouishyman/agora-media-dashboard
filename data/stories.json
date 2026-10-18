@@ -1,7 +1,180 @@
 {
-  "generated_at": "2026-10-17T07:08:42-04:00",
-  "count": 1404,
+  "generated_at": "2026-10-18T07:06:08-04:00",
+  "count": 1421,
   "stories": [
+    {
+      "id": 1417,
+      "date": "2026-10-18",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, Agora",
+      "is_ces": false,
+      "title": "(no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1421,
+      "date": "2026-10-18",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-johns-hopkins-federal-research-funding",
+      "person": "Namesake/noise match: Johns Hopkins, federal research funding",
+      "is_ces": false,
+      "title": "Pentagon probes 30 U.S. academic institutions for potential ties to adversaries",
+      "has_text": true,
+      "url": "https://www.europesays.com/unitedstates/47707/",
+      "source": "EUROPE SAYS",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Pentagon probes 30 U.S. academic institutions for potential ties to adversaries https://www.europesays.com/unitedstates/47707/",
+          "chars": 103
+        },
+        "bluesky": {
+          "text": "Pentagon probes 30 U.S. academic institutions for potential ties to adversaries https://www.europesays.com/unitedstates/47707/",
+          "chars": 126
+        }
+      }
+    },
+    {
+      "id": 1420,
+      "date": "2026-10-18",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, Agora",
+      "is_ces": false,
+      "title": "Rob Hopkins: “Só conseguimos construir o futuro que somos capazes de imaginar”",
+      "has_text": true,
+      "url": "https://www.publico.pt/2026/10/18/azul/entrevista/rob-hopkins-so-conseguimos-construir-futuro-capazes-imaginar-2189269#goog_rewarded",
+      "source": "Público",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Rob Hopkins: “Só conseguimos construir o futuro que somos capazes de imaginar” https://www.publico.pt/2026/10/18/azul/entrevista/rob-hopkins-so-conseguimos-construir-futuro-capazes-imaginar-2189269#goog_rewarded",
+          "chars": 102
+        },
+        "bluesky": {
+          "text": "Rob Hopkins: “Só conseguimos construir o futuro que somos capazes de imaginar” https://www.publico.pt/2026/10/18/azul/entrevista/rob-hopkins-so-conseguimos-construir-futuro-capazes-imaginar-2189269#goog_rewarded",
+          "chars": 211
+        }
+      }
+    },
+    {
+      "id": 1419,
+      "date": "2026-10-18",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-johns-hopkins-academic-freedom",
+      "person": "Namesake/noise match: Johns Hopkins, academic freedom",
+      "is_ces": false,
+      "title": "Flexner Report",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/Flexner_Report",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Flexner Report https://en.wikipedia.org/wiki/Flexner_Report",
+          "chars": 38
+        },
+        "bluesky": {
+          "text": "Flexner Report https://en.wikipedia.org/wiki/Flexner_Report",
+          "chars": 59
+        }
+      }
+    },
+    {
+      "id": 1418,
+      "date": "2026-10-18",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Abraham Flexner",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/Abraham_Flexner",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Abraham Flexner https://en.wikipedia.org/wiki/Abraham_Flexner",
+          "chars": 39
+        },
+        "bluesky": {
+          "text": "Abraham Flexner https://en.wikipedia.org/wiki/Abraham_Flexner",
+          "chars": 61
+        }
+      }
+    },
+    {
+      "id": 1416,
+      "date": "2026-10-18",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, JOHNS HOPKINS",
+      "is_ces": false,
+      "title": "2026年 『After the University: Higher Education and the Future of Intellectual Work』 Chad Wellmon (JOHNS HOPKINS UNIV PR)",
+      "has_text": true,
+      "url": "https://bsky.app/profile/discover.sinkan.net/post/3my5ceux5t527",
+      "source": "Bluesky",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "2026年 『After the University: Higher Education and the Future of Intellectual Work』 Chad Wellmon (JOHNS HOPKINS UNIV PR) https://bsky.app/profile/discover.sinkan.net/post/3my5ceux5t527",
+          "chars": 143
+        },
+        "bluesky": {
+          "text": "2026年 『After the University: Higher Education and the Future of Intellectual Work』 Chad Wellmon (JOHNS HOPKINS UNIV PR) https://bsky.app/profile/discover.sinkan.net/post/3my5ceux5t527",
+          "chars": 183
+        }
+      }
+    },
+    {
+      "id": 1415,
+      "date": "2026-10-18",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Education in the United States",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/Education_in_the_United_States",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Education in the United States https://en.wikipedia.org/wiki/Education_in_the_United_States",
+          "chars": 54
+        },
+        "bluesky": {
+          "text": "Education in the United States https://en.wikipedia.org/wiki/Education_in_the_United_States",
+          "chars": 91
+        }
+      }
+    },
     {
       "id": 1388,
       "date": "2026-10-17",
@@ -25,6 +198,49 @@
         "bluesky": {
           "text": "Nature Conference India 2026 at MAHE Manipal puts infectious disease threats under the scientific spotlight https://entrepreneursnewsroom.com/business/nature-conference-india-2026-at-mahe-manipal-puts-infectious-disease-threats-under-the-scientific-spotlight",
           "chars": 258
+        }
+      }
+    },
+    {
+      "id": 1422,
+      "date": "2026-10-17",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, Agora",
+      "is_ces": false,
+      "title": "(no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 79,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1425,
+      "date": "2026-10-17",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Nature Conference India 2026 at MAHE Manipal puts infectious disease threats under the scientific spotlight",
+      "has_text": true,
+      "url": "https://indiabreakingbuzz.co.in/nature-conference-india-2026-at-mahe-manipal-puts-infectious-disease-threats-under-the-scientific-spotlight",
+      "source": "India Breaking Buzz",
+      "source_type": "online news",
+      "similar_mention_count": 58,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Nature Conference India 2026 at MAHE Manipal puts infectious disease threats under the scientific spotlight https://indiabreakingbuzz.co.in/nature-conference-india-2026-at-mahe-manipal-puts-infectious-disease-threats-under-the-scientific-spotlight",
+          "chars": 131
+        },
+        "bluesky": {
+          "text": "Nature Conference India 2026 at MAHE Manipal puts infectious disease threats under the scientific spotlight https://indiabreakingbuzz.co.in/nature-conference-india-2026-at-mahe-manipal-puts-infectious-disease-threats-under-the-scientific-spotlight",
+          "chars": 247
         }
       }
     },
@@ -68,6 +284,205 @@
         "bluesky": {
           "text": "WAND’s Athlete of the Week: Phoenix Pope https://www.europesays.com/us/1124801/",
           "chars": 79
+        }
+      }
+    },
+    {
+      "id": 1431,
+      "date": "2026-10-17",
+      "week_start": "2026-10-12",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "Del engaño, el autoengaño y el voto útil",
+      "has_text": true,
+      "url": "https://www.eldiario.es/opinion/zona-critica/engano-autoengano-voto-util_129_13594311.html",
+      "source": "eldiario.es",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Del engaño, el autoengaño y el voto útil https://www.eldiario.es/opinion/zona-critica/engano-autoengano-voto-util_129_13594311.html",
+          "chars": 64
+        },
+        "bluesky": {
+          "text": "Del engaño, el autoengaño y el voto útil https://www.eldiario.es/opinion/zona-critica/engano-autoengano-voto-util_129_13594311.html",
+          "chars": 131
+        }
+      }
+    },
+    {
+      "id": 1430,
+      "date": "2026-10-17",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: agora, Hopkins",
+      "is_ces": false,
+      "title": "Francisca Veselko termina em quinto nos quartos de final da WSL em Peniche",
+      "has_text": true,
+      "url": "https://pt.headtopics.com/news/francisca-veselko-termina-em-quinto-nos-quartos-de-final-da-88911115",
+      "source": "Head Topics",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Francisca Veselko termina em quinto nos quartos de final da WSL em Peniche https://pt.headtopics.com/news/francisca-veselko-termina-em-quinto-nos-quartos-de-final-da-88911115",
+          "chars": 98
+        },
+        "bluesky": {
+          "text": "Francisca Veselko termina em quinto nos quartos de final da WSL em Peniche https://pt.headtopics.com/news/francisca-veselko-termina-em-quinto-nos-quartos-de-final-da-88911115",
+          "chars": 174
+        }
+      }
+    },
+    {
+      "id": 1429,
+      "date": "2026-10-17",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "Trump trai Ucrânia ao trocar apoio por petróleo da Rússia",
+      "has_text": true,
+      "url": "https://valentinaemqap.com.br/trump-trai-ucrania-ao-trocar-apoio-por-petroleo-da-russia/",
+      "source": "Valentina em Qap",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Trump trai Ucrânia ao trocar apoio por petróleo da Rússia https://valentinaemqap.com.br/trump-trai-ucrania-ao-trocar-apoio-por-petroleo-da-russia/",
+          "chars": 81
+        },
+        "bluesky": {
+          "text": "Trump trai Ucrânia ao trocar apoio por petróleo da Rússia https://valentinaemqap.com.br/trump-trai-ucrania-ao-trocar-apoio-por-petroleo-da-russia/",
+          "chars": 146
+        }
+      }
+    },
+    {
+      "id": 1428,
+      "date": "2026-10-17",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, agora",
+      "is_ces": false,
+      "title": "Surf: prova suspensa em Supertubos à espera de melhores condições após adeus de Veselko",
+      "has_text": true,
+      "url": "https://sapo.pt/artigo/surf-prova-suspensa-em-supertubos-a-espera-de-melhores-condicoes-apos-adeus-de-veselko-6ad3a25a67f99269c88dff64",
+      "source": "SAPO",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Surf: prova suspensa em Supertubos à espera de melhores condições após adeus de Veselko https://sapo.pt/artigo/surf-prova-suspensa-em-supertubos-a-espera-de-melhores-condicoes-apos-adeus-de-veselko-6ad3a25a67f99269c88dff64",
+          "chars": 111
+        },
+        "bluesky": {
+          "text": "Surf: prova suspensa em Supertubos à espera de melhores condições após adeus de Veselko https://sapo.pt/artigo/surf-prova-suspensa-em-supertubos-a-espera-de-melhores-condicoes-apos-adeus-de-veselko-6ad3a25a67f99269c88dff64",
+          "chars": 222
+        }
+      }
+    },
+    {
+      "id": 1427,
+      "date": "2026-10-17",
+      "week_start": "2026-10-12",
+      "person_id": "dylan-selterman",
+      "person": "Dylan Selterman",
+      "is_ces": false,
+      "title": "(no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1426,
+      "date": "2026-10-17",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Adult ADHD; Encouraging Advance Care Planning; Hospital Closures in the U.S.",
+      "has_text": true,
+      "url": "https://www.medpagetoday.com/podcasts/healthwatch/123450",
+      "source": "MedPage Today",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Adult ADHD; Encouraging Advance Care Planning; Hospital Closures in the U.S. https://www.medpagetoday.com/podcasts/healthwatch/123450",
+          "chars": 100
+        },
+        "bluesky": {
+          "text": "Adult ADHD; Encouraging Advance Care Planning; Hospital Closures in the U.S. https://www.medpagetoday.com/podcasts/healthwatch/123450",
+          "chars": 133
+        }
+      }
+    },
+    {
+      "id": 1424,
+      "date": "2026-10-17",
+      "week_start": "2026-10-12",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "That's Why Some Call It a Second Reconstruction",
+      "has_text": true,
+      "url": "http://daughternumberthree.blogspot.com/2026/10/thats-why-some-call-it-second.html",
+      "source": "Daughter Number Three",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "That's Why Some Call It a Second Reconstruction http://daughternumberthree.blogspot.com/2026/10/thats-why-some-call-it-second.html",
+          "chars": 71
+        },
+        "bluesky": {
+          "text": "That's Why Some Call It a Second Reconstruction http://daughternumberthree.blogspot.com/2026/10/thats-why-some-call-it-second.html",
+          "chars": 130
+        }
+      }
+    },
+    {
+      "id": 1423,
+      "date": "2026-10-17",
+      "week_start": "2026-10-12",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, JOHNS HOPKINS",
+      "is_ces": false,
+      "title": "2026年 『The Equity-Excellence Imperative in Action: Fostering Student Success in Higher Education』 Steven P. Dandaneau (J",
+      "has_text": true,
+      "url": "https://bsky.app/profile/discover.sinkan.net/post/3my4blaatwy2t",
+      "source": "Bluesky",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "2026年 『The Equity-Excellence Imperative in Action: Fostering Student Success in Higher Education』 Steven P. Dandaneau (J https://bsky.app/profile/discover.sinkan.net/post/3my4blaatwy2t",
+          "chars": 144
+        },
+        "bluesky": {
+          "text": "2026年 『The Equity-Excellence Imperative in Action: Fostering Student Success in Higher Education』 Steven P. Dandaneau (J https://bsky.app/profile/discover.sinkan.net/post/3my4blaatwy2t",
+          "chars": 184
         }
       }
     },
