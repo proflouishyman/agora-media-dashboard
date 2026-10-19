@@ -44,11 +44,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -102,6 +97,11 @@
         "week_start": "2026-10-12",
         "count": 28,
         "reach": 37
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -115,14 +115,14 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 117,
-    "mentions_in_digest": 46,
-    "reach_proxy": 226,
+    "mentions_total": 118,
+    "mentions_in_digest": 47,
+    "reach_proxy": 227,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-10-14",
+    "last_mention_date": "2026-10-18",
     "sentiment": {
       "positive": 23,
-      "neutral": 34,
+      "neutral": 35,
       "negative": 3,
       "unknown": 57
     },
@@ -133,7 +133,7 @@
       },
       {
         "source": "LinkedIn",
-        "count": 23
+        "count": 24
       },
       {
         "source": "Bluesky",
@@ -149,11 +149,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 13,
-        "reach": 45
-      },
       {
         "week_start": "2026-08-03",
         "count": 19,
@@ -206,8 +201,13 @@
       },
       {
         "week_start": "2026-10-12",
-        "count": 2,
-        "reach": 2
+        "count": 3,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -255,11 +255,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -314,6 +309,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -363,11 +363,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 3,
-        "reach": 4
-      },
       {
         "week_start": "2026-08-03",
         "count": 11,
@@ -422,6 +417,11 @@
         "week_start": "2026-10-12",
         "count": 9,
         "reach": 11
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -471,11 +471,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 1
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -530,6 +525,11 @@
         "week_start": "2026-10-12",
         "count": 2,
         "reach": 2
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -579,11 +579,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 3,
-        "reach": 3
-      },
       {
         "week_start": "2026-08-03",
         "count": 1,
@@ -638,6 +633,11 @@
         "week_start": "2026-10-12",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -687,11 +687,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 1
-      },
       {
         "week_start": "2026-08-03",
         "count": 4,
@@ -746,6 +741,119 @@
         "week_start": "2026-10-12",
         "count": 2,
         "reach": 2
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "lilliana-mason",
+    "name": "Lilliana Mason",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Institute Professor of Political Science",
+    "profile_url": "https://snfagora.jhu.edu/directory/lilliana-mason/",
+    "photo_url": "images/people/lilliana-mason.jpeg",
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 32,
+    "mentions_in_digest": 24,
+    "reach_proxy": 73,
+    "first_mention_date": "2026-07-08",
+    "last_mention_date": "2026-10-18",
+    "sentiment": {
+      "positive": 6,
+      "neutral": 6,
+      "negative": 0,
+      "unknown": 20
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 5
+      },
+      {
+        "source": "Substack",
+        "count": 4
+      },
+      {
+        "source": "Bluesky",
+        "count": 2
+      },
+      {
+        "source": "Cold Spring Shops",
+        "count": 1
+      },
+      {
+        "source": "Daughter Number Three",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 1,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 3,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 5,
+        "reach": 9
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 4,
+        "reach": 4
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 11,
+        "reach": 18
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -793,11 +901,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -852,114 +955,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "lilliana-mason",
-    "name": "Lilliana Mason",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Institute Professor of Political Science",
-    "profile_url": "https://snfagora.jhu.edu/directory/lilliana-mason/",
-    "photo_url": "images/people/lilliana-mason.jpeg",
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 31,
-    "mentions_in_digest": 23,
-    "reach_proxy": 72,
-    "first_mention_date": "2026-07-08",
-    "last_mention_date": "2026-10-17",
-    "sentiment": {
-      "positive": 6,
-      "neutral": 6,
-      "negative": 0,
-      "unknown": 19
-    },
-    "top_sources": [
-      {
-        "source": "Twitter",
-        "count": 5
       },
       {
-        "source": "Substack",
-        "count": 4
-      },
-      {
-        "source": "Bluesky",
-        "count": 2
-      },
-      {
-        "source": "Cold Spring Shops",
-        "count": 1
-      },
-      {
-        "source": "Daughter Number Three",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-27",
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 1,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 3,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 5,
-        "reach": 9
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 4,
-        "reach": 4
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 10,
-        "reach": 17
       }
     ]
   },
@@ -1009,11 +1009,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 4,
-        "reach": 10
-      },
       {
         "week_start": "2026-08-03",
         "count": 9,
@@ -1068,6 +1063,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -1117,11 +1117,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 3,
-        "reach": 3
-      },
       {
         "week_start": "2026-08-03",
         "count": 4,
@@ -1176,6 +1171,11 @@
         "week_start": "2026-10-12",
         "count": 2,
         "reach": 2
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -1225,11 +1225,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 4
-      },
       {
         "week_start": "2026-08-03",
         "count": 2,
@@ -1284,6 +1279,11 @@
         "week_start": "2026-10-12",
         "count": 2,
         "reach": 5
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -1331,11 +1331,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -1390,6 +1385,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -1439,11 +1439,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 2,
-        "reach": 2
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -1498,6 +1493,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -1547,11 +1547,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -1606,6 +1601,11 @@
         "week_start": "2026-10-12",
         "count": 3,
         "reach": 3
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -1655,11 +1655,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -1714,6 +1709,11 @@
         "week_start": "2026-10-12",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -1763,11 +1763,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 1
-      },
       {
         "week_start": "2026-08-03",
         "count": 2,
@@ -1822,6 +1817,11 @@
         "week_start": "2026-10-12",
         "count": 2,
         "reach": 2
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -1871,11 +1871,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 2,
@@ -1930,6 +1925,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -1969,11 +1969,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -2028,6 +2023,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -2075,11 +2075,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -2134,6 +2129,11 @@
         "week_start": "2026-10-12",
         "count": 12,
         "reach": 12
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -2149,21 +2149,21 @@
       "Affiliated Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 11,
+    "mentions_total": 12,
     "mentions_in_digest": 6,
-    "reach_proxy": 18,
+    "reach_proxy": 19,
     "first_mention_date": "2026-07-17",
-    "last_mention_date": "2026-10-17",
+    "last_mention_date": "2026-10-18",
     "sentiment": {
       "positive": 0,
       "neutral": 5,
       "negative": 0,
-      "unknown": 6
+      "unknown": 7
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 4
+        "count": 5
       },
       {
         "source": "Ellemagazin.hu",
@@ -2183,11 +2183,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -2240,8 +2235,121 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 4,
+        "reach": 4
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "amy-binder",
+    "name": "Amy Binder",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Institute Professor of Sociology",
+    "profile_url": "https://snfagora.jhu.edu/directory/amy-binder/",
+    "photo_url": null,
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 11,
+    "mentions_in_digest": 11,
+    "reach_proxy": 21,
+    "first_mention_date": "2026-07-08",
+    "last_mention_date": "2026-10-18",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0,
+      "unknown": 7
+    },
+    "top_sources": [
+      {
+        "source": "LinkedIn",
+        "count": 3
+      },
+      {
+        "source": "AGI - Agenzia Giornalistica Italia",
+        "count": 1
+      },
+      {
+        "source": "The 19th",
+        "count": 1
+      },
+      {
+        "source": "The Guardian",
+        "count": 1
+      },
+      {
+        "source": "The Hub - Johns Hopkins University",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 2,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
         "count": 3,
         "reach": 3
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 2,
+        "reach": 6
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -2289,11 +2397,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -2348,114 +2451,11 @@
         "week_start": "2026-10-12",
         "count": 6,
         "reach": 196
-      }
-    ]
-  },
-  {
-    "id": "amy-binder",
-    "name": "Amy Binder",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Institute Professor of Sociology",
-    "profile_url": "https://snfagora.jhu.edu/directory/amy-binder/",
-    "photo_url": null,
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 10,
-    "mentions_in_digest": 10,
-    "reach_proxy": 17,
-    "first_mention_date": "2026-07-08",
-    "last_mention_date": "2026-10-15",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 3,
-      "negative": 0,
-      "unknown": 7
-    },
-    "top_sources": [
-      {
-        "source": "LinkedIn",
-        "count": 3
       },
       {
-        "source": "AGI - Agenzia Giornalistica Italia",
-        "count": 1
-      },
-      {
-        "source": "The 19th",
-        "count": 1
-      },
-      {
-        "source": "The Guardian",
-        "count": 1
-      },
-      {
-        "source": "The Hub - Johns Hopkins University",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 6
-      },
-      {
-        "week_start": "2026-08-03",
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 2,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 3,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 1,
-        "reach": 2
       }
     ]
   },
@@ -2506,11 +2506,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 1
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -2564,108 +2559,9 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "emily-white",
-    "name": "Emily White",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Fellow, Impact Concerts & Data",
-    "profile_url": "https://snfagora.jhu.edu/directory/emily-white/",
-    "photo_url": "images/people/emily-white.jpeg",
-    "categories": [
-      "Continuing Faculty + Fellows"
-    ],
-    "is_ces": false,
-    "mentions_total": 9,
-    "mentions_in_digest": 2,
-    "reach_proxy": 9,
-    "first_mention_date": "2026-07-17",
-    "last_mention_date": "2026-10-10",
-    "sentiment": {
-      "positive": 1,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 8
-    },
-    "top_sources": [
-      {
-        "source": "WAND-TV",
-        "count": 5
       },
       {
-        "source": "The Berkshire Edge",
-        "count": 2
-      },
-      {
-        "source": "LinkedIn",
-        "count": 1
-      },
-      {
-        "source": "Substack (Friday Power Lunch)",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 3,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-10-12",
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -2681,21 +2577,21 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 9,
+    "mentions_total": 10,
     "mentions_in_digest": 0,
-    "reach_proxy": 32,
+    "reach_proxy": 36,
     "first_mention_date": "2026-10-15",
-    "last_mention_date": "2026-10-17",
+    "last_mention_date": "2026-10-19",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
       "negative": 0,
-      "unknown": 9
+      "unknown": 10
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 2
+        "count": 3
       },
       {
         "source": "Black&CO",
@@ -2715,11 +2611,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -2774,6 +2665,115 @@
         "week_start": "2026-10-12",
         "count": 9,
         "reach": 32
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 1,
+        "reach": 4
+      }
+    ]
+  },
+  {
+    "id": "emily-white",
+    "name": "Emily White",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Fellow, Impact Concerts & Data",
+    "profile_url": "https://snfagora.jhu.edu/directory/emily-white/",
+    "photo_url": "images/people/emily-white.jpeg",
+    "categories": [
+      "Continuing Faculty + Fellows"
+    ],
+    "is_ces": false,
+    "mentions_total": 9,
+    "mentions_in_digest": 2,
+    "reach_proxy": 9,
+    "first_mention_date": "2026-07-17",
+    "last_mention_date": "2026-10-10",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 8
+    },
+    "top_sources": [
+      {
+        "source": "WAND-TV",
+        "count": 5
+      },
+      {
+        "source": "The Berkshire Edge",
+        "count": 2
+      },
+      {
+        "source": "LinkedIn",
+        "count": 1
+      },
+      {
+        "source": "Substack (Friday Power Lunch)",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 3,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -2821,11 +2821,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -2880,6 +2875,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -2929,11 +2929,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 3,
-        "reach": 3
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -2988,6 +2983,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -3037,11 +3037,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -3096,6 +3091,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -3146,11 +3146,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 2,
-        "reach": 69
-      },
-      {
         "week_start": "2026-08-03",
         "count": 1,
         "reach": 1
@@ -3202,6 +3197,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -3252,11 +3252,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 1
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -3308,6 +3303,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -3359,11 +3359,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 2,
@@ -3418,6 +3413,11 @@
         "week_start": "2026-10-12",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -3467,11 +3467,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -3526,6 +3521,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -3573,11 +3573,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -3632,6 +3627,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -3673,11 +3673,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -3732,6 +3727,117 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-johns-hopkins-higher-education",
+    "name": "Namesake/noise match: Johns Hopkins, higher education",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 6,
+    "mentions_in_digest": 0,
+    "reach_proxy": 7,
+    "first_mention_date": "2026-09-01",
+    "last_mention_date": "2026-10-18",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 6
+    },
+    "top_sources": [
+      {
+        "source": "AOL",
+        "count": 1
+      },
+      {
+        "source": "MedPage Today",
+        "count": 1
+      },
+      {
+        "source": "Springer",
+        "count": 1
+      },
+      {
+        "source": "Substack (also r/Keep_Track)",
+        "count": 1
+      },
+      {
+        "source": "The Girl That Runs",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 4,
+        "reach": 5
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -3779,11 +3885,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -3838,6 +3939,11 @@
         "week_start": "2026-10-12",
         "count": 6,
         "reach": 6
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -3887,11 +3993,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -3946,6 +4047,11 @@
         "week_start": "2026-10-12",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -3987,11 +4093,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -4046,6 +4147,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -4089,11 +4195,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -4148,12 +4249,17 @@
         "week_start": "2026-10-12",
         "count": 5,
         "reach": 383
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
   {
-    "id": "namesake-noise-match-johns-hopkins-higher-education",
-    "name": "Namesake/noise match: Johns Hopkins, higher education",
+    "id": "namesake-noise-match-johns-hopkins-agora",
+    "name": "Namesake/noise match: Johns Hopkins, agora",
     "kind": "unmatched",
     "tracked": false,
     "title": "",
@@ -4163,9 +4269,9 @@
     "is_ces": false,
     "mentions_total": 5,
     "mentions_in_digest": 0,
-    "reach_proxy": 6,
+    "reach_proxy": 5,
     "first_mention_date": "2026-09-01",
-    "last_mention_date": "2026-10-17",
+    "last_mention_date": "2026-10-19",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
@@ -4174,32 +4280,27 @@
     },
     "top_sources": [
       {
-        "source": "AOL",
+        "source": "BLOGDODALMO",
         "count": 1
       },
       {
-        "source": "MedPage Today",
+        "source": "Futuroprossimo",
         "count": 1
       },
       {
-        "source": "Springer",
+        "source": "Prof. Pedro Demo",
         "count": 1
       },
       {
-        "source": "Substack (also r/Keep_Track)",
+        "source": "Revista Onne &amp; Only",
         "count": 1
       },
       {
-        "source": "Youtube",
+        "source": "Valentina em Qap",
         "count": 1
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -4222,8 +4323,8 @@
       },
       {
         "week_start": "2026-08-31",
-        "count": 4,
-        "reach": 5
+        "count": 3,
+        "reach": 3
       },
       {
         "week_start": "2026-09-07",
@@ -4252,6 +4353,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 1,
         "reach": 1
       }
@@ -4300,11 +4406,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -4358,6 +4459,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -4401,11 +4507,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -4460,6 +4561,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -4503,11 +4609,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 1,
@@ -4562,6 +4663,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -4604,11 +4710,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -4662,1008 +4763,9 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "namesake-noise-match-johns-hopkins-agora",
-    "name": "Namesake/noise match: Johns Hopkins, agora",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 4,
-    "mentions_in_digest": 0,
-    "reach_proxy": 4,
-    "first_mention_date": "2026-09-01",
-    "last_mention_date": "2026-10-17",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 4
-    },
-    "top_sources": [
-      {
-        "source": "BLOGDODALMO",
-        "count": 1
-      },
-      {
-        "source": "Prof. Pedro Demo",
-        "count": 1
-      },
-      {
-        "source": "Revista Onne &amp; Only",
-        "count": 1
-      },
-      {
-        "source": "Valentina em Qap",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 3,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 1,
-        "reach": 1
-      }
-    ]
-  },
-  {
-    "id": "nina-hall",
-    "name": "Nina Hall",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Assistant Professor in International Relations",
-    "profile_url": "https://snfagora.jhu.edu/directory/nina-hall/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 4,
-    "mentions_in_digest": 3,
-    "reach_proxy": 4,
-    "first_mention_date": "2026-08-04",
-    "last_mention_date": "2026-10-06",
-    "sentiment": {
-      "positive": 1,
-      "neutral": 1,
-      "negative": 0,
-      "unknown": 2
-    },
-    "top_sources": [
-      {
-        "source": "Zero",
-        "count": 2
-      },
-      {
-        "source": "Radio City Fujiko",
-        "count": 1
-      },
-      {
-        "source": "Substack (E-International Relations)",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "ronald-j-daniels",
-    "name": "Ronald J. Daniels",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 4,
-    "mentions_in_digest": 1,
-    "reach_proxy": 8,
-    "first_mention_date": "2026-08-30",
-    "last_mention_date": "2026-10-15",
-    "sentiment": {
-      "positive": 1,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 3
-    },
-    "top_sources": [
-      {
-        "source": "Bluesky",
-        "count": 2
-      },
-      {
-        "source": "Hub - Johns Hopkins University",
-        "count": 1
-      },
-      {
-        "source": "Youtube",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 2,
-        "reach": 5
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 1,
-        "reach": 2
-      }
-    ]
-  },
-  {
-    "id": "thomas-cudjoe-m-d",
-    "name": "Thomas Cudjoe",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Robert and Jane Meyerhoff Endowed Associate Professor of Medicine",
-    "profile_url": "https://snfagora.jhu.edu/directory/thomas-cudjoe-m-d/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 4,
-    "mentions_in_digest": 4,
-    "reach_proxy": 4,
-    "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-10-07",
-    "sentiment": {
-      "positive": 1,
-      "neutral": 2,
-      "negative": 0,
-      "unknown": 1
-    },
-    "top_sources": [
-      {
-        "source": "Bolde",
-        "count": 1
-      },
-      {
-        "source": "ClinicalTrials.gov",
-        "count": 1
-      },
-      {
-        "source": "Pantallazos Noticias",
-        "count": 1
-      },
-      {
-        "source": "Youtube",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "agora",
-    "name": "agora",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 4,
-    "mentions_in_digest": 0,
-    "reach_proxy": 9,
-    "first_mention_date": "2026-10-02",
-    "last_mention_date": "2026-10-14",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 4
-    },
-    "top_sources": [
-      {
-        "source": "BLOG DO FREDSON PAIVA",
-        "count": 1
-      },
-      {
-        "source": "CASA VOGUE",
-        "count": 1
-      },
-      {
-        "source": "EUROPE SAYS",
-        "count": 1
-      },
-      {
-        "source": "Terra",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 3,
-        "reach": 8
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 1,
-        "reach": 1
-      }
-    ]
-  },
-  {
-    "id": "adam-seth-levine",
-    "name": "Adam Seth Levine",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Professor of Health Policy and Management",
-    "profile_url": "https://snfagora.jhu.edu/directory/adam-seth-levine/",
-    "photo_url": "images/people/adam-seth-levine.jpg",
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 3,
-    "mentions_in_digest": 3,
-    "reach_proxy": 2,
-    "first_mention_date": "2026-07-21",
-    "last_mention_date": "2026-10-12",
-    "sentiment": {
-      "positive": 1,
-      "neutral": 1,
-      "negative": 0,
-      "unknown": 1
-    },
-    "top_sources": [
-      {
-        "source": "Baltimore Fishbowl",
-        "count": 1
-      },
-      {
-        "source": "The Hub",
-        "count": 1
-      },
-      {
-        "source": "Youtube",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 1,
-        "reach": 1
-      }
-    ]
-  },
-  {
-    "id": "andre-nogueira",
-    "name": "André Nogueira",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Assistant Professor, Johns Hopkins School of Nursing",
-    "profile_url": "https://snfagora.jhu.edu/directory/andre-nogueira/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 3,
-    "mentions_in_digest": 0,
-    "reach_proxy": 2,
-    "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-09-27",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 1,
-      "negative": 0,
-      "unknown": 2
-    },
-    "top_sources": [
-      {
-        "source": "Diário de Coimbra",
-        "count": 1
-      },
-      {
-        "source": "Roda Viva Jornal",
-        "count": 1
-      },
-      {
-        "source": "VIAMORENA",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "benjamin-storey",
-    "name": "Benjamin Storey",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Visiting Fellow, AY25-26",
-    "profile_url": "https://snfagora.jhu.edu/directory/benjamin-storey/",
-    "photo_url": null,
-    "categories": [
-      "Visiting Fellows"
-    ],
-    "is_ces": false,
-    "mentions_total": 3,
-    "mentions_in_digest": 3,
-    "reach_proxy": 3,
-    "first_mention_date": "2026-08-27",
-    "last_mention_date": "2026-09-30",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 3
-    },
-    "top_sources": [
-      {
-        "source": "The Hub",
-        "count": 1
-      },
-      {
-        "source": "The Hub - Johns Hopkins University",
-        "count": 1
-      },
-      {
-        "source": "The Johns Hopkins News-Letter",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "jeanne-marie-jackson",
-    "name": "Jeanne-Marie Jackson",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Professor of English & Director, Alexander Grass Humanities Institute",
-    "profile_url": "https://snfagora.jhu.edu/directory/jeanne-marie-jackson/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": true,
-    "mentions_total": 3,
-    "mentions_in_digest": 2,
-    "reach_proxy": 3,
-    "first_mention_date": "2026-08-24",
-    "last_mention_date": "2026-09-30",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 3
-    },
-    "top_sources": [
-      {
-        "source": "Bluesky",
-        "count": 1
-      },
-      {
-        "source": "Forums",
-        "count": 1
-      },
-      {
-        "source": "The Johns Hopkins News-Letter",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "johnnie-moore",
-    "name": "Johnnie Moore",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": "images/people/johnnie-moore.jpg",
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 3,
-    "mentions_in_digest": 3,
-    "reach_proxy": 8,
-    "first_mention_date": "2026-07-15",
-    "last_mention_date": "2026-09-29",
-    "sentiment": {
-      "positive": 1,
-      "neutral": 2,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [
-      {
-        "source": "Pepperdine University",
-        "count": 1
-      },
-      {
-        "source": "RealClearInvestigations",
-        "count": 1
-      },
-      {
-        "source": "The Johns Hopkins News-Letter",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
       },
       {
-        "week_start": "2026-10-12",
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -5679,21 +4781,21 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 3,
+    "mentions_total": 4,
     "mentions_in_digest": 0,
-    "reach_proxy": 82,
+    "reach_proxy": 85,
     "first_mention_date": "2026-10-17",
-    "last_mention_date": "2026-10-18",
+    "last_mention_date": "2026-10-19",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
       "negative": 0,
-      "unknown": 3
+      "unknown": 4
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 2
+        "count": 3
       },
       {
         "source": "Público",
@@ -5701,11 +4803,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -5760,6 +4857,913 @@
         "week_start": "2026-10-12",
         "count": 3,
         "reach": 82
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 1,
+        "reach": 3
+      }
+    ]
+  },
+  {
+    "id": "nina-hall",
+    "name": "Nina Hall",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Assistant Professor in International Relations",
+    "profile_url": "https://snfagora.jhu.edu/directory/nina-hall/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 4,
+    "mentions_in_digest": 3,
+    "reach_proxy": 4,
+    "first_mention_date": "2026-08-04",
+    "last_mention_date": "2026-10-06",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0,
+      "unknown": 2
+    },
+    "top_sources": [
+      {
+        "source": "Zero",
+        "count": 2
+      },
+      {
+        "source": "Radio City Fujiko",
+        "count": 1
+      },
+      {
+        "source": "Substack (E-International Relations)",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "ronald-j-daniels",
+    "name": "Ronald J. Daniels",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 4,
+    "mentions_in_digest": 1,
+    "reach_proxy": 8,
+    "first_mention_date": "2026-08-30",
+    "last_mention_date": "2026-10-15",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 3
+    },
+    "top_sources": [
+      {
+        "source": "Bluesky",
+        "count": 2
+      },
+      {
+        "source": "Hub - Johns Hopkins University",
+        "count": 1
+      },
+      {
+        "source": "Youtube",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 2,
+        "reach": 5
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 1,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "thomas-cudjoe-m-d",
+    "name": "Thomas Cudjoe",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Robert and Jane Meyerhoff Endowed Associate Professor of Medicine",
+    "profile_url": "https://snfagora.jhu.edu/directory/thomas-cudjoe-m-d/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 4,
+    "mentions_in_digest": 4,
+    "reach_proxy": 4,
+    "first_mention_date": "2026-07-02",
+    "last_mention_date": "2026-10-07",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Bolde",
+        "count": 1
+      },
+      {
+        "source": "ClinicalTrials.gov",
+        "count": 1
+      },
+      {
+        "source": "Pantallazos Noticias",
+        "count": 1
+      },
+      {
+        "source": "Youtube",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "agora",
+    "name": "agora",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 4,
+    "mentions_in_digest": 0,
+    "reach_proxy": 9,
+    "first_mention_date": "2026-10-02",
+    "last_mention_date": "2026-10-14",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 4
+    },
+    "top_sources": [
+      {
+        "source": "BLOG DO FREDSON PAIVA",
+        "count": 1
+      },
+      {
+        "source": "CASA VOGUE",
+        "count": 1
+      },
+      {
+        "source": "EUROPE SAYS",
+        "count": 1
+      },
+      {
+        "source": "Terra",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 3,
+        "reach": 8
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "adam-seth-levine",
+    "name": "Adam Seth Levine",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Professor of Health Policy and Management",
+    "profile_url": "https://snfagora.jhu.edu/directory/adam-seth-levine/",
+    "photo_url": "images/people/adam-seth-levine.jpg",
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 3,
+    "mentions_in_digest": 3,
+    "reach_proxy": 2,
+    "first_mention_date": "2026-07-21",
+    "last_mention_date": "2026-10-12",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Baltimore Fishbowl",
+        "count": 1
+      },
+      {
+        "source": "The Hub",
+        "count": 1
+      },
+      {
+        "source": "Youtube",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "andre-nogueira",
+    "name": "André Nogueira",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Assistant Professor, Johns Hopkins School of Nursing",
+    "profile_url": "https://snfagora.jhu.edu/directory/andre-nogueira/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 3,
+    "mentions_in_digest": 0,
+    "reach_proxy": 2,
+    "first_mention_date": "2026-07-02",
+    "last_mention_date": "2026-09-27",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0,
+      "unknown": 2
+    },
+    "top_sources": [
+      {
+        "source": "Diário de Coimbra",
+        "count": 1
+      },
+      {
+        "source": "Roda Viva Jornal",
+        "count": 1
+      },
+      {
+        "source": "VIAMORENA",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "benjamin-storey",
+    "name": "Benjamin Storey",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Visiting Fellow, AY25-26",
+    "profile_url": "https://snfagora.jhu.edu/directory/benjamin-storey/",
+    "photo_url": null,
+    "categories": [
+      "Visiting Fellows"
+    ],
+    "is_ces": false,
+    "mentions_total": 3,
+    "mentions_in_digest": 3,
+    "reach_proxy": 3,
+    "first_mention_date": "2026-08-27",
+    "last_mention_date": "2026-09-30",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 3
+    },
+    "top_sources": [
+      {
+        "source": "The Hub",
+        "count": 1
+      },
+      {
+        "source": "The Hub - Johns Hopkins University",
+        "count": 1
+      },
+      {
+        "source": "The Johns Hopkins News-Letter",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "jeanne-marie-jackson",
+    "name": "Jeanne-Marie Jackson",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Professor of English & Director, Alexander Grass Humanities Institute",
+    "profile_url": "https://snfagora.jhu.edu/directory/jeanne-marie-jackson/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": true,
+    "mentions_total": 3,
+    "mentions_in_digest": 2,
+    "reach_proxy": 3,
+    "first_mention_date": "2026-08-24",
+    "last_mention_date": "2026-09-30",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 3
+    },
+    "top_sources": [
+      {
+        "source": "Bluesky",
+        "count": 1
+      },
+      {
+        "source": "Forums",
+        "count": 1
+      },
+      {
+        "source": "The Johns Hopkins News-Letter",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "johnnie-moore",
+    "name": "Johnnie Moore",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": "images/people/johnnie-moore.jpg",
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 3,
+    "mentions_in_digest": 3,
+    "reach_proxy": 8,
+    "first_mention_date": "2026-07-15",
+    "last_mention_date": "2026-09-29",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0,
+      "unknown": 0
+    },
+    "top_sources": [
+      {
+        "source": "Pepperdine University",
+        "count": 1
+      },
+      {
+        "source": "RealClearInvestigations",
+        "count": 1
+      },
+      {
+        "source": "The Johns Hopkins News-Letter",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -5799,11 +5803,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -5858,6 +5857,11 @@
         "week_start": "2026-10-12",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -5897,11 +5901,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -5956,6 +5955,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -5997,11 +6001,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -6056,6 +6055,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -6097,11 +6101,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -6156,6 +6155,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -6187,11 +6191,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 2,
@@ -6246,6 +6245,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -6281,11 +6285,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -6340,6 +6339,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -6377,11 +6381,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -6436,6 +6435,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -6471,11 +6475,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -6530,6 +6529,11 @@
         "week_start": "2026-10-12",
         "count": 2,
         "reach": 11
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -6561,11 +6565,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -6620,6 +6619,101 @@
         "week_start": "2026-10-12",
         "count": 2,
         "reach": 2
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-higher-education-hopkins-university",
+    "name": "Namesake/noise match: Higher education, Hopkins University",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 2,
+    "mentions_in_digest": 0,
+    "reach_proxy": 2,
+    "first_mention_date": "2026-10-16",
+    "last_mention_date": "2026-10-19",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 2
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 2
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -6656,11 +6750,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -6712,6 +6801,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -6750,11 +6844,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -6808,6 +6897,11 @@
         "week_start": "2026-10-12",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -6844,11 +6938,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -6902,6 +6991,11 @@
         "week_start": "2026-10-12",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -6933,11 +7027,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -6992,6 +7081,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -7027,11 +7121,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -7086,6 +7175,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -7117,11 +7211,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -7174,6 +7263,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -7208,11 +7302,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -7264,6 +7353,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -7299,11 +7393,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -7358,6 +7447,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -7389,11 +7483,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -7446,6 +7535,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -7480,11 +7574,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -7536,6 +7625,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -7570,11 +7664,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -7626,6 +7715,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -7660,11 +7754,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -7716,6 +7805,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -7750,11 +7844,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -7806,6 +7895,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -7842,11 +7936,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -7898,6 +7987,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -7934,11 +8028,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -7990,6 +8079,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -8026,11 +8120,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -8084,6 +8173,11 @@
         "week_start": "2026-10-12",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -8118,11 +8212,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -8174,6 +8263,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -8210,11 +8304,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 1,
         "reach": 1
@@ -8268,6 +8357,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -8299,11 +8393,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -8358,6 +8447,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -8389,11 +8483,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -8446,6 +8535,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -8480,11 +8574,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -8536,6 +8625,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -8572,10 +8666,187 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
+        "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
       },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "eliot-cohen-2",
+    "name": "Eliot  Cohen",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Professor Emeritus",
+    "profile_url": "https://snfagora.jhu.edu/directory/eliot-cohen-2/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 1,
+    "reach_proxy": 3,
+    "first_mention_date": "2026-07-28",
+    "last_mention_date": "2026-07-28",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0,
+      "unknown": 0
+    },
+    "top_sources": [
+      {
+        "source": "Hindustan Times",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "emily-white-namesake-dj-jill-hopkins-in-a-chicago-music-listing",
+    "name": "Emily White (namesake: DJ Jill Hopkins in a Chicago music listing)",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-10-18",
+    "last_mention_date": "2026-10-18",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Substack",
+        "count": 1
+      }
+    ],
+    "weekly": [
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -8630,96 +8901,9 @@
         "week_start": "2026-10-12",
         "count": 1,
         "reach": 1
-      }
-    ]
-  },
-  {
-    "id": "eliot-cohen-2",
-    "name": "Eliot  Cohen",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Professor Emeritus",
-    "profile_url": "https://snfagora.jhu.edu/directory/eliot-cohen-2/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 1,
-    "mentions_in_digest": 1,
-    "reach_proxy": 3,
-    "first_mention_date": "2026-07-28",
-    "last_mention_date": "2026-07-28",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 1,
-      "negative": 0,
-      "unknown": 0
-    },
-    "top_sources": [
-      {
-        "source": "Hindustan Times",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 1,
-        "reach": 3
       },
       {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -8756,11 +8940,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -8812,6 +8991,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -8848,11 +9032,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -8904,6 +9083,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -8938,11 +9122,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -8994,6 +9173,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -9028,11 +9212,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -9084,6 +9263,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -9120,11 +9304,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -9176,6 +9355,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -9212,11 +9396,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -9270,6 +9449,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -9301,11 +9485,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -9358,6 +9537,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -9394,11 +9578,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -9450,6 +9629,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -9486,11 +9670,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -9542,6 +9721,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -9576,11 +9760,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -9632,6 +9811,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -9668,10 +9852,95 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
+        "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
       },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "max-cohen-namesake-character-in-aronofsky-film-pi",
+    "name": "Max Cohen (namesake: character in Aronofsky film Pi)",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-10-19",
+    "last_mention_date": "2026-10-19",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Medium.com",
+        "count": 1
+      }
+    ],
+    "weekly": [
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -9726,6 +9995,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -9757,11 +10031,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -9814,6 +10083,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -9848,11 +10122,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -9904,6 +10173,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -9938,11 +10212,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -9996,6 +10265,11 @@
         "week_start": "2026-10-12",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -10027,11 +10301,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -10086,6 +10355,11 @@
         "week_start": "2026-10-12",
         "count": 1,
         "reach": 2
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -10117,11 +10391,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -10174,6 +10443,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -10208,11 +10482,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -10264,6 +10533,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -10298,11 +10572,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -10354,6 +10623,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -10388,11 +10662,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -10446,96 +10715,11 @@
         "week_start": "2026-10-12",
         "count": 1,
         "reach": 1
-      }
-    ]
-  },
-  {
-    "id": "namesake-noise-match-higher-education-hopkins-university",
-    "name": "Namesake/noise match: Higher education, Hopkins University",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 1,
-    "mentions_in_digest": 0,
-    "reach_proxy": 1,
-    "first_mention_date": "2026-10-16",
-    "last_mention_date": "2026-10-16",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 1
-    },
-    "top_sources": [
-      {
-        "source": "Twitter",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
       },
       {
-        "week_start": "2026-08-03",
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 1,
-        "reach": 1
       }
     ]
   },
@@ -10568,11 +10752,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -10626,6 +10805,11 @@
         "week_start": "2026-10-12",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -10658,11 +10842,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -10714,6 +10893,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -10748,11 +10932,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -10806,12 +10985,17 @@
         "week_start": "2026-10-12",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
   {
-    "id": "namesake-noise-match-johns-hopkins-university-president",
-    "name": "Namesake/noise match: Johns Hopkins, University President",
+    "id": "namesake-noise-match-johns-hopkins-johns-hopkins-higher-education",
+    "name": "Namesake/noise match: JOHNS HOPKINS, Johns Hopkins, higher education",
     "kind": "unmatched",
     "tracked": false,
     "title": "",
@@ -10821,189 +11005,9 @@
     "is_ces": false,
     "mentions_total": 1,
     "mentions_in_digest": 0,
-    "reach_proxy": 1,
-    "first_mention_date": "2026-10-16",
-    "last_mention_date": "2026-10-16",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 1
-    },
-    "top_sources": [
-      {
-        "source": "N2O Records",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 1,
-        "reach": 1
-      }
-    ]
-  },
-  {
-    "id": "namesake-noise-match-johns-hopkins-academic-freedom",
-    "name": "Namesake/noise match: Johns Hopkins, academic freedom",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 1,
-    "mentions_in_digest": 0,
-    "reach_proxy": 1,
+    "reach_proxy": 2,
     "first_mention_date": "2026-10-18",
     "last_mention_date": "2026-10-18",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 1
-    },
-    "top_sources": [
-      {
-        "source": "N2O Records",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 1,
-        "reach": 1
-      }
-    ]
-  },
-  {
-    "id": "namesake-noise-match-johns-hopkins-university-president",
-    "name": "Namesake/noise match: Johns Hopkins, university president",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 1,
-    "mentions_in_digest": 0,
-    "reach_proxy": 1,
-    "first_mention_date": "2026-09-02",
-    "last_mention_date": "2026-09-02",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
@@ -11017,461 +11021,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "namesake-noise-match-academic-freedom-academic-freedom-academic-freedom-faculty-senate-higher-education-higher-education-higher-education-johns-hopkins-viewpoint-diversity",
-    "name": "Namesake/noise match: academic freedom, Academic freedom, Academic Freedom, Faculty Senate, higher education, Higher Education, Higher education, Johns Hopkins, viewpoint diversity",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 1,
-    "mentions_in_digest": 0,
-    "reach_proxy": 1,
-    "first_mention_date": "2026-10-15",
-    "last_mention_date": "2026-10-15",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 1
-    },
-    "top_sources": [
-      {
-        "source": "Springer",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 1,
-        "reach": 1
-      }
-    ]
-  },
-  {
-    "id": "namesake-noise-match-agora-agora-johns-hopkins",
-    "name": "Namesake/noise match: agora, Agora, Johns Hopkins",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 1,
-    "mentions_in_digest": 0,
-    "reach_proxy": 1,
-    "first_mention_date": "2026-09-03",
-    "last_mention_date": "2026-09-03",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 1
-    },
-    "top_sources": [
-      {
-        "source": "Gizmodo em portugues",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "namesake-noise-match-higher-education-hopkins-university-johns-hopkins",
-    "name": "Namesake/noise match: higher education, Hopkins University, Johns Hopkins",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 1,
-    "mentions_in_digest": 0,
-    "reach_proxy": 1,
-    "first_mention_date": "2026-10-15",
-    "last_mention_date": "2026-10-15",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 1
-    },
-    "top_sources": [
-      {
-        "source": "Youtube",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 1,
-        "reach": 1
-      }
-    ]
-  },
-  {
-    "id": "namesake-noise-match-higher-education-johns-hopkins-nih-funding-university-president",
-    "name": "Namesake/noise match: higher education, Johns Hopkins, NIH funding, university president",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 1,
-    "mentions_in_digest": 0,
-    "reach_proxy": 1,
-    "first_mention_date": "2026-10-16",
-    "last_mention_date": "2026-10-16",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 1
-    },
-    "top_sources": [
-      {
-        "source": "N2O Records",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 1,
-        "reach": 1
-      }
-    ]
-  },
-  {
-    "id": "namesake-noise-match-higher-education-johns-hopkins-university-president",
-    "name": "Namesake/noise match: higher education, Johns Hopkins, University President",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 1,
-    "mentions_in_digest": 0,
-    "reach_proxy": 2,
-    "first_mention_date": "2026-10-15",
-    "last_mention_date": "2026-10-15",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 1
-    },
-    "top_sources": [
-      {
-        "source": "WV News",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -11526,6 +11075,1271 @@
         "week_start": "2026-10-12",
         "count": 1,
         "reach": 2
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-johns-hopkins-agora",
+    "name": "Namesake/noise match: Johns Hopkins, Agora",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 7,
+    "first_mention_date": "2026-10-18",
+    "last_mention_date": "2026-10-18",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "G1",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 1,
+        "reach": 7
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-johns-hopkins-higher-education-higher-education",
+    "name": "Namesake/noise match: Johns Hopkins, Higher Education, higher education",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-10-18",
+    "last_mention_date": "2026-10-18",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "N2O Records",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-johns-hopkins-higher-education-higher-education-academic-freedom-viewpoint-diversity-ideological-diversity-higher-education",
+    "name": "Namesake/noise match: Johns Hopkins, Higher Education, higher education, academic freedom, viewpoint diversity, ideological diversity, Higher education",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-10-18",
+    "last_mention_date": "2026-10-18",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Medium",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-johns-hopkins-university-president",
+    "name": "Namesake/noise match: Johns Hopkins, University President",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-10-16",
+    "last_mention_date": "2026-10-16",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "N2O Records",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-johns-hopkins-academic-freedom",
+    "name": "Namesake/noise match: Johns Hopkins, academic freedom",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-10-18",
+    "last_mention_date": "2026-10-18",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "N2O Records",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-johns-hopkins-academic-freedom-higher-education",
+    "name": "Namesake/noise match: Johns Hopkins, academic freedom, higher education",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-10-19",
+    "last_mention_date": "2026-10-19",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "The College Fix",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-johns-hopkins-university-president",
+    "name": "Namesake/noise match: Johns Hopkins, university president",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-09-02",
+    "last_mention_date": "2026-09-02",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-academic-freedom-academic-freedom-academic-freedom-faculty-senate-higher-education-higher-education-higher-education-johns-hopkins-viewpoint-diversity",
+    "name": "Namesake/noise match: academic freedom, Academic freedom, Academic Freedom, Faculty Senate, higher education, Higher Education, Higher education, Johns Hopkins, viewpoint diversity",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-10-15",
+    "last_mention_date": "2026-10-15",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Springer",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-agora-agora-johns-hopkins",
+    "name": "Namesake/noise match: agora, Agora, Johns Hopkins",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-09-03",
+    "last_mention_date": "2026-09-03",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Gizmodo em portugues",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-agora-johns-hopkins-agora",
+    "name": "Namesake/noise match: agora, Johns Hopkins, Agora",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-10-18",
+    "last_mention_date": "2026-10-18",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Rozenberg Quarterly",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-higher-education-hopkins-university-johns-hopkins",
+    "name": "Namesake/noise match: higher education, Hopkins University, Johns Hopkins",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-10-15",
+    "last_mention_date": "2026-10-15",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Youtube",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-higher-education-johns-hopkins-nih-funding-university-president",
+    "name": "Namesake/noise match: higher education, Johns Hopkins, NIH funding, university president",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-10-16",
+    "last_mention_date": "2026-10-16",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "N2O Records",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-higher-education-johns-hopkins-university-president",
+    "name": "Namesake/noise match: higher education, Johns Hopkins, University President",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 2,
+    "first_mention_date": "2026-10-15",
+    "last_mention_date": "2026-10-15",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "WV News",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 1,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "peter-pomerantsev-scott-warren",
+    "name": "Peter Pomerantsev / Scott Warren",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 2,
+    "first_mention_date": "2026-10-18",
+    "last_mention_date": "2026-10-18",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 1,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -11560,11 +12374,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -11616,6 +12425,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -11650,11 +12464,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -11706,6 +12515,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -11740,11 +12554,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -11798,6 +12607,11 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -11826,11 +12640,6 @@
     },
     "top_sources": [],
     "weekly": [
-      {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-03",
         "count": 0,
@@ -11883,6 +12692,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -11914,11 +12728,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -11970,6 +12779,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -12001,11 +12815,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -12057,6 +12866,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -12088,11 +12902,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -12144,6 +12953,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -12175,11 +12989,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -12231,6 +13040,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -12262,11 +13076,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -12318,6 +13127,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -12349,11 +13163,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -12405,6 +13214,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -12436,11 +13250,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -12492,6 +13301,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -12523,11 +13337,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -12579,6 +13388,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -12610,11 +13424,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -12666,6 +13475,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -12697,11 +13511,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -12753,6 +13562,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -12784,11 +13598,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -12840,6 +13649,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -12871,11 +13685,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -12927,6 +13736,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -12958,11 +13772,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -13014,6 +13823,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -13045,11 +13859,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -13101,6 +13910,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -13132,11 +13946,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -13188,6 +13997,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -13219,11 +14033,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -13275,6 +14084,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -13306,11 +14120,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -13362,6 +14171,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -13393,11 +14207,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -13449,6 +14258,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -13480,11 +14294,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -13536,6 +14345,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -13567,11 +14381,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -13623,6 +14432,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -13654,11 +14468,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -13710,6 +14519,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -13741,11 +14555,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -13797,6 +14606,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -13828,11 +14642,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -13884,6 +14693,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -13915,11 +14729,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -13971,6 +14780,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -14002,11 +14816,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -14058,6 +14867,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -14089,11 +14903,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -14145,6 +14954,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -14176,11 +14990,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -14232,6 +15041,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -14263,11 +15077,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -14319,6 +15128,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -14350,11 +15164,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -14406,6 +15215,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -14437,11 +15251,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -14493,6 +15302,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -14524,11 +15338,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -14580,6 +15389,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -14611,11 +15425,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -14667,6 +15476,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -14698,11 +15512,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -14754,6 +15563,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -14785,11 +15599,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -14841,6 +15650,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -14872,11 +15686,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -14928,6 +15737,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -14959,11 +15773,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -15015,6 +15824,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -15046,11 +15860,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -15102,6 +15911,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -15133,11 +15947,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -15189,6 +15998,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -15220,11 +16034,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -15276,6 +16085,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -15307,11 +16121,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -15363,6 +16172,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -15394,11 +16208,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -15450,6 +16259,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -15481,11 +16295,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -15537,6 +16346,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -15568,11 +16382,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -15624,6 +16433,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -15655,11 +16469,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -15711,6 +16520,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -15742,11 +16556,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -15798,6 +16607,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -15829,11 +16643,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -15885,6 +16694,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }
@@ -15916,11 +16730,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-07-27",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-03",
         "count": 0,
         "reach": 0
@@ -15972,6 +16781,11 @@
       },
       {
         "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
       }

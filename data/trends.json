@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-18T07:06:08-04:00",
+  "generated_at": "2026-10-19T07:07:04-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-10-18"
+    "end": "2026-10-19"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 1421,
-        "in_digest": 379,
-        "reach_proxy": 5649,
-        "people_covered": 121,
+        "mentions": 1439,
+        "in_digest": 382,
+        "reach_proxy": 5683,
+        "people_covered": 130,
         "people_tracked": 100,
-        "sources": 600,
+        "sources": 604,
         "negative": 11
       },
       "deltas": {
-        "week_start": "2026-10-05",
-        "prev_week_start": "2026-09-28",
+        "week_start": "2026-10-12",
+        "prev_week_start": "2026-10-05",
         "mentions": {
-          "current": 156,
-          "previous": 216,
-          "change": -60,
-          "pct_change": -27.8
+          "current": 149,
+          "previous": 156,
+          "change": -7,
+          "pct_change": -4.5
         },
         "reach_proxy": {
-          "current": 678,
-          "previous": 724,
-          "change": -46,
-          "pct_change": -6.4
+          "current": 864,
+          "previous": 678,
+          "change": 186,
+          "pct_change": 27.4
         },
         "people_covered": {
-          "current": 23,
-          "previous": 21,
-          "change": 2,
-          "pct_change": 9.5
+          "current": 53,
+          "previous": 23,
+          "change": 30,
+          "pct_change": 130.4
         }
       },
       "daily": [
@@ -796,8 +796,15 @@
         },
         {
           "date": "2026-10-18",
-          "count": 7,
-          "reach": 8,
+          "count": 19,
+          "reach": 31,
+          "in_digest": 3,
+          "observed": true
+        },
+        {
+          "date": "2026-10-19",
+          "count": 6,
+          "reach": 11,
           "in_digest": 0,
           "observed": true
         }
@@ -1000,23 +1007,36 @@
         },
         {
           "week_start": "2026-10-12",
-          "count": 137,
-          "reach": 841,
-          "in_digest": 26,
-          "people": 46,
+          "count": 149,
+          "reach": 864,
+          "in_digest": 29,
+          "people": 53,
           "sentiment": {
             "positive": 7,
-            "neutral": 6,
+            "neutral": 8,
             "negative": 0,
-            "unknown": 124
+            "unknown": 134
+          }
+        },
+        {
+          "week_start": "2026-10-19",
+          "count": 6,
+          "reach": 11,
+          "in_digest": 0,
+          "people": 6,
+          "sentiment": {
+            "positive": 0,
+            "neutral": 0,
+            "negative": 0,
+            "unknown": 6
           }
         }
       ],
       "sentiment": {
         "positive": 115,
-        "neutral": 187,
+        "neutral": 189,
         "negative": 11,
-        "unknown": 1108
+        "unknown": 1124
       },
       "top_people": [
         {
@@ -1029,8 +1049,8 @@
         {
           "person_id": "snf-agora-institute",
           "name": "SNF Agora Institute",
-          "count": 117,
-          "reach": 226,
+          "count": 118,
+          "reach": 227,
           "is_ces": false
         },
         {
@@ -1069,17 +1089,17 @@
           "is_ces": false
         },
         {
+          "person_id": "lilliana-mason",
+          "name": "Lilliana Mason",
+          "count": 32,
+          "reach": 73,
+          "is_ces": false
+        },
+        {
           "person_id": "none-keyword-noise",
           "name": "None (keyword noise)",
           "count": 32,
           "reach": 36,
-          "is_ces": false
-        },
-        {
-          "person_id": "lilliana-mason",
-          "name": "Lilliana Mason",
-          "count": 31,
-          "reach": 72,
           "is_ces": false
         },
         {
@@ -1093,8 +1113,8 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 240,
-          "reach": 1857,
+          "count": 246,
+          "reach": 1870,
           "is_other": false
         },
         {
@@ -1111,14 +1131,14 @@
         },
         {
           "source": "LinkedIn",
-          "count": 42,
-          "reach": 43,
+          "count": 43,
+          "reach": 44,
           "is_other": false
         },
         {
           "source": "Substack",
-          "count": 37,
-          "reach": 48,
+          "count": 38,
+          "reach": 49,
           "is_other": false
         },
         {
@@ -1134,34 +1154,34 @@
           "is_other": false
         },
         {
-          "source": "wordpress.com",
+          "source": "N2O Records",
           "count": 22,
-          "reach": 20,
+          "reach": 23,
           "is_other": false
         },
         {
           "source": "Other",
-          "count": 890,
-          "reach": 3478,
+          "count": 900,
+          "reach": 3494,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 770
+          "count": 778
         },
         {
           "source_type": "social network",
-          "count": 251
+          "count": 253
         },
         {
           "source_type": "blog",
-          "count": 62
+          "count": 63
         },
         {
           "source_type": "unresolved",
-          "count": 338
+          "count": 345
         }
       ],
       "negative_stories": [
@@ -1193,10 +1213,10 @@
           "person_id": "snf-agora-institute",
           "is_ces": false,
           "positive": 23,
-          "neutral": 34,
+          "neutral": 35,
           "negative": 3,
           "unknown": 57,
-          "total": 117
+          "total": 118
         },
         {
           "row_label": "unknown",
@@ -1249,6 +1269,16 @@
           "total": 37
         },
         {
+          "row_label": "Lilliana Mason",
+          "person_id": "lilliana-mason",
+          "is_ces": false,
+          "positive": 6,
+          "neutral": 6,
+          "negative": 0,
+          "unknown": 20,
+          "total": 32
+        },
+        {
           "row_label": "None (keyword noise)",
           "person_id": "none-keyword-noise",
           "is_ces": false,
@@ -1257,16 +1287,6 @@
           "negative": 0,
           "unknown": 32,
           "total": 32
-        },
-        {
-          "row_label": "Lilliana Mason",
-          "person_id": "lilliana-mason",
-          "is_ces": false,
-          "positive": 6,
-          "neutral": 6,
-          "negative": 0,
-          "unknown": 19,
-          "total": 31
         },
         {
           "row_label": "Yuen Yuen Ang",
@@ -1385,7 +1405,17 @@
           "positive": 0,
           "neutral": 5,
           "negative": 0,
-          "unknown": 6,
+          "unknown": 7,
+          "total": 12
+        },
+        {
+          "row_label": "Amy Binder",
+          "person_id": "amy-binder",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 4,
+          "negative": 0,
+          "unknown": 7,
           "total": 11
         },
         {
@@ -1399,16 +1429,6 @@
           "total": 11
         },
         {
-          "row_label": "Amy Binder",
-          "person_id": "amy-binder",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 3,
-          "negative": 0,
-          "unknown": 7,
-          "total": 10
-        },
-        {
           "row_label": "Eugene Scott",
           "person_id": "eugene-scott",
           "is_ces": false,
@@ -1419,6 +1439,16 @@
           "total": 10
         },
         {
+          "row_label": "Namesake/noise match: agora, Hopkins",
+          "person_id": "namesake-noise-match-agora-hopkins",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 10,
+          "total": 10
+        },
+        {
           "row_label": "Emily White",
           "person_id": "emily-white",
           "is_ces": false,
@@ -1426,16 +1456,6 @@
           "neutral": 0,
           "negative": 0,
           "unknown": 8,
-          "total": 9
-        },
-        {
-          "row_label": "Namesake/noise match: agora, Hopkins",
-          "person_id": "namesake-noise-match-agora-hopkins",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 9,
           "total": 9
         },
         {
@@ -1529,6 +1549,16 @@
           "total": 6
         },
         {
+          "row_label": "Namesake/noise match: Johns Hopkins, higher education",
+          "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 6,
+          "total": 6
+        },
+        {
           "row_label": "Namesake/noise match: agora, Johns Hopkins",
           "person_id": "namesake-noise-match-agora-johns-hopkins",
           "is_ces": false,
@@ -1569,8 +1599,8 @@
           "total": 5
         },
         {
-          "row_label": "Namesake/noise match: Johns Hopkins, higher education",
-          "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+          "row_label": "Namesake/noise match: Johns Hopkins, agora",
+          "person_id": "namesake-noise-match-johns-hopkins-agora",
           "is_ces": false,
           "positive": 0,
           "neutral": 0,
@@ -1619,8 +1649,8 @@
           "total": 4
         },
         {
-          "row_label": "Namesake/noise match: Johns Hopkins, agora",
-          "person_id": "namesake-noise-match-johns-hopkins-agora",
+          "row_label": "Namesake/noise match: Hopkins, Agora",
+          "person_id": "namesake-noise-match-hopkins-agora",
           "is_ces": false,
           "positive": 0,
           "neutral": 0,
@@ -1719,16 +1749,6 @@
           "total": 3
         },
         {
-          "row_label": "Namesake/noise match: Hopkins, Agora",
-          "person_id": "namesake-noise-match-hopkins-agora",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 3,
-          "total": 3
-        },
-        {
           "row_label": "Namesake/noise match: Hopkins, agora",
           "person_id": "namesake-noise-match-hopkins-agora",
           "is_ces": false,
@@ -1811,6 +1831,16 @@
         {
           "row_label": "Namesake/noise match: Higher Education, JOHNS HOPKINS",
           "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 2,
+          "total": 2
+        },
+        {
+          "row_label": "Namesake/noise match: Higher education, Hopkins University",
+          "person_id": "namesake-noise-match-higher-education-hopkins-university",
           "is_ces": false,
           "positive": 0,
           "neutral": 0,
@@ -2049,6 +2079,16 @@
           "total": 1
         },
         {
+          "row_label": "Emily White (namesake: DJ Jill Hopkins in a Chicago music listing)",
+          "person_id": "emily-white-namesake-dj-jill-hopkins-in-a-chicago-music-listing",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
           "row_label": "Felix Maradiaga",
           "person_id": "felix-maradiaga",
           "is_ces": false,
@@ -2159,6 +2199,16 @@
           "total": 1
         },
         {
+          "row_label": "Max Cohen (namesake: character in Aronofsky film Pi)",
+          "person_id": "max-cohen-namesake-character-in-aronofsky-film-pi",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
           "row_label": "Namesake/noise match: Academic Freedom, Higher Education, Johns Hopkins",
           "person_id": "namesake-noise-match-academic-freedom-higher-education-johns-hopkins",
           "is_ces": false,
@@ -2239,16 +2289,6 @@
           "total": 1
         },
         {
-          "row_label": "Namesake/noise match: Higher education, Hopkins University",
-          "person_id": "namesake-noise-match-higher-education-hopkins-university",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 1,
-          "total": 1
-        },
-        {
           "row_label": "Namesake/noise match: Hopkins University, Johns Hopkins",
           "person_id": "namesake-noise-match-hopkins-university-johns-hopkins",
           "is_ces": false,
@@ -2279,6 +2319,46 @@
           "total": 1
         },
         {
+          "row_label": "Namesake/noise match: JOHNS HOPKINS, Johns Hopkins, higher education",
+          "person_id": "namesake-noise-match-johns-hopkins-johns-hopkins-higher-education",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Namesake/noise match: Johns Hopkins, Agora",
+          "person_id": "namesake-noise-match-johns-hopkins-agora",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Namesake/noise match: Johns Hopkins, Higher Education, higher education",
+          "person_id": "namesake-noise-match-johns-hopkins-higher-education-higher-education",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Namesake/noise match: Johns Hopkins, Higher Education, higher education, academic freedom, viewpoint diversity, ideological diversity, Higher education",
+          "person_id": "namesake-noise-match-johns-hopkins-higher-education-higher-education-academic-freedom-viewpoint-diversity-ideological-diversity-higher-education",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
           "row_label": "Namesake/noise match: Johns Hopkins, University President",
           "person_id": "namesake-noise-match-johns-hopkins-university-president",
           "is_ces": false,
@@ -2291,6 +2371,16 @@
         {
           "row_label": "Namesake/noise match: Johns Hopkins, academic freedom",
           "person_id": "namesake-noise-match-johns-hopkins-academic-freedom",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Namesake/noise match: Johns Hopkins, academic freedom, higher education",
+          "person_id": "namesake-noise-match-johns-hopkins-academic-freedom-higher-education",
           "is_ces": false,
           "positive": 0,
           "neutral": 0,
@@ -2329,6 +2419,16 @@
           "total": 1
         },
         {
+          "row_label": "Namesake/noise match: agora, Johns Hopkins, Agora",
+          "person_id": "namesake-noise-match-agora-johns-hopkins-agora",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
           "row_label": "Namesake/noise match: higher education, Hopkins University, Johns Hopkins",
           "person_id": "namesake-noise-match-higher-education-hopkins-university-johns-hopkins",
           "is_ces": false,
@@ -2351,6 +2451,16 @@
         {
           "row_label": "Namesake/noise match: higher education, Johns Hopkins, University President",
           "person_id": "namesake-noise-match-higher-education-johns-hopkins-university-president",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Peter Pomerantsev / Scott Warren",
+          "person_id": "peter-pomerantsev-scott-warren",
           "is_ces": false,
           "positive": 0,
           "neutral": 0,
@@ -2393,34 +2503,34 @@
         {
           "row_label": "online news",
           "positive": 39,
-          "neutral": 116,
+          "neutral": 117,
           "negative": 2,
-          "unknown": 613,
-          "total": 770
+          "unknown": 620,
+          "total": 778
         },
         {
           "row_label": "social network",
           "positive": 46,
-          "neutral": 52,
+          "neutral": 53,
           "negative": 1,
-          "unknown": 152,
-          "total": 251
+          "unknown": 153,
+          "total": 253
         },
         {
           "row_label": "blog",
           "positive": 8,
           "neutral": 8,
           "negative": 0,
-          "unknown": 46,
-          "total": 62
+          "unknown": 47,
+          "total": 63
         },
         {
           "row_label": "unresolved",
           "positive": 22,
           "neutral": 11,
           "negative": 8,
-          "unknown": 297,
-          "total": 338
+          "unknown": 304,
+          "total": 345
         }
       ],
       "sentiment_examples": {
@@ -3789,25 +3899,25 @@
         "negative": 0
       },
       "deltas": {
-        "week_start": "2026-10-05",
-        "prev_week_start": "2026-09-28",
+        "week_start": "2026-10-12",
+        "prev_week_start": "2026-10-05",
         "mentions": {
-          "current": 8,
-          "previous": 6,
-          "change": 2,
-          "pct_change": 33.3
+          "current": 5,
+          "previous": 8,
+          "change": -3,
+          "pct_change": -37.5
         },
         "reach_proxy": {
-          "current": 18,
-          "previous": 8,
-          "change": 10,
-          "pct_change": 125.0
+          "current": 8,
+          "previous": 18,
+          "change": -10,
+          "pct_change": -55.6
         },
         "people_covered": {
-          "current": 5,
-          "previous": 4,
-          "change": 1,
-          "pct_change": 25.0
+          "current": 3,
+          "previous": 5,
+          "change": -2,
+          "pct_change": -40.0
         }
       },
       "daily": [
@@ -4573,6 +4683,13 @@
           "reach": 0,
           "in_digest": 0,
           "observed": true
+        },
+        {
+          "date": "2026-10-19",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
+          "observed": true
         }
       ],
       "weekly": [
@@ -4782,6 +4899,19 @@
             "neutral": 2,
             "negative": 0,
             "unknown": 2
+          }
+        },
+        {
+          "week_start": "2026-10-19",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
+          "people": 0,
+          "sentiment": {
+            "positive": 0,
+            "neutral": 0,
+            "negative": 0,
+            "unknown": 0
           }
         }
       ],

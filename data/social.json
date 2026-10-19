@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-10-18T07:06:08-04:00",
-  "count": 80,
+  "generated_at": "2026-10-19T07:07:04-04:00",
+  "count": 81,
   "picks": [
+    {
+      "id": 99,
+      "mention_id": 1432,
+      "digest_date": "2026-10-18",
+      "person": "Amy Binder",
+      "person_id": "amy-binder",
+      "person_ids": [
+        "amy-binder"
+      ],
+      "is_ces": false,
+      "punchy_title": "Amy Binder on how Charlie Kirk built Turning Point USA, and what comes after him",
+      "headline": "Amy Binder on how Charlie Kirk built Turning Point USA, and what comes after him",
+      "pull_quote": "Amy Binder, a sociology professor at Johns Hopkins University, has studied ...",
+      "rationale": "Amy Binder, a sociology professor at Johns Hopkins University, has studied ...",
+      "url": "https://www.sltrib.com/news/politics/2026/10/17/uncertain-future-erika-kirks/",
+      "story_url": "https://www.sltrib.com/news/politics/2026/10/17/uncertain-future-erika-kirks/",
+      "created_at": "2026-10-19 11:06:53",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "How did Turning Point USA overtake College Republicans on campus? SNF Agora's Amy Binder explains to The Salt Lake Tribune, calling Charlie Kirk \"an incredible entrepreneur.\" https://www.sltrib.com/news/politics/2026/10/17/uncertain-future-erika-kirks/",
+          "chars": 252,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=How%20did%20Turning%20Point%20USA%20overtake%20College%20Republicans%20on%20campus%3F%20SNF%20Agora%27s%20Amy%20Binder%20explains%20to%20The%20Salt%20Lake%20Tribune%2C%20calling%20Charlie%20Kirk%20%22an%20incredible%20entrepreneur.%22%20https%3A//www.sltrib.com/news/politics/2026/10/17/uncertain-future-erika-kirks/"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "How did Turning Point USA overtake College Republicans on campus? SNF Agora's Amy Binder explains to The Salt Lake Tribune, calling Charlie Kirk \"an incredible entrepreneur.\" https://www.sltrib.com/news/politics/2026/10/17/uncertain-future-erika-kirks/",
+          "chars": 252,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=How%20did%20Turning%20Point%20USA%20overtake%20College%20Republicans%20on%20campus%3F%20SNF%20Agora%27s%20Amy%20Binder%20explains%20to%20The%20Salt%20Lake%20Tribune%2C%20calling%20Charlie%20Kirk%20%22an%20incredible%20entrepreneur.%22%20https%3A//www.sltrib.com/news/politics/2026/10/17/uncertain-future-erika-kirks/"
+        }
+      ]
+    },
     {
       "id": 98,
       "mention_id": 1395,
