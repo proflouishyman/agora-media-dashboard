@@ -653,16 +653,16 @@
       "Affiliated Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 37,
+    "mentions_total": 38,
     "mentions_in_digest": 14,
-    "reach_proxy": 64,
+    "reach_proxy": 65,
     "first_mention_date": "2026-07-03",
-    "last_mention_date": "2026-10-16",
+    "last_mention_date": "2026-10-19",
     "sentiment": {
       "positive": 6,
       "neutral": 13,
       "negative": 1,
-      "unknown": 17
+      "unknown": 18
     },
     "top_sources": [
       {
@@ -744,8 +744,8 @@
       },
       {
         "week_start": "2026-10-19",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -1072,6 +1072,112 @@
     ]
   },
   {
+    "id": "none-no-captured-text",
+    "name": "None (no captured text)",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 30,
+    "mentions_in_digest": 0,
+    "reach_proxy": 48,
+    "first_mention_date": "2026-08-28",
+    "last_mention_date": "2026-10-20",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 30
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 19
+      },
+      {
+        "source": "reddit.com/r/Christianity",
+        "count": 2
+      },
+      {
+        "source": "reddit.com/r/Cinema",
+        "count": 1
+      },
+      {
+        "source": "reddit.com/r/DebateReligion",
+        "count": 1
+      },
+      {
+        "source": "reddit.com/r/TrueFilm",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 2,
+        "reach": 11
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 19,
+        "reach": 19
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 9,
+        "reach": 18
+      }
+    ]
+  },
+  {
     "id": "hahrie-han",
     "name": "Hahrie Han",
     "kind": "faculty",
@@ -1083,13 +1189,13 @@
       "Core Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 27,
-    "mentions_in_digest": 14,
-    "reach_proxy": 364,
+    "mentions_total": 28,
+    "mentions_in_digest": 15,
+    "reach_proxy": 365,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-10-13",
+    "last_mention_date": "2026-10-19",
     "sentiment": {
-      "positive": 11,
+      "positive": 12,
       "neutral": 3,
       "negative": 0,
       "unknown": 13
@@ -1174,8 +1280,8 @@
       },
       {
         "week_start": "2026-10-19",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -1191,14 +1297,14 @@
       "Core Faculty"
     ],
     "is_ces": true,
-    "mentions_total": 22,
-    "mentions_in_digest": 10,
-    "reach_proxy": 33,
+    "mentions_total": 24,
+    "mentions_in_digest": 11,
+    "reach_proxy": 40,
     "first_mention_date": "2026-07-10",
-    "last_mention_date": "2026-10-17",
+    "last_mention_date": "2026-10-19",
     "sentiment": {
       "positive": 5,
-      "neutral": 7,
+      "neutral": 9,
       "negative": 0,
       "unknown": 10
     },
@@ -1206,6 +1312,10 @@
       {
         "source": "Twitter",
         "count": 10
+      },
+      {
+        "source": "CNBC",
+        "count": 2
       },
       {
         "source": "LinkedIn",
@@ -1216,11 +1326,7 @@
         "count": 1
       },
       {
-        "source": "Baltimore Fishbowl",
-        "count": 1
-      },
-      {
-        "source": "CNBC",
+        "source": "AccountsRecovery.net",
         "count": 1
       }
     ],
@@ -1282,114 +1388,8 @@
       },
       {
         "week_start": "2026-10-19",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "none-no-captured-text",
-    "name": "None (no captured text)",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 21,
-    "mentions_in_digest": 0,
-    "reach_proxy": 30,
-    "first_mention_date": "2026-08-28",
-    "last_mention_date": "2026-09-02",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 21
-    },
-    "top_sources": [
-      {
-        "source": "Twitter",
-        "count": 11
-      },
-      {
-        "source": "reddit.com/r/Christianity",
-        "count": 2
-      },
-      {
-        "source": "reddit.com/r/Cinema",
-        "count": 1
-      },
-      {
-        "source": "reddit.com/r/DebateReligion",
-        "count": 1
-      },
-      {
-        "source": "reddit.com/r/TrueFilm",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
         "count": 2,
-        "reach": 11
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 19,
-        "reach": 19
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-19",
-        "count": 0,
-        "reach": 0
+        "reach": 7
       }
     ]
   },
@@ -1610,6 +1610,114 @@
     ]
   },
   {
+    "id": "scott-warren",
+    "name": "Scott Warren",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Fellow",
+    "profile_url": "https://snfagora.jhu.edu/directory/scott-warren/",
+    "photo_url": "images/people/scott-warren.jpg",
+    "categories": [
+      "Continuing Faculty + Fellows"
+    ],
+    "is_ces": false,
+    "mentions_total": 16,
+    "mentions_in_digest": 13,
+    "reach_proxy": 1649,
+    "first_mention_date": "2026-07-02",
+    "last_mention_date": "2026-10-19",
+    "sentiment": {
+      "positive": 5,
+      "neutral": 4,
+      "negative": 0,
+      "unknown": 7
+    },
+    "top_sources": [
+      {
+        "source": "LinkedIn",
+        "count": 4
+      },
+      {
+        "source": "Instagram",
+        "count": 2
+      },
+      {
+        "source": "American Enterprise Institute - AEI",
+        "count": 1
+      },
+      {
+        "source": "Bluesky",
+        "count": 1
+      },
+      {
+        "source": "Eleven Media Group Co., Ltd",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 1,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 2,
+        "reach": 7
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 1,
+        "reach": 1625
+      }
+    ]
+  },
+  {
     "id": "martha-s-jones",
     "name": "Martha S. Jones",
     "kind": "faculty",
@@ -1709,114 +1817,6 @@
         "week_start": "2026-10-12",
         "count": 1,
         "reach": 1
-      },
-      {
-        "week_start": "2026-10-19",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "scott-warren",
-    "name": "Scott Warren",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Fellow",
-    "profile_url": "https://snfagora.jhu.edu/directory/scott-warren/",
-    "photo_url": "images/people/scott-warren.jpg",
-    "categories": [
-      "Continuing Faculty + Fellows"
-    ],
-    "is_ces": false,
-    "mentions_total": 15,
-    "mentions_in_digest": 12,
-    "reach_proxy": 24,
-    "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-10-16",
-    "sentiment": {
-      "positive": 5,
-      "neutral": 4,
-      "negative": 0,
-      "unknown": 6
-    },
-    "top_sources": [
-      {
-        "source": "LinkedIn",
-        "count": 4
-      },
-      {
-        "source": "Instagram",
-        "count": 2
-      },
-      {
-        "source": "American Enterprise Institute - AEI",
-        "count": 1
-      },
-      {
-        "source": "Bluesky",
-        "count": 1
-      },
-      {
-        "source": "Eleven Media Group Co., Ltd",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-08-03",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 1,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 2,
-        "reach": 7
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 2,
-        "reach": 2
       },
       {
         "week_start": "2026-10-19",
@@ -1934,6 +1934,112 @@
     ]
   },
   {
+    "id": "namesake-noise-match-higher-education-johns-hopkins",
+    "name": "Namesake/noise match: higher education, Johns Hopkins",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 14,
+    "mentions_in_digest": 0,
+    "reach_proxy": 14,
+    "first_mention_date": "2026-09-02",
+    "last_mention_date": "2026-10-19",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 14
+    },
+    "top_sources": [
+      {
+        "source": "Medical Xpress",
+        "count": 2
+      },
+      {
+        "source": "N2O Records",
+        "count": 2
+      },
+      {
+        "source": "Youtube",
+        "count": 2
+      },
+      {
+        "source": "FYI: Science Policy News",
+        "count": 1
+      },
+      {
+        "source": "Head Topics",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 12,
+        "reach": 12
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "unattributed-institutional-keyword-only",
     "name": "Unattributed (institutional keyword only)",
     "kind": "unmatched",
@@ -2023,112 +2129,6 @@
         "week_start": "2026-10-12",
         "count": 0,
         "reach": 0
-      },
-      {
-        "week_start": "2026-10-19",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "namesake-noise-match-higher-education-johns-hopkins",
-    "name": "Namesake/noise match: higher education, Johns Hopkins",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 13,
-    "mentions_in_digest": 0,
-    "reach_proxy": 13,
-    "first_mention_date": "2026-09-02",
-    "last_mention_date": "2026-10-18",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 13
-    },
-    "top_sources": [
-      {
-        "source": "Medical Xpress",
-        "count": 2
-      },
-      {
-        "source": "N2O Records",
-        "count": 2
-      },
-      {
-        "source": "FYI: Science Policy News",
-        "count": 1
-      },
-      {
-        "source": "Head Topics",
-        "count": 1
-      },
-      {
-        "source": "Lumiere Education",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 12,
-        "reach": 12
       },
       {
         "week_start": "2026-10-19",
@@ -2774,6 +2774,112 @@
         "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-johns-hopkins-higher-education",
+    "name": "Namesake/noise match: Johns Hopkins, higher education",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 9,
+    "mentions_in_digest": 0,
+    "reach_proxy": 11,
+    "first_mention_date": "2026-09-01",
+    "last_mention_date": "2026-10-20",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 9
+    },
+    "top_sources": [
+      {
+        "source": "AOL",
+        "count": 1
+      },
+      {
+        "source": "MedPage Today",
+        "count": 1
+      },
+      {
+        "source": "N2O Records",
+        "count": 1
+      },
+      {
+        "source": "Springer",
+        "count": 1
+      },
+      {
+        "source": "Substack (also r/Keep_Track)",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 4,
+        "reach": 5
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 3,
+        "reach": 4
       }
     ]
   },
@@ -3736,8 +3842,8 @@
     ]
   },
   {
-    "id": "namesake-noise-match-johns-hopkins-higher-education",
-    "name": "Namesake/noise match: Johns Hopkins, higher education",
+    "id": "namesake-noise-match-johns-hopkins-agora",
+    "name": "Namesake/noise match: Johns Hopkins, agora",
     "kind": "unmatched",
     "tracked": false,
     "title": "",
@@ -3747,9 +3853,9 @@
     "is_ces": false,
     "mentions_total": 6,
     "mentions_in_digest": 0,
-    "reach_proxy": 7,
+    "reach_proxy": 6,
     "first_mention_date": "2026-09-01",
-    "last_mention_date": "2026-10-18",
+    "last_mention_date": "2026-10-20",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
@@ -3758,23 +3864,23 @@
     },
     "top_sources": [
       {
-        "source": "AOL",
+        "source": "BLOGDODALMO",
         "count": 1
       },
       {
-        "source": "MedPage Today",
+        "source": "Futuroprossimo",
         "count": 1
       },
       {
-        "source": "Springer",
+        "source": "Portal R7",
         "count": 1
       },
       {
-        "source": "Substack (also r/Keep_Track)",
+        "source": "Prof. Pedro Demo",
         "count": 1
       },
       {
-        "source": "The Girl That Runs",
+        "source": "Revista Onne &amp; Only",
         "count": 1
       }
     ],
@@ -3801,8 +3907,8 @@
       },
       {
         "week_start": "2026-08-31",
-        "count": 4,
-        "reach": 5
+        "count": 3,
+        "reach": 3
       },
       {
         "week_start": "2026-09-07",
@@ -3831,13 +3937,13 @@
       },
       {
         "week_start": "2026-10-12",
-        "count": 2,
-        "reach": 2
+        "count": 1,
+        "reach": 1
       },
       {
         "week_start": "2026-10-19",
-        "count": 0,
-        "reach": 0
+        "count": 2,
+        "reach": 2
       }
     ]
   },
@@ -4258,8 +4364,8 @@
     ]
   },
   {
-    "id": "namesake-noise-match-johns-hopkins-agora",
-    "name": "Namesake/noise match: Johns Hopkins, agora",
+    "id": "namesake-noise-match-hopkins-agora",
+    "name": "Namesake/noise match: Hopkins, agora",
     "kind": "unmatched",
     "tracked": false,
     "title": "",
@@ -4280,23 +4386,19 @@
     },
     "top_sources": [
       {
-        "source": "BLOGDODALMO",
+        "source": "Revista Bula",
+        "count": 2
+      },
+      {
+        "source": "POSTAL",
         "count": 1
       },
       {
-        "source": "Futuroprossimo",
+        "source": "SAPO",
         "count": 1
       },
       {
-        "source": "Prof. Pedro Demo",
-        "count": 1
-      },
-      {
-        "source": "Revista Onne &amp; Only",
-        "count": 1
-      },
-      {
-        "source": "Valentina em Qap",
+        "source": "Vinetur",
         "count": 1
       }
     ],
@@ -4323,8 +4425,8 @@
       },
       {
         "week_start": "2026-08-31",
-        "count": 3,
-        "reach": 3
+        "count": 2,
+        "reach": 2
       },
       {
         "week_start": "2026-09-07",
@@ -4358,8 +4460,8 @@
       },
       {
         "week_start": "2026-10-19",
-        "count": 1,
-        "reach": 1
+        "count": 2,
+        "reach": 2
       }
     ]
   },
@@ -5768,8 +5870,8 @@
     ]
   },
   {
-    "id": "namesake-noise-match-hopkins-agora",
-    "name": "Namesake/noise match: Hopkins, agora",
+    "id": "namesake-noise-match-johns-hopkins-nih-funding",
+    "name": "Namesake/noise match: Johns Hopkins, NIH funding",
     "kind": "unmatched",
     "tracked": false,
     "title": "",
@@ -5781,7 +5883,7 @@
     "mentions_in_digest": 0,
     "reach_proxy": 3,
     "first_mention_date": "2026-09-01",
-    "last_mention_date": "2026-10-17",
+    "last_mention_date": "2026-10-19",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
@@ -5790,15 +5892,15 @@
     },
     "top_sources": [
       {
-        "source": "POSTAL",
+        "source": "MSN.com",
         "count": 1
       },
       {
-        "source": "Revista Bula",
+        "source": "Twitter",
         "count": 1
       },
       {
-        "source": "SAPO",
+        "source": "Vietnam.vn",
         "count": 1
       }
     ],
@@ -5855,13 +5957,13 @@
       },
       {
         "week_start": "2026-10-12",
-        "count": 1,
-        "reach": 1
+        "count": 0,
+        "reach": 0
       },
       {
         "week_start": "2026-10-19",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -6250,6 +6352,102 @@
         "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "eliana-m-perrin",
+    "name": "Eliana M. Perrin",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Bloomberg Distinguished Professor of Primary Care",
+    "profile_url": "https://snfagora.jhu.edu/directory/eliana-m-perrin/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 2,
+    "mentions_in_digest": 0,
+    "reach_proxy": 2,
+    "first_mention_date": "2026-10-14",
+    "last_mention_date": "2026-10-19",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 2
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 1
+      },
+      {
+        "source": "Youtube",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -6718,8 +6916,8 @@
     ]
   },
   {
-    "id": "namesake-noise-match-johns-hopkins-nih-funding",
-    "name": "Namesake/noise match: Johns Hopkins, NIH funding",
+    "id": "namesake-noise-match-johns-hopkins-university-president",
+    "name": "Namesake/noise match: Johns Hopkins, University President",
     "kind": "unmatched",
     "tracked": false,
     "title": "",
@@ -6730,8 +6928,8 @@
     "mentions_total": 2,
     "mentions_in_digest": 0,
     "reach_proxy": 2,
-    "first_mention_date": "2026-09-01",
-    "last_mention_date": "2026-09-02",
+    "first_mention_date": "2026-10-16",
+    "last_mention_date": "2026-10-20",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
@@ -6740,12 +6938,8 @@
     },
     "top_sources": [
       {
-        "source": "MSN.com",
-        "count": 1
-      },
-      {
-        "source": "Twitter",
-        "count": 1
+        "source": "N2O Records",
+        "count": 2
       }
     ],
     "weekly": [
@@ -6771,8 +6965,8 @@
       },
       {
         "week_start": "2026-08-31",
-        "count": 2,
-        "reach": 2
+        "count": 0,
+        "reach": 0
       },
       {
         "week_start": "2026-09-07",
@@ -6801,13 +6995,13 @@
       },
       {
         "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       },
       {
         "week_start": "2026-10-19",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -6906,6 +7100,96 @@
     ]
   },
   {
+    "id": "namesake-noise-match-johns-hopkins-academic-freedom",
+    "name": "Namesake/noise match: Johns Hopkins, academic freedom",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 2,
+    "mentions_in_digest": 0,
+    "reach_proxy": 2,
+    "first_mention_date": "2026-10-18",
+    "last_mention_date": "2026-10-20",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 2
+    },
+    "top_sources": [
+      {
+        "source": "N2O Records",
+        "count": 2
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "namesake-noise-match-johns-hopkins-federal-research-funding",
     "name": "Namesake/noise match: Johns Hopkins, federal research funding",
     "kind": "unmatched",
@@ -6996,6 +7280,100 @@
         "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-johns-hopkins-university-president",
+    "name": "Namesake/noise match: Johns Hopkins, university president",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 2,
+    "mentions_in_digest": 0,
+    "reach_proxy": 2,
+    "first_mention_date": "2026-09-02",
+    "last_mention_date": "2026-10-19",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 2
+    },
+    "top_sources": [
+      {
+        "source": "Cambridge University Press & Assessment",
+        "count": 1
+      },
+      {
+        "source": "Twitter",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -8636,98 +9014,6 @@
     ]
   },
   {
-    "id": "eliana-m-perrin",
-    "name": "Eliana M. Perrin",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Bloomberg Distinguished Professor of Primary Care",
-    "profile_url": "https://snfagora.jhu.edu/directory/eliana-m-perrin/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 1,
-    "mentions_in_digest": 0,
-    "reach_proxy": 1,
-    "first_mention_date": "2026-10-14",
-    "last_mention_date": "2026-10-14",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 1
-    },
-    "top_sources": [
-      {
-        "source": "Twitter",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-10-19",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
     "id": "eliot-cohen-2",
     "name": "Eliot  Cohen",
     "kind": "faculty",
@@ -10274,6 +10560,96 @@
     ]
   },
   {
+    "id": "namesake-noise-match-ben-cardin-johns-hopkins-university-president",
+    "name": "Namesake/noise match: Ben Cardin, Johns Hopkins, University President",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-10-20",
+    "last_mention_date": "2026-10-20",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "N2O Records",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "namesake-noise-match-emily-white-hopkins",
     "name": "Namesake/noise match: Emily White, Hopkins",
     "kind": "unmatched",
@@ -10724,6 +11100,96 @@
     ]
   },
   {
+    "id": "namesake-noise-match-higher-education-johns-hopkins",
+    "name": "Namesake/noise match: Higher education, Johns Hopkins",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-10-20",
+    "last_mention_date": "2026-10-20",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "N2O Records",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "namesake-noise-match-hopkins-university-johns-hopkins",
     "name": "Namesake/noise match: Hopkins University, Johns Hopkins",
     "kind": "unmatched",
@@ -10810,6 +11276,96 @@
         "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-hopkins-university-johns-hopkins-higher-education-university-president",
+    "name": "Namesake/noise match: Hopkins University, Johns Hopkins, higher education, University president",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-10-19",
+    "last_mention_date": "2026-10-19",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "N2O Records",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -11084,6 +11640,96 @@
     ]
   },
   {
+    "id": "namesake-noise-match-johns-hopkins-academic-freedom-academic-freedom",
+    "name": "Namesake/noise match: Johns Hopkins, Academic Freedom, academic freedom",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-10-19",
+    "last_mention_date": "2026-10-19",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "University Herald",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "namesake-noise-match-johns-hopkins-agora",
     "name": "Namesake/noise match: Johns Hopkins, Agora",
     "kind": "unmatched",
@@ -11170,6 +11816,96 @@
         "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-johns-hopkins-faculty-senate",
+    "name": "Namesake/noise match: Johns Hopkins, Faculty Senate",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-10-19",
+    "last_mention_date": "2026-10-19",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Youtube",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -11354,186 +12090,6 @@
     ]
   },
   {
-    "id": "namesake-noise-match-johns-hopkins-university-president",
-    "name": "Namesake/noise match: Johns Hopkins, University President",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 1,
-    "mentions_in_digest": 0,
-    "reach_proxy": 1,
-    "first_mention_date": "2026-10-16",
-    "last_mention_date": "2026-10-16",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 1
-    },
-    "top_sources": [
-      {
-        "source": "N2O Records",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-10-19",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "namesake-noise-match-johns-hopkins-academic-freedom",
-    "name": "Namesake/noise match: Johns Hopkins, academic freedom",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 1,
-    "mentions_in_digest": 0,
-    "reach_proxy": 1,
-    "first_mention_date": "2026-10-18",
-    "last_mention_date": "2026-10-18",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 1
-    },
-    "top_sources": [
-      {
-        "source": "N2O Records",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-10-19",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
     "id": "namesake-noise-match-johns-hopkins-academic-freedom-higher-education",
     "name": "Namesake/noise match: Johns Hopkins, academic freedom, higher education",
     "kind": "unmatched",
@@ -11620,96 +12176,6 @@
         "week_start": "2026-10-19",
         "count": 1,
         "reach": 1
-      }
-    ]
-  },
-  {
-    "id": "namesake-noise-match-johns-hopkins-university-president",
-    "name": "Namesake/noise match: Johns Hopkins, university president",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 1,
-    "mentions_in_digest": 0,
-    "reach_proxy": 1,
-    "first_mention_date": "2026-09-02",
-    "last_mention_date": "2026-09-02",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 1
-    },
-    "top_sources": [
-      {
-        "source": "Twitter",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-08-03",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-19",
-        "count": 0,
-        "reach": 0
       }
     ]
   },
@@ -11980,6 +12446,186 @@
         "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-federal-research-funding-johns-hopkins",
+    "name": "Namesake/noise match: federal research funding, Johns Hopkins",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 3,
+    "first_mention_date": "2026-10-19",
+    "last_mention_date": "2026-10-19",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "[your]NEWS",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 1,
+        "reach": 3
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-federal-research-funding-higher-education-johns-hopkins",
+    "name": "Namesake/noise match: federal research funding, higher education, Johns Hopkins",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-10-19",
+    "last_mention_date": "2026-10-19",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "The Baltimore Banner",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-03",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 1,
+        "reach": 1
       }
     ]
   },

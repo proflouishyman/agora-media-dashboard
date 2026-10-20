@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-10-19T07:07:04-04:00",
-  "count": 81,
+  "generated_at": "2026-10-20T07:10:06-04:00",
+  "count": 82,
   "picks": [
+    {
+      "id": 100,
+      "mention_id": 1467,
+      "digest_date": "2026-10-19",
+      "person": "Louis Hyman",
+      "person_id": "louis-hyman",
+      "person_ids": [
+        "louis-hyman"
+      ],
+      "is_ces": true,
+      "punchy_title": "Who got to borrow \"good debt\" — and who was shut out",
+      "headline": "Who got to borrow \"good debt\" — and who was shut out",
+      "pull_quote": "Louis Hyman, a political economy historian at Johns Hopkins, talks about who had the most access to \"good debt\" in the 20th century.",
+      "rationale": "Louis Hyman, a political economy historian at Johns Hopkins, talks about who had the most access to \"good debt\" in the 20th century.",
+      "url": "https://www.cnbc.com/video/2026/10/19/the-origins-of-good-debt.html",
+      "story_url": "https://www.cnbc.com/video/2026/10/19/the-origins-of-good-debt.html",
+      "created_at": "2026-10-20 11:10:02",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Who had access to \"good debt\" in the 20th century, and who was left out? SNF Agora's Louis Hyman, a political economy historian at Johns Hopkins, explains on CNBC. https://www.cnbc.com/video/2026/10/19/the-origins-of-good-debt.html",
+          "chars": 231,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Who%20had%20access%20to%20%22good%20debt%22%20in%20the%2020th%20century%2C%20and%20who%20was%20left%20out%3F%20SNF%20Agora%27s%20Louis%20Hyman%2C%20a%20political%20economy%20historian%20at%20Johns%20Hopkins%2C%20explains%20on%20CNBC.%20https%3A//www.cnbc.com/video/2026/10/19/the-origins-of-good-debt.html"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Who had access to \"good debt\" in the 20th century, and who was left out? SNF Agora's Louis Hyman, a political economy historian at Johns Hopkins, talks with CNBC's Greg Iacurci about how American views on debt changed. https://www.cnbc.com/video/2026/10/19/the-origins-of-good-debt.html",
+          "chars": 286,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Who%20had%20access%20to%20%22good%20debt%22%20in%20the%2020th%20century%2C%20and%20who%20was%20left%20out%3F%20SNF%20Agora%27s%20Louis%20Hyman%2C%20a%20political%20economy%20historian%20at%20Johns%20Hopkins%2C%20talks%20with%20CNBC%27s%20Greg%20Iacurci%20about%20how%20American%20views%20on%20debt%20changed.%20https%3A//www.cnbc.com/video/2026/10/19/the-origins-of-good-debt.html"
+        }
+      ]
+    },
     {
       "id": 99,
       "mention_id": 1432,
