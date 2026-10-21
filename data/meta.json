@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-20T07:10:06-04:00",
-  "generated_date": "2026-10-20",
+  "generated_at": "2026-10-21T07:08:29-04:00",
+  "generated_date": "2026-10-21",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-10-20",
+    "last_mention_date": "2026-10-21",
     "observed_dates": [
       "2026-07-02",
       "2026-07-03",
@@ -115,10 +115,11 @@
       "2026-10-17",
       "2026-10-18",
       "2026-10-19",
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-21"
     ],
-    "total_mentions": 1472,
-    "total_raw_documents": 8116,
+    "total_mentions": 1512,
+    "total_raw_documents": 9079,
     "total_tracked_people": 100,
     "total_ces_people": 17
   },
@@ -126,19 +127,19 @@
     "all": {
       "label": "SNF Agora Institute",
       "people": 100,
-      "mentions": 1472
+      "mentions": 1512
     },
     "ces": {
       "label": "Center on Economy and Society",
       "people": 17,
-      "mentions": 124
+      "mentions": 127
     }
   },
   "data_quality": {
-    "mentions_missing_url": 298,
+    "mentions_missing_url": 302,
     "mentions_no_text_captured": 90,
-    "mentions_sentiment_unknown": 1154,
-    "mentions_shareable": 1155,
+    "mentions_sentiment_unknown": 1192,
+    "mentions_shareable": 1191,
     "unmatched_persons": [
       {
         "person": "Johns Hopkins",
@@ -154,11 +155,11 @@
       },
       {
         "person": "None (no captured text)",
-        "mentions": 30
+        "mentions": 31
       },
       {
         "person": "Namesake/noise match: higher education, Johns Hopkins",
-        "mentions": 14
+        "mentions": 21
       },
       {
         "person": "Unattributed (institutional keyword only)",
@@ -166,11 +167,11 @@
       },
       {
         "person": "Namesake/noise match: Higher Education, Johns Hopkins",
-        "mentions": 11
+        "mentions": 13
       },
       {
         "person": "Namesake/noise match: agora, Hopkins",
-        "mentions": 10
+        "mentions": 13
       },
       {
         "person": "Namesake/noise match: Johns Hopkins, higher education",
@@ -185,20 +186,24 @@
         "mentions": 7
       },
       {
+        "person": "Namesake/noise match: agora, Johns Hopkins",
+        "mentions": 7
+      },
+      {
         "person": "Denise Dresser (namesake, OpenAI)",
+        "mentions": 6
+      },
+      {
+        "person": "Namesake/noise match: Agora, Hopkins",
+        "mentions": 6
+      },
+      {
+        "person": "Namesake/noise match: Johns Hopkins, NIH funding",
         "mentions": 6
       },
       {
         "person": "Namesake/noise match: Johns Hopkins, agora",
         "mentions": 6
-      },
-      {
-        "person": "Namesake/noise match: agora, Johns Hopkins",
-        "mentions": 6
-      },
-      {
-        "person": "Namesake/noise match: Agora, Hopkins",
-        "mentions": 5
       },
       {
         "person": "Namesake/noise match: Hopkins, agora",
@@ -229,7 +234,7 @@
         "mentions": 3
       },
       {
-        "person": "Namesake/noise match: Johns Hopkins, NIH funding",
+        "person": "Namesake/noise match: Johns Hopkins, University President",
         "mentions": 3
       },
       {
@@ -257,7 +262,11 @@
         "mentions": 2
       },
       {
-        "person": "Namesake/noise match: Johns Hopkins, University President",
+        "person": "Namesake/noise match: Higher education, Johns Hopkins",
+        "mentions": 2
+      },
+      {
+        "person": "Namesake/noise match: Johns Hopkins, SNF Agora Institute",
         "mentions": 2
       },
       {
@@ -274,6 +283,10 @@
       },
       {
         "person": "Namesake/noise match: Johns Hopkins, university president",
+        "mentions": 2
+      },
+      {
+        "person": "Namesake/noise match: academic freedom, Johns Hopkins",
         "mentions": 2
       },
       {
@@ -349,7 +362,15 @@
         "mentions": 1
       },
       {
+        "person": "Namesake/noise match: ",
+        "mentions": 1
+      },
+      {
         "person": "Namesake/noise match: Academic Freedom, Higher Education, Johns Hopkins",
+        "mentions": 1
+      },
+      {
+        "person": "Namesake/noise match: Academic Freedom, federal research funding, higher education, Johns Hopkins",
         "mentions": 1
       },
       {
@@ -385,10 +406,6 @@
         "mentions": 1
       },
       {
-        "person": "Namesake/noise match: Higher education, Johns Hopkins",
-        "mentions": 1
-      },
-      {
         "person": "Namesake/noise match: Hopkins University, Johns Hopkins",
         "mentions": 1
       },
@@ -398,6 +415,10 @@
       },
       {
         "person": "Namesake/noise match: Hopkins University, higher education",
+        "mentions": 1
+      },
+      {
+        "person": "Namesake/noise match: Hopkins, Johns Hopkins, Stavros Niarchos Foundation Agora Institute",
         "mentions": 1
       },
       {
@@ -437,6 +458,10 @@
         "mentions": 1
       },
       {
+        "person": "Namesake/noise match: academic freedom, higher education, Johns Hopkins",
+        "mentions": 1
+      },
+      {
         "person": "Namesake/noise match: agora, Agora, Johns Hopkins",
         "mentions": 1
       },
@@ -445,11 +470,23 @@
         "mentions": 1
       },
       {
+        "person": "Namesake/noise match: faculty senate, Johns Hopkins",
+        "mentions": 1
+      },
+      {
         "person": "Namesake/noise match: federal research funding, Johns Hopkins",
         "mentions": 1
       },
       {
+        "person": "Namesake/noise match: federal research funding, Johns Hopkins, tenured faculty",
+        "mentions": 1
+      },
+      {
         "person": "Namesake/noise match: federal research funding, higher education, Johns Hopkins",
+        "mentions": 1
+      },
+      {
+        "person": "Namesake/noise match: higher education, Hopkins University",
         "mentions": 1
       },
       {

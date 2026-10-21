@@ -1,7 +1,292 @@
 {
-  "generated_at": "2026-10-20T07:10:06-04:00",
-  "count": 1472,
+  "generated_at": "2026-10-21T07:08:29-04:00",
+  "count": 1512,
   "stories": [
+    {
+      "id": 1483,
+      "date": "2026-10-21",
+      "week_start": "2026-10-19",
+      "person_id": "scott-warren",
+      "person": "Scott Warren",
+      "is_ces": false,
+      "title": "X reposts/quotes of Natalie Winters's Civic Right post, continued (no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 896,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1484,
+      "date": "2026-10-21",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-academic-freedom-johns-hopkins",
+      "person": "Namesake/noise match: academic freedom, Johns Hopkins",
+      "is_ces": false,
+      "title": "(no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 21,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1489,
+      "date": "2026-10-21",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Food justice movement",
+      "has_text": true,
+      "url": "https://amedleyofpotpourri.blogspot.com/2026/10/food-justice-movement.html",
+      "source": "A Medley of Potpourri",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Food justice movement https://amedleyofpotpourri.blogspot.com/2026/10/food-justice-movement.html",
+          "chars": 45
+        },
+        "bluesky": {
+          "text": "Food justice movement https://amedleyofpotpourri.blogspot.com/2026/10/food-justice-movement.html",
+          "chars": 96
+        }
+      }
+    },
+    {
+      "id": 1488,
+      "date": "2026-10-21",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "China's third-best university recruits prize-winning cancer scientist from US",
+      "has_text": true,
+      "url": "https://e.vnexpress.net/news/tech/personalities/china-s-third-best-university-recruits-prize-winning-cancer-scientist-from-us-5134541.html",
+      "source": "VnExpress International",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "China's third-best university recruits prize-winning cancer scientist from US https://e.vnexpress.net/news/tech/personalities/china-s-third-best-university-recruits-prize-winning-cancer-scientist-from-us-5134541.html",
+          "chars": 101
+        },
+        "bluesky": {
+          "text": "China's third-best university recruits prize-winning cancer scientist from US https://e.vnexpress.net/news/tech/personalities/china-s-third-best-university-recruits-prize-winning-cancer-scientist-from-us-5134541.html",
+          "chars": 216
+        }
+      }
+    },
+    {
+      "id": 1487,
+      "date": "2026-10-21",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Meet America's 5 richest self-made female billionaires in tech",
+      "has_text": true,
+      "url": "https://e.vnexpress.net/news/tech/personalities/meet-america-s-5-richest-self-made-female-billionaires-in-tech-5135005.html",
+      "source": "VnExpress International",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Meet America's 5 richest self-made female billionaires in tech https://e.vnexpress.net/news/tech/personalities/meet-america-s-5-richest-self-made-female-billionaires-in-tech-5135005.html",
+          "chars": 86
+        },
+        "bluesky": {
+          "text": "Meet America's 5 richest self-made female billionaires in tech https://e.vnexpress.net/news/tech/personalities/meet-america-s-5-richest-self-made-female-billionaires-in-tech-5135005.html",
+          "chars": 186
+        }
+      }
+    },
+    {
+      "id": 1485,
+      "date": "2026-10-21",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-snf-agora-institute",
+      "person": "Namesake/noise match: Johns Hopkins, SNF Agora Institute",
+      "is_ces": false,
+      "title": "James Talarico isn’t content to just attack. That’s the right approach",
+      "has_text": true,
+      "url": "https://www.dallasnews.com/opinion/commentary/article/james-talarico-values-attack-ads-ken-paxton-22484175.php",
+      "source": "The Dallas Morning News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "James Talarico isn’t content to just attack. That’s the right approach https://www.dallasnews.com/opinion/commentary/article/james-talarico-values-attack-ads-ken-paxton-22484175.php",
+          "chars": 94
+        },
+        "bluesky": {
+          "text": "James Talarico isn’t content to just attack. That’s the right approach https://www.dallasnews.com/opinion/commentary/article/james-talarico-values-attack-ads-ken-paxton-22484175.php",
+          "chars": 181
+        }
+      }
+    },
+    {
+      "id": 1499,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-nih-funding",
+      "person": "Namesake/noise match: Johns Hopkins, NIH funding",
+      "is_ces": false,
+      "title": "U-M-led consortium to receive up to $52 million in NIH funding to study why viral respiratory infections affect children differently",
+      "has_text": true,
+      "url": "https://www.brightsurf.com/news/1GRY0058/u-m-led-consortium-to-receive-up-to-52-million-in-nih-funding-to-study-why-viral-respiratory-infections-affect-children-differently.html",
+      "source": "Bright Surf",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "U-M-led consortium to receive up to $52 million in NIH funding to study why viral respiratory infections affect children differently https://www.brightsurf.com/news/1GRY0058/u-m-led-consortium-to-receive-up-to-52-million-in-nih-funding-to-study-why-viral-respiratory-infections-affect-children-differently.html",
+          "chars": 156
+        },
+        "bluesky": {
+          "text": "U-M-led consortium to receive up to $52 million in NIH funding to study why viral respiratory infections affect children… https://www.brightsurf.com/news/1GRY0058/u-m-led-consortium-to-receive-up-to-52-million-in-nih-funding-to-study-why-viral-respiratory-infections-affect-children-differently.html",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 1496,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "(no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1491,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "How the Trump administration’s crackdown on international students could affect the economy",
+      "has_text": true,
+      "url": "https://www.europesays.com/unitedstates/55220/",
+      "source": "EUROPE SAYS",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "How the Trump administration’s crackdown on international students could affect the economy https://www.europesays.com/unitedstates/55220/",
+          "chars": 115
+        },
+        "bluesky": {
+          "text": "How the Trump administration’s crackdown on international students could affect the economy https://www.europesays.com/unitedstates/55220/",
+          "chars": 138
+        }
+      }
+    },
+    {
+      "id": 1486,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "The Road to Serfdom Runs Through Both Parties",
+      "has_text": true,
+      "url": "https://www.freedomsphoenix.com/News/402864-2026-10-20-the-road-to-serfdom-runs-through-both-parties.htm",
+      "source": "Declare Your Independence with Ernest Hancock",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "The Road to Serfdom Runs Through Both Parties https://www.freedomsphoenix.com/News/402864-2026-10-20-the-road-to-serfdom-runs-through-both-parties.htm",
+          "chars": 69
+        },
+        "bluesky": {
+          "text": "The Road to Serfdom Runs Through Both Parties https://www.freedomsphoenix.com/News/402864-2026-10-20-the-road-to-serfdom-runs-through-both-parties.htm",
+          "chars": 150
+        }
+      }
+    },
+    {
+      "id": 1520,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "Massenproteste im US-Wahlkampf: „KI-Freund“ ist jetzt ein Schimpfwort – wegen Trump",
+      "has_text": true,
+      "url": "https://www.tagesspiegel.de/internationales/massenproteste-im-us-wahlkampf-ki-freund-ist-jetzt-ein-schimpfwort--wegen-trump-16162225.html",
+      "source": "Der Tagesspiegel",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Massenproteste im US-Wahlkampf: „KI-Freund“ ist jetzt ein Schimpfwort – wegen Trump https://www.tagesspiegel.de/internationales/massenproteste-im-us-wahlkampf-ki-freund-ist-jetzt-ein-schimpfwort--wegen-trump-16162225.html",
+          "chars": 107
+        },
+        "bluesky": {
+          "text": "Massenproteste im US-Wahlkampf: „KI-Freund“ ist jetzt ein Schimpfwort – wegen Trump https://www.tagesspiegel.de/internationales/massenproteste-im-us-wahlkampf-ki-freund-ist-jetzt-ein-schimpfwort--wegen-trump-16162225.html",
+          "chars": 221
+        }
+      }
+    },
+    {
+      "id": 1507,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "louis-hyman",
+      "person": "Louis Hyman",
+      "is_ces": true,
+      "title": "\"History and AI\" conference thank-yous (LinkedIn posts)",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7518162690477850624",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 2,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "\"History and AI\" conference thank-yous (LinkedIn posts) https://www.linkedin.com/feed/update/urn:li:ugcPost:7518162690477850624",
+          "chars": 79
+        },
+        "bluesky": {
+          "text": "\"History and AI\" conference thank-yous (LinkedIn posts) https://www.linkedin.com/feed/update/urn:li:ugcPost:7518162690477850624",
+          "chars": 127
+        }
+      }
+    },
     {
       "id": 1454,
       "date": "2026-10-20",
@@ -35,6 +320,699 @@
       "entity_sentiment": "unknown",
       "in_digest": false,
       "share": null
+    },
+    {
+      "id": 1522,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "dylan-selterman",
+      "person": "Dylan Selterman",
+      "is_ces": false,
+      "title": "Dylan Selterman Ph.D. (Psychology Today contributor page)",
+      "has_text": true,
+      "url": "https://www.psychologytoday.com/us/contributors/dylan-selterman-phd",
+      "source": "Psychology Today",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Dylan Selterman Ph.D. (Psychology Today contributor page) https://www.psychologytoday.com/us/contributors/dylan-selterman-phd",
+          "chars": 81
+        },
+        "bluesky": {
+          "text": "Dylan Selterman Ph.D. (Psychology Today contributor page) https://www.psychologytoday.com/us/contributors/dylan-selterman-phd",
+          "chars": 125
+        }
+      }
+    },
+    {
+      "id": 1519,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-academic-freedom-federal-research-funding-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Academic Freedom, federal research funding, higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Pentagon Research Security Sweep: 30 Universities Done, All Others Now on Notice for Second Wave",
+      "has_text": true,
+      "url": "https://www.techtimes.com/articles/329257/20261020/pentagon-research-security-sweep-30-universities-done-all-others-now-notice-second-wave.htm",
+      "source": "Tech Times",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Pentagon Research Security Sweep: 30 Universities Done, All Others Now on Notice for Second Wave https://www.techtimes.com/articles/329257/20261020/pentagon-research-security-sweep-30-universities-done-all-others-now-notice-second-wave.htm",
+          "chars": 120
+        },
+        "bluesky": {
+          "text": "Pentagon Research Security Sweep: 30 Universities Done, All Others Now on Notice for Second Wave https://www.techtimes.com/articles/329257/20261020/pentagon-research-security-sweep-30-universities-done-all-others-now-notice-second-wave.htm",
+          "chars": 239
+        }
+      }
+    },
+    {
+      "id": 1518,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-nih-funding",
+      "person": "Namesake/noise match: Johns Hopkins, NIH funding",
+      "is_ces": false,
+      "title": "COVID-19 misinformation",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/COVID-19_misinformation",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "COVID-19 misinformation https://en.wikipedia.org/wiki/COVID-19_misinformation",
+          "chars": 47
+        },
+        "bluesky": {
+          "text": "COVID-19 misinformation https://en.wikipedia.org/wiki/COVID-19_misinformation",
+          "chars": 77
+        }
+      }
+    },
+    {
+      "id": 1517,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "COVID-19 pandemic in Sweden",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Sweden",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "COVID-19 pandemic in Sweden https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Sweden",
+          "chars": 51
+        },
+        "bluesky": {
+          "text": "COVID-19 pandemic in Sweden https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Sweden",
+          "chars": 85
+        }
+      }
+    },
+    {
+      "id": 1516,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-nih-funding",
+      "person": "Namesake/noise match: Johns Hopkins, NIH funding",
+      "is_ces": false,
+      "title": "COVID-19 lab leak theory",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "COVID-19 lab leak theory https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory",
+          "chars": 48
+        },
+        "bluesky": {
+          "text": "COVID-19 lab leak theory https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory",
+          "chars": 79
+        }
+      }
+    },
+    {
+      "id": 1515,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-university-president",
+      "person": "Namesake/noise match: Johns Hopkins, University President",
+      "is_ces": false,
+      "title": "Timeline of the COVID-19 pandemic in Maryland",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_Maryland",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Timeline of the COVID-19 pandemic in Maryland https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_Maryland",
+          "chars": 69
+        },
+        "bluesky": {
+          "text": "Timeline of the COVID-19 pandemic in Maryland https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_Maryland",
+          "chars": 121
+        }
+      }
+    },
+    {
+      "id": 1514,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "yuen-yuen-ang",
+      "person": "Yuen Yuen Ang",
+      "is_ces": true,
+      "title": "Iran-US war widens and other geopolitical stories to know",
+      "has_text": true,
+      "url": "https://www.europesays.com/conflicts/44457/",
+      "source": "EUROPE SAYS",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Iran-US war widens and other geopolitical stories to know https://www.europesays.com/conflicts/44457/",
+          "chars": 81
+        },
+        "bluesky": {
+          "text": "Iran-US war widens and other geopolitical stories to know https://www.europesays.com/conflicts/44457/",
+          "chars": 101
+        }
+      }
+    },
+    {
+      "id": 1513,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-academic-freedom-johns-hopkins",
+      "person": "Namesake/noise match: academic freedom, Johns Hopkins",
+      "is_ces": false,
+      "title": "Edward Said: Difference between revisions",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/w/index.php?title=Edward_Said&curid=18247304&diff=1381175243&oldid=1381175114",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Edward Said: Difference between revisions https://en.wikipedia.org/w/index.php?title=Edward_Said&curid=18247304&diff=1381175243&oldid=1381175114",
+          "chars": 65
+        },
+        "bluesky": {
+          "text": "Edward Said: Difference between revisions https://en.wikipedia.org/w/index.php?title=Edward_Said&curid=18247304&diff=1381175243&oldid=1381175114",
+          "chars": 144
+        }
+      }
+    },
+    {
+      "id": 1512,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: agora, Hopkins",
+      "is_ces": false,
+      "title": "Teleconferência de Resultados do 3º Trimestre de 2026 da RBB Bancorp (RBB): Crescimento de Empréstimos e Expansão da Margem",
+      "has_text": true,
+      "url": "https://www.tradingkey.com/pt/news/transcripts/262227046-TradingKey",
+      "source": "TradingKey",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Teleconferência de Resultados do 3º Trimestre de 2026 da RBB Bancorp (RBB): Crescimento de Empréstimos e Expansão da Margem https://www.tradingkey.com/pt/news/transcripts/262227046-TradingKey",
+          "chars": 147
+        },
+        "bluesky": {
+          "text": "Teleconferência de Resultados do 3º Trimestre de 2026 da RBB Bancorp (RBB): Crescimento de Empréstimos e Expansão da Margem https://www.tradingkey.com/pt/news/transcripts/262227046-TradingKey",
+          "chars": 191
+        }
+      }
+    },
+    {
+      "id": 1511,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-snf-agora-institute",
+      "person": "Namesake/noise match: Johns Hopkins, SNF Agora Institute",
+      "is_ces": false,
+      "title": "effort to reshape the GOP.\n\nParticipants in a Johns Hopkins University initiative wanted to “retake ",
+      "has_text": true,
+      "url": "https://www.rightstrategy.org/2026/10/19.html#comment-6947937216",
+      "source": "Comments",
+      "source_type": "comments",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "effort to reshape the GOP.\n\nParticipants in a Johns Hopkins University initiative wanted to “retake  https://www.rightstrategy.org/2026/10/19.html#comment-6947937216",
+          "chars": 124
+        },
+        "bluesky": {
+          "text": "effort to reshape the GOP.\n\nParticipants in a Johns Hopkins University initiative wanted to “retake  https://www.rightstrategy.org/2026/10/19.html#comment-6947937216",
+          "chars": 165
+        }
+      }
+    },
+    {
+      "id": 1510,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "scott-warren",
+      "person": "Scott Warren",
+      "is_ces": false,
+      "title": "STATE OF TUESDAY: The Conservative Establishment Is Planning For A Post-Trump GOP",
+      "has_text": true,
+      "url": "https://dailycaller.com/2026/10/20/state-of-tuesday-conservative-establishment-donald-trump-gop-maga-neocons-civic-right/",
+      "source": "The Daily Caller",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "STATE OF TUESDAY: The Conservative Establishment Is Planning For A Post-Trump GOP https://dailycaller.com/2026/10/20/state-of-tuesday-conservative-establishment-donald-trump-gop-maga-neocons-civic-right/",
+          "chars": 105
+        },
+        "bluesky": {
+          "text": "STATE OF TUESDAY: The Conservative Establishment Is Planning For A Post-Trump GOP https://dailycaller.com/2026/10/20/state-of-tuesday-conservative-establishment-donald-trump-gop-maga-neocons-civic-right/",
+          "chars": 203
+        }
+      }
+    },
+    {
+      "id": 1509,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-federal-research-funding-johns-hopkins-tenured-faculty",
+      "person": "Namesake/noise match: federal research funding, Johns Hopkins, tenured faculty",
+      "is_ces": false,
+      "title": "Biologist David Sabatini wins $6 million in defamation lawsuit",
+      "has_text": true,
+      "url": "https://www.science.org/content/article/biologist-david-sabatini-wins-6-million-defamation-lawsuit",
+      "source": "Science.org",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Biologist David Sabatini wins $6 million in defamation lawsuit https://www.science.org/content/article/biologist-david-sabatini-wins-6-million-defamation-lawsuit",
+          "chars": 86
+        },
+        "bluesky": {
+          "text": "Biologist David Sabatini wins $6 million in defamation lawsuit https://www.science.org/content/article/biologist-david-sabatini-wins-6-million-defamation-lawsuit",
+          "chars": 161
+        }
+      }
+    },
+    {
+      "id": 1508,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: Agora, Hopkins",
+      "is_ces": false,
+      "title": "Do mar “nojento” à “melhor experiência da minha vida”. Supertubos avança para as finais sem portugueses",
+      "has_text": true,
+      "url": "https://24noticias.sapo.pt/desporto/artigos/do-mar-nojento-a-melhor-experiencia-da-minha-vida-supertubos-avanca-para-as-finais-sem-portugueses",
+      "source": "SAPO",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Do mar “nojento” à “melhor experiência da minha vida”. Supertubos avança para as finais sem portugueses https://24noticias.sapo.pt/desporto/artigos/do-mar-nojento-a-melhor-experiencia-da-minha-vida-supertubos-avanca-para-as-finais-sem-portugueses",
+          "chars": 127
+        },
+        "bluesky": {
+          "text": "Do mar “nojento” à “melhor experiência da minha vida”. Supertubos avança para as finais sem portugueses https://24noticias.sapo.pt/desporto/artigos/do-mar-nojento-a-melhor-experiencia-da-minha-vida-supertubos-avanca-para-as-finais-sem-portugueses",
+          "chars": 246
+        }
+      }
+    },
+    {
+      "id": 1506,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: agora, Hopkins",
+      "is_ces": false,
+      "title": "Abrandamento da produção de whisky escocês reduz procura de malte em 300 mil toneladas",
+      "has_text": true,
+      "url": "https://www.vinetur.com/pt/20261020109353/scotch-whisky-slowdown-cuts-malt-demand-by-300000-tons.html",
+      "source": "Vinetur",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Abrandamento da produção de whisky escocês reduz procura de malte em 300 mil toneladas https://www.vinetur.com/pt/20261020109353/scotch-whisky-slowdown-cuts-malt-demand-by-300000-tons.html",
+          "chars": 110
+        },
+        "bluesky": {
+          "text": "Abrandamento da produção de whisky escocês reduz procura de malte em 300 mil toneladas https://www.vinetur.com/pt/20261020109353/scotch-whisky-slowdown-cuts-malt-demand-by-300000-tons.html",
+          "chars": 188
+        }
+      }
+    },
+    {
+      "id": 1505,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-agora-johns-hopkins",
+      "person": "Namesake/noise match: agora, Johns Hopkins",
+      "is_ces": false,
+      "title": "A água-viva que desafia a morte: os segredos da espécie que pode ajudar a combater o envelhecimento",
+      "has_text": true,
+      "url": "https://rr.pt/bola-branca/noticia/especial/vida/2026/10/20/a-agua-viva-que-desafia-a-morte-os-segredos-da-especie-que-pode-ajudar-a-combater-o-envelhecimento/489940/",
+      "source": "Rádio Renascença",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "A água-viva que desafia a morte: os segredos da espécie que pode ajudar a combater o envelhecimento https://rr.pt/bola-branca/noticia/especial/vida/2026/10/20/a-agua-viva-que-desafia-a-morte-os-segredos-da-especie-que-pode-ajudar-a-combater-o-envelhecimento/489940/",
+          "chars": 123
+        },
+        "bluesky": {
+          "text": "A água-viva que desafia a morte: os segredos da espécie que pode ajudar a combater o envelhecimento https://rr.pt/bola-branca/noticia/especial/vida/2026/10/20/a-agua-viva-que-desafia-a-morte-os-segredos-da-especie-que-pode-ajudar-a-combater-o-envelhecimento/489940/",
+          "chars": 265
+        }
+      }
+    },
+    {
+      "id": 1504,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "(no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1503,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-hopkins-johns-hopkins-stavros-niarchos-foundation-agora-institute",
+      "person": "Namesake/noise match: Hopkins, Johns Hopkins, Stavros Niarchos Foundation Agora Institute",
+      "is_ces": false,
+      "title": "ONE WEEK AWAY: LIVE DEBATE IN BALTIMORE — The Hopkins Forum: Will Generative AI Enhance or Stunt College Learning?",
+      "has_text": true,
+      "url": "https://baltimorefishbowl.com/stories/one-week-away-live-debate-in-baltimore-the-hopkins-forum-will-generative-ai-enhance-or-stunt-college-learning/",
+      "source": "Baltimore Fishbowl",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "ONE WEEK AWAY: LIVE DEBATE IN BALTIMORE — The Hopkins Forum: Will Generative AI Enhance or Stunt College Learning? https://baltimorefishbowl.com/stories/one-week-away-live-debate-in-baltimore-the-hopkins-forum-will-generative-ai-enhance-or-stunt-college-learning/",
+          "chars": 138
+        },
+        "bluesky": {
+          "text": "ONE WEEK AWAY: LIVE DEBATE IN BALTIMORE — The Hopkins Forum: Will Generative AI Enhance or Stunt College Learning? https://baltimorefishbowl.com/stories/one-week-away-live-debate-in-baltimore-the-hopkins-forum-will-generative-ai-enhance-or-stunt-college-learning/",
+          "chars": 263
+        }
+      }
+    },
+    {
+      "id": 1502,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Illegal immigration to the United States",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/Illegal_immigration_to_the_United_States",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Illegal immigration to the United States https://en.wikipedia.org/wiki/Illegal_immigration_to_the_United_States",
+          "chars": 64
+        },
+        "bluesky": {
+          "text": "Illegal immigration to the United States https://en.wikipedia.org/wiki/Illegal_immigration_to_the_United_States",
+          "chars": 111
+        }
+      }
+    },
+    {
+      "id": 1501,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-faculty-senate-johns-hopkins",
+      "person": "Namesake/noise match: faculty senate, Johns Hopkins",
+      "is_ces": false,
+      "title": "BC-DAILY-BUDGET-NYT",
+      "has_text": true,
+      "url": "https://www.dailygazette.com/nyt-feed/bc-daily-budget-nyt/article_bfdad88e-9ff8-5ff4-abf0-2b0729c2c41d.html",
+      "source": "The Daily Gazette",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "BC-DAILY-BUDGET-NYT https://www.dailygazette.com/nyt-feed/bc-daily-budget-nyt/article_bfdad88e-9ff8-5ff4-abf0-2b0729c2c41d.html",
+          "chars": 43
+        },
+        "bluesky": {
+          "text": "BC-DAILY-BUDGET-NYT https://www.dailygazette.com/nyt-feed/bc-daily-budget-nyt/article_bfdad88e-9ff8-5ff4-abf0-2b0729c2c41d.html",
+          "chars": 127
+        }
+      }
+    },
+    {
+      "id": 1500,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Nature Index 2025 lists MUST among world’s top 10 institutions for space sciences",
+      "has_text": true,
+      "url": "http://www.macaupostdaily.com/news/29732",
+      "source": "The Macau Post Daily",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Nature Index 2025 lists MUST among world’s top 10 institutions for space sciences http://www.macaupostdaily.com/news/29732",
+          "chars": 105
+        },
+        "bluesky": {
+          "text": "Nature Index 2025 lists MUST among world’s top 10 institutions for space sciences http://www.macaupostdaily.com/news/29732",
+          "chars": 122
+        }
+      }
+    },
+    {
+      "id": 1498,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-higher-education-hopkins-university",
+      "person": "Namesake/noise match: higher education, Hopkins University",
+      "is_ces": false,
+      "title": "Reflective Patriotism and Civic Education in K-12 Schools and Universities",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=-donyb2_qqA",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Reflective Patriotism and Civic Education in K-12 Schools and Universities https://www.youtube.com/watch?v=-donyb2_qqA",
+          "chars": 98
+        },
+        "bluesky": {
+          "text": "Reflective Patriotism and Civic Education in K-12 Schools and Universities https://www.youtube.com/watch?v=-donyb2_qqA",
+          "chars": 118
+        }
+      }
+    },
+    {
+      "id": 1497,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match",
+      "person": "Namesake/noise match: ",
+      "is_ces": false,
+      "title": "This account doesn’t exist",
+      "has_text": true,
+      "url": "https://twitter.com",
+      "source": "Twitter",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "This account doesn’t exist https://twitter.com",
+          "chars": 50
+        },
+        "bluesky": {
+          "text": "This account doesn’t exist https://twitter.com",
+          "chars": 46
+        }
+      }
+    },
+    {
+      "id": 1495,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: agora, Hopkins",
+      "is_ces": false,
+      "title": "Christina Applegate foi diagnosticada errado com esclerose múltipla e lista cinco sintomas 'estranhos'",
+      "has_text": true,
+      "url": "https://www.bra1.com.br/geral/id-711531/christina_applegate_foi_diagnosticada_errado_com_esclerose_multipla_e_lista_cinco_sintomas_e_39estranhose_39",
+      "source": "BRA 1",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Christina Applegate foi diagnosticada errado com esclerose múltipla e lista cinco sintomas 'estranhos' https://www.bra1.com.br/geral/id-711531/christina_applegate_foi_diagnosticada_errado_com_esclerose_multipla_e_lista_cinco_sintomas_e_39estranhose_39",
+          "chars": 126
+        },
+        "bluesky": {
+          "text": "Christina Applegate foi diagnosticada errado com esclerose múltipla e lista cinco sintomas 'estranhos' https://www.bra1.com.br/geral/id-711531/christina_applegate_foi_diagnosticada_errado_com_esclerose_multipla_e_lista_cinco_sintomas_e_39estranhose_39",
+          "chars": 251
+        }
+      }
+    },
+    {
+      "id": 1494,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "72 health IT & revenue cycle up-and-comers | 2026",
+      "has_text": true,
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/72-health-it-revenue-cycle-up-and-comers-2026/",
+      "source": "Becker's Hospital Review",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "72 health IT & revenue cycle up-and-comers | 2026 https://www.beckershospitalreview.com/healthcare-information-technology/72-health-it-revenue-cycle-up-and-comers-2026/",
+          "chars": 73
+        },
+        "bluesky": {
+          "text": "72 health IT & revenue cycle up-and-comers | 2026 https://www.beckershospitalreview.com/healthcare-information-technology/72-health-it-revenue-cycle-up-and-comers-2026/",
+          "chars": 168
+        }
+      }
+    },
+    {
+      "id": 1493,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-academic-freedom-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: academic freedom, higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "University",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/University_status",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "University https://en.wikipedia.org/wiki/University_status",
+          "chars": 34
+        },
+        "bluesky": {
+          "text": "University https://en.wikipedia.org/wiki/University_status",
+          "chars": 58
+        }
+      }
+    },
+    {
+      "id": 1492,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "From Penn State’s Eberly College of Science : [Genomics/Biological Chemistry/Molecular Biology] ‘Keeping jumping genes in place – New role for protein complex discovered’",
+      "has_text": true,
+      "url": "https://sciencesprings.wordpress.com/2026/10/20/from-penn-states-eberly-college-of-science-genomics-biological-chemistry-molecular-biology-keeping-jumping-genes-in-place-new-role-for-protein-complex-discovered/",
+      "source": "wordpress.com",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "From Penn State’s Eberly College of Science : [Genomics/Biological Chemistry/Molecular Biology] ‘Keeping jumping genes in place – New role for protein complex discovered’ https://sciencesprings.wordpress.com/2026/10/20/from-penn-states-eberly-college-of-science-genomics-biological-chemistry-molecular-biology-keeping-jumping-genes-in-place-new-role-for-protein-complex-discovered/",
+          "chars": 194
+        },
+        "bluesky": {
+          "text": "From Penn State’s Eberly College of Science : [Genomics/Biological Chemistry/Molecular … https://sciencesprings.wordpress.com/2026/10/20/from-penn-states-eberly-college-of-science-genomics-biological-chemistry-molecular-biology-keeping-jumping-genes-in-place-new-role-for-protein-complex-discovered/",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 1490,
+      "date": "2026-10-20",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Constructing Credibility: Epistemic Cultures and the Evaluation of Scientific Knowledge Across Disciplines in Egyptian Public Universities",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s11024-026-09666-7",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Constructing Credibility: Epistemic Cultures and the Evaluation of Scientific Knowledge Across Disciplines in Egyptian Public Universities https://link.springer.com/article/10.1007/s11024-026-09666-7",
+          "chars": 162
+        },
+        "bluesky": {
+          "text": "Constructing Credibility: Epistemic Cultures and the Evaluation of Scientific Knowledge Across Disciplines in Egyptian Public Universities https://link.springer.com/article/10.1007/s11024-026-09666-7",
+          "chars": 199
+        }
+      }
     },
     {
       "id": 1460,
@@ -361,6 +1339,32 @@
         "bluesky": {
           "text": "National Academy of Medicine Elects 100 New Members for 2026 https://ascopost.com/news/october-2026/national-academy-of-medicine-elects-100-new-members-for-2026/",
           "chars": 161
+        }
+      }
+    },
+    {
+      "id": 1521,
+      "date": "2026-10-19",
+      "week_start": "2026-10-19",
+      "person_id": "amy-binder",
+      "person": "Amy Binder",
+      "is_ces": false,
+      "title": "The uncertain future of Erika Kirk's Turning Point USA",
+      "has_text": true,
+      "url": "https://www.salon.com/2026/10/19/the-uncertain-future-of-erika-kirks-turning-point-usa/",
+      "source": "Salon.com",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The uncertain future of Erika Kirk's Turning Point USA https://www.salon.com/2026/10/19/the-uncertain-future-of-erika-kirks-turning-point-usa/",
+          "chars": 78
+        },
+        "bluesky": {
+          "text": "The uncertain future of Erika Kirk's Turning Point USA https://www.salon.com/2026/10/19/the-uncertain-future-of-erika-kirks-turning-point-usa/",
+          "chars": 142
         }
       }
     },

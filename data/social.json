@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-10-20T07:10:06-04:00",
-  "count": 82,
+  "generated_at": "2026-10-21T07:08:29-04:00",
+  "count": 83,
   "picks": [
+    {
+      "id": 101,
+      "mention_id": 1520,
+      "digest_date": "2026-10-20",
+      "person": "Lilliana Mason",
+      "person_id": "lilliana-mason",
+      "person_ids": [
+        "lilliana-mason"
+      ],
+      "is_ces": false,
+      "punchy_title": "Lilliana Mason on why \"AI friend\" became a midterm insult",
+      "headline": "Lilliana Mason on why \"AI friend\" became a midterm insult",
+      "pull_quote": "Da verbindet sich ein allgemeines Unbehagen mit einem leicht verständlichen Sachthema, dem Bau von Rechenzentren in der Umgebung der Wähler.",
+      "rationale": "Da verbindet sich ein allgemeines Unbehagen mit einem leicht verständlichen Sachthema, dem Bau von Rechenzentren in der Umgebung der Wähler.",
+      "url": "https://www.tagesspiegel.de/internationales/massenproteste-im-us-wahlkampf-ki-freund-ist-jetzt-ein-schimpfwort--wegen-trump-16162225.html",
+      "story_url": "https://www.tagesspiegel.de/internationales/massenproteste-im-us-wahlkampf-ki-freund-ist-jetzt-ein-schimpfwort--wegen-trump-16162225.html",
+      "created_at": "2026-10-21 11:08:22",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "SNF Agora's Lilliana Mason tells Der Tagesspiegel the midterm data-center backlash is a protest against tech billionaires' ties to Trump. https://www.tagesspiegel.de/internationales/massenproteste-im-us-wahlkampf-ki-freund-ist-jetzt-ein-schimpfwort--wegen-trump-16162225.html",
+          "chars": 275,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=SNF%20Agora%27s%20Lilliana%20Mason%20tells%20Der%20Tagesspiegel%20the%20midterm%20data-center%20backlash%20is%20a%20protest%20against%20tech%20billionaires%27%20ties%20to%20Trump.%20https%3A//www.tagesspiegel.de/internationales/massenproteste-im-us-wahlkampf-ki-freund-ist-jetzt-ein-schimpfwort--wegen-trump-16162225.html"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Why is \"AI friend\" an insult in the midterms? SNF Agora's Lilliana Mason tells Der Tagesspiegel the data-center protests target tech billionaires' ties to Trump. https://www.tagesspiegel.de/internationales/massenproteste-im-us-wahlkampf-ki-freund-ist-jetzt-ein-schimpfwort--wegen-trump-16162225.html",
+          "chars": 299,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Why%20is%20%22AI%20friend%22%20an%20insult%20in%20the%20midterms%3F%20SNF%20Agora%27s%20Lilliana%20Mason%20tells%20Der%20Tagesspiegel%20the%20data-center%20protests%20target%20tech%20billionaires%27%20ties%20to%20Trump.%20https%3A//www.tagesspiegel.de/internationales/massenproteste-im-us-wahlkampf-ki-freund-ist-jetzt-ein-schimpfwort--wegen-trump-16162225.html"
+        }
+      ]
+    },
     {
       "id": 100,
       "mention_id": 1467,
