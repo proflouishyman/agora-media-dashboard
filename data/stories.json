@@ -1,7 +1,1861 @@
 {
-  "generated_at": "2026-10-21T07:08:29-04:00",
-  "count": 1512,
+  "generated_at": "2026-10-24T07:09:53-04:00",
+  "count": 1605,
   "stories": [
+    {
+      "id": 1528,
+      "date": "2026-10-24",
+      "week_start": "2026-10-19",
+      "person_id": "emily-white-namesake-high-school-athlete",
+      "person": "Emily White (namesake: high-school athlete)",
+      "is_ces": false,
+      "title": "WAND’s Athlete of the Week: Tyler Meyer",
+      "has_text": true,
+      "url": "https://www.wandtv.com/2026/10/24/wands-athlete-week-tyler-meyer/",
+      "source": "WAND-TV",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "WAND’s Athlete of the Week: Tyler Meyer https://www.wandtv.com/2026/10/24/wands-athlete-week-tyler-meyer/",
+          "chars": 63
+        },
+        "bluesky": {
+          "text": "WAND’s Athlete of the Week: Tyler Meyer https://www.wandtv.com/2026/10/24/wands-athlete-week-tyler-meyer/",
+          "chars": 105
+        }
+      }
+    },
+    {
+      "id": 1527,
+      "date": "2026-10-24",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, agora",
+      "is_ces": false,
+      "title": "MOSTRA DE CINEMA DE SP SEGUE EM SUA SEGUNDA SEMANA",
+      "has_text": true,
+      "url": "http://www.dvdmagazine.com.br/materias/materia/title/3969-mostra-de-cinema-de-sp-segue-em-sua-segunda-semana",
+      "source": "DVDMagazine 2016",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "MOSTRA DE CINEMA DE SP SEGUE EM SUA SEGUNDA SEMANA http://www.dvdmagazine.com.br/materias/materia/title/3969-mostra-de-cinema-de-sp-segue-em-sua-segunda-semana",
+          "chars": 74
+        },
+        "bluesky": {
+          "text": "MOSTRA DE CINEMA DE SP SEGUE EM SUA SEGUNDA SEMANA http://www.dvdmagazine.com.br/materias/materia/title/3969-mostra-de-cinema-de-sp-segue-em-sua-segunda-semana",
+          "chars": 159
+        }
+      }
+    },
+    {
+      "id": 1526,
+      "date": "2026-10-24",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "Dragonfly da Nasa pousa na maior lua de Saturno pela primeira vez, mas sem sair da Terra",
+      "has_text": true,
+      "url": "https://www.radarolharagucado.com.br/noticia/radar/cnn-brasil-2026-10-24-dragonfly-da-nasa-pousa-na-maior-lua-de-saturno-pela-primeira-vez-mas-sem-sair-da-terra-1792828807390",
+      "source": "Radar Olhar Aguçado",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Dragonfly da Nasa pousa na maior lua de Saturno pela primeira vez, mas sem sair da Terra https://www.radarolharagucado.com.br/noticia/radar/cnn-brasil-2026-10-24-dragonfly-da-nasa-pousa-na-maior-lua-de-saturno-pela-primeira-vez-mas-sem-sair-da-terra-1792828807390",
+          "chars": 112
+        },
+        "bluesky": {
+          "text": "Dragonfly da Nasa pousa na maior lua de Saturno pela primeira vez, mas sem sair da Terra https://www.radarolharagucado.com.br/noticia/radar/cnn-brasil-2026-10-24-dragonfly-da-nasa-pousa-na-maior-lua-de-saturno-pela-primeira-vez-mas-sem-sair-da-terra-1792828807390",
+          "chars": 263
+        }
+      }
+    },
+    {
+      "id": 1525,
+      "date": "2026-10-24",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Too much of a good thing? Knowledge transfer and scientists’ job satisfaction",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s10961-026-10400-4",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Too much of a good thing? Knowledge transfer and scientists’ job satisfaction https://link.springer.com/article/10.1007/s10961-026-10400-4",
+          "chars": 101
+        },
+        "bluesky": {
+          "text": "Too much of a good thing? Knowledge transfer and scientists’ job satisfaction https://link.springer.com/article/10.1007/s10961-026-10400-4",
+          "chars": 138
+        }
+      }
+    },
+    {
+      "id": 1524,
+      "date": "2026-10-24",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "National Space Grant College and Fellowship Program: Difference between revisions",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/w/index.php?title=National_Space_Grant_College_and_Fellowship_Program&curid=343723&diff=1381717280&oldid=1370585208",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "National Space Grant College and Fellowship Program: Difference between revisions https://en.wikipedia.org/w/index.php?title=National_Space_Grant_College_and_Fellowship_Program&curid=343723&diff=1381717280&oldid=1370585208",
+          "chars": 105
+        },
+        "bluesky": {
+          "text": "National Space Grant College and Fellowship Program: Difference between revisions https://en.wikipedia.org/w/index.php?title=National_Space_Grant_College_and_Fellowship_Program&curid=343723&diff=1381717280&oldid=1370585208",
+          "chars": 222
+        }
+      }
+    },
+    {
+      "id": 1523,
+      "date": "2026-10-24",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "National Space Grant College and Fellowship Program",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/National_Space_Grant_College_and_Fellowship_Program",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "National Space Grant College and Fellowship Program https://en.wikipedia.org/wiki/National_Space_Grant_College_and_Fellowship_Program",
+          "chars": 75
+        },
+        "bluesky": {
+          "text": "National Space Grant College and Fellowship Program https://en.wikipedia.org/wiki/National_Space_Grant_College_and_Fellowship_Program",
+          "chars": 133
+        }
+      }
+    },
+    {
+      "id": 1604,
+      "date": "2026-10-23",
+      "week_start": "2026-10-19",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "X reposts/quotes of a post on Agora, Pritzker, USAID and election administration (no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 950,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1564,
+      "date": "2026-10-23",
+      "week_start": "2026-10-19",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "The Open Mind Celebrates 70 Years with 'Mayors of the World'",
+      "has_text": true,
+      "url": "https://politics.einnews.com/pr_news/951505133/the-open-mind-celebrates-70-years-with-mayors-of-the-world",
+      "source": "Einnews",
+      "source_type": "online news",
+      "similar_mention_count": 39,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Open Mind Celebrates 70 Years with 'Mayors of the World' https://politics.einnews.com/pr_news/951505133/the-open-mind-celebrates-70-years-with-mayors-of-the-world",
+          "chars": 84
+        },
+        "bluesky": {
+          "text": "The Open Mind Celebrates 70 Years with 'Mayors of the World' https://politics.einnews.com/pr_news/951505133/the-open-mind-celebrates-70-years-with-mayors-of-the-world",
+          "chars": 166
+        }
+      }
+    },
+    {
+      "id": 1598,
+      "date": "2026-10-23",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-academic-freedom-higher-education-higher-education-johns-hopkins-university-president-academic-freedom-civil-discourse-higher-education",
+      "person": "Namesake/noise match: Academic Freedom, Higher Education, Higher education, Johns Hopkins, University President, academic freedom, civil discourse, higher education",
+      "is_ces": false,
+      "title": "Ohio State faculty raise alarm over academic freedom at Chase Center",
+      "has_text": true,
+      "url": "https://www.mahoningmatters.com/news/nation-world/national/article317747559.html",
+      "source": "Mahoning Matters",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Ohio State faculty raise alarm over academic freedom at Chase Center https://www.mahoningmatters.com/news/nation-world/national/article317747559.html",
+          "chars": 92
+        },
+        "bluesky": {
+          "text": "Ohio State faculty raise alarm over academic freedom at Chase Center https://www.mahoningmatters.com/news/nation-world/national/article317747559.html",
+          "chars": 149
+        }
+      }
+    },
+    {
+      "id": 1599,
+      "date": "2026-10-23",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, agora",
+      "is_ces": false,
+      "title": "A Luz de um Novo Amanhã – Uma citação de M.N. Hopkins",
+      "has_text": true,
+      "url": "https://mnhopkins.blogspot.com/2026/10/a-luz-de-um-novo-amanha-uma-citacao-de.html",
+      "source": "Stranger in a Strange Land",
+      "source_type": "blog",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "A Luz de um Novo Amanhã – Uma citação de M.N. Hopkins https://mnhopkins.blogspot.com/2026/10/a-luz-de-um-novo-amanha-uma-citacao-de.html",
+          "chars": 77
+        },
+        "bluesky": {
+          "text": "A Luz de um Novo Amanhã – Uma citação de M.N. Hopkins https://mnhopkins.blogspot.com/2026/10/a-luz-de-um-novo-amanha-uma-citacao-de.html",
+          "chars": 136
+        }
+      }
+    },
+    {
+      "id": 1615,
+      "date": "2026-10-23",
+      "week_start": "2026-10-19",
+      "person_id": "sara-johnson-namesake-actor-profile",
+      "person": "Sara Johnson (namesake: actor profile)",
+      "is_ces": false,
+      "title": "The Stunning Transformation Of Actor Julia Stiles",
+      "has_text": true,
+      "url": "https://www.nickiswift.com/2293251/stunning-transformation-actor-julia-stiles/",
+      "source": "NickiSwift.com",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Stunning Transformation Of Actor Julia Stiles https://www.nickiswift.com/2293251/stunning-transformation-actor-julia-stiles/",
+          "chars": 73
+        },
+        "bluesky": {
+          "text": "The Stunning Transformation Of Actor Julia Stiles https://www.nickiswift.com/2293251/stunning-transformation-actor-julia-stiles/",
+          "chars": 128
+        }
+      }
+    },
+    {
+      "id": 1607,
+      "date": "2026-10-23",
+      "week_start": "2026-10-19",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "Text-less posts matched on: Hopkins, SNF Agora",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1603,
+      "date": "2026-10-23",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, agora",
+      "is_ces": false,
+      "title": "Veja filmes para celebrar os 55 anos de Winona Ryder – 22/10/2026 – Ilustrada",
+      "has_text": true,
+      "url": "https://www.europesays.com/pt/563719/",
+      "source": "EUROPE SAYS",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Veja filmes para celebrar os 55 anos de Winona Ryder – 22/10/2026 – Ilustrada https://www.europesays.com/pt/563719/",
+          "chars": 101
+        },
+        "bluesky": {
+          "text": "Veja filmes para celebrar os 55 anos de Winona Ryder – 22/10/2026 – Ilustrada https://www.europesays.com/pt/563719/",
+          "chars": 115
+        }
+      }
+    },
+    {
+      "id": 1602,
+      "date": "2026-10-23",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "CZ e Vitalik minimizam ameaça cripto da IA enquanto o Bitcoin Core reescreve regras de bugs",
+      "has_text": true,
+      "url": "https://www.cryptopolitan.com/pt/cz-vitalik-ai-crypto-threat-bitcoin-core/",
+      "source": "Cryptopolitan",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "CZ e Vitalik minimizam ameaça cripto da IA enquanto o Bitcoin Core reescreve regras de bugs https://www.cryptopolitan.com/pt/cz-vitalik-ai-crypto-threat-bitcoin-core/",
+          "chars": 115
+        },
+        "bluesky": {
+          "text": "CZ e Vitalik minimizam ameaça cripto da IA enquanto o Bitcoin Core reescreve regras de bugs https://www.cryptopolitan.com/pt/cz-vitalik-ai-crypto-threat-bitcoin-core/",
+          "chars": 166
+        }
+      }
+    },
+    {
+      "id": 1601,
+      "date": "2026-10-23",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-agora-hopkins-agora",
+      "person": "Namesake/noise match: Agora, Hopkins, agora",
+      "is_ces": false,
+      "title": "Gabriel Medina enfrenta Ítalo Ferreira em Peniche e técnico Adriano de Souza avalia disputa",
+      "has_text": true,
+      "url": "https://www.mixvale.com.br/2026/10/23/gabriel-medina-enfrenta-italo-ferreira-em-peniche-e-tecnico-adriano-de-souza-avalia-disputa/",
+      "source": "Mix Vale",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Gabriel Medina enfrenta Ítalo Ferreira em Peniche e técnico Adriano de Souza avalia disputa https://www.mixvale.com.br/2026/10/23/gabriel-medina-enfrenta-italo-ferreira-em-peniche-e-tecnico-adriano-de-souza-avalia-disputa/",
+          "chars": 115
+        },
+        "bluesky": {
+          "text": "Gabriel Medina enfrenta Ítalo Ferreira em Peniche e técnico Adriano de Souza avalia disputa https://www.mixvale.com.br/2026/10/23/gabriel-medina-enfrenta-italo-ferreira-em-peniche-e-tecnico-adriano-de-souza-avalia-disputa/",
+          "chars": 222
+        }
+      }
+    },
+    {
+      "id": 1600,
+      "date": "2026-10-23",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-university-president-federal-research-funding",
+      "person": "Namesake/noise match: Johns Hopkins, University President, federal research funding",
+      "is_ces": false,
+      "title": "Johns Hopkins Urges Maryland to Expand Innovation Economy as Research Funding Falls $500 Million",
+      "has_text": true,
+      "url": "https://www.citybiz.co/article/923396/johns-hopkins-urges-maryland-to-expand-innovation-economy-as-research-funding-falls-500-million/",
+      "source": "citybiz",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Johns Hopkins Urges Maryland to Expand Innovation Economy as Research Funding Falls $500 Million https://www.citybiz.co/article/923396/johns-hopkins-urges-maryland-to-expand-innovation-economy-as-research-funding-falls-500-million/",
+          "chars": 120
+        },
+        "bluesky": {
+          "text": "Johns Hopkins Urges Maryland to Expand Innovation Economy as Research Funding Falls $500 Million https://www.citybiz.co/article/923396/johns-hopkins-urges-maryland-to-expand-innovation-economy-as-research-funding-falls-500-million/",
+          "chars": 231
+        }
+      }
+    },
+    {
+      "id": 1597,
+      "date": "2026-10-23",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: HIGHER EDUCATION, JOHNS HOPKINS",
+      "is_ces": false,
+      "title": "PBS News Hour full episode, Oct. 22, 2026",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=L1XJgJObhHI",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "PBS News Hour full episode, Oct. 22, 2026 https://www.youtube.com/watch?v=L1XJgJObhHI",
+          "chars": 65
+        },
+        "bluesky": {
+          "text": "PBS News Hour full episode, Oct. 22, 2026 https://www.youtube.com/watch?v=L1XJgJObhHI",
+          "chars": 85
+        }
+      }
+    },
+    {
+      "id": 1596,
+      "date": "2026-10-23",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "A água-viva que desafia a morte pode inspirar tratamentos para doenças ligadas ao envelhecimento",
+      "has_text": true,
+      "url": "https://www1.folha.uol.com.br/ciencia/2026/10/a-agua-viva-que-desafia-a-morte-pode-inspirar-tratamentos-para-doencas-ligadas-ao-envelhecimento.shtml",
+      "source": "UOL ",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "A água-viva que desafia a morte pode inspirar tratamentos para doenças ligadas ao envelhecimento https://www1.folha.uol.com.br/ciencia/2026/10/a-agua-viva-que-desafia-a-morte-pode-inspirar-tratamentos-para-doencas-ligadas-ao-envelhecimento.shtml",
+          "chars": 120
+        },
+        "bluesky": {
+          "text": "A água-viva que desafia a morte pode inspirar tratamentos para doenças ligadas ao envelhecimento https://www1.folha.uol.com.br/ciencia/2026/10/a-agua-viva-que-desafia-a-morte-pode-inspirar-tratamentos-para-doencas-ligadas-ao-envelhecimento.shtml",
+          "chars": 245
+        }
+      }
+    },
+    {
+      "id": 1595,
+      "date": "2026-10-23",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-hopkins-university-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Hopkins University, Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "The Power of Investing in Education | Palm Health Foundation Scholarship Reception Speech",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=fBhBwkWm4Bo",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Power of Investing in Education | Palm Health Foundation Scholarship Reception Speech https://www.youtube.com/watch?v=fBhBwkWm4Bo",
+          "chars": 113
+        },
+        "bluesky": {
+          "text": "The Power of Investing in Education | Palm Health Foundation Scholarship Reception Speech https://www.youtube.com/watch?v=fBhBwkWm4Bo",
+          "chars": 133
+        }
+      }
+    },
+    {
+      "id": 1594,
+      "date": "2026-10-23",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "A Framework for Women’s Health Engineering Education: Pedagogical Foundations and Practical Implementation",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s10439-026-04426-w",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "A Framework for Women’s Health Engineering Education: Pedagogical Foundations and Practical Implementation https://link.springer.com/article/10.1007/s10439-026-04426-w",
+          "chars": 130
+        },
+        "bluesky": {
+          "text": "A Framework for Women’s Health Engineering Education: Pedagogical Foundations and Practical Implementation https://link.springer.com/article/10.1007/s10439-026-04426-w",
+          "chars": 167
+        }
+      }
+    },
+    {
+      "id": 1566,
+      "date": "2026-10-23",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "What OPT Is and How It Affects the Economy in 6 Charts",
+      "has_text": true,
+      "url": "https://www.insidehighered.com/news/global/international-students-us/2026/10/23/breaking-down-opt-and-how-it-affects-economy-6",
+      "source": "Inside Higher Ed",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "What OPT Is and How It Affects the Economy in 6 Charts https://www.insidehighered.com/news/global/international-students-us/2026/10/23/breaking-down-opt-and-how-it-affects-economy-6",
+          "chars": 78
+        },
+        "bluesky": {
+          "text": "What OPT Is and How It Affects the Economy in 6 Charts https://www.insidehighered.com/news/global/international-students-us/2026/10/23/breaking-down-opt-and-how-it-affects-economy-6",
+          "chars": 181
+        }
+      }
+    },
+    {
+      "id": 1565,
+      "date": "2026-10-23",
+      "week_start": "2026-10-19",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "“A Coalition of Two Kleptocracies”",
+      "has_text": true,
+      "url": "https://anneapplebaum.substack.com/p/a-coalition-of-two-kleptocracies",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "“A Coalition of Two Kleptocracies” https://anneapplebaum.substack.com/p/a-coalition-of-two-kleptocracies",
+          "chars": 58
+        },
+        "bluesky": {
+          "text": "“A Coalition of Two Kleptocracies” https://anneapplebaum.substack.com/p/a-coalition-of-two-kleptocracies",
+          "chars": 104
+        }
+      }
+    },
+    {
+      "id": 1563,
+      "date": "2026-10-23",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-higher-education-higher-education-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Higher Education, Higher education, Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Reflective analysis of health sciences curriculum innovation at a Kenyan University",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s44217-026-02287-y",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Reflective analysis of health sciences curriculum innovation at a Kenyan University https://link.springer.com/article/10.1007/s44217-026-02287-y",
+          "chars": 107
+        },
+        "bluesky": {
+          "text": "Reflective analysis of health sciences curriculum innovation at a Kenyan University https://link.springer.com/article/10.1007/s44217-026-02287-y",
+          "chars": 144
+        }
+      }
+    },
+    {
+      "id": 1562,
+      "date": "2026-10-23",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, agora",
+      "is_ces": false,
+      "title": "Tenho uma ligação peculiar com o Brasil, afirma James Gray em SP",
+      "has_text": true,
+      "url": "https://www.msn.com/pt-br/entretenimento/cinema/tenho-uma-liga%C3%A7%C3%A3o-peculiar-com-o-brasil-afirma-james-gray-em-sp/ar-AA2fUMOl?cvid=1ad04d36fd9c49daba8da3259e3ad73c",
+      "source": "MSN Brasil",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Tenho uma ligação peculiar com o Brasil, afirma James Gray em SP https://www.msn.com/pt-br/entretenimento/cinema/tenho-uma-liga%C3%A7%C3%A3o-peculiar-com-o-brasil-afirma-james-gray-em-sp/ar-AA2fUMOl?cvid=1ad04d36fd9c49daba8da3259e3ad73c",
+          "chars": 88
+        },
+        "bluesky": {
+          "text": "Tenho uma ligação peculiar com o Brasil, afirma James Gray em SP https://www.msn.com/pt-br/entretenimento/cinema/tenho-uma-liga%C3%A7%C3%A3o-peculiar-com-o-brasil-afirma-james-gray-em-sp/ar-AA2fUMOl?cvid=1ad04d36fd9c49daba8da3259e3ad73c",
+          "chars": 236
+        }
+      }
+    },
+    {
+      "id": 1561,
+      "date": "2026-10-23",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, agora",
+      "is_ces": false,
+      "title": "‘Tenho uma ligação peculiar com o Brasil’, afirma James Gray em SP",
+      "has_text": true,
+      "url": "https://vejasp.abril.com.br/coluna/melhores-filmes-series/james-gray-entrevista-mostra-sp-rodrigo-teixeira/",
+      "source": "Abril.com",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "‘Tenho uma ligação peculiar com o Brasil’, afirma James Gray em SP https://vejasp.abril.com.br/coluna/melhores-filmes-series/james-gray-entrevista-mostra-sp-rodrigo-teixeira/",
+          "chars": 90
+        },
+        "bluesky": {
+          "text": "‘Tenho uma ligação peculiar com o Brasil’, afirma James Gray em SP https://vejasp.abril.com.br/coluna/melhores-filmes-series/james-gray-entrevista-mostra-sp-rodrigo-teixeira/",
+          "chars": 174
+        }
+      }
+    },
+    {
+      "id": 1560,
+      "date": "2026-10-23",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Dr. VivianTheodore Thomas",
+      "has_text": true,
+      "url": "https://bobkirchman.substack.com/p/dr-viviantheodore-thomas",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Dr. VivianTheodore Thomas https://bobkirchman.substack.com/p/dr-viviantheodore-thomas",
+          "chars": 49
+        },
+        "bluesky": {
+          "text": "Dr. VivianTheodore Thomas https://bobkirchman.substack.com/p/dr-viviantheodore-thomas",
+          "chars": 85
+        }
+      }
+    },
+    {
+      "id": 1536,
+      "date": "2026-10-23",
+      "week_start": "2026-10-19",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": "The Edge of the Universe Found Inside One Tiny Photo | Joe Rogan",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=1X2Ks9B0fDY",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Edge of the Universe Found Inside One Tiny Photo | Joe Rogan https://www.youtube.com/watch?v=1X2Ks9B0fDY",
+          "chars": 88
+        },
+        "bluesky": {
+          "text": "The Edge of the Universe Found Inside One Tiny Photo | Joe Rogan https://www.youtube.com/watch?v=1X2Ks9B0fDY",
+          "chars": 108
+        }
+      }
+    },
+    {
+      "id": 1535,
+      "date": "2026-10-23",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "Água-viva que desafia a morte pode inspirar tratamentos – 23/10/2026 – Ciência",
+      "has_text": true,
+      "url": "https://hubmidiaweb.com.br/agua-viva-que-desafia-a-morte-pode-inspirar-tratamentos-23-10-2026-ciencia/",
+      "source": "Hub Mídia Web",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Água-viva que desafia a morte pode inspirar tratamentos – 23/10/2026 – Ciência https://hubmidiaweb.com.br/agua-viva-que-desafia-a-morte-pode-inspirar-tratamentos-23-10-2026-ciencia/",
+          "chars": 102
+        },
+        "bluesky": {
+          "text": "Água-viva que desafia a morte pode inspirar tratamentos – 23/10/2026 – Ciência https://hubmidiaweb.com.br/agua-viva-que-desafia-a-morte-pode-inspirar-tratamentos-23-10-2026-ciencia/",
+          "chars": 181
+        }
+      }
+    },
+    {
+      "id": 1534,
+      "date": "2026-10-23",
+      "week_start": "2026-10-19",
+      "person_id": "mara-karlin",
+      "person": "Mara Karlin",
+      "is_ces": false,
+      "title": "Por que o futuro da guerra não consegue escapar do passado?",
+      "has_text": true,
+      "url": "https://eratostenesaraujo.blogspot.com/2026/10/por-que-o-futuro-da-guerra-nao-consegue.html",
+      "source": "Eratóstenes Araújo",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Por que o futuro da guerra não consegue escapar do passado? https://eratostenesaraujo.blogspot.com/2026/10/por-que-o-futuro-da-guerra-nao-consegue.html",
+          "chars": 83
+        },
+        "bluesky": {
+          "text": "Por que o futuro da guerra não consegue escapar do passado? https://eratostenesaraujo.blogspot.com/2026/10/por-que-o-futuro-da-guerra-nao-consegue.html",
+          "chars": 151
+        }
+      }
+    },
+    {
+      "id": 1533,
+      "date": "2026-10-23",
+      "week_start": "2026-10-19",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "This Post from demdemise has been withheld in this country in response to a legal demand and/or copyright.",
+      "has_text": true,
+      "url": "https://twitter.com",
+      "source": "Twitter",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "This Post from demdemise has been withheld in this country in response to a legal demand and/or copyright. https://twitter.com",
+          "chars": 130
+        },
+        "bluesky": {
+          "text": "This Post from demdemise has been withheld in this country in response to a legal demand and/or copyright. https://twitter.com",
+          "chars": 126
+        }
+      }
+    },
+    {
+      "id": 1532,
+      "date": "2026-10-23",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-academic-freedom-johns-hopkins",
+      "person": "Namesake/noise match: Academic Freedom, Johns Hopkins",
+      "is_ces": false,
+      "title": "Christophe Jaffrelot: Difference between revisions",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/w/index.php?title=Christophe_Jaffrelot&curid=33133234&diff=1381648191&oldid=1380982855",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Christophe Jaffrelot: Difference between revisions https://en.wikipedia.org/w/index.php?title=Christophe_Jaffrelot&curid=33133234&diff=1381648191&oldid=1380982855",
+          "chars": 74
+        },
+        "bluesky": {
+          "text": "Christophe Jaffrelot: Difference between revisions https://en.wikipedia.org/w/index.php?title=Christophe_Jaffrelot&curid=33133234&diff=1381648191&oldid=1380982855",
+          "chars": 162
+        }
+      }
+    },
+    {
+      "id": 1531,
+      "date": "2026-10-23",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-academic-freedom-johns-hopkins",
+      "person": "Namesake/noise match: Academic Freedom, Johns Hopkins",
+      "is_ces": false,
+      "title": "Christophe Jaffrelot",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/Christophe_Jaffrelot",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Christophe Jaffrelot https://en.wikipedia.org/wiki/Christophe_Jaffrelot",
+          "chars": 44
+        },
+        "bluesky": {
+          "text": "Christophe Jaffrelot https://en.wikipedia.org/wiki/Christophe_Jaffrelot",
+          "chars": 71
+        }
+      }
+    },
+    {
+      "id": 1530,
+      "date": "2026-10-23",
+      "week_start": "2026-10-19",
+      "person_id": "eliot-cohen",
+      "person": "Eliot Cohen",
+      "is_ces": false,
+      "title": "Eliot Cohen THE STRATEGIST: How to Think About War & Politics",
+      "has_text": true,
+      "url": "https://forthright.media/2026/10/23/eliot-cohen-the-strategist-how-to-think-about-war-politics/",
+      "source": "forthright.media",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Eliot Cohen THE STRATEGIST: How to Think About War & Politics https://forthright.media/2026/10/23/eliot-cohen-the-strategist-how-to-think-about-war-politics/",
+          "chars": 85
+        },
+        "bluesky": {
+          "text": "Eliot Cohen THE STRATEGIST: How to Think About War & Politics https://forthright.media/2026/10/23/eliot-cohen-the-strategist-how-to-think-about-war-politics/",
+          "chars": 157
+        }
+      }
+    },
+    {
+      "id": 1529,
+      "date": "2026-10-23",
+      "week_start": "2026-10-19",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": ".@anneapplebaum @TheAtlIdeas ::: La #democracia es sorprendentemente #FÁCIL de #SOCAVAR.",
+      "has_text": true,
+      "url": "https://limaparislima.wordpress.com/2026/10/24/anneapplebaum-theatlideas-la-democracia-es-sorprendentemente-facil-de-socavar-4/",
+      "source": "wordpress.com",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": ".@anneapplebaum @TheAtlIdeas ::: La #democracia es sorprendentemente #FÁCIL de #SOCAVAR. https://limaparislima.wordpress.com/2026/10/24/anneapplebaum-theatlideas-la-democracia-es-sorprendentemente-facil-de-socavar-4/",
+          "chars": 112
+        },
+        "bluesky": {
+          "text": ".@anneapplebaum @TheAtlIdeas ::: La #democracia es sorprendentemente #FÁCIL de #SOCAVAR. https://limaparislima.wordpress.com/2026/10/24/anneapplebaum-theatlideas-la-democracia-es-sorprendentemente-facil-de-socavar-4/",
+          "chars": 216
+        }
+      }
+    },
+    {
+      "id": 1539,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-agora-johns-hopkins-agora",
+      "person": "Namesake/noise match: Agora, Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "A água-viva imortal que pode inspirar tratamentos para doenças ligadas ao envelhecimento",
+      "has_text": true,
+      "url": "https://www.correiobraziliense.com.br/mundo/2026/10/7525582-a-agua-viva-imortal-que-pode-inspirar-tratamentos-para-doencas-ligadas-ao-envelhecimento.html",
+      "source": "Correio Braziliense",
+      "source_type": "online news",
+      "similar_mention_count": 12,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "A água-viva imortal que pode inspirar tratamentos para doenças ligadas ao envelhecimento https://www.correiobraziliense.com.br/mundo/2026/10/7525582-a-agua-viva-imortal-que-pode-inspirar-tratamentos-para-doencas-ligadas-ao-envelhecimento.html",
+          "chars": 112
+        },
+        "bluesky": {
+          "text": "A água-viva imortal que pode inspirar tratamentos para doenças ligadas ao envelhecimento https://www.correiobraziliense.com.br/mundo/2026/10/7525582-a-agua-viva-imortal-que-pode-inspirar-tratamentos-para-doencas-ligadas-ao-envelhecimento.html",
+          "chars": 242
+        }
+      }
+    },
+    {
+      "id": 1578,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "Eskalation bei Trump-Rally: Präsident bejubelt Prügel-Attacke – kein Einzelfall",
+      "has_text": true,
+      "url": "https://www.morgenpost.de/politik/article413476608/trump-jubelt-ueber-gewalt-auf-wahlkampf-event.html",
+      "source": "Berliner Morgenpost",
+      "source_type": "online news",
+      "similar_mention_count": 4,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Eskalation bei Trump-Rally: Präsident bejubelt Prügel-Attacke – kein Einzelfall https://www.morgenpost.de/politik/article413476608/trump-jubelt-ueber-gewalt-auf-wahlkampf-event.html",
+          "chars": 103
+        },
+        "bluesky": {
+          "text": "Eskalation bei Trump-Rally: Präsident bejubelt Prügel-Attacke – kein Einzelfall https://www.morgenpost.de/politik/article413476608/trump-jubelt-ueber-gewalt-auf-wahlkampf-event.html",
+          "chars": 181
+        }
+      }
+    },
+    {
+      "id": 1544,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-nih-funding",
+      "person": "Namesake/noise match: Johns Hopkins, NIH funding",
+      "is_ces": false,
+      "title": "Research report: U-M-led consortium to receive up to $52 million in NIH funding to study why viral respiratory infections affect children differently",
+      "has_text": true,
+      "url": "https://scienmag.com/research-report-u-m-led-consortium-to-receive-up-to-52-million-in-nih-funding-to-study-why-viral-respiratory-infections-affect-children-differently/",
+      "source": "Scienmag Science Magazine",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Research report: U-M-led consortium to receive up to $52 million in NIH funding to study why viral respiratory infections affect children differently https://scienmag.com/research-report-u-m-led-consortium-to-receive-up-to-52-million-in-nih-funding-to-study-why-viral-respiratory-infections-affect-children-differently/",
+          "chars": 173
+        },
+        "bluesky": {
+          "text": "Research report: U-M-led consortium to receive up to $52 million in NIH funding to study why viral respiratory infections affect… https://scienmag.com/research-report-u-m-led-consortium-to-receive-up-to-52-million-in-nih-funding-to-study-why-viral-respiratory-infections-affect-children-differently/",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 1614,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "scott-warren",
+      "person": "Scott Warren",
+      "is_ces": false,
+      "title": "Threats, political pressure create challenges for conservative election officials, report finds",
+      "has_text": true,
+      "url": "https://hub.jhu.edu/2026/10/22/civic-right-snf-agora-report/",
+      "source": "The Hub",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Threats, political pressure create challenges for conservative election officials, report finds https://hub.jhu.edu/2026/10/22/civic-right-snf-agora-report/",
+          "chars": 119
+        },
+        "bluesky": {
+          "text": "Threats, political pressure create challenges for conservative election officials, report finds https://hub.jhu.edu/2026/10/22/civic-right-snf-agora-report/",
+          "chars": 156
+        }
+      }
+    },
+    {
+      "id": 1613,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "r/geopolitics comment tagging Farrell (no captured text)",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/geopolitics/comments/1xcqf2v/comment/19rhuwvhgam6a/",
+      "source": "reddit.com/r/geopolitics",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "r/geopolitics comment tagging Farrell (no captured text) https://www.reddit.com/r/geopolitics/comments/1xcqf2v/comment/19rhuwvhgam6a/",
+          "chars": 80
+        },
+        "bluesky": {
+          "text": "r/geopolitics comment tagging Farrell (no captured text) https://www.reddit.com/r/geopolitics/comments/1xcqf2v/comment/19rhuwvhgam6a/",
+          "chars": 133
+        }
+      }
+    },
+    {
+      "id": 1593,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Scott Hahn - The Forgotten Biblical Covenant That Could Transform Your Family Before 2026 Ends!",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=ivisol5WwYY",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Scott Hahn - The Forgotten Biblical Covenant That Could Transform Your Family Before 2026 Ends! https://www.youtube.com/watch?v=ivisol5WwYY",
+          "chars": 119
+        },
+        "bluesky": {
+          "text": "Scott Hahn - The Forgotten Biblical Covenant That Could Transform Your Family Before 2026 Ends! https://www.youtube.com/watch?v=ivisol5WwYY",
+          "chars": 139
+        }
+      }
+    },
+    {
+      "id": 1592,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "Repulsa e populismo econômico: quem é o verdadeiro Flávio Bolsonaro. Artigo de Monica de Bolle",
+      "has_text": true,
+      "url": "https://www.ihu.unisinos.br/672478-repulsa-e-populismo-economico-quem-e-o-verdadeiro-flavio-bolsonaro-artigo-de-monica-de-bolle",
+      "source": "Instituto Humanitas Unisinos",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Repulsa e populismo econômico: quem é o verdadeiro Flávio Bolsonaro. Artigo de Monica de Bolle https://www.ihu.unisinos.br/672478-repulsa-e-populismo-economico-quem-e-o-verdadeiro-flavio-bolsonaro-artigo-de-monica-de-bolle",
+          "chars": 118
+        },
+        "bluesky": {
+          "text": "Repulsa e populismo econômico: quem é o verdadeiro Flávio Bolsonaro. Artigo de Monica de Bolle https://www.ihu.unisinos.br/672478-repulsa-e-populismo-economico-quem-e-o-verdadeiro-flavio-bolsonaro-artigo-de-monica-de-bolle",
+          "chars": 222
+        }
+      }
+    },
+    {
+      "id": 1591,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "Biologia e saúde: a água-viva imortal que pode inspirar tratamentos para doenças ligadas ao envelhecimento",
+      "has_text": true,
+      "url": "https://www.europesays.com/pt/562782/",
+      "source": "EUROPE SAYS",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Biologia e saúde: a água-viva imortal que pode inspirar tratamentos para doenças ligadas ao envelhecimento https://www.europesays.com/pt/562782/",
+          "chars": 130
+        },
+        "bluesky": {
+          "text": "Biologia e saúde: a água-viva imortal que pode inspirar tratamentos para doenças ligadas ao envelhecimento https://www.europesays.com/pt/562782/",
+          "chars": 144
+        }
+      }
+    },
+    {
+      "id": 1590,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-agora-johns-hopkins",
+      "person": "Namesake/noise match: AGORA, Johns Hopkins",
+      "is_ces": false,
+      "title": "50 Scholarships, Grants, Fellowships and Other Opportunities Currently Open – October 22, 2026",
+      "has_text": true,
+      "url": "https://opportunitydesk.org/2026/10/22/50-scholarships-grants-fellowships-and-other-opportunities-currently-open-october-22-2026/",
+      "source": "Opportunity Desk",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "50 Scholarships, Grants, Fellowships and Other Opportunities Currently Open – October 22, 2026 https://opportunitydesk.org/2026/10/22/50-scholarships-grants-fellowships-and-other-opportunities-currently-open-october-22-2026/",
+          "chars": 118
+        },
+        "bluesky": {
+          "text": "50 Scholarships, Grants, Fellowships and Other Opportunities Currently Open – October 22, 2026 https://opportunitydesk.org/2026/10/22/50-scholarships-grants-fellowships-and-other-opportunities-currently-open-october-22-2026/",
+          "chars": 224
+        }
+      }
+    },
+    {
+      "id": 1589,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-higher-education-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "姜淑杰 王建华：知识社会中大学如何重构？",
+      "has_text": true,
+      "url": "https://www.aisixiang.com/data/184545.html",
+      "source": "爱思想",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "姜淑杰 王建华：知识社会中大学如何重构？ https://www.aisixiang.com/data/184545.html",
+          "chars": 44
+        },
+        "bluesky": {
+          "text": "姜淑杰 王建华：知识社会中大学如何重构？ https://www.aisixiang.com/data/184545.html",
+          "chars": 63
+        }
+      }
+    },
+    {
+      "id": 1588,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "JHU Admissions With Scholarships. #JHU #Scholarships #Admission #Final #bachelor",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=CuqQ52zDLd8",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "JHU Admissions With Scholarships. #JHU #Scholarships #Admission #Final #bachelor https://www.youtube.com/watch?v=CuqQ52zDLd8",
+          "chars": 104
+        },
+        "bluesky": {
+          "text": "JHU Admissions With Scholarships. #JHU #Scholarships #Admission #Final #bachelor https://www.youtube.com/watch?v=CuqQ52zDLd8",
+          "chars": 124
+        }
+      }
+    },
+    {
+      "id": 1587,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-federal-research-funding-johns-hopkins-federal-research-funding-higher-education",
+      "person": "Namesake/noise match: Federal Research Funding, Johns Hopkins, federal research funding, higher education",
+      "is_ces": false,
+      "title": "Reduced Federal Research Funding, University Budget Cuts Hit Higher Ed IT",
+      "has_text": true,
+      "url": "https://www.europesays.com/unitedstates/58510/",
+      "source": "EUROPE SAYS",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Reduced Federal Research Funding, University Budget Cuts Hit Higher Ed IT https://www.europesays.com/unitedstates/58510/",
+          "chars": 97
+        },
+        "bluesky": {
+          "text": "Reduced Federal Research Funding, University Budget Cuts Hit Higher Ed IT https://www.europesays.com/unitedstates/58510/",
+          "chars": 120
+        }
+      }
+    },
+    {
+      "id": 1586,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, agora",
+      "is_ces": false,
+      "title": "AVANTE, VINGADORES: RELEMBRE A EVOLUÇÃO DOS HERÓIS DA MARVEL NOS FILMES E SÉRIES DO MCU",
+      "has_text": true,
+      "url": "https://blup.lineup.tv.br/avante-vingadores-relembre-a-evolucao-dos-herois-da-marvel-nos-filmes-e-series-do-mcu/",
+      "source": "blup",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "AVANTE, VINGADORES: RELEMBRE A EVOLUÇÃO DOS HERÓIS DA MARVEL NOS FILMES E SÉRIES DO MCU https://blup.lineup.tv.br/avante-vingadores-relembre-a-evolucao-dos-herois-da-marvel-nos-filmes-e-series-do-mcu/",
+          "chars": 111
+        },
+        "bluesky": {
+          "text": "AVANTE, VINGADORES: RELEMBRE A EVOLUÇÃO DOS HERÓIS DA MARVEL NOS FILMES E SÉRIES DO MCU https://blup.lineup.tv.br/avante-vingadores-relembre-a-evolucao-dos-herois-da-marvel-nos-filmes-e-series-do-mcu/",
+          "chars": 200
+        }
+      }
+    },
+    {
+      "id": 1585,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Box Type",
+      "has_text": true,
+      "url": "https://chemeng.technion.ac.il/en/category/box-type-2/",
+      "source": "הטכניון",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Box Type https://chemeng.technion.ac.il/en/category/box-type-2/",
+          "chars": 32
+        },
+        "bluesky": {
+          "text": "Box Type https://chemeng.technion.ac.il/en/category/box-type-2/",
+          "chars": 63
+        }
+      }
+    },
+    {
+      "id": 1584,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-academic-freedom-federal-research-funding-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, academic freedom, federal research funding, higher education",
+      "is_ces": false,
+      "title": "Universities End More than 80 Foreign Ties in the Wake of Pentagon Security Audits",
+      "has_text": true,
+      "url": "https://tennesseestar.com/education/universities-end-more-than-80-foreign-ties-in-the-wake-of-pentagon-security-audits/christina-botteri/2026/10/22/",
+      "source": "Tennessee Star",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Universities End More than 80 Foreign Ties in the Wake of Pentagon Security Audits https://tennesseestar.com/education/universities-end-more-than-80-foreign-ties-in-the-wake-of-pentagon-security-audits/christina-botteri/2026/10/22/",
+          "chars": 106
+        },
+        "bluesky": {
+          "text": "Universities End More than 80 Foreign Ties in the Wake of Pentagon Security Audits https://tennesseestar.com/education/universities-end-more-than-80-foreign-ties-in-the-wake-of-pentagon-security-audits/christina-botteri/2026/10/22/",
+          "chars": 231
+        }
+      }
+    },
+    {
+      "id": 1583,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-agora-hopkins-agora",
+      "person": "Namesake/noise match: Agora, Hopkins, agora",
+      "is_ces": false,
+      "title": "UCI terá maratona de filmes de terror com ingressos a R$ 12 no Halloween",
+      "has_text": true,
+      "url": "https://portalg.com.br/uci-day-terror-2026-halloween-ingressos/",
+      "source": "Portal G",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "UCI terá maratona de filmes de terror com ingressos a R$ 12 no Halloween https://portalg.com.br/uci-day-terror-2026-halloween-ingressos/",
+          "chars": 96
+        },
+        "bluesky": {
+          "text": "UCI terá maratona de filmes de terror com ingressos a R$ 12 no Halloween https://portalg.com.br/uci-day-terror-2026-halloween-ingressos/",
+          "chars": 136
+        }
+      }
+    },
+    {
+      "id": 1582,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": "Do Democrats’ pro-abortion pastors have the “moral high ground” this election year?",
+      "has_text": true,
+      "url": "https://sbapla.substack.com/p/do-democrats-pro-abortion-pastors",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Do Democrats’ pro-abortion pastors have the “moral high ground” this election year? https://sbapla.substack.com/p/do-democrats-pro-abortion-pastors",
+          "chars": 107
+        },
+        "bluesky": {
+          "text": "Do Democrats’ pro-abortion pastors have the “moral high ground” this election year? https://sbapla.substack.com/p/do-democrats-pro-abortion-pastors",
+          "chars": 147
+        }
+      }
+    },
+    {
+      "id": 1581,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-hopkins-university-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Hopkins University, Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Conversation with a Doctoral Scholar: Dr. Caleb McKinney, PhD, MPS",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=uR8b4xjlj64",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Conversation with a Doctoral Scholar: Dr. Caleb McKinney, PhD, MPS https://www.youtube.com/watch?v=uR8b4xjlj64",
+          "chars": 90
+        },
+        "bluesky": {
+          "text": "Conversation with a Doctoral Scholar: Dr. Caleb McKinney, PhD, MPS https://www.youtube.com/watch?v=uR8b4xjlj64",
+          "chars": 110
+        }
+      }
+    },
+    {
+      "id": 1580,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Uncommon Sense : Real-world wisdom for when the textbook ends.Why do some of the most successful people in the world—from Bill Gates to Steve Jobs, Oprah Winfrey to Ralph Lauren—never finish college, while others with every academic advantage still struggle to find their way? For William R. Brody, a renowned physician-scientist and the former president of Johns Hopkins University, the answer lies in a truth higher education all too often overlooks: life, unlike textbooks, has no a...",
+      "has_text": true,
+      "url": "https://ie.pinterest.com/pin/570409109078975394/",
+      "source": "Pinterest",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Uncommon Sense : Real-world wisdom for when the textbook ends.Why do some of the most successful people in the world—from Bill Gates to Steve Jobs, Oprah Winfrey to Ralph Lauren—never finish college, while others with every academic advantage still strugg… https://ie.pinterest.com/pin/570409109078975394/",
+          "chars": 280
+        },
+        "bluesky": {
+          "text": "Uncommon Sense : Real-world wisdom for when the textbook ends.Why do some of the most successful people in the world—from Bill Gates to Steve Jobs, Oprah Winfrey to Ralph Lauren—never finish college, while others with every academic advantage still … https://ie.pinterest.com/pin/570409109078975394/",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 1579,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Do College Teachers Have to Be Scholars?",
+      "has_text": true,
+      "url": "https://hedgehogreview.com/issues/the-corporate-professor/articles/do-college-teachers-have-to-be-scholars",
+      "source": "The Hedgehog Review",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Do College Teachers Have to Be Scholars? https://hedgehogreview.com/issues/the-corporate-professor/articles/do-college-teachers-have-to-be-scholars",
+          "chars": 64
+        },
+        "bluesky": {
+          "text": "Do College Teachers Have to Be Scholars? https://hedgehogreview.com/issues/the-corporate-professor/articles/do-college-teachers-have-to-be-scholars",
+          "chars": 147
+        }
+      }
+    },
+    {
+      "id": 1577,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-university-president",
+      "person": "Namesake/noise match: Johns Hopkins, university President",
+      "is_ces": false,
+      "title": "Artemis II Commander Reid Wiseman Describes Moon Flyby",
+      "has_text": true,
+      "url": "https://www.miragenews.com/artemis-ii-commander-reid-wiseman-describes-1765229/",
+      "source": "Mirage.News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Artemis II Commander Reid Wiseman Describes Moon Flyby https://www.miragenews.com/artemis-ii-commander-reid-wiseman-describes-1765229/",
+          "chars": 78
+        },
+        "bluesky": {
+          "text": "Artemis II Commander Reid Wiseman Describes Moon Flyby https://www.miragenews.com/artemis-ii-commander-reid-wiseman-describes-1765229/",
+          "chars": 134
+        }
+      }
+    },
+    {
+      "id": 1576,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-university-president",
+      "person": "Namesake/noise match: Johns Hopkins, University President",
+      "is_ces": false,
+      "title": "Kevin Sowers to Retire After Decade Leading Johns Hopkins Health System",
+      "has_text": true,
+      "url": "https://www.miragenews.com/kevin-sowers-to-retire-after-decade-leading-1765367/",
+      "source": "Mirage.News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Kevin Sowers to Retire After Decade Leading Johns Hopkins Health System https://www.miragenews.com/kevin-sowers-to-retire-after-decade-leading-1765367/",
+          "chars": 95
+        },
+        "bluesky": {
+          "text": "Kevin Sowers to Retire After Decade Leading Johns Hopkins Health System https://www.miragenews.com/kevin-sowers-to-retire-after-decade-leading-1765367/",
+          "chars": 151
+        }
+      }
+    },
+    {
+      "id": 1575,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "The Top Women Leaders in Communications for 2026 (Complete)",
+      "has_text": true,
+      "url": "https://thewomenweadmire.com/2026/10/the-top-women-leaders-in-communications-for-2026-complete/",
+      "source": "Women We Admire",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Top Women Leaders in Communications for 2026 (Complete) https://thewomenweadmire.com/2026/10/the-top-women-leaders-in-communications-for-2026-complete/",
+          "chars": 83
+        },
+        "bluesky": {
+          "text": "The Top Women Leaders in Communications for 2026 (Complete) https://thewomenweadmire.com/2026/10/the-top-women-leaders-in-communications-for-2026-complete/",
+          "chars": 155
+        }
+      }
+    },
+    {
+      "id": 1574,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "This Post from 8am0n8 has been withheld in this country in response to a legal demand and/or copyright.",
+      "has_text": true,
+      "url": "https://twitter.com",
+      "source": "Twitter",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "This Post from 8am0n8 has been withheld in this country in response to a legal demand and/or copyright. https://twitter.com",
+          "chars": 127
+        },
+        "bluesky": {
+          "text": "This Post from 8am0n8 has been withheld in this country in response to a legal demand and/or copyright. https://twitter.com",
+          "chars": 123
+        }
+      }
+    },
+    {
+      "id": 1573,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, agora",
+      "is_ces": false,
+      "title": "Veja filmes e série para celebrar os 55 anos de Winona Ryder",
+      "has_text": true,
+      "url": "https://www1.folha.uol.com.br/ilustrada/2026/10/veja-filmes-e-serie-para-celebrar-os-55-anos-de-winona-ryder.shtml",
+      "source": "UOL ",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Veja filmes e série para celebrar os 55 anos de Winona Ryder https://www1.folha.uol.com.br/ilustrada/2026/10/veja-filmes-e-serie-para-celebrar-os-55-anos-de-winona-ryder.shtml",
+          "chars": 84
+        },
+        "bluesky": {
+          "text": "Veja filmes e série para celebrar os 55 anos de Winona Ryder https://www1.folha.uol.com.br/ilustrada/2026/10/veja-filmes-e-serie-para-celebrar-os-55-anos-de-winona-ryder.shtml",
+          "chars": 175
+        }
+      }
+    },
+    {
+      "id": 1572,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "ben-cardin",
+      "person": "Ben Cardin",
+      "is_ces": false,
+      "title": "University hosts former Sen. Ben Cardin in celebration of CSC's 35th anniversary",
+      "has_text": true,
+      "url": "https://www.jhunewsletter.com/article/2026/10/university-hosts-senator-ben-cardin-in-celebration-of-cscs-35th-anniversary",
+      "source": "The Johns Hopkins News-Letter",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "University hosts former Sen. Ben Cardin in celebration of CSC's 35th anniversary https://www.jhunewsletter.com/article/2026/10/university-hosts-senator-ben-cardin-in-celebration-of-cscs-35th-anniversary",
+          "chars": 104
+        },
+        "bluesky": {
+          "text": "University hosts former Sen. Ben Cardin in celebration of CSC's 35th anniversary https://www.jhunewsletter.com/article/2026/10/university-hosts-senator-ben-cardin-in-celebration-of-cscs-35th-anniversary",
+          "chars": 202
+        }
+      }
+    },
+    {
+      "id": 1571,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-university-president",
+      "person": "Namesake/noise match: Johns Hopkins, University President",
+      "is_ces": false,
+      "title": "Reid Wiseman Describes Moon Mission Panic",
+      "has_text": true,
+      "url": "https://time.news/reid-wiseman-describes-moon-mission-panic/",
+      "source": "Time News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Reid Wiseman Describes Moon Mission Panic https://time.news/reid-wiseman-describes-moon-mission-panic/",
+          "chars": 65
+        },
+        "bluesky": {
+          "text": "Reid Wiseman Describes Moon Mission Panic https://time.news/reid-wiseman-describes-moon-mission-panic/",
+          "chars": 102
+        }
+      }
+    },
+    {
+      "id": 1570,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: Agora, Hopkins",
+      "is_ces": false,
+      "title": "De Steve Rogers a Doutor Destino: 8 heróis da Marvel que tiveram as jornadas mais marcantes do MCU",
+      "has_text": true,
+      "url": "https://www.trambicast.com.br/2026/10/de-steve-rogers-doutor-destino-8-herois.html",
+      "source": "Trambicast",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "De Steve Rogers a Doutor Destino: 8 heróis da Marvel que tiveram as jornadas mais marcantes do MCU https://www.trambicast.com.br/2026/10/de-steve-rogers-doutor-destino-8-herois.html",
+          "chars": 122
+        },
+        "bluesky": {
+          "text": "De Steve Rogers a Doutor Destino: 8 heróis da Marvel que tiveram as jornadas mais marcantes do MCU https://www.trambicast.com.br/2026/10/de-steve-rogers-doutor-destino-8-herois.html",
+          "chars": 181
+        }
+      }
+    },
+    {
+      "id": 1569,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, agora",
+      "is_ces": false,
+      "title": "Unha noite diabólica con Hannibal Lecter, Polanski e os paranormais Warren",
+      "has_text": true,
+      "url": "https://galego.lavozdegalicia.es/noticia/television/2026/10/22/noche-diabolica-hannibal-lecker-polansky-paranormales-warren/00031792689648508548199.htm",
+      "source": "La Voz de Galicia",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Unha noite diabólica con Hannibal Lecter, Polanski e os paranormais Warren https://galego.lavozdegalicia.es/noticia/television/2026/10/22/noche-diabolica-hannibal-lecker-polansky-paranormales-warren/00031792689648508548199.htm",
+          "chars": 98
+        },
+        "bluesky": {
+          "text": "Unha noite diabólica con Hannibal Lecter, Polanski e os paranormais Warren https://galego.lavozdegalicia.es/noticia/television/2026/10/22/noche-diabolica-hannibal-lecker-polansky-paranormales-warren/00031792689648508548199.htm",
+          "chars": 226
+        }
+      }
+    },
+    {
+      "id": 1568,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "amy-binder",
+      "person": "Amy Binder",
+      "is_ces": false,
+      "title": "Boston play ‘gives equal weight to stories’ of notorious female fugitive and daughter of policeman she killed",
+      "has_text": true,
+      "url": "https://www.aol.com/articles/boston-play-gives-equal-weight-120002000.html",
+      "source": "AOL",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Boston play ‘gives equal weight to stories’ of notorious female fugitive and daughter of policeman she killed https://www.aol.com/articles/boston-play-gives-equal-weight-120002000.html",
+          "chars": 133
+        },
+        "bluesky": {
+          "text": "Boston play ‘gives equal weight to stories’ of notorious female fugitive and daughter of policeman she killed https://www.aol.com/articles/boston-play-gives-equal-weight-120002000.html",
+          "chars": 184
+        }
+      }
+    },
+    {
+      "id": 1567,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-agora-johns-hopkins-agora",
+      "person": "Namesake/noise match: Agora, Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "Nascido em 1997, partilhou o palco com Huang Renxun: ele quer mudar a indústria dos videojogos de uma forma diferente",
+      "has_text": true,
+      "url": "https://youxichaguan.com/pt/archives/214332",
+      "source": "游戏茶馆",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Nascido em 1997, partilhou o palco com Huang Renxun: ele quer mudar a indústria dos videojogos de uma forma diferente https://youxichaguan.com/pt/archives/214332",
+          "chars": 141
+        },
+        "bluesky": {
+          "text": "Nascido em 1997, partilhou o palco com Huang Renxun: ele quer mudar a indústria dos videojogos de uma forma diferente https://youxichaguan.com/pt/archives/214332",
+          "chars": 161
+        }
+      }
+    },
+    {
+      "id": 1546,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Education Week",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/Education_Week",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Education Week https://en.wikipedia.org/wiki/Education_Week",
+          "chars": 38
+        },
+        "bluesky": {
+          "text": "Education Week https://en.wikipedia.org/wiki/Education_Week",
+          "chars": 59
+        }
+      }
+    },
+    {
+      "id": 1545,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-academic-freedom",
+      "person": "Namesake/noise match: Johns Hopkins, academic freedom",
+      "is_ces": false,
+      "title": "The Jewish Establishment’s War Against Candace Owens Is Nothing New",
+      "has_text": true,
+      "url": "https://vishnupowercom.wordpress.com/2026/10/22/the-jewish-establishments-war-against-candace-owens-is-nothing-new/",
+      "source": "wordpress.com",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Jewish Establishment’s War Against Candace Owens Is Nothing New https://vishnupowercom.wordpress.com/2026/10/22/the-jewish-establishments-war-against-candace-owens-is-nothing-new/",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "The Jewish Establishment’s War Against Candace Owens Is Nothing New https://vishnupowercom.wordpress.com/2026/10/22/the-jewish-establishments-war-against-candace-owens-is-nothing-new/",
+          "chars": 183
+        }
+      }
+    },
+    {
+      "id": 1542,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Associations between food agency and dinner cooking frequency, fast-food frequency and diet quality among US adults",
+      "has_text": true,
+      "url": "https://www.cambridge.org/core/journals/public-health-nutrition/article/associations-between-food-agency-and-dinner-cooking-frequency-fastfood-frequency-and-diet-quality-among-us-adults/ABBC16F2EAADFFC5FC2522C4DE737D2D",
+      "source": "Cambridge University Press & Assessment",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Associations between food agency and dinner cooking frequency, fast-food frequency and diet quality among US adults https://www.cambridge.org/core/journals/public-health-nutrition/article/associations-between-food-agency-and-dinner-cooking-frequency-fastfood-frequency-and-diet-quality-among-us-adults/ABBC16F2EAADFFC5FC2522C4DE737D2D",
+          "chars": 139
+        },
+        "bluesky": {
+          "text": "Associations between food agency and dinner cooking frequency, fast-food freque… https://www.cambridge.org/core/journals/public-health-nutrition/article/associations-between-food-agency-and-dinner-cooking-frequency-fastfood-frequency-and-diet-quality-among-us-adults/ABBC16F2EAADFFC5FC2522C4DE737D2D",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 1541,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "CBK Boss Awarded Heroes Medal: Illustrious Journey From Teaching in US to CBK Top Position",
+      "has_text": true,
+      "url": "https://www.tuko.co.ke/business-economy/644104-cbk-boss-heroes-medal-thugges-illustrious-journey-teaching-job-cbk-top-position/",
+      "source": "tuko",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "CBK Boss Awarded Heroes Medal: Illustrious Journey From Teaching in US to CBK Top Position https://www.tuko.co.ke/business-economy/644104-cbk-boss-heroes-medal-thugges-illustrious-journey-teaching-job-cbk-top-position/",
+          "chars": 114
+        },
+        "bluesky": {
+          "text": "CBK Boss Awarded Heroes Medal: Illustrious Journey From Teaching in US to CBK Top Position https://www.tuko.co.ke/business-economy/644104-cbk-boss-heroes-medal-thugges-illustrious-journey-teaching-job-cbk-top-position/",
+          "chars": 218
+        }
+      }
+    },
+    {
+      "id": 1540,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, agora",
+      "is_ces": false,
+      "title": "Criadores de Life is Strange visitam set da série do Prime Video",
+      "has_text": true,
+      "url": "https://criticalhits.com.br/cinema-e-tv/criadores-de-life-is-strange-visitam-set-da-serie-do-prime-video/",
+      "source": "Critical Hits",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Criadores de Life is Strange visitam set da série do Prime Video https://criticalhits.com.br/cinema-e-tv/criadores-de-life-is-strange-visitam-set-da-serie-do-prime-video/",
+          "chars": 88
+        },
+        "bluesky": {
+          "text": "Criadores de Life is Strange visitam set da série do Prime Video https://criticalhits.com.br/cinema-e-tv/criadores-de-life-is-strange-visitam-set-da-serie-do-prime-video/",
+          "chars": 170
+        }
+      }
+    },
+    {
+      "id": 1538,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-agora-johns-hopkins",
+      "person": "Namesake/noise match: Agora, Johns Hopkins",
+      "is_ces": false,
+      "title": "Ensaio 1670 - Identidades que criamos online (2)",
+      "has_text": true,
+      "url": "http://pedrodemo.blogspot.com/2026/10/ensaio-1670-identidades-que-criamos.html",
+      "source": "Prof. Pedro Demo",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Ensaio 1670 - Identidades que criamos online (2) http://pedrodemo.blogspot.com/2026/10/ensaio-1670-identidades-que-criamos.html",
+          "chars": 72
+        },
+        "bluesky": {
+          "text": "Ensaio 1670 - Identidades que criamos online (2) http://pedrodemo.blogspot.com/2026/10/ensaio-1670-identidades-que-criamos.html",
+          "chars": 127
+        }
+      }
+    },
+    {
+      "id": 1537,
+      "date": "2026-10-22",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-nih-funding",
+      "person": "Namesake/noise match: Johns Hopkins, NIH funding",
+      "is_ces": false,
+      "title": "Up to $52 Million Study Will Follow 1,500 Hospitalized Babies to Learn Why Some Keep Struggling to Breathe",
+      "has_text": true,
+      "url": "https://www.medicaldaily.com/infant-viral-lung-infection-study-1500-babies-480282",
+      "source": "Medical Daily",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Up to $52 Million Study Will Follow 1,500 Hospitalized Babies to Learn Why Some Keep Struggling to Breathe https://www.medicaldaily.com/infant-viral-lung-infection-study-1500-babies-480282",
+          "chars": 130
+        },
+        "bluesky": {
+          "text": "Up to $52 Million Study Will Follow 1,500 Hospitalized Babies to Learn Why Some Keep Struggling to Breathe https://www.medicaldaily.com/infant-viral-lung-infection-study-1500-babies-480282",
+          "chars": 188
+        }
+      }
+    },
     {
       "id": 1483,
       "date": "2026-10-21",
@@ -20,6 +1874,49 @@
       "share": null
     },
     {
+      "id": 1605,
+      "date": "2026-10-21",
+      "week_start": "2026-10-19",
+      "person_id": "scott-warren",
+      "person": "Scott Warren",
+      "is_ces": false,
+      "title": "X reposts/quotes of Natalie Winters's Civic Right post, continued (no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 360,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1548,
+      "date": "2026-10-21",
+      "week_start": "2026-10-19",
+      "person_id": "max-cohen-namesake-brewers-scout",
+      "person": "Max Cohen (namesake: Brewers scout)",
+      "is_ces": false,
+      "title": "As Rays head to World Series, ‘easy to see’ why Brewers are so good",
+      "has_text": true,
+      "url": "https://www.dailygazette.com/tribune/as-rays-head-to-world-series-easy-to-see-why-brewers-are-so-good/article_9786f92c-b167-54a2-a6cc-a22d01f9328e.html",
+      "source": "The Daily Gazette",
+      "source_type": "online news",
+      "similar_mention_count": 21,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "As Rays head to World Series, ‘easy to see’ why Brewers are so good https://www.dailygazette.com/tribune/as-rays-head-to-world-series-easy-to-see-why-brewers-are-so-good/article_9786f92c-b167-54a2-a6cc-a22d01f9328e.html",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "As Rays head to World Series, ‘easy to see’ why Brewers are so good https://www.dailygazette.com/tribune/as-rays-head-to-world-series-easy-to-see-why-brewers-are-so-good/article_9786f92c-b167-54a2-a6cc-a22d01f9328e.html",
+          "chars": 219
+        }
+      }
+    },
+    {
       "id": 1484,
       "date": "2026-10-21",
       "week_start": "2026-10-19",
@@ -35,6 +1932,446 @@
       "entity_sentiment": "unknown",
       "in_digest": false,
       "share": null
+    },
+    {
+      "id": 1608,
+      "date": "2026-10-21",
+      "week_start": "2026-10-19",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "Text-less posts matched on: Johns Hopkins, academic freedom",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 5,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1606,
+      "date": "2026-10-21",
+      "week_start": "2026-10-19",
+      "person_id": "mara-karlin",
+      "person": "Mara Karlin",
+      "is_ces": false,
+      "title": "Text-less posts tagging Karlin, incl. r/longform comments (no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1543,
+      "date": "2026-10-21",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Most General Assembly contests not likely to be competitive — again, experts say",
+      "has_text": true,
+      "url": "https://www.somdnews.com/apgstate/most-general-assembly-contests-not-likely-to-be-competitive-again-experts-say/article_9c56fde4-0cc8-5659-9608-086479953184.html",
+      "source": "Southern Maryland News Online",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Most General Assembly contests not likely to be competitive — again, experts say https://www.somdnews.com/apgstate/most-general-assembly-contests-not-likely-to-be-competitive-again-experts-say/article_9c56fde4-0cc8-5659-9608-086479953184.html",
+          "chars": 104
+        },
+        "bluesky": {
+          "text": "Most General Assembly contests not likely to be competitive — again, experts say https://www.somdnews.com/apgstate/most-general-assembly-contests-not-likely-to-be-competitive-again-experts-say/article_9c56fde4-0cc8-5659-9608-086479953184.html",
+          "chars": 242
+        }
+      }
+    },
+    {
+      "id": 1612,
+      "date": "2026-10-21",
+      "week_start": "2026-10-19",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "Text-less posts matched on: SNF Agora",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1611,
+      "date": "2026-10-21",
+      "week_start": "2026-10-19",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "Text-less posts matched on: Johns Hopkins, SNF Agora Institute",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1547,
+      "date": "2026-10-21",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "How tech billionaires are disrupting biomedical science",
+      "has_text": true,
+      "url": "https://www.nature.com/articles/d41586-026-03311-9",
+      "source": "Nature",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "How tech billionaires are disrupting biomedical science https://www.nature.com/articles/d41586-026-03311-9",
+          "chars": 79
+        },
+        "bluesky": {
+          "text": "How tech billionaires are disrupting biomedical science https://www.nature.com/articles/d41586-026-03311-9",
+          "chars": 106
+        }
+      }
+    },
+    {
+      "id": 1610,
+      "date": "2026-10-21",
+      "week_start": "2026-10-19",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "Text-less posts matched on: Higher Education, Johns Hopkins",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1609,
+      "date": "2026-10-21",
+      "week_start": "2026-10-19",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "Text-less posts matched on: Agora, Hopkins, agora",
+      "has_text": true,
+      "url": null,
+      "source": "reddit.com/r/creepypasta",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1559,
+      "date": "2026-10-21",
+      "week_start": "2026-10-19",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "“The challenge is to take effective action while not drawing unwanted attention.”",
+      "has_text": true,
+      "url": "https://www.tigerdroppings.com/rant/lsu-sports/the-challenge-is-to-take-effective-action-while-not-drawing-unwanted-attention/125345490/",
+      "source": "TigerDroppings.com",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "“The challenge is to take effective action while not drawing unwanted attention.” https://www.tigerdroppings.com/rant/lsu-sports/the-challenge-is-to-take-effective-action-while-not-drawing-unwanted-attention/125345490/",
+          "chars": 105
+        },
+        "bluesky": {
+          "text": "“The challenge is to take effective action while not drawing unwanted attention.” https://www.tigerdroppings.com/rant/lsu-sports/the-challenge-is-to-take-effective-action-while-not-drawing-unwanted-attention/125345490/",
+          "chars": 218
+        }
+      }
+    },
+    {
+      "id": 1558,
+      "date": "2026-10-21",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-higher-education-hopkins-university-higher-education",
+      "person": "Namesake/noise match: Higher education, Hopkins University, higher education",
+      "is_ces": false,
+      "title": "Reflective Patriotism and Civic Education in K-12 Schools and Universities with Paul Carrese",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=ANYD8-xIzio",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Reflective Patriotism and Civic Education in K-12 Schools and Universities with Paul Carrese https://www.youtube.com/watch?v=ANYD8-xIzio",
+          "chars": 116
+        },
+        "bluesky": {
+          "text": "Reflective Patriotism and Civic Education in K-12 Schools and Universities with Paul Carrese https://www.youtube.com/watch?v=ANYD8-xIzio",
+          "chars": 136
+        }
+      }
+    },
+    {
+      "id": 1557,
+      "date": "2026-10-21",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Race Can't Count Anymore. So Why Did One College Jump to 45% Asian?",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=L4wvmLxcWAo",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Race Can't Count Anymore. So Why Did One College Jump to 45% Asian? https://www.youtube.com/watch?v=L4wvmLxcWAo",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "Race Can't Count Anymore. So Why Did One College Jump to 45% Asian? https://www.youtube.com/watch?v=L4wvmLxcWAo",
+          "chars": 111
+        }
+      }
+    },
+    {
+      "id": 1556,
+      "date": "2026-10-21",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-higher-education-hopkins-university-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Higher Education, Hopkins University, Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "\"10 states where borrowers owe the most student debt\"",
+      "has_text": true,
+      "url": "https://qz.com/states-highest-student-loan-debt-per-borrower",
+      "source": "Quartz",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "\"10 states where borrowers owe the most student debt\" https://qz.com/states-highest-student-loan-debt-per-borrower",
+          "chars": 77
+        },
+        "bluesky": {
+          "text": "\"10 states where borrowers owe the most student debt\" https://qz.com/states-highest-student-loan-debt-per-borrower",
+          "chars": 114
+        }
+      }
+    },
+    {
+      "id": 1555,
+      "date": "2026-10-21",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins-academic-freedom-higher-education",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins, academic freedom, higher education",
+      "is_ces": false,
+      "title": "AI Is an Answer Machine. Teach Students to Ask Questions",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=Ygwwzm-jxOE",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "AI Is an Answer Machine. Teach Students to Ask Questions https://www.youtube.com/watch?v=Ygwwzm-jxOE",
+          "chars": 80
+        },
+        "bluesky": {
+          "text": "AI Is an Answer Machine. Teach Students to Ask Questions https://www.youtube.com/watch?v=Ygwwzm-jxOE",
+          "chars": 100
+        }
+      }
+    },
+    {
+      "id": 1554,
+      "date": "2026-10-21",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "From The University of Arizona And The University of Illinois at Urbana-Champaign With Webb Via Live Science: ‘Webb is watching one of the earliest supernovas in the universe unfold’ – sciencesprings",
+      "has_text": true,
+      "url": "https://sciencesprings.wordpress.com/2026/10/21/from-the-university-of-arizona-and-the-university-of-illinois-at-urbana-champaign-with-webb-via-live-science-webb-is-watching-one-of-the-earliest-supernovas-in-the-universe-unfold/",
+      "source": "wordpress.com",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "From The University of Arizona And The University of Illinois at Urbana-Champaign With Webb Via Live Science: ‘Webb is watching one of the earliest supernovas in the universe unfold’ – sciencesprings https://sciencesprings.wordpress.com/2026/10/21/from-the-university-of-arizona-and-the-university-of-illinois-at-urbana-champaign-with-webb-via-live-science-webb-is-watching-one-of-the-earliest-supernovas-in-the-universe-unfold/",
+          "chars": 223
+        },
+        "bluesky": {
+          "text": "From The University of Arizona And The University of Illinois at Urba… https://sciencesprings.wordpress.com/2026/10/21/from-the-university-of-arizona-and-the-university-of-illinois-at-urbana-champaign-with-webb-via-live-science-webb-is-watching-one-of-the-earliest-supernovas-in-the-universe-unfold/",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 1553,
+      "date": "2026-10-21",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Who Taught the People in Charge to Think?",
+      "has_text": true,
+      "url": "https://crownandshadow.medium.com/who-taught-the-people-in-charge-to-think-d0a2bacd8586",
+      "source": "Medium",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Who Taught the People in Charge to Think? https://crownandshadow.medium.com/who-taught-the-people-in-charge-to-think-d0a2bacd8586",
+          "chars": 65
+        },
+        "bluesky": {
+          "text": "Who Taught the People in Charge to Think? https://crownandshadow.medium.com/who-taught-the-people-in-charge-to-think-d0a2bacd8586",
+          "chars": 129
+        }
+      }
+    },
+    {
+      "id": 1552,
+      "date": "2026-10-21",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: Agora, Hopkins",
+      "is_ces": false,
+      "title": "Happenings — what’s coming up in Northeast Ohio starting Oct. 22",
+      "has_text": true,
+      "url": "https://www.morningjournal.com/2026/10/21/happenings-whats-coming-up-in-northeast-ohio-starting-oct-22-2/",
+      "source": "The Morning Journal",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Happenings — what’s coming up in Northeast Ohio starting Oct. 22 https://www.morningjournal.com/2026/10/21/happenings-whats-coming-up-in-northeast-ohio-starting-oct-22-2/",
+          "chars": 88
+        },
+        "bluesky": {
+          "text": "Happenings — what’s coming up in Northeast Ohio starting Oct. 22 https://www.morningjournal.com/2026/10/21/happenings-whats-coming-up-in-northeast-ohio-starting-oct-22-2/",
+          "chars": 170
+        }
+      }
+    },
+    {
+      "id": 1551,
+      "date": "2026-10-21",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: Agora, Hopkins",
+      "is_ces": false,
+      "title": "é inscrito, se inscreve aí ou pode nunca mais me ver no seu feed ein! Agora vamos pro clássico textão mostrando o que nã",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=rFOBFxaYIxs&lc=UgwXU6Wnrg-bcw8G93h4AaABAg",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "é inscrito, se inscreve aí ou pode nunca mais me ver no seu feed ein! Agora vamos pro clássico textão mostrando o que nã https://www.youtube.com/watch?v=rFOBFxaYIxs&lc=UgwXU6Wnrg-bcw8G93h4AaABAg",
+          "chars": 144
+        },
+        "bluesky": {
+          "text": "é inscrito, se inscreve aí ou pode nunca mais me ver no seu feed ein! Agora vamos pro clássico textão mostrando o que nã https://www.youtube.com/watch?v=rFOBFxaYIxs&lc=UgwXU6Wnrg-bcw8G93h4AaABAg",
+          "chars": 194
+        }
+      }
+    },
+    {
+      "id": 1550,
+      "date": "2026-10-21",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-nih-funding",
+      "person": "Namesake/noise match: Johns Hopkins, NIH funding",
+      "is_ces": false,
+      "title": "2026 Cohn Visiting Professorship Lecture: A. Marc Gillinov, MD (9/28/26)",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=Oi_SrNfhPQ4",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "2026 Cohn Visiting Professorship Lecture: A. Marc Gillinov, MD (9/28/26) https://www.youtube.com/watch?v=Oi_SrNfhPQ4",
+          "chars": 96
+        },
+        "bluesky": {
+          "text": "2026 Cohn Visiting Professorship Lecture: A. Marc Gillinov, MD (9/28/26) https://www.youtube.com/watch?v=Oi_SrNfhPQ4",
+          "chars": 116
+        }
+      }
+    },
+    {
+      "id": 1549,
+      "date": "2026-10-21",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "Dr. House Temporada 1: Resumo do Episódio 19 — Crianças",
+      "has_text": true,
+      "url": "https://cosmonerd.com.br/series/dr-house-temporada-1-resumo-do-episodio-19-criancas/",
+      "source": "CosmoNerd",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Dr. House Temporada 1: Resumo do Episódio 19 — Crianças https://cosmonerd.com.br/series/dr-house-temporada-1-resumo-do-episodio-19-criancas/",
+          "chars": 79
+        },
+        "bluesky": {
+          "text": "Dr. House Temporada 1: Resumo do Episódio 19 — Crianças https://cosmonerd.com.br/series/dr-house-temporada-1-resumo-do-episodio-19-criancas/",
+          "chars": 140
+        }
+      }
     },
     {
       "id": 1489,

@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-10-21T07:08:29-04:00",
-  "count": 83,
+  "generated_at": "2026-10-24T07:09:53-04:00",
+  "count": 84,
   "picks": [
+    {
+      "id": 102,
+      "mention_id": 1614,
+      "digest_date": "2026-10-22",
+      "person": "Scott Warren",
+      "person_id": "scott-warren",
+      "person_ids": [
+        "scott-warren"
+      ],
+      "is_ces": false,
+      "punchy_title": "Threats and Pressure Are Making It Harder to Keep the People Who Run Elections",
+      "headline": "Threats and Pressure Are Making It Harder to Keep the People Who Run Elections",
+      "pull_quote": "Harassment, violent threats, and political pressure are making it harder to retain experienced election officials and recruit their replacements, threatening overall trust in elections, according to a report coauthored by researchers at Johns Hopkins University's SNF Agora Institute.",
+      "rationale": "Harassment, violent threats, and political pressure are making it harder to retain experienced election officials and recruit their replacements, threatening overall trust in elections, according to a report coauthored by researchers at Johns Hopkins University's SNF Agora Institute.",
+      "url": "https://hub.jhu.edu/2026/10/22/civic-right-snf-agora-report/",
+      "story_url": "https://hub.jhu.edu/2026/10/22/civic-right-snf-agora-report/",
+      "created_at": "2026-10-24 11:09:46",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "New SNF Agora report from Scott Warren and R Street: harassment, threats and political pressure are making it harder to keep experienced election officials, threatening trust in elections ahead of the midterms. https://hub.jhu.edu/2026/10/22/civic-right-snf-agora-report/",
+          "chars": 271,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=New%20SNF%20Agora%20report%20from%20Scott%20Warren%20and%20R%20Street%3A%20harassment%2C%20threats%20and%20political%20pressure%20are%20making%20it%20harder%20to%20keep%20experienced%20election%20officials%2C%20threatening%20trust%20in%20elections%20ahead%20of%20the%20midterms.%20https%3A//hub.jhu.edu/2026/10/22/civic-right-snf-agora-report/"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "New report from SNF Agora's Scott Warren and R Street's Matt Germer: drawing on 500+ conservative officials in 20+ states, it finds harassment and political pressure are making it harder to keep experienced election officials. https://hub.jhu.edu/2026/10/22/civic-right-snf-agora-report/",
+          "chars": 287,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=New%20report%20from%20SNF%20Agora%27s%20Scott%20Warren%20and%20R%20Street%27s%20Matt%20Germer%3A%20drawing%20on%20500%2B%20conservative%20officials%20in%2020%2B%20states%2C%20it%20finds%20harassment%20and%20political%20pressure%20are%20making%20it%20harder%20to%20keep%20experienced%20election%20officials.%20https%3A//hub.jhu.edu/2026/10/22/civic-right-snf-agora-report/"
+        }
+      ]
+    },
     {
       "id": 101,
       "mention_id": 1520,
