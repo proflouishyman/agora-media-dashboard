@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-10-24T07:09:53-04:00",
-  "count": 84,
+  "generated_at": "2026-10-25T07:06:51-04:00",
+  "count": 85,
   "picks": [
+    {
+      "id": 103,
+      "mention_id": 1616,
+      "digest_date": "2026-10-24",
+      "person": "Yuen Yuen Ang",
+      "person_id": "yuen-yuen-ang",
+      "person_ids": [
+        "yuen-yuen-ang"
+      ],
+      "is_ces": true,
+      "punchy_title": "Yuen Yuen Ang: AI is upending the West's monopoly on ideas",
+      "headline": "Yuen Yuen Ang: AI is upending the West's monopoly on ideas",
+      "pull_quote": "Westerners \"have historically monopolised knowledge and ideational production, but AI challenges that,\" says Yuen Yuen Ang of Johns Hopkins University. \"Is it a crisis only for those who lose from disruption?\"",
+      "rationale": "Westerners \"have historically monopolised knowledge and ideational production, but AI challenges that,\" says Yuen Yuen Ang of Johns Hopkins University. \"Is it a crisis only for those who lose from disruption?\"",
+      "url": "https://www.derstandard.de/story/3000000345575/the-surprising-popularity-of-ai",
+      "story_url": "https://www.derstandard.de/story/3000000345575/the-surprising-popularity-of-ai",
+      "created_at": "2026-10-25 11:06:44",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Why is AI so popular outside the West? \"Westerners have historically monopolised knowledge and ideational production, but AI challenges that,\" says SNF Agora's Yuen Yuen Ang in The Economist. https://www.derstandard.de/story/3000000345575/the-surprising-popularity-of-ai",
+          "chars": 270,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Why%20is%20AI%20so%20popular%20outside%20the%20West%3F%20%22Westerners%20have%20historically%20monopolised%20knowledge%20and%20ideational%20production%2C%20but%20AI%20challenges%20that%2C%22%20says%20SNF%20Agora%27s%20Yuen%20Yuen%20Ang%20in%20The%20Economist.%20https%3A//www.derstandard.de/story/3000000345575/the-surprising-popularity-of-ai"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Why is AI so much more popular outside America and Europe? \"Westerners have historically monopolised knowledge and ideational production, but AI challenges that,\" says SNF Agora's Yuen Yuen Ang in The Economist. https://www.derstandard.de/story/3000000345575/the-surprising-popularity-of-ai",
+          "chars": 290,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Why%20is%20AI%20so%20much%20more%20popular%20outside%20America%20and%20Europe%3F%20%22Westerners%20have%20historically%20monopolised%20knowledge%20and%20ideational%20production%2C%20but%20AI%20challenges%20that%2C%22%20says%20SNF%20Agora%27s%20Yuen%20Yuen%20Ang%20in%20The%20Economist.%20https%3A//www.derstandard.de/story/3000000345575/the-surprising-popularity-of-ai"
+        }
+      ]
+    },
     {
       "id": 102,
       "mention_id": 1614,

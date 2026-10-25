@@ -1,7 +1,457 @@
 {
-  "generated_at": "2026-10-24T07:09:53-04:00",
-  "count": 1605,
+  "generated_at": "2026-10-25T07:06:51-04:00",
+  "count": 1623,
   "stories": [
+    {
+      "id": 1632,
+      "date": "2026-10-24",
+      "week_start": "2026-10-19",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "X reposts/quotes of a post on Agora, Pritzker, USAID and election administration, continued (no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 104,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1633,
+      "date": "2026-10-24",
+      "week_start": "2026-10-19",
+      "person_id": "scott-warren",
+      "person": "Scott Warren",
+      "is_ces": false,
+      "title": "X reposts/quotes of Natalie Winters's Civic Right post, continued (no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 28,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1627,
+      "date": "2026-10-24",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-snf-agora-institute-johns-hopkins",
+      "person": "Namesake/noise match: SNF Agora Institute, Johns Hopkins",
+      "is_ces": false,
+      "title": "Dana Wolfe",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/Dana_Wolfe",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Dana Wolfe https://en.wikipedia.org/wiki/Dana_Wolfe",
+          "chars": 34
+        },
+        "bluesky": {
+          "text": "Dana Wolfe https://en.wikipedia.org/wiki/Dana_Wolfe",
+          "chars": 51
+        }
+      }
+    },
+    {
+      "id": 1623,
+      "date": "2026-10-24",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-snf-agora-institute-hopkins",
+      "person": "Namesake/noise match: Johns Hopkins, SNF Agora Institute, Hopkins",
+      "is_ces": false,
+      "title": "Teaching AI to Novices: Experiences from Gateway Computing at JHU | AI and History Conference 2026",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=Iookfq9Y2nE",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Teaching AI to Novices: Experiences from Gateway Computing at JHU | AI and History Conference 2026 https://www.youtube.com/watch?v=Iookfq9Y2nE",
+          "chars": 122
+        },
+        "bluesky": {
+          "text": "Teaching AI to Novices: Experiences from Gateway Computing at JHU | AI and History Conference 2026 https://www.youtube.com/watch?v=Iookfq9Y2nE",
+          "chars": 142
+        }
+      }
+    },
+    {
+      "id": 1618,
+      "date": "2026-10-24",
+      "week_start": "2026-10-19",
+      "person_id": "louis-hyman",
+      "person": "Louis Hyman",
+      "is_ces": true,
+      "title": "Opening Remarks | AI and History Conference 2026",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=HHMNeiinNYA",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Opening Remarks | AI and History Conference 2026 https://www.youtube.com/watch?v=HHMNeiinNYA",
+          "chars": 72
+        },
+        "bluesky": {
+          "text": "Opening Remarks | AI and History Conference 2026 https://www.youtube.com/watch?v=HHMNeiinNYA",
+          "chars": 92
+        }
+      }
+    },
+    {
+      "id": 1616,
+      "date": "2026-10-24",
+      "week_start": "2026-10-19",
+      "person_id": "yuen-yuen-ang",
+      "person": "Yuen Yuen Ang",
+      "is_ces": true,
+      "title": "The surprising popularity of AI",
+      "has_text": true,
+      "url": "https://www.derstandard.de/story/3000000345575/the-surprising-popularity-of-ai",
+      "source": "DER STANDARD",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "The surprising popularity of AI https://www.derstandard.de/story/3000000345575/the-surprising-popularity-of-ai",
+          "chars": 55
+        },
+        "bluesky": {
+          "text": "The surprising popularity of AI https://www.derstandard.de/story/3000000345575/the-surprising-popularity-of-ai",
+          "chars": 110
+        }
+      }
+    },
+    {
+      "id": 1631,
+      "date": "2026-10-24",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Psilocybin on the market in Australia, acquire Psilocybin in Australia, obtain Psilocybin in Australia, get Psilocybin in Australia, Shop Psilocybin in Australia.",
+      "has_text": true,
+      "url": "https://mushroommyceliumforsalea283201.digiblogbox.com/67951109/psilocybin-on-the-market-in-australia-acquire-psilocybin-in-australia-obtain-psilocybin-in-australia-get-psilocybin-in-australia-shop-psilocybin-in-australia",
+      "source": "Takemyclass61594 Blog",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Psilocybin on the market in Australia, acquire Psilocybin in Australia, obtain Psilocybin in Australia, get Psilocybin in Australia, Shop Psilocybin in Australia. https://mushroommyceliumforsalea283201.digiblogbox.com/67951109/psilocybin-on-the-market-in-australia-acquire-psilocybin-in-australia-obtain-psilocybin-in-australia-get-psilocybin-in-australia-shop-psilocybin-in-australia",
+          "chars": 186
+        },
+        "bluesky": {
+          "text": "Psilocybin on the market in Australia, acquire Psilocybin in Australia, obta… https://mushroommyceliumforsalea283201.digiblogbox.com/67951109/psilocybin-on-the-market-in-australia-acquire-psilocybin-in-australia-obtain-psilocybin-in-australia-get-psilocybin-in-australia-shop-psilocybin-in-australia",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 1630,
+      "date": "2026-10-24",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "A água-viva imortal que pode inspirar tratamentos para doenças ligadas ao envelhecimento",
+      "has_text": true,
+      "url": "https://brasilsoberanoelivre.blogspot.com/2026/10/a-agua-viva-imortal-que-pode-inspirar.html",
+      "source": "Brasil Soberano e Livre",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "A água-viva imortal que pode inspirar tratamentos para doenças ligadas ao envelhecimento https://brasilsoberanoelivre.blogspot.com/2026/10/a-agua-viva-imortal-que-pode-inspirar.html",
+          "chars": 112
+        },
+        "bluesky": {
+          "text": "A água-viva imortal que pode inspirar tratamentos para doenças ligadas ao envelhecimento https://brasilsoberanoelivre.blogspot.com/2026/10/a-agua-viva-imortal-que-pode-inspirar.html",
+          "chars": 181
+        }
+      }
+    },
+    {
+      "id": 1629,
+      "date": "2026-10-24",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Greater Baltimore’s startup ecosystem grows, but founders still face hurdles",
+      "has_text": true,
+      "url": "https://www.afro.com/baltimore/greater-baltimores-startup-ecosystem-grows-but-founders-still-face-hurdles-4e184927",
+      "source": "The Afro-American Newspapers",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Greater Baltimore’s startup ecosystem grows, but founders still face hurdles https://www.afro.com/baltimore/greater-baltimores-startup-ecosystem-grows-but-founders-still-face-hurdles-4e184927",
+          "chars": 100
+        },
+        "bluesky": {
+          "text": "Greater Baltimore’s startup ecosystem grows, but founders still face hurdles https://www.afro.com/baltimore/greater-baltimores-startup-ecosystem-grows-but-founders-still-face-hurdles-4e184927",
+          "chars": 191
+        }
+      }
+    },
+    {
+      "id": 1628,
+      "date": "2026-10-24",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "10 US Universities That Take the Most Federal Money (and What They Actually Do With It)",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=WZcymdRVn7E",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "10 US Universities That Take the Most Federal Money (and What They Actually Do With It) https://www.youtube.com/watch?v=WZcymdRVn7E",
+          "chars": 111
+        },
+        "bluesky": {
+          "text": "10 US Universities That Take the Most Federal Money (and What They Actually Do With It) https://www.youtube.com/watch?v=WZcymdRVn7E",
+          "chars": 131
+        }
+      }
+    },
+    {
+      "id": 1626,
+      "date": "2026-10-24",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-snf-agora-institute",
+      "person": "Namesake/noise match: Johns Hopkins, SNF Agora Institute",
+      "is_ces": false,
+      "title": "Commission for the Second Century of Canada-US Relations met at SNF Agora (LinkedIn post)",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7519836248400748544",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Commission for the Second Century of Canada-US Relations met at SNF Agora (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:share:7519836248400748544",
+          "chars": 113
+        },
+        "bluesky": {
+          "text": "Commission for the Second Century of Canada-US Relations met at SNF Agora (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:share:7519836248400748544",
+          "chars": 159
+        }
+      }
+    },
+    {
+      "id": 1625,
+      "date": "2026-10-24",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-snf-agora-institute-academic-freedom",
+      "person": "Namesake/noise match: Johns Hopkins, SNF Agora Institute, academic freedom",
+      "is_ces": false,
+      "title": "From Ledger to Query: OCR, NER, and Machine-Mediated Search | AI and History Conference 2026",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=d1FcvfFPhso",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "From Ledger to Query: OCR, NER, and Machine-Mediated Search | AI and History Conference 2026 https://www.youtube.com/watch?v=d1FcvfFPhso",
+          "chars": 116
+        },
+        "bluesky": {
+          "text": "From Ledger to Query: OCR, NER, and Machine-Mediated Search | AI and History Conference 2026 https://www.youtube.com/watch?v=d1FcvfFPhso",
+          "chars": 136
+        }
+      }
+    },
+    {
+      "id": 1624,
+      "date": "2026-10-24",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-snf-agora-institute",
+      "person": "Namesake/noise match: Johns Hopkins, SNF Agora Institute",
+      "is_ces": false,
+      "title": "What Machines Can't Read: Unicode and Open-Ended Character Sets | AI and History Conference 2026",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=qxwXzd5-ntk",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "What Machines Can't Read: Unicode and Open-Ended Character Sets | AI and History Conference 2026 https://www.youtube.com/watch?v=qxwXzd5-ntk",
+          "chars": 120
+        },
+        "bluesky": {
+          "text": "What Machines Can't Read: Unicode and Open-Ended Character Sets | AI and History Conference 2026 https://www.youtube.com/watch?v=qxwXzd5-ntk",
+          "chars": 140
+        }
+      }
+    },
+    {
+      "id": 1622,
+      "date": "2026-10-24",
+      "week_start": "2026-10-19",
+      "person_id": "namesake-noise-match-johns-hopkins-snf-agora-institute",
+      "person": "Namesake/noise match: Johns Hopkins, SNF Agora Institute",
+      "is_ces": false,
+      "title": "Network Analysis for Historians: Mapping Connections | AI and History Conference 2026",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=ugq9xqk1XIo",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Network Analysis for Historians: Mapping Connections | AI and History Conference 2026 https://www.youtube.com/watch?v=ugq9xqk1XIo",
+          "chars": 109
+        },
+        "bluesky": {
+          "text": "Network Analysis for Historians: Mapping Connections | AI and History Conference 2026 https://www.youtube.com/watch?v=ugq9xqk1XIo",
+          "chars": 129
+        }
+      }
+    },
+    {
+      "id": 1621,
+      "date": "2026-10-24",
+      "week_start": "2026-10-19",
+      "person_id": "ben-cardin",
+      "person": "Ben Cardin",
+      "is_ces": false,
+      "title": "Michael Steele",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/Michael_Steele",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Michael Steele https://en.wikipedia.org/wiki/Michael_Steele",
+          "chars": 38
+        },
+        "bluesky": {
+          "text": "Michael Steele https://en.wikipedia.org/wiki/Michael_Steele",
+          "chars": 59
+        }
+      }
+    },
+    {
+      "id": 1620,
+      "date": "2026-10-24",
+      "week_start": "2026-10-19",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "Dimensions of division: structuring ideological polarization during Poland’s democratic backsliding",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1057/s41295-026-00496-1",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Dimensions of division: structuring ideological polarization during Poland’s democratic backsliding https://link.springer.com/article/10.1057/s41295-026-00496-1",
+          "chars": 123
+        },
+        "bluesky": {
+          "text": "Dimensions of division: structuring ideological polarization during Poland’s democratic backsliding https://link.springer.com/article/10.1057/s41295-026-00496-1",
+          "chars": 160
+        }
+      }
+    },
+    {
+      "id": 1619,
+      "date": "2026-10-24",
+      "week_start": "2026-10-19",
+      "person_id": "louis-hyman",
+      "person": "Louis Hyman",
+      "is_ces": true,
+      "title": "Closing Remarks & Next Steps | AI and History Conference 2026",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=7YmcKl9Zsn0",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Closing Remarks & Next Steps | AI and History Conference 2026 https://www.youtube.com/watch?v=7YmcKl9Zsn0",
+          "chars": 85
+        },
+        "bluesky": {
+          "text": "Closing Remarks & Next Steps | AI and History Conference 2026 https://www.youtube.com/watch?v=7YmcKl9Zsn0",
+          "chars": 105
+        }
+      }
+    },
+    {
+      "id": 1617,
+      "date": "2026-10-24",
+      "week_start": "2026-10-19",
+      "person_id": "amy-binder",
+      "person": "Amy Binder",
+      "is_ces": false,
+      "title": "The uncertain future of Erika Kirk’s Turning Point USA",
+      "has_text": true,
+      "url": "https://www.phoenixnewtimes.com/news/more-members-money-andfractures-the-uncertain-future-of-erika-kirks-turning-point-usa-40709126/",
+      "source": "Phoenix New Times",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "The uncertain future of Erika Kirk’s Turning Point USA https://www.phoenixnewtimes.com/news/more-members-money-andfractures-the-uncertain-future-of-erika-kirks-turning-point-usa-40709126/",
+          "chars": 78
+        },
+        "bluesky": {
+          "text": "The uncertain future of Erika Kirk’s Turning Point USA https://www.phoenixnewtimes.com/news/more-members-money-andfractures-the-uncertain-future-of-erika-kirks-turning-point-usa-40709126/",
+          "chars": 187
+        }
+      }
+    },
     {
       "id": 1528,
       "date": "2026-10-24",
