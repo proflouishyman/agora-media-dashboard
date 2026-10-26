@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-10-25T07:06:51-04:00",
-  "count": 85,
+  "generated_at": "2026-10-26T07:06:51-04:00",
+  "count": 86,
   "picks": [
+    {
+      "id": 104,
+      "mention_id": 1634,
+      "digest_date": "2026-10-25",
+      "person": "Scott Warren",
+      "person_id": "scott-warren",
+      "person_ids": [
+        "scott-warren"
+      ],
+      "is_ces": false,
+      "punchy_title": "Scott Warren: Gen Z isn't swinging left or right, it's getting fed up",
+      "headline": "Scott Warren: Gen Z isn't swinging left or right, it's getting fed up",
+      "pull_quote": "Younger generations \"are not necessarily becoming more conservative or progressive. They are becoming more cynical and frustrated,\" said Scott Warren, co-author of the report and a fellow at the SNF Agora Institute, in a statement.",
+      "rationale": "Younger generations \"are not necessarily becoming more conservative or progressive. They are becoming more cynical and frustrated,\" said Scott Warren, co-author of the report and a fellow at the SNF Agora Institute, in a statement.",
+      "url": "https://www.realtor.com/news/real-estate-news/gen-z-housing-affordability-midterm-election-2026/",
+      "story_url": "https://www.realtor.com/news/real-estate-news/gen-z-housing-affordability-midterm-election-2026/",
+      "created_at": "2026-10-26 11:06:47",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Gen Z \"are not necessarily becoming more conservative or progressive. They are becoming more cynical and frustrated,\" says SNF Agora's Scott Warren on housing and the midterms. https://www.realtor.com/news/real-estate-news/gen-z-housing-affordability-midterm-election-2026/",
+          "chars": 273,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Gen%20Z%20%22are%20not%20necessarily%20becoming%20more%20conservative%20or%20progressive.%20They%20are%20becoming%20more%20cynical%20and%20frustrated%2C%22%20says%20SNF%20Agora%27s%20Scott%20Warren%20on%20housing%20and%20the%20midterms.%20https%3A//www.realtor.com/news/real-estate-news/gen-z-housing-affordability-midterm-election-2026/"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Gen Z \"are not necessarily becoming more conservative or progressive. They are becoming more cynical and frustrated,\" says SNF Agora's Scott Warren on housing and the midterms. https://www.realtor.com/news/real-estate-news/gen-z-housing-affordability-midterm-election-2026/",
+          "chars": 273,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Gen%20Z%20%22are%20not%20necessarily%20becoming%20more%20conservative%20or%20progressive.%20They%20are%20becoming%20more%20cynical%20and%20frustrated%2C%22%20says%20SNF%20Agora%27s%20Scott%20Warren%20on%20housing%20and%20the%20midterms.%20https%3A//www.realtor.com/news/real-estate-news/gen-z-housing-affordability-midterm-election-2026/"
+        }
+      ]
+    },
     {
       "id": 103,
       "mention_id": 1616,
