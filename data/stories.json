@@ -1,7 +1,725 @@
 {
-  "generated_at": "2026-10-26T07:06:51-04:00",
-  "count": 1639,
+  "generated_at": "2026-10-27T07:06:38-04:00",
+  "count": 1668,
   "stories": [
+    {
+      "id": 1652,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "La polarización como síntoma de la desvinculación moral",
+      "has_text": true,
+      "url": "https://cincodias.elpais.com/opinion/2026-10-27/la-polarizacion-como-sintoma-de-la-desvinculacion-moral.html",
+      "source": "Cinco Días",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "La polarización como síntoma de la desvinculación moral https://cincodias.elpais.com/opinion/2026-10-27/la-polarizacion-como-sintoma-de-la-desvinculacion-moral.html",
+          "chars": 79
+        },
+        "bluesky": {
+          "text": "La polarización como síntoma de la desvinculación moral https://cincodias.elpais.com/opinion/2026-10-27/la-polarizacion-como-sintoma-de-la-desvinculacion-moral.html",
+          "chars": 164
+        }
+      }
+    },
+    {
+      "id": 1675,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "X post tied to Natalie Winters's posts (no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1671,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "andre-nogueira",
+      "person": "André Nogueira",
+      "is_ces": false,
+      "title": "Arquidiocese de Campo Grande: processo de beatificação do padre João Crippa",
+      "has_text": true,
+      "url": "https://www.vaticannews.va/pt/igreja/news/2026-10/arquidiocese-campo-grande-ms-abre-causa-para-processo-santo.html",
+      "source": "Vatican News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Arquidiocese de Campo Grande: processo de beatificação do padre João Crippa https://www.vaticannews.va/pt/igreja/news/2026-10/arquidiocese-campo-grande-ms-abre-causa-para-processo-santo.html",
+          "chars": 99
+        },
+        "bluesky": {
+          "text": "Arquidiocese de Campo Grande: processo de beatificação do padre João Crippa https://www.vaticannews.va/pt/igreja/news/2026-10/arquidiocese-campo-grande-ms-abre-causa-para-processo-santo.html",
+          "chars": 190
+        }
+      }
+    },
+    {
+      "id": 1658,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Tympanum and vocal apparatus structure of male and female white-lipped frog, Hylarana raniceps (Peters, 1871) (Amphibia: Anura: Ranidae) in Sarawak, Malaysian Borneo",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1186/s40850-026-00288-w",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Tympanum and vocal apparatus structure of male and female white-lipped frog, Hylarana raniceps (Peters, 1871) (Amphibia: Anura: Ranidae) in Sarawak, Malaysian Borneo https://link.springer.com/article/10.1186/s40850-026-00288-w",
+          "chars": 189
+        },
+        "bluesky": {
+          "text": "Tympanum and vocal apparatus structure of male and female white-lipped frog, Hylarana raniceps (Peters, 1871) (Amphibia: Anura: Ranidae) in Sarawak, Malaysian Borneo https://link.springer.com/article/10.1186/s40850-026-00288-w",
+          "chars": 226
+        }
+      }
+    },
+    {
+      "id": 1657,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "رانيا غازي أبو غوش - أزمة التعليم العالي في البلاد العربية",
+      "has_text": true,
+      "url": "https://www.ahewar.org/debat/show.art.asp?aid=940853",
+      "source": "الحوار المتمدن",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "رانيا غازي أبو غوش - أزمة التعليم العالي في البلاد العربية https://www.ahewar.org/debat/show.art.asp?aid=940853",
+          "chars": 82
+        },
+        "bluesky": {
+          "text": "رانيا غازي أبو غوش - أزمة التعليم العالي في البلاد العربية https://www.ahewar.org/debat/show.art.asp?aid=940853",
+          "chars": 111
+        }
+      }
+    },
+    {
+      "id": 1656,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "391: Why leaving your preschool was the healthiest decision you could make with Bryanne Adler",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=3VYa5mjTLgo",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "391: Why leaving your preschool was the healthiest decision you could make with Bryanne Adler https://www.youtube.com/watch?v=3VYa5mjTLgo",
+          "chars": 117
+        },
+        "bluesky": {
+          "text": "391: Why leaving your preschool was the healthiest decision you could make with Bryanne Adler https://www.youtube.com/watch?v=3VYa5mjTLgo",
+          "chars": 137
+        }
+      }
+    },
+    {
+      "id": 1655,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-higher-education-hopkins-university",
+      "person": "Namesake/noise match: higher education, Hopkins University",
+      "is_ces": false,
+      "title": "Clemson tops South Carolina colleges again in U.S. News rankings",
+      "has_text": true,
+      "url": "https://eu.greenvilleonline.com/story/news/education/2026/09/23/clemson-leads-south-carolina-schools-in-2027-u-s-news-rankings/91893898007/",
+      "source": "The Greenville News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Clemson tops South Carolina colleges again in U.S. News rankings https://eu.greenvilleonline.com/story/news/education/2026/09/23/clemson-leads-south-carolina-schools-in-2027-u-s-news-rankings/91893898007/",
+          "chars": 88
+        },
+        "bluesky": {
+          "text": "Clemson tops South Carolina colleges again in U.S. News rankings https://eu.greenvilleonline.com/story/news/education/2026/09/23/clemson-leads-south-carolina-schools-in-2027-u-s-news-rankings/91893898007/",
+          "chars": 204
+        }
+      }
+    },
+    {
+      "id": 1654,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "jeanne-marie-jackson",
+      "person": "Jeanne-Marie Jackson",
+      "is_ces": true,
+      "title": "Lecture: Jeanne-Marie Jackson",
+      "has_text": true,
+      "url": "https://calendar.uga.edu/event/lecture-jeanne-marie-jackson",
+      "source": "University of Georgia",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Lecture: Jeanne-Marie Jackson https://calendar.uga.edu/event/lecture-jeanne-marie-jackson",
+          "chars": 53
+        },
+        "bluesky": {
+          "text": "Lecture: Jeanne-Marie Jackson https://calendar.uga.edu/event/lecture-jeanne-marie-jackson",
+          "chars": 89
+        }
+      }
+    },
+    {
+      "id": 1674,
+      "date": "2026-10-26",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-university-endowment-johns-hopkins",
+      "person": "Namesake/noise match: University Endowment, Johns Hopkins",
+      "is_ces": false,
+      "title": "X posts of a university-endowment ranking including Johns Hopkins (no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 4,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1669,
+      "date": "2026-10-26",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, agora",
+      "is_ces": false,
+      "title": "Bully ganha remake feito na Unreal Engine 5! Veja como testar de graça",
+      "has_text": true,
+      "url": "https://jornal24horas.com.br/?p=70128",
+      "source": "Jornal 24 Horas",
+      "source_type": "online news",
+      "similar_mention_count": 4,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Bully ganha remake feito na Unreal Engine 5! Veja como testar de graça https://jornal24horas.com.br/?p=70128",
+          "chars": 94
+        },
+        "bluesky": {
+          "text": "Bully ganha remake feito na Unreal Engine 5! Veja como testar de graça https://jornal24horas.com.br/?p=70128",
+          "chars": 108
+        }
+      }
+    },
+    {
+      "id": 1673,
+      "date": "2026-10-26",
+      "week_start": "2026-10-26",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "SNF Agora Academy Postdoctoral Fellowship posts (Bluesky/X)",
+      "has_text": true,
+      "url": "https://bsky.app/profile/amahury.bsky.social/post/3mys25hhuw223",
+      "source": "Bluesky",
+      "source_type": "social network",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "SNF Agora Academy Postdoctoral Fellowship posts (Bluesky/X) https://bsky.app/profile/amahury.bsky.social/post/3mys25hhuw223",
+          "chars": 83
+        },
+        "bluesky": {
+          "text": "SNF Agora Academy Postdoctoral Fellowship posts (Bluesky/X) https://bsky.app/profile/amahury.bsky.social/post/3mys25hhuw223",
+          "chars": 123
+        }
+      }
+    },
+    {
+      "id": 1672,
+      "date": "2026-10-26",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, agora",
+      "is_ces": false,
+      "title": "A lição de Nuno Leal Maia, 79 anos, sobre fama e prosperidade: 'Nunca me iludi com o sucesso. Nunca deixei as coisas escaparem do meu controle. Quem tem que mandar em mim sou eu'",
+      "has_text": true,
+      "url": "https://www.purepeople.com.br/noticia/apos-sucesso-por-novelas-na-globo-famos-ator-nuno-leal-maia-entrega-valiosa-licao-sobre-fama-na-tv-nunca-me-iludi-quem-manda-em-mim-sou-eu_a425711/1",
+      "source": "Purepeople",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "A lição de Nuno Leal Maia, 79 anos, sobre fama e prosperidade: 'Nunca me iludi com o sucesso. Nunca deixei as coisas escaparem do meu controle. Quem tem que mandar em mim sou eu' https://www.purepeople.com.br/noticia/apos-sucesso-por-novelas-na-globo-famos-ator-nuno-leal-maia-entrega-valiosa-licao-sobre-fama-na-tv-nunca-me-iludi-quem-manda-em-mim-sou-eu_a425711/1",
+          "chars": 202
+        },
+        "bluesky": {
+          "text": "A lição de Nuno Leal Maia, 79 anos, sobre fama e prosperidade: 'Nunca me iludi com o sucesso. Nunca deixei as c… https://www.purepeople.com.br/noticia/apos-sucesso-por-novelas-na-globo-famos-ator-nuno-leal-maia-entrega-valiosa-licao-sobre-fama-na-tv-nunca-me-iludi-quem-manda-em-mim-sou-eu_a425711/1",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 1670,
+      "date": "2026-10-26",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, Higher Education",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "https://bsky.app/profile/jhueducation.bsky.social/post/3mysauvgigc2a",
+      "source": "Bluesky",
+      "source_type": "social network",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " https://bsky.app/profile/jhueducation.bsky.social/post/3mysauvgigc2a",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://bsky.app/profile/jhueducation.bsky.social/post/3mysauvgigc2a",
+          "chars": 69
+        }
+      }
+    },
+    {
+      "id": 1668,
+      "date": "2026-10-26",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "Eles saíram da OpenAI para criar a Anthropic; agora, podem virar bilionários",
+      "has_text": true,
+      "url": "https://olhardigital.com.br/2026/10/26/pro/eles-sairam-da-openai-para-criar-a-anthropic-agora-podem-virar-bilionarios/",
+      "source": "Olhar Digital",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Eles saíram da OpenAI para criar a Anthropic; agora, podem virar bilionários https://olhardigital.com.br/2026/10/26/pro/eles-sairam-da-openai-para-criar-a-anthropic-agora-podem-virar-bilionarios/",
+          "chars": 100
+        },
+        "bluesky": {
+          "text": "Eles saíram da OpenAI para criar a Anthropic; agora, podem virar bilionários https://olhardigital.com.br/2026/10/26/pro/eles-sairam-da-openai-para-criar-a-anthropic-agora-podem-virar-bilionarios/",
+          "chars": 195
+        }
+      }
+    },
+    {
+      "id": 1660,
+      "date": "2026-10-26",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "Cientistas podem ter descoberto porque a próstata dos homens aumenta com a idade",
+      "has_text": true,
+      "url": "http://atentoviseu.blogspot.com/2026/10/cientistas-podem-ter-descoberto-porque.html",
+      "source": "VISEU, World News",
+      "source_type": "blog",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Cientistas podem ter descoberto porque a próstata dos homens aumenta com a idade http://atentoviseu.blogspot.com/2026/10/cientistas-podem-ter-descoberto-porque.html",
+          "chars": 104
+        },
+        "bluesky": {
+          "text": "Cientistas podem ter descoberto porque a próstata dos homens aumenta com a idade http://atentoviseu.blogspot.com/2026/10/cientistas-podem-ter-descoberto-porque.html",
+          "chars": 164
+        }
+      }
+    },
+    {
+      "id": 1650,
+      "date": "2026-10-26",
+      "week_start": "2026-10-26",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Can Europe find a third way?",
+      "has_text": true,
+      "url": "https://www.ft.com/content/f63aab0f-0c42-4d64-ba38-e2a1dc154f66",
+      "source": "Financial Times",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Can Europe find a third way? https://www.ft.com/content/f63aab0f-0c42-4d64-ba38-e2a1dc154f66",
+          "chars": 52
+        },
+        "bluesky": {
+          "text": "Can Europe find a third way? https://www.ft.com/content/f63aab0f-0c42-4d64-ba38-e2a1dc154f66",
+          "chars": 92
+        }
+      }
+    },
+    {
+      "id": 1678,
+      "date": "2026-10-26",
+      "week_start": "2026-10-26",
+      "person_id": "ben-cardin",
+      "person": "Ben Cardin",
+      "is_ces": false,
+      "title": "Michael Steele Net Worth in 2026",
+      "has_text": true,
+      "url": "https://surprisesports.com/celebrity-profiles/michael-steele-net-worth/",
+      "source": "Surprise Sports",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Michael Steele Net Worth in 2026 https://surprisesports.com/celebrity-profiles/michael-steele-net-worth/",
+          "chars": 56
+        },
+        "bluesky": {
+          "text": "Michael Steele Net Worth in 2026 https://surprisesports.com/celebrity-profiles/michael-steele-net-worth/",
+          "chars": 104
+        }
+      }
+    },
+    {
+      "id": 1677,
+      "date": "2026-10-26",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: agora, Hopkins",
+      "is_ces": false,
+      "title": "X post on the Nuggets (no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1676,
+      "date": "2026-10-26",
+      "week_start": "2026-10-26",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "X repost of a post on Agora, Pritzker, McMullin (no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1667,
+      "date": "2026-10-26",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Experts Say Most Maryland General Assembly Contests Unlikely to Be Competitive",
+      "has_text": true,
+      "url": "https://maryland-express.com/local-news/experts-say-most-maryland-general-assembly-contests-unlikely-to-be-competitive",
+      "source": "Maryland Express",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Experts Say Most Maryland General Assembly Contests Unlikely to Be Competitive https://maryland-express.com/local-news/experts-say-most-maryland-general-assembly-contests-unlikely-to-be-competitive",
+          "chars": 102
+        },
+        "bluesky": {
+          "text": "Experts Say Most Maryland General Assembly Contests Unlikely to Be Competitive https://maryland-express.com/local-news/experts-say-most-maryland-general-assembly-contests-unlikely-to-be-competitive",
+          "chars": 197
+        }
+      }
+    },
+    {
+      "id": 1666,
+      "date": "2026-10-26",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "US OPT restrictions could affect innovation and jobs, researchers warn",
+      "has_text": true,
+      "url": "https://educationpost.in/news/global-education/north-america/us-opt-restrictions-could-affect-innovation-and-jobs-researchers-warn",
+      "source": "Home - Theeducationpost",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "US OPT restrictions could affect innovation and jobs, researchers warn https://educationpost.in/news/global-education/north-america/us-opt-restrictions-could-affect-innovation-and-jobs-researchers-warn",
+          "chars": 94
+        },
+        "bluesky": {
+          "text": "US OPT restrictions could affect innovation and jobs, researchers warn https://educationpost.in/news/global-education/north-america/us-opt-restrictions-could-affect-innovation-and-jobs-researchers-warn",
+          "chars": 201
+        }
+      }
+    },
+    {
+      "id": 1665,
+      "date": "2026-10-26",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-university-president",
+      "person": "Namesake/noise match: Johns Hopkins, University president",
+      "is_ces": false,
+      "title": "HU honors the life and legacy of Rabbi David L. Blumenfeld, Ph.D., at board of governors meeting",
+      "has_text": true,
+      "url": "https://www.jns.org/wire/americanfriendsofthehebrewuniversity/hu-honors-the-life-and-legacy-of-rabbi-david-l-blumenfeld-ph-d-at-board-of-governors-meeting",
+      "source": "Jewish News Syndicate (JNS.org)",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "HU honors the life and legacy of Rabbi David L. Blumenfeld, Ph.D., at board of governors meeting https://www.jns.org/wire/americanfriendsofthehebrewuniversity/hu-honors-the-life-and-legacy-of-rabbi-david-l-blumenfeld-ph-d-at-board-of-governors-meeting",
+          "chars": 120
+        },
+        "bluesky": {
+          "text": "HU honors the life and legacy of Rabbi David L. Blumenfeld, Ph.D., at board of governors meeting https://www.jns.org/wire/americanfriendsofthehebrewuniversity/hu-honors-the-life-and-legacy-of-rabbi-david-l-blumenfeld-ph-d-at-board-of-governors-meeting",
+          "chars": 251
+        }
+      }
+    },
+    {
+      "id": 1664,
+      "date": "2026-10-26",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, Higher Education",
+      "is_ces": false,
+      "title": "University of Geneva",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/University_of_Geneva",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "University of Geneva https://en.wikipedia.org/wiki/University_of_Geneva",
+          "chars": 44
+        },
+        "bluesky": {
+          "text": "University of Geneva https://en.wikipedia.org/wiki/University_of_Geneva",
+          "chars": 71
+        }
+      }
+    },
+    {
+      "id": 1663,
+      "date": "2026-10-26",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7520501803810050048",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " https://www.linkedin.com/feed/update/urn:li:ugcPost:7520501803810050048",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " https://www.linkedin.com/feed/update/urn:li:ugcPost:7520501803810050048",
+          "chars": 72
+        }
+      }
+    },
+    {
+      "id": 1662,
+      "date": "2026-10-26",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Meet the Fellows Exploring Public Policy at the AI Frontier",
+      "has_text": true,
+      "url": "https://www.byteseu.com/2478081/",
+      "source": "Bytes Europe",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Meet the Fellows Exploring Public Policy at the AI Frontier https://www.byteseu.com/2478081/",
+          "chars": 83
+        },
+        "bluesky": {
+          "text": "Meet the Fellows Exploring Public Policy at the AI Frontier https://www.byteseu.com/2478081/",
+          "chars": 92
+        }
+      }
+    },
+    {
+      "id": 1661,
+      "date": "2026-10-26",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Expert Explains AI’s Impact on Entry-Level Computer Science Jobs",
+      "has_text": true,
+      "url": "https://www.tomorrowsworldtoday.com/careers/expert-explains-ais-impact-on-entry-level-computer-science-jobs/",
+      "source": "TOMORROW’S WORLD TODAY",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Expert Explains AI’s Impact on Entry-Level Computer Science Jobs https://www.tomorrowsworldtoday.com/careers/expert-explains-ais-impact-on-entry-level-computer-science-jobs/",
+          "chars": 88
+        },
+        "bluesky": {
+          "text": "Expert Explains AI’s Impact on Entry-Level Computer Science Jobs https://www.tomorrowsworldtoday.com/careers/expert-explains-ais-impact-on-entry-level-computer-science-jobs/",
+          "chars": 173
+        }
+      }
+    },
+    {
+      "id": 1659,
+      "date": "2026-10-26",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: agora, Hopkins",
+      "is_ces": false,
+      "title": "\"Visões de 1996\" (Parte 2): A Geração da IMAGEM... E uma \"CRISE\" nas Mãos!",
+      "has_text": true,
+      "url": "http://submundo-hq.blogspot.com/2026/10/visoes-de-1996-parte-2-geracao-da.html",
+      "source": "Submundo HQ",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "\"Visões de 1996\" (Parte 2): A Geração da IMAGEM... E uma \"CRISE\" nas Mãos! http://submundo-hq.blogspot.com/2026/10/visoes-de-1996-parte-2-geracao-da.html",
+          "chars": 98
+        },
+        "bluesky": {
+          "text": "\"Visões de 1996\" (Parte 2): A Geração da IMAGEM... E uma \"CRISE\" nas Mãos! http://submundo-hq.blogspot.com/2026/10/visoes-de-1996-parte-2-geracao-da.html",
+          "chars": 153
+        }
+      }
+    },
+    {
+      "id": 1653,
+      "date": "2026-10-26",
+      "week_start": "2026-10-26",
+      "person_id": "scott-warren",
+      "person": "Scott Warren",
+      "is_ces": false,
+      "title": "Idaho Free Speech Summit: Can we regulate elections without regulating speech?",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=jy6osVZUoDE",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Idaho Free Speech Summit: Can we regulate elections without regulating speech? https://www.youtube.com/watch?v=jy6osVZUoDE",
+          "chars": 102
+        },
+        "bluesky": {
+          "text": "Idaho Free Speech Summit: Can we regulate elections without regulating speech? https://www.youtube.com/watch?v=jy6osVZUoDE",
+          "chars": 122
+        }
+      }
+    },
+    {
+      "id": 1651,
+      "date": "2026-10-26",
+      "week_start": "2026-10-26",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "96.3% of political donations from Johns Hopkins faculty members went to left-leaning causes",
+      "has_text": true,
+      "url": "https://www.campusreform.org/article/963-political-donations-johns-hopkins-faculty-members-went-left-leaning-causes/30867",
+      "source": "Campus Reform",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "negative",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "96.3% of political donations from Johns Hopkins faculty members went to left-leaning causes https://www.campusreform.org/article/963-political-donations-johns-hopkins-faculty-members-went-left-leaning-causes/30867",
+          "chars": 115
+        },
+        "bluesky": {
+          "text": "96.3% of political donations from Johns Hopkins faculty members went to left-leaning causes https://www.campusreform.org/article/963-political-donations-johns-hopkins-faculty-members-went-left-leaning-causes/30867",
+          "chars": 213
+        }
+      }
+    },
     {
       "id": 1641,
       "date": "2026-10-26",

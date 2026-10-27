@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-10-26T07:06:51-04:00",
-  "count": 86,
+  "generated_at": "2026-10-27T07:06:38-04:00",
+  "count": 87,
   "picks": [
+    {
+      "id": 105,
+      "mention_id": 1650,
+      "digest_date": "2026-10-26",
+      "person": "Henry Farrell",
+      "person_id": "henry-farrell",
+      "person_ids": [
+        "henry-farrell"
+      ],
+      "is_ces": true,
+      "punchy_title": "The FT's Swamp Notes: Why Rana Foroohar always reads Henry Farrell",
+      "headline": "The FT's Swamp Notes: Why Rana Foroohar always reads Henry Farrell",
+      "pull_quote": "I always read Johns Hopkins professor Henry Farrell's blog and his recommendation of this piece by Gideon Lewis-Kraus in the New Yorker about semiconductor supply chains is indeed well worth it.",
+      "rationale": "I always read Johns Hopkins professor Henry Farrell's blog and his recommendation of this piece by Gideon Lewis-Kraus in the New Yorker about semiconductor supply chains is indeed well worth it.",
+      "url": "https://www.ft.com/content/f63aab0f-0c42-4d64-ba38-e2a1dc154f66",
+      "story_url": "https://www.ft.com/content/f63aab0f-0c42-4d64-ba38-e2a1dc154f66",
+      "created_at": "2026-10-27 11:06:33",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "The FT's Rana Foroohar: \"I always read Johns Hopkins professor Henry Farrell's blog.\" Her Swamp Notes also recommends his new Foreign Affairs piece on supply chain chokepoints with Abraham Newman and Yeling Tan. https://www.ft.com/content/f63aab0f-0c42-4d64-ba38-e2a1dc154f66",
+          "chars": 275,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=The%20FT%27s%20Rana%20Foroohar%3A%20%22I%20always%20read%20Johns%20Hopkins%20professor%20Henry%20Farrell%27s%20blog.%22%20Her%20Swamp%20Notes%20also%20recommends%20his%20new%20Foreign%20Affairs%20piece%20on%20supply%20chain%20chokepoints%20with%20Abraham%20Newman%20and%20Yeling%20Tan.%20https%3A//www.ft.com/content/f63aab0f-0c42-4d64-ba38-e2a1dc154f66"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "The FT's Rana Foroohar: \"I always read Johns Hopkins professor Henry Farrell's blog.\" Her Swamp Notes also recommends his new Foreign Affairs piece on supply chain chokepoints with Abraham Newman and Yeling Tan. https://www.ft.com/content/f63aab0f-0c42-4d64-ba38-e2a1dc154f66",
+          "chars": 275,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=The%20FT%27s%20Rana%20Foroohar%3A%20%22I%20always%20read%20Johns%20Hopkins%20professor%20Henry%20Farrell%27s%20blog.%22%20Her%20Swamp%20Notes%20also%20recommends%20his%20new%20Foreign%20Affairs%20piece%20on%20supply%20chain%20chokepoints%20with%20Abraham%20Newman%20and%20Yeling%20Tan.%20https%3A//www.ft.com/content/f63aab0f-0c42-4d64-ba38-e2a1dc154f66"
+        }
+      ]
+    },
     {
       "id": 104,
       "mention_id": 1634,
