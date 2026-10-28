@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-27T07:06:38-04:00",
+  "generated_at": "2026-10-28T07:06:53-04:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-10-27"
+    "end": "2026-10-28"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 1668,
-        "in_digest": 409,
-        "reach_proxy": 10032,
-        "people_covered": 171,
+        "mentions": 1695,
+        "in_digest": 411,
+        "reach_proxy": 10137,
+        "people_covered": 173,
         "people_tracked": 100,
-        "sources": 679,
+        "sources": 687,
         "negative": 13
       },
       "deltas": {
@@ -859,9 +859,16 @@
         },
         {
           "date": "2026-10-27",
-          "count": 8,
-          "reach": 9,
-          "in_digest": 2,
+          "count": 31,
+          "reach": 110,
+          "in_digest": 4,
+          "observed": true
+        },
+        {
+          "date": "2026-10-28",
+          "count": 4,
+          "reach": 4,
+          "in_digest": 0,
           "observed": true
         }
       ],
@@ -1089,23 +1096,23 @@
         },
         {
           "week_start": "2026-10-26",
-          "count": 34,
-          "reach": 47,
-          "in_digest": 5,
-          "people": 19,
+          "count": 61,
+          "reach": 152,
+          "in_digest": 7,
+          "people": 27,
           "sentiment": {
             "positive": 2,
-            "neutral": 2,
+            "neutral": 3,
             "negative": 1,
-            "unknown": 29
+            "unknown": 55
           }
         }
       ],
       "sentiment": {
         "positive": 121,
-        "neutral": 197,
+        "neutral": 198,
         "negative": 13,
-        "unknown": 1337
+        "unknown": 1363
       },
       "top_people": [
         {
@@ -1118,8 +1125,8 @@
         {
           "person_id": "snf-agora-institute",
           "name": "SNF Agora Institute",
-          "count": 128,
-          "reach": 1330,
+          "count": 129,
+          "reach": 1331,
           "is_ces": false
         },
         {
@@ -1132,8 +1139,8 @@
         {
           "person_id": "anne-applebaum",
           "name": "Anne Applebaum",
-          "count": 84,
-          "reach": 344,
+          "count": 85,
+          "reach": 345,
           "is_ces": false
         },
         {
@@ -1182,14 +1189,14 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 280,
-          "reach": 4288,
+          "count": 282,
+          "reach": 4290,
           "is_other": false
         },
         {
           "source": "Youtube",
-          "count": 119,
-          "reach": 120,
+          "count": 121,
+          "reach": 122,
           "is_other": false
         },
         {
@@ -1206,20 +1213,20 @@
         },
         {
           "source": "N2O Records",
-          "count": 43,
-          "reach": 45,
+          "count": 46,
+          "reach": 48,
           "is_other": false
         },
         {
           "source": "Substack",
-          "count": 42,
-          "reach": 53,
+          "count": 43,
+          "reach": 54,
           "is_other": false
         },
         {
           "source": "Bluesky",
-          "count": 31,
-          "reach": 47,
+          "count": 33,
+          "reach": 49,
           "is_other": false
         },
         {
@@ -1230,19 +1237,19 @@
         },
         {
           "source": "Other",
-          "count": 1031,
-          "reach": 5357,
+          "count": 1048,
+          "reach": 5452,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 915
+          "count": 935
         },
         {
           "source_type": "social network",
-          "count": 290
+          "count": 295
         },
         {
           "source_type": "blog",
@@ -1250,7 +1257,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 387
+          "count": 389
         }
       ],
       "negative_stories": [
@@ -1286,8 +1293,8 @@
           "positive": 23,
           "neutral": 35,
           "negative": 3,
-          "unknown": 67,
-          "total": 128
+          "unknown": 68,
+          "total": 129
         },
         {
           "row_label": "unknown",
@@ -1306,8 +1313,8 @@
           "positive": 12,
           "neutral": 17,
           "negative": 5,
-          "unknown": 50,
-          "total": 84
+          "unknown": 51,
+          "total": 85
         },
         {
           "row_label": "Henry Farrell",
@@ -1370,6 +1377,16 @@
           "total": 33
         },
         {
+          "row_label": "Namesake/noise match: Johns Hopkins, higher education",
+          "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 32,
+          "total": 32
+        },
+        {
           "row_label": "None (keyword noise)",
           "person_id": "none-keyword-noise",
           "is_ces": false,
@@ -1380,6 +1397,16 @@
           "total": 32
         },
         {
+          "row_label": "Namesake/noise match: higher education, Johns Hopkins",
+          "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 31,
+          "total": 31
+        },
+        {
           "row_label": "Hahrie Han",
           "person_id": "hahrie-han",
           "is_ces": false,
@@ -1387,16 +1414,6 @@
           "neutral": 3,
           "negative": 0,
           "unknown": 14,
-          "total": 29
-        },
-        {
-          "row_label": "Namesake/noise match: Johns Hopkins, higher education",
-          "person_id": "namesake-noise-match-johns-hopkins-higher-education",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 29,
           "total": 29
         },
         {
@@ -1410,24 +1427,14 @@
           "total": 27
         },
         {
-          "row_label": "Namesake/noise match: higher education, Johns Hopkins",
-          "person_id": "namesake-noise-match-higher-education-johns-hopkins",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 25,
-          "total": 25
-        },
-        {
           "row_label": "Scott Warren",
           "person_id": "scott-warren",
           "is_ces": false,
           "positive": 5,
-          "neutral": 5,
+          "neutral": 6,
           "negative": 0,
           "unknown": 14,
-          "total": 24
+          "total": 25
         },
         {
           "row_label": "Namesake/noise match: Higher Education, Johns Hopkins",
@@ -1450,6 +1457,16 @@
           "total": 21
         },
         {
+          "row_label": "Namesake/noise match: Johns Hopkins, agora",
+          "person_id": "namesake-noise-match-johns-hopkins-agora",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 19,
+          "total": 19
+        },
+        {
           "row_label": "Peter Pomerantsev",
           "person_id": "peter-pomerantsev",
           "is_ces": false,
@@ -1458,16 +1475,6 @@
           "negative": 0,
           "unknown": 15,
           "total": 18
-        },
-        {
-          "row_label": "Namesake/noise match: Johns Hopkins, agora",
-          "person_id": "namesake-noise-match-johns-hopkins-agora",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 17,
-          "total": 17
         },
         {
           "row_label": "Namesake/noise match: Hopkins, agora",
@@ -1560,6 +1567,26 @@
           "total": 10
         },
         {
+          "row_label": "Namesake/noise match: Johns Hopkins, NIH funding",
+          "person_id": "namesake-noise-match-johns-hopkins-nih-funding",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 10,
+          "total": 10
+        },
+        {
+          "row_label": "David Park",
+          "person_id": "david-park",
+          "is_ces": false,
+          "positive": 1,
+          "neutral": 5,
+          "negative": 0,
+          "unknown": 3,
+          "total": 9
+        },
+        {
           "row_label": "Emily White",
           "person_id": "emily-white",
           "is_ces": false,
@@ -1580,16 +1607,6 @@
           "total": 9
         },
         {
-          "row_label": "Namesake/noise match: Johns Hopkins, NIH funding",
-          "person_id": "namesake-noise-match-johns-hopkins-nih-funding",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 9,
-          "total": 9
-        },
-        {
           "row_label": "(false positive)",
           "person_id": "false-positive",
           "is_ces": false,
@@ -1597,16 +1614,6 @@
           "neutral": 0,
           "negative": 0,
           "unknown": 8,
-          "total": 8
-        },
-        {
-          "row_label": "David Park",
-          "person_id": "david-park",
-          "is_ces": false,
-          "positive": 1,
-          "neutral": 5,
-          "negative": 0,
-          "unknown": 2,
           "total": 8
         },
         {
@@ -1630,14 +1637,14 @@
           "total": 8
         },
         {
-          "row_label": "Jenna Silber Storey",
-          "person_id": "jenna-storey",
+          "row_label": "Namesake/noise match: Johns Hopkins, Higher Education",
+          "person_id": "namesake-noise-match-johns-hopkins-higher-education",
           "is_ces": false,
-          "positive": 3,
-          "neutral": 1,
+          "positive": 0,
+          "neutral": 0,
           "negative": 0,
-          "unknown": 3,
-          "total": 7
+          "unknown": 8,
+          "total": 8
         },
         {
           "row_label": "Namesake/noise match: agora, Johns Hopkins",
@@ -1646,7 +1653,17 @@
           "positive": 0,
           "neutral": 0,
           "negative": 0,
-          "unknown": 7,
+          "unknown": 8,
+          "total": 8
+        },
+        {
+          "row_label": "Jenna Silber Storey",
+          "person_id": "jenna-storey",
+          "is_ces": false,
+          "positive": 3,
+          "neutral": 1,
+          "negative": 0,
+          "unknown": 3,
           "total": 7
         },
         {
@@ -1677,6 +1694,16 @@
           "neutral": 5,
           "negative": 0,
           "unknown": 1,
+          "total": 6
+        },
+        {
+          "row_label": "Namesake/noise match: Johns Hopkins, University President",
+          "person_id": "namesake-noise-match-johns-hopkins-university-president",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 6,
           "total": 6
         },
         {
@@ -1712,16 +1739,6 @@
         {
           "row_label": "Namesake/noise match: Johns Hopkins, SNF Agora Institute",
           "person_id": "namesake-noise-match-johns-hopkins-snf-agora-institute",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 5,
-          "total": 5
-        },
-        {
-          "row_label": "Namesake/noise match: Johns Hopkins, University President",
-          "person_id": "namesake-noise-match-johns-hopkins-university-president",
           "is_ces": false,
           "positive": 0,
           "neutral": 0,
@@ -1872,16 +1889,6 @@
         {
           "row_label": "Namesake/noise match: Higher Education, Johns Hopkins, higher education",
           "person_id": "namesake-noise-match-higher-education-johns-hopkins-higher-education",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 3,
-          "total": 3
-        },
-        {
-          "row_label": "Namesake/noise match: Johns Hopkins, Higher Education",
-          "person_id": "namesake-noise-match-johns-hopkins-higher-education",
           "is_ces": false,
           "positive": 0,
           "neutral": 0,
@@ -2090,6 +2097,16 @@
           "total": 2
         },
         {
+          "row_label": "Namesake/noise match: Johns Hopkins, Faculty Senate",
+          "person_id": "namesake-noise-match-johns-hopkins-faculty-senate",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 2,
+          "total": 2
+        },
+        {
           "row_label": "Namesake/noise match: Johns Hopkins, federal research funding",
           "person_id": "namesake-noise-match-johns-hopkins-federal-research-funding",
           "is_ces": false,
@@ -2122,6 +2139,16 @@
         {
           "row_label": "Namesake/noise match: higher education, Hopkins University",
           "person_id": "namesake-noise-match-higher-education-hopkins-university",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 2,
+          "total": 2
+        },
+        {
+          "row_label": "Namesake/noise match: university president, Johns Hopkins",
+          "person_id": "namesake-noise-match-university-president-johns-hopkins",
           "is_ces": false,
           "positive": 0,
           "neutral": 0,
@@ -2700,16 +2727,6 @@
           "total": 1
         },
         {
-          "row_label": "Namesake/noise match: Johns Hopkins, Faculty Senate",
-          "person_id": "namesake-noise-match-johns-hopkins-faculty-senate",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 1,
-          "total": 1
-        },
-        {
           "row_label": "Namesake/noise match: Johns Hopkins, Higher Education, higher education",
           "person_id": "namesake-noise-match-johns-hopkins-higher-education-higher-education",
           "is_ces": false,
@@ -2822,6 +2839,16 @@
         {
           "row_label": "Namesake/noise match: academic freedom, Academic freedom, Academic Freedom, Faculty Senate, higher education, Higher Education, Higher education, Johns Hopkins, viewpoint diversity",
           "person_id": "namesake-noise-match-academic-freedom-academic-freedom-academic-freedom-faculty-senate-higher-education-higher-education-higher-education-johns-hopkins-viewpoint-diversity",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Namesake/noise match: academic freedom, higher education",
+          "person_id": "namesake-noise-match-academic-freedom-higher-education",
           "is_ces": false,
           "positive": 0,
           "neutral": 0,
@@ -2986,16 +3013,16 @@
           "positive": 41,
           "neutral": 121,
           "negative": 4,
-          "unknown": 749,
-          "total": 915
+          "unknown": 769,
+          "total": 935
         },
         {
           "row_label": "social network",
           "positive": 48,
-          "neutral": 55,
+          "neutral": 56,
           "negative": 1,
-          "unknown": 186,
-          "total": 290
+          "unknown": 190,
+          "total": 295
         },
         {
           "row_label": "blog",
@@ -3010,8 +3037,8 @@
           "positive": 23,
           "neutral": 12,
           "negative": 8,
-          "unknown": 344,
-          "total": 387
+          "unknown": 346,
+          "total": 389
         }
       ],
       "sentiment_examples": {
@@ -5306,6 +5333,13 @@
           "count": 1,
           "reach": 1,
           "in_digest": 1,
+          "observed": true
+        },
+        {
+          "date": "2026-10-28",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
           "observed": true
         }
       ],

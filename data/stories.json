@@ -1,7 +1,163 @@
 {
-  "generated_at": "2026-10-27T07:06:38-04:00",
-  "count": 1668,
+  "generated_at": "2026-10-28T07:06:53-04:00",
+  "count": 1695,
   "stories": [
+    {
+      "id": 1682,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-agora-johns-hopkins",
+      "person": "Namesake/noise match: agora, Johns Hopkins",
+      "is_ces": false,
+      "title": "‘Fazenda precisa de alguém capaz de dar um choque de expectativas’, diz economista",
+      "has_text": true,
+      "url": "https://oglobo.globo.com/economia/noticia/2026/10/28/fazenda-precisa-de-alguem-capaz-de-dar-um-choque-de-expectativas-diz-economista.ghtml",
+      "source": "O Globo",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "‘Fazenda precisa de alguém capaz de dar um choque de expectativas’, diz economista https://oglobo.globo.com/economia/noticia/2026/10/28/fazenda-precisa-de-alguem-capaz-de-dar-um-choque-de-expectativas-diz-economista.ghtml",
+          "chars": 106
+        },
+        "bluesky": {
+          "text": "‘Fazenda precisa de alguém capaz de dar um choque de expectativas’, diz economista https://oglobo.globo.com/economia/noticia/2026/10/28/fazenda-precisa-de-alguem-capaz-de-dar-um-choque-de-expectativas-diz-economista.ghtml",
+          "chars": 221
+        }
+      }
+    },
+    {
+      "id": 1681,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Top Research Universities Spent Less on Lobbying Congress in Q3",
+      "has_text": true,
+      "url": "https://www.insidehighered.com/news/government/politics-elections/2026/10/28/research-universities-spend-less-q3-lobbying-congress",
+      "source": "Inside Higher Ed",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Top Research Universities Spent Less on Lobbying Congress in Q3 https://www.insidehighered.com/news/government/politics-elections/2026/10/28/research-universities-spend-less-q3-lobbying-congress",
+          "chars": 87
+        },
+        "bluesky": {
+          "text": "Top Research Universities Spent Less on Lobbying Congress in Q3 https://www.insidehighered.com/news/government/politics-elections/2026/10/28/research-universities-spend-less-q3-lobbying-congress",
+          "chars": 194
+        }
+      }
+    },
+    {
+      "id": 1680,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Goucher College",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/Goucher_College",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Goucher College https://en.wikipedia.org/wiki/Goucher_College",
+          "chars": 39
+        },
+        "bluesky": {
+          "text": "Goucher College https://en.wikipedia.org/wiki/Goucher_College",
+          "chars": 61
+        }
+      }
+    },
+    {
+      "id": 1679,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Women's education in the United States",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/Women's_education_in_the_United_States",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Women's education in the United States https://en.wikipedia.org/wiki/Women's_education_in_the_United_States",
+          "chars": 62
+        },
+        "bluesky": {
+          "text": "Women's education in the United States https://en.wikipedia.org/wiki/Women's_education_in_the_United_States",
+          "chars": 107
+        }
+      }
+    },
+    {
+      "id": 1699,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-academic-freedom-higher-education",
+      "person": "Namesake/noise match: academic freedom, higher education",
+      "is_ces": false,
+      "title": "Top Scholars From 30 Countries Convene in Washington DC to Discuss the Future of Mideast Studies and Higher Education",
+      "has_text": true,
+      "url": "https://www.americanchamber.net/headlines?rkey=20261027PH81406&filter=27594",
+      "source": "American Chamber of eCommerce",
+      "source_type": "online news",
+      "similar_mention_count": 62,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Top Scholars From 30 Countries Convene in Washington DC to Discuss the Future of Mideast Studies and Higher Education https://www.americanchamber.net/headlines?rkey=20261027PH81406&filter=27594",
+          "chars": 141
+        },
+        "bluesky": {
+          "text": "Top Scholars From 30 Countries Convene in Washington DC to Discuss the Future of Mideast Studies and Higher Education https://www.americanchamber.net/headlines?rkey=20261027PH81406&filter=27594",
+          "chars": 193
+        }
+      }
+    },
+    {
+      "id": 1701,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "FSU Football Plans Special Tribute To Seminole Legend During Clemson Game",
+      "has_text": true,
+      "url": "https://www.heraldonline.com/sports/college/article317795521.html",
+      "source": "The Rock Hill Herald",
+      "source_type": "online news",
+      "similar_mention_count": 18,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "FSU Football Plans Special Tribute To Seminole Legend During Clemson Game https://www.heraldonline.com/sports/college/article317795521.html",
+          "chars": 97
+        },
+        "bluesky": {
+          "text": "FSU Football Plans Special Tribute To Seminole Legend During Clemson Game https://www.heraldonline.com/sports/college/article317795521.html",
+          "chars": 139
+        }
+      }
+    },
     {
       "id": 1652,
       "date": "2026-10-27",
@@ -25,6 +181,534 @@
         "bluesky": {
           "text": "La polarización como síntoma de la desvinculación moral https://cincodias.elpais.com/opinion/2026-10-27/la-polarizacion-como-sintoma-de-la-desvinculacion-moral.html",
           "chars": 164
+        }
+      }
+    },
+    {
+      "id": 1705,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-nih-funding",
+      "person": "Namesake/noise match: Johns Hopkins, NIH funding",
+      "is_ces": false,
+      "title": "Twitter post (no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1704,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-faculty-senate",
+      "person": "Namesake/noise match: Johns Hopkins, Faculty Senate",
+      "is_ces": false,
+      "title": "Ellen Kennedy, Political Science",
+      "has_text": true,
+      "url": "https://almanac.upenn.edu/articles/ellen-kennedy-political-science",
+      "source": "The University of Pennsylvania Almanac",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Ellen Kennedy, Political Science https://almanac.upenn.edu/articles/ellen-kennedy-political-science",
+          "chars": 56
+        },
+        "bluesky": {
+          "text": "Ellen Kennedy, Political Science https://almanac.upenn.edu/articles/ellen-kennedy-political-science",
+          "chars": 99
+        }
+      }
+    },
+    {
+      "id": 1703,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "Uma lua gelada de Urano pode ter escondido um oceano de 170 km de profundidade, 40 vezes mais fundo que o Pacífico",
+      "has_text": true,
+      "url": "https://revistaamazonia.com.br/ariel-lua-urano-oceano-170-km-profundidade/",
+      "source": "Revista Amazônia",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Uma lua gelada de Urano pode ter escondido um oceano de 170 km de profundidade, 40 vezes mais fundo que o Pacífico https://revistaamazonia.com.br/ariel-lua-urano-oceano-170-km-profundidade/",
+          "chars": 138
+        },
+        "bluesky": {
+          "text": "Uma lua gelada de Urano pode ter escondido um oceano de 170 km de profundidade, 40 vezes mais fundo que o Pacífico https://revistaamazonia.com.br/ariel-lua-urano-oceano-170-km-profundidade/",
+          "chars": 189
+        }
+      }
+    },
+    {
+      "id": 1702,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "The Survey, Volume 30, Number 3, Apr 19, 1913 by Various",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=I25lahf3t1E",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Survey, Volume 30, Number 3, Apr 19, 1913 by Various https://www.youtube.com/watch?v=I25lahf3t1E",
+          "chars": 80
+        },
+        "bluesky": {
+          "text": "The Survey, Volume 30, Number 3, Apr 19, 1913 by Various https://www.youtube.com/watch?v=I25lahf3t1E",
+          "chars": 100
+        }
+      }
+    },
+    {
+      "id": 1700,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "THE SHADOW STATE DEPARTMENT",
+      "has_text": true,
+      "url": "https://roberteringer.substack.com/p/the-shadow-state-department",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "THE SHADOW STATE DEPARTMENT https://roberteringer.substack.com/p/the-shadow-state-department",
+          "chars": 51
+        },
+        "bluesky": {
+          "text": "THE SHADOW STATE DEPARTMENT https://roberteringer.substack.com/p/the-shadow-state-department",
+          "chars": 92
+        }
+      }
+    },
+    {
+      "id": 1698,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "SNF Agora Academy Postdoctoral Fellowship post (Bluesky)",
+      "has_text": true,
+      "url": "https://bsky.app/profile/complexity-core.bsky.social/post/3myuiktzgjc2r",
+      "source": "Bluesky",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "SNF Agora Academy Postdoctoral Fellowship post (Bluesky) https://bsky.app/profile/complexity-core.bsky.social/post/3myuiktzgjc2r",
+          "chars": 80
+        },
+        "bluesky": {
+          "text": "SNF Agora Academy Postdoctoral Fellowship post (Bluesky) https://bsky.app/profile/complexity-core.bsky.social/post/3myuiktzgjc2r",
+          "chars": 128
+        }
+      }
+    },
+    {
+      "id": 1697,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, Higher Education",
+      "is_ces": false,
+      "title": "Johns Hopkins School of Nursing Installs Yvonne Commodore-Mensah as M. Adelaide Nutting Endowed Chair",
+      "has_text": true,
+      "url": "https://www.newswise.com/articles/johns-hopkins-school-of-nursing-installs-yvonne-commodore-mensah-as-m-adelaide-nutting-endowed-chair/",
+      "source": "Newswise",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Johns Hopkins School of Nursing Installs Yvonne Commodore-Mensah as M. Adelaide Nutting Endowed Chair https://www.newswise.com/articles/johns-hopkins-school-of-nursing-installs-yvonne-commodore-mensah-as-m-adelaide-nutting-endowed-chair/",
+          "chars": 125
+        },
+        "bluesky": {
+          "text": "Johns Hopkins School of Nursing Installs Yvonne Commodore-Mensah as M. Adelaide Nutting Endowed Chair https://www.newswise.com/articles/johns-hopkins-school-of-nursing-installs-yvonne-commodore-mensah-as-m-adelaide-nutting-endowed-chair/",
+          "chars": 237
+        }
+      }
+    },
+    {
+      "id": 1696,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "White House Appoints 2026-2027 Class of White House Fellows",
+      "has_text": true,
+      "url": "https://www.haitiscienceandme.com/article/952163530-white-house-appoints-2026-2027-class-of-white-house-fellows",
+      "source": "Haiti, Science, & Me",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "White House Appoints 2026-2027 Class of White House Fellows https://www.haitiscienceandme.com/article/952163530-white-house-appoints-2026-2027-class-of-white-house-fellows",
+          "chars": 83
+        },
+        "bluesky": {
+          "text": "White House Appoints 2026-2027 Class of White House Fellows https://www.haitiscienceandme.com/article/952163530-white-house-appoints-2026-2027-class-of-white-house-fellows",
+          "chars": 171
+        }
+      }
+    },
+    {
+      "id": 1695,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, Higher Education",
+      "is_ces": false,
+      "title": "Johns Hopkins School of Nursing Launches BRAVE Center and Inaugural Jacquelyn Campbell Lecture",
+      "has_text": true,
+      "url": "https://www.newswise.com/articles/johns-hopkins-school-of-nursing-launches-brave-center-and-inaugural-jacquelyn-campbell-lecture",
+      "source": "Newswise",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Johns Hopkins School of Nursing Launches BRAVE Center and Inaugural Jacquelyn Campbell Lecture https://www.newswise.com/articles/johns-hopkins-school-of-nursing-launches-brave-center-and-inaugural-jacquelyn-campbell-lecture",
+          "chars": 118
+        },
+        "bluesky": {
+          "text": "Johns Hopkins School of Nursing Launches BRAVE Center and Inaugural Jacquelyn Campbell Lecture https://www.newswise.com/articles/johns-hopkins-school-of-nursing-launches-brave-center-and-inaugural-jacquelyn-campbell-lecture",
+          "chars": 223
+        }
+      }
+    },
+    {
+      "id": 1694,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, Higher Education",
+      "is_ces": false,
+      "title": "Nine Hopkins Nurses Named Fellows; One a Living Legend of the American Academy of Nursing",
+      "has_text": true,
+      "url": "https://www.newswise.com/articles/nine-hopkins-nurses-named-fellows-one-a-living-legend-of-the-american-academy-of-nursing/",
+      "source": "Newswise",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Nine Hopkins Nurses Named Fellows; One a Living Legend of the American Academy of Nursing https://www.newswise.com/articles/nine-hopkins-nurses-named-fellows-one-a-living-legend-of-the-american-academy-of-nursing/",
+          "chars": 113
+        },
+        "bluesky": {
+          "text": "Nine Hopkins Nurses Named Fellows; One a Living Legend of the American Academy of Nursing https://www.newswise.com/articles/nine-hopkins-nurses-named-fellows-one-a-living-legend-of-the-american-academy-of-nursing/",
+          "chars": 213
+        }
+      }
+    },
+    {
+      "id": 1693,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, Higher Education",
+      "is_ces": false,
+      "title": "Johns Hopkins School of Nursing Earns National Recognition for Inclusive Excellence and Support for Men in Nursing",
+      "has_text": true,
+      "url": "https://www.newswise.com/articles/johns-hopkins-school-of-nursing-earns-national-recognition-for-inclusive-excellence-and-support-for-men-in-nursing/",
+      "source": "Newswise",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Johns Hopkins School of Nursing Earns National Recognition for Inclusive Excellence and Support for Men in Nursing https://www.newswise.com/articles/johns-hopkins-school-of-nursing-earns-national-recognition-for-inclusive-excellence-and-support-for-men-in-nursing/",
+          "chars": 138
+        },
+        "bluesky": {
+          "text": "Johns Hopkins School of Nursing Earns National Recognition for Inclusive Excellence and Support for Men in Nursing https://www.newswise.com/articles/johns-hopkins-school-of-nursing-earns-national-recognition-for-inclusive-excellence-and-support-for-men-in-nursing/",
+          "chars": 264
+        }
+      }
+    },
+    {
+      "id": 1692,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, Higher Education",
+      "is_ces": false,
+      "title": "护理行业为何需要更多元的视角？从一所顶尖护理学院的实践看起 ｜#科学资讯# #医学# #护理教育#",
+      "has_text": true,
+      "url": "https://www.sohu.com/a/1093556969_122154728",
+      "source": "搜狐新闻",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "护理行业为何需要更多元的视角？从一所顶尖护理学院的实践看起 ｜#科学资讯# #医学# #护理教育# https://www.sohu.com/a/1093556969_122154728",
+          "chars": 73
+        },
+        "bluesky": {
+          "text": "护理行业为何需要更多元的视角？从一所顶尖护理学院的实践看起 ｜#科学资讯# #医学# #护理教育# https://www.sohu.com/a/1093556969_122154728",
+          "chars": 93
+        }
+      }
+    },
+    {
+      "id": 1691,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-university-president",
+      "person": "Namesake/noise match: Johns Hopkins, University President",
+      "is_ces": false,
+      "title": "SNF Agora Academy Postdoctoral Fellowship post (Bluesky)",
+      "has_text": true,
+      "url": "https://bsky.app/profile/aau.edu/post/3myumsq6tms2n",
+      "source": "Bluesky",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "SNF Agora Academy Postdoctoral Fellowship post (Bluesky) https://bsky.app/profile/aau.edu/post/3myumsq6tms2n",
+          "chars": 80
+        },
+        "bluesky": {
+          "text": "SNF Agora Academy Postdoctoral Fellowship post (Bluesky) https://bsky.app/profile/aau.edu/post/3myumsq6tms2n",
+          "chars": 108
+        }
+      }
+    },
+    {
+      "id": 1690,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-university-president-johns-hopkins",
+      "person": "Namesake/noise match: university president, Johns Hopkins",
+      "is_ces": false,
+      "title": "Twitter post (no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1689,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "COVID-19 pandemic in Sweden: Difference between revisions",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/w/index.php?title=COVID-19_pandemic_in_Sweden&curid=63239190&diff=1382271702&oldid=1376825126",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "COVID-19 pandemic in Sweden: Difference between revisions https://en.wikipedia.org/w/index.php?title=COVID-19_pandemic_in_Sweden&curid=63239190&diff=1382271702&oldid=1376825126",
+          "chars": 81
+        },
+        "bluesky": {
+          "text": "COVID-19 pandemic in Sweden: Difference between revisions https://en.wikipedia.org/w/index.php?title=COVID-19_pandemic_in_Sweden&curid=63239190&diff=1382271702&oldid=1376825126",
+          "chars": 176
+        }
+      }
+    },
+    {
+      "id": 1688,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Most childhood physical abuse perpetrated within the home, new study finds",
+      "has_text": true,
+      "url": "https://medicalxpress.com/news/2026-10-childhood-physical-abuse-perpetrated-home.html",
+      "source": "Medical Xpress",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Most childhood physical abuse perpetrated within the home, new study finds https://medicalxpress.com/news/2026-10-childhood-physical-abuse-perpetrated-home.html",
+          "chars": 98
+        },
+        "bluesky": {
+          "text": "Most childhood physical abuse perpetrated within the home, new study finds https://medicalxpress.com/news/2026-10-childhood-physical-abuse-perpetrated-home.html",
+          "chars": 160
+        }
+      }
+    },
+    {
+      "id": 1687,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "scott-warren",
+      "person": "Scott Warren",
+      "is_ces": false,
+      "title": "Midterms: The state of collective leadership",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=bDgyTSq5fAE",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Midterms: The state of collective leadership https://www.youtube.com/watch?v=bDgyTSq5fAE",
+          "chars": 68
+        },
+        "bluesky": {
+          "text": "Midterms: The state of collective leadership https://www.youtube.com/watch?v=bDgyTSq5fAE",
+          "chars": 88
+        }
+      }
+    },
+    {
+      "id": 1686,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Baltimore has a new national landmark: Remsen Hall at Johns Hopkins University",
+      "has_text": true,
+      "url": "https://baltimorefishbowl.com/stories/baltimore-has-a-new-national-landmark-remsen-hall-at-johns-hopkins-university/",
+      "source": "Baltimore Fishbowl",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Baltimore has a new national landmark: Remsen Hall at Johns Hopkins University https://baltimorefishbowl.com/stories/baltimore-has-a-new-national-landmark-remsen-hall-at-johns-hopkins-university/",
+          "chars": 102
+        },
+        "bluesky": {
+          "text": "Baltimore has a new national landmark: Remsen Hall at Johns Hopkins University https://baltimorefishbowl.com/stories/baltimore-has-a-new-national-landmark-remsen-hall-at-johns-hopkins-university/",
+          "chars": 195
+        }
+      }
+    },
+    {
+      "id": 1685,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-university-president-johns-hopkins",
+      "person": "Namesake/noise match: university president, Johns Hopkins",
+      "is_ces": false,
+      "title": "reddit.com/r/CFB post (no text captured)",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/CFB/comments/1xgy5y6/comment/19rr0iopa3yx0/",
+      "source": "reddit.com/r/CFB",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "reddit.com/r/CFB post (no text captured) https://www.reddit.com/r/CFB/comments/1xgy5y6/comment/19rr0iopa3yx0/",
+          "chars": 64
+        },
+        "bluesky": {
+          "text": "reddit.com/r/CFB post (no text captured) https://www.reddit.com/r/CFB/comments/1xgy5y6/comment/19rr0iopa3yx0/",
+          "chars": 109
+        }
+      }
+    },
+    {
+      "id": 1684,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "david-park",
+      "person": "David Park",
+      "is_ces": false,
+      "title": "Dr. John Logan remembered as a community builder",
+      "has_text": true,
+      "url": "https://the-hendersonian.com/dr-john-logan-remembered-as-a-community-builder/",
+      "source": "The Hendersonian",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Dr. John Logan remembered as a community builder https://the-hendersonian.com/dr-john-logan-remembered-as-a-community-builder/",
+          "chars": 72
+        },
+        "bluesky": {
+          "text": "Dr. John Logan remembered as a community builder https://the-hendersonian.com/dr-john-logan-remembered-as-a-community-builder/",
+          "chars": 126
+        }
+      }
+    },
+    {
+      "id": 1683,
+      "date": "2026-10-27",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Bangladesh International Tutorial builds on four decades of educational excellence",
+      "has_text": true,
+      "url": "https://www.tbsnews.net/supplement/bangladesh-international-tutorial-builds-four-decades-educational-excellence-1585186",
+      "source": "The Business Standard",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Bangladesh International Tutorial builds on four decades of educational excellence https://www.tbsnews.net/supplement/bangladesh-international-tutorial-builds-four-decades-educational-excellence-1585186",
+          "chars": 106
+        },
+        "bluesky": {
+          "text": "Bangladesh International Tutorial builds on four decades of educational excellence https://www.tbsnews.net/supplement/bangladesh-international-tutorial-builds-four-decades-educational-excellence-1585186",
+          "chars": 202
         }
       }
     },
