@@ -1,7 +1,741 @@
 {
-  "generated_at": "2026-10-28T07:06:53-04:00",
-  "count": 1695,
+  "generated_at": "2026-10-29T07:07:38-04:00",
+  "count": 1726,
   "stories": [
+    {
+      "id": 1726,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "JPL in limbo, Trump hovering: Caltech’s alien-life-seeking chief takes over at a volatile time",
+      "has_text": true,
+      "url": "https://www.latimes.com/california/story/2026-10-29/caltech-president-ray-jayawardhana-trump-nasa-jpl-ai",
+      "source": "Los Angeles Times",
+      "source_type": "online news",
+      "similar_mention_count": 4,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "JPL in limbo, Trump hovering: Caltech’s alien-life-seeking chief takes over at a volatile time https://www.latimes.com/california/story/2026-10-29/caltech-president-ray-jayawardhana-trump-nasa-jpl-ai",
+          "chars": 118
+        },
+        "bluesky": {
+          "text": "JPL in limbo, Trump hovering: Caltech’s alien-life-seeking chief takes over at a volatile time https://www.latimes.com/california/story/2026-10-29/caltech-president-ray-jayawardhana-trump-nasa-jpl-ai",
+          "chars": 199
+        }
+      }
+    },
+    {
+      "id": 1729,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, Agora",
+      "is_ces": false,
+      "title": "🌱 Patch AM: Why Belleville officials are moving to block AI data centers",
+      "has_text": true,
+      "url": "https://patch.com/new-jersey/belleville/patch-am-why-belleville-officials-are-moving-block-ai-data-cen-nodx-20261029",
+      "source": "Patch.com - West Chester, PA",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "🌱 Patch AM: Why Belleville officials are moving to block AI data centers https://patch.com/new-jersey/belleville/patch-am-why-belleville-officials-are-moving-block-ai-data-cen-nodx-20261029",
+          "chars": 96
+        },
+        "bluesky": {
+          "text": "🌱 Patch AM: Why Belleville officials are moving to block AI data centers https://patch.com/new-jersey/belleville/patch-am-why-belleville-officials-are-moving-block-ai-data-cen-nodx-20261029",
+          "chars": 189
+        }
+      }
+    },
+    {
+      "id": 1718,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "Twitter post (no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1717,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "Twitter post (no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1710,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "yuen-yuen-ang",
+      "person": "Yuen Yuen Ang",
+      "is_ces": true,
+      "title": "China’s Belt and Road hasn’t lived up to Xi’s promise",
+      "has_text": true,
+      "url": "https://asiatimes.com/2026/10/chinas-belt-and-road-hasnt-lived-up-to-xis-promise/",
+      "source": "Asia Times",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "China’s Belt and Road hasn’t lived up to Xi’s promise https://asiatimes.com/2026/10/chinas-belt-and-road-hasnt-lived-up-to-xis-promise/",
+          "chars": 77
+        },
+        "bluesky": {
+          "text": "China’s Belt and Road hasn’t lived up to Xi’s promise https://asiatimes.com/2026/10/chinas-belt-and-road-hasnt-lived-up-to-xis-promise/",
+          "chars": 135
+        }
+      }
+    },
+    {
+      "id": 1727,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Cognitive Surrender vs. AI Literacy: Higher-Ed Experts Debate AI",
+      "has_text": true,
+      "url": "https://www.govtech.com/education/higher-ed/cognitive-surrender-vs-ai-literacy-higher-ed-experts-debate-ai",
+      "source": "Government Technology",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Cognitive Surrender vs. AI Literacy: Higher-Ed Experts Debate AI https://www.govtech.com/education/higher-ed/cognitive-surrender-vs-ai-literacy-higher-ed-experts-debate-ai",
+          "chars": 88
+        },
+        "bluesky": {
+          "text": "Cognitive Surrender vs. AI Literacy: Higher-Ed Experts Debate AI https://www.govtech.com/education/higher-ed/cognitive-surrender-vs-ai-literacy-higher-ed-experts-debate-ai",
+          "chars": 171
+        }
+      }
+    },
+    {
+      "id": 1709,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "scott-warren",
+      "person": "Scott Warren",
+      "is_ces": false,
+      "title": "Ben Cardin and John Sarbanes Join SNF Agora for a Nov. 5 Discussion",
+      "has_text": true,
+      "url": "https://baltimorefishbowl.com/stories/ben-cardin-and-john-sarbanes-join-snf-agora-for-a-nov-5-discussion/",
+      "source": "Baltimore Fishbowl",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Ben Cardin and John Sarbanes Join SNF Agora for a Nov. 5 Discussion https://baltimorefishbowl.com/stories/ben-cardin-and-john-sarbanes-join-snf-agora-for-a-nov-5-discussion/",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "Ben Cardin and John Sarbanes Join SNF Agora for a Nov. 5 Discussion https://baltimorefishbowl.com/stories/ben-cardin-and-john-sarbanes-join-snf-agora-for-a-nov-5-discussion/",
+          "chars": 173
+        }
+      }
+    },
+    {
+      "id": 1708,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "Ben Cardin and John Sarbanes Join SNF Agora for a Nov. 5 Discussion",
+      "has_text": true,
+      "url": "https://baltimorefishbowl.com/stories/ben-cardin-and-john-sarbanes-join-snf-agora-for-a-nov-5-discussion/",
+      "source": "Baltimore Fishbowl",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Ben Cardin and John Sarbanes Join SNF Agora for a Nov. 5 Discussion https://baltimorefishbowl.com/stories/ben-cardin-and-john-sarbanes-join-snf-agora-for-a-nov-5-discussion/",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "Ben Cardin and John Sarbanes Join SNF Agora for a Nov. 5 Discussion https://baltimorefishbowl.com/stories/ben-cardin-and-john-sarbanes-join-snf-agora-for-a-nov-5-discussion/",
+          "chars": 173
+        }
+      }
+    },
+    {
+      "id": 1707,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "john-sarbanes",
+      "person": "John Sarbanes",
+      "is_ces": false,
+      "title": "Ben Cardin and John Sarbanes Join SNF Agora for a Nov. 5 Discussion",
+      "has_text": true,
+      "url": "https://baltimorefishbowl.com/stories/ben-cardin-and-john-sarbanes-join-snf-agora-for-a-nov-5-discussion/",
+      "source": "Baltimore Fishbowl",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Ben Cardin and John Sarbanes Join SNF Agora for a Nov. 5 Discussion https://baltimorefishbowl.com/stories/ben-cardin-and-john-sarbanes-join-snf-agora-for-a-nov-5-discussion/",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "Ben Cardin and John Sarbanes Join SNF Agora for a Nov. 5 Discussion https://baltimorefishbowl.com/stories/ben-cardin-and-john-sarbanes-join-snf-agora-for-a-nov-5-discussion/",
+          "chars": 173
+        }
+      }
+    },
+    {
+      "id": 1706,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "ben-cardin",
+      "person": "Ben Cardin",
+      "is_ces": false,
+      "title": "Ben Cardin and John Sarbanes Join SNF Agora for a Nov. 5 Discussion",
+      "has_text": true,
+      "url": "https://baltimorefishbowl.com/stories/ben-cardin-and-john-sarbanes-join-snf-agora-for-a-nov-5-discussion/",
+      "source": "Baltimore Fishbowl",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Ben Cardin and John Sarbanes Join SNF Agora for a Nov. 5 Discussion https://baltimorefishbowl.com/stories/ben-cardin-and-john-sarbanes-join-snf-agora-for-a-nov-5-discussion/",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "Ben Cardin and John Sarbanes Join SNF Agora for a Nov. 5 Discussion https://baltimorefishbowl.com/stories/ben-cardin-and-john-sarbanes-join-snf-agora-for-a-nov-5-discussion/",
+          "chars": 173
+        }
+      }
+    },
+    {
+      "id": 1736,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, Agora",
+      "is_ces": false,
+      "title": "Sessão de Cinema de quinta-feira tem 'U2, uma Jornada Inesquecível' e 'Goodbye América'",
+      "has_text": true,
+      "url": "https://sba1.com/noticias/noticia/82817/Sessao-de-Cinema-de-quinta-feira-tem-U2-uma-Jornada-Inesquecivel-e-Goodbye-America-",
+      "source": "Sistema Brasileiro do Agronegócio",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Sessão de Cinema de quinta-feira tem 'U2, uma Jornada Inesquecível' e 'Goodbye América' https://sba1.com/noticias/noticia/82817/Sessao-de-Cinema-de-quinta-feira-tem-U2-uma-Jornada-Inesquecivel-e-Goodbye-America-",
+          "chars": 111
+        },
+        "bluesky": {
+          "text": "Sessão de Cinema de quinta-feira tem 'U2, uma Jornada Inesquecível' e 'Goodbye América' https://sba1.com/noticias/noticia/82817/Sessao-de-Cinema-de-quinta-feira-tem-U2-uma-Jornada-Inesquecivel-e-Goodbye-America-",
+          "chars": 211
+        }
+      }
+    },
+    {
+      "id": 1735,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, agora",
+      "is_ces": false,
+      "title": "Dele & Dela / His & Hers",
+      "has_text": true,
+      "url": "https://50anosdefilmes.com.br/2026/dele-dela-his-hers/",
+      "source": "50 Anos de Filmes",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Dele & Dela / His & Hers https://50anosdefilmes.com.br/2026/dele-dela-his-hers/",
+          "chars": 48
+        },
+        "bluesky": {
+          "text": "Dele & Dela / His & Hers https://50anosdefilmes.com.br/2026/dele-dela-his-hers/",
+          "chars": 79
+        }
+      }
+    },
+    {
+      "id": 1734,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-academic-freedom-higher-education",
+      "person": "Namesake/noise match: academic freedom, Higher Education",
+      "is_ces": false,
+      "title": "Education policy of the second Trump administration",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/Education_policy_of_the_second_Trump_administration",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Education policy of the second Trump administration https://en.wikipedia.org/wiki/Education_policy_of_the_second_Trump_administration",
+          "chars": 75
+        },
+        "bluesky": {
+          "text": "Education policy of the second Trump administration https://en.wikipedia.org/wiki/Education_policy_of_the_second_Trump_administration",
+          "chars": 133
+        }
+      }
+    },
+    {
+      "id": 1733,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Shelly Fickau, 2026 State of the Georgia Girl Report",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=Ty6ndk_oS1Y",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Shelly Fickau, 2026 State of the Georgia Girl Report https://www.youtube.com/watch?v=Ty6ndk_oS1Y",
+          "chars": 76
+        },
+        "bluesky": {
+          "text": "Shelly Fickau, 2026 State of the Georgia Girl Report https://www.youtube.com/watch?v=Ty6ndk_oS1Y",
+          "chars": 96
+        }
+      }
+    },
+    {
+      "id": 1732,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Dreaming Big to Achieve Bigger Starting at a California Community College",
+      "has_text": true,
+      "url": "https://www.crossingstv.com/california-community-college-to-ucla/",
+      "source": "Crossings TV",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Dreaming Big to Achieve Bigger Starting at a California Community College https://www.crossingstv.com/california-community-college-to-ucla/",
+          "chars": 97
+        },
+        "bluesky": {
+          "text": "Dreaming Big to Achieve Bigger Starting at a California Community College https://www.crossingstv.com/california-community-college-to-ucla/",
+          "chars": 139
+        }
+      }
+    },
+    {
+      "id": 1731,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Johns Hopkins University: Graduate education with real-world experience",
+      "has_text": true,
+      "url": "https://studyinternational.com/news/johns-hopkins-university-graduate-education-with-real-world-experience/",
+      "source": "Study International",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Johns Hopkins University: Graduate education with real-world experience https://studyinternational.com/news/johns-hopkins-university-graduate-education-with-real-world-experience/",
+          "chars": 95
+        },
+        "bluesky": {
+          "text": "Johns Hopkins University: Graduate education with real-world experience https://studyinternational.com/news/johns-hopkins-university-graduate-education-with-real-world-experience/",
+          "chars": 179
+        }
+      }
+    },
+    {
+      "id": 1730,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "News from the world of Education: October 29, 2026",
+      "has_text": true,
+      "url": "https://www.thehindu.com/education/news-from-the-world-of-education-october-29-2026/article71638044.ece",
+      "source": "The Hindu",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "News from the world of Education: October 29, 2026 https://www.thehindu.com/education/news-from-the-world-of-education-october-29-2026/article71638044.ece",
+          "chars": 74
+        },
+        "bluesky": {
+          "text": "News from the world of Education: October 29, 2026 https://www.thehindu.com/education/news-from-the-world-of-education-october-29-2026/article71638044.ece",
+          "chars": 154
+        }
+      }
+    },
+    {
+      "id": 1728,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Peabody Institute working with prominent New York firm, Ennead Architects, to design new academic hub for Mount Vernon campus",
+      "has_text": true,
+      "url": "https://baltimorefishbowl.com/stories/peabody-institute-working-with-prominent-new-york-firm-ennead-architects-to-design-new-academic-hub-for-mount-vernon-campus/",
+      "source": "Baltimore Fishbowl",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Peabody Institute working with prominent New York firm, Ennead Architects, to design new academic hub for Mount Vernon campus https://baltimorefishbowl.com/stories/peabody-institute-working-with-prominent-new-york-firm-ennead-architects-to-design-new-academic-hub-for-mount-vernon-campus/",
+          "chars": 149
+        },
+        "bluesky": {
+          "text": "Peabody Institute working with prominent New York firm, Ennead Architects, to design new academic hub for Mount Vernon campus https://baltimorefishbowl.com/stories/peabody-institute-working-with-prominent-new-york-firm-ennead-architects-to-design-new-academic-hub-for-mount-vernon-campus/",
+          "chars": 288
+        }
+      }
+    },
+    {
+      "id": 1725,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Visiting fellow LinkedIn post: Nov. 10 talk on content creators and democracy",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7521195110802436096",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Visiting fellow LinkedIn post: Nov. 10 talk on content creators and democracy https://www.linkedin.com/feed/update/urn:li:share:7521195110802436096",
+          "chars": 101
+        },
+        "bluesky": {
+          "text": "Visiting fellow LinkedIn post: Nov. 10 talk on content creators and democracy https://www.linkedin.com/feed/update/urn:li:share:7521195110802436096",
+          "chars": 147
+        }
+      }
+    },
+    {
+      "id": 1724,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "Twitter post (no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1723,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "Twitter post (no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1722,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "Twitter post (no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1721,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "Twitter post (no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1720,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "Twitter post (no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1719,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "Twitter post (no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1716,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "reddit.com/r/NovaScotia comment (no text captured)",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/NovaScotia/comments/1xhj7do/comment/19rs7wnvfm3ib/",
+      "source": "reddit.com/r/NovaScotia",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "reddit.com/r/NovaScotia comment (no text captured) https://www.reddit.com/r/NovaScotia/comments/1xhj7do/comment/19rs7wnvfm3ib/",
+          "chars": 74
+        },
+        "bluesky": {
+          "text": "reddit.com/r/NovaScotia comment (no text captured) https://www.reddit.com/r/NovaScotia/comments/1xhj7do/comment/19rs7wnvfm3ib/",
+          "chars": 126
+        }
+      }
+    },
+    {
+      "id": 1715,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": "reddit.com/r/DebateAChristian comment (no text captured)",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/DebateAChristian/comments/1xhmst9/comment/19rsptqhzlrdw/",
+      "source": "reddit.com/r/DebateAChristian",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "reddit.com/r/DebateAChristian comment (no text captured) https://www.reddit.com/r/DebateAChristian/comments/1xhmst9/comment/19rsptqhzlrdw/",
+          "chars": 80
+        },
+        "bluesky": {
+          "text": "reddit.com/r/DebateAChristian comment (no text captured) https://www.reddit.com/r/DebateAChristian/comments/1xhmst9/comment/19rsptqhzlrdw/",
+          "chars": 138
+        }
+      }
+    },
+    {
+      "id": 1714,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Ditadura escancarada: o Brasil depois da catástrofe eleitoral",
+      "has_text": true,
+      "url": "https://www.gazetadopovo.com.br/vozes/paulo-briguet/ditadura-escancarada-brasil-depois-catastrofe-eleitoral/",
+      "source": "Gazeta do Povo",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Ditadura escancarada: o Brasil depois da catástrofe eleitoral https://www.gazetadopovo.com.br/vozes/paulo-briguet/ditadura-escancarada-brasil-depois-catastrofe-eleitoral/",
+          "chars": 85
+        },
+        "bluesky": {
+          "text": "Ditadura escancarada: o Brasil depois da catástrofe eleitoral https://www.gazetadopovo.com.br/vozes/paulo-briguet/ditadura-escancarada-brasil-depois-catastrofe-eleitoral/",
+          "chars": 170
+        }
+      }
+    },
+    {
+      "id": 1713,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "Culture war",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/Culture_war",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Culture war https://en.wikipedia.org/wiki/Culture_war",
+          "chars": 35
+        },
+        "bluesky": {
+          "text": "Culture war https://en.wikipedia.org/wiki/Culture_war",
+          "chars": 53
+        }
+      }
+    },
+    {
+      "id": 1712,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "Factions in the Republican Party (United States)",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/Factions_in_the_Republican_Party_(United_States)",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Factions in the Republican Party (United States) https://en.wikipedia.org/wiki/Factions_in_the_Republican_Party_(United_States)",
+          "chars": 72
+        },
+        "bluesky": {
+          "text": "Factions in the Republican Party (United States) https://en.wikipedia.org/wiki/Factions_in_the_Republican_Party_(United_States)",
+          "chars": 127
+        }
+      }
+    },
+    {
+      "id": 1711,
+      "date": "2026-10-28",
+      "week_start": "2026-10-26",
+      "person_id": "angus-burgin",
+      "person": "Angus Burgin",
+      "is_ces": true,
+      "title": "The Century-Long Campaign To Sell Americans on the Free Market",
+      "has_text": true,
+      "url": "https://nextcity.org/features/the-century-long-campaign-to-sell-americans-on-the-free-market",
+      "source": "Next City",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "The Century-Long Campaign To Sell Americans on the Free Market https://nextcity.org/features/the-century-long-campaign-to-sell-americans-on-the-free-market",
+          "chars": 86
+        },
+        "bluesky": {
+          "text": "The Century-Long Campaign To Sell Americans on the Free Market https://nextcity.org/features/the-century-long-campaign-to-sell-americans-on-the-free-market",
+          "chars": 155
+        }
+      }
+    },
     {
       "id": 1682,
       "date": "2026-10-28",

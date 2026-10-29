@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-10-28T07:06:53-04:00",
-  "count": 88,
+  "generated_at": "2026-10-29T07:07:38-04:00",
+  "count": 89,
   "picks": [
+    {
+      "id": 107,
+      "mention_id": 1711,
+      "digest_date": "2026-10-28",
+      "person": "Angus Burgin",
+      "person_id": "angus-burgin",
+      "person_ids": [
+        "angus-burgin"
+      ],
+      "is_ces": true,
+      "punchy_title": "The Real Hayek Was Never the Free-Market Prophet He Became",
+      "headline": "The Real Hayek Was Never the Free-Market Prophet He Became",
+      "pull_quote": "\"There are a number of ways in which he was much more restrained than somebody like Friedman,\" says Angus Burgin, a historian at Johns Hopkins University and author of The Great Persuasion: Reinventing Free Markets Since the Depression.",
+      "rationale": "\"There are a number of ways in which he was much more restrained than somebody like Friedman,\" says Angus Burgin, a historian at Johns Hopkins University and author of The Great Persuasion: Reinventing Free Markets Since the Depression.",
+      "url": "https://nextcity.org/features/the-century-long-campaign-to-sell-americans-on-the-free-market",
+      "story_url": "https://nextcity.org/features/the-century-long-campaign-to-sell-americans-on-the-free-market",
+      "created_at": "2026-10-29 11:07:34",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Hayek was \"much more restrained than somebody like Friedman,\" Johns Hopkins historian Angus Burgin tells Next City in a feature on the campaign to sell Americans on the free market. https://nextcity.org/features/the-century-long-campaign-to-sell-americans-on-the-free-market",
+          "chars": 274,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Hayek%20was%20%22much%20more%20restrained%20than%20somebody%20like%20Friedman%2C%22%20Johns%20Hopkins%20historian%20Angus%20Burgin%20tells%20Next%20City%20in%20a%20feature%20on%20the%20campaign%20to%20sell%20Americans%20on%20the%20free%20market.%20https%3A//nextcity.org/features/the-century-long-campaign-to-sell-americans-on-the-free-market"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Hayek was \"much more restrained than somebody like Friedman,\" Johns Hopkins historian Angus Burgin tells Next City in a feature on the campaign to sell Americans on the free market. https://nextcity.org/features/the-century-long-campaign-to-sell-americans-on-the-free-market",
+          "chars": 274,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Hayek%20was%20%22much%20more%20restrained%20than%20somebody%20like%20Friedman%2C%22%20Johns%20Hopkins%20historian%20Angus%20Burgin%20tells%20Next%20City%20in%20a%20feature%20on%20the%20campaign%20to%20sell%20Americans%20on%20the%20free%20market.%20https%3A//nextcity.org/features/the-century-long-campaign-to-sell-americans-on-the-free-market"
+        }
+      ]
+    },
     {
       "id": 106,
       "mention_id": 1687,
