@@ -1,7 +1,188 @@
 {
-  "generated_at": "2026-10-29T07:07:38-04:00",
-  "count": 1726,
+  "generated_at": "2026-10-30T07:08:05-04:00",
+  "count": 1771,
   "stories": [
+    {
+      "id": 1741,
+      "date": "2026-10-30",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Examining what happened to the pro-Palestine movement after the encampment",
+      "has_text": true,
+      "url": "https://www.jhunewsletter.com/article/2026/10/examining-what-happened-to-the-pro-palestine-movement-after-the-encampment",
+      "source": "The Johns Hopkins News-Letter",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Examining what happened to the pro-Palestine movement after the encampment https://www.jhunewsletter.com/article/2026/10/examining-what-happened-to-the-pro-palestine-movement-after-the-encampment",
+          "chars": 98
+        },
+        "bluesky": {
+          "text": "Examining what happened to the pro-Palestine movement after the encampment https://www.jhunewsletter.com/article/2026/10/examining-what-happened-to-the-pro-palestine-movement-after-the-encampment",
+          "chars": 195
+        }
+      }
+    },
+    {
+      "id": 1739,
+      "date": "2026-10-30",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Vigilar es gobernar",
+      "has_text": true,
+      "url": "https://indicepolitico.com/vigilar-es-gobernar/",
+      "source": "Indice Político",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Vigilar es gobernar https://indicepolitico.com/vigilar-es-gobernar/",
+          "chars": 43
+        },
+        "bluesky": {
+          "text": "Vigilar es gobernar https://indicepolitico.com/vigilar-es-gobernar/",
+          "chars": 67
+        }
+      }
+    },
+    {
+      "id": 1738,
+      "date": "2026-10-30",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-university-president",
+      "person": "Namesake/noise match: Johns Hopkins, University President",
+      "is_ces": false,
+      "title": "Lee University to Host Nine Seminars For Celebration 2026",
+      "has_text": true,
+      "url": "https://www.chattanoogan.com/2026/10/30/525396/Lee-University-to-Host-Nine-Seminars.aspx",
+      "source": "Chattanoogan.com",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Lee University to Host Nine Seminars For Celebration 2026 https://www.chattanoogan.com/2026/10/30/525396/Lee-University-to-Host-Nine-Seminars.aspx",
+          "chars": 81
+        },
+        "bluesky": {
+          "text": "Lee University to Host Nine Seminars For Celebration 2026 https://www.chattanoogan.com/2026/10/30/525396/Lee-University-to-Host-Nine-Seminars.aspx",
+          "chars": 146
+        }
+      }
+    },
+    {
+      "id": 1737,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "Twitter post (no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 393,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1740,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "University of Phoenix associate dean to present AI literacy framework implementation at AAC&U Conference on AI and Higher Education",
+      "has_text": true,
+      "url": "https://finance.yahoo.com/technology/ai/articles/university-phoenix-associate-dean-present-204700598.html",
+      "source": "Yahoo! Finance",
+      "source_type": "online news",
+      "similar_mention_count": 193,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "University of Phoenix associate dean to present AI literacy framework implementation at AAC&U Conference on AI and Higher Education https://finance.yahoo.com/technology/ai/articles/university-phoenix-associate-dean-present-204700598.html",
+          "chars": 155
+        },
+        "bluesky": {
+          "text": "University of Phoenix associate dean to present AI literacy framework implementation at AAC&U Conference on AI and Higher Education https://finance.yahoo.com/technology/ai/articles/university-phoenix-associate-dean-present-204700598.html",
+          "chars": 237
+        }
+      }
+    },
+    {
+      "id": 1764,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "scott-warren",
+      "person": "Scott Warren",
+      "is_ces": false,
+      "title": "Twitter post (no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 11,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1765,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "peter-pomerantsev",
+      "person": "Peter Pomerantsev",
+      "is_ces": false,
+      "title": "Friday essay: forget Big Brother, propaganda is now a form of hybrid warfare",
+      "has_text": true,
+      "url": "https://theconversation.com/friday-essay-forget-big-brother-propaganda-is-now-a-form-of-hybrid-warfare-294454",
+      "source": "The Conversation",
+      "source_type": null,
+      "similar_mention_count": 4,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Friday essay: forget Big Brother, propaganda is now a form of hybrid warfare https://theconversation.com/friday-essay-forget-big-brother-propaganda-is-now-a-form-of-hybrid-warfare-294454",
+          "chars": 100
+        },
+        "bluesky": {
+          "text": "Friday essay: forget Big Brother, propaganda is now a form of hybrid warfare https://theconversation.com/friday-essay-forget-big-brother-propaganda-is-now-a-form-of-hybrid-warfare-294454",
+          "chars": 186
+        }
+      }
+    },
+    {
+      "id": 1752,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "Twitter post (no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 4,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
     {
       "id": 1726,
       "date": "2026-10-29",
@@ -25,6 +206,905 @@
         "bluesky": {
           "text": "JPL in limbo, Trump hovering: Caltech’s alien-life-seeking chief takes over at a volatile time https://www.latimes.com/california/story/2026-10-29/caltech-president-ray-jayawardhana-trump-nasa-jpl-ai",
           "chars": 199
+        }
+      }
+    },
+    {
+      "id": 1751,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-federal-research-funding",
+      "person": "Namesake/noise match: Johns Hopkins, federal research funding",
+      "is_ces": false,
+      "title": "A new president takes charge at Caltech as uncertainties linger over JPL, Trump and AI",
+      "has_text": true,
+      "url": "https://www.dailygazette.com/tribune/a-new-president-takes-charge-at-caltech-as-uncertainties-linger-over-jpl-trump-and-ai/article_ef11445c-1d42-5a1d-9b32-33a470f69a66.html",
+      "source": "The Daily Gazette",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "A new president takes charge at Caltech as uncertainties linger over JPL, Trump and AI https://www.dailygazette.com/tribune/a-new-president-takes-charge-at-caltech-as-uncertainties-linger-over-jpl-trump-and-ai/article_ef11445c-1d42-5a1d-9b32-33a470f69a66.html",
+          "chars": 110
+        },
+        "bluesky": {
+          "text": "A new president takes charge at Caltech as uncertainties linger over JPL, Trump and AI https://www.dailygazette.com/tribune/a-new-president-takes-charge-at-caltech-as-uncertainties-linger-over-jpl-trump-and-ai/article_ef11445c-1d42-5a1d-9b32-33a470f69a66.html",
+          "chars": 259
+        }
+      }
+    },
+    {
+      "id": 1776,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "jeremy-wallace",
+      "person": "Jeremy Wallace",
+      "is_ces": false,
+      "title": "Experts: What China wants from the COP31 climate talks",
+      "has_text": true,
+      "url": "https://www.carbonbrief.org/experts-what-china-wants-from-the-cop31-climate-talks",
+      "source": "Carbon Brief",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Experts: What China wants from the COP31 climate talks https://www.carbonbrief.org/experts-what-china-wants-from-the-cop31-climate-talks",
+          "chars": 78
+        },
+        "bluesky": {
+          "text": "Experts: What China wants from the COP31 climate talks https://www.carbonbrief.org/experts-what-china-wants-from-the-cop31-climate-talks",
+          "chars": 136
+        }
+      }
+    },
+    {
+      "id": 1767,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-university-president",
+      "person": "Namesake/noise match: Johns Hopkins, University President",
+      "is_ces": false,
+      "title": "Johns Hopkins Researchers’ Cancer Cell Mapping Technology Chosen for Anthropic AI for Science Project",
+      "has_text": true,
+      "url": "https://www.newswise.com/articles/johns-hopkins-researchers-cancer-cell-mapping-technology-chosen-for-anthropic-ai-for-science-project",
+      "source": "Newswise",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Johns Hopkins Researchers’ Cancer Cell Mapping Technology Chosen for Anthropic AI for Science Project https://www.newswise.com/articles/johns-hopkins-researchers-cancer-cell-mapping-technology-chosen-for-anthropic-ai-for-science-project",
+          "chars": 125
+        },
+        "bluesky": {
+          "text": "Johns Hopkins Researchers’ Cancer Cell Mapping Technology Chosen for Anthropic AI for Science Project https://www.newswise.com/articles/johns-hopkins-researchers-cancer-cell-mapping-technology-chosen-for-anthropic-ai-for-science-project",
+          "chars": 236
+        }
+      }
+    },
+    {
+      "id": 1756,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "Twitter post (no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1755,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-federal-research-funding",
+      "person": "Namesake/noise match: Johns Hopkins, federal research funding",
+      "is_ces": false,
+      "title": "UAB becomes first Alabama university to join elite research group",
+      "has_text": true,
+      "url": "https://www.yahoo.com/news/science/articles/uab-becomes-first-alabama-university-213821078.html",
+      "source": "Yahoo! News",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "UAB becomes first Alabama university to join elite research group https://www.yahoo.com/news/science/articles/uab-becomes-first-alabama-university-213821078.html",
+          "chars": 89
+        },
+        "bluesky": {
+          "text": "UAB becomes first Alabama university to join elite research group https://www.yahoo.com/news/science/articles/uab-becomes-first-alabama-university-213821078.html",
+          "chars": 161
+        }
+      }
+    },
+    {
+      "id": 1781,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "andre-nogueira",
+      "person": "André Nogueira",
+      "is_ces": false,
+      "title": "Mandato para ministro do Supremo, resolve ou piora?",
+      "has_text": true,
+      "url": "https://sampi.net.br/botucatu/noticias/3015010/colunistas/2026/10/mandato-para-ministro-do-supremo-resolve-ou-piora",
+      "source": "Sampi Piracicaba",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Mandato para ministro do Supremo, resolve ou piora? https://sampi.net.br/botucatu/noticias/3015010/colunistas/2026/10/mandato-para-ministro-do-supremo-resolve-ou-piora",
+          "chars": 75
+        },
+        "bluesky": {
+          "text": "Mandato para ministro do Supremo, resolve ou piora? https://sampi.net.br/botucatu/noticias/3015010/colunistas/2026/10/mandato-para-ministro-do-supremo-resolve-ou-piora",
+          "chars": 167
+        }
+      }
+    },
+    {
+      "id": 1780,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Twitter post (no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1779,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "InnoSphere PhD Without Thesis Telugu",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=BcCmdv5ZCsk",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "InnoSphere PhD Without Thesis Telugu https://www.youtube.com/watch?v=BcCmdv5ZCsk",
+          "chars": 60
+        },
+        "bluesky": {
+          "text": "InnoSphere PhD Without Thesis Telugu https://www.youtube.com/watch?v=BcCmdv5ZCsk",
+          "chars": 80
+        }
+      }
+    },
+    {
+      "id": 1778,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "reddit.com/r/jhu post (no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "reddit.com/r/jhu",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1777,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "reddit.com/r/jhu post (no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "reddit.com/r/jhu",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1775,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-university-president",
+      "person": "Namesake/noise match: Johns Hopkins, University President",
+      "is_ces": false,
+      "title": "Johns Hopkins Cancer Mapping Tech Selected for Anthropic AI Project",
+      "has_text": true,
+      "url": "https://www.miragenews.com/johns-hopkins-cancer-mapping-tech-selected-for-1768915/",
+      "source": "Mirage.News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Johns Hopkins Cancer Mapping Tech Selected for Anthropic AI Project https://www.miragenews.com/johns-hopkins-cancer-mapping-tech-selected-for-1768915/",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "Johns Hopkins Cancer Mapping Tech Selected for Anthropic AI Project https://www.miragenews.com/johns-hopkins-cancer-mapping-tech-selected-for-1768915/",
+          "chars": 150
+        }
+      }
+    },
+    {
+      "id": 1774,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-university-president",
+      "person": "Namesake/noise match: Johns Hopkins, University President",
+      "is_ces": false,
+      "title": "UAB selected to join prestigious Association of American Universities",
+      "has_text": true,
+      "url": "https://www.uab.edu/news/campus-community/uab-selected-to-join-prestigious-association-of-american-universities",
+      "source": "UAB",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "UAB selected to join prestigious Association of American Universities https://www.uab.edu/news/campus-community/uab-selected-to-join-prestigious-association-of-american-universities",
+          "chars": 93
+        },
+        "bluesky": {
+          "text": "UAB selected to join prestigious Association of American Universities https://www.uab.edu/news/campus-community/uab-selected-to-join-prestigious-association-of-american-universities",
+          "chars": 181
+        }
+      }
+    },
+    {
+      "id": 1773,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "a less reliable measure of student preparedness for a rigorous college curriculum. \n\nSo, we commissioned a study from Jo",
+      "has_text": true,
+      "url": "https://www.mediaite.com/media/news/trump-cancels-red-state-rally-same-day-new-poll-shows-republican-senator-4-points-down/#comment-6952618611",
+      "source": "Comments",
+      "source_type": "comments",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "a less reliable measure of student preparedness for a rigorous college curriculum. \n\nSo, we commissioned a study from Jo https://www.mediaite.com/media/news/trump-cancels-red-state-rally-same-day-new-poll-shows-republican-senator-4-points-down/#comment-6952618611",
+          "chars": 144
+        },
+        "bluesky": {
+          "text": "a less reliable measure of student preparedness for a rigorous college curriculum. \n\nSo, we commissioned a study from Jo https://www.mediaite.com/media/news/trump-cancels-red-state-rally-same-day-new-poll-shows-republican-senator-4-points-down/#comment-6952618611",
+          "chars": 263
+        }
+      }
+    },
+    {
+      "id": 1772,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "\"The Public Ivies and Little Ivies Explained | BestColleges (2026)\"",
+      "has_text": true,
+      "url": "https://custommapposter.com/article/the-public-ivies-and-little-ivies-explained-bestcolleges/689",
+      "source": "Custommapposter",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "\"The Public Ivies and Little Ivies Explained | BestColleges (2026)\" https://custommapposter.com/article/the-public-ivies-and-little-ivies-explained-bestcolleges/689",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "\"The Public Ivies and Little Ivies Explained | BestColleges (2026)\" https://custommapposter.com/article/the-public-ivies-and-little-ivies-explained-bestcolleges/689",
+          "chars": 164
+        }
+      }
+    },
+    {
+      "id": 1771,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "The Public Ivies and Little Ivies Explained | BestColleges (2026)",
+      "has_text": true,
+      "url": "https://custommapposter.com/article/the-public-ivies-and-little-ivies-explained-bestcolleges/689",
+      "source": "Custommapposter",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Public Ivies and Little Ivies Explained | BestColleges (2026) https://custommapposter.com/article/the-public-ivies-and-little-ivies-explained-bestcolleges/689",
+          "chars": 89
+        },
+        "bluesky": {
+          "text": "The Public Ivies and Little Ivies Explained | BestColleges (2026) https://custommapposter.com/article/the-public-ivies-and-little-ivies-explained-bestcolleges/689",
+          "chars": 162
+        }
+      }
+    },
+    {
+      "id": 1770,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-agora-johns-hopkins",
+      "person": "Namesake/noise match: Agora, Johns Hopkins",
+      "is_ces": false,
+      "title": "Última grande transição de fase do Universo",
+      "has_text": true,
+      "url": "https://cosmonovas.blogspot.com/2026/10/ultima-grande-transicao-de-fase-do.html",
+      "source": "Astro News",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Última grande transição de fase do Universo https://cosmonovas.blogspot.com/2026/10/ultima-grande-transicao-de-fase-do.html",
+          "chars": 67
+        },
+        "bluesky": {
+          "text": "Última grande transição de fase do Universo https://cosmonovas.blogspot.com/2026/10/ultima-grande-transicao-de-fase-do.html",
+          "chars": 123
+        }
+      }
+    },
+    {
+      "id": 1769,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Reduced SAT: “Shorter Passages, Less Vocabulary, More Time”",
+      "has_text": true,
+      "url": "https://www.schoolinfosystem.org/2026/10/29/reduced-sat-shorter-passages-less-vocabulary-more-time/",
+      "source": "Schoolinfosystem.org",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Reduced SAT: “Shorter Passages, Less Vocabulary, More Time” https://www.schoolinfosystem.org/2026/10/29/reduced-sat-shorter-passages-less-vocabulary-more-time/",
+          "chars": 83
+        },
+        "bluesky": {
+          "text": "Reduced SAT: “Shorter Passages, Less Vocabulary, More Time” https://www.schoolinfosystem.org/2026/10/29/reduced-sat-shorter-passages-less-vocabulary-more-time/",
+          "chars": 159
+        }
+      }
+    },
+    {
+      "id": 1768,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-academic-freedom-civil-discourse",
+      "person": "Namesake/noise match: Academic Freedom, Civil discourse",
+      "is_ces": false,
+      "title": "Robert P. George on Higher Education Reform and the Role of Philanthropy",
+      "has_text": true,
+      "url": "https://www.philanthropyroundtable.org/robert-p-george-on-higher-education-reform-and-the-role-of-philanthropy/",
+      "source": "The Philanthropy Roundtable",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Robert P. George on Higher Education Reform and the Role of Philanthropy https://www.philanthropyroundtable.org/robert-p-george-on-higher-education-reform-and-the-role-of-philanthropy/",
+          "chars": 96
+        },
+        "bluesky": {
+          "text": "Robert P. George on Higher Education Reform and the Role of Philanthropy https://www.philanthropyroundtable.org/robert-p-george-on-higher-education-reform-and-the-role-of-philanthropy/",
+          "chars": 184
+        }
+      }
+    },
+    {
+      "id": 1766,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Guilty Until Proven Human: The AI-Detection Trap",
+      "has_text": true,
+      "url": "https://hipoeces.blogspot.com/2026/10/guilty-until-proven-human-ai-detection.html",
+      "source": "Bill Acton's Embodiment Blog",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Guilty Until Proven Human: The AI-Detection Trap https://hipoeces.blogspot.com/2026/10/guilty-until-proven-human-ai-detection.html",
+          "chars": 72
+        },
+        "bluesky": {
+          "text": "Guilty Until Proven Human: The AI-Detection Trap https://hipoeces.blogspot.com/2026/10/guilty-until-proven-human-ai-detection.html",
+          "chars": 130
+        }
+      }
+    },
+    {
+      "id": 1763,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "CTY Scholars Information Session | Johns Hopkins Center for Talented Youth",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=lGIg9_U7WpY",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "CTY Scholars Information Session | Johns Hopkins Center for Talented Youth https://www.youtube.com/watch?v=lGIg9_U7WpY",
+          "chars": 98
+        },
+        "bluesky": {
+          "text": "CTY Scholars Information Session | Johns Hopkins Center for Talented Youth https://www.youtube.com/watch?v=lGIg9_U7WpY",
+          "chars": 118
+        }
+      }
+    },
+    {
+      "id": 1762,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "Twitter post (no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1761,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "Morre aos 86 anos o ator Patrick Stewart, de X-Men e Star Trek, nesta quinta-feira (29)",
+      "has_text": true,
+      "url": "https://www.agazeta.com.br/hz/tv-e-famosos/morre-aos-86-anos-o-ator-patrick-stewart-de-x-men-e-star-trek-nesta-quinta-feira-29-1026",
+      "source": "A Gazeta",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Morre aos 86 anos o ator Patrick Stewart, de X-Men e Star Trek, nesta quinta-feira (29) https://www.agazeta.com.br/hz/tv-e-famosos/morre-aos-86-anos-o-ator-patrick-stewart-de-x-men-e-star-trek-nesta-quinta-feira-29-1026",
+          "chars": 111
+        },
+        "bluesky": {
+          "text": "Morre aos 86 anos o ator Patrick Stewart, de X-Men e Star Trek, nesta quinta-feira (29) https://www.agazeta.com.br/hz/tv-e-famosos/morre-aos-86-anos-o-ator-patrick-stewart-de-x-men-e-star-trek-nesta-quinta-feira-29-1026",
+          "chars": 219
+        }
+      }
+    },
+    {
+      "id": 1760,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "The War on Military Talent",
+      "has_text": true,
+      "url": "https://www.cfr.org/reports/the-war-on-military-talent",
+      "source": "Council on Foreign Relations",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The War on Military Talent https://www.cfr.org/reports/the-war-on-military-talent",
+          "chars": 50
+        },
+        "bluesky": {
+          "text": "The War on Military Talent https://www.cfr.org/reports/the-war-on-military-talent",
+          "chars": 81
+        }
+      }
+    },
+    {
+      "id": 1759,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "UAB becomes Alabama’s first member of elite Association of American Universities",
+      "has_text": true,
+      "url": "https://yellowhammernews.com/uab-becomes-alabamas-first-member-of-elite-association-of-american-universities/",
+      "source": "Yellowhammer News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "UAB becomes Alabama’s first member of elite Association of American Universities https://yellowhammernews.com/uab-becomes-alabamas-first-member-of-elite-association-of-american-universities/",
+          "chars": 104
+        },
+        "bluesky": {
+          "text": "UAB becomes Alabama’s first member of elite Association of American Universities https://yellowhammernews.com/uab-becomes-alabamas-first-member-of-elite-association-of-american-universities/",
+          "chars": 190
+        }
+      }
+    },
+    {
+      "id": 1758,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "University of Phoenix Unveils AI Literacy Framework at AAC&U Conference for Higher Education",
+      "has_text": true,
+      "url": "https://third-news.com/article/5652eaaa-d3dc-11f1-ae45-9ca3ba08e13f",
+      "source": "Third News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "University of Phoenix Unveils AI Literacy Framework at AAC&U Conference for Higher Education https://third-news.com/article/5652eaaa-d3dc-11f1-ae45-9ca3ba08e13f",
+          "chars": 116
+        },
+        "bluesky": {
+          "text": "University of Phoenix Unveils AI Literacy Framework at AAC&U Conference for Higher Education https://third-news.com/article/5652eaaa-d3dc-11f1-ae45-9ca3ba08e13f",
+          "chars": 160
+        }
+      }
+    },
+    {
+      "id": 1757,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "UAB becomes first Alabama member of prestigious Association of American Universities",
+      "has_text": true,
+      "url": "https://bhamnow.com/2026/10/29/uab-becomes-first-alabama-member-of-prestigious-association-of-american-universities/",
+      "source": "Bham Now",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "UAB becomes first Alabama member of prestigious Association of American Universities https://bhamnow.com/2026/10/29/uab-becomes-first-alabama-member-of-prestigious-association-of-american-universities/",
+          "chars": 108
+        },
+        "bluesky": {
+          "text": "UAB becomes first Alabama member of prestigious Association of American Universities https://bhamnow.com/2026/10/29/uab-becomes-first-alabama-member-of-prestigious-association-of-american-universities/",
+          "chars": 201
+        }
+      }
+    },
+    {
+      "id": 1754,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-federal-research-funding",
+      "person": "Namesake/noise match: Johns Hopkins, federal research funding",
+      "is_ces": false,
+      "title": "Ray Jayawardhana Installed as Caltech’s 10th President Amidst Challenges and Opportunities",
+      "has_text": true,
+      "url": "https://news.ssbcrack.com/ray-jayawardhana-installed-as-caltechs-10th-president-amidst-challenges-and-opportunities/",
+      "source": "SSBCrack News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Ray Jayawardhana Installed as Caltech’s 10th President Amidst Challenges and Opportunities https://news.ssbcrack.com/ray-jayawardhana-installed-as-caltechs-10th-president-amidst-challenges-and-opportunities/",
+          "chars": 114
+        },
+        "bluesky": {
+          "text": "Ray Jayawardhana Installed as Caltech’s 10th President Amidst Challenges and Opportunities https://news.ssbcrack.com/ray-jayawardhana-installed-as-caltechs-10th-president-amidst-challenges-and-opportunities/",
+          "chars": 207
+        }
+      }
+    },
+    {
+      "id": 1753,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-university-president",
+      "person": "Namesake/noise match: Johns Hopkins, University President",
+      "is_ces": false,
+      "title": "Stony Brook Seawolves",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/Stony_Brook_Seawolves",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Stony Brook Seawolves https://en.wikipedia.org/wiki/Stony_Brook_Seawolves",
+          "chars": 45
+        },
+        "bluesky": {
+          "text": "Stony Brook Seawolves https://en.wikipedia.org/wiki/Stony_Brook_Seawolves",
+          "chars": 73
+        }
+      }
+    },
+    {
+      "id": 1750,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "david-park",
+      "person": "David Park",
+      "is_ces": false,
+      "title": "David Bruns Tribute: Jimmy Vasser, Bob Earl & More | Formula Ford Panel",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=mFdqbOSnCC0",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "David Bruns Tribute: Jimmy Vasser, Bob Earl & More | Formula Ford Panel https://www.youtube.com/watch?v=mFdqbOSnCC0",
+          "chars": 95
+        },
+        "bluesky": {
+          "text": "David Bruns Tribute: Jimmy Vasser, Bob Earl & More | Formula Ford Panel https://www.youtube.com/watch?v=mFdqbOSnCC0",
+          "chars": 115
+        }
+      }
+    },
+    {
+      "id": 1749,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match",
+      "person": "Namesake/noise match: ",
+      "is_ces": false,
+      "title": "This Post from cynic277 has been withheld in this country in response to a legal demand and/or copyright.",
+      "has_text": true,
+      "url": "https://twitter.com",
+      "source": "Twitter",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "This Post from cynic277 has been withheld in this country in response to a legal demand and/or copyright. https://twitter.com",
+          "chars": 129
+        },
+        "bluesky": {
+          "text": "This Post from cynic277 has been withheld in this country in response to a legal demand and/or copyright. https://twitter.com",
+          "chars": 125
+        }
+      }
+    },
+    {
+      "id": 1748,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "yuen-yuen-ang",
+      "person": "Yuen Yuen Ang",
+      "is_ces": true,
+      "title": "Once feared as China's \"master plan for global domination\", Belt and Road Initiative has not lived up to Xi’s promise ::::: India has INSTC ... connecting Mumbai via sea to Bandar Abbas/Chabahar (Iran), overland across Iran to the Caspian Sea and up to Russia",
+      "has_text": true,
+      "url": "http://bestofindiarestofindia.blogspot.com/2026/10/once-feared-as-chinas-master-plan-for.html",
+      "source": "India that every Indian envisages for",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Once feared as China's \"master plan for global domination\", Belt and Road Initiative has not lived up to Xi’s promise ::::: India has INSTC ... connecting Mumbai via sea to Bandar Abbas/Chabahar (Iran), overland across Iran to the Caspian Sea and up to Ru… http://bestofindiarestofindia.blogspot.com/2026/10/once-feared-as-chinas-master-plan-for.html",
+          "chars": 280
+        },
+        "bluesky": {
+          "text": "Once feared as China's \"master plan for global domination\", Belt and Road Initiative has not lived up to Xi’s promise ::::: India has INSTC ... connecting Mumbai via sea to Bandar Abbas/Chabahar (Iran), o… http://bestofindiarestofindia.blogspot.com/2026/10/once-feared-as-chinas-master-plan-for.html",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 1747,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "The Rising Star Women Leaders in Communications for 2026 (Complete)",
+      "has_text": true,
+      "url": "https://thewomenweadmire.com/2026/10/the-rising-star-women-leaders-in-communications-for-2026-complete/",
+      "source": "Women We Admire",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Rising Star Women Leaders in Communications for 2026 (Complete) https://thewomenweadmire.com/2026/10/the-rising-star-women-leaders-in-communications-for-2026-complete/",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "The Rising Star Women Leaders in Communications for 2026 (Complete) https://thewomenweadmire.com/2026/10/the-rising-star-women-leaders-in-communications-for-2026-complete/",
+          "chars": 171
+        }
+      }
+    },
+    {
+      "id": 1746,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "The Rising Star Women Leaders in Communications for 2026",
+      "has_text": true,
+      "url": "https://thewomenweadmire.com/2026/10/the-rising-star-women-leaders-in-communications-for-2026/",
+      "source": "Women We Admire",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Rising Star Women Leaders in Communications for 2026 https://thewomenweadmire.com/2026/10/the-rising-star-women-leaders-in-communications-for-2026/",
+          "chars": 80
+        },
+        "bluesky": {
+          "text": "The Rising Star Women Leaders in Communications for 2026 https://thewomenweadmire.com/2026/10/the-rising-star-women-leaders-in-communications-for-2026/",
+          "chars": 151
+        }
+      }
+    },
+    {
+      "id": 1745,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "Twitter post (no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1744,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "Twitter post (no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1743,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "McInnis was paid $890,000 in 2024-25, lowest among Ivy peers that year",
+      "has_text": true,
+      "url": "https://yaledailynews.com/articles/mcinnis-was-paid-890-000-in-2024-25-lowest-among-ivy-peers-that-year",
+      "source": "Yale Daily News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "McInnis was paid $890,000 in 2024-25, lowest among Ivy peers that year https://yaledailynews.com/articles/mcinnis-was-paid-890-000-in-2024-25-lowest-among-ivy-peers-that-year",
+          "chars": 94
+        },
+        "bluesky": {
+          "text": "McInnis was paid $890,000 in 2024-25, lowest among Ivy peers that year https://yaledailynews.com/articles/mcinnis-was-paid-890-000-in-2024-25-lowest-among-ivy-peers-that-year",
+          "chars": 174
+        }
+      }
+    },
+    {
+      "id": 1742,
+      "date": "2026-10-29",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "The Measure of a Nation",
+      "has_text": true,
+      "url": "https://medium.com/@AlexiHelligar/the-measure-of-a-nation-c0e13aec65f5",
+      "source": "Medium",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Measure of a Nation https://medium.com/@AlexiHelligar/the-measure-of-a-nation-c0e13aec65f5",
+          "chars": 47
+        },
+        "bluesky": {
+          "text": "The Measure of a Nation https://medium.com/@AlexiHelligar/the-measure-of-a-nation-c0e13aec65f5",
+          "chars": 94
         }
       }
     },

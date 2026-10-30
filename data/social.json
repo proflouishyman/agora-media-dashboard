@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-10-29T07:07:38-04:00",
-  "count": 89,
+  "generated_at": "2026-10-30T07:08:05-04:00",
+  "count": 90,
   "picks": [
+    {
+      "id": 108,
+      "mention_id": 1765,
+      "digest_date": "2026-10-29",
+      "person": "Peter Pomerantsev",
+      "person_id": "peter-pomerantsev",
+      "person_ids": [
+        "peter-pomerantsev"
+      ],
+      "is_ces": false,
+      "punchy_title": "Propaganda Is Warfare Now, and Fact-Checks Won't Win It",
+      "headline": "Propaganda Is Warfare Now, and Fact-Checks Won't Win It",
+      "pull_quote": "According to propaganda analyst Peter Pomerantsev, we have misunderstood the information problem. Targeting instances of disinformation, he argues, has little effect when we are dealing with \"an abuse of the information space that makes democratic practice impossible\".",
+      "rationale": "According to propaganda analyst Peter Pomerantsev, we have misunderstood the information problem. Targeting instances of disinformation, he argues, has little effect when we are dealing with \"an abuse of the information space that makes democratic practice impossible\".",
+      "url": "https://theconversation.com/friday-essay-forget-big-brother-propaganda-is-now-a-form-of-hybrid-warfare-294454",
+      "story_url": "https://theconversation.com/friday-essay-forget-big-brother-propaganda-is-now-a-form-of-hybrid-warfare-294454",
+      "created_at": "2026-10-30 11:08:02",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Targeting disinformation claim by claim has little effect, argues SNF Agora's Peter Pomerantsev, whose work anchors a new Conversation essay on propaganda as warfare. https://theconversation.com/friday-essay-forget-big-brother-propaganda-is-now-a-form-of-hybrid-warfare-294454",
+          "chars": 276,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Targeting%20disinformation%20claim%20by%20claim%20has%20little%20effect%2C%20argues%20SNF%20Agora%27s%20Peter%20Pomerantsev%2C%20whose%20work%20anchors%20a%20new%20Conversation%20essay%20on%20propaganda%20as%20warfare.%20https%3A//theconversation.com/friday-essay-forget-big-brother-propaganda-is-now-a-form-of-hybrid-warfare-294454"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Targeting disinformation claim by claim has little effect, argues SNF Agora's Peter Pomerantsev, whose work anchors a new Conversation essay on propaganda as warfare. https://theconversation.com/friday-essay-forget-big-brother-propaganda-is-now-a-form-of-hybrid-warfare-294454",
+          "chars": 276,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Targeting%20disinformation%20claim%20by%20claim%20has%20little%20effect%2C%20argues%20SNF%20Agora%27s%20Peter%20Pomerantsev%2C%20whose%20work%20anchors%20a%20new%20Conversation%20essay%20on%20propaganda%20as%20warfare.%20https%3A//theconversation.com/friday-essay-forget-big-brother-propaganda-is-now-a-form-of-hybrid-warfare-294454"
+        }
+      ]
+    },
     {
       "id": 107,
       "mention_id": 1711,
