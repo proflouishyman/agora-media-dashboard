@@ -212,6 +212,114 @@
     ]
   },
   {
+    "id": "anne-applebaum",
+    "name": "Anne Applebaum",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Senior Fellow at the SNF Agora Institute and the Johns Hopkins School of Advanced International Studies",
+    "profile_url": "https://snfagora.jhu.edu/directory/anne-applebaum/",
+    "photo_url": null,
+    "categories": [
+      "Continuing Faculty + Fellows"
+    ],
+    "is_ces": false,
+    "mentions_total": 90,
+    "mentions_in_digest": 48,
+    "reach_proxy": 351,
+    "first_mention_date": "2026-07-02",
+    "last_mention_date": "2026-10-30",
+    "sentiment": {
+      "positive": 12,
+      "neutral": 17,
+      "negative": 5,
+      "unknown": 56
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 19
+      },
+      {
+        "source": "Substack",
+        "count": 12
+      },
+      {
+        "source": "YouTube",
+        "count": 5
+      },
+      {
+        "source": "Gazeta Wyborcza",
+        "count": 4
+      },
+      {
+        "source": "Youtube",
+        "count": 4
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-10",
+        "count": 3,
+        "reach": 5
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 3,
+        "reach": 242
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 4,
+        "reach": 6
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 4,
+        "reach": 4
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 8,
+        "reach": 21
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 7,
+        "reach": 8
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 4,
+        "reach": 5
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 6,
+        "reach": 7
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 9,
+        "reach": 11
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-10-26",
+        "count": 6,
+        "reach": 7
+      }
+    ]
+  },
+  {
     "id": "unknown",
     "name": "unknown",
     "kind": "unmatched",
@@ -318,114 +426,6 @@
     ]
   },
   {
-    "id": "anne-applebaum",
-    "name": "Anne Applebaum",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Senior Fellow at the SNF Agora Institute and the Johns Hopkins School of Advanced International Studies",
-    "profile_url": "https://snfagora.jhu.edu/directory/anne-applebaum/",
-    "photo_url": null,
-    "categories": [
-      "Continuing Faculty + Fellows"
-    ],
-    "is_ces": false,
-    "mentions_total": 87,
-    "mentions_in_digest": 47,
-    "reach_proxy": 347,
-    "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-10-29",
-    "sentiment": {
-      "positive": 12,
-      "neutral": 17,
-      "negative": 5,
-      "unknown": 53
-    },
-    "top_sources": [
-      {
-        "source": "Twitter",
-        "count": 18
-      },
-      {
-        "source": "Substack",
-        "count": 12
-      },
-      {
-        "source": "YouTube",
-        "count": 5
-      },
-      {
-        "source": "Gazeta Wyborcza",
-        "count": 4
-      },
-      {
-        "source": "Youtube",
-        "count": 4
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-08-10",
-        "count": 3,
-        "reach": 5
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 3,
-        "reach": 242
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 4,
-        "reach": 6
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 4,
-        "reach": 4
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 8,
-        "reach": 21
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 7,
-        "reach": 8
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 4,
-        "reach": 5
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 6,
-        "reach": 7
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 9,
-        "reach": 11
-      },
-      {
-        "week_start": "2026-10-19",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-10-26",
-        "count": 3,
-        "reach": 3
-      }
-    ]
-  },
-  {
     "id": "none-no-captured-text",
     "name": "None (no captured text)",
     "kind": "unmatched",
@@ -435,21 +435,21 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 55,
+    "mentions_total": 56,
     "mentions_in_digest": 0,
-    "reach_proxy": 477,
+    "reach_proxy": 924,
     "first_mention_date": "2026-08-28",
-    "last_mention_date": "2026-10-29",
+    "last_mention_date": "2026-10-30",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
       "negative": 0,
-      "unknown": 55
+      "unknown": 56
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 41
+        "count": 42
       },
       {
         "source": "reddit.com/r/Christianity",
@@ -526,8 +526,8 @@
       },
       {
         "week_start": "2026-10-26",
-        "count": 16,
-        "reach": 412
+        "count": 17,
+        "reach": 859
       }
     ]
   },
@@ -651,16 +651,16 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 49,
-    "mentions_in_digest": 17,
-    "reach_proxy": 230,
+    "mentions_total": 50,
+    "mentions_in_digest": 18,
+    "reach_proxy": 233,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-10-28",
+    "last_mention_date": "2026-10-30",
     "sentiment": {
       "positive": 2,
       "neutral": 13,
       "negative": 1,
-      "unknown": 33
+      "unknown": 34
     },
     "top_sources": [
       {
@@ -742,8 +742,8 @@
       },
       {
         "week_start": "2026-10-26",
-        "count": 2,
-        "reach": 2
+        "count": 3,
+        "reach": 5
       }
     ]
   },
@@ -757,16 +757,16 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 46,
+    "mentions_total": 49,
     "mentions_in_digest": 0,
-    "reach_proxy": 68,
+    "reach_proxy": 71,
     "first_mention_date": "2026-09-01",
-    "last_mention_date": "2026-10-29",
+    "last_mention_date": "2026-10-31",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
       "negative": 0,
-      "unknown": 46
+      "unknown": 49
     },
     "top_sources": [
       {
@@ -782,12 +782,12 @@
         "count": 2
       },
       {
-        "source": "Springer",
+        "source": "N2O Records",
         "count": 2
       },
       {
-        "source": "AOL",
-        "count": 1
+        "source": "Springer",
+        "count": 2
       }
     ],
     "weekly": [
@@ -848,8 +848,8 @@
       },
       {
         "week_start": "2026-10-26",
-        "count": 22,
-        "reach": 39
+        "count": 25,
+        "reach": 42
       }
     ]
   },
@@ -865,21 +865,21 @@
       "Affiliated Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 40,
+    "mentions_total": 42,
     "mentions_in_digest": 14,
-    "reach_proxy": 67,
+    "reach_proxy": 69,
     "first_mention_date": "2026-07-03",
-    "last_mention_date": "2026-10-28",
+    "last_mention_date": "2026-10-30",
     "sentiment": {
       "positive": 6,
       "neutral": 13,
       "negative": 1,
-      "unknown": 20
+      "unknown": 22
     },
     "top_sources": [
       {
         "source": "Youtube",
-        "count": 6
+        "count": 7
       },
       {
         "source": "Bluesky",
@@ -956,8 +956,8 @@
       },
       {
         "week_start": "2026-10-26",
-        "count": 1,
-        "reach": 1
+        "count": 3,
+        "reach": 3
       }
     ]
   },
@@ -973,13 +973,13 @@
       "Core Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 39,
+    "mentions_total": 40,
     "mentions_in_digest": 29,
-    "reach_proxy": 86,
+    "reach_proxy": 87,
     "first_mention_date": "2026-07-08",
-    "last_mention_date": "2026-10-28",
+    "last_mention_date": "2026-10-30",
     "sentiment": {
-      "positive": 6,
+      "positive": 7,
       "neutral": 9,
       "negative": 1,
       "unknown": 23
@@ -998,12 +998,12 @@
         "count": 2
       },
       {
-        "source": "Springer",
+        "source": "LinkedIn",
         "count": 2
       },
       {
-        "source": "Baltimore Fishbowl",
-        "count": 1
+        "source": "Springer",
+        "count": 2
       }
     ],
     "weekly": [
@@ -1064,8 +1064,8 @@
       },
       {
         "week_start": "2026-10-26",
-        "count": 3,
-        "reach": 5
+        "count": 4,
+        "reach": 6
       }
     ]
   },
@@ -1390,6 +1390,112 @@
     ]
   },
   {
+    "id": "namesake-noise-match-higher-education-johns-hopkins",
+    "name": "Namesake/noise match: Higher Education, Johns Hopkins",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 31,
+    "mentions_in_digest": 0,
+    "reach_proxy": 415,
+    "first_mention_date": "2026-09-01",
+    "last_mention_date": "2026-10-30",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 31
+    },
+    "top_sources": [
+      {
+        "source": "wordpress.com",
+        "count": 4
+      },
+      {
+        "source": "N2O Records",
+        "count": 3
+      },
+      {
+        "source": "Springer",
+        "count": 2
+      },
+      {
+        "source": "Cottonwood Heights Journal",
+        "count": 1
+      },
+      {
+        "source": "El Economista",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 5,
+        "reach": 6
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 6,
+        "reach": 196
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 8,
+        "reach": 8
+      },
+      {
+        "week_start": "2026-10-26",
+        "count": 12,
+        "reach": 205
+      }
+    ]
+  },
+  {
     "id": "hahrie-han",
     "name": "Hahrie Han",
     "kind": "faculty",
@@ -1401,16 +1507,16 @@
       "Core Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 29,
+    "mentions_total": 30,
     "mentions_in_digest": 16,
-    "reach_proxy": 366,
+    "reach_proxy": 367,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-10-22",
+    "last_mention_date": "2026-10-30",
     "sentiment": {
       "positive": 12,
       "neutral": 3,
       "negative": 0,
-      "unknown": 14
+      "unknown": 15
     },
     "top_sources": [
       {
@@ -1492,51 +1598,53 @@
       },
       {
         "week_start": "2026-10-26",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
   {
-    "id": "namesake-noise-match-higher-education-johns-hopkins",
-    "name": "Namesake/noise match: Higher Education, Johns Hopkins",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
+    "id": "scott-warren",
+    "name": "Scott Warren",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Fellow",
+    "profile_url": "https://snfagora.jhu.edu/directory/scott-warren/",
+    "photo_url": "images/people/scott-warren.jpg",
+    "categories": [
+      "Continuing Faculty + Fellows"
+    ],
     "is_ces": false,
     "mentions_total": 28,
-    "mentions_in_digest": 0,
-    "reach_proxy": 411,
-    "first_mention_date": "2026-09-01",
+    "mentions_in_digest": 19,
+    "reach_proxy": 2956,
+    "first_mention_date": "2026-07-02",
     "last_mention_date": "2026-10-30",
     "sentiment": {
-      "positive": 0,
-      "neutral": 0,
+      "positive": 5,
+      "neutral": 8,
       "negative": 0,
-      "unknown": 28
+      "unknown": 15
     },
     "top_sources": [
       {
-        "source": "wordpress.com",
-        "count": 4
+        "source": "LinkedIn",
+        "count": 5
       },
       {
-        "source": "N2O Records",
-        "count": 3
+        "source": "Twitter",
+        "count": 5
       },
       {
-        "source": "Springer",
+        "source": "Instagram",
         "count": 2
       },
       {
-        "source": "El Economista",
-        "count": 1
+        "source": "Youtube",
+        "count": 2
       },
       {
-        "source": "Entrepreneurs News Room",
+        "source": "American Enterprise Institute - AEI",
         "count": 1
       }
     ],
@@ -1558,23 +1666,23 @@
       },
       {
         "week_start": "2026-08-31",
-        "count": 5,
-        "reach": 6
+        "count": 0,
+        "reach": 0
       },
       {
         "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 2
       },
       {
         "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
+        "count": 2,
+        "reach": 2
       },
       {
         "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
+        "count": 2,
+        "reach": 2
       },
       {
         "week_start": "2026-09-28",
@@ -1583,23 +1691,23 @@
       },
       {
         "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
+        "count": 2,
+        "reach": 7
       },
       {
         "week_start": "2026-10-12",
-        "count": 6,
-        "reach": 196
+        "count": 2,
+        "reach": 2
       },
       {
         "week_start": "2026-10-19",
         "count": 8,
-        "reach": 8
+        "reach": 2916
       },
       {
         "week_start": "2026-10-26",
-        "count": 9,
-        "reach": 201
+        "count": 5,
+        "reach": 16
       }
     ]
   },
@@ -1712,47 +1820,45 @@
     ]
   },
   {
-    "id": "scott-warren",
-    "name": "Scott Warren",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Fellow",
-    "profile_url": "https://snfagora.jhu.edu/directory/scott-warren/",
-    "photo_url": "images/people/scott-warren.jpg",
-    "categories": [
-      "Continuing Faculty + Fellows"
-    ],
+    "id": "namesake-noise-match-johns-hopkins-agora",
+    "name": "Namesake/noise match: Johns Hopkins, agora",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
     "is_ces": false,
-    "mentions_total": 27,
-    "mentions_in_digest": 19,
-    "reach_proxy": 2955,
-    "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-10-29",
+    "mentions_total": 22,
+    "mentions_in_digest": 0,
+    "reach_proxy": 24,
+    "first_mention_date": "2026-09-01",
+    "last_mention_date": "2026-10-30",
     "sentiment": {
-      "positive": 5,
-      "neutral": 7,
+      "positive": 0,
+      "neutral": 0,
       "negative": 0,
-      "unknown": 15
+      "unknown": 22
     },
     "top_sources": [
       {
-        "source": "Twitter",
-        "count": 5
+        "source": "A Gazeta",
+        "count": 1
       },
       {
-        "source": "LinkedIn",
-        "count": 4
+        "source": "Adoro Cinema",
+        "count": 1
       },
       {
-        "source": "Instagram",
-        "count": 2
+        "source": "BLOGDODALMO",
+        "count": 1
       },
       {
-        "source": "Youtube",
-        "count": 2
+        "source": "Brasil Soberano e Livre",
+        "count": 1
       },
       {
-        "source": "American Enterprise Institute - AEI",
+        "source": "CosmoNerd",
         "count": 1
       }
     ],
@@ -1774,23 +1880,23 @@
       },
       {
         "week_start": "2026-08-31",
+        "count": 3,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-09-07",
         "count": 0,
         "reach": 0
       },
       {
-        "week_start": "2026-09-07",
-        "count": 1,
-        "reach": 2
-      },
-      {
         "week_start": "2026-09-14",
-        "count": 2,
-        "reach": 2
+        "count": 0,
+        "reach": 0
       },
       {
         "week_start": "2026-09-21",
-        "count": 2,
-        "reach": 2
+        "count": 0,
+        "reach": 0
       },
       {
         "week_start": "2026-09-28",
@@ -1799,23 +1905,23 @@
       },
       {
         "week_start": "2026-10-05",
-        "count": 2,
-        "reach": 7
+        "count": 0,
+        "reach": 0
       },
       {
         "week_start": "2026-10-12",
-        "count": 2,
-        "reach": 2
+        "count": 1,
+        "reach": 1
       },
       {
         "week_start": "2026-10-19",
-        "count": 8,
-        "reach": 2916
+        "count": 10,
+        "reach": 10
       },
       {
         "week_start": "2026-10-26",
-        "count": 4,
-        "reach": 15
+        "count": 8,
+        "reach": 10
       }
     ]
   },
@@ -1924,112 +2030,6 @@
         "week_start": "2026-10-26",
         "count": 0,
         "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "namesake-noise-match-johns-hopkins-agora",
-    "name": "Namesake/noise match: Johns Hopkins, agora",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 20,
-    "mentions_in_digest": 0,
-    "reach_proxy": 22,
-    "first_mention_date": "2026-09-01",
-    "last_mention_date": "2026-10-29",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 20
-    },
-    "top_sources": [
-      {
-        "source": "A Gazeta",
-        "count": 1
-      },
-      {
-        "source": "BLOGDODALMO",
-        "count": 1
-      },
-      {
-        "source": "Brasil Soberano e Livre",
-        "count": 1
-      },
-      {
-        "source": "CosmoNerd",
-        "count": 1
-      },
-      {
-        "source": "Cryptopolitan",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 3,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-10-19",
-        "count": 10,
-        "reach": 10
-      },
-      {
-        "week_start": "2026-10-26",
-        "count": 6,
-        "reach": 8
       }
     ]
   },
@@ -2151,16 +2151,16 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 17,
+    "mentions_total": 18,
     "mentions_in_digest": 0,
-    "reach_proxy": 22,
+    "reach_proxy": 23,
     "first_mention_date": "2026-09-01",
-    "last_mention_date": "2026-10-28",
+    "last_mention_date": "2026-10-30",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
       "negative": 0,
-      "unknown": 17
+      "unknown": 18
     },
     "top_sources": [
       {
@@ -2242,8 +2242,8 @@
       },
       {
         "week_start": "2026-10-26",
-        "count": 3,
-        "reach": 7
+        "count": 4,
+        "reach": 8
       }
     ]
   },
@@ -2354,6 +2354,114 @@
     ]
   },
   {
+    "id": "amy-binder",
+    "name": "Amy Binder",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Institute Professor of Sociology",
+    "profile_url": "https://snfagora.jhu.edu/directory/amy-binder/",
+    "photo_url": null,
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 15,
+    "mentions_in_digest": 13,
+    "reach_proxy": 89,
+    "first_mention_date": "2026-07-08",
+    "last_mention_date": "2026-10-30",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0,
+      "unknown": 9
+    },
+    "top_sources": [
+      {
+        "source": "LinkedIn",
+        "count": 3
+      },
+      {
+        "source": "AGI - Agenzia Giornalistica Italia",
+        "count": 1
+      },
+      {
+        "source": "AOL",
+        "count": 1
+      },
+      {
+        "source": "Inter-County Leader",
+        "count": 1
+      },
+      {
+        "source": "Phoenix New Times",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 2,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 3,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 2,
+        "reach": 6
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 3,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-10-26",
+        "count": 1,
+        "reach": 65
+      }
+    ]
+  },
+  {
     "id": "martha-s-jones",
     "name": "Martha S. Jones",
     "kind": "faculty",
@@ -2453,114 +2561,6 @@
         "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
-      },
-      {
-        "week_start": "2026-10-26",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "amy-binder",
-    "name": "Amy Binder",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Institute Professor of Sociology",
-    "profile_url": "https://snfagora.jhu.edu/directory/amy-binder/",
-    "photo_url": null,
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 14,
-    "mentions_in_digest": 13,
-    "reach_proxy": 24,
-    "first_mention_date": "2026-07-08",
-    "last_mention_date": "2026-10-24",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 5,
-      "negative": 0,
-      "unknown": 9
-    },
-    "top_sources": [
-      {
-        "source": "LinkedIn",
-        "count": 3
-      },
-      {
-        "source": "AGI - Agenzia Giornalistica Italia",
-        "count": 1
-      },
-      {
-        "source": "AOL",
-        "count": 1
-      },
-      {
-        "source": "Phoenix New Times",
-        "count": 1
-      },
-      {
-        "source": "Salon.com",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 2,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 3,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 2,
-        "reach": 6
-      },
-      {
-        "week_start": "2026-10-19",
-        "count": 3,
-        "reach": 3
       },
       {
         "week_start": "2026-10-26",
@@ -2880,6 +2880,112 @@
         "week_start": "2026-10-26",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-johns-hopkins-nih-funding",
+    "name": "Namesake/noise match: Johns Hopkins, NIH funding",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 11,
+    "mentions_in_digest": 0,
+    "reach_proxy": 14,
+    "first_mention_date": "2026-09-01",
+    "last_mention_date": "2026-10-30",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 11
+    },
+    "top_sources": [
+      {
+        "source": "N2O Records",
+        "count": 2
+      },
+      {
+        "source": "Twitter",
+        "count": 2
+      },
+      {
+        "source": "Bright Surf",
+        "count": 1
+      },
+      {
+        "source": "MSN.com",
+        "count": 1
+      },
+      {
+        "source": "Medical Daily",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 7,
+        "reach": 10
+      },
+      {
+        "week_start": "2026-10-26",
+        "count": 2,
+        "reach": 2
       }
     ]
   },
@@ -3314,8 +3420,8 @@
     ]
   },
   {
-    "id": "namesake-noise-match-johns-hopkins-nih-funding",
-    "name": "Namesake/noise match: Johns Hopkins, NIH funding",
+    "id": "namesake-noise-match-agora-hopkins",
+    "name": "Namesake/noise match: Agora, Hopkins",
     "kind": "unmatched",
     "tracked": false,
     "title": "",
@@ -3325,9 +3431,9 @@
     "is_ces": false,
     "mentions_total": 10,
     "mentions_in_digest": 0,
-    "reach_proxy": 13,
-    "first_mention_date": "2026-09-01",
-    "last_mention_date": "2026-10-27",
+    "reach_proxy": 388,
+    "first_mention_date": "2026-10-15",
+    "last_mention_date": "2026-10-30",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
@@ -3336,23 +3442,23 @@
     },
     "top_sources": [
       {
-        "source": "N2O Records",
-        "count": 2
-      },
-      {
         "source": "Twitter",
         "count": 2
       },
       {
-        "source": "Bright Surf",
+        "source": "BLOG DO ORLANDO TAMBOSI",
         "count": 1
       },
       {
-        "source": "MSN.com",
+        "source": "Baltimore Positive",
         "count": 1
       },
       {
-        "source": "Medical Daily",
+        "source": "NSC Total",
+        "count": 1
+      },
+      {
+        "source": "Popcorntv",
         "count": 1
       }
     ],
@@ -3374,8 +3480,8 @@
       },
       {
         "week_start": "2026-08-31",
-        "count": 2,
-        "reach": 2
+        "count": 0,
+        "reach": 0
       },
       {
         "week_start": "2026-09-07",
@@ -3404,13 +3510,13 @@
       },
       {
         "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
+        "count": 5,
+        "reach": 383
       },
       {
         "week_start": "2026-10-19",
-        "count": 7,
-        "reach": 10
+        "count": 4,
+        "reach": 4
       },
       {
         "week_start": "2026-10-26",
@@ -3515,112 +3621,6 @@
         "week_start": "2026-10-19",
         "count": 0,
         "reach": 0
-      },
-      {
-        "week_start": "2026-10-26",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "namesake-noise-match-agora-hopkins",
-    "name": "Namesake/noise match: Agora, Hopkins",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 9,
-    "mentions_in_digest": 0,
-    "reach_proxy": 387,
-    "first_mention_date": "2026-10-15",
-    "last_mention_date": "2026-10-22",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 9
-    },
-    "top_sources": [
-      {
-        "source": "Twitter",
-        "count": 2
-      },
-      {
-        "source": "BLOG DO ORLANDO TAMBOSI",
-        "count": 1
-      },
-      {
-        "source": "Baltimore Positive",
-        "count": 1
-      },
-      {
-        "source": "NSC Total",
-        "count": 1
-      },
-      {
-        "source": "SAPO",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 5,
-        "reach": 383
-      },
-      {
-        "week_start": "2026-10-19",
-        "count": 4,
-        "reach": 4
       },
       {
         "week_start": "2026-10-26",
@@ -4790,6 +4790,108 @@
     ]
   },
   {
+    "id": "namesake-noise-match-johns-hopkins-snf-agora-institute",
+    "name": "Namesake/noise match: Johns Hopkins, SNF Agora Institute",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 6,
+    "mentions_in_digest": 0,
+    "reach_proxy": 6,
+    "first_mention_date": "2026-10-20",
+    "last_mention_date": "2026-10-30",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 6
+    },
+    "top_sources": [
+      {
+        "source": "LinkedIn",
+        "count": 2
+      },
+      {
+        "source": "Youtube",
+        "count": 2
+      },
+      {
+        "source": "Comments",
+        "count": 1
+      },
+      {
+        "source": "The Dallas Morning News",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 5,
+        "reach": 5
+      },
+      {
+        "week_start": "2026-10-26",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "steven-teles",
     "name": "Steven Teles",
     "kind": "faculty",
@@ -5218,108 +5320,6 @@
         "week_start": "2026-10-26",
         "count": 2,
         "reach": 3
-      }
-    ]
-  },
-  {
-    "id": "namesake-noise-match-johns-hopkins-snf-agora-institute",
-    "name": "Namesake/noise match: Johns Hopkins, SNF Agora Institute",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 5,
-    "mentions_in_digest": 0,
-    "reach_proxy": 5,
-    "first_mention_date": "2026-10-20",
-    "last_mention_date": "2026-10-24",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 5
-    },
-    "top_sources": [
-      {
-        "source": "Youtube",
-        "count": 2
-      },
-      {
-        "source": "Comments",
-        "count": 1
-      },
-      {
-        "source": "LinkedIn",
-        "count": 1
-      },
-      {
-        "source": "The Dallas Morning News",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-19",
-        "count": 5,
-        "reach": 5
-      },
-      {
-        "week_start": "2026-10-26",
-        "count": 0,
-        "reach": 0
       }
     ]
   },
@@ -5834,6 +5834,210 @@
         "week_start": "2026-10-26",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-higher-education-johns-hopkins",
+    "name": "Namesake/noise match: Higher education, Johns Hopkins",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 4,
+    "mentions_in_digest": 0,
+    "reach_proxy": 6,
+    "first_mention_date": "2026-10-20",
+    "last_mention_date": "2026-10-31",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 4
+    },
+    "top_sources": [
+      {
+        "source": "EUROPE SAYS",
+        "count": 1
+      },
+      {
+        "source": "N2O Records",
+        "count": 1
+      },
+      {
+        "source": "The Hindu",
+        "count": 1
+      },
+      {
+        "source": "Yale Daily News",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 2,
+        "reach": 4
+      },
+      {
+        "week_start": "2026-10-26",
+        "count": 2,
+        "reach": 2
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-johns-hopkins-university-president",
+    "name": "Namesake/noise match: Johns Hopkins, University president",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 4,
+    "mentions_in_digest": 0,
+    "reach_proxy": 7,
+    "first_mention_date": "2026-09-01",
+    "last_mention_date": "2026-10-30",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 4
+    },
+    "top_sources": [
+      {
+        "source": "Banner",
+        "count": 1
+      },
+      {
+        "source": "Jewish News Syndicate (JNS.org)",
+        "count": 1
+      },
+      {
+        "source": "Pressbee",
+        "count": 1
+      },
+      {
+        "source": "The University of Scranton",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-26",
+        "count": 2,
+        "reach": 5
       }
     ]
   },
@@ -6736,104 +6940,6 @@
     ]
   },
   {
-    "id": "namesake-noise-match-higher-education-johns-hopkins",
-    "name": "Namesake/noise match: Higher education, Johns Hopkins",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 3,
-    "mentions_in_digest": 0,
-    "reach_proxy": 5,
-    "first_mention_date": "2026-10-20",
-    "last_mention_date": "2026-10-29",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 3
-    },
-    "top_sources": [
-      {
-        "source": "EUROPE SAYS",
-        "count": 1
-      },
-      {
-        "source": "N2O Records",
-        "count": 1
-      },
-      {
-        "source": "Yale Daily News",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-19",
-        "count": 2,
-        "reach": 4
-      },
-      {
-        "week_start": "2026-10-26",
-        "count": 1,
-        "reach": 1
-      }
-    ]
-  },
-  {
     "id": "namesake-noise-match-johns-hopkins-agora",
     "name": "Namesake/noise match: Johns Hopkins, Agora",
     "kind": "unmatched",
@@ -6923,104 +7029,6 @@
         "week_start": "2026-10-19",
         "count": 1,
         "reach": 1
-      },
-      {
-        "week_start": "2026-10-26",
-        "count": 1,
-        "reach": 1
-      }
-    ]
-  },
-  {
-    "id": "namesake-noise-match-johns-hopkins-university-president",
-    "name": "Namesake/noise match: Johns Hopkins, University president",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 3,
-    "mentions_in_digest": 0,
-    "reach_proxy": 3,
-    "first_mention_date": "2026-09-01",
-    "last_mention_date": "2026-10-26",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 3
-    },
-    "top_sources": [
-      {
-        "source": "Banner",
-        "count": 1
-      },
-      {
-        "source": "Jewish News Syndicate (JNS.org)",
-        "count": 1
-      },
-      {
-        "source": "The University of Scranton",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-08-10",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-10-19",
-        "count": 0,
-        "reach": 0
       },
       {
         "week_start": "2026-10-26",
@@ -8256,6 +8264,100 @@
         "week_start": "2026-10-26",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-higher-education-higher-education",
+    "name": "Namesake/noise match: Higher Education, Higher education",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 2,
+    "mentions_in_digest": 0,
+    "reach_proxy": 2,
+    "first_mention_date": "2026-10-30",
+    "last_mention_date": "2026-10-30",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 2
+    },
+    "top_sources": [
+      {
+        "source": "Gateways: International Journal of Community Research and Engagement",
+        "count": 1
+      },
+      {
+        "source": "Springer",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-10",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-17",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-26",
+        "count": 2,
+        "reach": 2
       }
     ]
   },
