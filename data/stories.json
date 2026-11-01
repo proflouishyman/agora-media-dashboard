@@ -1,7 +1,595 @@
 {
-  "generated_at": "2026-10-31T07:08:28-04:00",
-  "count": 1798,
+  "generated_at": "2026-11-01T07:07:34-05:00",
+  "count": 1822,
   "stories": [
+    {
+      "id": 1812,
+      "date": "2026-11-01",
+      "week_start": "2026-10-26",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Twitter post (no text captured; matches VK Applebaum post keyphrases)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 11,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1820,
+      "date": "2026-11-01",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, Higher Education",
+      "is_ces": false,
+      "title": "22 Maryland colleges reported 465 rapes, 169 fondling incidents over 3-year span",
+      "has_text": true,
+      "url": "https://www.yahoo.com/news/us/articles/22-maryland-colleges-reported-465-095300958.html",
+      "source": "Yahoo! News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "22 Maryland colleges reported 465 rapes, 169 fondling incidents over 3-year span https://www.yahoo.com/news/us/articles/22-maryland-colleges-reported-465-095300958.html",
+          "chars": 104
+        },
+        "bluesky": {
+          "text": "22 Maryland colleges reported 465 rapes, 169 fondling incidents over 3-year span https://www.yahoo.com/news/us/articles/22-maryland-colleges-reported-465-095300958.html",
+          "chars": 168
+        }
+      }
+    },
+    {
+      "id": 1819,
+      "date": "2026-11-01",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: agora, Hopkins",
+      "is_ces": false,
+      "title": "WSL nas Filipinas: Italo cai, Luana vai às quartas e Filipinho vira no último segundo",
+      "has_text": true,
+      "url": "https://motoreseacao.com/wsl-philippines-pro-2026-dia-2-italo-eliminado-luana-silva-quartas-toledo/",
+      "source": "Motores e Ação",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "WSL nas Filipinas: Italo cai, Luana vai às quartas e Filipinho vira no último segundo https://motoreseacao.com/wsl-philippines-pro-2026-dia-2-italo-eliminado-luana-silva-quartas-toledo/",
+          "chars": 109
+        },
+        "bluesky": {
+          "text": "WSL nas Filipinas: Italo cai, Luana vai às quartas e Filipinho vira no último segundo https://motoreseacao.com/wsl-philippines-pro-2026-dia-2-italo-eliminado-luana-silva-quartas-toledo/",
+          "chars": 185
+        }
+      }
+    },
+    {
+      "id": 1810,
+      "date": "2026-11-01",
+      "week_start": "2026-10-26",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "À propos des Applebaum (VK post)",
+      "has_text": true,
+      "url": "https://vk.com/wall200001212258_16855",
+      "source": "VK",
+      "source_type": "forum",
+      "similar_mention_count": 1,
+      "entity_sentiment": "negative",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "À propos des Applebaum (VK post) https://vk.com/wall200001212258_16855",
+          "chars": 56
+        },
+        "bluesky": {
+          "text": "À propos des Applebaum (VK post) https://vk.com/wall200001212258_16855",
+          "chars": 70
+        }
+      }
+    },
+    {
+      "id": 1815,
+      "date": "2026-10-31",
+      "week_start": "2026-10-26",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "Twitter post (no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 39,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1817,
+      "date": "2026-10-31",
+      "week_start": "2026-10-26",
+      "person_id": "amy-binder",
+      "person": "Amy Binder",
+      "is_ces": false,
+      "title": "More members and money, and more fractures: The uncertain future of Erika Kirk’s Turning Point USA",
+      "has_text": true,
+      "url": "https://carolinereview.com/premium/stacker/stories/more-members-and-money-and-more-fractures-the-uncertain-future-of-erika-kirkrsquos-turning,96381",
+      "source": "Caroline Review",
+      "source_type": "online news",
+      "similar_mention_count": 18,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "More members and money, and more fractures: The uncertain future of Erika Kirk’s Turning Point USA https://carolinereview.com/premium/stacker/stories/more-members-and-money-and-more-fractures-the-uncertain-future-of-erika-kirkrsquos-turning,96381",
+          "chars": 122
+        },
+        "bluesky": {
+          "text": "More members and money, and more fractures: The uncertain future of Erika Kirk’s Turning Point USA https://carolinereview.com/premium/stacker/stories/more-members-and-money-and-more-fractures-the-uncertain-future-of-erika-kirkrsquos-turning,96381",
+          "chars": 246
+        }
+      }
+    },
+    {
+      "id": 1832,
+      "date": "2026-10-31",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, Agora",
+      "is_ces": false,
+      "title": "Imagens de comida geradas por IA continuam a tornar-se virais. Mas porque provocam tanta repulsa?",
+      "has_text": true,
+      "url": "https://tvi.iol.pt/noticias/gastronomia/menus/imagens-de-comida-geradas-por-ia-continuam-a-tornar-se-virais-mas-porque-provocam-tanta-repulsa/20261031/6aaeab6dd34e9a786e758b01",
+      "source": "TVI24 - IOL",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Imagens de comida geradas por IA continuam a tornar-se virais. Mas porque provocam tanta repulsa? https://tvi.iol.pt/noticias/gastronomia/menus/imagens-de-comida-geradas-por-ia-continuam-a-tornar-se-virais-mas-porque-provocam-tanta-repulsa/20261031/6aaeab6dd34e9a786e758b01",
+          "chars": 121
+        },
+        "bluesky": {
+          "text": "Imagens de comida geradas por IA continuam a tornar-se virais. Mas porque provocam tanta repulsa? https://tvi.iol.pt/noticias/gastronomia/menus/imagens-de-comida-geradas-por-ia-continuam-a-tornar-se-virais-mas-porque-provocam-tanta-repulsa/20261031/6aaeab6dd34e9a786e758b01",
+          "chars": 273
+        }
+      }
+    },
+    {
+      "id": 1827,
+      "date": "2026-10-31",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: higher education, Johns Hopkins, Higher Education",
+      "is_ces": false,
+      "title": "The Final Frontier Of Higher Education",
+      "has_text": true,
+      "url": "https://ca.finance.yahoo.com/news/final-frontier-higher-education-204149683.html",
+      "source": "Yahoo! Canada",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Final Frontier Of Higher Education https://ca.finance.yahoo.com/news/final-frontier-higher-education-204149683.html",
+          "chars": 62
+        },
+        "bluesky": {
+          "text": "The Final Frontier Of Higher Education https://ca.finance.yahoo.com/news/final-frontier-higher-education-204149683.html",
+          "chars": 119
+        }
+      }
+    },
+    {
+      "id": 1814,
+      "date": "2026-10-31",
+      "week_start": "2026-10-26",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Twitter post (no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1831,
+      "date": "2026-10-31",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "Between Beats, a hermenêutica da presença digital",
+      "has_text": true,
+      "url": "https://djsound.com.br/?p=17670",
+      "source": "DJ SOUND",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Between Beats, a hermenêutica da presença digital https://djsound.com.br/?p=17670",
+          "chars": 73
+        },
+        "bluesky": {
+          "text": "Between Beats, a hermenêutica da presença digital https://djsound.com.br/?p=17670",
+          "chars": 81
+        }
+      }
+    },
+    {
+      "id": 1830,
+      "date": "2026-10-31",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-agora-johns-hopkins",
+      "person": "Namesake/noise match: agora, Johns Hopkins",
+      "is_ces": false,
+      "title": "Bactéria descobre portal de entrada para câncer de cólon",
+      "has_text": true,
+      "url": "https://pt.futuroprossimo.it/2026/10/trovata-la-porta-da-cui-un-batterio-fa-entrare-il-cancro-al-colon/",
+      "source": "Futuroprossimo",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Bactéria descobre portal de entrada para câncer de cólon https://pt.futuroprossimo.it/2026/10/trovata-la-porta-da-cui-un-batterio-fa-entrare-il-cancro-al-colon/",
+          "chars": 80
+        },
+        "bluesky": {
+          "text": "Bactéria descobre portal de entrada para câncer de cólon https://pt.futuroprossimo.it/2026/10/trovata-la-porta-da-cui-un-batterio-fa-entrare-il-cancro-al-colon/",
+          "chars": 160
+        }
+      }
+    },
+    {
+      "id": 1829,
+      "date": "2026-10-31",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-agora-agora-hopkins",
+      "person": "Namesake/noise match: Agora, agora, Hopkins",
+      "is_ces": false,
+      "title": "“Vingadores, avante!”: relembre a evolução dos heróis da Marvel no MCU",
+      "has_text": true,
+      "url": "https://www.einerd.com/vingadores-avante-relembre-a-evolucao-dos-herois-da-marvel-no-mcu/",
+      "source": "Ei Nerd",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "“Vingadores, avante!”: relembre a evolução dos heróis da Marvel no MCU https://www.einerd.com/vingadores-avante-relembre-a-evolucao-dos-herois-da-marvel-no-mcu/",
+          "chars": 94
+        },
+        "bluesky": {
+          "text": "“Vingadores, avante!”: relembre a evolução dos heróis da Marvel no MCU https://www.einerd.com/vingadores-avante-relembre-a-evolucao-dos-herois-da-marvel-no-mcu/",
+          "chars": 160
+        }
+      }
+    },
+    {
+      "id": 1828,
+      "date": "2026-10-31",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-agora-johns-hopkins",
+      "person": "Namesake/noise match: Agora, Johns Hopkins",
+      "is_ces": false,
+      "title": "Estudo descobre como bactéria intestinal pode favorecer câncer de cólon",
+      "has_text": true,
+      "url": "https://www.metropoles.com/saude/estudo-descobre-como-bacteria-intestinal-pode-favorecer-cancer-de-colon",
+      "source": "Metrópoles",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Estudo descobre como bactéria intestinal pode favorecer câncer de cólon https://www.metropoles.com/saude/estudo-descobre-como-bacteria-intestinal-pode-favorecer-cancer-de-colon",
+          "chars": 95
+        },
+        "bluesky": {
+          "text": "Estudo descobre como bactéria intestinal pode favorecer câncer de cólon https://www.metropoles.com/saude/estudo-descobre-como-bacteria-intestinal-pode-favorecer-cancer-de-colon",
+          "chars": 176
+        }
+      }
+    },
+    {
+      "id": 1826,
+      "date": "2026-10-31",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, Higher Education",
+      "is_ces": false,
+      "title": "Anna Neumann",
+      "has_text": true,
+      "url": "https://naeducation.org/member/anna-neumann/",
+      "source": "National Academy of Education",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Anna Neumann https://naeducation.org/member/anna-neumann/",
+          "chars": 36
+        },
+        "bluesky": {
+          "text": "Anna Neumann https://naeducation.org/member/anna-neumann/",
+          "chars": 57
+        }
+      }
+    },
+    {
+      "id": 1825,
+      "date": "2026-10-31",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-higher-education-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Michael Bastedo",
+      "has_text": true,
+      "url": "https://naeducation.org/member/michael-bastedo/",
+      "source": "National Academy of Education",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Michael Bastedo https://naeducation.org/member/michael-bastedo/",
+          "chars": 39
+        },
+        "bluesky": {
+          "text": "Michael Bastedo https://naeducation.org/member/michael-bastedo/",
+          "chars": 63
+        }
+      }
+    },
+    {
+      "id": 1824,
+      "date": "2026-10-31",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-higher-education-higher-education-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: higher education, Higher education, Johns Hopkins, Higher Education",
+      "is_ces": false,
+      "title": "Adrianna Kezar",
+      "has_text": true,
+      "url": "https://naeducation.org/member/adrianna-kezar/",
+      "source": "National Academy of Education",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Adrianna Kezar https://naeducation.org/member/adrianna-kezar/",
+          "chars": 38
+        },
+        "bluesky": {
+          "text": "Adrianna Kezar https://naeducation.org/member/adrianna-kezar/",
+          "chars": 61
+        }
+      }
+    },
+    {
+      "id": 1823,
+      "date": "2026-10-31",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "Bactéria intestinal comum pode favorecer câncer de cólon, mostra estudo",
+      "has_text": true,
+      "url": "https://tvsimbrasil.com.br/brasil/saude/noticia/2026/10/31/bacteria-intestinal-pode-favorecer-cancer-colon-estudo",
+      "source": "TV Sim Brasil",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Bactéria intestinal comum pode favorecer câncer de cólon, mostra estudo https://tvsimbrasil.com.br/brasil/saude/noticia/2026/10/31/bacteria-intestinal-pode-favorecer-cancer-colon-estudo",
+          "chars": 95
+        },
+        "bluesky": {
+          "text": "Bactéria intestinal comum pode favorecer câncer de cólon, mostra estudo https://tvsimbrasil.com.br/brasil/saude/noticia/2026/10/31/bacteria-intestinal-pode-favorecer-cancer-colon-estudo",
+          "chars": 185
+        }
+      }
+    },
+    {
+      "id": 1822,
+      "date": "2026-10-31",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-higher-education-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "AI humanizers and the political economy of academic integrity in higher education",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s40979-026-00238-6",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "AI humanizers and the political economy of academic integrity in higher education https://link.springer.com/article/10.1007/s40979-026-00238-6",
+          "chars": 105
+        },
+        "bluesky": {
+          "text": "AI humanizers and the political economy of academic integrity in higher education https://link.springer.com/article/10.1007/s40979-026-00238-6",
+          "chars": 142
+        }
+      }
+    },
+    {
+      "id": 1821,
+      "date": "2026-10-31",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-agora-agora-hopkins",
+      "person": "Namesake/noise match: agora, Agora, Hopkins",
+      "is_ces": false,
+      "title": "Vingadores: Doutor Destino e a evolução dos heróis",
+      "has_text": true,
+      "url": "https://www.europesays.com/pt/572303/",
+      "source": "EUROPE SAYS",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Vingadores: Doutor Destino e a evolução dos heróis https://www.europesays.com/pt/572303/",
+          "chars": 74
+        },
+        "bluesky": {
+          "text": "Vingadores: Doutor Destino e a evolução dos heróis https://www.europesays.com/pt/572303/",
+          "chars": 88
+        }
+      }
+    },
+    {
+      "id": 1818,
+      "date": "2026-10-31",
+      "week_start": "2026-10-26",
+      "person_id": "eliot-cohen",
+      "person": "Eliot Cohen",
+      "is_ces": false,
+      "title": "YouTube comment (ex-husband had Eliot Cohen as a SAIS professor)",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=UVSwTEdoEHM&lc=UgxiWBGCjHWxw7d2dMd4AaABAg",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "YouTube comment (ex-husband had Eliot Cohen as a SAIS professor) https://www.youtube.com/watch?v=UVSwTEdoEHM&lc=UgxiWBGCjHWxw7d2dMd4AaABAg",
+          "chars": 88
+        },
+        "bluesky": {
+          "text": "YouTube comment (ex-husband had Eliot Cohen as a SAIS professor) https://www.youtube.com/watch?v=UVSwTEdoEHM&lc=UgxiWBGCjHWxw7d2dMd4AaABAg",
+          "chars": 138
+        }
+      }
+    },
+    {
+      "id": 1816,
+      "date": "2026-10-31",
+      "week_start": "2026-10-26",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "reddit.com/r/AskHistory comment (no text captured)",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/AskHistory/comments/1xhozxr/comment/19rxivzamux5w/",
+      "source": "reddit.com/r/AskHistory",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "reddit.com/r/AskHistory comment (no text captured) https://www.reddit.com/r/AskHistory/comments/1xhozxr/comment/19rxivzamux5w/",
+          "chars": 74
+        },
+        "bluesky": {
+          "text": "reddit.com/r/AskHistory comment (no text captured) https://www.reddit.com/r/AskHistory/comments/1xhozxr/comment/19rxivzamux5w/",
+          "chars": 126
+        }
+      }
+    },
+    {
+      "id": 1813,
+      "date": "2026-10-31",
+      "week_start": "2026-10-26",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Twitter post (no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1811,
+      "date": "2026-10-31",
+      "week_start": "2026-10-26",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "The Democratic Party’s Masculinity Crisis",
+      "has_text": true,
+      "url": "https://dnyuz.com/2026/10/31/the-democratic-partys-masculinity-crisis/",
+      "source": "DNYUZ (New York Times opinion)",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "The Democratic Party’s Masculinity Crisis https://dnyuz.com/2026/10/31/the-democratic-partys-masculinity-crisis/",
+          "chars": 65
+        },
+        "bluesky": {
+          "text": "The Democratic Party’s Masculinity Crisis https://dnyuz.com/2026/10/31/the-democratic-partys-masculinity-crisis/",
+          "chars": 112
+        }
+      }
+    },
+    {
+      "id": 1809,
+      "date": "2026-10-31",
+      "week_start": "2026-10-26",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "“Peace”",
+      "has_text": true,
+      "url": "https://anneapplebaum.substack.com/p/peace",
+      "source": "Open Letters, from Anne Applebaum (Substack)",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "“Peace” https://anneapplebaum.substack.com/p/peace",
+          "chars": 31
+        },
+        "bluesky": {
+          "text": "“Peace” https://anneapplebaum.substack.com/p/peace",
+          "chars": 50
+        }
+      }
+    },
     {
       "id": 1785,
       "date": "2026-10-31",

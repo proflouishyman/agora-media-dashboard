@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T07:08:28-04:00",
-  "generated_date": "2026-10-31",
+  "generated_at": "2026-11-01T07:07:34-05:00",
+  "generated_date": "2026-11-01",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-10-31",
+    "last_mention_date": "2026-11-01",
     "observed_dates": [
       "2026-07-02",
       "2026-07-03",
@@ -126,10 +126,11 @@
       "2026-10-28",
       "2026-10-29",
       "2026-10-30",
-      "2026-10-31"
+      "2026-10-31",
+      "2026-11-01"
     ],
-    "total_mentions": 1798,
-    "total_raw_documents": 12102,
+    "total_mentions": 1822,
+    "total_raw_documents": 12189,
     "total_tracked_people": 100,
     "total_ces_people": 17
   },
@@ -137,7 +138,7 @@
     "all": {
       "label": "SNF Agora Institute",
       "people": 100,
-      "mentions": 1798
+      "mentions": 1822
     },
     "ces": {
       "label": "Center for Economy and Society",
@@ -146,10 +147,10 @@
     }
   },
   "data_quality": {
-    "mentions_missing_url": 344,
+    "mentions_missing_url": 348,
     "mentions_no_text_captured": 90,
-    "mentions_sentiment_unknown": 1459,
-    "mentions_shareable": 1435,
+    "mentions_sentiment_unknown": 1482,
+    "mentions_shareable": 1455,
     "unmatched_persons": [
       {
         "person": "Johns Hopkins",
@@ -161,7 +162,7 @@
       },
       {
         "person": "None (no captured text)",
-        "mentions": 56
+        "mentions": 58
       },
       {
         "person": "Namesake/noise match: Johns Hopkins, higher education",
@@ -181,7 +182,7 @@
       },
       {
         "person": "Namesake/noise match: Johns Hopkins, agora",
-        "mentions": 22
+        "mentions": 24
       },
       {
         "person": "Namesake/noise match: Hopkins, agora",
@@ -189,7 +190,7 @@
       },
       {
         "person": "Namesake/noise match: agora, Hopkins",
-        "mentions": 16
+        "mentions": 17
       },
       {
         "person": "Unattributed (institutional keyword only)",
@@ -208,27 +209,27 @@
         "mentions": 10
       },
       {
+        "person": "Namesake/noise match: Johns Hopkins, Higher Education",
+        "mentions": 10
+      },
+      {
+        "person": "Eliot Cohen",
+        "mentions": 9
+      },
+      {
+        "person": "Namesake/noise match: agora, Johns Hopkins",
+        "mentions": 9
+      },
+      {
         "person": "(false positive)",
         "mentions": 8
       },
       {
-        "person": "Eliot Cohen",
-        "mentions": 8
-      },
-      {
-        "person": "Namesake/noise match: Johns Hopkins, Higher Education",
-        "mentions": 8
-      },
-      {
-        "person": "Namesake/noise match: agora, Johns Hopkins",
-        "mentions": 8
+        "person": "Namesake/noise match: Hopkins, Agora",
+        "mentions": 7
       },
       {
         "person": "Denise Dresser (namesake, OpenAI)",
-        "mentions": 6
-      },
-      {
-        "person": "Namesake/noise match: Hopkins, Agora",
         "mentions": 6
       },
       {
@@ -245,6 +246,10 @@
       },
       {
         "person": "Leah Wright Rigueur",
+        "mentions": 4
+      },
+      {
+        "person": "Namesake/noise match: Agora, Johns Hopkins",
         "mentions": 4
       },
       {
@@ -268,7 +273,7 @@
         "mentions": 3
       },
       {
-        "person": "Namesake/noise match: Agora, Johns Hopkins",
+        "person": "Namesake/noise match: Agora, agora, Hopkins",
         "mentions": 3
       },
       {
@@ -309,10 +314,6 @@
       },
       {
         "person": "Namesake/noise match: Agora, Johns Hopkins, agora",
-        "mentions": 2
-      },
-      {
-        "person": "Namesake/noise match: Agora, agora, Hopkins",
         "mentions": 2
       },
       {
@@ -496,6 +497,10 @@
         "mentions": 1
       },
       {
+        "person": "Namesake/noise match: Higher Education, higher education, Johns Hopkins",
+        "mentions": 1
+      },
+      {
         "person": "Namesake/noise match: Higher education, Hopkins University, higher education",
         "mentions": 1
       },
@@ -592,6 +597,10 @@
         "mentions": 1
       },
       {
+        "person": "Namesake/noise match: agora, Agora, Hopkins",
+        "mentions": 1
+      },
+      {
         "person": "Namesake/noise match: agora, Agora, Johns Hopkins",
         "mentions": 1
       },
@@ -616,7 +625,19 @@
         "mentions": 1
       },
       {
+        "person": "Namesake/noise match: higher education, Higher Education, Johns Hopkins",
+        "mentions": 1
+      },
+      {
+        "person": "Namesake/noise match: higher education, Higher education, Johns Hopkins, Higher Education",
+        "mentions": 1
+      },
+      {
         "person": "Namesake/noise match: higher education, Hopkins University, Johns Hopkins",
+        "mentions": 1
+      },
+      {
+        "person": "Namesake/noise match: higher education, Johns Hopkins, Higher Education",
         "mentions": 1
       },
       {

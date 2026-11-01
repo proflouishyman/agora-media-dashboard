@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-10-31T07:08:28-04:00",
-  "count": 91,
+  "generated_at": "2026-11-01T07:07:34-05:00",
+  "count": 92,
   "picks": [
+    {
+      "id": 110,
+      "mention_id": 1809,
+      "digest_date": "2026-10-31",
+      "person": "Anne Applebaum",
+      "person_id": "anne-applebaum",
+      "person_ids": [
+        "anne-applebaum"
+      ],
+      "is_ces": false,
+      "punchy_title": "Why cutting off Ukraine would not bring peace",
+      "headline": "Why cutting off Ukraine would not bring peace",
+      "pull_quote": null,
+      "rationale": null,
+      "url": "https://anneapplebaum.substack.com/p/peace",
+      "story_url": "https://anneapplebaum.substack.com/p/peace",
+      "created_at": "2026-11-01 12:07:31",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Cutting aid to Ukraine won't bring \"peace,\" argues SNF Agora senior fellow Anne Applebaum. It would mean guerrilla war, repression, refugees and a stronger Russia, and Europe would end up spending far more on defense. https://anneapplebaum.substack.com/p/peace",
+          "chars": 260,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Cutting%20aid%20to%20Ukraine%20won%27t%20bring%20%22peace%2C%22%20argues%20SNF%20Agora%20senior%20fellow%20Anne%20Applebaum.%20It%20would%20mean%20guerrilla%20war%2C%20repression%2C%20refugees%20and%20a%20stronger%20Russia%2C%20and%20Europe%20would%20end%20up%20spending%20far%20more%20on%20defense.%20https%3A//anneapplebaum.substack.com/p/peace"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Calls to stop arming Ukraine \"so there will be peace\" are misleading, writes SNF Agora senior fellow Anne Applebaum. Without European support the front line would break, bringing guerrilla war, repression, refugees and a stronger Russia. https://anneapplebaum.substack.com/p/peace",
+          "chars": 280,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Calls%20to%20stop%20arming%20Ukraine%20%22so%20there%20will%20be%20peace%22%20are%20misleading%2C%20writes%20SNF%20Agora%20senior%20fellow%20Anne%20Applebaum.%20Without%20European%20support%20the%20front%20line%20would%20break%2C%20bringing%20guerrilla%20war%2C%20repression%2C%20refugees%20and%20a%20stronger%20Russia.%20https%3A//anneapplebaum.substack.com/p/peace"
+        }
+      ]
+    },
     {
       "id": 109,
       "mention_id": 1807,
