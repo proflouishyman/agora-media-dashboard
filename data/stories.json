@@ -1,7 +1,275 @@
 {
-  "generated_at": "2026-11-01T07:07:34-05:00",
-  "count": 1822,
+  "generated_at": "2026-11-02T07:08:42-05:00",
+  "count": 1844,
   "stories": [
+    {
+      "id": 1841,
+      "date": "2026-11-02",
+      "week_start": "2026-11-02",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Twitter posts (no text captured; Applebaum + Agora Institute)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 5,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1845,
+      "date": "2026-11-02",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, agora",
+      "is_ces": false,
+      "title": "Yolanda Hopkins segura lugar na elite mundial após quinto posto nas Filipinas",
+      "has_text": true,
+      "url": "https://www.sulinformacao.pt/2026/11/yolanda-hopkins-segura-lugar-na-elite-mundial-apos-quinto-posto-nas-filipinas/",
+      "source": "Sul Informação",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Yolanda Hopkins segura lugar na elite mundial após quinto posto nas Filipinas https://www.sulinformacao.pt/2026/11/yolanda-hopkins-segura-lugar-na-elite-mundial-apos-quinto-posto-nas-filipinas/",
+          "chars": 101
+        },
+        "bluesky": {
+          "text": "Yolanda Hopkins segura lugar na elite mundial após quinto posto nas Filipinas https://www.sulinformacao.pt/2026/11/yolanda-hopkins-segura-lugar-na-elite-mundial-apos-quinto-posto-nas-filipinas/",
+          "chars": 193
+        }
+      }
+    },
+    {
+      "id": 1834,
+      "date": "2026-11-02",
+      "week_start": "2026-11-02",
+      "person_id": "leah-wright",
+      "person": "Leah Wright",
+      "is_ces": false,
+      "title": "Identity Politics Have Entered a New Phase",
+      "has_text": true,
+      "url": "https://www.nytimes.com/2026/11/02/magazine/identity-politics-economy-class.html",
+      "source": "The New York Times",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Identity Politics Have Entered a New Phase https://www.nytimes.com/2026/11/02/magazine/identity-politics-economy-class.html",
+          "chars": 66
+        },
+        "bluesky": {
+          "text": "Identity Politics Have Entered a New Phase https://www.nytimes.com/2026/11/02/magazine/identity-politics-economy-class.html",
+          "chars": 123
+        }
+      }
+    },
+    {
+      "id": 1854,
+      "date": "2026-11-02",
+      "week_start": "2026-11-02",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "Vote The Facts, Not The Label",
+      "has_text": true,
+      "url": "https://thecitizen.com/2026/11/02/vote-the-facts-not-the-label/",
+      "source": "The Citizen",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Vote The Facts, Not The Label https://thecitizen.com/2026/11/02/vote-the-facts-not-the-label/",
+          "chars": 53
+        },
+        "bluesky": {
+          "text": "Vote The Facts, Not The Label https://thecitizen.com/2026/11/02/vote-the-facts-not-the-label/",
+          "chars": 93
+        }
+      }
+    },
+    {
+      "id": 1853,
+      "date": "2026-11-02",
+      "week_start": "2026-11-02",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Disinformation, the Midterms, and the Cost of Looking Away, with Anne Applebaum",
+      "has_text": true,
+      "url": "https://www.thewayfinder.net/p/disinformation-midterms-cost",
+      "source": "The Wayfinder (Substack)",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Disinformation, the Midterms, and the Cost of Looking Away, with Anne Applebaum https://www.thewayfinder.net/p/disinformation-midterms-cost",
+          "chars": 103
+        },
+        "bluesky": {
+          "text": "Disinformation, the Midterms, and the Cost of Looking Away, with Anne Applebaum https://www.thewayfinder.net/p/disinformation-midterms-cost",
+          "chars": 139
+        }
+      }
+    },
+    {
+      "id": 1850,
+      "date": "2026-11-02",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "Ensaio 1681 - O discurso da automação (2)",
+      "has_text": true,
+      "url": "http://pedrodemo.blogspot.com/2026/11/ensaio-1681-o-discurso-da-automacao-2.html",
+      "source": "Prof. Pedro Demo",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Ensaio 1681 - O discurso da automação (2) http://pedrodemo.blogspot.com/2026/11/ensaio-1681-o-discurso-da-automacao-2.html",
+          "chars": 65
+        },
+        "bluesky": {
+          "text": "Ensaio 1681 - O discurso da automação (2) http://pedrodemo.blogspot.com/2026/11/ensaio-1681-o-discurso-da-automacao-2.html",
+          "chars": 122
+        }
+      }
+    },
+    {
+      "id": 1849,
+      "date": "2026-11-02",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, Higher Education",
+      "is_ces": false,
+      "title": "Oleaginous yeasts on the skin of Bufo bufo",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s11756-026-02373-4",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Oleaginous yeasts on the skin of Bufo bufo https://link.springer.com/article/10.1007/s11756-026-02373-4",
+          "chars": 66
+        },
+        "bluesky": {
+          "text": "Oleaginous yeasts on the skin of Bufo bufo https://link.springer.com/article/10.1007/s11756-026-02373-4",
+          "chars": 103
+        }
+      }
+    },
+    {
+      "id": 1848,
+      "date": "2026-11-02",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, Higher Education",
+      "is_ces": false,
+      "title": "Bảng xếp hạng 300 đại học có cơ hội việc làm tốt nhất thế giới năm 2027",
+      "has_text": true,
+      "url": "https://cafebiz.vn/bang-xep-hang-300-dai-hoc-co-co-hoi-viec-lam-tot-nhat-the-gioi-nam-2027-harvard-chi-dung-thu-5-oxford-lot-top-3-dung-dau-van-la-cai-ten-quen-thuoc-176261102133258545.chn",
+      "source": "CafeBiz",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Bảng xếp hạng 300 đại học có cơ hội việc làm tốt nhất thế giới năm 2027 https://cafebiz.vn/bang-xep-hang-300-dai-hoc-co-co-hoi-viec-lam-tot-nhat-the-gioi-nam-2027-harvard-chi-dung-thu-5-oxford-lot-top-3-dung-dau-van-la-cai-ten-quen-thuoc-176261102133258545.chn",
+          "chars": 95
+        },
+        "bluesky": {
+          "text": "Bảng xếp hạng 300 đại học có cơ hội việc làm tốt nhất thế giới năm 2027 https://cafebiz.vn/bang-xep-hang-300-dai-hoc-co-co-hoi-viec-lam-tot-nhat-the-gioi-nam-2027-harvard-chi-dung-thu-5-oxford-lot-top-3-dung-dau-van-la-cai-ten-quen-thuoc-176261102133258545.chn",
+          "chars": 260
+        }
+      }
+    },
+    {
+      "id": 1846,
+      "date": "2026-11-02",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-agora-johns-hopkins",
+      "person": "Namesake/noise match: Agora, Johns Hopkins",
+      "is_ces": false,
+      "title": "Estudo descobre como bactéria intestinal pode favorecer câncer de cólon",
+      "has_text": true,
+      "url": "https://nervosasolta.com.br/2026/11/2/estudo-descobre-como-bacteria-intestinal-pode-favorecer-cancer-de-colon/2083",
+      "source": "Nervos à Solta",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Estudo descobre como bactéria intestinal pode favorecer câncer de cólon https://nervosasolta.com.br/2026/11/2/estudo-descobre-como-bacteria-intestinal-pode-favorecer-cancer-de-colon/2083",
+          "chars": 95
+        },
+        "bluesky": {
+          "text": "Estudo descobre como bactéria intestinal pode favorecer câncer de cólon https://nervosasolta.com.br/2026/11/2/estudo-descobre-como-bacteria-intestinal-pode-favorecer-cancer-de-colon/2083",
+          "chars": 186
+        }
+      }
+    },
+    {
+      "id": 1839,
+      "date": "2026-11-01",
+      "week_start": "2026-10-26",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Twitter posts (no text captured; keyphrases match \"Speaking of the Applebaums\" attack post)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 808,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1844,
+      "date": "2026-11-01",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-agora-agora-johns-hopkins",
+      "person": "Namesake/noise match: Agora, agora, Johns Hopkins",
+      "is_ces": false,
+      "title": "Como a falta de perspectiva de futuro alimenta protestos de jovens na Europa (quotes Nathalie Tocci, not tracked)",
+      "has_text": true,
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/01/como-a-falta-de-perspectiva-de-futuro-alimenta-protestos-de-jovens-na-europa.ghtml",
+      "source": "G1",
+      "source_type": "online news",
+      "similar_mention_count": 16,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Como a falta de perspectiva de futuro alimenta protestos de jovens na Europa (quotes Nathalie Tocci, not tracked) https://g1.globo.com/mundo/noticia/2026/11/01/como-a-falta-de-perspectiva-de-futuro-alimenta-protestos-de-jovens-na-europa.ghtml",
+          "chars": 137
+        },
+        "bluesky": {
+          "text": "Como a falta de perspectiva de futuro alimenta protestos de jovens na Europa (quotes Nathalie Tocci, not tracked) https://g1.globo.com/mundo/noticia/2026/11/01/como-a-falta-de-perspectiva-de-futuro-alimenta-protestos-de-jovens-na-europa.ghtml",
+          "chars": 242
+        }
+      }
+    },
     {
       "id": 1812,
       "date": "2026-11-01",
@@ -18,6 +286,265 @@
       "entity_sentiment": "unknown",
       "in_digest": false,
       "share": null
+    },
+    {
+      "id": 1843,
+      "date": "2026-11-01",
+      "week_start": "2026-10-26",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "Twitter posts (no text captured; higher education / NIH funding)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 6,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1833,
+      "date": "2026-11-01",
+      "week_start": "2026-10-26",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "\"Speaking of the Applebaums\" attack post (VK, Pravda network, Substack copies)",
+      "has_text": true,
+      "url": "https://vk.com/wall696286907_8000",
+      "source": "VK",
+      "source_type": "forum",
+      "similar_mention_count": 6,
+      "entity_sentiment": "negative",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "\"Speaking of the Applebaums\" attack post (VK, Pravda network, Substack copies) https://vk.com/wall696286907_8000",
+          "chars": 102
+        },
+        "bluesky": {
+          "text": "\"Speaking of the Applebaums\" attack post (VK, Pravda network, Substack copies) https://vk.com/wall696286907_8000",
+          "chars": 112
+        }
+      }
+    },
+    {
+      "id": 1836,
+      "date": "2026-11-01",
+      "week_start": "2026-10-26",
+      "person_id": "amy-binder",
+      "person": "Amy Binder",
+      "is_ces": false,
+      "title": "More members and money, and more fractures: The uncertain future of Erika Kirk’s Turning Point USA",
+      "has_text": true,
+      "url": "https://www.hsvvoice.com/premium/stacker/stories/more-members-and-money-and-more-fractures-the-uncertain-future-of-erika-kirkrsquos-turning,161352",
+      "source": "Hot Springs Village Voice (Stacker)",
+      "source_type": "online news",
+      "similar_mention_count": 5,
+      "entity_sentiment": "neutral",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "More members and money, and more fractures: The uncertain future of Erika Kirk’s Turning Point USA https://www.hsvvoice.com/premium/stacker/stories/more-members-and-money-and-more-fractures-the-uncertain-future-of-erika-kirkrsquos-turning,161352",
+          "chars": 122
+        },
+        "bluesky": {
+          "text": "More members and money, and more fractures: The uncertain future of Erika Kirk’s Turning Point USA https://www.hsvvoice.com/premium/stacker/stories/more-members-and-money-and-more-fractures-the-uncertain-future-of-erika-kirkrsquos-turning,161352",
+          "chars": 245
+        }
+      }
+    },
+    {
+      "id": 1840,
+      "date": "2026-11-01",
+      "week_start": "2026-10-26",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Twitter posts withheld by X (legal demand); entity tags match attack post",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1847,
+      "date": "2026-11-01",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, Higher Education",
+      "is_ces": false,
+      "title": "SUN: 22 Maryland colleges reported 465 rapes, 169 fondling incidents over 3-year span",
+      "has_text": true,
+      "url": "https://foxbaltimore.com/news/local/sun-22-maryland-colleges-reported-465-rapes-169-fondling-incidents-over-3-year-span",
+      "source": "WBFF-TV",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "SUN: 22 Maryland colleges reported 465 rapes, 169 fondling incidents over 3-year span https://foxbaltimore.com/news/local/sun-22-maryland-colleges-reported-465-rapes-169-fondling-incidents-over-3-year-span",
+          "chars": 109
+        },
+        "bluesky": {
+          "text": "SUN: 22 Maryland colleges reported 465 rapes, 169 fondling incidents over 3-year span https://foxbaltimore.com/news/local/sun-22-maryland-colleges-reported-465-rapes-169-fondling-incidents-over-3-year-span",
+          "chars": 205
+        }
+      }
+    },
+    {
+      "id": 1842,
+      "date": "2026-11-01",
+      "week_start": "2026-10-26",
+      "person_id": "johnnie-moore",
+      "person": "Johnnie Moore",
+      "is_ces": false,
+      "title": "Twitter posts (no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1852,
+      "date": "2026-11-01",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "University press",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/University_press",
+      "source": "N2O Records (Wikipedia copy)",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "University press https://en.wikipedia.org/wiki/University_press",
+          "chars": 40
+        },
+        "bluesky": {
+          "text": "University press https://en.wikipedia.org/wiki/University_press",
+          "chars": 63
+        }
+      }
+    },
+    {
+      "id": 1851,
+      "date": "2026-11-01",
+      "week_start": "2026-10-26",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "The seven traits higher education leaders need to drive change",
+      "has_text": true,
+      "url": "https://www.timeshighereducation.com/campus/seven-traits-higher-education-leaders-need-drive-change",
+      "source": "Times Higher Education",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The seven traits higher education leaders need to drive change https://www.timeshighereducation.com/campus/seven-traits-higher-education-leaders-need-drive-change",
+          "chars": 86
+        },
+        "bluesky": {
+          "text": "The seven traits higher education leaders need to drive change https://www.timeshighereducation.com/campus/seven-traits-higher-education-leaders-need-drive-change",
+          "chars": 162
+        }
+      }
+    },
+    {
+      "id": 1838,
+      "date": "2026-11-01",
+      "week_start": "2026-10-26",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": "Why Does Anything Exist? The Answer May Redefine What Physics Is",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=CE5NihwP_0k",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Why Does Anything Exist? The Answer May Redefine What Physics Is https://www.youtube.com/watch?v=CE5NihwP_0k",
+          "chars": 88
+        },
+        "bluesky": {
+          "text": "Why Does Anything Exist? The Answer May Redefine What Physics Is https://www.youtube.com/watch?v=CE5NihwP_0k",
+          "chars": 108
+        }
+      }
+    },
+    {
+      "id": 1837,
+      "date": "2026-11-01",
+      "week_start": "2026-10-26",
+      "person_id": "peter-pomerantsev",
+      "person": "Peter Pomerantsev",
+      "is_ces": false,
+      "title": "Planet propaganda (republication of Oct. 29 Conversation essay)",
+      "has_text": true,
+      "url": "https://www.openforum.com.au/forums/planet-propaganda/",
+      "source": "Open Forum",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Planet propaganda (republication of Oct. 29 Conversation essay) https://www.openforum.com.au/forums/planet-propaganda/",
+          "chars": 87
+        },
+        "bluesky": {
+          "text": "Planet propaganda (republication of Oct. 29 Conversation essay) https://www.openforum.com.au/forums/planet-propaganda/",
+          "chars": 118
+        }
+      }
+    },
+    {
+      "id": 1835,
+      "date": "2026-11-01",
+      "week_start": "2026-10-26",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "The Democratic Party’s Masculinity Crisis",
+      "has_text": true,
+      "url": "https://www.nytimes.com/2026/10/31/opinion/democrats-republicans-toxic-masculinity.html",
+      "source": "The New York Times",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Democratic Party’s Masculinity Crisis https://www.nytimes.com/2026/10/31/opinion/democrats-republicans-toxic-masculinity.html",
+          "chars": 65
+        },
+        "bluesky": {
+          "text": "The Democratic Party’s Masculinity Crisis https://www.nytimes.com/2026/10/31/opinion/democrats-republicans-toxic-masculinity.html",
+          "chars": 129
+        }
+      }
     },
     {
       "id": 1820,

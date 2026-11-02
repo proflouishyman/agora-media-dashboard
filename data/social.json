@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-01T07:07:34-05:00",
-  "count": 92,
+  "generated_at": "2026-11-02T07:08:42-05:00",
+  "count": 93,
   "picks": [
+    {
+      "id": 111,
+      "mention_id": 1834,
+      "digest_date": "2026-11-02",
+      "person": "Leah Wright",
+      "person_id": "leah-wright",
+      "person_ids": [
+        "leah-wright"
+      ],
+      "is_ces": false,
+      "punchy_title": "Leah Wright Rigueur in the Times Magazine on identity politics' new phase",
+      "headline": "Leah Wright Rigueur in the Times Magazine on identity politics' new phase",
+      "pull_quote": "support among Black Americans began to soften, according to Leah Wright Rigueur, a historian at Johns Hopkins University and author of",
+      "rationale": "support among Black Americans began to soften, according to Leah Wright Rigueur, a historian at Johns Hopkins University and author of",
+      "url": "https://www.nytimes.com/2026/11/02/magazine/identity-politics-economy-class.html",
+      "story_url": "https://www.nytimes.com/2026/11/02/magazine/identity-politics-economy-class.html",
+      "created_at": "2026-11-02 12:08:30",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "SNF Agora historian Leah Wright Rigueur is cited in The New York Times Magazine on how identity politics have entered a new phase, including when support among Black Americans began to soften. https://www.nytimes.com/2026/11/02/magazine/identity-politics-economy-class.html",
+          "chars": 273,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=SNF%20Agora%20historian%20Leah%20Wright%20Rigueur%20is%20cited%20in%20The%20New%20York%20Times%20Magazine%20on%20how%20identity%20politics%20have%20entered%20a%20new%20phase%2C%20including%20when%20support%20among%20Black%20Americans%20began%20to%20soften.%20https%3A//www.nytimes.com/2026/11/02/magazine/identity-politics-economy-class.html"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "SNF Agora historian Leah Wright Rigueur is cited in The New York Times Magazine on how identity politics have entered a new phase, including when support among Black Americans began to soften. https://www.nytimes.com/2026/11/02/magazine/identity-politics-economy-class.html",
+          "chars": 273,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=SNF%20Agora%20historian%20Leah%20Wright%20Rigueur%20is%20cited%20in%20The%20New%20York%20Times%20Magazine%20on%20how%20identity%20politics%20have%20entered%20a%20new%20phase%2C%20including%20when%20support%20among%20Black%20Americans%20began%20to%20soften.%20https%3A//www.nytimes.com/2026/11/02/magazine/identity-politics-economy-class.html"
+        }
+      ]
+    },
     {
       "id": 110,
       "mention_id": 1809,
