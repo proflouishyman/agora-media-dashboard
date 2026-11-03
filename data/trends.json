@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-02T07:08:42-05:00",
+  "generated_at": "2026-11-03T07:08:23-05:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-11-02"
+    "end": "2026-11-03"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 1844,
-        "in_digest": 428,
-        "reach_proxy": 12332,
-        "people_covered": 182,
+        "mentions": 1876,
+        "in_digest": 433,
+        "reach_proxy": 12428,
+        "people_covered": 184,
         "people_tracked": 100,
-        "sources": 751,
+        "sources": 763,
         "negative": 15
       },
       "deltas": {
@@ -901,9 +901,16 @@
         },
         {
           "date": "2026-11-02",
-          "count": 9,
-          "reach": 16,
-          "in_digest": 3,
+          "count": 34,
+          "reach": 100,
+          "in_digest": 7,
+          "observed": true
+        },
+        {
+          "date": "2026-11-03",
+          "count": 7,
+          "reach": 12,
+          "in_digest": 1,
           "observed": true
         }
       ],
@@ -1144,23 +1151,23 @@
         },
         {
           "week_start": "2026-11-02",
-          "count": 9,
-          "reach": 16,
-          "in_digest": 3,
-          "people": 7,
+          "count": 41,
+          "reach": 112,
+          "in_digest": 8,
+          "people": 21,
           "sentiment": {
-            "positive": 0,
-            "neutral": 0,
+            "positive": 1,
+            "neutral": 3,
             "negative": 0,
-            "unknown": 9
+            "unknown": 37
           }
         }
       ],
       "sentiment": {
-        "positive": 123,
-        "neutral": 205,
+        "positive": 124,
+        "neutral": 208,
         "negative": 15,
-        "unknown": 1501
+        "unknown": 1529
       },
       "top_people": [
         {
@@ -1180,8 +1187,8 @@
         {
           "person_id": "anne-applebaum",
           "name": "Anne Applebaum",
-          "count": 99,
-          "reach": 1188,
+          "count": 102,
+          "reach": 1247,
           "is_ces": false
         },
         {
@@ -1194,8 +1201,15 @@
         {
           "person_id": "none-no-captured-text",
           "name": "None (no captured text)",
-          "count": 59,
-          "reach": 970,
+          "count": 61,
+          "reach": 973,
+          "is_ces": false
+        },
+        {
+          "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+          "name": "Namesake/noise match: Johns Hopkins, higher education",
+          "count": 54,
+          "reach": 80,
           "is_ces": false
         },
         {
@@ -1204,13 +1218,6 @@
           "count": 51,
           "reach": 96,
           "is_ces": true
-        },
-        {
-          "person_id": "namesake-noise-match-johns-hopkins-higher-education",
-          "name": "Namesake/noise match: Johns Hopkins, higher education",
-          "count": 50,
-          "reach": 72,
-          "is_ces": false
         },
         {
           "person_id": "yascha-mounk",
@@ -1222,34 +1229,40 @@
         {
           "person_id": "lilliana-mason",
           "name": "Lilliana Mason",
-          "count": 43,
-          "reach": 90,
+          "count": 44,
+          "reach": 91,
           "is_ces": false
         },
         {
           "person_id": "sean-carroll",
           "name": "Sean Carroll",
-          "count": 43,
-          "reach": 70,
+          "count": 44,
+          "reach": 71,
           "is_ces": false
         }
       ],
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 310,
-          "reach": 6039,
+          "count": 313,
+          "reach": 6099,
           "is_other": false
         },
         {
           "source": "Youtube",
-          "count": 129,
-          "reach": 130,
+          "count": 132,
+          "reach": 133,
           "is_other": false
         },
         {
           "source": "Springer",
-          "count": 53,
+          "count": 55,
+          "reach": 55,
+          "is_other": false
+        },
+        {
+          "source": "LinkedIn",
+          "count": 51,
           "reach": 53,
           "is_other": false
         },
@@ -1260,12 +1273,6 @@
           "is_other": false
         },
         {
-          "source": "LinkedIn",
-          "count": 50,
-          "reach": 52,
-          "is_other": false
-        },
-        {
           "source": "Substack",
           "count": 43,
           "reach": 54,
@@ -1273,8 +1280,8 @@
         },
         {
           "source": "Bluesky",
-          "count": 33,
-          "reach": 49,
+          "count": 34,
+          "reach": 51,
           "is_other": false
         },
         {
@@ -1285,27 +1292,27 @@
         },
         {
           "source": "Other",
-          "count": 1149,
-          "reach": 5878,
+          "count": 1171,
+          "reach": 5906,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 1025
+          "count": 1045
         },
         {
           "source_type": "social network",
-          "count": 311
+          "count": 317
         },
         {
           "source_type": "blog",
-          "count": 81
+          "count": 82
         },
         {
           "source_type": "unresolved",
-          "count": 427
+          "count": 432
         }
       ],
       "negative_stories": [
@@ -1350,11 +1357,11 @@
           "row_label": "Anne Applebaum",
           "person_id": "anne-applebaum",
           "is_ces": false,
-          "positive": 12,
+          "positive": 13,
           "neutral": 17,
           "negative": 7,
-          "unknown": 63,
-          "total": 99
+          "unknown": 65,
+          "total": 102
         },
         {
           "row_label": "unknown",
@@ -1373,8 +1380,18 @@
           "positive": 0,
           "neutral": 0,
           "negative": 0,
-          "unknown": 59,
-          "total": 59
+          "unknown": 61,
+          "total": 61
+        },
+        {
+          "row_label": "Namesake/noise match: Johns Hopkins, higher education",
+          "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 54,
+          "total": 54
         },
         {
           "row_label": "Henry Farrell",
@@ -1385,16 +1402,6 @@
           "negative": 1,
           "unknown": 31,
           "total": 51
-        },
-        {
-          "row_label": "Namesake/noise match: Johns Hopkins, higher education",
-          "person_id": "namesake-noise-match-johns-hopkins-higher-education",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 50,
-          "total": 50
         },
         {
           "row_label": "Yascha Mounk",
@@ -1413,8 +1420,8 @@
           "positive": 7,
           "neutral": 9,
           "negative": 1,
-          "unknown": 26,
-          "total": 43
+          "unknown": 27,
+          "total": 44
         },
         {
           "row_label": "Sean Carroll",
@@ -1423,8 +1430,18 @@
           "positive": 6,
           "neutral": 13,
           "negative": 1,
-          "unknown": 23,
-          "total": 43
+          "unknown": 24,
+          "total": 44
+        },
+        {
+          "row_label": "Namesake/noise match: higher education, Johns Hopkins",
+          "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 40,
+          "total": 40
         },
         {
           "row_label": "Yuen Yuen Ang",
@@ -1435,16 +1452,6 @@
           "negative": 0,
           "unknown": 19,
           "total": 35
-        },
-        {
-          "row_label": "Namesake/noise match: higher education, Johns Hopkins",
-          "person_id": "namesake-noise-match-higher-education-johns-hopkins",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 34,
-          "total": 34
         },
         {
           "row_label": "Namesake/noise match: Higher Education, Johns Hopkins",
@@ -1471,10 +1478,10 @@
           "person_id": "hahrie-han",
           "is_ces": false,
           "positive": 12,
-          "neutral": 3,
+          "neutral": 4,
           "negative": 0,
           "unknown": 15,
-          "total": 30
+          "total": 31
         },
         {
           "row_label": "Scott Warren",
@@ -1517,6 +1524,16 @@
           "total": 21
         },
         {
+          "row_label": "Namesake/noise match: Hopkins, agora",
+          "person_id": "namesake-noise-match-hopkins-agora",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 20,
+          "total": 20
+        },
+        {
           "row_label": "Peter Pomerantsev",
           "person_id": "peter-pomerantsev",
           "is_ces": false,
@@ -1527,8 +1544,8 @@
           "total": 20
         },
         {
-          "row_label": "Namesake/noise match: Hopkins, agora",
-          "person_id": "namesake-noise-match-hopkins-agora",
+          "row_label": "Namesake/noise match: agora, Hopkins",
+          "person_id": "namesake-noise-match-agora-hopkins",
           "is_ces": false,
           "positive": 0,
           "neutral": 0,
@@ -1543,18 +1560,8 @@
           "positive": 0,
           "neutral": 7,
           "negative": 0,
-          "unknown": 10,
-          "total": 17
-        },
-        {
-          "row_label": "Namesake/noise match: agora, Hopkins",
-          "person_id": "namesake-noise-match-agora-hopkins",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 17,
-          "total": 17
+          "unknown": 11,
+          "total": 18
         },
         {
           "row_label": "Martha S. Jones",
@@ -1574,6 +1581,16 @@
           "neutral": 2,
           "negative": 0,
           "unknown": 12,
+          "total": 14
+        },
+        {
+          "row_label": "Namesake/noise match: Johns Hopkins, Higher Education",
+          "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 14,
           "total": 14
         },
         {
@@ -1597,24 +1614,14 @@
           "total": 13
         },
         {
-          "row_label": "Namesake/noise match: Johns Hopkins, Higher Education",
-          "person_id": "namesake-noise-match-johns-hopkins-higher-education",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 13,
-          "total": 13
-        },
-        {
           "row_label": "Namesake/noise match: Johns Hopkins, NIH funding",
           "person_id": "namesake-noise-match-johns-hopkins-nih-funding",
           "is_ces": false,
           "positive": 0,
           "neutral": 0,
           "negative": 0,
-          "unknown": 11,
-          "total": 11
+          "unknown": 12,
+          "total": 12
         },
         {
           "row_label": "Namesake/noise match: Johns Hopkins, University President",
@@ -1647,6 +1654,16 @@
           "total": 10
         },
         {
+          "row_label": "Leah Wright",
+          "person_id": "leah-wright",
+          "is_ces": false,
+          "positive": 2,
+          "neutral": 2,
+          "negative": 0,
+          "unknown": 6,
+          "total": 10
+        },
+        {
           "row_label": "Mara Karlin",
           "person_id": "mara-karlin",
           "is_ces": false,
@@ -1659,6 +1676,16 @@
         {
           "row_label": "Namesake/noise match: Agora, Hopkins",
           "person_id": "namesake-noise-match-agora-hopkins",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 10,
+          "total": 10
+        },
+        {
+          "row_label": "Namesake/noise match: agora, Johns Hopkins",
+          "person_id": "namesake-noise-match-agora-johns-hopkins",
           "is_ces": false,
           "positive": 0,
           "neutral": 0,
@@ -1687,26 +1714,6 @@
           "total": 9
         },
         {
-          "row_label": "Leah Wright",
-          "person_id": "leah-wright",
-          "is_ces": false,
-          "positive": 2,
-          "neutral": 2,
-          "negative": 0,
-          "unknown": 5,
-          "total": 9
-        },
-        {
-          "row_label": "Namesake/noise match: agora, Johns Hopkins",
-          "person_id": "namesake-noise-match-agora-johns-hopkins",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 9,
-          "total": 9
-        },
-        {
           "row_label": "(false positive)",
           "person_id": "false-positive",
           "is_ces": false,
@@ -1724,6 +1731,16 @@
           "neutral": 1,
           "negative": 0,
           "unknown": 3,
+          "total": 7
+        },
+        {
+          "row_label": "Jeremy Wallace",
+          "person_id": "jeremy-wallace",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 2,
+          "negative": 0,
+          "unknown": 5,
           "total": 7
         },
         {
@@ -1754,16 +1771,6 @@
           "neutral": 0,
           "negative": 0,
           "unknown": 6,
-          "total": 6
-        },
-        {
-          "row_label": "Jeremy Wallace",
-          "person_id": "jeremy-wallace",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 1,
-          "negative": 0,
-          "unknown": 5,
           "total": 6
         },
         {
@@ -1827,8 +1834,28 @@
           "total": 5
         },
         {
+          "row_label": "Ling Chen",
+          "person_id": "ling-chen",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 2,
+          "negative": 0,
+          "unknown": 3,
+          "total": 5
+        },
+        {
           "row_label": "Namesake/noise match: Agora, Johns Hopkins",
           "person_id": "namesake-noise-match-agora-johns-hopkins",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 5,
+          "total": 5
+        },
+        {
+          "row_label": "Namesake/noise match: Johns Hopkins, Agora",
+          "person_id": "namesake-noise-match-johns-hopkins-agora",
           "is_ces": false,
           "positive": 0,
           "neutral": 0,
@@ -1879,16 +1906,6 @@
         {
           "row_label": "Leah Wright Rigueur",
           "person_id": "leah-wright-rigueur",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 1,
-          "negative": 0,
-          "unknown": 3,
-          "total": 4
-        },
-        {
-          "row_label": "Ling Chen",
-          "person_id": "ling-chen",
           "is_ces": false,
           "positive": 0,
           "neutral": 1,
@@ -1989,16 +2006,6 @@
         {
           "row_label": "Namesake/noise match: Higher Education, Johns Hopkins, higher education",
           "person_id": "namesake-noise-match-higher-education-johns-hopkins-higher-education",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 3,
-          "total": 3
-        },
-        {
-          "row_label": "Namesake/noise match: Johns Hopkins, Agora",
-          "person_id": "namesake-noise-match-johns-hopkins-agora",
           "is_ces": false,
           "positive": 0,
           "neutral": 0,
@@ -2777,6 +2784,16 @@
           "total": 1
         },
         {
+          "row_label": "Namesake/noise match: Hopkins, Sean Carroll",
+          "person_id": "namesake-noise-match-hopkins-sean-carroll",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
           "row_label": "Namesake/noise match: Hopkins, agora, Agora",
           "person_id": "namesake-noise-match-hopkins-agora-agora",
           "is_ces": false,
@@ -3107,6 +3124,16 @@
           "total": 1
         },
         {
+          "row_label": "Richard Young",
+          "person_id": "richard-young",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
           "row_label": "Sara Johnson",
           "person_id": "sara-johnson",
           "is_ces": false,
@@ -3151,34 +3178,34 @@
         {
           "row_label": "online news",
           "positive": 42,
-          "neutral": 127,
+          "neutral": 128,
           "negative": 4,
-          "unknown": 852,
-          "total": 1025
+          "unknown": 871,
+          "total": 1045
         },
         {
           "row_label": "social network",
           "positive": 49,
-          "neutral": 57,
+          "neutral": 59,
           "negative": 1,
-          "unknown": 204,
-          "total": 311
+          "unknown": 208,
+          "total": 317
         },
         {
           "row_label": "blog",
           "positive": 9,
           "neutral": 9,
           "negative": 0,
-          "unknown": 63,
-          "total": 81
+          "unknown": 64,
+          "total": 82
         },
         {
           "row_label": "unresolved",
-          "positive": 23,
+          "positive": 24,
           "neutral": 12,
           "negative": 10,
-          "unknown": 382,
-          "total": 427
+          "unknown": 386,
+          "total": 432
         }
       ],
       "sentiment_examples": {
@@ -3380,6 +3407,16 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 1860,
+              "person": "Anne Applebaum",
+              "person_id": "anne-applebaum",
+              "is_ces": false,
+              "title": "\"Speaking of the Applebaums\" attack post (another VK copy; repeat of Nov. 1 story)",
+              "url": "https://vk.com/wall617023644_22958",
+              "source": "VK",
+              "date": "2026-11-02"
+            },
             {
               "id": 1837,
               "person": "Peter Pomerantsev",
@@ -4621,12 +4658,12 @@
               "count": 11
             },
             {
-              "keyphrase": "book",
-              "count": 7
+              "keyphrase": "author",
+              "count": 8
             },
             {
-              "keyphrase": "author",
-              "count": 7
+              "keyphrase": "book",
+              "count": 8
             },
             {
               "keyphrase": "civil dialogue",
@@ -5552,6 +5589,13 @@
         },
         {
           "date": "2026-11-02",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
+          "observed": true
+        },
+        {
+          "date": "2026-11-03",
           "count": 0,
           "reach": 0,
           "in_digest": 0,

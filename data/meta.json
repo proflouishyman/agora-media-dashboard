@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-02T07:08:42-05:00",
-  "generated_date": "2026-11-02",
+  "generated_at": "2026-11-03T07:08:23-05:00",
+  "generated_date": "2026-11-03",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-11-02",
+    "last_mention_date": "2026-11-03",
     "observed_dates": [
       "2026-07-02",
       "2026-07-03",
@@ -128,10 +128,11 @@
       "2026-10-30",
       "2026-10-31",
       "2026-11-01",
-      "2026-11-02"
+      "2026-11-02",
+      "2026-11-03"
     ],
-    "total_mentions": 1844,
-    "total_raw_documents": 13053,
+    "total_mentions": 1876,
+    "total_raw_documents": 13147,
     "total_tracked_people": 100,
     "total_ces_people": 17
   },
@@ -139,7 +140,7 @@
     "all": {
       "label": "SNF Agora Institute",
       "people": 100,
-      "mentions": 1844
+      "mentions": 1876
     },
     "ces": {
       "label": "Center for Economy and Society",
@@ -148,10 +149,10 @@
     }
   },
   "data_quality": {
-    "mentions_missing_url": 353,
+    "mentions_missing_url": 356,
     "mentions_no_text_captured": 90,
-    "mentions_sentiment_unknown": 1501,
-    "mentions_shareable": 1472,
+    "mentions_sentiment_unknown": 1529,
+    "mentions_shareable": 1501,
     "unmatched_persons": [
       {
         "person": "Johns Hopkins",
@@ -163,15 +164,15 @@
       },
       {
         "person": "None (no captured text)",
-        "mentions": 59
+        "mentions": 61
       },
       {
         "person": "Namesake/noise match: Johns Hopkins, higher education",
-        "mentions": 50
+        "mentions": 54
       },
       {
         "person": "Namesake/noise match: higher education, Johns Hopkins",
-        "mentions": 34
+        "mentions": 40
       },
       {
         "person": "Namesake/noise match: Higher Education, Johns Hopkins",
@@ -187,23 +188,23 @@
       },
       {
         "person": "Namesake/noise match: Hopkins, agora",
-        "mentions": 19
+        "mentions": 20
       },
       {
         "person": "Namesake/noise match: agora, Hopkins",
-        "mentions": 17
+        "mentions": 19
+      },
+      {
+        "person": "Namesake/noise match: Johns Hopkins, Higher Education",
+        "mentions": 14
       },
       {
         "person": "Unattributed (institutional keyword only)",
         "mentions": 14
       },
       {
-        "person": "Namesake/noise match: Johns Hopkins, Higher Education",
-        "mentions": 13
-      },
-      {
         "person": "Namesake/noise match: Johns Hopkins, NIH funding",
-        "mentions": 11
+        "mentions": 12
       },
       {
         "person": "Namesake/noise match: Johns Hopkins, University President",
@@ -214,11 +215,11 @@
         "mentions": 10
       },
       {
-        "person": "Eliot Cohen",
-        "mentions": 9
+        "person": "Namesake/noise match: agora, Johns Hopkins",
+        "mentions": 10
       },
       {
-        "person": "Namesake/noise match: agora, Johns Hopkins",
+        "person": "Eliot Cohen",
         "mentions": 9
       },
       {
@@ -239,6 +240,10 @@
       },
       {
         "person": "Namesake/noise match: Agora, Johns Hopkins",
+        "mentions": 5
+      },
+      {
+        "person": "Namesake/noise match: Johns Hopkins, Agora",
         "mentions": 5
       },
       {
@@ -279,10 +284,6 @@
       },
       {
         "person": "Namesake/noise match: Higher Education, Johns Hopkins, higher education",
-        "mentions": 3
-      },
-      {
-        "person": "Namesake/noise match: Johns Hopkins, Agora",
         "mentions": 3
       },
       {
@@ -522,6 +523,10 @@
         "mentions": 1
       },
       {
+        "person": "Namesake/noise match: Hopkins, Sean Carroll",
+        "mentions": 1
+      },
+      {
         "person": "Namesake/noise match: Hopkins, agora, Agora",
         "mentions": 1
       },
@@ -651,6 +656,10 @@
       },
       {
         "person": "Peter Pomerantsev / Scott Warren",
+        "mentions": 1
+      },
+      {
+        "person": "Richard Young",
         "mentions": 1
       },
       {

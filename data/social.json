@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-02T07:08:42-05:00",
-  "count": 93,
+  "generated_at": "2026-11-03T07:08:23-05:00",
+  "count": 94,
   "picks": [
+    {
+      "id": 112,
+      "mention_id": 1858,
+      "digest_date": "2026-11-03",
+      "person": "Richard Young",
+      "person_id": "richard-young",
+      "person_ids": [
+        "richard-young"
+      ],
+      "is_ces": false,
+      "punchy_title": "Lexington votes today on a lottery-picked citizens' assembly to review its charter",
+      "headline": "Lexington votes today on a lottery-picked citizens' assembly to review its charter",
+      "pull_quote": "Today, voters in Lexington, Kentucky will decide whether ordinary residents should have a permanent role in reviewing the rules of their local government.",
+      "rationale": "Today, voters in Lexington, Kentucky will decide whether ordinary residents should have a permanent role in reviewing the rules of their local government.",
+      "url": "https://thefulcrum.us/elections/lexington-democracy-citizens-assembly-charter-amendments",
+      "story_url": "https://thefulcrum.us/elections/lexington-democracy-citizens-assembly-charter-amendments",
+      "created_at": "2026-11-03 12:08:17",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Lexington, Ky., votes today on a standing citizens' assembly chosen by lottery to review its charter. Agora Visiting Fellow Richard Young of CivicLex on how the city got here: https://thefulcrum.us/elections/lexington-democracy-citizens-assembly-charter-amendments",
+          "chars": 264,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Lexington%2C%20Ky.%2C%20votes%20today%20on%20a%20standing%20citizens%27%20assembly%20chosen%20by%20lottery%20to%20review%20its%20charter.%20Agora%20Visiting%20Fellow%20Richard%20Young%20of%20CivicLex%20on%20how%20the%20city%20got%20here%3A%20https%3A//thefulcrum.us/elections/lexington-democracy-citizens-assembly-charter-amendments"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Today Lexington, Ky., votes on whether residents chosen by lottery should review the city charter every eight years. SNF Agora Institute Visiting Fellow Richard Young of CivicLex on how his community got here: https://thefulcrum.us/elections/lexington-democracy-citizens-assembly-charter-amendments",
+          "chars": 298,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Today%20Lexington%2C%20Ky.%2C%20votes%20on%20whether%20residents%20chosen%20by%20lottery%20should%20review%20the%20city%20charter%20every%20eight%20years.%20SNF%20Agora%20Institute%20Visiting%20Fellow%20Richard%20Young%20of%20CivicLex%20on%20how%20his%20community%20got%20here%3A%20https%3A//thefulcrum.us/elections/lexington-democracy-citizens-assembly-charter-amendments"
+        }
+      ]
+    },
     {
       "id": 111,
       "mention_id": 1834,
