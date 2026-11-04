@@ -1,7 +1,206 @@
 {
-  "generated_at": "2026-11-03T07:08:23-05:00",
-  "count": 1876,
+  "generated_at": "2026-11-04T07:07:22-05:00",
+  "count": 1905,
   "stories": [
+    {
+      "id": 1903,
+      "date": "2026-11-04",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, Agora",
+      "is_ces": false,
+      "title": "Brasil. Descobertos glóbulos vermelhos fossilizados de dinossauro com 115 milhões de anos",
+      "has_text": true,
+      "url": "https://observador.pt/2026/11/04/brasil-descobertos-globulos-vermelhos-fossilizados-de-dinossauro-com-115-milhoes-de-anos/",
+      "source": "Observador.pt",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Brasil. Descobertos glóbulos vermelhos fossilizados de dinossauro com 115 milhões de anos https://observador.pt/2026/11/04/brasil-descobertos-globulos-vermelhos-fossilizados-de-dinossauro-com-115-milhoes-de-anos/",
+          "chars": 113
+        },
+        "bluesky": {
+          "text": "Brasil. Descobertos glóbulos vermelhos fossilizados de dinossauro com 115 milhões de anos https://observador.pt/2026/11/04/brasil-descobertos-globulos-vermelhos-fossilizados-de-dinossauro-com-115-milhoes-de-anos/",
+          "chars": 212
+        }
+      }
+    },
+    {
+      "id": 1908,
+      "date": "2026-11-04",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-higher-education-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Paper, bamboo, and concrete: towards a textures of exclusion framework for gendered barriers in Asian higher education — an exploratory qualitative study",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s12564-026-10157-3",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Paper, bamboo, and concrete: towards a textures of exclusion framework for gendered barriers in Asian higher education — an exploratory qualitative study https://link.springer.com/article/10.1007/s12564-026-10157-3",
+          "chars": 177
+        },
+        "bluesky": {
+          "text": "Paper, bamboo, and concrete: towards a textures of exclusion framework for gendered barriers in Asian higher education — an exploratory qualitative study https://link.springer.com/article/10.1007/s12564-026-10157-3",
+          "chars": 214
+        }
+      }
+    },
+    {
+      "id": 1892,
+      "date": "2026-11-04",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "O fiasco das tarifas de Trump (quotes a SAIS researcher, not tracked)",
+      "has_text": true,
+      "url": "https://valor.globo.com/opiniao/coluna/o-fiasco-das-tarifas-de-trump.ghtml",
+      "source": "Valor Econômico",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "O fiasco das tarifas de Trump (quotes a SAIS researcher, not tracked) https://valor.globo.com/opiniao/coluna/o-fiasco-das-tarifas-de-trump.ghtml",
+          "chars": 93
+        },
+        "bluesky": {
+          "text": "O fiasco das tarifas de Trump (quotes a SAIS researcher, not tracked) https://valor.globo.com/opiniao/coluna/o-fiasco-das-tarifas-de-trump.ghtml",
+          "chars": 144
+        }
+      }
+    },
+    {
+      "id": 1891,
+      "date": "2026-11-04",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-agora-johns-hopkins",
+      "person": "Namesake/noise match: agora, Johns Hopkins",
+      "is_ces": false,
+      "title": "Uma batalha após a outra: 21 meses turbulentos de Trump (quotes Daniel Schlozman, not tracked)",
+      "has_text": true,
+      "url": "https://valor.globo.com/mundo/noticia/2026/11/04/uma-batalha-apos-a-outra-21-meses-turbulentos-de-trump.ghtml",
+      "source": "Valor Econômico",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Uma batalha após a outra: 21 meses turbulentos de Trump (quotes Daniel Schlozman, not tracked) https://valor.globo.com/mundo/noticia/2026/11/04/uma-batalha-apos-a-outra-21-meses-turbulentos-de-trump.ghtml",
+          "chars": 118
+        },
+        "bluesky": {
+          "text": "Uma batalha após a outra: 21 meses turbulentos de Trump (quotes Daniel Schlozman, not tracked) https://valor.globo.com/mundo/noticia/2026/11/04/uma-batalha-apos-a-outra-21-meses-turbulentos-de-trump.ghtml",
+          "chars": 204
+        }
+      }
+    },
+    {
+      "id": 1900,
+      "date": "2026-11-03",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-johns-hopkins-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, JOHNS HOPKINS, higher education",
+      "is_ces": false,
+      "title": "Cambridge University Press, Johns Hopkins University Press, Princeton University Press and Cashmere to Launch Meridian",
+      "has_text": true,
+      "url": "https://lifestyle.ribbon.co/story/923919/cambridge-university-press-johns-hopkins-university-press-princeton-university-press-and-cashmere-to-launch-meridian/",
+      "source": "Ribbon (company)",
+      "source_type": "online news",
+      "similar_mention_count": 157,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Cambridge University Press, Johns Hopkins University Press, Princeton University Press and Cashmere to Launch Meridian https://lifestyle.ribbon.co/story/923919/cambridge-university-press-johns-hopkins-university-press-princeton-university-press-and-cashmere-to-launch-meridian/",
+          "chars": 142
+        },
+        "bluesky": {
+          "text": "Cambridge University Press, Johns Hopkins University Press, Princeton University Press and Cashmere to Launch Meridian https://lifestyle.ribbon.co/story/923919/cambridge-university-press-johns-hopkins-university-press-princeton-university-press-and-cashmere-to-launch-meridian/",
+          "chars": 277
+        }
+      }
+    },
+    {
+      "id": 1901,
+      "date": "2026-11-03",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-university-president-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: university president, Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Bishops urge religious liberty language in IRS school discrimination rule",
+      "has_text": true,
+      "url": "https://myspiritfm.com/Blog/News/Catholic-News/307000",
+      "source": "WBVM-FM",
+      "source_type": "online news",
+      "similar_mention_count": 7,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Bishops urge religious liberty language in IRS school discrimination rule https://myspiritfm.com/Blog/News/Catholic-News/307000",
+          "chars": 97
+        },
+        "bluesky": {
+          "text": "Bishops urge religious liberty language in IRS school discrimination rule https://myspiritfm.com/Blog/News/Catholic-News/307000",
+          "chars": 127
+        }
+      }
+    },
+    {
+      "id": 1902,
+      "date": "2026-11-03",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, agora",
+      "is_ces": false,
+      "title": "Criança morre por sarampo em Nova York e estado registra primeira morte pela doença em mais de 30 anos",
+      "has_text": true,
+      "url": "https://g1.globo.com/saude/noticia/2026/11/03/eua-confirmam-6a-morte-por-sarampo-este-ano-e-tem-pior-quadro-de-sarampo-em-mais-de-30-anos-entenda.ghtml",
+      "source": "G1",
+      "source_type": "online news",
+      "similar_mention_count": 5,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Criança morre por sarampo em Nova York e estado registra primeira morte pela doença em mais de 30 anos https://g1.globo.com/saude/noticia/2026/11/03/eua-confirmam-6a-morte-por-sarampo-este-ano-e-tem-pior-quadro-de-sarampo-em-mais-de-30-anos-entenda.ghtml",
+          "chars": 126
+        },
+        "bluesky": {
+          "text": "Criança morre por sarampo em Nova York e estado registra primeira morte pela doença em mais de 30 anos https://g1.globo.com/saude/noticia/2026/11/03/eua-confirmam-6a-morte-por-sarampo-este-ano-e-tem-pior-quadro-de-sarampo-em-mais-de-30-anos-entenda.ghtml",
+          "chars": 254
+        }
+      }
+    },
+    {
+      "id": 1889,
+      "date": "2026-11-03",
+      "week_start": "2026-11-02",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Twitter posts (no text captured; Applebaum + Johns Hopkins, attack-post keyphrases)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 4,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
     {
       "id": 1870,
       "date": "2026-11-03",
@@ -25,6 +224,127 @@
         "bluesky": {
           "text": "Cambridge University Press, Johns Hopkins University Press, Princeton University Press and Cashmere to Launch Meridian https://www.internationaltechtimes.com/article/953357342-cambridge-university-press-johns-hopkins-university-press-princeton-university-press-and-cashmere-to-launch-meridian",
           "chars": 292
+        }
+      }
+    },
+    {
+      "id": 1890,
+      "date": "2026-11-03",
+      "week_start": "2026-11-02",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "Twitter posts (no text captured; higher education)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1905,
+      "date": "2026-11-03",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, agora",
+      "is_ces": false,
+      "title": "BONNIE TYLER DEIXA MENSAGEM DE NATAL EM SUA ÚLTIMA GRAVAÇÃO DE ESTÚDIO",
+      "has_text": true,
+      "url": "https://www.antena1.com.br/noticias/bonnie-tyler-deixa-mensagem-de-natal-em-sua-ultima-gravacao",
+      "source": "Antena 1",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "BONNIE TYLER DEIXA MENSAGEM DE NATAL EM SUA ÚLTIMA GRAVAÇÃO DE ESTÚDIO https://www.antena1.com.br/noticias/bonnie-tyler-deixa-mensagem-de-natal-em-sua-ultima-gravacao",
+          "chars": 94
+        },
+        "bluesky": {
+          "text": "BONNIE TYLER DEIXA MENSAGEM DE NATAL EM SUA ÚLTIMA GRAVAÇÃO DE ESTÚDIO https://www.antena1.com.br/noticias/bonnie-tyler-deixa-mensagem-de-natal-em-sua-ultima-gravacao",
+          "chars": 166
+        }
+      }
+    },
+    {
+      "id": 1904,
+      "date": "2026-11-03",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-johns-hopkins-agora-hopkins",
+      "person": "Namesake/noise match: Johns Hopkins, agora, Hopkins",
+      "is_ces": false,
+      "title": "Cardi B alerta universitários sobre uso de IA em provas",
+      "has_text": true,
+      "url": "https://www.terra.com.br/diversao/musica/meu-sonora/rap-e-hip-hop/cardi-b-alerta-universitarios-sobre-uso-de-ia-em-provas,940d7632d1bd0506d3d0dee7e27614d3yheu4f8l.html",
+      "source": "Terra",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Cardi B alerta universitários sobre uso de IA em provas https://www.terra.com.br/diversao/musica/meu-sonora/rap-e-hip-hop/cardi-b-alerta-universitarios-sobre-uso-de-ia-em-provas,940d7632d1bd0506d3d0dee7e27614d3yheu4f8l.html",
+          "chars": 79
+        },
+        "bluesky": {
+          "text": "Cardi B alerta universitários sobre uso de IA em provas https://www.terra.com.br/diversao/musica/meu-sonora/rap-e-hip-hop/cardi-b-alerta-universitarios-sobre-uso-de-ia-em-provas,940d7632d1bd0506d3d0dee7e27614d3yheu4f8l.html",
+          "chars": 223
+        }
+      }
+    },
+    {
+      "id": 1896,
+      "date": "2026-11-03",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-ling-chen-agora",
+      "person": "Namesake/noise match: Ling Chen, agora",
+      "is_ces": false,
+      "title": "Ex interesseira e playboy o humilham, mas ele volt #SériesCurtas #ReviravoltaInesperada #Imperdível",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=EE5ocZfdJag",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Ex interesseira e playboy o humilham, mas ele volt #SériesCurtas #ReviravoltaInesperada #Imperdível https://www.youtube.com/watch?v=EE5ocZfdJag",
+          "chars": 123
+        },
+        "bluesky": {
+          "text": "Ex interesseira e playboy o humilham, mas ele volt #SériesCurtas #ReviravoltaInesperada #Imperdível https://www.youtube.com/watch?v=EE5ocZfdJag",
+          "chars": 143
+        }
+      }
+    },
+    {
+      "id": 1895,
+      "date": "2026-11-03",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "The College of Europe in Tirana: The Story of a Bold Idea (praises Daniel Serwer, not tracked)",
+      "has_text": true,
+      "url": "https://www.byteseu.com/2496440/",
+      "source": "Bytes Europe",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The College of Europe in Tirana: The Story of a Bold Idea (praises Daniel Serwer, not tracked) https://www.byteseu.com/2496440/",
+          "chars": 118
+        },
+        "bluesky": {
+          "text": "The College of Europe in Tirana: The Story of a Bold Idea (praises Daniel Serwer, not tracked) https://www.byteseu.com/2496440/",
+          "chars": 127
         }
       }
     },
@@ -77,6 +397,413 @@
         "bluesky": {
           "text": "Gabriel Medina regressa aos triunfos nas Filipinas https://sapo.pt/artigo/gabriel-medina-regressa-aos-triunfos-nas-filipinas-6ae9995e8c34e87b496a5981",
           "chars": 149
+        }
+      }
+    },
+    {
+      "id": 1915,
+      "date": "2026-11-03",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, Higher Education",
+      "is_ces": false,
+      "title": "The Healthy Volunteer Who Never Came Home (Declassified) #darkhistory #declassified",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=6UiWU8C-Jdw",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Healthy Volunteer Who Never Came Home (Declassified) #darkhistory #declassified https://www.youtube.com/watch?v=6UiWU8C-Jdw",
+          "chars": 107
+        },
+        "bluesky": {
+          "text": "The Healthy Volunteer Who Never Came Home (Declassified) #darkhistory #declassified https://www.youtube.com/watch?v=6UiWU8C-Jdw",
+          "chars": 127
+        }
+      }
+    },
+    {
+      "id": 1914,
+      "date": "2026-11-03",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Could AI help India detect the next pandemic early?:World’s top scientists discuss warning systems, new medicines",
+      "has_text": true,
+      "url": "https://www.bhaskarenglish.in/tech-science/news/ai-wastewater-testing-early-warning-pandemic-manipal-conference-139581044.html",
+      "source": "Bhaskar English",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Could AI help India detect the next pandemic early?:World’s top scientists discuss warning systems, new medicines https://www.bhaskarenglish.in/tech-science/news/ai-wastewater-testing-early-warning-pandemic-manipal-conference-139581044.html",
+          "chars": 137
+        },
+        "bluesky": {
+          "text": "Could AI help India detect the next pandemic early?:World’s top scientists discuss warning systems, new medicines https://www.bhaskarenglish.in/tech-science/news/ai-wastewater-testing-early-warning-pandemic-manipal-conference-139581044.html",
+          "chars": 240
+        }
+      }
+    },
+    {
+      "id": 1913,
+      "date": "2026-11-03",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "EBSCO Information Services expands Springer Nature e-book purchasing options for libraries – Plus More ATG News & Announcements for Nov. 4, 2026",
+      "has_text": true,
+      "url": "https://www.charleston-hub.com/2026/11/ebsco-information-services-expands-springer-nature-e-book-purchasing-options-for-libraries-plus-more-atg-news-announcements-for-nov-4-2026/",
+      "source": "Charleston Hub",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "EBSCO Information Services expands Springer Nature e-book purchasing options for libraries – Plus More ATG News & Announcements for Nov. 4, 2026 https://www.charleston-hub.com/2026/11/ebsco-information-services-expands-springer-nature-e-book-purchasing-options-for-libraries-plus-more-atg-news-announcements-for-nov-4-2026/",
+          "chars": 168
+        },
+        "bluesky": {
+          "text": "EBSCO Information Services expands Springer Nature e-book purchasing options for libraries – Plus More ATG News & Annou… https://www.charleston-hub.com/2026/11/ebsco-information-services-expands-springer-nature-e-book-purchasing-options-for-libraries-plus-more-atg-news-announcements-for-nov-4-2026/",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 1912,
+      "date": "2026-11-03",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-higher-education-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "November 2026 HEPI webinars",
+      "has_text": true,
+      "url": "https://www.hepi.ac.uk/2026/11/03/forthcoming-hepi-webinars-this-november/",
+      "source": "HEPI",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "November 2026 HEPI webinars https://www.hepi.ac.uk/2026/11/03/forthcoming-hepi-webinars-this-november/",
+          "chars": 51
+        },
+        "bluesky": {
+          "text": "November 2026 HEPI webinars https://www.hepi.ac.uk/2026/11/03/forthcoming-hepi-webinars-this-november/",
+          "chars": 102
+        }
+      }
+    },
+    {
+      "id": 1911,
+      "date": "2026-11-03",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Rice hosts third annual Ivy Plus State and Local Affairs Conference",
+      "has_text": true,
+      "url": "https://news.rice.edu/news/2026/rice-hosts-third-annual-ivy-plus-state-and-local-affairs-conference",
+      "source": "RICE NEWS",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Rice hosts third annual Ivy Plus State and Local Affairs Conference https://news.rice.edu/news/2026/rice-hosts-third-annual-ivy-plus-state-and-local-affairs-conference",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "Rice hosts third annual Ivy Plus State and Local Affairs Conference https://news.rice.edu/news/2026/rice-hosts-third-annual-ivy-plus-state-and-local-affairs-conference",
+          "chars": 167
+        }
+      }
+    },
+    {
+      "id": 1910,
+      "date": "2026-11-03",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-higher-education-higher-education-institutional-neutrality-higher-education-academic-freedom-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Higher education, institutional neutrality, higher education, academic freedom, Johns Hopkins",
+      "is_ces": false,
+      "title": "The Costs of Coercion: US Soft Power in a Transactional Age",
+      "has_text": true,
+      "url": "https://www.orfonline.org/research/the-costs-of-coercion-us-soft-power-in-a-transactional-age",
+      "source": "Observer Research Foundation (ORF)",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Costs of Coercion: US Soft Power in a Transactional Age https://www.orfonline.org/research/the-costs-of-coercion-us-soft-power-in-a-transactional-age",
+          "chars": 83
+        },
+        "bluesky": {
+          "text": "The Costs of Coercion: US Soft Power in a Transactional Age https://www.orfonline.org/research/the-costs-of-coercion-us-soft-power-in-a-transactional-age",
+          "chars": 153
+        }
+      }
+    },
+    {
+      "id": 1909,
+      "date": "2026-11-03",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-academic-freedom-higher-education-academic-freedom-higher-education-academic-freedom-johns-hopkins-university-president",
+      "person": "Namesake/noise match: Academic freedom, higher education, Academic Freedom, Higher Education, academic freedom, Johns Hopkins, university president",
+      "is_ces": false,
+      "title": "Autonomy, Earned: Shared Governance, Academic Freedom, and University Self-Rule",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s11024-026-09673-8",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Autonomy, Earned: Shared Governance, Academic Freedom, and University Self-Rule https://link.springer.com/article/10.1007/s11024-026-09673-8",
+          "chars": 103
+        },
+        "bluesky": {
+          "text": "Autonomy, Earned: Shared Governance, Academic Freedom, and University Self-Rule https://link.springer.com/article/10.1007/s11024-026-09673-8",
+          "chars": 140
+        }
+      }
+    },
+    {
+      "id": 1907,
+      "date": "2026-11-03",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, Agora",
+      "is_ces": false,
+      "title": "Basophils inhibit early lung metastasis by suppressing regulatory T cells",
+      "has_text": true,
+      "url": "https://www.nature.com/articles/s43018-026-01257-5",
+      "source": "Nature",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Basophils inhibit early lung metastasis by suppressing regulatory T cells https://www.nature.com/articles/s43018-026-01257-5",
+          "chars": 97
+        },
+        "bluesky": {
+          "text": "Basophils inhibit early lung metastasis by suppressing regulatory T cells https://www.nature.com/articles/s43018-026-01257-5",
+          "chars": 124
+        }
+      }
+    },
+    {
+      "id": 1906,
+      "date": "2026-11-03",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Is the SAT dumbed down -- or just different?",
+      "has_text": true,
+      "url": "https://www.joannejacobs.com/post/is-the-sat-dumbed-down-or-just-different",
+      "source": "JoanneJacobs.com",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Is the SAT dumbed down -- or just different? https://www.joannejacobs.com/post/is-the-sat-dumbed-down-or-just-different",
+          "chars": 68
+        },
+        "bluesky": {
+          "text": "Is the SAT dumbed down -- or just different? https://www.joannejacobs.com/post/is-the-sat-dumbed-down-or-just-different",
+          "chars": 119
+        }
+      }
+    },
+    {
+      "id": 1899,
+      "date": "2026-11-03",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: HOPKINS, AGORA",
+      "is_ces": false,
+      "title": "Twitter post about Ryan Nugent-Hopkins (hockey)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1898,
+      "date": "2026-11-03",
+      "week_start": "2026-11-02",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": "The Shape of Everything: Hilbert Space, Mind, and the Mathematics of Reality (passing citation)",
+      "has_text": true,
+      "url": "https://medium.com/quantum-thought/the-shape-of-everything-hilbert-space-mind-and-the-mathematics-of-reality-e544337f437d",
+      "source": "Medium",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Shape of Everything: Hilbert Space, Mind, and the Mathematics of Reality (passing citation) https://medium.com/quantum-thought/the-shape-of-everything-hilbert-space-mind-and-the-mathematics-of-reality-e544337f437d",
+          "chars": 119
+        },
+        "bluesky": {
+          "text": "The Shape of Everything: Hilbert Space, Mind, and the Mathematics of Reality (passing citation) https://medium.com/quantum-thought/the-shape-of-everything-hilbert-space-mind-and-the-mathematics-of-reality-e544337f437d",
+          "chars": 217
+        }
+      }
+    },
+    {
+      "id": 1897,
+      "date": "2026-11-03",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-trevor-brown-hopkins",
+      "person": "Namesake/noise match: Trevor Brown, Hopkins",
+      "is_ces": false,
+      "title": "Уоррен Кристи",
+      "has_text": true,
+      "url": "https://www.kinonews.ru/person_6418/warren-christie",
+      "source": "KinoNews.ru - самые интересные новости кино со всего мира",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Уоррен Кристи https://www.kinonews.ru/person_6418/warren-christie",
+          "chars": 37
+        },
+        "bluesky": {
+          "text": "Уоррен Кристи https://www.kinonews.ru/person_6418/warren-christie",
+          "chars": 65
+        }
+      }
+    },
+    {
+      "id": 1894,
+      "date": "2026-11-03",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "Reddit r/brasil reply (Lara Resende / Monica de Bolle, not tracked)",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/brasil/comments/1xn8ctx/comment/19s3moqwd2nl1/",
+      "source": "reddit.com/r/brasil",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Reddit r/brasil reply (Lara Resende / Monica de Bolle, not tracked) https://www.reddit.com/r/brasil/comments/1xn8ctx/comment/19s3moqwd2nl1/",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "Reddit r/brasil reply (Lara Resende / Monica de Bolle, not tracked) https://www.reddit.com/r/brasil/comments/1xn8ctx/comment/19s3moqwd2nl1/",
+          "chars": 139
+        }
+      }
+    },
+    {
+      "id": 1893,
+      "date": "2026-11-03",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-agora-johns-hopkins",
+      "person": "Namesake/noise match: agora, Johns Hopkins",
+      "is_ces": false,
+      "title": "'Falar em tabelamento de juros é uma distorção de má-fé', diz Lara Resende (quotes Monica de Bolle, not tracked)",
+      "has_text": true,
+      "url": "https://economia.uol.com.br/colunas/jose-paulo-kupfer/2026/11/03/falar-em-tabelamento-de-juros-e-uma-distorcao-de-ma-fe-diz-lara-resende.htm",
+      "source": "Band News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "'Falar em tabelamento de juros é uma distorção de má-fé', diz Lara Resende (quotes Monica de Bolle, not tracked) https://economia.uol.com.br/colunas/jose-paulo-kupfer/2026/11/03/falar-em-tabelamento-de-juros-e-uma-distorcao-de-ma-fe-diz-lara-resende.htm",
+          "chars": 136
+        },
+        "bluesky": {
+          "text": "'Falar em tabelamento de juros é uma distorção de má-fé', diz Lara Resende (quotes Monica de Bolle, not tracked) https://economia.uol.com.br/colunas/jose-paulo-kupfer/2026/11/03/falar-em-tabelamento-de-juros-e-uma-distorcao-de-ma-fe-diz-lara-resende.htm",
+          "chars": 253
+        }
+      }
+    },
+    {
+      "id": 1888,
+      "date": "2026-11-03",
+      "week_start": "2026-11-02",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "LinkedIn reshare: What the Midterms Mean town hall (Nov. 5) with Lilliana Mason and Scott Warren (repeat, in Oct. 28 digest)",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7523369371759501312",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "LinkedIn reshare: What the Midterms Mean town hall (Nov. 5) with Lilliana Mason and Scott Warren (repeat, in Oct. 28 digest) https://www.linkedin.com/feed/update/urn:li:share:7523369371759501312",
+          "chars": 148
+        },
+        "bluesky": {
+          "text": "LinkedIn reshare: What the Midterms Mean town hall (Nov. 5) with Lilliana Mason and Scott Warren (repeat, in Oct. 28 digest) https://www.linkedin.com/feed/update/urn:li:share:7523369371759501312",
+          "chars": 194
+        }
+      }
+    },
+    {
+      "id": 1887,
+      "date": "2026-11-03",
+      "week_start": "2026-11-02",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Hopkins Forum partnership reflection (LinkedIn post)",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7523486938742448128",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Hopkins Forum partnership reflection (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:share:7523486938742448128",
+          "chars": 76
+        },
+        "bluesky": {
+          "text": "Hopkins Forum partnership reflection (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:share:7523486938742448128",
+          "chars": 122
         }
       }
     },
