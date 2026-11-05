@@ -1,7 +1,180 @@
 {
-  "generated_at": "2026-11-04T07:07:22-05:00",
-  "count": 1905,
+  "generated_at": "2026-11-05T07:08:00-05:00",
+  "count": 1926,
   "stories": [
+    {
+      "id": 1918,
+      "date": "2026-11-05",
+      "week_start": "2026-11-02",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "\"A democracia mostrou a sua força, vamos lutar por ela novamente\". Entrevista com Yascha Mounk",
+      "has_text": true,
+      "url": "https://www.ihu.unisinos.br/673017-a-democracia-mostrou-a-sua-forca-vamos-lutar-por-ela-novamente-entrevista-com-yascha-mounk",
+      "source": "Instituto Humanitas Unisinos",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "\"A democracia mostrou a sua força, vamos lutar por ela novamente\". Entrevista com Yascha Mounk https://www.ihu.unisinos.br/673017-a-democracia-mostrou-a-sua-forca-vamos-lutar-por-ela-novamente-entrevista-com-yascha-mounk",
+          "chars": 118
+        },
+        "bluesky": {
+          "text": "\"A democracia mostrou a sua força, vamos lutar por ela novamente\". Entrevista com Yascha Mounk https://www.ihu.unisinos.br/673017-a-democracia-mostrou-a-sua-forca-vamos-lutar-por-ela-novamente-entrevista-com-yascha-mounk",
+          "chars": 220
+        }
+      }
+    },
+    {
+      "id": 1929,
+      "date": "2026-11-05",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Abu Dhabi Details 10-Year Golden Visa Criteria for Top International University Graduates",
+      "has_text": true,
+      "url": "https://uecn.org/abu-dhabi-details-10-year-golden-visa-criteria-for-top-international-university-graduates/",
+      "source": "UAE-China Chamber of Commerce (UECN)",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Abu Dhabi Details 10-Year Golden Visa Criteria for Top International University Graduates https://uecn.org/abu-dhabi-details-10-year-golden-visa-criteria-for-top-international-university-graduates/",
+          "chars": 113
+        },
+        "bluesky": {
+          "text": "Abu Dhabi Details 10-Year Golden Visa Criteria for Top International University Graduates https://uecn.org/abu-dhabi-details-10-year-golden-visa-criteria-for-top-international-university-graduates/",
+          "chars": 197
+        }
+      }
+    },
+    {
+      "id": 1928,
+      "date": "2026-11-05",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "QS World University Rankings 2027: Top 20 North American Universities In the World",
+      "has_text": true,
+      "url": "https://www.jagranjosh.com/articles/qs-world-university-rankings-2027-top-20-north-american-universities-in-the-world-1800018715-1",
+      "source": "Jagran Josh",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "QS World University Rankings 2027: Top 20 North American Universities In the World https://www.jagranjosh.com/articles/qs-world-university-rankings-2027-top-20-north-american-universities-in-the-world-1800018715-1",
+          "chars": 106
+        },
+        "bluesky": {
+          "text": "QS World University Rankings 2027: Top 20 North American Universities In the World https://www.jagranjosh.com/articles/qs-world-university-rankings-2027-top-20-north-american-universities-in-the-world-1800018715-1",
+          "chars": 213
+        }
+      }
+    },
+    {
+      "id": 1927,
+      "date": "2026-11-05",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-federal-research-funding-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: federal research funding, higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Democrats won Congress. Now Maryland leaders want to undo Trump damage to the state.",
+      "has_text": true,
+      "url": "https://www.thebanner.com/politics-power/democratic-control-maryland-impact-election-congress-I77RNDYYYNA63K32TT32WA6RWU/",
+      "source": "The Baltimore Banner",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Democrats won Congress. Now Maryland leaders want to undo Trump damage to the state. https://www.thebanner.com/politics-power/democratic-control-maryland-impact-election-congress-I77RNDYYYNA63K32TT32WA6RWU/",
+          "chars": 108
+        },
+        "bluesky": {
+          "text": "Democrats won Congress. Now Maryland leaders want to undo Trump damage to the state. https://www.thebanner.com/politics-power/democratic-control-maryland-impact-election-congress-I77RNDYYYNA63K32TT32WA6RWU/",
+          "chars": 206
+        }
+      }
+    },
+    {
+      "id": 1925,
+      "date": "2026-11-05",
+      "week_start": "2026-11-02",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "Twitter post (no text captured; agora, hopkins)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1917,
+      "date": "2026-11-05",
+      "week_start": "2026-11-02",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": "Post-Election Livestream with Katrina Gamble, Hahrie Han, and Doran Schrantz",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=r6HNWzipqz4",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Post-Election Livestream with Katrina Gamble, Hahrie Han, and Doran Schrantz https://www.youtube.com/watch?v=r6HNWzipqz4",
+          "chars": 100
+        },
+        "bluesky": {
+          "text": "Post-Election Livestream with Katrina Gamble, Hahrie Han, and Doran Schrantz https://www.youtube.com/watch?v=r6HNWzipqz4",
+          "chars": 120
+        }
+      }
+    },
+    {
+      "id": 1916,
+      "date": "2026-11-04",
+      "week_start": "2026-11-02",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": "Do Americans Hate “The System” or Trump?",
+      "has_text": true,
+      "url": "https://newrepublic.substack.com/p/do-americans-hate-the-system-or-trump",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Do Americans Hate “The System” or Trump? https://newrepublic.substack.com/p/do-americans-hate-the-system-or-trump",
+          "chars": 64
+        },
+        "bluesky": {
+          "text": "Do Americans Hate “The System” or Trump? https://newrepublic.substack.com/p/do-americans-hate-the-system-or-trump",
+          "chars": 113
+        }
+      }
+    },
     {
       "id": 1903,
       "date": "2026-11-04",
@@ -25,6 +198,361 @@
         "bluesky": {
           "text": "Brasil. Descobertos glóbulos vermelhos fossilizados de dinossauro com 115 milhões de anos https://observador.pt/2026/11/04/brasil-descobertos-globulos-vermelhos-fossilizados-de-dinossauro-com-115-milhoes-de-anos/",
           "chars": 212
+        }
+      }
+    },
+    {
+      "id": 1920,
+      "date": "2026-11-04",
+      "week_start": "2026-11-02",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "Sponsored post: This Thursday: Ben Cardin and John Sarbanes on What the Midterms Mean (already in Oct. 28 digest)",
+      "has_text": true,
+      "url": "https://baltimorefishbowl.com/stories/this-thursday-ben-cardin-and-john-sarbanes-on-what-the-midterms-mean/",
+      "source": "Baltimore Fishbowl",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "neutral",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Sponsored post: This Thursday: Ben Cardin and John Sarbanes on What the Midterms Mean (already in Oct. 28 digest) https://baltimorefishbowl.com/stories/this-thursday-ben-cardin-and-john-sarbanes-on-what-the-midterms-mean/",
+          "chars": 137
+        },
+        "bluesky": {
+          "text": "Sponsored post: This Thursday: Ben Cardin and John Sarbanes on What the Midterms Mean (already in Oct. 28 digest) https://baltimorefishbowl.com/stories/this-thursday-ben-cardin-and-john-sarbanes-on-what-the-midterms-mean/",
+          "chars": 221
+        }
+      }
+    },
+    {
+      "id": 1936,
+      "date": "2026-11-04",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-higher-education-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Nanjing University | Study in China | Admission & Scholarship | Pencil Edu BD",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=ShD4vaQmGzo",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Nanjing University | Study in China | Admission & Scholarship | Pencil Edu BD https://www.youtube.com/watch?v=ShD4vaQmGzo",
+          "chars": 101
+        },
+        "bluesky": {
+          "text": "Nanjing University | Study in China | Admission & Scholarship | Pencil Edu BD https://www.youtube.com/watch?v=ShD4vaQmGzo",
+          "chars": 121
+        }
+      }
+    },
+    {
+      "id": 1935,
+      "date": "2026-11-04",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, Agora",
+      "is_ces": false,
+      "title": "A Máscara do Zorro: Rafael Prende Diego (Anthony Hopkins)",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=uE5vXbAtaZM",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "A Máscara do Zorro: Rafael Prende Diego (Anthony Hopkins) https://www.youtube.com/watch?v=uE5vXbAtaZM",
+          "chars": 81
+        },
+        "bluesky": {
+          "text": "A Máscara do Zorro: Rafael Prende Diego (Anthony Hopkins) https://www.youtube.com/watch?v=uE5vXbAtaZM",
+          "chars": 101
+        }
+      }
+    },
+    {
+      "id": 1934,
+      "date": "2026-11-04",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-agora-johns-hopkins",
+      "person": "Namesake/noise match: agora, Johns Hopkins",
+      "is_ces": false,
+      "title": "10,2% dos homens na Espanha admitem ter praticado atos sexuais contra menores, segundo um estudo da UB",
+      "has_text": true,
+      "url": "https://www.notibrasil.com.br/politica/noticia-102-dos-homens-na-espanha-admitem-ter-praticado-atos-sexuais-contra-menores-segundo-um-estudo-da-ub-20261104151053.html",
+      "source": "NotiBrasil",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "10,2% dos homens na Espanha admitem ter praticado atos sexuais contra menores, segundo um estudo da UB https://www.notibrasil.com.br/politica/noticia-102-dos-homens-na-espanha-admitem-ter-praticado-atos-sexuais-contra-menores-segundo-um-estudo-da-ub-20261104151053.html",
+          "chars": 126
+        },
+        "bluesky": {
+          "text": "10,2% dos homens na Espanha admitem ter praticado atos sexuais contra menores, segundo um estudo da UB https://www.notibrasil.com.br/politica/noticia-102-dos-homens-na-espanha-admitem-ter-praticado-atos-sexuais-contra-menores-segundo-um-estudo-da-ub-20261104151053.html",
+          "chars": 269
+        }
+      }
+    },
+    {
+      "id": 1933,
+      "date": "2026-11-04",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-university-president-higher-education-johns-hopkins-university-president",
+      "person": "Namesake/noise match: university president, Higher Education, Johns Hopkins, University president",
+      "is_ces": false,
+      "title": "Duke University",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/Duke_University",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Duke University https://en.wikipedia.org/wiki/Duke_University",
+          "chars": 39
+        },
+        "bluesky": {
+          "text": "Duke University https://en.wikipedia.org/wiki/Duke_University",
+          "chars": 61
+        }
+      }
+    },
+    {
+      "id": 1932,
+      "date": "2026-11-04",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-johns-hopkins-academic-freedom",
+      "person": "Namesake/noise match: Johns Hopkins, academic freedom",
+      "is_ces": false,
+      "title": "$20 million from 42 year old “Giving Pledge” member billionaire Ben Delo launches a fund for the young ambitions of 56 nations",
+      "has_text": true,
+      "url": "https://lifestylesmagazine.com/latest-news/20-million-from-42-year-old-giving-pledge-member-billionaire-ben-delo-launches-a-fund-for-the-young-ambitions-of-56-nations/",
+      "source": "Lifestyles Magazine",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "$20 million from 42 year old “Giving Pledge” member billionaire Ben Delo launches a fund for the young ambitions of 56 nations https://lifestylesmagazine.com/latest-news/20-million-from-42-year-old-giving-pledge-member-billionaire-ben-delo-launches-a-fund-for-the-young-ambitions-of-56-nations/",
+          "chars": 150
+        },
+        "bluesky": {
+          "text": "$20 million from 42 year old “Giving Pledge” member billionaire Ben Delo launches a fund for the young ambitions of 56 nations https://lifestylesmagazine.com/latest-news/20-million-from-42-year-old-giving-pledge-member-billionaire-ben-delo-launches-a-fund-for-the-young-ambitions-of-56-nations/",
+          "chars": 294
+        }
+      }
+    },
+    {
+      "id": 1931,
+      "date": "2026-11-04",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, Higher Education",
+      "is_ces": false,
+      "title": "How are graduate researchers shaping the future of higher ed policy? \n\nJohns Hop",
+      "has_text": true,
+      "url": "https://bsky.app/profile/jhueducation.bsky.social/post/3mziyujftbc2f",
+      "source": "Bluesky",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "How are graduate researchers shaping the future of higher ed policy? \n\nJohns Hop https://bsky.app/profile/jhueducation.bsky.social/post/3mziyujftbc2f",
+          "chars": 104
+        },
+        "bluesky": {
+          "text": "How are graduate researchers shaping the future of higher ed policy? \n\nJohns Hop https://bsky.app/profile/jhueducation.bsky.social/post/3mziyujftbc2f",
+          "chars": 149
+        }
+      }
+    },
+    {
+      "id": 1930,
+      "date": "2026-11-04",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Experimental ultrasound implant could help guide care after spinal cord injury",
+      "has_text": true,
+      "url": "https://medicalxpress.com/news/2026-11-experimental-ultrasound-implant-spinal-cord.html",
+      "source": "Medical Xpress",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Experimental ultrasound implant could help guide care after spinal cord injury https://medicalxpress.com/news/2026-11-experimental-ultrasound-implant-spinal-cord.html",
+          "chars": 102
+        },
+        "bluesky": {
+          "text": "Experimental ultrasound implant could help guide care after spinal cord injury https://medicalxpress.com/news/2026-11-experimental-ultrasound-implant-spinal-cord.html",
+          "chars": 166
+        }
+      }
+    },
+    {
+      "id": 1926,
+      "date": "2026-11-04",
+      "week_start": "2026-11-02",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "Twitter post (no text captured; Johns Hopkins, Higher Education)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1924,
+      "date": "2026-11-04",
+      "week_start": "2026-11-02",
+      "person_id": "jeanne-marie-jackson",
+      "person": "Jeanne-Marie Jackson",
+      "is_ces": true,
+      "title": "Baltimore Events 11/4/26-11/18/26 (Jackson not in captured text)",
+      "has_text": true,
+      "url": "https://baltimorebeat.com/baltimore-events-11-4-26-11-18-26/",
+      "source": "Baltimore Beat",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Baltimore Events 11/4/26-11/18/26 (Jackson not in captured text) https://baltimorebeat.com/baltimore-events-11-4-26-11-18-26/",
+          "chars": 88
+        },
+        "bluesky": {
+          "text": "Baltimore Events 11/4/26-11/18/26 (Jackson not in captured text) https://baltimorebeat.com/baltimore-events-11-4-26-11-18-26/",
+          "chars": 125
+        }
+      }
+    },
+    {
+      "id": 1923,
+      "date": "2026-11-04",
+      "week_start": "2026-11-02",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Será que 500 milhões de dólares do Musk não compram o Texas? (Applebaum not in captured text)",
+      "has_text": true,
+      "url": "https://observador.pt/programas/e-o-vencedor-e/sera-que-500-milhoes-de-dolares-do-musk-nao-compram-o-texas/",
+      "source": "Observador.pt",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Será que 500 milhões de dólares do Musk não compram o Texas? (Applebaum not in captured text) https://observador.pt/programas/e-o-vencedor-e/sera-que-500-milhoes-de-dolares-do-musk-nao-compram-o-texas/",
+          "chars": 117
+        },
+        "bluesky": {
+          "text": "Será que 500 milhões de dólares do Musk não compram o Texas? (Applebaum not in captured text) https://observador.pt/programas/e-o-vencedor-e/sera-que-500-milhoes-de-dolares-do-musk-nao-compram-o-texas/",
+          "chars": 201
+        }
+      }
+    },
+    {
+      "id": 1922,
+      "date": "2026-11-04",
+      "week_start": "2026-11-02",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "ENTRE A FÉ E O CETICISMO (Applebaum not in captured text)",
+      "has_text": true,
+      "url": "https://piaui.uol.com.br/revista/242/entre-a-fe-e-o-ceticismo/",
+      "source": "Piauí",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "ENTRE A FÉ E O CETICISMO (Applebaum not in captured text) https://piaui.uol.com.br/revista/242/entre-a-fe-e-o-ceticismo/",
+          "chars": 81
+        },
+        "bluesky": {
+          "text": "ENTRE A FÉ E O CETICISMO (Applebaum not in captured text) https://piaui.uol.com.br/revista/242/entre-a-fe-e-o-ceticismo/",
+          "chars": 120
+        }
+      }
+    },
+    {
+      "id": 1921,
+      "date": "2026-11-04",
+      "week_start": "2026-11-02",
+      "person_id": "benjamin-storey",
+      "person": "Benjamin Storey",
+      "is_ces": false,
+      "title": "Why the left should lend a hand to those widowed and orphaned civics centers (tracked names not in captured text)",
+      "has_text": true,
+      "url": "https://hollisrobbinsanecdotal.substack.com/p/why-the-left-should-lend-a-hand-to",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Why the left should lend a hand to those widowed and orphaned civics centers (tracked names not in captured text) https://hollisrobbinsanecdotal.substack.com/p/why-the-left-should-lend-a-hand-to",
+          "chars": 137
+        },
+        "bluesky": {
+          "text": "Why the left should lend a hand to those widowed and orphaned civics centers (tracked names not in captured text) https://hollisrobbinsanecdotal.substack.com/p/why-the-left-should-lend-a-hand-to",
+          "chars": 194
+        }
+      }
+    },
+    {
+      "id": 1919,
+      "date": "2026-11-04",
+      "week_start": "2026-11-02",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "Carleton Convocation with Lillian Hall Mason | October 30, 2026",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=PFLGBYXHLx0",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Carleton Convocation with Lillian Hall Mason | October 30, 2026 https://www.youtube.com/watch?v=PFLGBYXHLx0",
+          "chars": 87
+        },
+        "bluesky": {
+          "text": "Carleton Convocation with Lillian Hall Mason | October 30, 2026 https://www.youtube.com/watch?v=PFLGBYXHLx0",
+          "chars": 107
         }
       }
     },
