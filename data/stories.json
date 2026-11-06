@@ -1,7 +1,163 @@
 {
-  "generated_at": "2026-11-05T07:08:00-05:00",
-  "count": 1926,
+  "generated_at": "2026-11-06T07:06:58-05:00",
+  "count": 1949,
   "stories": [
+    {
+      "id": 1948,
+      "date": "2026-11-06",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: agora, Hopkins",
+      "is_ces": false,
+      "title": "Kazuo Ishiguro: escrever sobre um mundo de outrora e um amanhã | Por Paulo Serra",
+      "has_text": true,
+      "url": "https://postal.pt/edicaopapel/kazuo-ishiguro-escrever-sobre-um-mundo-de-outrora-e-um-amanha-por-paulo-serra/",
+      "source": "POSTAL",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Kazuo Ishiguro: escrever sobre um mundo de outrora e um amanhã | Por Paulo Serra https://postal.pt/edicaopapel/kazuo-ishiguro-escrever-sobre-um-mundo-de-outrora-e-um-amanha-por-paulo-serra/",
+          "chars": 104
+        },
+        "bluesky": {
+          "text": "Kazuo Ishiguro: escrever sobre um mundo de outrora e um amanhã | Por Paulo Serra https://postal.pt/edicaopapel/kazuo-ishiguro-escrever-sobre-um-mundo-de-outrora-e-um-amanha-por-paulo-serra/",
+          "chars": 189
+        }
+      }
+    },
+    {
+      "id": 1940,
+      "date": "2026-11-06",
+      "week_start": "2026-11-02",
+      "person_id": "nadia-brown",
+      "person": "Nadia Brown",
+      "is_ces": false,
+      "title": "Derrota enfraquece Trump e gera dúvidas sobre como o republicano reagirá ao revés",
+      "has_text": true,
+      "url": "https://veja.abril.com.br/mundo/derrota-enfraquece-trump-e-gera-duvidas-sobre-como-o-republicano-reagira-ao-reves/",
+      "source": "Abril.com",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Derrota enfraquece Trump e gera dúvidas sobre como o republicano reagirá ao revés https://veja.abril.com.br/mundo/derrota-enfraquece-trump-e-gera-duvidas-sobre-como-o-republicano-reagira-ao-reves/",
+          "chars": 105
+        },
+        "bluesky": {
+          "text": "Derrota enfraquece Trump e gera dúvidas sobre como o republicano reagirá ao revés https://veja.abril.com.br/mundo/derrota-enfraquece-trump-e-gera-duvidas-sobre-como-o-republicano-reagira-ao-reves/",
+          "chars": 196
+        }
+      }
+    },
+    {
+      "id": 1939,
+      "date": "2026-11-06",
+      "week_start": "2026-11-02",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "Non vi rilassate troppo: Donald è solo un sintomo",
+      "has_text": true,
+      "url": "https://infosannio.com/2026/11/06/non-vi-rilassate-troppo-donald-e-solo-un-sintomo/",
+      "source": "Infosannio",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Non vi rilassate troppo: Donald è solo un sintomo https://infosannio.com/2026/11/06/non-vi-rilassate-troppo-donald-e-solo-un-sintomo/",
+          "chars": 73
+        },
+        "bluesky": {
+          "text": "Non vi rilassate troppo: Donald è solo un sintomo https://infosannio.com/2026/11/06/non-vi-rilassate-troppo-donald-e-solo-un-sintomo/",
+          "chars": 133
+        }
+      }
+    },
+    {
+      "id": 1941,
+      "date": "2026-11-05",
+      "week_start": "2026-11-02",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": "Do Americans Hate “The System” or Trump? (already in Nov. 5 digest)",
+      "has_text": true,
+      "url": "https://newrepublic.com/article/217605/americans-hate-the-system-trump",
+      "source": "The New Republic",
+      "source_type": "online news",
+      "similar_mention_count": 5,
+      "entity_sentiment": "neutral",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Do Americans Hate “The System” or Trump? (already in Nov. 5 digest) https://newrepublic.com/article/217605/americans-hate-the-system-trump",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "Do Americans Hate “The System” or Trump? (already in Nov. 5 digest) https://newrepublic.com/article/217605/americans-hate-the-system-trump",
+          "chars": 138
+        }
+      }
+    },
+    {
+      "id": 1947,
+      "date": "2026-11-05",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: Agora, Hopkins",
+      "is_ces": false,
+      "title": "Epicentro do surto de sarampo nos EUA, Pensilvânia registra 6ª morte pela doença, todas entre não vacinados",
+      "has_text": true,
+      "url": "https://oglobo.globo.com/saude/noticia/2026/11/05/epicentro-do-surto-de-sarampo-nos-eua-pensilvania-registra-6a-morte-pela-doenca-todas-entre-nao-vacinados.ghtml",
+      "source": "O Globo",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Epicentro do surto de sarampo nos EUA, Pensilvânia registra 6ª morte pela doença, todas entre não vacinados https://oglobo.globo.com/saude/noticia/2026/11/05/epicentro-do-surto-de-sarampo-nos-eua-pensilvania-registra-6a-morte-pela-doenca-todas-entre-nao-vacinados.ghtml",
+          "chars": 131
+        },
+        "bluesky": {
+          "text": "Epicentro do surto de sarampo nos EUA, Pensilvânia registra 6ª morte pela doença, todas entre não vacinados https://oglobo.globo.com/saude/noticia/2026/11/05/epicentro-do-surto-de-sarampo-nos-eua-pensilvania-registra-6a-morte-pela-doenca-todas-entre-nao-vacinados.ghtml",
+          "chars": 269
+        }
+      }
+    },
+    {
+      "id": 1946,
+      "date": "2026-11-05",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-academic-freedom-johns-hopkins",
+      "person": "Namesake/noise match: Academic Freedom, Johns Hopkins",
+      "is_ces": false,
+      "title": "Denny JA: Ketika Jalanan Berkata Tidak",
+      "has_text": true,
+      "url": "https://www.orbitindonesia.com/detail/sYLOsjkeP1/denny-ja-ketika-jalanan-berkata-tidak",
+      "source": "OrbitIndonesia.com",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Denny JA: Ketika Jalanan Berkata Tidak https://www.orbitindonesia.com/detail/sYLOsjkeP1/denny-ja-ketika-jalanan-berkata-tidak",
+          "chars": 62
+        },
+        "bluesky": {
+          "text": "Denny JA: Ketika Jalanan Berkata Tidak https://www.orbitindonesia.com/detail/sYLOsjkeP1/denny-ja-ketika-jalanan-berkata-tidak",
+          "chars": 125
+        }
+      }
+    },
     {
       "id": 1918,
       "date": "2026-11-05",
@@ -25,6 +181,430 @@
         "bluesky": {
           "text": "\"A democracia mostrou a sua força, vamos lutar por ela novamente\". Entrevista com Yascha Mounk https://www.ihu.unisinos.br/673017-a-democracia-mostrou-a-sua-forca-vamos-lutar-por-ela-novamente-entrevista-com-yascha-mounk",
           "chars": 220
+        }
+      }
+    },
+    {
+      "id": 1959,
+      "date": "2026-11-05",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-hopkins-university-johns-hopkins-university-president",
+      "person": "Namesake/noise match: Hopkins University, Johns Hopkins, university president",
+      "is_ces": false,
+      "title": "How Rockefeller’s Money Changed American Medicine—and Who Paid the Price",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=6HWE8NvRF9o",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "How Rockefeller’s Money Changed American Medicine—and Who Paid the Price https://www.youtube.com/watch?v=6HWE8NvRF9o",
+          "chars": 96
+        },
+        "bluesky": {
+          "text": "How Rockefeller’s Money Changed American Medicine—and Who Paid the Price https://www.youtube.com/watch?v=6HWE8NvRF9o",
+          "chars": 116
+        }
+      }
+    },
+    {
+      "id": 1958,
+      "date": "2026-11-05",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-agora-johns-hopkins",
+      "person": "Namesake/noise match: Agora, Johns Hopkins",
+      "is_ces": false,
+      "title": "O que os antigos sabiam sobre felicidade? 5 práticas que ainda fazem sentido",
+      "has_text": true,
+      "url": "https://fastcompanybrasil.com/worklife/bem-estar/5-praticas-ancestrais-que-a-ciencia-comprova-que-funcionam/",
+      "source": "Fast Company Brasil",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "O que os antigos sabiam sobre felicidade? 5 práticas que ainda fazem sentido https://fastcompanybrasil.com/worklife/bem-estar/5-praticas-ancestrais-que-a-ciencia-comprova-que-funcionam/",
+          "chars": 100
+        },
+        "bluesky": {
+          "text": "O que os antigos sabiam sobre felicidade? 5 práticas que ainda fazem sentido https://fastcompanybrasil.com/worklife/bem-estar/5-praticas-ancestrais-que-a-ciencia-comprova-que-funcionam/",
+          "chars": 185
+        }
+      }
+    },
+    {
+      "id": 1957,
+      "date": "2026-11-05",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-higher-education-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "15 Global Scholarship Opportunities Currently Open – November 5, 2026",
+      "has_text": true,
+      "url": "https://opportunitydesk.org/2026/11/05/15-global-scholarship-opportunities-currently-open-november-5-2026/",
+      "source": "Opportunity Desk",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "15 Global Scholarship Opportunities Currently Open – November 5, 2026 https://opportunitydesk.org/2026/11/05/15-global-scholarship-opportunities-currently-open-november-5-2026/",
+          "chars": 93
+        },
+        "bluesky": {
+          "text": "15 Global Scholarship Opportunities Currently Open – November 5, 2026 https://opportunitydesk.org/2026/11/05/15-global-scholarship-opportunities-currently-open-november-5-2026/",
+          "chars": 176
+        }
+      }
+    },
+    {
+      "id": 1956,
+      "date": "2026-11-05",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, agora",
+      "is_ces": false,
+      "title": "Musk tem poucos resultados a mostrar após doações recordes para republicanos em eleição nos EUA",
+      "has_text": true,
+      "url": "https://www.terra.com.br/noticias/mundo/musk-tem-poucos-resultados-a-mostrar-apos-doacoes-recordes-para-republicanos-em-eleicao-nos-eua,a5ac5c94fc903df00a73d3cd401067c5q0vs6wgj.html",
+      "source": "Terra",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Musk tem poucos resultados a mostrar após doações recordes para republicanos em eleição nos EUA https://www.terra.com.br/noticias/mundo/musk-tem-poucos-resultados-a-mostrar-apos-doacoes-recordes-para-republicanos-em-eleicao-nos-eua,a5ac5c94fc903df00a73d3cd401067c5q0vs6wgj.html",
+          "chars": 119
+        },
+        "bluesky": {
+          "text": "Musk tem poucos resultados a mostrar após doações recordes para republicanos em eleição nos EUA https://www.terra.com.br/noticias/mundo/musk-tem-poucos-resultados-a-mostrar-apos-doacoes-recordes-para-republicanos-em-eleicao-nos-eua,a5ac5c94fc903df00a73d3cd401067c5q0vs6wgj.html",
+          "chars": 277
+        }
+      }
+    },
+    {
+      "id": 1955,
+      "date": "2026-11-05",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, agora",
+      "is_ces": false,
+      "title": "EM BUSCA DAS INTERAÇÕES PERDIDAS NO CELULAR DE DANIEL VORCARO",
+      "has_text": true,
+      "url": "https://piaui.uol.com.br/web/breno-pires-bastidores-reportagem-celular-vorcaro/",
+      "source": "Piauí",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "EM BUSCA DAS INTERAÇÕES PERDIDAS NO CELULAR DE DANIEL VORCARO https://piaui.uol.com.br/web/breno-pires-bastidores-reportagem-celular-vorcaro/",
+          "chars": 85
+        },
+        "bluesky": {
+          "text": "EM BUSCA DAS INTERAÇÕES PERDIDAS NO CELULAR DE DANIEL VORCARO https://piaui.uol.com.br/web/breno-pires-bastidores-reportagem-celular-vorcaro/",
+          "chars": 141
+        }
+      }
+    },
+    {
+      "id": 1954,
+      "date": "2026-11-05",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education, Higher Education",
+      "is_ces": false,
+      "title": "Seven Women Appointed to Administrative Roles in Higher Education",
+      "has_text": true,
+      "url": "https://wiareport.com/2026/11/seven-women-appointed-to-administrative-roles-in-higher-education-4/",
+      "source": "Women in Academia Report",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Seven Women Appointed to Administrative Roles in Higher Education https://wiareport.com/2026/11/seven-women-appointed-to-administrative-roles-in-higher-education-4/",
+          "chars": 89
+        },
+        "bluesky": {
+          "text": "Seven Women Appointed to Administrative Roles in Higher Education https://wiareport.com/2026/11/seven-women-appointed-to-administrative-roles-in-higher-education-4/",
+          "chars": 164
+        }
+      }
+    },
+    {
+      "id": 1953,
+      "date": "2026-11-05",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-higher-education-faculty-senate-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Faculty Senate, Johns Hopkins",
+      "is_ces": false,
+      "title": "What Universities (Say They) Teach: The Spread of Progressive Language in College Course Catalogs",
+      "has_text": true,
+      "url": "https://manhattan.institute/article/what-universities-say-they-teach-the-spread-of-progressive-language-in-college-course-catalogs",
+      "source": "Manhattan Institute",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "What Universities (Say They) Teach: The Spread of Progressive Language in College Course Catalogs https://manhattan.institute/article/what-universities-say-they-teach-the-spread-of-progressive-language-in-college-course-catalogs",
+          "chars": 121
+        },
+        "bluesky": {
+          "text": "What Universities (Say They) Teach: The Spread of Progressive Language in College Course Catalogs https://manhattan.institute/article/what-universities-say-they-teach-the-spread-of-progressive-language-in-college-course-catalogs",
+          "chars": 228
+        }
+      }
+    },
+    {
+      "id": 1952,
+      "date": "2026-11-05",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "QTRS Nov 5, 2026",
+      "has_text": true,
+      "url": "https://briefedbydata.substack.com/p/qtrs-nov-5-2026",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "QTRS Nov 5, 2026 https://briefedbydata.substack.com/p/qtrs-nov-5-2026",
+          "chars": 40
+        },
+        "bluesky": {
+          "text": "QTRS Nov 5, 2026 https://briefedbydata.substack.com/p/qtrs-nov-5-2026",
+          "chars": 69
+        }
+      }
+    },
+    {
+      "id": 1951,
+      "date": "2026-11-05",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "Mônica de Bolle defende debate amplo sobre Fazenda e critica dependência da Selic",
+      "has_text": true,
+      "url": "https://canalmynews.com.br/politica/monica-de-bolle-fazenda-juros-divida-lula/",
+      "source": "MyNews",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Mônica de Bolle defende debate amplo sobre Fazenda e critica dependência da Selic https://canalmynews.com.br/politica/monica-de-bolle-fazenda-juros-divida-lula/",
+          "chars": 105
+        },
+        "bluesky": {
+          "text": "Mônica de Bolle defende debate amplo sobre Fazenda e critica dependência da Selic https://canalmynews.com.br/politica/monica-de-bolle-fazenda-juros-divida-lula/",
+          "chars": 160
+        }
+      }
+    },
+    {
+      "id": 1950,
+      "date": "2026-11-05",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, agora",
+      "is_ces": false,
+      "title": "Só vi agora, 2046 é drama-romance. Mas do Kar Wai",
+      "has_text": true,
+      "url": "https://blogdokisho.blogspot.com/2026/11/so-vi-agora-2046-e-drama-romance-mas-do.html",
+      "source": "Blog do Kishô",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Só vi agora, 2046 é drama-romance. Mas do Kar Wai https://blogdokisho.blogspot.com/2026/11/so-vi-agora-2046-e-drama-romance-mas-do.html",
+          "chars": 73
+        },
+        "bluesky": {
+          "text": "Só vi agora, 2046 é drama-romance. Mas do Kar Wai https://blogdokisho.blogspot.com/2026/11/so-vi-agora-2046-e-drama-romance-mas-do.html",
+          "chars": 135
+        }
+      }
+    },
+    {
+      "id": 1949,
+      "date": "2026-11-05",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, Agora",
+      "is_ces": false,
+      "title": "Sua empresa já tem IA rodando. Só não sabe onde",
+      "has_text": true,
+      "url": "https://simnoticias.com.br/_colunistas/prompt-aberto/sua-empresa-ja-tem-ia-rodando-so-nao-sabe-onde/",
+      "source": "Sim Notícias",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Sua empresa já tem IA rodando. Só não sabe onde https://simnoticias.com.br/_colunistas/prompt-aberto/sua-empresa-ja-tem-ia-rodando-so-nao-sabe-onde/",
+          "chars": 71
+        },
+        "bluesky": {
+          "text": "Sua empresa já tem IA rodando. Só não sabe onde https://simnoticias.com.br/_colunistas/prompt-aberto/sua-empresa-ja-tem-ia-rodando-so-nao-sabe-onde/",
+          "chars": 148
+        }
+      }
+    },
+    {
+      "id": 1945,
+      "date": "2026-11-05",
+      "week_start": "2026-11-02",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "Reddit comment (no text captured; higher education, Johns Hopkins)",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/funfacts/comments/1xogl83/comment/19s6y3dy1wu74/",
+      "source": "reddit.com/r/funfacts",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Reddit comment (no text captured; higher education, Johns Hopkins) https://www.reddit.com/r/funfacts/comments/1xogl83/comment/19s6y3dy1wu74/",
+          "chars": 90
+        },
+        "bluesky": {
+          "text": "Reddit comment (no text captured; higher education, Johns Hopkins) https://www.reddit.com/r/funfacts/comments/1xogl83/comment/19s6y3dy1wu74/",
+          "chars": 140
+        }
+      }
+    },
+    {
+      "id": 1944,
+      "date": "2026-11-05",
+      "week_start": "2026-11-02",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "Twitter post (no text captured; agora, Hopkins)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1943,
+      "date": "2026-11-05",
+      "week_start": "2026-11-02",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Twitter post (no text captured; Anne Applebaum, Johns Hopkins)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1942,
+      "date": "2026-11-05",
+      "week_start": "2026-11-02",
+      "person_id": "christopher-stout",
+      "person": "Christopher Stout",
+      "is_ces": false,
+      "title": "Alan Cumming and Shirley Henderson Will Star in A HISTORY OF PAPER (Stout not in captured text; Anthony Hopkins)",
+      "has_text": true,
+      "url": "https://shubert.nyc/press/alan-cumming-and-shirley-henderson-will-star-in-the-us-premiere-of-a-history-of-paper/",
+      "source": "The Shubert Organization",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Alan Cumming and Shirley Henderson Will Star in A HISTORY OF PAPER (Stout not in captured text; Anthony Hopkins) https://shubert.nyc/press/alan-cumming-and-shirley-henderson-will-star-in-the-us-premiere-of-a-history-of-paper/",
+          "chars": 136
+        },
+        "bluesky": {
+          "text": "Alan Cumming and Shirley Henderson Will Star in A HISTORY OF PAPER (Stout not in captured text; Anthony Hopkins) https://shubert.nyc/press/alan-cumming-and-shirley-henderson-will-star-in-the-us-premiere-of-a-history-of-paper/",
+          "chars": 225
+        }
+      }
+    },
+    {
+      "id": 1938,
+      "date": "2026-11-05",
+      "week_start": "2026-11-02",
+      "person_id": "trevor-brown",
+      "person": "Trevor Brown",
+      "is_ces": true,
+      "title": "New political science professor offers expertise in public policy, inequality",
+      "has_text": true,
+      "url": "https://socialsciences.uoregon.edu/news/new-political-science-professor-offers-expertise-public-policy-inequality",
+      "source": "Oregon News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "New political science professor offers expertise in public policy, inequality https://socialsciences.uoregon.edu/news/new-political-science-professor-offers-expertise-public-policy-inequality",
+          "chars": 101
+        },
+        "bluesky": {
+          "text": "New political science professor offers expertise in public policy, inequality https://socialsciences.uoregon.edu/news/new-political-science-professor-offers-expertise-public-policy-inequality",
+          "chars": 191
+        }
+      }
+    },
+    {
+      "id": 1937,
+      "date": "2026-11-05",
+      "week_start": "2026-11-02",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Some People Are Just Too Stupid to Breathe, yet They Have Cultural Power",
+      "has_text": true,
+      "url": "https://hotair.com/david-strom/2026/11/05/some-people-are-just-too-stupid-to-breathe-yet-they-have-cultural-power-n3820667",
+      "source": "Hot Air",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "negative",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Some People Are Just Too Stupid to Breathe, yet They Have Cultural Power https://hotair.com/david-strom/2026/11/05/some-people-are-just-too-stupid-to-breathe-yet-they-have-cultural-power-n3820667",
+          "chars": 96
+        },
+        "bluesky": {
+          "text": "Some People Are Just Too Stupid to Breathe, yet They Have Cultural Power https://hotair.com/david-strom/2026/11/05/some-people-are-just-too-stupid-to-breathe-yet-they-have-cultural-power-n3820667",
+          "chars": 195
         }
       }
     },
