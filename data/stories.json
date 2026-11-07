@@ -1,7 +1,509 @@
 {
-  "generated_at": "2026-11-06T07:06:58-05:00",
-  "count": 1949,
+  "generated_at": "2026-11-07T07:06:42-05:00",
+  "count": 1969,
   "stories": [
+    {
+      "id": 1979,
+      "date": "2026-11-07",
+      "week_start": "2026-11-02",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "Palavra de Sá (repost of Mounk La Repubblica interview, already covered 2026-11-05)",
+      "has_text": true,
+      "url": "http://palavradesa.blogspot.com/2026/11/a-democracia-mostrou-sua-forca-vamos.html",
+      "source": "palavradesa.blogspot.com",
+      "source_type": null,
+      "similar_mention_count": 5,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Palavra de Sá (repost of Mounk La Repubblica interview, already covered 2026-11-05) http://palavradesa.blogspot.com/2026/11/a-democracia-mostrou-sua-forca-vamos.html",
+          "chars": 107
+        },
+        "bluesky": {
+          "text": "Palavra de Sá (repost of Mounk La Repubblica interview, already covered 2026-11-05) http://palavradesa.blogspot.com/2026/11/a-democracia-mostrou-sua-forca-vamos.html",
+          "chars": 165
+        }
+      }
+    },
+    {
+      "id": 1973,
+      "date": "2026-11-07",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: agora, Hopkins",
+      "is_ces": false,
+      "title": "15 séries de TV excelentes que são baseadas em filmes consagrados",
+      "has_text": true,
+      "url": "https://www.techtudo.com.br/noticias/2026/11/15-series-de-tv-excelentes-que-sao-baseadas-em-filmes-consagrados-streaming.ghtml",
+      "source": "TechTudo",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "15 séries de TV excelentes que são baseadas em filmes consagrados https://www.techtudo.com.br/noticias/2026/11/15-series-de-tv-excelentes-que-sao-baseadas-em-filmes-consagrados-streaming.ghtml",
+          "chars": 89
+        },
+        "bluesky": {
+          "text": "15 séries de TV excelentes que são baseadas em filmes consagrados https://www.techtudo.com.br/noticias/2026/11/15-series-de-tv-excelentes-que-sao-baseadas-em-filmes-consagrados-streaming.ghtml",
+          "chars": 192
+        }
+      }
+    },
+    {
+      "id": 1972,
+      "date": "2026-11-07",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, agora",
+      "is_ces": false,
+      "title": "O trumpismo busca reinventarse tras o desastre electoral, coa mira posto en 2028",
+      "has_text": true,
+      "url": "https://galego.farodevigo.es/mundo/2026/11/07/trumpismo-busca-reinventarse-debacle-electoral-jd-vance-marco-rubio-136194174.html",
+      "source": "Faro de Vigo",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "O trumpismo busca reinventarse tras o desastre electoral, coa mira posto en 2028 https://galego.farodevigo.es/mundo/2026/11/07/trumpismo-busca-reinventarse-debacle-electoral-jd-vance-marco-rubio-136194174.html",
+          "chars": 104
+        },
+        "bluesky": {
+          "text": "O trumpismo busca reinventarse tras o desastre electoral, coa mira posto en 2028 https://galego.farodevigo.es/mundo/2026/11/07/trumpismo-busca-reinventarse-debacle-electoral-jd-vance-marco-rubio-136194174.html",
+          "chars": 209
+        }
+      }
+    },
+    {
+      "id": 1965,
+      "date": "2026-11-06",
+      "week_start": "2026-11-02",
+      "person_id": "sean-carroll",
+      "person": "Sean Carroll",
+      "is_ces": false,
+      "title": "X post (no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1971,
+      "date": "2026-11-06",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-agora-johns-hopkins",
+      "person": "Namesake/noise match: agora, Johns Hopkins",
+      "is_ces": false,
+      "title": "Senador Chris Murphy deixa hospital após derrame",
+      "has_text": true,
+      "url": "https://diretonoticias.com.br/2026/11/06/senador-chris-murphy-deixa-hospital-apos-derrame/",
+      "source": "Direto Notícias",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Senador Chris Murphy deixa hospital após derrame https://diretonoticias.com.br/2026/11/06/senador-chris-murphy-deixa-hospital-apos-derrame/",
+          "chars": 72
+        },
+        "bluesky": {
+          "text": "Senador Chris Murphy deixa hospital após derrame https://diretonoticias.com.br/2026/11/06/senador-chris-murphy-deixa-hospital-apos-derrame/",
+          "chars": 139
+        }
+      }
+    },
+    {
+      "id": 1970,
+      "date": "2026-11-06",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins-joshua-brown-not-tracked",
+      "person": "Namesake/noise match: higher education, Johns Hopkins (Joshua Brown, not tracked)",
+      "is_ces": false,
+      "title": "Bluesky post: Joshua Brown on administrative silos (Inside Higher Ed)",
+      "has_text": true,
+      "url": "https://bsky.app/profile/jhueducation.bsky.social/post/3mznumday3g2o",
+      "source": "Bluesky",
+      "source_type": "social network",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Bluesky post: Joshua Brown on administrative silos (Inside Higher Ed) https://bsky.app/profile/jhueducation.bsky.social/post/3mznumday3g2o",
+          "chars": 93
+        },
+        "bluesky": {
+          "text": "Bluesky post: Joshua Brown on administrative silos (Inside Higher Ed) https://bsky.app/profile/jhueducation.bsky.social/post/3mznumday3g2o",
+          "chars": 138
+        }
+      }
+    },
+    {
+      "id": 1962,
+      "date": "2026-11-06",
+      "week_start": "2026-11-02",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Hopkins Forum AI debate: Georgetown's Edward Maloney (LinkedIn post)",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7524510998607724546",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 2,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Hopkins Forum AI debate: Georgetown's Edward Maloney (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:share:7524510998607724546",
+          "chars": 92
+        },
+        "bluesky": {
+          "text": "Hopkins Forum AI debate: Georgetown's Edward Maloney (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:share:7524510998607724546",
+          "chars": 138
+        }
+      }
+    },
+    {
+      "id": 1978,
+      "date": "2026-11-06",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "How Urban Alliance Baltimore connects students and employers through paid internships",
+      "has_text": true,
+      "url": "https://www.bizjournals.com/baltimore/news/2026/11/06/baltimore-employers-finding-talent-urban-alliance.html",
+      "source": "The Business Journals",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "How Urban Alliance Baltimore connects students and employers through paid internships https://www.bizjournals.com/baltimore/news/2026/11/06/baltimore-employers-finding-talent-urban-alliance.html",
+          "chars": 109
+        },
+        "bluesky": {
+          "text": "How Urban Alliance Baltimore connects students and employers through paid internships https://www.bizjournals.com/baltimore/news/2026/11/06/baltimore-employers-finding-talent-urban-alliance.html",
+          "chars": 194
+        }
+      }
+    },
+    {
+      "id": 1977,
+      "date": "2026-11-06",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "How burnout keeps women leaders back in higher education",
+      "has_text": true,
+      "url": "https://www.universityworldnews.com/post.php?story=20261105150639441",
+      "source": "University World News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "How burnout keeps women leaders back in higher education https://www.universityworldnews.com/post.php?story=20261105150639441",
+          "chars": 80
+        },
+        "bluesky": {
+          "text": "How burnout keeps women leaders back in higher education https://www.universityworldnews.com/post.php?story=20261105150639441",
+          "chars": 125
+        }
+      }
+    },
+    {
+      "id": 1976,
+      "date": "2026-11-06",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, Higher Education",
+      "is_ces": false,
+      "title": "Ten simple rules for a department chair",
+      "has_text": true,
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014934",
+      "source": "PLOS Biology",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Ten simple rules for a department chair https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014934",
+          "chars": 63
+        },
+        "bluesky": {
+          "text": "Ten simple rules for a department chair https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014934",
+          "chars": 118
+        }
+      }
+    },
+    {
+      "id": 1975,
+      "date": "2026-11-06",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Newsletter, 11/6/26",
+      "has_text": true,
+      "url": "https://jeffreystrahl.substack.com/p/newsletter-11626-70b",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Newsletter, 11/6/26 https://jeffreystrahl.substack.com/p/newsletter-11626-70b",
+          "chars": 43
+        },
+        "bluesky": {
+          "text": "Newsletter, 11/6/26 https://jeffreystrahl.substack.com/p/newsletter-11626-70b",
+          "chars": 77
+        }
+      }
+    },
+    {
+      "id": 1974,
+      "date": "2026-11-06",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Maryland",
+      "has_text": true,
+      "url": "https://en.wikipedia.org/wiki/Transportation_in_Maryland",
+      "source": "N2O Records",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Maryland https://en.wikipedia.org/wiki/Transportation_in_Maryland",
+          "chars": 32
+        },
+        "bluesky": {
+          "text": "Maryland https://en.wikipedia.org/wiki/Transportation_in_Maryland",
+          "chars": 65
+        }
+      }
+    },
+    {
+      "id": 1969,
+      "date": "2026-11-06",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-johns-hopkins-agora-laura-blumenfeld-not-tracked",
+      "person": "Namesake/noise match: Johns Hopkins, agora (Laura Blumenfeld, not tracked)",
+      "is_ces": false,
+      "title": "Eleições mudam Congresso, mas Trump mantém controle da política externa",
+      "has_text": true,
+      "url": "https://valor.globo.com/mundo/noticia/2026/11/06/eleies-mudam-congresso-mas-trump-mantm-controle-da-poltica-externa.ghtml",
+      "source": "Valor Econômico",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Eleições mudam Congresso, mas Trump mantém controle da política externa https://valor.globo.com/mundo/noticia/2026/11/06/eleies-mudam-congresso-mas-trump-mantm-controle-da-poltica-externa.ghtml",
+          "chars": 95
+        },
+        "bluesky": {
+          "text": "Eleições mudam Congresso, mas Trump mantém controle da política externa https://valor.globo.com/mundo/noticia/2026/11/06/eleies-mudam-congresso-mas-trump-mantm-controle-da-poltica-externa.ghtml",
+          "chars": 193
+        }
+      }
+    },
+    {
+      "id": 1968,
+      "date": "2026-11-06",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-emily-white-athlete",
+      "person": "Namesake/noise match: Emily White (athlete)",
+      "is_ces": false,
+      "title": "WAND’s Athlete of the Week: Bryson Tiefenthaler",
+      "has_text": true,
+      "url": "https://www.wandtv.com/2026/11/07/wands-athlete-week-bryson-tiefenthaler/",
+      "source": "WAND-TV",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "WAND’s Athlete of the Week: Bryson Tiefenthaler https://www.wandtv.com/2026/11/07/wands-athlete-week-bryson-tiefenthaler/",
+          "chars": 71
+        },
+        "bluesky": {
+          "text": "WAND’s Athlete of the Week: Bryson Tiefenthaler https://www.wandtv.com/2026/11/07/wands-athlete-week-bryson-tiefenthaler/",
+          "chars": 121
+        }
+      }
+    },
+    {
+      "id": 1967,
+      "date": "2026-11-06",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-sean-carroll-wrestler",
+      "person": "Namesake/noise match: Sean Carroll (wrestler)",
+      "is_ces": false,
+      "title": "2026 Michigan State Open Entries: Complete Wrestler List",
+      "has_text": true,
+      "url": "https://sports.yahoo.com/articles/2026-michigan-state-open-entries-193333180.html",
+      "source": "Yahoo! Sports",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "2026 Michigan State Open Entries: Complete Wrestler List https://sports.yahoo.com/articles/2026-michigan-state-open-entries-193333180.html",
+          "chars": 80
+        },
+        "bluesky": {
+          "text": "2026 Michigan State Open Entries: Complete Wrestler List https://sports.yahoo.com/articles/2026-michigan-state-open-entries-193333180.html",
+          "chars": 138
+        }
+      }
+    },
+    {
+      "id": 1966,
+      "date": "2026-11-06",
+      "week_start": "2026-11-02",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "X post (no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1964,
+      "date": "2026-11-06",
+      "week_start": "2026-11-02",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "UCD masterclass (LinkedIn post)",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7524515378295947264",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "UCD masterclass (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:ugcPost:7524515378295947264",
+          "chars": 55
+        },
+        "bluesky": {
+          "text": "UCD masterclass (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:ugcPost:7524515378295947264",
+          "chars": 103
+        }
+      }
+    },
+    {
+      "id": 1963,
+      "date": "2026-11-06",
+      "week_start": "2026-11-02",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Impact Concerts & Data midterm events (LinkedIn post)",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7524640142309982208",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Impact Concerts & Data midterm events (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:ugcPost:7524640142309982208",
+          "chars": 77
+        },
+        "bluesky": {
+          "text": "Impact Concerts & Data midterm events (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:ugcPost:7524640142309982208",
+          "chars": 125
+        }
+      }
+    },
+    {
+      "id": 1961,
+      "date": "2026-11-06",
+      "week_start": "2026-11-02",
+      "person_id": "scott-warren",
+      "person": "Scott Warren",
+      "is_ces": false,
+      "title": "Midterm results panel at Johns Hopkins (LinkedIn post)",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7524492764533669888",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Midterm results panel at Johns Hopkins (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:share:7524492764533669888",
+          "chars": 78
+        },
+        "bluesky": {
+          "text": "Midterm results panel at Johns Hopkins (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:share:7524492764533669888",
+          "chars": 124
+        }
+      }
+    },
+    {
+      "id": 1960,
+      "date": "2026-11-06",
+      "week_start": "2026-11-02",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "Midterm results panel at Johns Hopkins (LinkedIn post)",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7524492764533669888",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Midterm results panel at Johns Hopkins (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:share:7524492764533669888",
+          "chars": 78
+        },
+        "bluesky": {
+          "text": "Midterm results panel at Johns Hopkins (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:share:7524492764533669888",
+          "chars": 124
+        }
+      }
+    },
     {
       "id": 1948,
       "date": "2026-11-06",

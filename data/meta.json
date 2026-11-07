@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-06T07:06:58-05:00",
-  "generated_date": "2026-11-06",
+  "generated_at": "2026-11-07T07:06:42-05:00",
+  "generated_date": "2026-11-07",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-11-06",
+    "last_mention_date": "2026-11-07",
     "observed_dates": [
       "2026-07-02",
       "2026-07-03",
@@ -132,10 +132,11 @@
       "2026-11-03",
       "2026-11-04",
       "2026-11-05",
-      "2026-11-06"
+      "2026-11-06",
+      "2026-11-07"
     ],
-    "total_mentions": 1949,
-    "total_raw_documents": 13405,
+    "total_mentions": 1969,
+    "total_raw_documents": 13428,
     "total_tracked_people": 100,
     "total_ces_people": 17
   },
@@ -143,19 +144,19 @@
     "all": {
       "label": "SNF Agora Institute",
       "people": 100,
-      "mentions": 1949
+      "mentions": 1969
     },
     "ces": {
       "label": "Center for Economy and Society",
       "people": 17,
-      "mentions": 139
+      "mentions": 140
     }
   },
   "data_quality": {
-    "mentions_missing_url": 363,
+    "mentions_missing_url": 365,
     "mentions_no_text_captured": 90,
-    "mentions_sentiment_unknown": 1591,
-    "mentions_shareable": 1567,
+    "mentions_sentiment_unknown": 1607,
+    "mentions_shareable": 1585,
     "unmatched_persons": [
       {
         "person": "Johns Hopkins",
@@ -171,11 +172,11 @@
       },
       {
         "person": "Namesake/noise match: Johns Hopkins, higher education",
-        "mentions": 58
+        "mentions": 59
       },
       {
         "person": "Namesake/noise match: higher education, Johns Hopkins",
-        "mentions": 44
+        "mentions": 47
       },
       {
         "person": "Namesake/noise match: Higher Education, Johns Hopkins",
@@ -191,23 +192,23 @@
       },
       {
         "person": "Namesake/noise match: Hopkins, agora",
-        "mentions": 25
+        "mentions": 26
       },
       {
         "person": "Namesake/noise match: agora, Hopkins",
-        "mentions": 20
+        "mentions": 21
       },
       {
         "person": "Namesake/noise match: Johns Hopkins, Higher Education",
-        "mentions": 16
+        "mentions": 17
+      },
+      {
+        "person": "Namesake/noise match: agora, Johns Hopkins",
+        "mentions": 14
       },
       {
         "person": "Unattributed (institutional keyword only)",
         "mentions": 14
-      },
-      {
-        "person": "Namesake/noise match: agora, Johns Hopkins",
-        "mentions": 13
       },
       {
         "person": "Namesake/noise match: Johns Hopkins, NIH funding",
@@ -482,6 +483,10 @@
         "mentions": 1
       },
       {
+        "person": "Namesake/noise match: Emily White (athlete)",
+        "mentions": 1
+      },
+      {
         "person": "Namesake/noise match: Emily White, Hopkins",
         "mentions": 1
       },
@@ -606,6 +611,10 @@
         "mentions": 1
       },
       {
+        "person": "Namesake/noise match: Johns Hopkins, agora (Laura Blumenfeld, not tracked)",
+        "mentions": 1
+      },
+      {
         "person": "Namesake/noise match: Johns Hopkins, agora, Hopkins",
         "mentions": 1
       },
@@ -623,6 +632,10 @@
       },
       {
         "person": "Namesake/noise match: SNF Agora Institute, Johns Hopkins",
+        "mentions": 1
+      },
+      {
+        "person": "Namesake/noise match: Sean Carroll (wrestler)",
         "mentions": 1
       },
       {
@@ -683,6 +696,10 @@
       },
       {
         "person": "Namesake/noise match: higher education, Hopkins University, Johns Hopkins",
+        "mentions": 1
+      },
+      {
+        "person": "Namesake/noise match: higher education, Johns Hopkins (Joshua Brown, not tracked)",
         "mentions": 1
       },
       {

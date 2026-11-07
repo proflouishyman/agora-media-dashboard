@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-06T07:06:58-05:00",
-  "count": 95,
+  "generated_at": "2026-11-07T07:06:42-05:00",
+  "count": 96,
   "picks": [
+    {
+      "id": 114,
+      "mention_id": 1960,
+      "digest_date": "2026-11-06",
+      "person": "Lilliana Mason",
+      "person_id": "lilliana-mason",
+      "person_ids": [
+        "lilliana-mason"
+      ],
+      "is_ces": false,
+      "punchy_title": "Mason and Warren Unpack the Midterms with Cardin and Sarbanes",
+      "headline": "Mason and Warren Unpack the Midterms with Cardin and Sarbanes",
+      "pull_quote": null,
+      "rationale": null,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7524492764533669888",
+      "story_url": "https://www.linkedin.com/feed/update/urn:li:share:7524492764533669888",
+      "created_at": "2026-11-07 12:06:39",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "What do the midterm results mean? Lilliana Mason and Scott Warren joined Sen. Ben Cardin and Rep. John Sarbanes for an SNF Agora Institute panel, moderated by WYPR's Tom Hall. One attendee's take: https://www.linkedin.com/feed/update/urn:li:share:7524492764533669888",
+          "chars": 266,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=What%20do%20the%20midterm%20results%20mean%3F%20Lilliana%20Mason%20and%20Scott%20Warren%20joined%20Sen.%20Ben%20Cardin%20and%20Rep.%20John%20Sarbanes%20for%20an%20SNF%20Agora%20Institute%20panel%2C%20moderated%20by%20WYPR%27s%20Tom%20Hall.%20One%20attendee%27s%20take%3A%20https%3A//www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7524492764533669888"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Lilliana Mason and Scott Warren joined Sen. Ben Cardin and Rep. John Sarbanes at an SNF Agora Institute panel on the midterm results and political realignment within the parties, moderated by WYPR's Tom Hall. https://www.linkedin.com/feed/update/urn:li:share:7524492764533669888",
+          "chars": 278,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Lilliana%20Mason%20and%20Scott%20Warren%20joined%20Sen.%20Ben%20Cardin%20and%20Rep.%20John%20Sarbanes%20at%20an%20SNF%20Agora%20Institute%20panel%20on%20the%20midterm%20results%20and%20political%20realignment%20within%20the%20parties%2C%20moderated%20by%20WYPR%27s%20Tom%20Hall.%20https%3A//www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7524492764533669888"
+        }
+      ]
+    },
     {
       "id": 113,
       "mention_id": 1916,
