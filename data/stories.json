@@ -1,7 +1,85 @@
 {
-  "generated_at": "2026-11-07T07:06:42-05:00",
-  "count": 1969,
+  "generated_at": "2026-11-08T07:06:11-05:00",
+  "count": 1986,
   "stories": [
+    {
+      "id": 1982,
+      "date": "2026-11-08",
+      "week_start": "2026-11-02",
+      "person_id": "richard-young",
+      "person": "Richard Young",
+      "is_ces": false,
+      "title": "Political Gravity Is Finally Catching Up With Trump (Bytes Europe repost of Young's Nov. 3 Fulcrum op-ed, wrong headline)",
+      "has_text": true,
+      "url": "https://www.byteseu.com/2506062/",
+      "source": "Bytes Europe",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Political Gravity Is Finally Catching Up With Trump (Bytes Europe repost of Young's Nov. 3 Fulcrum op-ed, wrong headline) https://www.byteseu.com/2506062/",
+          "chars": 145
+        },
+        "bluesky": {
+          "text": "Political Gravity Is Finally Catching Up With Trump (Bytes Europe repost of Young's Nov. 3 Fulcrum op-ed, wrong headline) https://www.byteseu.com/2506062/",
+          "chars": 154
+        }
+      }
+    },
+    {
+      "id": 1981,
+      "date": "2026-11-08",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, Higher Education",
+      "is_ces": false,
+      "title": "County Levers to Drive Economic Mobility: Local Solutions and Strategies",
+      "has_text": true,
+      "url": "https://www.europesays.com/unitedstates/103923/",
+      "source": "EUROPE SAYS",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "County Levers to Drive Economic Mobility: Local Solutions and Strategies https://www.europesays.com/unitedstates/103923/",
+          "chars": 96
+        },
+        "bluesky": {
+          "text": "County Levers to Drive Economic Mobility: Local Solutions and Strategies https://www.europesays.com/unitedstates/103923/",
+          "chars": 120
+        }
+      }
+    },
+    {
+      "id": 1980,
+      "date": "2026-11-08",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Savannah Higgins Commits to Johns Hopkins",
+      "has_text": true,
+      "url": "https://signalnewssavannah.com/story/50892/savannah-higgins-commits-to-johns-hopkins/",
+      "source": "SignalNews Savannah",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Savannah Higgins Commits to Johns Hopkins https://signalnewssavannah.com/story/50892/savannah-higgins-commits-to-johns-hopkins/",
+          "chars": 65
+        },
+        "bluesky": {
+          "text": "Savannah Higgins Commits to Johns Hopkins https://signalnewssavannah.com/story/50892/savannah-higgins-commits-to-johns-hopkins/",
+          "chars": 127
+        }
+      }
+    },
     {
       "id": 1979,
       "date": "2026-11-07",
@@ -25,6 +103,334 @@
         "bluesky": {
           "text": "Palavra de Sá (repost of Mounk La Repubblica interview, already covered 2026-11-05) http://palavradesa.blogspot.com/2026/11/a-democracia-mostrou-sua-forca-vamos.html",
           "chars": 165
+        }
+      }
+    },
+    {
+      "id": 1986,
+      "date": "2026-11-07",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-johns-hopkins-tenured-faculty",
+      "person": "Namesake/noise match: Johns Hopkins, tenured faculty",
+      "is_ces": false,
+      "title": "AI Avatar for Sir William Osler with quotes by Osler's Avatar from Aequanimitas 11-7-2026",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=srt4dJfGEDk",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "AI Avatar for Sir William Osler with quotes by Osler's Avatar from Aequanimitas 11-7-2026 https://www.youtube.com/watch?v=srt4dJfGEDk",
+          "chars": 113
+        },
+        "bluesky": {
+          "text": "AI Avatar for Sir William Osler with quotes by Osler's Avatar from Aequanimitas 11-7-2026 https://www.youtube.com/watch?v=srt4dJfGEDk",
+          "chars": 133
+        }
+      }
+    },
+    {
+      "id": 1993,
+      "date": "2026-11-07",
+      "week_start": "2026-11-02",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "X reply (no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1990,
+      "date": "2026-11-07",
+      "week_start": "2026-11-02",
+      "person_id": "jeanne-marie-jackson",
+      "person": "Jeanne-Marie Jackson",
+      "is_ces": true,
+      "title": "X post (no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1996,
+      "date": "2026-11-07",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Why Citadel’s Ken Griffin Changed His Mind About AI",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=09NHqVF5l9s",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Why Citadel’s Ken Griffin Changed His Mind About AI https://www.youtube.com/watch?v=09NHqVF5l9s",
+          "chars": 75
+        },
+        "bluesky": {
+          "text": "Why Citadel’s Ken Griffin Changed His Mind About AI https://www.youtube.com/watch?v=09NHqVF5l9s",
+          "chars": 95
+        }
+      }
+    },
+    {
+      "id": 1995,
+      "date": "2026-11-07",
+      "week_start": "2026-11-02",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "X reply (no captured text)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1994,
+      "date": "2026-11-07",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-agora-johns-hopkins",
+      "person": "Namesake/noise match: Agora, Johns Hopkins",
+      "is_ces": false,
+      "title": "A sonda HERA chegou ao asteroide que a NASA atingiu de propósito (o que sobrou?)",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=HxjPZeEyL8g",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "A sonda HERA chegou ao asteroide que a NASA atingiu de propósito (o que sobrou?) https://www.youtube.com/watch?v=HxjPZeEyL8g",
+          "chars": 104
+        },
+        "bluesky": {
+          "text": "A sonda HERA chegou ao asteroide que a NASA atingiu de propósito (o que sobrou?) https://www.youtube.com/watch?v=HxjPZeEyL8g",
+          "chars": 124
+        }
+      }
+    },
+    {
+      "id": 1992,
+      "date": "2026-11-07",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "‘Plano Real 2.0′ poderia causar desemprego e alta da inflação, apontam economistas",
+      "has_text": true,
+      "url": "https://noticias.r7.com/economia/plano-real-20-poderia-causar-desemprego-e-alta-da-inflacao-apontam-economistas-07112026/",
+      "source": "Portal R7",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "‘Plano Real 2.0′ poderia causar desemprego e alta da inflação, apontam economistas https://noticias.r7.com/economia/plano-real-20-poderia-causar-desemprego-e-alta-da-inflacao-apontam-economistas-07112026/",
+          "chars": 106
+        },
+        "bluesky": {
+          "text": "‘Plano Real 2.0′ poderia causar desemprego e alta da inflação, apontam economistas https://noticias.r7.com/economia/plano-real-20-poderia-causar-desemprego-e-alta-da-inflacao-apontam-economistas-07112026/",
+          "chars": 204
+        }
+      }
+    },
+    {
+      "id": 1991,
+      "date": "2026-11-07",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-university-president-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: University President, higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "The 50 best value private colleges in America in 2026, based on data",
+      "has_text": true,
+      "url": "https://www.aol.com/articles/50-best-value-private-colleges-182317000.html",
+      "source": "AOL",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The 50 best value private colleges in America in 2026, based on data https://www.aol.com/articles/50-best-value-private-colleges-182317000.html",
+          "chars": 92
+        },
+        "bluesky": {
+          "text": "The 50 best value private colleges in America in 2026, based on data https://www.aol.com/articles/50-best-value-private-colleges-182317000.html",
+          "chars": 143
+        }
+      }
+    },
+    {
+      "id": 1989,
+      "date": "2026-11-07",
+      "week_start": "2026-11-02",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "Twitter repost (no text captured; agora, Hopkins, Johns Hopkins)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1988,
+      "date": "2026-11-07",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: agora, Hopkins",
+      "is_ces": false,
+      "title": "Guilherme Ribeiro cai para as repescagens após dia inaugural do Mundial ISA",
+      "has_text": true,
+      "url": "https://sapo.pt/artigo/guilherme-ribeiro-cai-para-as-repescagens-apos-dia-inaugural-do-mundial-isa-6aefa64decae781d73967421",
+      "source": "SAPO",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Guilherme Ribeiro cai para as repescagens após dia inaugural do Mundial ISA https://sapo.pt/artigo/guilherme-ribeiro-cai-para-as-repescagens-apos-dia-inaugural-do-mundial-isa-6aefa64decae781d73967421",
+          "chars": 99
+        },
+        "bluesky": {
+          "text": "Guilherme Ribeiro cai para as repescagens após dia inaugural do Mundial ISA https://sapo.pt/artigo/guilherme-ribeiro-cai-para-as-repescagens-apos-dia-inaugural-do-mundial-isa-6aefa64decae781d73967421",
+          "chars": 199
+        }
+      }
+    },
+    {
+      "id": 1987,
+      "date": "2026-11-07",
+      "week_start": "2026-11-02",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "A ERA TRUMP ACABOU ?",
+      "has_text": true,
+      "url": "http://souchocolateenaodesisto.blogspot.com/2026/11/a-era-trump-acabou.html",
+      "source": "SOU CHOCOLATE E NÃO DESISTO",
+      "source_type": "blog",
+      "similar_mention_count": 1,
+      "entity_sentiment": "negative",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "A ERA TRUMP ACABOU ? http://souchocolateenaodesisto.blogspot.com/2026/11/a-era-trump-acabou.html",
+          "chars": 44
+        },
+        "bluesky": {
+          "text": "A ERA TRUMP ACABOU ? http://souchocolateenaodesisto.blogspot.com/2026/11/a-era-trump-acabou.html",
+          "chars": 96
+        }
+      }
+    },
+    {
+      "id": 1985,
+      "date": "2026-11-07",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, HIGHER EDUCATION",
+      "is_ces": false,
+      "title": "ATG Job Bank for 11/8/2026",
+      "has_text": true,
+      "url": "https://www.charleston-hub.com/2026/11/atg-job-bank-for-11-8-2026/",
+      "source": "Charleston Hub",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "ATG Job Bank for 11/8/2026 https://www.charleston-hub.com/2026/11/atg-job-bank-for-11-8-2026/",
+          "chars": 50
+        },
+        "bluesky": {
+          "text": "ATG Job Bank for 11/8/2026 https://www.charleston-hub.com/2026/11/atg-job-bank-for-11-8-2026/",
+          "chars": 93
+        }
+      }
+    },
+    {
+      "id": 1984,
+      "date": "2026-11-07",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Which University Is the Best in the World? 3 Rankings Disagree #shorts",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=_vhoGWUsO0M",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Which University Is the Best in the World? 3 Rankings Disagree #shorts https://www.youtube.com/watch?v=_vhoGWUsO0M",
+          "chars": 94
+        },
+        "bluesky": {
+          "text": "Which University Is the Best in the World? 3 Rankings Disagree #shorts https://www.youtube.com/watch?v=_vhoGWUsO0M",
+          "chars": 114
+        }
+      }
+    },
+    {
+      "id": 1983,
+      "date": "2026-11-07",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-federal-research-funding-johns-hopkins",
+      "person": "Namesake/noise match: federal research funding, Johns Hopkins",
+      "is_ces": false,
+      "title": "Localizing the economic impact of research and development",
+      "has_text": true,
+      "url": "https://www.europesays.com/unitedstates/103678/",
+      "source": "EUROPE SAYS",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Localizing the economic impact of research and development https://www.europesays.com/unitedstates/103678/",
+          "chars": 82
+        },
+        "bluesky": {
+          "text": "Localizing the economic impact of research and development https://www.europesays.com/unitedstates/103678/",
+          "chars": 106
         }
       }
     },
