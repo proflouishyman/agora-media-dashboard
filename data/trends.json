@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-08T07:06:11-05:00",
+  "generated_at": "2026-11-09T07:05:49-05:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-11-08"
+    "end": "2026-11-09"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 1986,
-        "in_digest": 448,
-        "reach_proxy": 12738,
-        "people_covered": 205,
+        "mentions": 1999,
+        "in_digest": 450,
+        "reach_proxy": 12755,
+        "people_covered": 207,
         "people_tracked": 100,
-        "sources": 798,
+        "sources": 801,
         "negative": 17
       },
       "deltas": {
-        "week_start": "2026-10-26",
-        "prev_week_start": "2026-10-19",
+        "week_start": "2026-11-02",
+        "prev_week_start": "2026-10-26",
         "mentions": {
-          "current": 201,
+          "current": 159,
           "previous": 201,
-          "change": 0,
-          "pct_change": 0.0
+          "change": -42,
+          "pct_change": -20.9
         },
         "reach_proxy": {
-          "current": 2331,
-          "previous": 4313,
-          "change": -1982,
-          "pct_change": -46.0
+          "current": 432,
+          "previous": 2331,
+          "change": -1899,
+          "pct_change": -81.5
         },
         "people_covered": {
           "current": 57,
-          "previous": 75,
-          "change": -18,
-          "pct_change": -24.0
+          "previous": 57,
+          "change": 0,
+          "pct_change": 0.0
         }
       },
       "daily": [
@@ -943,8 +943,15 @@
         },
         {
           "date": "2026-11-08",
-          "count": 3,
-          "reach": 3,
+          "count": 11,
+          "reach": 13,
+          "in_digest": 2,
+          "observed": true
+        },
+        {
+          "date": "2026-11-09",
+          "count": 5,
+          "reach": 7,
           "in_digest": 0,
           "observed": true
         }
@@ -1186,23 +1193,36 @@
         },
         {
           "week_start": "2026-11-02",
-          "count": 151,
-          "reach": 422,
-          "in_digest": 23,
+          "count": 159,
+          "reach": 432,
+          "in_digest": 25,
           "people": 57,
           "sentiment": {
             "positive": 8,
-            "neutral": 10,
+            "neutral": 12,
             "negative": 2,
-            "unknown": 131
+            "unknown": 137
+          }
+        },
+        {
+          "week_start": "2026-11-09",
+          "count": 5,
+          "reach": 7,
+          "in_digest": 0,
+          "people": 5,
+          "sentiment": {
+            "positive": 0,
+            "neutral": 0,
+            "negative": 0,
+            "unknown": 5
           }
         }
       ],
       "sentiment": {
         "positive": 131,
-        "neutral": 215,
+        "neutral": 217,
         "negative": 17,
-        "unknown": 1623
+        "unknown": 1634
       },
       "top_people": [
         {
@@ -1236,22 +1256,22 @@
         {
           "person_id": "none-no-captured-text",
           "name": "None (no captured text)",
-          "count": 67,
-          "reach": 981,
+          "count": 71,
+          "reach": 986,
           "is_ces": false
         },
         {
           "person_id": "namesake-noise-match-johns-hopkins-higher-education",
           "name": "Namesake/noise match: Johns Hopkins, higher education",
-          "count": 61,
-          "reach": 88,
+          "count": 62,
+          "reach": 89,
           "is_ces": false
         },
         {
           "person_id": "yascha-mounk",
           "name": "Yascha Mounk",
-          "count": 54,
-          "reach": 242,
+          "count": 55,
+          "reach": 244,
           "is_ces": false
         },
         {
@@ -1271,22 +1291,22 @@
         {
           "person_id": "namesake-noise-match-higher-education-johns-hopkins",
           "name": "Namesake/noise match: higher education, Johns Hopkins",
-          "count": 47,
-          "reach": 52,
+          "count": 48,
+          "reach": 53,
           "is_ces": false
         }
       ],
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 326,
-          "reach": 6121,
+          "count": 330,
+          "reach": 6126,
           "is_other": false
         },
         {
           "source": "Youtube",
-          "count": 143,
-          "reach": 147,
+          "count": 147,
+          "reach": 151,
           "is_other": false
         },
         {
@@ -1327,19 +1347,19 @@
         },
         {
           "source": "Other",
-          "count": 1240,
-          "reach": 6159,
+          "count": 1245,
+          "reach": 6167,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 1117
+          "count": 1122
         },
         {
           "source_type": "social network",
-          "count": 339
+          "count": 343
         },
         {
           "source_type": "blog",
@@ -1347,7 +1367,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 446
+          "count": 450
         }
       ],
       "negative_stories": [
@@ -1417,8 +1437,8 @@
           "positive": 0,
           "neutral": 0,
           "negative": 0,
-          "unknown": 67,
-          "total": 67
+          "unknown": 71,
+          "total": 71
         },
         {
           "row_label": "Namesake/noise match: Johns Hopkins, higher education",
@@ -1427,18 +1447,18 @@
           "positive": 0,
           "neutral": 0,
           "negative": 0,
-          "unknown": 61,
-          "total": 61
+          "unknown": 62,
+          "total": 62
         },
         {
           "row_label": "Yascha Mounk",
           "person_id": "yascha-mounk",
           "is_ces": false,
           "positive": 2,
-          "neutral": 15,
+          "neutral": 16,
           "negative": 2,
           "unknown": 35,
-          "total": 54
+          "total": 55
         },
         {
           "row_label": "Henry Farrell",
@@ -1467,8 +1487,8 @@
           "positive": 0,
           "neutral": 0,
           "negative": 0,
-          "unknown": 47,
-          "total": 47
+          "unknown": 48,
+          "total": 48
         },
         {
           "row_label": "Sean Carroll",
@@ -1557,8 +1577,8 @@
           "positive": 0,
           "neutral": 0,
           "negative": 0,
-          "unknown": 26,
-          "total": 26
+          "unknown": 27,
+          "total": 27
         },
         {
           "row_label": "Namesake/noise match: agora, Hopkins",
@@ -1567,8 +1587,8 @@
           "positive": 0,
           "neutral": 0,
           "negative": 0,
-          "unknown": 22,
-          "total": 22
+          "unknown": 23,
+          "total": 23
         },
         {
           "row_label": "Ruth Braunstein",
@@ -1781,6 +1801,16 @@
           "total": 8
         },
         {
+          "row_label": "Jeanne-Marie Jackson",
+          "person_id": "jeanne-marie-jackson",
+          "is_ces": true,
+          "positive": 1,
+          "neutral": 1,
+          "negative": 0,
+          "unknown": 5,
+          "total": 7
+        },
+        {
           "row_label": "Jenna Silber Storey",
           "person_id": "jenna-storey",
           "is_ces": false,
@@ -1828,16 +1858,6 @@
           "neutral": 0,
           "negative": 0,
           "unknown": 6,
-          "total": 6
-        },
-        {
-          "row_label": "Jeanne-Marie Jackson",
-          "person_id": "jeanne-marie-jackson",
-          "is_ces": true,
-          "positive": 1,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 5,
           "total": 6
         },
         {
@@ -2243,6 +2263,16 @@
         {
           "row_label": "Namesake/noise match: Johns Hopkins, Faculty Senate",
           "person_id": "namesake-noise-match-johns-hopkins-faculty-senate",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 2,
+          "total": 2
+        },
+        {
+          "row_label": "Namesake/noise match: Johns Hopkins, higher education, Higher Education",
+          "person_id": "namesake-noise-match-johns-hopkins-higher-education-higher-education",
           "is_ces": false,
           "positive": 0,
           "neutral": 0,
@@ -3101,16 +3131,6 @@
           "total": 1
         },
         {
-          "row_label": "Namesake/noise match: Johns Hopkins, higher education, Higher Education",
-          "person_id": "namesake-noise-match-johns-hopkins-higher-education-higher-education",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 1,
-          "total": 1
-        },
-        {
           "row_label": "Namesake/noise match: Johns Hopkins, tenured faculty",
           "person_id": "namesake-noise-match-johns-hopkins-tenured-faculty",
           "is_ces": false,
@@ -3251,6 +3271,16 @@
           "total": 1
         },
         {
+          "row_label": "Namesake/noise match: agora, Hopkins, Agora",
+          "person_id": "namesake-noise-match-agora-hopkins-agora",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
           "row_label": "Namesake/noise match: agora, Johns Hopkins, Agora",
           "person_id": "namesake-noise-match-agora-johns-hopkins-agora",
           "is_ces": false,
@@ -3322,6 +3352,16 @@
         },
         {
           "row_label": "Namesake/noise match: higher education, Johns Hopkins, Higher Education",
+          "person_id": "namesake-noise-match-higher-education-johns-hopkins-higher-education",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Namesake/noise match: higher education, Johns Hopkins, Higher education",
           "person_id": "namesake-noise-match-higher-education-johns-hopkins-higher-education",
           "is_ces": false,
           "positive": 0,
@@ -3425,18 +3465,18 @@
         {
           "row_label": "online news",
           "positive": 43,
-          "neutral": 133,
+          "neutral": 135,
           "negative": 5,
-          "unknown": 936,
-          "total": 1117
+          "unknown": 939,
+          "total": 1122
         },
         {
           "row_label": "social network",
           "positive": 55,
           "neutral": 61,
           "negative": 1,
-          "unknown": 222,
-          "total": 339
+          "unknown": 226,
+          "total": 343
         },
         {
           "row_label": "blog",
@@ -3451,8 +3491,8 @@
           "positive": 24,
           "neutral": 12,
           "negative": 10,
-          "unknown": 400,
-          "total": 446
+          "unknown": 404,
+          "total": 450
         }
       ],
       "sentiment_examples": {
@@ -5032,34 +5072,34 @@
     },
     "ces": {
       "totals": {
-        "mentions": 142,
-        "in_digest": 100,
-        "reach_proxy": 243,
+        "mentions": 143,
+        "in_digest": 101,
+        "reach_proxy": 244,
         "people_covered": 11,
         "people_tracked": 17,
         "sources": 82,
         "negative": 1
       },
       "deltas": {
-        "week_start": "2026-10-26",
-        "prev_week_start": "2026-10-19",
+        "week_start": "2026-11-02",
+        "prev_week_start": "2026-10-26",
         "mentions": {
           "current": 6,
-          "previous": 9,
-          "change": -3,
-          "pct_change": -33.3
+          "previous": 6,
+          "change": 0,
+          "pct_change": 0.0
         },
         "reach_proxy": {
-          "current": 7,
-          "previous": 19,
-          "change": -12,
-          "pct_change": -63.2
+          "current": 8,
+          "previous": 7,
+          "change": 1,
+          "pct_change": 14.3
         },
         "people_covered": {
-          "current": 4,
-          "previous": 3,
-          "change": 1,
-          "pct_change": 33.3
+          "current": 3,
+          "previous": 4,
+          "change": -1,
+          "pct_change": -25.0
         }
       },
       "daily": [
@@ -5968,6 +6008,13 @@
         },
         {
           "date": "2026-11-08",
+          "count": 1,
+          "reach": 1,
+          "in_digest": 1,
+          "observed": true
+        },
+        {
+          "date": "2026-11-09",
           "count": 0,
           "reach": 0,
           "in_digest": 0,
@@ -6211,21 +6258,34 @@
         },
         {
           "week_start": "2026-11-02",
-          "count": 5,
-          "reach": 7,
-          "in_digest": 2,
+          "count": 6,
+          "reach": 8,
+          "in_digest": 3,
           "people": 3,
           "sentiment": {
             "positive": 1,
-            "neutral": 0,
+            "neutral": 1,
             "negative": 0,
             "unknown": 4
+          }
+        },
+        {
+          "week_start": "2026-11-09",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
+          "people": 0,
+          "sentiment": {
+            "positive": 0,
+            "neutral": 0,
+            "negative": 0,
+            "unknown": 0
           }
         }
       ],
       "sentiment": {
         "positive": 23,
-        "neutral": 40,
+        "neutral": 41,
         "negative": 1,
         "unknown": 78
       },
@@ -6254,8 +6314,8 @@
         {
           "person_id": "jeanne-marie-jackson",
           "name": "Jeanne-Marie Jackson",
-          "count": 6,
-          "reach": 7,
+          "count": 7,
+          "reach": 8,
           "is_ces": true
         },
         {
@@ -6345,22 +6405,22 @@
           "is_other": false
         },
         {
-          "source": "Baltimore Fishbowl",
-          "count": 2,
-          "reach": 0,
+          "source": "The Johns Hopkins News-Letter",
+          "count": 3,
+          "reach": 3,
           "is_other": false
         },
         {
           "source": "Other",
           "count": 85,
-          "reach": 158,
+          "reach": 156,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 73
+          "count": 74
         },
         {
           "source_type": "social network",
@@ -6414,10 +6474,10 @@
           "person_id": "jeanne-marie-jackson",
           "is_ces": true,
           "positive": 1,
-          "neutral": 0,
+          "neutral": 1,
           "negative": 0,
           "unknown": 5,
-          "total": 6
+          "total": 7
         },
         {
           "row_label": "Steven Teles",
@@ -6494,10 +6554,10 @@
         {
           "row_label": "online news",
           "positive": 13,
-          "neutral": 24,
+          "neutral": 25,
           "negative": 1,
           "unknown": 35,
-          "total": 73
+          "total": 74
         },
         {
           "row_label": "social network",

@@ -44,11 +44,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 6,
         "reach": 7
@@ -102,6 +97,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -149,11 +149,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 5,
-        "reach": 11
-      },
       {
         "week_start": "2026-08-24",
         "count": 1,
@@ -208,6 +203,11 @@
         "week_start": "2026-11-02",
         "count": 4,
         "reach": 5
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -257,11 +257,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 3,
-        "reach": 242
-      },
       {
         "week_start": "2026-08-24",
         "count": 4,
@@ -316,6 +311,11 @@
         "week_start": "2026-11-02",
         "count": 11,
         "reach": 74
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -363,11 +363,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -422,6 +417,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -435,21 +435,21 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 67,
+    "mentions_total": 71,
     "mentions_in_digest": 0,
-    "reach_proxy": 981,
+    "reach_proxy": 986,
     "first_mention_date": "2026-08-28",
-    "last_mention_date": "2026-11-07",
+    "last_mention_date": "2026-11-08",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
       "negative": 0,
-      "unknown": 67
+      "unknown": 71
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 51
+        "count": 55
       },
       {
         "source": "reddit.com/r/Christianity",
@@ -469,11 +469,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 2,
@@ -526,8 +521,13 @@
       },
       {
         "week_start": "2026-11-02",
-        "count": 8,
-        "reach": 11
+        "count": 12,
+        "reach": 16
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -541,21 +541,21 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 61,
+    "mentions_total": 62,
     "mentions_in_digest": 0,
-    "reach_proxy": 88,
+    "reach_proxy": 89,
     "first_mention_date": "2026-09-01",
-    "last_mention_date": "2026-11-08",
+    "last_mention_date": "2026-11-09",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
       "negative": 0,
-      "unknown": 61
+      "unknown": 62
     },
     "top_sources": [
       {
         "source": "Youtube",
-        "count": 8
+        "count": 9
       },
       {
         "source": "Medical Xpress",
@@ -575,11 +575,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -634,6 +629,11 @@
         "week_start": "2026-11-02",
         "count": 11,
         "reach": 16
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -649,14 +649,14 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 54,
-    "mentions_in_digest": 21,
-    "reach_proxy": 242,
+    "mentions_total": 55,
+    "mentions_in_digest": 22,
+    "reach_proxy": 244,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-11-07",
+    "last_mention_date": "2026-11-08",
     "sentiment": {
       "positive": 2,
-      "neutral": 15,
+      "neutral": 16,
       "negative": 2,
       "unknown": 35
     },
@@ -683,11 +683,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 4,
-        "reach": 5
-      },
       {
         "week_start": "2026-08-24",
         "count": 1,
@@ -740,8 +735,13 @@
       },
       {
         "week_start": "2026-11-02",
-        "count": 4,
-        "reach": 9
+        "count": 5,
+        "reach": 11
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -791,11 +791,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 2,
-        "reach": 2
-      },
       {
         "week_start": "2026-08-24",
         "count": 7,
@@ -850,6 +845,11 @@
         "week_start": "2026-11-02",
         "count": 2,
         "reach": 3
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -899,11 +899,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 3,
-        "reach": 3
-      },
       {
         "week_start": "2026-08-24",
         "count": 1,
@@ -958,6 +953,11 @@
         "week_start": "2026-11-02",
         "count": 6,
         "reach": 7
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -971,16 +971,16 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 47,
+    "mentions_total": 48,
     "mentions_in_digest": 0,
-    "reach_proxy": 52,
+    "reach_proxy": 53,
     "first_mention_date": "2026-09-02",
-    "last_mention_date": "2026-11-06",
+    "last_mention_date": "2026-11-08",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
       "negative": 0,
-      "unknown": 47
+      "unknown": 48
     },
     "top_sources": [
       {
@@ -989,7 +989,7 @@
       },
       {
         "source": "Youtube",
-        "count": 4
+        "count": 5
       },
       {
         "source": "Springer",
@@ -1005,11 +1005,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -1062,8 +1057,13 @@
       },
       {
         "week_start": "2026-11-02",
-        "count": 13,
-        "reach": 14
+        "count": 14,
+        "reach": 15
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -1113,11 +1113,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 5,
-        "reach": 6
-      },
       {
         "week_start": "2026-08-24",
         "count": 6,
@@ -1172,6 +1167,11 @@
         "week_start": "2026-11-02",
         "count": 3,
         "reach": 5
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -1221,11 +1221,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 3,
-        "reach": 5
-      },
       {
         "week_start": "2026-08-24",
         "count": 2,
@@ -1280,6 +1275,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -1329,11 +1329,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 5,
-        "reach": 321
-      },
       {
         "week_start": "2026-08-24",
         "count": 1,
@@ -1388,6 +1383,11 @@
         "week_start": "2026-11-02",
         "count": 4,
         "reach": 10
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -1435,11 +1435,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -1494,6 +1489,11 @@
         "week_start": "2026-11-02",
         "count": 2,
         "reach": 2
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -1541,11 +1541,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 32,
@@ -1600,6 +1595,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -1647,11 +1647,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -1706,6 +1701,11 @@
         "week_start": "2026-11-02",
         "count": 5,
         "reach": 5
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -1755,11 +1755,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -1814,6 +1809,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -1863,11 +1863,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -1922,6 +1917,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -1935,16 +1935,16 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 26,
+    "mentions_total": 27,
     "mentions_in_digest": 0,
-    "reach_proxy": 38,
+    "reach_proxy": 40,
     "first_mention_date": "2026-09-01",
-    "last_mention_date": "2026-11-07",
+    "last_mention_date": "2026-11-09",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
       "negative": 0,
-      "unknown": 26
+      "unknown": 27
     },
     "top_sources": [
       {
@@ -1969,11 +1969,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -2028,6 +2023,11 @@
         "week_start": "2026-11-02",
         "count": 8,
         "reach": 15
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 1,
+        "reach": 2
       }
     ]
   },
@@ -2041,16 +2041,16 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 22,
+    "mentions_total": 23,
     "mentions_in_digest": 0,
-    "reach_proxy": 49,
+    "reach_proxy": 50,
     "first_mention_date": "2026-10-15",
-    "last_mention_date": "2026-11-07",
+    "last_mention_date": "2026-11-08",
     "sentiment": {
       "positive": 0,
       "neutral": 0,
       "negative": 0,
-      "unknown": 22
+      "unknown": 23
     },
     "top_sources": [
       {
@@ -2075,11 +2075,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -2132,8 +2127,13 @@
       },
       {
         "week_start": "2026-11-02",
-        "count": 5,
-        "reach": 6
+        "count": 6,
+        "reach": 7
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -2183,11 +2183,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 1,
-        "reach": 1
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -2242,6 +2237,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -2291,11 +2291,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 4,
@@ -2350,6 +2345,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -2399,11 +2399,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -2458,6 +2453,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -2505,11 +2505,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -2564,6 +2559,11 @@
         "week_start": "2026-11-02",
         "count": 7,
         "reach": 7
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -2613,11 +2613,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 2,
-        "reach": 2
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -2672,6 +2667,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -2721,11 +2721,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 1,
-        "reach": 1
-      },
       {
         "week_start": "2026-08-24",
         "count": 3,
@@ -2780,6 +2775,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -2827,11 +2827,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -2886,6 +2881,11 @@
         "week_start": "2026-11-02",
         "count": 5,
         "reach": 6
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -2925,11 +2925,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -2984,6 +2979,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -3033,11 +3033,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -3092,6 +3087,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -3139,11 +3139,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -3198,6 +3193,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -3245,11 +3245,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -3304,6 +3299,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 2
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -3351,11 +3351,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -3410,6 +3405,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -3459,11 +3459,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -3518,6 +3513,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -3567,11 +3567,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -3626,6 +3621,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -3675,11 +3675,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -3734,6 +3729,11 @@
         "week_start": "2026-11-02",
         "count": 2,
         "reach": 3
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -3783,11 +3783,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 1,
-        "reach": 1
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -3842,6 +3837,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -3889,11 +3889,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 1,
-        "reach": 1
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -3948,6 +3943,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -3993,11 +3993,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 3,
@@ -4052,6 +4047,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -4099,11 +4099,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 4,
@@ -4158,6 +4153,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -4205,11 +4205,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -4264,6 +4259,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -4311,11 +4311,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -4370,6 +4365,119 @@
         "week_start": "2026-11-02",
         "count": 5,
         "reach": 7
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "jeanne-marie-jackson",
+    "name": "Jeanne-Marie Jackson",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Professor of English & Director, Alexander Grass Humanities Institute",
+    "profile_url": "https://snfagora.jhu.edu/directory/jeanne-marie-jackson/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": true,
+    "mentions_total": 7,
+    "mentions_in_digest": 4,
+    "reach_proxy": 8,
+    "first_mention_date": "2026-08-24",
+    "last_mention_date": "2026-11-08",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0,
+      "unknown": 5
+    },
+    "top_sources": [
+      {
+        "source": "The Johns Hopkins News-Letter",
+        "count": 2
+      },
+      {
+        "source": "Baltimore Beat",
+        "count": 1
+      },
+      {
+        "source": "Bluesky",
+        "count": 1
+      },
+      {
+        "source": "Forums",
+        "count": 1
+      },
+      {
+        "source": "Twitter",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-24",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-26",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-11-02",
+        "count": 3,
+        "reach": 4
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -4419,11 +4527,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -4478,6 +4581,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -4527,11 +4635,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 1,
-        "reach": 1
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -4586,6 +4689,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -4633,11 +4741,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -4692,6 +4795,11 @@
         "week_start": "2026-11-02",
         "count": 3,
         "reach": 3
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -4741,11 +4849,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 1,
-        "reach": 3
-      },
       {
         "week_start": "2026-08-24",
         "count": 3,
@@ -4800,6 +4903,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -4848,11 +4956,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 4,
-        "reach": 6
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -4906,114 +5009,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "jeanne-marie-jackson",
-    "name": "Jeanne-Marie Jackson",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Professor of English & Director, Alexander Grass Humanities Institute",
-    "profile_url": "https://snfagora.jhu.edu/directory/jeanne-marie-jackson/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": true,
-    "mentions_total": 6,
-    "mentions_in_digest": 3,
-    "reach_proxy": 7,
-    "first_mention_date": "2026-08-24",
-    "last_mention_date": "2026-11-07",
-    "sentiment": {
-      "positive": 1,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 5
-    },
-    "top_sources": [
-      {
-        "source": "Baltimore Beat",
-        "count": 1
       },
       {
-        "source": "Bluesky",
-        "count": 1
-      },
-      {
-        "source": "Forums",
-        "count": 1
-      },
-      {
-        "source": "The Johns Hopkins News-Letter",
-        "count": 1
-      },
-      {
-        "source": "Twitter",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-08-17",
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
-      },
-      {
-        "week_start": "2026-08-24",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-19",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-26",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-11-02",
-        "count": 2,
-        "reach": 3
       }
     ]
   },
@@ -5056,11 +5056,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -5112,6 +5107,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -5157,11 +5157,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -5216,6 +5211,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -5265,11 +5265,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -5322,6 +5317,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -5374,11 +5374,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -5430,6 +5425,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -5482,11 +5482,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -5540,6 +5535,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -5589,11 +5589,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -5648,6 +5643,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -5693,11 +5693,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -5752,6 +5747,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 2
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -5799,11 +5799,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -5858,6 +5853,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -5901,11 +5901,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -5960,6 +5955,11 @@
         "week_start": "2026-11-02",
         "count": 4,
         "reach": 4
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -6005,11 +6005,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 2,
@@ -6064,6 +6059,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -6107,11 +6107,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -6166,6 +6161,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -6209,11 +6209,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -6268,6 +6263,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -6311,11 +6311,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -6368,6 +6363,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -6414,11 +6414,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -6472,6 +6467,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -6516,11 +6516,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -6572,6 +6567,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -6614,11 +6614,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -6672,6 +6667,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -6713,11 +6713,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -6772,6 +6767,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -6811,11 +6811,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 2,
@@ -6868,6 +6863,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -6916,11 +6916,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -6974,6 +6969,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -7019,11 +7019,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -7078,6 +7073,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -7121,11 +7121,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -7180,6 +7175,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -7221,11 +7221,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -7280,6 +7275,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -7315,11 +7315,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -7374,6 +7369,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 2
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -7413,11 +7413,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -7472,6 +7467,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -7511,11 +7511,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -7570,6 +7565,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -7609,11 +7609,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -7668,6 +7663,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -7710,11 +7710,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -7768,6 +7763,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -7799,11 +7799,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -7856,6 +7851,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -7896,11 +7896,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -7954,6 +7949,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -7989,11 +7989,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 1,
@@ -8048,6 +8043,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -8085,11 +8085,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 1,
@@ -8144,6 +8139,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -8175,11 +8175,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -8234,6 +8229,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -8269,11 +8269,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -8328,6 +8323,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -8363,11 +8363,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -8422,6 +8417,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -8457,11 +8457,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -8516,6 +8511,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -8551,11 +8551,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -8608,6 +8603,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -8646,11 +8646,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -8702,6 +8697,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -8736,11 +8736,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -8792,6 +8787,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -8826,11 +8826,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -8884,6 +8879,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -8915,11 +8915,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -8972,6 +8967,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -9010,11 +9010,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -9068,6 +9063,105 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-johns-hopkins-higher-education-higher-education",
+    "name": "Namesake/noise match: Johns Hopkins, higher education, Higher Education",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 2,
+    "mentions_in_digest": 0,
+    "reach_proxy": 2,
+    "first_mention_date": "2026-11-05",
+    "last_mention_date": "2026-11-09",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 2
+    },
+    "top_sources": [
+      {
+        "source": "Women in Academia Report",
+        "count": 1
+      },
+      {
+        "source": "Youtube",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-26",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-02",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -9104,11 +9198,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -9160,6 +9249,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -9197,11 +9291,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -9256,6 +9345,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -9291,11 +9385,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -9350,6 +9439,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -9381,11 +9475,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -9440,6 +9529,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -9476,11 +9570,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -9532,6 +9621,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -9570,11 +9664,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -9626,6 +9715,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -9664,11 +9758,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -9722,6 +9811,11 @@
         "week_start": "2026-11-02",
         "count": 2,
         "reach": 2
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -9753,11 +9847,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 2,
-        "reach": 3
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -9812,6 +9901,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -9847,11 +9941,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 2,
@@ -9906,6 +9995,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -9937,11 +10031,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 1,
-        "reach": 1
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -9994,6 +10083,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -10028,11 +10122,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 1,
-        "reach": 1
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -10084,6 +10173,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -10119,11 +10213,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -10178,6 +10267,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -10209,11 +10303,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -10266,6 +10355,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -10300,11 +10394,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -10356,6 +10445,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -10390,11 +10484,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 1,
-        "reach": 1
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -10446,6 +10535,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -10480,11 +10574,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 1,
-        "reach": 1
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -10536,6 +10625,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -10570,11 +10664,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -10626,6 +10715,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -10662,11 +10756,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -10718,6 +10807,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -10754,11 +10848,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -10812,6 +10901,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -10846,11 +10940,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -10902,6 +10991,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -10938,11 +11032,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -10996,6 +11085,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -11029,11 +11123,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -11088,6 +11177,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -11119,11 +11213,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 1,
@@ -11178,6 +11267,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -11209,11 +11303,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -11268,6 +11357,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -11299,11 +11393,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -11356,6 +11445,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -11392,11 +11486,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -11448,6 +11537,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -11482,11 +11576,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -11538,6 +11627,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -11572,11 +11666,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -11628,6 +11717,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -11664,11 +11758,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -11720,6 +11809,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -11756,11 +11850,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -11812,6 +11901,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -11846,11 +11940,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -11902,6 +11991,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -11936,11 +12030,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -11992,6 +12081,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -12028,11 +12122,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 1,
-        "reach": 1
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -12084,6 +12173,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -12120,11 +12214,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -12176,6 +12265,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -12210,11 +12304,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 1,
-        "reach": 1
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -12266,6 +12355,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -12302,11 +12396,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -12358,6 +12447,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -12394,11 +12488,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 1,
-        "reach": 2
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -12450,6 +12539,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -12486,11 +12580,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -12542,6 +12631,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -12576,11 +12670,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -12632,6 +12721,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -12668,11 +12762,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -12726,6 +12815,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -12757,11 +12851,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -12816,6 +12905,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -12847,11 +12941,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -12904,6 +12993,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -12940,11 +13034,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -12998,6 +13087,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -13030,11 +13124,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -13086,6 +13175,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -13120,11 +13214,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -13178,6 +13267,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -13209,11 +13303,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -13268,6 +13357,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -13299,11 +13393,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -13356,6 +13445,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -13390,11 +13484,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -13446,6 +13535,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -13480,11 +13574,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -13538,6 +13627,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -13570,11 +13664,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -13626,6 +13715,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -13660,11 +13754,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -13718,6 +13807,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -13749,11 +13843,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -13806,6 +13895,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -13840,11 +13934,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -13896,6 +13985,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -13930,11 +14024,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -13986,6 +14075,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -14020,11 +14114,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -14076,6 +14165,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -14110,11 +14204,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -14168,6 +14257,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -14200,11 +14294,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -14256,6 +14345,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -14290,11 +14384,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -14348,6 +14437,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -14380,11 +14474,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -14436,6 +14525,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -14470,11 +14564,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -14526,6 +14615,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -14560,11 +14654,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -14616,6 +14705,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -14650,11 +14744,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -14706,6 +14795,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -14740,11 +14834,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -14796,6 +14885,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -14830,11 +14924,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -14886,6 +14975,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -14920,11 +15014,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -14976,6 +15065,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -15010,11 +15104,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -15068,6 +15157,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -15100,11 +15194,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -15156,6 +15245,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -15190,11 +15284,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -15246,6 +15335,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -15280,11 +15374,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -15338,6 +15427,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -15370,11 +15464,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -15426,6 +15515,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -15460,11 +15554,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -15518,6 +15607,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -15549,11 +15643,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -15608,6 +15697,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -15639,11 +15733,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -15696,6 +15785,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -15730,11 +15824,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -15788,6 +15877,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -15820,11 +15914,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -15876,6 +15965,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -15910,11 +16004,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -15968,6 +16057,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -15999,11 +16093,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -16058,6 +16147,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 157
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -16089,11 +16183,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -16148,6 +16237,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -16179,11 +16273,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -16238,6 +16327,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -16269,11 +16363,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -16328,6 +16417,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -16359,11 +16453,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -16416,6 +16505,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -16450,11 +16544,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -16506,6 +16595,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -16540,11 +16634,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -16596,6 +16685,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -16630,11 +16724,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -16688,6 +16777,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -16719,11 +16813,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -16778,96 +16867,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 2
-      }
-    ]
-  },
-  {
-    "id": "namesake-noise-match-johns-hopkins-higher-education-higher-education",
-    "name": "Namesake/noise match: Johns Hopkins, higher education, Higher Education",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 1,
-    "mentions_in_digest": 0,
-    "reach_proxy": 1,
-    "first_mention_date": "2026-11-05",
-    "last_mention_date": "2026-11-05",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 1
-    },
-    "top_sources": [
-      {
-        "source": "Women in Academia Report",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
       },
       {
-        "week_start": "2026-08-24",
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
-      },
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-19",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-26",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-11-02",
-        "count": 1,
-        "reach": 1
       }
     ]
   },
@@ -16899,11 +16903,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -16958,6 +16957,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 3
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -16989,11 +16993,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -17046,6 +17045,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -17080,11 +17084,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -17138,6 +17137,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 2
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -17170,11 +17174,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -17226,6 +17225,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -17260,11 +17264,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -17318,6 +17317,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -17350,11 +17354,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -17408,6 +17407,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -17439,11 +17443,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -17498,6 +17497,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -17530,11 +17534,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -17588,6 +17587,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -17620,11 +17624,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -17676,6 +17675,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -17710,11 +17714,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -17768,6 +17767,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -17799,11 +17803,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -17858,6 +17857,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -17889,11 +17893,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -17946,6 +17945,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -17980,11 +17984,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -18036,6 +18035,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -18070,11 +18074,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -18128,6 +18127,101 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-agora-hopkins-agora",
+    "name": "Namesake/noise match: agora, Hopkins, Agora",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-11-09",
+    "last_mention_date": "2026-11-09",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Magazine.HD",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-26",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -18160,11 +18254,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -18216,6 +18305,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -18250,11 +18344,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -18306,6 +18395,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -18340,11 +18434,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -18396,6 +18485,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -18430,11 +18524,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -18488,6 +18577,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -18520,11 +18614,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -18576,6 +18665,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -18610,11 +18704,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -18666,6 +18755,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -18700,11 +18794,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -18758,6 +18847,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 2
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -18790,11 +18884,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -18848,6 +18937,101 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "namesake-noise-match-higher-education-johns-hopkins-higher-education",
+    "name": "Namesake/noise match: higher education, Johns Hopkins, Higher education",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 2,
+    "first_mention_date": "2026-11-09",
+    "last_mention_date": "2026-11-09",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "The Canton Repository",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-24",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-26",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 1,
+        "reach": 2
       }
     ]
   },
@@ -18879,11 +19063,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -18936,6 +19115,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -18970,11 +19154,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -19028,6 +19207,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -19059,11 +19243,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -19118,6 +19297,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -19149,11 +19333,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -19208,6 +19387,11 @@
         "week_start": "2026-11-02",
         "count": 1,
         "reach": 7
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -19239,11 +19423,6 @@
       }
     ],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -19298,6 +19477,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -19332,11 +19516,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -19388,6 +19567,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -19422,11 +19606,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -19478,6 +19657,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -19512,11 +19696,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 1,
         "reach": 1
@@ -19568,6 +19747,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -19602,11 +19786,6 @@
     ],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 1,
         "reach": 1
@@ -19660,6 +19839,11 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
       }
     ]
   },
@@ -19688,11 +19872,6 @@
     },
     "top_sources": [],
     "weekly": [
-      {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
       {
         "week_start": "2026-08-24",
         "count": 0,
@@ -19745,6 +19924,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -19776,11 +19960,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -19832,6 +20011,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -19863,11 +20047,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -19919,6 +20098,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -19950,11 +20134,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -20006,6 +20185,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -20037,11 +20221,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -20093,6 +20272,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -20124,11 +20308,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -20180,6 +20359,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -20211,11 +20395,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -20267,6 +20446,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -20298,11 +20482,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -20354,6 +20533,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -20385,11 +20569,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -20441,6 +20620,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -20472,11 +20656,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -20528,6 +20707,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -20559,11 +20743,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -20615,6 +20794,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -20646,11 +20830,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -20702,6 +20881,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -20733,11 +20917,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -20789,6 +20968,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -20820,11 +21004,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -20876,6 +21055,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -20907,11 +21091,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -20963,6 +21142,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -20994,11 +21178,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -21050,6 +21229,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -21081,11 +21265,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -21137,6 +21316,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -21168,11 +21352,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -21224,6 +21403,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -21255,11 +21439,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -21311,6 +21490,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -21342,11 +21526,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -21398,6 +21577,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -21429,11 +21613,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -21485,6 +21664,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -21516,11 +21700,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -21572,6 +21751,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -21603,11 +21787,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -21659,6 +21838,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -21690,11 +21874,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -21746,6 +21925,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -21777,11 +21961,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -21833,6 +22012,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -21864,11 +22048,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -21920,6 +22099,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -21951,11 +22135,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -22007,6 +22186,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -22038,11 +22222,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -22094,6 +22273,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -22125,11 +22309,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -22181,6 +22360,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -22212,11 +22396,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -22268,6 +22447,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -22299,11 +22483,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -22355,6 +22534,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -22386,11 +22570,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -22442,6 +22621,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -22473,11 +22657,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -22529,6 +22708,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -22560,11 +22744,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -22616,6 +22795,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -22647,11 +22831,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -22703,6 +22882,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -22734,11 +22918,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -22790,6 +22969,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -22821,11 +23005,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -22877,6 +23056,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -22908,11 +23092,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -22964,6 +23143,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -22995,11 +23179,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -23051,6 +23230,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -23082,11 +23266,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -23138,6 +23317,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -23169,11 +23353,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -23225,6 +23404,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -23256,11 +23440,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -23312,6 +23491,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -23343,11 +23527,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -23399,6 +23578,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -23430,11 +23614,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -23486,6 +23665,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }
@@ -23517,11 +23701,6 @@
     "top_sources": [],
     "weekly": [
       {
-        "week_start": "2026-08-17",
-        "count": 0,
-        "reach": 0
-      },
-      {
         "week_start": "2026-08-24",
         "count": 0,
         "reach": 0
@@ -23573,6 +23752,11 @@
       },
       {
         "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
         "count": 0,
         "reach": 0
       }

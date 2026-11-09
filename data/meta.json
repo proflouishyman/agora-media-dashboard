@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-08T07:06:11-05:00",
-  "generated_date": "2026-11-08",
+  "generated_at": "2026-11-09T07:05:49-05:00",
+  "generated_date": "2026-11-09",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-11-08",
+    "last_mention_date": "2026-11-09",
     "observed_dates": [
       "2026-07-02",
       "2026-07-03",
@@ -134,10 +134,11 @@
       "2026-11-05",
       "2026-11-06",
       "2026-11-07",
-      "2026-11-08"
+      "2026-11-08",
+      "2026-11-09"
     ],
-    "total_mentions": 1986,
-    "total_raw_documents": 13449,
+    "total_mentions": 1999,
+    "total_raw_documents": 13466,
     "total_tracked_people": 100,
     "total_ces_people": 17
   },
@@ -145,19 +146,19 @@
     "all": {
       "label": "SNF Agora Institute",
       "people": 100,
-      "mentions": 1986
+      "mentions": 1999
     },
     "ces": {
       "label": "Center for Economy and Society",
       "people": 17,
-      "mentions": 142
+      "mentions": 143
     }
   },
   "data_quality": {
-    "mentions_missing_url": 369,
+    "mentions_missing_url": 373,
     "mentions_no_text_captured": 90,
-    "mentions_sentiment_unknown": 1623,
-    "mentions_shareable": 1598,
+    "mentions_sentiment_unknown": 1634,
+    "mentions_shareable": 1607,
     "unmatched_persons": [
       {
         "person": "Johns Hopkins",
@@ -169,15 +170,15 @@
       },
       {
         "person": "None (no captured text)",
-        "mentions": 67
+        "mentions": 71
       },
       {
         "person": "Namesake/noise match: Johns Hopkins, higher education",
-        "mentions": 61
+        "mentions": 62
       },
       {
         "person": "Namesake/noise match: higher education, Johns Hopkins",
-        "mentions": 47
+        "mentions": 48
       },
       {
         "person": "Namesake/noise match: Higher Education, Johns Hopkins",
@@ -193,11 +194,11 @@
       },
       {
         "person": "Namesake/noise match: Hopkins, agora",
-        "mentions": 26
+        "mentions": 27
       },
       {
         "person": "Namesake/noise match: agora, Hopkins",
-        "mentions": 22
+        "mentions": 23
       },
       {
         "person": "Namesake/noise match: Johns Hopkins, Higher Education",
@@ -353,6 +354,10 @@
       },
       {
         "person": "Namesake/noise match: Johns Hopkins, Faculty Senate",
+        "mentions": 2
+      },
+      {
+        "person": "Namesake/noise match: Johns Hopkins, higher education, Higher Education",
         "mentions": 2
       },
       {
@@ -632,10 +637,6 @@
         "mentions": 1
       },
       {
-        "person": "Namesake/noise match: Johns Hopkins, higher education, Higher Education",
-        "mentions": 1
-      },
-      {
         "person": "Namesake/noise match: Johns Hopkins, tenured faculty",
         "mentions": 1
       },
@@ -692,6 +693,10 @@
         "mentions": 1
       },
       {
+        "person": "Namesake/noise match: agora, Hopkins, Agora",
+        "mentions": 1
+      },
+      {
         "person": "Namesake/noise match: agora, Johns Hopkins, Agora",
         "mentions": 1
       },
@@ -721,6 +726,10 @@
       },
       {
         "person": "Namesake/noise match: higher education, Johns Hopkins, Higher Education",
+        "mentions": 1
+      },
+      {
+        "person": "Namesake/noise match: higher education, Johns Hopkins, Higher education",
         "mentions": 1
       },
       {

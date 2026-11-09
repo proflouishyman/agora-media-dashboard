@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-08T07:06:11-05:00",
-  "count": 96,
+  "generated_at": "2026-11-09T07:05:49-05:00",
+  "count": 97,
   "picks": [
+    {
+      "id": 115,
+      "mention_id": 1997,
+      "digest_date": "2026-11-08",
+      "person": "Yascha Mounk",
+      "person_id": "yascha-mounk",
+      "person_ids": [
+        "yascha-mounk"
+      ],
+      "is_ces": false,
+      "punchy_title": "Mounk: Trump Is a Lame Duck Now, but One With a Bazooka",
+      "headline": "Mounk: Trump Is a Lame Duck Now, but One With a Bazooka",
+      "pull_quote": null,
+      "rationale": null,
+      "url": "https://taz.de/Politikwissenschaftler-zu-US-Midterms/!6224152/",
+      "story_url": "https://taz.de/Politikwissenschaftler-zu-US-Midterms/!6224152/",
+      "created_at": "2026-11-09 12:05:42",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Yascha Mounk to taz on the midterms: Trump is now a lame duck, but one with a bazooka. He argues the US is far less polarized than it looks, and warns Democrats not to read the win as a mandate for ideology. https://taz.de/Politikwissenschaftler-zu-US-Midterms/!6224152/",
+          "chars": 270,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Yascha%20Mounk%20to%20taz%20on%20the%20midterms%3A%20Trump%20is%20now%20a%20lame%20duck%2C%20but%20one%20with%20a%20bazooka.%20He%20argues%20the%20US%20is%20far%20less%20polarized%20than%20it%20looks%2C%20and%20warns%20Democrats%20not%20to%20read%20the%20win%20as%20a%20mandate%20for%20ideology.%20https%3A//taz.de/Politikwissenschaftler-zu-US-Midterms/%216224152/"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Yascha Mounk to taz on the midterms: Trump is now \"a lame duck, but a lame duck with a bazooka.\" He says the US is far less polarized than it looks, and that Democrats must not mistake a vote against Trump for a mandate. https://taz.de/Politikwissenschaftler-zu-US-Midterms/!6224152/",
+          "chars": 283,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Yascha%20Mounk%20to%20taz%20on%20the%20midterms%3A%20Trump%20is%20now%20%22a%20lame%20duck%2C%20but%20a%20lame%20duck%20with%20a%20bazooka.%22%20He%20says%20the%20US%20is%20far%20less%20polarized%20than%20it%20looks%2C%20and%20that%20Democrats%20must%20not%20mistake%20a%20vote%20against%20Trump%20for%20a%20mandate.%20https%3A//taz.de/Politikwissenschaftler-zu-US-Midterms/%216224152/"
+        }
+      ]
+    },
     {
       "id": 114,
       "mention_id": 1960,

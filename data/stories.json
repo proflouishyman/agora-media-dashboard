@@ -1,7 +1,309 @@
 {
-  "generated_at": "2026-11-08T07:06:11-05:00",
-  "count": 1986,
+  "generated_at": "2026-11-09T07:05:49-05:00",
+  "count": 1999,
   "stories": [
+    {
+      "id": 2003,
+      "date": "2026-11-09",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, agora",
+      "is_ces": false,
+      "title": "Série ‘Noturno’ traz um vilão à altura de Hannibal Lecter",
+      "has_text": true,
+      "url": "https://valor.globo.com/eu-e/noticia/2026/11/09/serie-noturno-traz-um-vilao-a-altura-de-hannibal-lecter.ghtml",
+      "source": "Valor Econômico",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Série ‘Noturno’ traz um vilão à altura de Hannibal Lecter https://valor.globo.com/eu-e/noticia/2026/11/09/serie-noturno-traz-um-vilao-a-altura-de-hannibal-lecter.ghtml",
+          "chars": 81
+        },
+        "bluesky": {
+          "text": "Série ‘Noturno’ traz um vilão à altura de Hannibal Lecter https://valor.globo.com/eu-e/noticia/2026/11/09/serie-noturno-traz-um-vilao-a-altura-de-hannibal-lecter.ghtml",
+          "chars": 167
+        }
+      }
+    },
+    {
+      "id": 1999,
+      "date": "2026-11-09",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: higher education, Johns Hopkins, Higher education",
+      "is_ces": false,
+      "title": "Tim Collins' latest flight mission is shaping students at Walsh U",
+      "has_text": true,
+      "url": "https://www.cantonrep.com/story/lifestyle/faith/2026/11/09/tim-collins-walsh-university-president-fighter-pilot/92105509007/",
+      "source": "The Canton Repository",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Tim Collins' latest flight mission is shaping students at Walsh U https://www.cantonrep.com/story/lifestyle/faith/2026/11/09/tim-collins-walsh-university-president-fighter-pilot/92105509007/",
+          "chars": 89
+        },
+        "bluesky": {
+          "text": "Tim Collins' latest flight mission is shaping students at Walsh U https://www.cantonrep.com/story/lifestyle/faith/2026/11/09/tim-collins-walsh-university-president-fighter-pilot/92105509007/",
+          "chars": 190
+        }
+      }
+    },
+    {
+      "id": 2002,
+      "date": "2026-11-09",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-agora-hopkins-agora",
+      "person": "Namesake/noise match: agora, Hopkins, Agora",
+      "is_ces": false,
+      "title": "SIC acaba de confirmar ator de série líder da Prime Video com Anthony Hopkins em Avenida Portugal",
+      "has_text": true,
+      "url": "https://www.magazine-hd.com/apps/wp/sic-confirma-ator-serie-prime-video-anthony-hopkins-em-avenida-portugal/",
+      "source": "Magazine.HD",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "SIC acaba de confirmar ator de série líder da Prime Video com Anthony Hopkins em Avenida Portugal https://www.magazine-hd.com/apps/wp/sic-confirma-ator-serie-prime-video-anthony-hopkins-em-avenida-portugal/",
+          "chars": 121
+        },
+        "bluesky": {
+          "text": "SIC acaba de confirmar ator de série líder da Prime Video com Anthony Hopkins em Avenida Portugal https://www.magazine-hd.com/apps/wp/sic-confirma-ator-serie-prime-video-anthony-hopkins-em-avenida-portugal/",
+          "chars": 206
+        }
+      }
+    },
+    {
+      "id": 2001,
+      "date": "2026-11-09",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "AI In Education Summit 2026 What the Evidence Says",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=9tCynZnVPm8",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "AI In Education Summit 2026 What the Evidence Says https://www.youtube.com/watch?v=9tCynZnVPm8",
+          "chars": 74
+        },
+        "bluesky": {
+          "text": "AI In Education Summit 2026 What the Evidence Says https://www.youtube.com/watch?v=9tCynZnVPm8",
+          "chars": 94
+        }
+      }
+    },
+    {
+      "id": 2000,
+      "date": "2026-11-09",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education, Higher Education",
+      "is_ces": false,
+      "title": "AI In Education Summit 2026 What AI Literacy Looks Like on the Ground (Higher Education)",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=2i3dvbyLbvI",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "AI In Education Summit 2026 What AI Literacy Looks Like on the Ground (Higher Education) https://www.youtube.com/watch?v=2i3dvbyLbvI",
+          "chars": 112
+        },
+        "bluesky": {
+          "text": "AI In Education Summit 2026 What AI Literacy Looks Like on the Ground (Higher Education) https://www.youtube.com/watch?v=2i3dvbyLbvI",
+          "chars": 132
+        }
+      }
+    },
+    {
+      "id": 2006,
+      "date": "2026-11-08",
+      "week_start": "2026-11-02",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "X replies (no text captured; Johns Hopkins, NIH funding)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 1997,
+      "date": "2026-11-08",
+      "week_start": "2026-11-02",
+      "person_id": "yascha-mounk",
+      "person": "Yascha Mounk",
+      "is_ces": false,
+      "title": "Politikwissenschaftler zu US-Midterms: „Trump ist jetzt eine lahme Ente – mit Panzerfaust“",
+      "has_text": true,
+      "url": "https://taz.de/Politikwissenschaftler-zu-US-Midterms/!6224152/",
+      "source": "taz.de",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Politikwissenschaftler zu US-Midterms: „Trump ist jetzt eine lahme Ente – mit Panzerfaust“ https://taz.de/Politikwissenschaftler-zu-US-Midterms/!6224152/",
+          "chars": 114
+        },
+        "bluesky": {
+          "text": "Politikwissenschaftler zu US-Midterms: „Trump ist jetzt eine lahme Ente – mit Panzerfaust“ https://taz.de/Politikwissenschaftler-zu-US-Midterms/!6224152/",
+          "chars": 153
+        }
+      }
+    },
+    {
+      "id": 2009,
+      "date": "2026-11-08",
+      "week_start": "2026-11-02",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "X repost (no text captured; higher education, Johns Hopkins)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 2008,
+      "date": "2026-11-08",
+      "week_start": "2026-11-02",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "X post (no text captured; Johns Hopkins, higher education)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 2007,
+      "date": "2026-11-08",
+      "week_start": "2026-11-02",
+      "person_id": "none-no-captured-text",
+      "person": "None (no captured text)",
+      "is_ces": false,
+      "title": "X quote post (no text captured; agora, Hopkins; entities suggest Anthony Hopkins)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 2005,
+      "date": "2026-11-08",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: agora, Hopkins",
+      "is_ces": false,
+      "title": "Siso Inflamado Pode Virar Emergência? O Caso que foi Parar na UTI",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=24iaveXLJmI",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Siso Inflamado Pode Virar Emergência? O Caso que foi Parar na UTI https://www.youtube.com/watch?v=24iaveXLJmI",
+          "chars": 89
+        },
+        "bluesky": {
+          "text": "Siso Inflamado Pode Virar Emergência? O Caso que foi Parar na UTI https://www.youtube.com/watch?v=24iaveXLJmI",
+          "chars": 109
+        }
+      }
+    },
+    {
+      "id": 2004,
+      "date": "2026-11-08",
+      "week_start": "2026-11-02",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Top 15 Public Universities in the US 2026 (Acceptance Rate + Cost)",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=4malzhYSCmk",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Top 15 Public Universities in the US 2026 (Acceptance Rate + Cost) https://www.youtube.com/watch?v=4malzhYSCmk",
+          "chars": 90
+        },
+        "bluesky": {
+          "text": "Top 15 Public Universities in the US 2026 (Acceptance Rate + Cost) https://www.youtube.com/watch?v=4malzhYSCmk",
+          "chars": 110
+        }
+      }
+    },
+    {
+      "id": 1998,
+      "date": "2026-11-08",
+      "week_start": "2026-11-02",
+      "person_id": "jeanne-marie-jackson",
+      "person": "Jeanne-Marie Jackson",
+      "is_ces": true,
+      "title": "To watch and watch for: Week of Nov. 8",
+      "has_text": true,
+      "url": "https://www.jhunewsletter.com/article/2026/11/to-watch-and-watch-for-week-of-nov-8",
+      "source": "The Johns Hopkins News-Letter",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "To watch and watch for: Week of Nov. 8 https://www.jhunewsletter.com/article/2026/11/to-watch-and-watch-for-week-of-nov-8",
+          "chars": 62
+        },
+        "bluesky": {
+          "text": "To watch and watch for: Week of Nov. 8 https://www.jhunewsletter.com/article/2026/11/to-watch-and-watch-for-week-of-nov-8",
+          "chars": 121
+        }
+      }
+    },
     {
       "id": 1982,
       "date": "2026-11-08",
