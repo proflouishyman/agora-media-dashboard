@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-09T07:05:49-05:00",
-  "count": 97,
+  "generated_at": "2026-11-10T07:06:58-05:00",
+  "count": 98,
   "picks": [
+    {
+      "id": 116,
+      "mention_id": 2010,
+      "digest_date": "2026-11-09",
+      "person": "Lilliana Mason",
+      "person_id": "lilliana-mason",
+      "person_ids": [
+        "lilliana-mason"
+      ],
+      "is_ces": false,
+      "punchy_title": "Cardin and Sarbanes read the midterm tea leaves with Agora's Mason and Warren",
+      "headline": "Cardin and Sarbanes read the midterm tea leaves with Agora's Mason and Warren",
+      "pull_quote": null,
+      "rationale": null,
+      "url": "https://www.youtube.com/watch?v=wtcbBHmyr6s",
+      "story_url": "https://www.youtube.com/watch?v=wtcbBHmyr6s",
+      "created_at": "2026-11-10 12:06:53",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Missed it? Sen. Ben Cardin and Rep. John Sarbanes unpack what voters said in the midterms with SNF Agora's Lilliana Mason and Scott Warren, moderated by WYPR's Tom Hall. Watch the full conversation: https://www.youtube.com/watch?v=wtcbBHmyr6s",
+          "chars": 242,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Missed%20it%3F%20Sen.%20Ben%20Cardin%20and%20Rep.%20John%20Sarbanes%20unpack%20what%20voters%20said%20in%20the%20midterms%20with%20SNF%20Agora%27s%20Lilliana%20Mason%20and%20Scott%20Warren%2C%20moderated%20by%20WYPR%27s%20Tom%20Hall.%20Watch%20the%20full%20conversation%3A%20https%3A//www.youtube.com/watch%3Fv%3DwtcbBHmyr6s"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Missed it? Sen. Ben Cardin and Rep. John Sarbanes unpack what voters said in the midterms with SNF Agora's Lilliana Mason and Scott Warren, moderated by WYPR's Tom Hall. Watch the full conversation from the SNF Agora Institute: https://www.youtube.com/watch?v=wtcbBHmyr6s",
+          "chars": 271,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Missed%20it%3F%20Sen.%20Ben%20Cardin%20and%20Rep.%20John%20Sarbanes%20unpack%20what%20voters%20said%20in%20the%20midterms%20with%20SNF%20Agora%27s%20Lilliana%20Mason%20and%20Scott%20Warren%2C%20moderated%20by%20WYPR%27s%20Tom%20Hall.%20Watch%20the%20full%20conversation%20from%20the%20SNF%20Agora%20Institute%3A%20https%3A//www.youtube.com/watch%3Fv%3DwtcbBHmyr6s"
+        }
+      ]
+    },
     {
       "id": 115,
       "mention_id": 1997,
