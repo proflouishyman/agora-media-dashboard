@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-11-10T07:06:58-05:00",
-  "count": 2029,
+  "generated_at": "2026-11-11T07:05:41-05:00",
+  "count": 2047,
   "stories": [
+    {
+      "id": 2046,
+      "date": "2026-11-11",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Teaching Warriors to Think With AI: The Classroom as the First Line of Cognitive Defense",
+      "has_text": true,
+      "url": "https://www.europesays.com/ai/236444/",
+      "source": "EUROPE SAYS",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Teaching Warriors to Think With AI: The Classroom as the First Line of Cognitive Defense https://www.europesays.com/ai/236444/",
+          "chars": 112
+        },
+        "bluesky": {
+          "text": "Teaching Warriors to Think With AI: The Classroom as the First Line of Cognitive Defense https://www.europesays.com/ai/236444/",
+          "chars": 126
+        }
+      }
+    },
+    {
+      "id": 2045,
+      "date": "2026-11-11",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "(no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 2044,
+      "date": "2026-11-11",
+      "week_start": "2026-11-09",
+      "person_id": "adam-seth-levine",
+      "person": "Adam Seth Levine",
+      "is_ces": false,
+      "title": "Will lame-duck Ohio Republicans limit new governor’s power? The Wake Up for Wednesday, Nov. 11, 2026",
+      "has_text": true,
+      "url": "https://www.cleveland.com/metro/2026/11/will-lame-duck-ohio-republicans-limit-new-governors-power-the-wake-up-for-wednesday-nov-11-2026.html",
+      "source": "Cleveland.com",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Will lame-duck Ohio Republicans limit new governor’s power? The Wake Up for Wednesday, Nov. 11, 2026 https://www.cleveland.com/metro/2026/11/will-lame-duck-ohio-republicans-limit-new-governors-power-the-wake-up-for-wednesday-nov-11-2026.html",
+          "chars": 124
+        },
+        "bluesky": {
+          "text": "Will lame-duck Ohio Republicans limit new governor’s power? The Wake Up for Wednesday, Nov. 11, 2026 https://www.cleveland.com/metro/2026/11/will-lame-duck-ohio-republicans-limit-new-governors-power-the-wake-up-for-wednesday-nov-11-2026.html",
+          "chars": 241
+        }
+      }
+    },
+    {
+      "id": 2043,
+      "date": "2026-11-11",
+      "week_start": "2026-11-09",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Czerwony głód [Red Famine] Audiobook by Anne Applebaum",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=mFNZCVzfrHo",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Czerwony głód [Red Famine] Audiobook by Anne Applebaum https://www.youtube.com/watch?v=mFNZCVzfrHo",
+          "chars": 78
+        },
+        "bluesky": {
+          "text": "Czerwony głód [Red Famine] Audiobook by Anne Applebaum https://www.youtube.com/watch?v=mFNZCVzfrHo",
+          "chars": 98
+        }
+      }
+    },
+    {
+      "id": 2056,
+      "date": "2026-11-10",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "Novo tratamento pode aumentar vida de pacientes com câncer no cérebro",
+      "has_text": true,
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/novo-tratamento-pode-aumentar-vida-de-pacientes-com-cancer-no-cerebro,c5f5ad2cfaa2d57a7fdd49619ab3587cg6v19h9k.html",
+      "source": "Terra",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Novo tratamento pode aumentar vida de pacientes com câncer no cérebro https://www.terra.com.br/vida-e-estilo/saude/novo-tratamento-pode-aumentar-vida-de-pacientes-com-cancer-no-cerebro,c5f5ad2cfaa2d57a7fdd49619ab3587cg6v19h9k.html",
+          "chars": 93
+        },
+        "bluesky": {
+          "text": "Novo tratamento pode aumentar vida de pacientes com câncer no cérebro https://www.terra.com.br/vida-e-estilo/saude/novo-tratamento-pode-aumentar-vida-de-pacientes-com-cancer-no-cerebro,c5f5ad2cfaa2d57a7fdd49619ab3587cg6v19h9k.html",
+          "chars": 230
+        }
+      }
+    },
     {
       "id": 2025,
       "date": "2026-11-10",
@@ -25,6 +146,344 @@
         "bluesky": {
           "text": "… https://timesofindia.indiatimes.com/relationships/in-the-early-1980s-they-met-as-lab-partners-in-an-engineering-laboratory-class-when-jensen-was-17-years-old-and-lori-was-19-years-old-in-1985-they-tied-the-knot-all-we-know-about-lori-huang-nvidia-ceo-jensen-huangs-wife-of-over-40-years/articleshow/135700132.cms",
           "chars": 314
+        }
+      }
+    },
+    {
+      "id": 2057,
+      "date": "2026-11-10",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, agora",
+      "is_ces": false,
+      "title": "Belize revela sua alma cultural por meio de experiências que combinam a herança maia, a tradição garífuna e a autenticidade caribenha",
+      "has_text": true,
+      "url": "https://po.travel2latam.com/news-111559-belize-revela-sua-alma-cultural-por-meio-de-experincias-que-combinam-a-herana-maia-a-tradio-garifuna-e-a-autenticidade-caribenha.html",
+      "source": "Travel2latam.com",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Belize revela sua alma cultural por meio de experiências que combinam a herança maia, a tradição garífuna e a autenticidade caribenha https://po.travel2latam.com/news-111559-belize-revela-sua-alma-cultural-por-meio-de-experincias-que-combinam-a-herana-maia-a-tradio-garifuna-e-a-autenticidade-caribenha.html",
+          "chars": 157
+        },
+        "bluesky": {
+          "text": "Belize revela sua alma cultural por meio de experiências que combinam a herança maia, a tradição garífuna e a autenticidade … https://po.travel2latam.com/news-111559-belize-revela-sua-alma-cultural-por-meio-de-experincias-que-combinam-a-herana-maia-a-tradio-garifuna-e-a-autenticidade-caribenha.html",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 2055,
+      "date": "2026-11-10",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Just Three Percent of Johns Hopkins University’s First-Year Students Are Black",
+      "has_text": true,
+      "url": "https://jbhe.com/2026/11/just-three-percent-of-johns-hopkins-universitys-first-year-students-are-black/",
+      "source": "The Journal of Blacks in Higher Education",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Just Three Percent of Johns Hopkins University’s First-Year Students Are Black https://jbhe.com/2026/11/just-three-percent-of-johns-hopkins-universitys-first-year-students-are-black/",
+          "chars": 102
+        },
+        "bluesky": {
+          "text": "Just Three Percent of Johns Hopkins University’s First-Year Students Are Black https://jbhe.com/2026/11/just-three-percent-of-johns-hopkins-universitys-first-year-students-are-black/",
+          "chars": 182
+        }
+      }
+    },
+    {
+      "id": 2054,
+      "date": "2026-11-10",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Studies in the Psychology of Sex, Volume 6, Part 1 by Havelock Ellis | Full Unabridged Audiobook",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=2NsM5Hb4O_0",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Studies in the Psychology of Sex, Volume 6, Part 1 by Havelock Ellis | Full Unabridged Audiobook https://www.youtube.com/watch?v=2NsM5Hb4O_0",
+          "chars": 120
+        },
+        "bluesky": {
+          "text": "Studies in the Psychology of Sex, Volume 6, Part 1 by Havelock Ellis | Full Unabridged Audiobook https://www.youtube.com/watch?v=2NsM5Hb4O_0",
+          "chars": 140
+        }
+      }
+    },
+    {
+      "id": 2053,
+      "date": "2026-11-10",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: higher education, Johns Hopkins, Higher Education",
+      "is_ces": false,
+      "title": "Spreading Institutional Financial Aid Too Thin: Discounts for All Leave Low-Income Students with Just Crumbs",
+      "has_text": true,
+      "url": "https://www.newamerica.org/insights/spreading-institutional-financial-aid-too-thin-discounts-for-all-leave-low-income-students-with-just-crumbs/",
+      "source": "New America",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Spreading Institutional Financial Aid Too Thin: Discounts for All Leave Low-Income Students with Just Crumbs https://www.newamerica.org/insights/spreading-institutional-financial-aid-too-thin-discounts-for-all-leave-low-income-students-with-just-crumbs/",
+          "chars": 132
+        },
+        "bluesky": {
+          "text": "Spreading Institutional Financial Aid Too Thin: Discounts for All Leave Low-Income Students with Just Crumbs https://www.newamerica.org/insights/spreading-institutional-financial-aid-too-thin-discounts-for-all-leave-low-income-students-with-just-crumbs/",
+          "chars": 253
+        }
+      }
+    },
+    {
+      "id": 2052,
+      "date": "2026-11-10",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, agora",
+      "is_ces": false,
+      "title": "‘Meu maior arrependimento é não ter salvado mais vidas’, disse homem que resgatou 669 crianças do Holocausto",
+      "has_text": true,
+      "url": "https://www.gazetasp.com.br/mundo/meu-maior-arrependimento-e-nao-ter-salvado-mais-vidas-homem-que-resgatou-669-criancas-do-holocausto-descobriu-49-anos-depois-que-plateia-de-tv-era-formada-por-sobreviventes/",
+      "source": "Gazeta SP",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "‘Meu maior arrependimento é não ter salvado mais vidas’, disse homem que resgatou 669 crianças do Holocausto https://www.gazetasp.com.br/mundo/meu-maior-arrependimento-e-nao-ter-salvado-mais-vidas-homem-que-resgatou-669-criancas-do-holocausto-descobriu-49-anos-depois-que-plateia-de-tv-era-formada-por-sobreviventes/",
+          "chars": 132
+        },
+        "bluesky": {
+          "text": "‘Meu maior arrependimento é não ter salvado mais vidas’, disse homem que resgatou 669 cria… https://www.gazetasp.com.br/mundo/meu-maior-arrependimento-e-nao-ter-salvado-mais-vidas-homem-que-resgatou-669-criancas-do-holocausto-descobriu-49-anos-depois-que-plateia-de-tv-era-formada-por-sobreviventes/",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 2051,
+      "date": "2026-11-10",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins-university-president-higher-education",
+      "person": "Namesake/noise match: higher education, Johns Hopkins, university president, Higher Education",
+      "is_ces": false,
+      "title": "A Higher Calling: 21 College Presidents Who Have Served Their Country",
+      "has_text": true,
+      "url": "https://www.theeduledger.com/leadership-policy/article/16425104/a-higher-calling-21-college-presidents-who-have-served-their-country",
+      "source": "The EDU Ledger",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "A Higher Calling: 21 College Presidents Who Have Served Their Country https://www.theeduledger.com/leadership-policy/article/16425104/a-higher-calling-21-college-presidents-who-have-served-their-country",
+          "chars": 93
+        },
+        "bluesky": {
+          "text": "A Higher Calling: 21 College Presidents Who Have Served Their Country https://www.theeduledger.com/leadership-policy/article/16425104/a-higher-calling-21-college-presidents-who-have-served-their-country",
+          "chars": 202
+        }
+      }
+    },
+    {
+      "id": 2050,
+      "date": "2026-11-10",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Experimental cell therapy improves skin resilience, advancing treatments for skin injuries",
+      "has_text": true,
+      "url": "https://medicalxpress.com/news/2026-11-experimental-cell-therapy-skin-resilience.html",
+      "source": "Medical Xpress",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Experimental cell therapy improves skin resilience, advancing treatments for skin injuries https://medicalxpress.com/news/2026-11-experimental-cell-therapy-skin-resilience.html",
+          "chars": 114
+        },
+        "bluesky": {
+          "text": "Experimental cell therapy improves skin resilience, advancing treatments for skin injuries https://medicalxpress.com/news/2026-11-experimental-cell-therapy-skin-resilience.html",
+          "chars": 176
+        }
+      }
+    },
+    {
+      "id": 2049,
+      "date": "2026-11-10",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Hood College Board of Trustees Welcomes New Members",
+      "has_text": true,
+      "url": "https://www.hood.edu/news/hood-college-board-trustees-welcomes-new-members",
+      "source": "Hood College",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Hood College Board of Trustees Welcomes New Members https://www.hood.edu/news/hood-college-board-trustees-welcomes-new-members",
+          "chars": 75
+        },
+        "bluesky": {
+          "text": "Hood College Board of Trustees Welcomes New Members https://www.hood.edu/news/hood-college-board-trustees-welcomes-new-members",
+          "chars": 126
+        }
+      }
+    },
+    {
+      "id": 2048,
+      "date": "2026-11-10",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-higher-education-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Classroom Technology Standardization Transforms the Faculty Experience",
+      "has_text": true,
+      "url": "https://edtechmagazine.com/higher/article/2026/11/classroom-technology-standardization-transforms-faculty-experience",
+      "source": "EdTech",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Classroom Technology Standardization Transforms the Faculty Experience https://edtechmagazine.com/higher/article/2026/11/classroom-technology-standardization-transforms-faculty-experience",
+          "chars": 94
+        },
+        "bluesky": {
+          "text": "Classroom Technology Standardization Transforms the Faculty Experience https://edtechmagazine.com/higher/article/2026/11/classroom-technology-standardization-transforms-faculty-experience",
+          "chars": 187
+        }
+      }
+    },
+    {
+      "id": 2047,
+      "date": "2026-11-10",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "The 20 Best Universities in the USA 2026 | Acceptance Rates, Cost and Rankings Explained",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=T8WBuLLw4zc",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The 20 Best Universities in the USA 2026 | Acceptance Rates, Cost and Rankings Explained https://www.youtube.com/watch?v=T8WBuLLw4zc",
+          "chars": 112
+        },
+        "bluesky": {
+          "text": "The 20 Best Universities in the USA 2026 | Acceptance Rates, Cost and Rankings Explained https://www.youtube.com/watch?v=T8WBuLLw4zc",
+          "chars": 132
+        }
+      }
+    },
+    {
+      "id": 2042,
+      "date": "2026-11-10",
+      "week_start": "2026-11-09",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "(no text captured)",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7525927888794324993",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "(no text captured) https://www.linkedin.com/feed/update/urn:li:share:7525927888794324993",
+          "chars": 42
+        },
+        "bluesky": {
+          "text": "(no text captured) https://www.linkedin.com/feed/update/urn:li:share:7525927888794324993",
+          "chars": 88
+        }
+      }
+    },
+    {
+      "id": 2041,
+      "date": "2026-11-10",
+      "week_start": "2026-11-09",
+      "person_id": "ruth-braunstein",
+      "person": "Ruth Braunstein",
+      "is_ces": false,
+      "title": "2026 May Tax Meeting Plenary Keynote: What Do Taxes Mean to Americans and Democracy?",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=byQmTOtLqv8",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "2026 May Tax Meeting Plenary Keynote: What Do Taxes Mean to Americans and Democracy? https://www.youtube.com/watch?v=byQmTOtLqv8",
+          "chars": 108
+        },
+        "bluesky": {
+          "text": "2026 May Tax Meeting Plenary Keynote: What Do Taxes Mean to Americans and Democracy? https://www.youtube.com/watch?v=byQmTOtLqv8",
+          "chars": 128
+        }
+      }
+    },
+    {
+      "id": 2040,
+      "date": "2026-11-10",
+      "week_start": "2026-11-09",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Numa Web Summit de elogios à China, discutiu-se \"a crise no casamento transatlântico\" e um Ocidente \"em declínio\"",
+      "has_text": true,
+      "url": "https://observador.pt/2026/11/10/numa-web-summit-de-elogios-a-china-discutiu-se-a-crise-no-casamento-transatlantico-e-um-ocidente-em-declinio/",
+      "source": "Observador.pt",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Numa Web Summit de elogios à China, discutiu-se \"a crise no casamento transatlântico\" e um Ocidente \"em declínio\" https://observador.pt/2026/11/10/numa-web-summit-de-elogios-a-china-discutiu-se-a-crise-no-casamento-transatlantico-e-um-ocidente-em-declinio/",
+          "chars": 137
+        },
+        "bluesky": {
+          "text": "Numa Web Summit de elogios à China, discutiu-se \"a crise no casamento transatlântico\" e um Ocidente \"em declínio\" https://observador.pt/2026/11/10/numa-web-summit-de-elogios-a-china-discutiu-se-a-crise-no-casamento-transatlantico-e-um-ocidente-em-declinio/",
+          "chars": 256
         }
       }
     },

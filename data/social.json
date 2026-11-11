@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-10T07:06:58-05:00",
-  "count": 98,
+  "generated_at": "2026-11-11T07:05:41-05:00",
+  "count": 99,
   "picks": [
+    {
+      "id": 117,
+      "mention_id": 2040,
+      "digest_date": "2026-11-10",
+      "person": "Henry Farrell",
+      "person_id": "henry-farrell",
+      "person_ids": [
+        "henry-farrell"
+      ],
+      "is_ces": true,
+      "punchy_title": "Henry Farrell at Web Summit: the US turned globalization into a weapon",
+      "headline": "Henry Farrell at Web Summit: the US turned globalization into a weapon",
+      "pull_quote": null,
+      "rationale": null,
+      "url": "https://observador.pt/2026/11/10/numa-web-summit-de-elogios-a-china-discutiu-se-a-crise-no-casamento-transatlantico-e-um-ocidente-em-declinio/",
+      "story_url": "https://observador.pt/2026/11/10/numa-web-summit-de-elogios-a-china-discutiu-se-a-crise-no-casamento-transatlantico-e-um-ocidente-em-declinio/",
+      "created_at": "2026-11-11 12:05:37",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "At Web Summit Lisbon, SNF Agora's Henry Farrell said globalization tied economies together and the US turned that into a weapon. https://observador.pt/2026/11/10/numa-web-summit-de-elogios-a-china-discutiu-se-a-crise-no-casamento-transatlantico-e-um-ocidente-em-declinio/",
+          "chars": 271,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=At%20Web%20Summit%20Lisbon%2C%20SNF%20Agora%27s%20Henry%20Farrell%20said%20globalization%20tied%20economies%20together%20and%20the%20US%20turned%20that%20into%20a%20weapon.%20https%3A//observador.pt/2026/11/10/numa-web-summit-de-elogios-a-china-discutiu-se-a-crise-no-casamento-transatlantico-e-um-ocidente-em-declinio/"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "At Web Summit Lisbon, SNF Agora's Henry Farrell said globalization tied economies, tech and finance together, and the US turned that into a weapon. https://observador.pt/2026/11/10/numa-web-summit-de-elogios-a-china-discutiu-se-a-crise-no-casamento-transatlantico-e-um-ocidente-em-declinio/",
+          "chars": 290,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=At%20Web%20Summit%20Lisbon%2C%20SNF%20Agora%27s%20Henry%20Farrell%20said%20globalization%20tied%20economies%2C%20tech%20and%20finance%20together%2C%20and%20the%20US%20turned%20that%20into%20a%20weapon.%20https%3A//observador.pt/2026/11/10/numa-web-summit-de-elogios-a-china-discutiu-se-a-crise-no-casamento-transatlantico-e-um-ocidente-em-declinio/"
+        }
+      ]
+    },
     {
       "id": 116,
       "mention_id": 2010,
