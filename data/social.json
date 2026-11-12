@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-11T07:05:41-05:00",
-  "count": 99,
+  "generated_at": "2026-11-12T07:06:40-05:00",
+  "count": 100,
   "picks": [
+    {
+      "id": 118,
+      "mention_id": 2058,
+      "digest_date": "2026-11-11",
+      "person": "Yascha Mounk",
+      "person_id": "yascha-mounk",
+      "person_ids": [
+        "yascha-mounk"
+      ],
+      "is_ces": false,
+      "punchy_title": "Mounk on French radio: what the midterms teach the left on both sides of the Atlantic",
+      "headline": "Mounk on French radio: what the midterms teach the left on both sides of the Atlantic",
+      "pull_quote": "Avec Yascha Mounk, politologue, professeur à l’université Johns Hopkins et ...",
+      "rationale": "Avec Yascha Mounk, politologue, professeur à l’université Johns Hopkins et ...",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/les-matins/histoire-du-conge-maternite-la-democratie-en-pologne-midterms-quelles-lecons-pour-la-gauche-americaine-et-francaise-7024304",
+      "story_url": "https://www.radiofrance.fr/franceculture/podcasts/les-matins/histoire-du-conge-maternite-la-democratie-en-pologne-midterms-quelles-lecons-pour-la-gauche-americaine-et-francaise-7024304",
+      "created_at": "2026-11-12 12:06:34",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Yascha Mounk on France Culture: what the U.S. midterms teach the American and French left. https://www.radiofrance.fr/franceculture/podcasts/les-matins/histoire-du-conge-maternite-la-democratie-en-pologne-midterms-quelles-lecons-pour-la-gauche-americaine-et-francaise-7024304",
+          "chars": 275,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Yascha%20Mounk%20on%20France%20Culture%3A%20what%20the%20U.S.%20midterms%20teach%20the%20American%20and%20French%20left.%20https%3A//www.radiofrance.fr/franceculture/podcasts/les-matins/histoire-du-conge-maternite-la-democratie-en-pologne-midterms-quelles-lecons-pour-la-gauche-americaine-et-francaise-7024304"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "SNF Agora's Yascha Mounk on France Culture's Les Matins: what the midterms teach the American and French left. https://www.radiofrance.fr/franceculture/podcasts/les-matins/histoire-du-conge-maternite-la-democratie-en-pologne-midterms-quelles-lecons-pour-la-gauche-americaine-et-francaise-7024304",
+          "chars": 295,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=SNF%20Agora%27s%20Yascha%20Mounk%20on%20France%20Culture%27s%20Les%20Matins%3A%20what%20the%20midterms%20teach%20the%20American%20and%20French%20left.%20https%3A//www.radiofrance.fr/franceculture/podcasts/les-matins/histoire-du-conge-maternite-la-democratie-en-pologne-midterms-quelles-lecons-pour-la-gauche-americaine-et-francaise-7024304"
+        }
+      ]
+    },
     {
       "id": 117,
       "mention_id": 2040,
