@@ -1,7 +1,656 @@
 {
-  "generated_at": "2026-11-12T07:06:40-05:00",
-  "count": 2063,
+  "generated_at": "2026-11-14T07:06:11-05:00",
+  "count": 2089,
   "stories": [
+    {
+      "id": 2083,
+      "date": "2026-11-14",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "Gripe começa cedo nos EUA e já tem alta atividade em 7 estados",
+      "has_text": true,
+      "url": "https://www.bol.uol.com.br/noticias/2026/11/14/gripe-comeca-cedo-nos-eua-e-ja-tem-alta-atividade-em-7-estados.ghtm",
+      "source": "BOL Notícias - Uol",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Gripe começa cedo nos EUA e já tem alta atividade em 7 estados https://www.bol.uol.com.br/noticias/2026/11/14/gripe-comeca-cedo-nos-eua-e-ja-tem-alta-atividade-em-7-estados.ghtm",
+          "chars": 86
+        },
+        "bluesky": {
+          "text": "Gripe começa cedo nos EUA e já tem alta atividade em 7 estados https://www.bol.uol.com.br/noticias/2026/11/14/gripe-comeca-cedo-nos-eua-e-ja-tem-alta-atividade-em-7-estados.ghtm",
+          "chars": 177
+        }
+      }
+    },
+    {
+      "id": 2082,
+      "date": "2026-11-14",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-university-president-johns-hopkins",
+      "person": "Namesake/noise match: University President, Johns Hopkins",
+      "is_ces": false,
+      "title": "K-BioX Summit Opens in Chuncheon, Linking Global Biotech Research and Industry",
+      "has_text": true,
+      "url": "https://www.asiae.co.kr/en/article/social-general/2026111414464532020",
+      "source": "아시아경제",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "K-BioX Summit Opens in Chuncheon, Linking Global Biotech Research and Industry https://www.asiae.co.kr/en/article/social-general/2026111414464532020",
+          "chars": 102
+        },
+        "bluesky": {
+          "text": "K-BioX Summit Opens in Chuncheon, Linking Global Biotech Research and Industry https://www.asiae.co.kr/en/article/social-general/2026111414464532020",
+          "chars": 148
+        }
+      }
+    },
+    {
+      "id": 2081,
+      "date": "2026-11-14",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Opening Pathways to Educational Research | Lance Eaton | #OEGlobal26",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=L23ZvFjTHm0",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Opening Pathways to Educational Research | Lance Eaton | #OEGlobal26 https://www.youtube.com/watch?v=L23ZvFjTHm0",
+          "chars": 92
+        },
+        "bluesky": {
+          "text": "Opening Pathways to Educational Research | Lance Eaton | #OEGlobal26 https://www.youtube.com/watch?v=L23ZvFjTHm0",
+          "chars": 112
+        }
+      }
+    },
+    {
+      "id": 2080,
+      "date": "2026-11-14",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, agora",
+      "is_ces": false,
+      "title": "Where do teachers stand? AI education reform, policy velocity, and the marginalization of teacher agency",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s10833-026-09578-z",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Where do teachers stand? AI education reform, policy velocity, and the marginalization of teacher agency https://link.springer.com/article/10.1007/s10833-026-09578-z",
+          "chars": 128
+        },
+        "bluesky": {
+          "text": "Where do teachers stand? AI education reform, policy velocity, and the marginalization of teacher agency https://link.springer.com/article/10.1007/s10833-026-09578-z",
+          "chars": 165
+        }
+      }
+    },
+    {
+      "id": 2077,
+      "date": "2026-11-14",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-emily-white-hopkins",
+      "person": "Namesake/noise match: Emily White, Hopkins",
+      "is_ces": false,
+      "title": "WAND’s Athlete of the Week: Bryce Brown",
+      "has_text": true,
+      "url": "https://www.wandtv.com/2026/11/14/wands-athlete-week-bryce-brown/",
+      "source": "WAND-TV",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "WAND’s Athlete of the Week: Bryce Brown https://www.wandtv.com/2026/11/14/wands-athlete-week-bryce-brown/",
+          "chars": 63
+        },
+        "bluesky": {
+          "text": "WAND’s Athlete of the Week: Bryce Brown https://www.wandtv.com/2026/11/14/wands-athlete-week-bryce-brown/",
+          "chars": 105
+        }
+      }
+    },
+    {
+      "id": 2079,
+      "date": "2026-11-13",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "This superintendent couldn’t read as a kid. Now he wants to ensure every kid can.",
+      "has_text": true,
+      "url": "https://www.miamiherald.com/news/local/education/article318064930.html",
+      "source": "Miami Herald",
+      "source_type": "online news",
+      "similar_mention_count": 38,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "This superintendent couldn’t read as a kid. Now he wants to ensure every kid can. https://www.miamiherald.com/news/local/education/article318064930.html",
+          "chars": 105
+        },
+        "bluesky": {
+          "text": "This superintendent couldn’t read as a kid. Now he wants to ensure every kid can. https://www.miamiherald.com/news/local/education/article318064930.html",
+          "chars": 152
+        }
+      }
+    },
+    {
+      "id": 2089,
+      "date": "2026-11-13",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, Higher Education",
+      "is_ces": false,
+      "title": "Hong Kong Lists 200 Universities Whose Graduates Qualify for Work Permits, No Job Offer Required",
+      "has_text": true,
+      "url": "https://www.tuko.co.ke/world/asia/646758-hong-kong-lists-200-universities-graduates-qualify-work-permits-job-offer-required/",
+      "source": "tuko",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Hong Kong Lists 200 Universities Whose Graduates Qualify for Work Permits, No Job Offer Required https://www.tuko.co.ke/world/asia/646758-hong-kong-lists-200-universities-graduates-qualify-work-permits-job-offer-required/",
+          "chars": 120
+        },
+        "bluesky": {
+          "text": "Hong Kong Lists 200 Universities Whose Graduates Qualify for Work Permits, No Job Offer Required https://www.tuko.co.ke/world/asia/646758-hong-kong-lists-200-universities-graduates-qualify-work-permits-job-offer-required/",
+          "chars": 221
+        }
+      }
+    },
+    {
+      "id": 2099,
+      "date": "2026-11-13",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-nih-funding-johns-hopkins",
+      "person": "Namesake/noise match: NIH funding, Johns Hopkins",
+      "is_ces": false,
+      "title": "LSU Health Shreveport hits 'major milestone' as financial numbers grow with grants, research",
+      "has_text": true,
+      "url": "https://www.shreveportbossieradvocate.com/business/lsu-health-shreveport-boosts-dollars-and-research-in-2026/article_edf19c55-932f-4b5b-9324-fa5453a6d3e0.html",
+      "source": "The Shreveport-Bossier City Advocate",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "LSU Health Shreveport hits 'major milestone' as financial numbers grow with grants, research https://www.shreveportbossieradvocate.com/business/lsu-health-shreveport-boosts-dollars-and-research-in-2026/article_edf19c55-932f-4b5b-9324-fa5453a6d3e0.html",
+          "chars": 116
+        },
+        "bluesky": {
+          "text": "LSU Health Shreveport hits 'major milestone' as financial numbers grow with grants, research https://www.shreveportbossieradvocate.com/business/lsu-health-shreveport-boosts-dollars-and-research-in-2026/article_edf19c55-932f-4b5b-9324-fa5453a6d3e0.html",
+          "chars": 251
+        }
+      }
+    },
+    {
+      "id": 2098,
+      "date": "2026-11-13",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-johns-hopkins-federal-research-funding",
+      "person": "Namesake/noise match: Johns Hopkins, federal research funding",
+      "is_ces": false,
+      "title": "How Politics Became Every Hospital’s Brand Risk",
+      "has_text": true,
+      "url": "https://medcitynews.com/2026/11/how-politics-became-every-hospitals-brand-risk/",
+      "source": "MedCity News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "How Politics Became Every Hospital’s Brand Risk https://medcitynews.com/2026/11/how-politics-became-every-hospitals-brand-risk/",
+          "chars": 71
+        },
+        "bluesky": {
+          "text": "How Politics Became Every Hospital’s Brand Risk https://medcitynews.com/2026/11/how-politics-became-every-hospitals-brand-risk/",
+          "chars": 127
+        }
+      }
+    },
+    {
+      "id": 2097,
+      "date": "2026-11-13",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-agora-johns-hopkins-agora",
+      "person": "Namesake/noise match: agora, Johns Hopkins, Agora",
+      "is_ces": false,
+      "title": "A Humanidade JÁ Acertou um ASTEROIDE de Propósito. Agora uma Sonda CHEGOU Pra Ver NO QUE DEU",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=GXMtVp5lhw0",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "A Humanidade JÁ Acertou um ASTEROIDE de Propósito. Agora uma Sonda CHEGOU Pra Ver NO QUE DEU https://www.youtube.com/watch?v=GXMtVp5lhw0",
+          "chars": 116
+        },
+        "bluesky": {
+          "text": "A Humanidade JÁ Acertou um ASTEROIDE de Propósito. Agora uma Sonda CHEGOU Pra Ver NO QUE DEU https://www.youtube.com/watch?v=GXMtVp5lhw0",
+          "chars": 136
+        }
+      }
+    },
+    {
+      "id": 2096,
+      "date": "2026-11-13",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Microstructural alterations of human medial temporal lobe in dementia: volumetric and DTI findings correlate with cell number and neuropathology",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s00429-026-03223-4",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Microstructural alterations of human medial temporal lobe in dementia: volumetric and DTI findings correlate with cell number and neuropathology https://link.springer.com/article/10.1007/s00429-026-03223-4",
+          "chars": 168
+        },
+        "bluesky": {
+          "text": "Microstructural alterations of human medial temporal lobe in dementia: volumetric and DTI findings correlate with cell number and neuropathology https://link.springer.com/article/10.1007/s00429-026-03223-4",
+          "chars": 205
+        }
+      }
+    },
+    {
+      "id": 2095,
+      "date": "2026-11-13",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-academic-freedom-hopkins-university",
+      "person": "Namesake/noise match: academic freedom, Hopkins University",
+      "is_ces": false,
+      "title": "Tracking pollination network dynamics in Mediterranean habitats using morpho-group based monitoring and simplified networks",
+      "has_text": true,
+      "url": "https://link.springer.com/article/10.1007/s10841-026-00844-2",
+      "source": "Springer",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Tracking pollination network dynamics in Mediterranean habitats using morpho-group based monitoring and simplified networks https://link.springer.com/article/10.1007/s10841-026-00844-2",
+          "chars": 147
+        },
+        "bluesky": {
+          "text": "Tracking pollination network dynamics in Mediterranean habitats using morpho-group based monitoring and simplified networks https://link.springer.com/article/10.1007/s10841-026-00844-2",
+          "chars": 184
+        }
+      }
+    },
+    {
+      "id": 2094,
+      "date": "2026-11-13",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-johns-hopkins-agora",
+      "person": "Namesake/noise match: Johns Hopkins, agora",
+      "is_ces": false,
+      "title": "CYBER COVID: existe um plano para desligar a internet do mundo?",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=b-Q2SfZJJd8",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "CYBER COVID: existe um plano para desligar a internet do mundo? https://www.youtube.com/watch?v=b-Q2SfZJJd8",
+          "chars": 87
+        },
+        "bluesky": {
+          "text": "CYBER COVID: existe um plano para desligar a internet do mundo? https://www.youtube.com/watch?v=b-Q2SfZJJd8",
+          "chars": 107
+        }
+      }
+    },
+    {
+      "id": 2093,
+      "date": "2026-11-13",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "(no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 2092,
+      "date": "2026-11-13",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "(no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 2091,
+      "date": "2026-11-13",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "(no text captured)",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 2090,
+      "date": "2026-11-13",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-agora-johns-hopkins",
+      "person": "Namesake/noise match: agora, Johns Hopkins",
+      "is_ces": false,
+      "title": "Hoje é o aniversário de 74 anos de Élder Renlund: Leia 9 de suas citações do último ano",
+      "has_text": true,
+      "url": "https://pt.thechurchnews.com/lideres/2026/11/13/elder-dale-g-renlund-9-citacoes-aniversario-74-anos/",
+      "source": "The Church News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Hoje é o aniversário de 74 anos de Élder Renlund: Leia 9 de suas citações do último ano https://pt.thechurchnews.com/lideres/2026/11/13/elder-dale-g-renlund-9-citacoes-aniversario-74-anos/",
+          "chars": 111
+        },
+        "bluesky": {
+          "text": "Hoje é o aniversário de 74 anos de Élder Renlund: Leia 9 de suas citações do último ano https://pt.thechurchnews.com/lideres/2026/11/13/elder-dale-g-renlund-9-citacoes-aniversario-74-anos/",
+          "chars": 188
+        }
+      }
+    },
+    {
+      "id": 2088,
+      "date": "2026-11-13",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-higher-education-hopkins-university",
+      "person": "Namesake/noise match: Higher Education, Hopkins University",
+      "is_ces": false,
+      "title": "TOP 50 WORLD UNIVERSITY RANKINGS 2027 (THE World University Rankings)",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=SJklxYwmdDI",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "TOP 50 WORLD UNIVERSITY RANKINGS 2027 (THE World University Rankings) https://www.youtube.com/watch?v=SJklxYwmdDI",
+          "chars": 93
+        },
+        "bluesky": {
+          "text": "TOP 50 WORLD UNIVERSITY RANKINGS 2027 (THE World University Rankings) https://www.youtube.com/watch?v=SJklxYwmdDI",
+          "chars": 113
+        }
+      }
+    },
+    {
+      "id": 2087,
+      "date": "2026-11-13",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, agora",
+      "is_ces": false,
+      "title": "Carlos Nobre, pesquisador brasileiro referência em mudanças climáticas, tem diagnóstico de ELA",
+      "has_text": true,
+      "url": "https://www.estadao.com.br/brasil/carlos-nobre-pesquisador-brasileiro-referencia-em-mudancas-climaticas-tem-diagnostico-de-ela/",
+      "source": "Jornal do Carro - Estadão",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Carlos Nobre, pesquisador brasileiro referência em mudanças climáticas, tem diagnóstico de ELA https://www.estadao.com.br/brasil/carlos-nobre-pesquisador-brasileiro-referencia-em-mudancas-climaticas-tem-diagnostico-de-ela/",
+          "chars": 118
+        },
+        "bluesky": {
+          "text": "Carlos Nobre, pesquisador brasileiro referência em mudanças climáticas, tem diagnóstico de ELA https://www.estadao.com.br/brasil/carlos-nobre-pesquisador-brasileiro-referencia-em-mudancas-climaticas-tem-diagnostico-de-ela/",
+          "chars": 222
+        }
+      }
+    },
+    {
+      "id": 2086,
+      "date": "2026-11-13",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "DAVIS Breaks Ground on Six Projects Across the Mid-Atlantic",
+      "has_text": true,
+      "url": "https://www.constructionowners.com/news/davis-breaks-ground-on-six-projects-across-the-mid-atlantic",
+      "source": "Construction Owners",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "DAVIS Breaks Ground on Six Projects Across the Mid-Atlantic https://www.constructionowners.com/news/davis-breaks-ground-on-six-projects-across-the-mid-atlantic",
+          "chars": 83
+        },
+        "bluesky": {
+          "text": "DAVIS Breaks Ground on Six Projects Across the Mid-Atlantic https://www.constructionowners.com/news/davis-breaks-ground-on-six-projects-across-the-mid-atlantic",
+          "chars": 159
+        }
+      }
+    },
+    {
+      "id": 2085,
+      "date": "2026-11-13",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, agora",
+      "is_ces": false,
+      "title": "O código original do The Sims explica o xixi no tapete",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=_AVF166frI0",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "O código original do The Sims explica o xixi no tapete https://www.youtube.com/watch?v=_AVF166frI0",
+          "chars": 78
+        },
+        "bluesky": {
+          "text": "O código original do The Sims explica o xixi no tapete https://www.youtube.com/watch?v=_AVF166frI0",
+          "chars": 98
+        }
+      }
+    },
+    {
+      "id": 2084,
+      "date": "2026-11-13",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-hopkins-agora",
+      "person": "Namesake/noise match: Hopkins, Agora",
+      "is_ces": false,
+      "title": "RADIO - SWR KULTUR/1444: Woche vom 23.11. bis 29.11.2026",
+      "has_text": true,
+      "url": "http://www.schattenblick.de/infopool/medien/hoerpro/psw21444.html",
+      "source": "Schattenblick",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "RADIO - SWR KULTUR/1444: Woche vom 23.11. bis 29.11.2026 http://www.schattenblick.de/infopool/medien/hoerpro/psw21444.html",
+          "chars": 80
+        },
+        "bluesky": {
+          "text": "RADIO - SWR KULTUR/1444: Woche vom 23.11. bis 29.11.2026 http://www.schattenblick.de/infopool/medien/hoerpro/psw21444.html",
+          "chars": 122
+        }
+      }
+    },
+    {
+      "id": 2078,
+      "date": "2026-11-13",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-agora-andr-nogueira",
+      "person": "Namesake/noise match: agora, André Nogueira",
+      "is_ces": false,
+      "title": "Câmara de Campo Grande publica 35 honrarias em um dia, entre elas medalha para o próprio primeiro-secretário",
+      "has_text": true,
+      "url": "https://acritica.net/politica/camara-campo-grande-35-honrarias-medalha-primeiro-secretario-carlao/",
+      "source": "Acritica",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Câmara de Campo Grande publica 35 honrarias em um dia, entre elas medalha para o próprio primeiro-secretário https://acritica.net/politica/camara-campo-grande-35-honrarias-medalha-primeiro-secretario-carlao/",
+          "chars": 132
+        },
+        "bluesky": {
+          "text": "Câmara de Campo Grande publica 35 honrarias em um dia, entre elas medalha para o próprio primeiro-secretário https://acritica.net/politica/camara-campo-grande-35-honrarias-medalha-primeiro-secretario-carlao/",
+          "chars": 207
+        }
+      }
+    },
+    {
+      "id": 2076,
+      "date": "2026-11-13",
+      "week_start": "2026-11-09",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "Por que a queda de Jensen Huang tira o sono de Washington",
+      "has_text": true,
+      "url": "https://timesbrasil.com.br/colunas/por-que-a-queda-de-jensen-huang-tira-o-sono-de-washington/",
+      "source": "Times Brasil-  CNBC",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Por que a queda de Jensen Huang tira o sono de Washington https://timesbrasil.com.br/colunas/por-que-a-queda-de-jensen-huang-tira-o-sono-de-washington/",
+          "chars": 81
+        },
+        "bluesky": {
+          "text": "Por que a queda de Jensen Huang tira o sono de Washington https://timesbrasil.com.br/colunas/por-que-a-queda-de-jensen-huang-tira-o-sono-de-washington/",
+          "chars": 151
+        }
+      }
+    },
+    {
+      "id": 2075,
+      "date": "2026-11-13",
+      "week_start": "2026-11-09",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Anxious About Politics? A Therapist and a Democracy Expert on What Helps | with Jenna Spinelle",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=HbF9khBqG-U",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Anxious About Politics? A Therapist and a Democracy Expert on What Helps | with Jenna Spinelle https://www.youtube.com/watch?v=HbF9khBqG-U",
+          "chars": 118
+        },
+        "bluesky": {
+          "text": "Anxious About Politics? A Therapist and a Democracy Expert on What Helps | with Jenna Spinelle https://www.youtube.com/watch?v=HbF9khBqG-U",
+          "chars": 138
+        }
+      }
+    },
+    {
+      "id": 2074,
+      "date": "2026-11-13",
+      "week_start": "2026-11-09",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Will generative AI enhance or stunt college learning? Hopkins Forum debate recording (LinkedIn post)",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7527108878958895104",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Will generative AI enhance or stunt college learning? Hopkins Forum debate recording (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:ugcPost:7527108878958895104",
+          "chars": 124
+        },
+        "bluesky": {
+          "text": "Will generative AI enhance or stunt college learning? Hopkins Forum debate recording (LinkedIn post) https://www.linkedin.com/feed/update/urn:li:ugcPost:7527108878958895104",
+          "chars": 172
+        }
+      }
+    },
     {
       "id": 2066,
       "date": "2026-11-12",

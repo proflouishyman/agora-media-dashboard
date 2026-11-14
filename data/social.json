@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-12T07:06:40-05:00",
-  "count": 100,
+  "generated_at": "2026-11-14T07:06:11-05:00",
+  "count": 101,
   "picks": [
+    {
+      "id": 119,
+      "mention_id": 2074,
+      "digest_date": "2026-11-13",
+      "person": "SNF Agora Institute",
+      "person_id": "snf-agora-institute",
+      "person_ids": [
+        "snf-agora-institute"
+      ],
+      "is_ces": false,
+      "punchy_title": "AI in the classroom: tutor or crutch? The Hopkins Forum debate is now online",
+      "headline": "AI in the classroom: tutor or crutch? The Hopkins Forum debate is now online",
+      "pull_quote": "Will generative AI enhance or stunt college learning?",
+      "rationale": "Will generative AI enhance or stunt college learning?",
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7527108878958895104",
+      "story_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7527108878958895104",
+      "created_at": "2026-11-14 12:06:06",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Will generative AI enhance or stunt college learning? Watch the Hopkins Forum debate, produced with the SNF Agora Institute: Pendse and Maloney vs. O'Neil and Marcus, moderated by John Donvan. https://www.linkedin.com/feed/update/urn:li:ugcPost:7527108878958895104",
+          "chars": 264,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Will%20generative%20AI%20enhance%20or%20stunt%20college%20learning%3F%20Watch%20the%20Hopkins%20Forum%20debate%2C%20produced%20with%20the%20SNF%20Agora%20Institute%3A%20Pendse%20and%20Maloney%20vs.%20O%27Neil%20and%20Marcus%2C%20moderated%20by%20John%20Donvan.%20https%3A//www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7527108878958895104"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Will generative AI enhance or stunt college learning? Watch the full Hopkins Forum debate, produced with the SNF Agora Institute: Ravi Pendse and Eddie Maloney vs. Cathy O'Neil and Gary Marcus, moderated by John Donvan. https://www.linkedin.com/feed/update/urn:li:ugcPost:7527108878958895104",
+          "chars": 291,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Will%20generative%20AI%20enhance%20or%20stunt%20college%20learning%3F%20Watch%20the%20full%20Hopkins%20Forum%20debate%2C%20produced%20with%20the%20SNF%20Agora%20Institute%3A%20Ravi%20Pendse%20and%20Eddie%20Maloney%20vs.%20Cathy%20O%27Neil%20and%20Gary%20Marcus%2C%20moderated%20by%20John%20Donvan.%20https%3A//www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7527108878958895104"
+        }
+      ]
+    },
     {
       "id": 118,
       "mention_id": 2058,
