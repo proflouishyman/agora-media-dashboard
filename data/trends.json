@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-14T07:06:11-05:00",
+  "generated_at": "2026-11-15T07:04:49-05:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-11-14"
+    "end": "2026-11-15"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 2089,
-        "in_digest": 471,
-        "reach_proxy": 12898,
-        "people_covered": 219,
+        "mentions": 2102,
+        "in_digest": 472,
+        "reach_proxy": 12935,
+        "people_covered": 220,
         "people_tracked": 100,
-        "sources": 830,
+        "sources": 831,
         "negative": 17
       },
       "deltas": {
@@ -985,8 +985,15 @@
         },
         {
           "date": "2026-11-14",
-          "count": 5,
-          "reach": 6,
+          "count": 14,
+          "reach": 15,
+          "in_digest": 1,
+          "observed": true
+        },
+        {
+          "date": "2026-11-15",
+          "count": 4,
+          "reach": 28,
           "in_digest": 0,
           "observed": true
         }
@@ -1241,23 +1248,23 @@
         },
         {
           "week_start": "2026-11-09",
-          "count": 95,
-          "reach": 150,
-          "in_digest": 21,
-          "people": 50,
+          "count": 108,
+          "reach": 187,
+          "in_digest": 22,
+          "people": 53,
           "sentiment": {
             "positive": 2,
-            "neutral": 11,
+            "neutral": 12,
             "negative": 0,
-            "unknown": 82
+            "unknown": 94
           }
         }
       ],
       "sentiment": {
         "positive": 133,
-        "neutral": 228,
+        "neutral": 229,
         "negative": 17,
-        "unknown": 1711
+        "unknown": 1723
       },
       "top_people": [
         {
@@ -1291,8 +1298,8 @@
         {
           "person_id": "namesake-noise-match-johns-hopkins-higher-education",
           "name": "Namesake/noise match: Johns Hopkins, higher education",
-          "count": 73,
-          "reach": 101,
+          "count": 75,
+          "reach": 127,
           "is_ces": false
         },
         {
@@ -1334,14 +1341,14 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 339,
-          "reach": 6135,
+          "count": 342,
+          "reach": 6138,
           "is_other": false
         },
         {
           "source": "Youtube",
-          "count": 164,
-          "reach": 172,
+          "count": 170,
+          "reach": 178,
           "is_other": false
         },
         {
@@ -1370,8 +1377,8 @@
         },
         {
           "source": "Bluesky",
-          "count": 36,
-          "reach": 54,
+          "count": 37,
+          "reach": 55,
           "is_other": false
         },
         {
@@ -1382,19 +1389,19 @@
         },
         {
           "source": "Other",
-          "count": 1298,
-          "reach": 6269,
+          "count": 1301,
+          "reach": 6296,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 1181
+          "count": 1184
         },
         {
           "source_type": "social network",
-          "count": 365
+          "count": 372
         },
         {
           "source_type": "blog",
@@ -1402,7 +1409,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 459
+          "count": 462
         }
       ],
       "negative_stories": [
@@ -1472,8 +1479,8 @@
           "positive": 0,
           "neutral": 0,
           "negative": 0,
-          "unknown": 73,
-          "total": 73
+          "unknown": 75,
+          "total": 75
         },
         {
           "row_label": "None (no captured text)",
@@ -1542,8 +1549,8 @@
           "positive": 0,
           "neutral": 0,
           "negative": 0,
-          "unknown": 36,
-          "total": 36
+          "unknown": 38,
+          "total": 38
         },
         {
           "row_label": "Hahrie Han",
@@ -1622,8 +1629,18 @@
           "positive": 0,
           "neutral": 0,
           "negative": 0,
-          "unknown": 24,
-          "total": 24
+          "unknown": 26,
+          "total": 26
+        },
+        {
+          "row_label": "Namesake/noise match: Johns Hopkins, Higher Education",
+          "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 23,
+          "total": 23
         },
         {
           "row_label": "Ruth Braunstein",
@@ -1634,16 +1651,6 @@
           "negative": 0,
           "unknown": 8,
           "total": 22
-        },
-        {
-          "row_label": "Namesake/noise match: Johns Hopkins, Higher Education",
-          "person_id": "namesake-noise-match-johns-hopkins-higher-education",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 21,
-          "total": 21
         },
         {
           "row_label": "Peter Pomerantsev",
@@ -1666,6 +1673,16 @@
           "total": 18
         },
         {
+          "row_label": "Namesake/noise match: agora, Johns Hopkins",
+          "person_id": "namesake-noise-match-agora-johns-hopkins",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 16,
+          "total": 16
+        },
+        {
           "row_label": "Martha S. Jones",
           "person_id": "martha-s-jones",
           "is_ces": false,
@@ -1673,16 +1690,6 @@
           "neutral": 7,
           "negative": 0,
           "unknown": 5,
-          "total": 15
-        },
-        {
-          "row_label": "Namesake/noise match: agora, Johns Hopkins",
-          "person_id": "namesake-noise-match-agora-johns-hopkins",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 15,
           "total": 15
         },
         {
@@ -1860,10 +1867,10 @@
           "person_id": "jeremy-wallace",
           "is_ces": false,
           "positive": 0,
-          "neutral": 2,
+          "neutral": 3,
           "negative": 0,
           "unknown": 5,
-          "total": 7
+          "total": 8
         },
         {
           "row_label": "Namesake/noise match: Agora, Johns Hopkins",
@@ -2166,6 +2173,16 @@
           "total": 3
         },
         {
+          "row_label": "Namesake/noise match: higher education, Hopkins University",
+          "person_id": "namesake-noise-match-higher-education-hopkins-university",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 3,
+          "total": 3
+        },
+        {
           "row_label": "SNF Agora",
           "person_id": "snf-agora",
           "is_ces": false,
@@ -2306,6 +2323,16 @@
           "total": 2
         },
         {
+          "row_label": "Namesake/noise match: Higher Education, Hopkins University",
+          "person_id": "namesake-noise-match-higher-education-hopkins-university",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 2,
+          "total": 2
+        },
+        {
           "row_label": "Namesake/noise match: Higher Education, JOHNS HOPKINS",
           "person_id": "namesake-noise-match-higher-education-johns-hopkins",
           "is_ces": false,
@@ -2388,16 +2415,6 @@
         {
           "row_label": "Namesake/noise match: federal research funding, higher education, Johns Hopkins",
           "person_id": "namesake-noise-match-federal-research-funding-higher-education-johns-hopkins",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 2,
-          "total": 2
-        },
-        {
-          "row_label": "Namesake/noise match: higher education, Hopkins University",
-          "person_id": "namesake-noise-match-higher-education-hopkins-university",
           "is_ces": false,
           "positive": 0,
           "neutral": 0,
@@ -2916,16 +2933,6 @@
           "total": 1
         },
         {
-          "row_label": "Namesake/noise match: Higher Education, Hopkins University",
-          "person_id": "namesake-noise-match-higher-education-hopkins-university",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 1,
-          "total": 1
-        },
-        {
           "row_label": "Namesake/noise match: Higher Education, Hopkins University, Johns Hopkins, higher education",
           "person_id": "namesake-noise-match-higher-education-hopkins-university-johns-hopkins-higher-education",
           "is_ces": false,
@@ -3098,6 +3105,16 @@
         {
           "row_label": "Namesake/noise match: Johns Hopkins, Agora, agora",
           "person_id": "namesake-noise-match-johns-hopkins-agora-agora",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Namesake/noise match: Johns Hopkins, Andre Nogueira",
+          "person_id": "namesake-noise-match-johns-hopkins-andre-nogueira",
           "is_ces": false,
           "positive": 0,
           "neutral": 0,
@@ -3622,16 +3639,16 @@
           "positive": 44,
           "neutral": 137,
           "negative": 5,
-          "unknown": 995,
-          "total": 1181
+          "unknown": 998,
+          "total": 1184
         },
         {
           "row_label": "social network",
           "positive": 56,
-          "neutral": 70,
+          "neutral": 71,
           "negative": 1,
-          "unknown": 238,
-          "total": 365
+          "unknown": 244,
+          "total": 372
         },
         {
           "row_label": "blog",
@@ -3646,8 +3663,8 @@
           "positive": 24,
           "neutral": 12,
           "negative": 10,
-          "unknown": 413,
-          "total": 459
+          "unknown": 416,
+          "total": 462
         }
       ],
       "sentiment_examples": {
@@ -6225,6 +6242,13 @@
         },
         {
           "date": "2026-11-14",
+          "count": 0,
+          "reach": 0,
+          "in_digest": 0,
+          "observed": true
+        },
+        {
+          "date": "2026-11-15",
           "count": 0,
           "reach": 0,
           "in_digest": 0,
