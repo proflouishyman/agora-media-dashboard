@@ -1,7 +1,293 @@
 {
-  "generated_at": "2026-11-15T07:04:49-05:00",
-  "count": 2102,
+  "generated_at": "2026-11-16T07:04:45-05:00",
+  "count": 2121,
   "stories": [
+    {
+      "id": 2123,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "(paywalled placeholder) News Corp Australia",
+      "has_text": true,
+      "url": "https://www.cairnspost.com.au",
+      "source": "The Cairns Post",
+      "source_type": "online news",
+      "similar_mention_count": 11,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "(paywalled placeholder) News Corp Australia https://www.cairnspost.com.au",
+          "chars": 67
+        },
+        "bluesky": {
+          "text": "(paywalled placeholder) News Corp Australia https://www.cairnspost.com.au",
+          "chars": 73
+        }
+      }
+    },
+    {
+      "id": 2113,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Charles Darwin University appoints Professor Fiona Coulson as Vice-Chancellor and President",
+      "has_text": true,
+      "url": "https://www.cdu.edu.au/news/charles-darwin-university-appoints-professor-fiona-coulson-vice-chancellor-president",
+      "source": "Charles Darwin University",
+      "source_type": "online news",
+      "similar_mention_count": 11,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Charles Darwin University appoints Professor Fiona Coulson as Vice-Chancellor and President https://www.cdu.edu.au/news/charles-darwin-university-appoints-professor-fiona-coulson-vice-chancellor-president",
+          "chars": 115
+        },
+        "bluesky": {
+          "text": "Charles Darwin University appoints Professor Fiona Coulson as Vice-Chancellor and President https://www.cdu.edu.au/news/charles-darwin-university-appoints-professor-fiona-coulson-vice-chancellor-president",
+          "chars": 204
+        }
+      }
+    },
+    {
+      "id": 2114,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "This superintendent couldn’t read as a kid. Now he wants to ensure every kid can.",
+      "has_text": true,
+      "url": "https://dresdenenterprise.com/premium/stacker/stories/this-superintendent-couldnrsquot-read-as-a-kid-now-he-wants-to-ensure-every-kid-can,160369",
+      "source": "Dresden Enterprise",
+      "source_type": "online news",
+      "similar_mention_count": 7,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "This superintendent couldn’t read as a kid. Now he wants to ensure every kid can. https://dresdenenterprise.com/premium/stacker/stories/this-superintendent-couldnrsquot-read-as-a-kid-now-he-wants-to-ensure-every-kid-can,160369",
+          "chars": 105
+        },
+        "bluesky": {
+          "text": "This superintendent couldn’t read as a kid. Now he wants to ensure every kid can. https://dresdenenterprise.com/premium/stacker/stories/this-superintendent-couldnrsquot-read-as-a-kid-now-he-wants-to-ensure-every-kid-can,160369",
+          "chars": 226
+        }
+      }
+    },
+    {
+      "id": 2122,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "“Economic diversity at Hopkins, however, continued to climb”",
+      "has_text": true,
+      "url": "https://www.schoolinfosystem.org/2026/11/16/economic-diversity-at-hopkins-however-continued-to-climb/",
+      "source": "Schoolinfosystem.org",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "“Economic diversity at Hopkins, however, continued to climb” https://www.schoolinfosystem.org/2026/11/16/economic-diversity-at-hopkins-however-continued-to-climb/",
+          "chars": 84
+        },
+        "bluesky": {
+          "text": "“Economic diversity at Hopkins, however, continued to climb” https://www.schoolinfosystem.org/2026/11/16/economic-diversity-at-hopkins-however-continued-to-climb/",
+          "chars": 162
+        }
+      }
+    },
+    {
+      "id": 2121,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "emily-white",
+      "person": "Emily White",
+      "is_ces": false,
+      "title": "Turning Artist Data Into High-Paid Clean Energy Jobs + More | Music Policy Forum 2026",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=ibQt6Tk6yTc",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Turning Artist Data Into High-Paid Clean Energy Jobs + More | Music Policy Forum 2026 https://www.youtube.com/watch?v=ibQt6Tk6yTc",
+          "chars": 109
+        },
+        "bluesky": {
+          "text": "Turning Artist Data Into High-Paid Clean Energy Jobs + More | Music Policy Forum 2026 https://www.youtube.com/watch?v=ibQt6Tk6yTc",
+          "chars": 129
+        }
+      }
+    },
+    {
+      "id": 2120,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "namesake-noise-match-johns-hopkins-federal-research-funding",
+      "person": "Namesake/noise match: Johns Hopkins, federal research funding",
+      "is_ces": false,
+      "title": "Daedeok biotech firms ink MOU with Johns Hopkins to expand US market push",
+      "has_text": true,
+      "url": "https://biz.heraldcorp.com/article/10938821",
+      "source": "헤럴드경제",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Daedeok biotech firms ink MOU with Johns Hopkins to expand US market push https://biz.heraldcorp.com/article/10938821",
+          "chars": 97
+        },
+        "bluesky": {
+          "text": "Daedeok biotech firms ink MOU with Johns Hopkins to expand US market push https://biz.heraldcorp.com/article/10938821",
+          "chars": 117
+        }
+      }
+    },
+    {
+      "id": 2119,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "namesake-noise-match-higher-education-higher-education-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: higher education, Higher education, Johns Hopkins, Higher Education",
+      "is_ces": false,
+      "title": "Can We Agree on How Higher Education Should Change?",
+      "has_text": true,
+      "url": "https://www.insidehighered.com/opinion/columns/tough-love/2026/11/16/can-we-agree-how-higher-education-should-change-column",
+      "source": "Inside Higher Ed",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Can We Agree on How Higher Education Should Change? https://www.insidehighered.com/opinion/columns/tough-love/2026/11/16/can-we-agree-how-higher-education-should-change-column",
+          "chars": 75
+        },
+        "bluesky": {
+          "text": "Can We Agree on How Higher Education Should Change? https://www.insidehighered.com/opinion/columns/tough-love/2026/11/16/can-we-agree-how-higher-education-should-change-column",
+          "chars": 175
+        }
+      }
+    },
+    {
+      "id": 2118,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "ling-chen",
+      "person": "Ling Chen",
+      "is_ces": false,
+      "title": "Jensen Huang’s departure may signal tighter US controls on AI chip exports to China",
+      "has_text": true,
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/16/jensen-huangs-departure-may-signal-tighter-us-controls-on-ai-chip-exports-to-china",
+      "source": "The Star Online",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Jensen Huang’s departure may signal tighter US controls on AI chip exports to China https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/16/jensen-huangs-departure-may-signal-tighter-us-controls-on-ai-chip-exports-to-china",
+          "chars": 107
+        },
+        "bluesky": {
+          "text": "Jensen Huang’s departure may signal tighter US controls on AI chip exports to China https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/16/jensen-huangs-departure-may-signal-tighter-us-controls-on-ai-chip-exports-to-china",
+          "chars": 229
+        }
+      }
+    },
+    {
+      "id": 2117,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "namesake-noise-match-agora-johns-hopkins",
+      "person": "Namesake/noise match: agora, Johns Hopkins",
+      "is_ces": false,
+      "title": "Como acabar com a jabuticaba dos juros. Sem truque",
+      "has_text": true,
+      "url": "https://braziljournal.com/como-acabar-com-a-jabuticaba-dos-juros-sem-truque",
+      "source": "Brazil Journal",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Como acabar com a jabuticaba dos juros. Sem truque https://braziljournal.com/como-acabar-com-a-jabuticaba-dos-juros-sem-truque",
+          "chars": 74
+        },
+        "bluesky": {
+          "text": "Como acabar com a jabuticaba dos juros. Sem truque https://braziljournal.com/como-acabar-com-a-jabuticaba-dos-juros-sem-truque",
+          "chars": 126
+        }
+      }
+    },
+    {
+      "id": 2116,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "namesake-noise-match-hopkins-emily-white-emily-white-namesake",
+      "person": "Namesake/noise match: Hopkins, Emily White (Emily White (namesake))",
+      "is_ces": false,
+      "title": "British Stars Including Natalie Dormer, Richard Armitage & Susan Wokoma Sign Open Letter Calling For Entertainment Industry To “Acknowledge Role It Plays” In Enabling Bad Behavior",
+      "has_text": true,
+      "url": "https://deadline.com/2026/11/uk-stars-open-letter-brand-walliams-dormer-armitage-1237224955/",
+      "source": "Deadline Hollywood",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "British Stars Including Natalie Dormer, Richard Armitage & Susan Wokoma Sign Open Letter Calling For Entertainment Industry To “Acknowledge Role It Plays” In Enabling Bad Behavior https://deadline.com/2026/11/uk-stars-open-letter-brand-walliams-dormer-armitage-1237224955/",
+          "chars": 203
+        },
+        "bluesky": {
+          "text": "British Stars Including Natalie Dormer, Richard Armitage & Susan Wokoma Sign Open Letter Calling For Entertainment Industry To “Acknowledge Role It Plays” In Enabling Bad Behavior https://deadline.com/2026/11/uk-stars-open-letter-brand-walliams-dormer-armitage-1237224955/",
+          "chars": 272
+        }
+      }
+    },
+    {
+      "id": 2115,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "What Is the Alternative to AI Detectors in Universities",
+      "has_text": true,
+      "url": "https://valiantceo.com/what-is-the-alternative-to-ai-detectors-in-universities/",
+      "source": "ValiantCEO",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "What Is the Alternative to AI Detectors in Universities https://valiantceo.com/what-is-the-alternative-to-ai-detectors-in-universities/",
+          "chars": 79
+        },
+        "bluesky": {
+          "text": "What Is the Alternative to AI Detectors in Universities https://valiantceo.com/what-is-the-alternative-to-ai-detectors-in-universities/",
+          "chars": 135
+        }
+      }
+    },
     {
       "id": 2101,
       "date": "2026-11-15",
@@ -25,6 +311,205 @@
         "bluesky": {
           "text": "This superintendent couldn’t read as a kid. Now he wants to ensure every kid can. https://medium.com/stacker-news/this-superintendent-couldnt-read-as-a-kid-now-he-wants-to-ensure-every-kid-can-6611b67354dd",
           "chars": 205
+        }
+      }
+    },
+    {
+      "id": 2127,
+      "date": "2026-11-15",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-faculty-senate-johns-hopkins",
+      "person": "Namesake/noise match: Faculty Senate, Johns Hopkins",
+      "is_ces": false,
+      "title": "ETSU honors notable women",
+      "has_text": true,
+      "url": "https://timesnews.net/news/463538/etsu-honors-notable-women-public-healthy-faculty-members/",
+      "source": "The Kingsport Times-News",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "ETSU honors notable women https://timesnews.net/news/463538/etsu-honors-notable-women-public-healthy-faculty-members/",
+          "chars": 49
+        },
+        "bluesky": {
+          "text": "ETSU honors notable women https://timesnews.net/news/463538/etsu-honors-notable-women-public-healthy-faculty-members/",
+          "chars": 117
+        }
+      }
+    },
+    {
+      "id": 2125,
+      "date": "2026-11-15",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-nih-funding-johns-hopkins",
+      "person": "Namesake/noise match: NIH funding, Johns Hopkins",
+      "is_ces": false,
+      "title": "(no text) Twitter post",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 2124,
+      "date": "2026-11-15",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-university-president-johns-hopkins",
+      "person": "Namesake/noise match: university president, Johns Hopkins",
+      "is_ces": false,
+      "title": "The Top Women Leaders of Iowa for 2026",
+      "has_text": true,
+      "url": "https://thewomenweadmire.com/2026/11/the-top-women-leaders-of-iowa-for-2026/",
+      "source": "Women We Admire",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Top Women Leaders of Iowa for 2026 https://thewomenweadmire.com/2026/11/the-top-women-leaders-of-iowa-for-2026/",
+          "chars": 62
+        },
+        "bluesky": {
+          "text": "The Top Women Leaders of Iowa for 2026 https://thewomenweadmire.com/2026/11/the-top-women-leaders-of-iowa-for-2026/",
+          "chars": 115
+        }
+      }
+    },
+    {
+      "id": 2131,
+      "date": "2026-11-15",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-sean-carroll-johns-hopkins-sean-carroll",
+      "person": "Namesake/noise match: Sean Carroll, Johns Hopkins (Sean Carroll)",
+      "is_ces": false,
+      "title": "The Many Hidden Worlds of Quantum Mechanics Audiobook by Sean M. Carroll",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=a4I74886cTQ",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Many Hidden Worlds of Quantum Mechanics Audiobook by Sean M. Carroll https://www.youtube.com/watch?v=a4I74886cTQ",
+          "chars": 96
+        },
+        "bluesky": {
+          "text": "The Many Hidden Worlds of Quantum Mechanics Audiobook by Sean M. Carroll https://www.youtube.com/watch?v=a4I74886cTQ",
+          "chars": 116
+        }
+      }
+    },
+    {
+      "id": 2130,
+      "date": "2026-11-15",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: higher education, Johns Hopkins",
+      "is_ces": false,
+      "title": "Top 10 Best Nursing Schools in the USA (2026) | Tuition, Acceptance Rates & NCLEX Pass Rates",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=siyMuWNABZU",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Top 10 Best Nursing Schools in the USA (2026) | Tuition, Acceptance Rates & NCLEX Pass Rates https://www.youtube.com/watch?v=siyMuWNABZU",
+          "chars": 116
+        },
+        "bluesky": {
+          "text": "Top 10 Best Nursing Schools in the USA (2026) | Tuition, Acceptance Rates & NCLEX Pass Rates https://www.youtube.com/watch?v=siyMuWNABZU",
+          "chars": 136
+        }
+      }
+    },
+    {
+      "id": 2129,
+      "date": "2026-11-15",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-johns-hopkins-higher-education",
+      "person": "Namesake/noise match: Johns Hopkins, higher education",
+      "is_ces": false,
+      "title": "Intelligence is Ours to Steward: Universities and the Role of Faculty in the AI Era",
+      "has_text": true,
+      "url": "https://www.schoolinfosystem.org/2026/11/15/intelligence-is-ours-to-steward-universities-and-the-role-of-faculty-in-the-ai-era/",
+      "source": "Schoolinfosystem.org",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Intelligence is Ours to Steward: Universities and the Role of Faculty in the AI Era https://www.schoolinfosystem.org/2026/11/15/intelligence-is-ours-to-steward-universities-and-the-role-of-faculty-in-the-ai-era/",
+          "chars": 107
+        },
+        "bluesky": {
+          "text": "Intelligence is Ours to Steward: Universities and the Role of Faculty in the AI Era https://www.schoolinfosystem.org/2026/11/15/intelligence-is-ours-to-steward-universities-and-the-role-of-faculty-in-the-ai-era/",
+          "chars": 211
+        }
+      }
+    },
+    {
+      "id": 2128,
+      "date": "2026-11-15",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-agora-hopkins",
+      "person": "Namesake/noise match: Agora, Hopkins",
+      "is_ces": false,
+      "title": "Onde Assistir Aqueles Prestes a Morrer Todas as Temporadas? Veja Onde Assistir a Série Completa",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=XA4bUsezsok",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Onde Assistir Aqueles Prestes a Morrer Todas as Temporadas? Veja Onde Assistir a Série Completa https://www.youtube.com/watch?v=XA4bUsezsok",
+          "chars": 119
+        },
+        "bluesky": {
+          "text": "Onde Assistir Aqueles Prestes a Morrer Todas as Temporadas? Veja Onde Assistir a Série Completa https://www.youtube.com/watch?v=XA4bUsezsok",
+          "chars": 139
+        }
+      }
+    },
+    {
+      "id": 2126,
+      "date": "2026-11-15",
+      "week_start": "2026-11-09",
+      "person_id": "namesake-noise-match-higher-education-johns-hopkins",
+      "person": "Namesake/noise match: Higher Education, Johns Hopkins",
+      "is_ces": false,
+      "title": "(no text) reddit.com/r/ApplyingToCollege post",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/ApplyingToCollege/comments/1xx4faw/average_college_rankings_as_we_end_the_year_and/",
+      "source": "reddit.com/r/ApplyingToCollege",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "(no text) reddit.com/r/ApplyingToCollege post https://www.reddit.com/r/ApplyingToCollege/comments/1xx4faw/average_college_rankings_as_we_end_the_year_and/",
+          "chars": 69
+        },
+        "bluesky": {
+          "text": "(no text) reddit.com/r/ApplyingToCollege post https://www.reddit.com/r/ApplyingToCollege/comments/1xx4faw/average_college_rankings_as_we_end_the_year_and/",
+          "chars": 154
         }
       }
     },
