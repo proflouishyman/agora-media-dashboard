@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-16T07:04:45-05:00",
+  "generated_at": "2026-11-17T07:05:02-05:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-11-16"
+    "end": "2026-11-17"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 2121,
-        "in_digest": 474,
-        "reach_proxy": 12983,
-        "people_covered": 223,
+        "mentions": 2158,
+        "in_digest": 478,
+        "reach_proxy": 13154,
+        "people_covered": 224,
         "people_tracked": 100,
-        "sources": 840,
+        "sources": 853,
         "negative": 17
       },
       "deltas": {
@@ -999,9 +999,16 @@
         },
         {
           "date": "2026-11-16",
-          "count": 11,
-          "reach": 37,
-          "in_digest": 2,
+          "count": 39,
+          "reach": 74,
+          "in_digest": 5,
+          "observed": true
+        },
+        {
+          "date": "2026-11-17",
+          "count": 9,
+          "reach": 134,
+          "in_digest": 1,
           "observed": true
         }
       ],
@@ -1268,23 +1275,23 @@
         },
         {
           "week_start": "2026-11-16",
-          "count": 11,
-          "reach": 37,
-          "in_digest": 2,
-          "people": 9,
+          "count": 48,
+          "reach": 208,
+          "in_digest": 6,
+          "people": 15,
           "sentiment": {
             "positive": 1,
-            "neutral": 0,
+            "neutral": 4,
             "negative": 0,
-            "unknown": 10
+            "unknown": 43
           }
         }
       ],
       "sentiment": {
         "positive": 134,
-        "neutral": 229,
+        "neutral": 233,
         "negative": 17,
-        "unknown": 1741
+        "unknown": 1774
       },
       "top_people": [
         {
@@ -1297,15 +1304,15 @@
         {
           "person_id": "snf-agora-institute",
           "name": "SNF Agora Institute",
-          "count": 140,
-          "reach": 1344,
+          "count": 142,
+          "reach": 1346,
           "is_ces": false
         },
         {
           "person_id": "anne-applebaum",
           "name": "Anne Applebaum",
-          "count": 114,
-          "reach": 1262,
+          "count": 115,
+          "reach": 1263,
           "is_ces": false
         },
         {
@@ -1353,22 +1360,22 @@
         {
           "person_id": "lilliana-mason",
           "name": "Lilliana Mason",
-          "count": 49,
-          "reach": 98,
+          "count": 50,
+          "reach": 99,
           "is_ces": false
         }
       ],
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 343,
-          "reach": 6140,
+          "count": 346,
+          "reach": 6264,
           "is_other": false
         },
         {
           "source": "Youtube",
-          "count": 174,
-          "reach": 182,
+          "count": 177,
+          "reach": 185,
           "is_other": false
         },
         {
@@ -1391,8 +1398,8 @@
         },
         {
           "source": "Substack",
-          "count": 49,
-          "reach": 62,
+          "count": 50,
+          "reach": 63,
           "is_other": false
         },
         {
@@ -1409,19 +1416,19 @@
         },
         {
           "source": "Other",
-          "count": 1315,
-          "reach": 6338,
+          "count": 1345,
+          "reach": 6381,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 1197
+          "count": 1226
         },
         {
           "source_type": "social network",
-          "count": 377
+          "count": 382
         },
         {
           "source_type": "blog",
@@ -1429,7 +1436,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 463
+          "count": 466
         }
       ],
       "negative_stories": [
@@ -1467,20 +1474,20 @@
           "person_id": "snf-agora-institute",
           "is_ces": false,
           "positive": 26,
-          "neutral": 39,
+          "neutral": 41,
           "negative": 3,
           "unknown": 72,
-          "total": 140
+          "total": 142
         },
         {
           "row_label": "Anne Applebaum",
           "person_id": "anne-applebaum",
           "is_ces": false,
           "positive": 13,
-          "neutral": 17,
+          "neutral": 18,
           "negative": 8,
           "unknown": 76,
-          "total": 114
+          "total": 115
         },
         {
           "row_label": "unknown",
@@ -1549,8 +1556,8 @@
           "positive": 9,
           "neutral": 12,
           "negative": 1,
-          "unknown": 27,
-          "total": 49
+          "unknown": 28,
+          "total": 50
         },
         {
           "row_label": "Sean Carroll",
@@ -1633,14 +1640,24 @@
           "total": 31
         },
         {
+          "row_label": "(no tracked person)",
+          "person_id": "no-tracked-person",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 30,
+          "total": 30
+        },
+        {
           "row_label": "Louis Hyman",
           "person_id": "louis-hyman",
           "is_ces": true,
           "positive": 6,
-          "neutral": 10,
+          "neutral": 11,
           "negative": 0,
           "unknown": 11,
-          "total": 27
+          "total": 28
         },
         {
           "row_label": "Namesake/noise match: agora, Hopkins",
@@ -1763,6 +1780,16 @@
           "total": 12
         },
         {
+          "row_label": "Emily White",
+          "person_id": "emily-white",
+          "is_ces": false,
+          "positive": 2,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 9,
+          "total": 11
+        },
+        {
           "row_label": "Namesake/noise match: Johns Hopkins, University President",
           "person_id": "namesake-noise-match-johns-hopkins-university-president",
           "is_ces": false,
@@ -1790,16 +1817,6 @@
           "neutral": 0,
           "negative": 0,
           "unknown": 6,
-          "total": 10
-        },
-        {
-          "row_label": "Emily White",
-          "person_id": "emily-white",
-          "is_ces": false,
-          "positive": 2,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 8,
           "total": 10
         },
         {
@@ -1831,6 +1848,16 @@
           "negative": 0,
           "unknown": 5,
           "total": 10
+        },
+        {
+          "row_label": "Jeremy Wallace",
+          "person_id": "jeremy-wallace",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 3,
+          "negative": 0,
+          "unknown": 6,
+          "total": 9
         },
         {
           "row_label": "Namesake/noise match: Hopkins, Agora",
@@ -1880,16 +1907,6 @@
           "neutral": 1,
           "negative": 0,
           "unknown": 4,
-          "total": 8
-        },
-        {
-          "row_label": "Jeremy Wallace",
-          "person_id": "jeremy-wallace",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 3,
-          "negative": 0,
-          "unknown": 5,
           "total": 8
         },
         {
@@ -3687,18 +3704,18 @@
         {
           "row_label": "online news",
           "positive": 44,
-          "neutral": 137,
+          "neutral": 140,
           "negative": 5,
-          "unknown": 1011,
-          "total": 1197
+          "unknown": 1037,
+          "total": 1226
         },
         {
           "row_label": "social network",
           "positive": 57,
-          "neutral": 71,
+          "neutral": 72,
           "negative": 1,
-          "unknown": 248,
-          "total": 377
+          "unknown": 252,
+          "total": 382
         },
         {
           "row_label": "blog",
@@ -3713,8 +3730,8 @@
           "positive": 24,
           "neutral": 12,
           "negative": 10,
-          "unknown": 417,
-          "total": 463
+          "unknown": 420,
+          "total": 466
         }
       ],
       "sentiment_examples": {
@@ -5324,9 +5341,9 @@
     },
     "ces": {
       "totals": {
-        "mentions": 146,
-        "in_digest": 103,
-        "reach_proxy": 247,
+        "mentions": 147,
+        "in_digest": 104,
+        "reach_proxy": 248,
         "people_covered": 11,
         "people_tracked": 17,
         "sources": 84,
@@ -6316,6 +6333,13 @@
         },
         {
           "date": "2026-11-16",
+          "count": 1,
+          "reach": 1,
+          "in_digest": 1,
+          "observed": true
+        },
+        {
+          "date": "2026-11-17",
           "count": 0,
           "reach": 0,
           "in_digest": 0,
@@ -6585,13 +6609,13 @@
         },
         {
           "week_start": "2026-11-16",
-          "count": 0,
-          "reach": 0,
-          "in_digest": 0,
-          "people": 0,
+          "count": 1,
+          "reach": 1,
+          "in_digest": 1,
+          "people": 1,
           "sentiment": {
             "positive": 0,
-            "neutral": 0,
+            "neutral": 1,
             "negative": 0,
             "unknown": 0
           }
@@ -6599,7 +6623,7 @@
       ],
       "sentiment": {
         "positive": 23,
-        "neutral": 41,
+        "neutral": 42,
         "negative": 1,
         "unknown": 81
       },
@@ -6621,8 +6645,8 @@
         {
           "person_id": "louis-hyman",
           "name": "Louis Hyman",
-          "count": 27,
-          "reach": 45,
+          "count": 28,
+          "reach": 46,
           "is_ces": true
         },
         {
@@ -6726,15 +6750,15 @@
         },
         {
           "source": "Other",
-          "count": 87,
-          "reach": 158,
+          "count": 88,
+          "reach": 159,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 76
+          "count": 77
         },
         {
           "source_type": "social network",
@@ -6778,10 +6802,10 @@
           "person_id": "louis-hyman",
           "is_ces": true,
           "positive": 6,
-          "neutral": 10,
+          "neutral": 11,
           "negative": 0,
           "unknown": 11,
-          "total": 27
+          "total": 28
         },
         {
           "row_label": "Jeanne-Marie Jackson",
@@ -6868,10 +6892,10 @@
         {
           "row_label": "online news",
           "positive": 13,
-          "neutral": 25,
+          "neutral": 26,
           "negative": 1,
           "unknown": 37,
-          "total": 76
+          "total": 77
         },
         {
           "row_label": "social network",

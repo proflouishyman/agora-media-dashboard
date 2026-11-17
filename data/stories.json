@@ -1,7 +1,223 @@
 {
-  "generated_at": "2026-11-16T07:04:45-05:00",
-  "count": 2121,
+  "generated_at": "2026-11-17T07:05:02-05:00",
+  "count": 2158,
   "stories": [
+    {
+      "id": 2136,
+      "date": "2026-11-17",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "untitled social post, no tracked person",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 114,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 2139,
+      "date": "2026-11-17",
+      "week_start": "2026-11-16",
+      "person_id": "jeremy-wallace",
+      "person": "Jeremy Wallace",
+      "is_ces": false,
+      "title": "Jeremy Wallace",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 9,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 2137,
+      "date": "2026-11-17",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "EUA perde status de país livre do sarampo após 26 anos; entenda o que significa e como o país chegou até aqui",
+      "has_text": true,
+      "url": "https://www.msn.com/pt-br/noticias/other/eua-perde-status-de-pa%C3%ADs-livre-do-sarampo-ap%C3%B3s-26-anos-entenda-o-que-significa-e-como-o-pa%C3%ADs-chegou-at%C3%A9-aqui/ar-AA2hBEZ3",
+      "source": "MSN Brasil",
+      "source_type": "online news",
+      "similar_mention_count": 3,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "EUA perde status de país livre do sarampo após 26 anos; entenda o que significa e como o país chegou até aqui https://www.msn.com/pt-br/noticias/other/eua-perde-status-de-pa%C3%ADs-livre-do-sarampo-ap%C3%B3s-26-anos-entenda-o-que-significa-e-como-o-pa%C3%ADs-chegou-at%C3%A9-aqui/ar-AA2hBEZ3",
+          "chars": 133
+        },
+        "bluesky": {
+          "text": "EUA perde status de país livre do sarampo após 26 anos; entenda o que significa e como o país chegou até aqui https://www.msn.com/pt-br/noticias/other/eua-perde-status-de-pa%C3%ADs-livre-do-sarampo-ap%C3%B3s-26-anos-entenda-o-que-significa-e-como-o-pa%C3%ADs-chegou-at%C3%A9-aqui/ar-AA2hBEZ3",
+          "chars": 291
+        }
+      }
+    },
+    {
+      "id": 2142,
+      "date": "2026-11-17",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "How the Academic Left is Rebranding DEI",
+      "has_text": true,
+      "url": "https://www.europesays.com/unitedstates/128931/",
+      "source": "EUROPE SAYS",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "How the Academic Left is Rebranding DEI https://www.europesays.com/unitedstates/128931/",
+          "chars": 63
+        },
+        "bluesky": {
+          "text": "How the Academic Left is Rebranding DEI https://www.europesays.com/unitedstates/128931/",
+          "chars": 87
+        }
+      }
+    },
+    {
+      "id": 2138,
+      "date": "2026-11-17",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "Sarampo: como recorde de casos nos EUA e avanço do vírus nas Américas ameaçam eliminação da doença no Brasil",
+      "has_text": true,
+      "url": "https://www.europesays.com/pt/588955/",
+      "source": "EUROPE SAYS",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Sarampo: como recorde de casos nos EUA e avanço do vírus nas Américas ameaçam eliminação da doença no Brasil https://www.europesays.com/pt/588955/",
+          "chars": 132
+        },
+        "bluesky": {
+          "text": "Sarampo: como recorde de casos nos EUA e avanço do vírus nas Américas ameaçam eliminação da doença no Brasil https://www.europesays.com/pt/588955/",
+          "chars": 146
+        }
+      }
+    },
+    {
+      "id": 2143,
+      "date": "2026-11-17",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "Tittle-tattle",
+      "has_text": true,
+      "url": "https://www.lobster-magazine.co.uk/article/issue/45/tittle-tattle/",
+      "source": "Lobster Magazine",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Tittle-tattle https://www.lobster-magazine.co.uk/article/issue/45/tittle-tattle/",
+          "chars": 37
+        },
+        "bluesky": {
+          "text": "Tittle-tattle https://www.lobster-magazine.co.uk/article/issue/45/tittle-tattle/",
+          "chars": 80
+        }
+      }
+    },
+    {
+      "id": 2141,
+      "date": "2026-11-17",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "“Once more unto the breach, dear friends, once more!”: Office-Based Pediatric Dental Anesthesia Policy",
+      "has_text": true,
+      "url": "https://ronlitman.substack.com/p/once-more-unto-the-breach-dear-friends",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "“Once more unto the breach, dear friends, once more!”: Office-Based Pediatric Dental Anesthesia Policy https://ronlitman.substack.com/p/once-more-unto-the-breach-dear-friends",
+          "chars": 126
+        },
+        "bluesky": {
+          "text": "“Once more unto the breach, dear friends, once more!”: Office-Based Pediatric Dental Anesthesia Policy https://ronlitman.substack.com/p/once-more-unto-the-breach-dear-friends",
+          "chars": 174
+        }
+      }
+    },
+    {
+      "id": 2140,
+      "date": "2026-11-17",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "Ator Robert Pattinson anunciado como novo James Bond",
+      "has_text": true,
+      "url": "https://www.msn.com/pt-br/entretenimento/celebridades/ator-robert-pattinson-anunciado-como-novo-james-bond/ar-AA2hya6T",
+      "source": "MSN Brasil",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Ator Robert Pattinson anunciado como novo James Bond https://www.msn.com/pt-br/entretenimento/celebridades/ator-robert-pattinson-anunciado-como-novo-james-bond/ar-AA2hya6T",
+          "chars": 76
+        },
+        "bluesky": {
+          "text": "Ator Robert Pattinson anunciado como novo James Bond https://www.msn.com/pt-br/entretenimento/celebridades/ator-robert-pattinson-anunciado-como-novo-james-bond/ar-AA2hya6T",
+          "chars": 171
+        }
+      }
+    },
+    {
+      "id": 2133,
+      "date": "2026-11-17",
+      "week_start": "2026-11-16",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Будущее украинского государства и Европы в целом: Беседа с Энн Эпплбаум (рус.суб)",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=epfDiNZtteM",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Будущее украинского государства и Европы в целом: Беседа с Энн Эпплбаум (рус.суб) https://www.youtube.com/watch?v=epfDiNZtteM",
+          "chars": 105
+        },
+        "bluesky": {
+          "text": "Будущее украинского государства и Европы в целом: Беседа с Энн Эпплбаум (рус.суб) https://www.youtube.com/watch?v=epfDiNZtteM",
+          "chars": 125
+        }
+      }
+    },
     {
       "id": 2123,
       "date": "2026-11-16",
@@ -77,6 +293,725 @@
         "bluesky": {
           "text": "This superintendent couldn’t read as a kid. Now he wants to ensure every kid can. https://dresdenenterprise.com/premium/stacker/stories/this-superintendent-couldnrsquot-read-as-a-kid-now-he-wants-to-ensure-every-kid-can,160369",
           "chars": 226
+        }
+      }
+    },
+    {
+      "id": 2150,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "Robert Pattinson é anunciado como novo James Bond 007",
+      "has_text": true,
+      "url": "https://www.europesays.com/pt/588625/",
+      "source": "EUROPE SAYS",
+      "source_type": "online news",
+      "similar_mention_count": 4,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Robert Pattinson é anunciado como novo James Bond 007 https://www.europesays.com/pt/588625/",
+          "chars": 77
+        },
+        "bluesky": {
+          "text": "Robert Pattinson é anunciado como novo James Bond 007 https://www.europesays.com/pt/588625/",
+          "chars": 91
+        }
+      }
+    },
+    {
+      "id": 2149,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "This superintendent couldn’t read as a kid. Now he wants to ensure every kid can.",
+      "has_text": true,
+      "url": "https://www.bridgervalleypioneer.com/premium/stacker/stories/this-superintendent-couldnrsquot-read-as-a-kid-now-he-wants-to-ensure-every-kid-can,140806",
+      "source": "Bridger Valley Pioneer",
+      "source_type": "online news",
+      "similar_mention_count": 4,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "This superintendent couldn’t read as a kid. Now he wants to ensure every kid can. https://www.bridgervalleypioneer.com/premium/stacker/stories/this-superintendent-couldnrsquot-read-as-a-kid-now-he-wants-to-ensure-every-kid-can,140806",
+          "chars": 105
+        },
+        "bluesky": {
+          "text": "This superintendent couldn’t read as a kid. Now he wants to ensure every kid can. https://www.bridgervalleypioneer.com/premium/stacker/stories/this-superintendent-couldnrsquot-read-as-a-kid-now-he-wants-to-ensure-every-kid-can,140806",
+          "chars": 233
+        }
+      }
+    },
+    {
+      "id": 2167,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "Estados Unidos perdem estatuto livre de sarampo após surto iniciado no Texas",
+      "has_text": true,
+      "url": "https://sapo.pt/artigo/estados-unidos-perdem-estatuto-livre-de-sarampo-apos-surto-iniciado-no-texas-6afaf9c5faafdbf5ce9b8c66",
+      "source": "SAPO",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Estados Unidos perdem estatuto livre de sarampo após surto iniciado no Texas https://sapo.pt/artigo/estados-unidos-perdem-estatuto-livre-de-sarampo-apos-surto-iniciado-no-texas-6afaf9c5faafdbf5ce9b8c66",
+          "chars": 100
+        },
+        "bluesky": {
+          "text": "Estados Unidos perdem estatuto livre de sarampo após surto iniciado no Texas https://sapo.pt/artigo/estados-unidos-perdem-estatuto-livre-de-sarampo-apos-surto-iniciado-no-texas-6afaf9c5faafdbf5ce9b8c66",
+          "chars": 201
+        }
+      }
+    },
+    {
+      "id": 2160,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "Robert Pattinson é confirmado como o novo James Bond: 'Honra de uma vida', diz ator",
+      "has_text": true,
+      "url": "https://www.terra.com.br/diversao/entre-telas/filmes/robert-pattinson-e-confirmado-como-o-novo-james-bond-honra-de-uma-vida-diz-ator,a834ce4c673ed3ee6802de18224879c0juwa8ghu.html",
+      "source": "Terra",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Robert Pattinson é confirmado como o novo James Bond: 'Honra de uma vida', diz ator https://www.terra.com.br/diversao/entre-telas/filmes/robert-pattinson-e-confirmado-como-o-novo-james-bond-honra-de-uma-vida-diz-ator,a834ce4c673ed3ee6802de18224879c0juwa8ghu.html",
+          "chars": 107
+        },
+        "bluesky": {
+          "text": "Robert Pattinson é confirmado como o novo James Bond: 'Honra de uma vida', diz ator https://www.terra.com.br/diversao/entre-telas/filmes/robert-pattinson-e-confirmado-como-o-novo-james-bond-honra-de-uma-vida-diz-ator,a834ce4c673ed3ee6802de18224879c0juwa8ghu.html",
+          "chars": 262
+        }
+      }
+    },
+    {
+      "id": 2155,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "Robert Pattinson é confirmado como o novo James Bond: ‘Honra de uma vida’, diz ator",
+      "has_text": true,
+      "url": "https://hojepr.com/robert-pattinson-james-bond-honra-007/",
+      "source": "HojePR",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Robert Pattinson é confirmado como o novo James Bond: ‘Honra de uma vida’, diz ator https://hojepr.com/robert-pattinson-james-bond-honra-007/",
+          "chars": 107
+        },
+        "bluesky": {
+          "text": "Robert Pattinson é confirmado como o novo James Bond: ‘Honra de uma vida’, diz ator https://hojepr.com/robert-pattinson-james-bond-honra-007/",
+          "chars": 141
+        }
+      }
+    },
+    {
+      "id": 2168,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "Anitta é indicada ao Grammy 2027 com álbum EQUILIBRIVM; veja lista completa de indicados",
+      "has_text": true,
+      "url": "https://www.diariodepernambuco.com.br/viver/2026/11/11729237-anitta-e-indicada-ao-grammy-2027-com-album-equilibrivm-veja-lista-completa-de-indicados.html",
+      "source": "Diario de Pernambuco",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Anitta é indicada ao Grammy 2027 com álbum EQUILIBRIVM; veja lista completa de indicados https://www.diariodepernambuco.com.br/viver/2026/11/11729237-anitta-e-indicada-ao-grammy-2027-com-album-equilibrivm-veja-lista-completa-de-indicados.html",
+          "chars": 112
+        },
+        "bluesky": {
+          "text": "Anitta é indicada ao Grammy 2027 com álbum EQUILIBRIVM; veja lista completa de indicados https://www.diariodepernambuco.com.br/viver/2026/11/11729237-anitta-e-indicada-ao-grammy-2027-com-album-equilibrivm-veja-lista-completa-de-indicados.html",
+          "chars": 242
+        }
+      }
+    },
+    {
+      "id": 2166,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "lilliana-mason",
+      "person": "Lilliana Mason",
+      "is_ces": false,
+      "title": "Lilliana Mason",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 2165,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "Brain stacking ajuda a trocar telas por foco e calma – 16/11/2026 – Equilíbrio",
+      "has_text": true,
+      "url": "https://hubmidiaweb.com.br/brain-stacking-ajuda-a-trocar-telas-por-foco-e-calma-16-11-2026-equilibrio/",
+      "source": "Hub Mídia Web",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Brain stacking ajuda a trocar telas por foco e calma – 16/11/2026 – Equilíbrio https://hubmidiaweb.com.br/brain-stacking-ajuda-a-trocar-telas-por-foco-e-calma-16-11-2026-equilibrio/",
+          "chars": 102
+        },
+        "bluesky": {
+          "text": "Brain stacking ajuda a trocar telas por foco e calma – 16/11/2026 – Equilíbrio https://hubmidiaweb.com.br/brain-stacking-ajuda-a-trocar-telas-por-foco-e-calma-16-11-2026-equilibrio/",
+          "chars": 181
+        }
+      }
+    },
+    {
+      "id": 2164,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "SPACE STAR’26 Closes in Gammarth After Three Days of Science, Applications and Policy",
+      "has_text": true,
+      "url": "https://www.europesays.com/africa/526180/",
+      "source": "EUROPE SAYS",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "SPACE STAR’26 Closes in Gammarth After Three Days of Science, Applications and Policy https://www.europesays.com/africa/526180/",
+          "chars": 109
+        },
+        "bluesky": {
+          "text": "SPACE STAR’26 Closes in Gammarth After Three Days of Science, Applications and Policy https://www.europesays.com/africa/526180/",
+          "chars": 127
+        }
+      }
+    },
+    {
+      "id": 2163,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "Uncommon Sense : Real-world wisdom for when the textbook ends.Why do some of the most successful people in the world—from Bill Gates to Steve Jobs, Oprah Winfrey to Ralph Lauren—never finish college, while others with every academic advantage still struggle to find their way? For William R. Brody, a renowned physician-scientist and the former president of Johns Hopkins University, the answer lies in a truth higher education all too often overlooks: life, unlike textbooks, has no a...",
+      "has_text": true,
+      "url": "https://ie.pinterest.com/pin/618963542586538279/",
+      "source": "Pinterest",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Uncommon Sense : Real-world wisdom for when the textbook ends.Why do some of the most successful people in the world—from Bill Gates to Steve Jobs, Oprah Winfrey to Ralph Lauren—never finish college, while others with every academic advantage still strugg… https://ie.pinterest.com/pin/618963542586538279/",
+          "chars": 280
+        },
+        "bluesky": {
+          "text": "Uncommon Sense : Real-world wisdom for when the textbook ends.Why do some of the most successful people in the world—from Bill Gates to Steve Jobs, Oprah Winfrey to Ralph Lauren—never finish college, while others with every academic advantage still … https://ie.pinterest.com/pin/618963542586538279/",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 2162,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "Finalmente foi revelado o rosto do novo 007!",
+      "has_text": true,
+      "url": "https://www.comboinfinito.com.br/principal/007-robert-pattinson-novo-james-bond/",
+      "source": "Combo Infinito",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Finalmente foi revelado o rosto do novo 007! https://www.comboinfinito.com.br/principal/007-robert-pattinson-novo-james-bond/",
+          "chars": 68
+        },
+        "bluesky": {
+          "text": "Finalmente foi revelado o rosto do novo 007! https://www.comboinfinito.com.br/principal/007-robert-pattinson-novo-james-bond/",
+          "chars": 125
+        }
+      }
+    },
+    {
+      "id": 2161,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "Robert Pattinson é confirmado como o novo James Bond",
+      "has_text": true,
+      "url": "https://www.estadao.com.br/cultura/cinema/robert-pattinson-e-confirmado-como-o-novo-james-bond-nprec/",
+      "source": "Estado",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Robert Pattinson é confirmado como o novo James Bond https://www.estadao.com.br/cultura/cinema/robert-pattinson-e-confirmado-como-o-novo-james-bond-nprec/",
+          "chars": 76
+        },
+        "bluesky": {
+          "text": "Robert Pattinson é confirmado como o novo James Bond https://www.estadao.com.br/cultura/cinema/robert-pattinson-e-confirmado-como-o-novo-james-bond-nprec/",
+          "chars": 154
+        }
+      }
+    },
+    {
+      "id": 2159,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "Kettering University Ranks Among Nation’s 50 Best Colleges for Return on Investment",
+      "has_text": true,
+      "url": "https://www.kettering.edu/kettering-university-ranks-among-nations-50-best-colleges-return-investment",
+      "source": "Kettering University",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Kettering University Ranks Among Nation’s 50 Best Colleges for Return on Investment https://www.kettering.edu/kettering-university-ranks-among-nations-50-best-colleges-return-investment",
+          "chars": 107
+        },
+        "bluesky": {
+          "text": "Kettering University Ranks Among Nation’s 50 Best Colleges for Return on Investment https://www.kettering.edu/kettering-university-ranks-among-nations-50-best-colleges-return-investment",
+          "chars": 185
+        }
+      }
+    },
+    {
+      "id": 2158,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "From Penn State’s College of Earth and Mineral Sciences: [Acoustics and Geosciences] ‘Existing seismic networks can record sonic booms from supersonic flights’",
+      "has_text": true,
+      "url": "https://sciencesprings.wordpress.com/2026/11/16/from-penn-states-college-of-earth-and-mineral-sciences-acoustics-and-geosciences-existing-seismic-networks-can-record-sonic-booms-from-supersonic-flights/",
+      "source": "Obson Blog",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "From Penn State’s College of Earth and Mineral Sciences: [Acoustics and Geosciences] ‘Existing seismic networks can record sonic booms from supersonic flights’ https://sciencesprings.wordpress.com/2026/11/16/from-penn-states-college-of-earth-and-mineral-sciences-acoustics-and-geosciences-existing-seismic-networks-can-record-sonic-booms-from-supersonic-flights/",
+          "chars": 183
+        },
+        "bluesky": {
+          "text": "From Penn State’s College of Earth and Mineral Sciences: [Acoustics and Geosciences] ‘Existing … https://sciencesprings.wordpress.com/2026/11/16/from-penn-states-college-of-earth-and-mineral-sciences-acoustics-and-geosciences-existing-seismic-networks-can-record-sonic-booms-from-supersonic-flights/",
+          "chars": 299
+        }
+      }
+    },
+    {
+      "id": 2157,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "Rebranding DEI: New Look, Same Terrible Taste",
+      "has_text": true,
+      "url": "https://hotair.com/david-strom/2026/11/16/rebranding-dei-new-look-same-terrible-taste-n3821050",
+      "source": "Hot Air",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Rebranding DEI: New Look, Same Terrible Taste https://hotair.com/david-strom/2026/11/16/rebranding-dei-new-look-same-terrible-taste-n3821050",
+          "chars": 69
+        },
+        "bluesky": {
+          "text": "Rebranding DEI: New Look, Same Terrible Taste https://hotair.com/david-strom/2026/11/16/rebranding-dei-new-look-same-terrible-taste-n3821050",
+          "chars": 140
+        }
+      }
+    },
+    {
+      "id": 2156,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "BULLY 100% DUBLADO ( PS2 ) • OPL • PCXS2 • AETHERSX2 • ISO DOWNLOAD",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=22b_XrYVJgA",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "BULLY 100% DUBLADO ( PS2 ) • OPL • PCXS2 • AETHERSX2 • ISO DOWNLOAD https://www.youtube.com/watch?v=22b_XrYVJgA",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "BULLY 100% DUBLADO ( PS2 ) • OPL • PCXS2 • AETHERSX2 • ISO DOWNLOAD https://www.youtube.com/watch?v=22b_XrYVJgA",
+          "chars": 111
+        }
+      }
+    },
+    {
+      "id": 2154,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "Terra atravessa um rastro de detritos deixado pelo cometa 55P/Tempel-Tuttle: chuva de meteoros Leônidas ocorre esta semana",
+      "has_text": true,
+      "url": "https://portaldasradios.com.br/noticias/250149",
+      "source": "Portal das Rádios",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Terra atravessa um rastro de detritos deixado pelo cometa 55P/Tempel-Tuttle: chuva de meteoros Leônidas ocorre esta semana https://portaldasradios.com.br/noticias/250149",
+          "chars": 146
+        },
+        "bluesky": {
+          "text": "Terra atravessa um rastro de detritos deixado pelo cometa 55P/Tempel-Tuttle: chuva de meteoros Leônidas ocorre esta semana https://portaldasradios.com.br/noticias/250149",
+          "chars": 169
+        }
+      }
+    },
+    {
+      "id": 2153,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "emily-white",
+      "person": "Emily White",
+      "is_ces": false,
+      "title": "Emily White",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/Fauxmoi/comments/1xxteme/comment/19sqknqb6cw11/",
+      "source": "reddit.com/r/Fauxmoi",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Emily White https://www.reddit.com/r/Fauxmoi/comments/1xxteme/comment/19sqknqb6cw11/",
+          "chars": 35
+        },
+        "bluesky": {
+          "text": "Emily White https://www.reddit.com/r/Fauxmoi/comments/1xxteme/comment/19sqknqb6cw11/",
+          "chars": 84
+        }
+      }
+    },
+    {
+      "id": 2152,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "Robert Pattinson é anunciado como o novo James Bond",
+      "has_text": true,
+      "url": "https://www.einerd.com/robert-pattinson-novo-james-bond-007-denis-villeneuve-steven-knight/",
+      "source": "Ei Nerd",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Robert Pattinson é anunciado como o novo James Bond https://www.einerd.com/robert-pattinson-novo-james-bond-007-denis-villeneuve-steven-knight/",
+          "chars": 75
+        },
+        "bluesky": {
+          "text": "Robert Pattinson é anunciado como o novo James Bond https://www.einerd.com/robert-pattinson-novo-james-bond-007-denis-villeneuve-steven-knight/",
+          "chars": 143
+        }
+      }
+    },
+    {
+      "id": 2151,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "Johns Hopkins to Establish Opportunity and Engagement Office",
+      "has_text": true,
+      "url": "https://www.miragenews.com/johns-hopkins-to-establish-opportunity-and-1778235/",
+      "source": "Mirage.News",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Johns Hopkins to Establish Opportunity and Engagement Office https://www.miragenews.com/johns-hopkins-to-establish-opportunity-and-1778235/",
+          "chars": 84
+        },
+        "bluesky": {
+          "text": "Johns Hopkins to Establish Opportunity and Engagement Office https://www.miragenews.com/johns-hopkins-to-establish-opportunity-and-1778235/",
+          "chars": 139
+        }
+      }
+    },
+    {
+      "id": 2148,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "Robert Pattinson é o novo James Bond; Denis Villeneuve dirigirá o filme",
+      "has_text": true,
+      "url": "https://www.trambicast.com.br/2026/11/robert-pattinson-novo-james-bond-007.html",
+      "source": "Trambicast",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Robert Pattinson é o novo James Bond; Denis Villeneuve dirigirá o filme https://www.trambicast.com.br/2026/11/robert-pattinson-novo-james-bond-007.html",
+          "chars": 95
+        },
+        "bluesky": {
+          "text": "Robert Pattinson é o novo James Bond; Denis Villeneuve dirigirá o filme https://www.trambicast.com.br/2026/11/robert-pattinson-novo-james-bond-007.html",
+          "chars": 151
+        }
+      }
+    },
+    {
+      "id": 2147,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "Anthony Hopkins Hannibal Lecter: Oscar‑Winning Role Impact",
+      "has_text": true,
+      "url": "https://culpadolag.com.br/anthony-hopkins-hannibal-lecter-oscarwinning-role-impact",
+      "source": "Culpa do Lag",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Anthony Hopkins Hannibal Lecter: Oscar‑Winning Role Impact https://culpadolag.com.br/anthony-hopkins-hannibal-lecter-oscarwinning-role-impact",
+          "chars": 82
+        },
+        "bluesky": {
+          "text": "Anthony Hopkins Hannibal Lecter: Oscar‑Winning Role Impact https://culpadolag.com.br/anthony-hopkins-hannibal-lecter-oscarwinning-role-impact",
+          "chars": 141
+        }
+      }
+    },
+    {
+      "id": 2146,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "WVU in the News: WVFF, WVU, and Other Universities Partner To Improve Spending Of Opioid Settlement Fund",
+      "has_text": true,
+      "url": "https://medicine.hsc.wvu.edu/News/Story?headline=wvu-innews-wvff-wvu-and-other-universities-partner-to-improve-spending-of-opioid-settlement-fund",
+      "source": "WVU",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "WVU in the News: WVFF, WVU, and Other Universities Partner To Improve Spending Of Opioid Settlement Fund https://medicine.hsc.wvu.edu/News/Story?headline=wvu-innews-wvff-wvu-and-other-universities-partner-to-improve-spending-of-opioid-settlement-fund",
+          "chars": 128
+        },
+        "bluesky": {
+          "text": "WVU in the News: WVFF, WVU, and Other Universities Partner To Improve Spending Of Opioid Settlement Fund https://medicine.hsc.wvu.edu/News/Story?headline=wvu-innews-wvff-wvu-and-other-universities-partner-to-improve-spending-of-opioid-settlement-fund",
+          "chars": 250
+        }
+      }
+    },
+    {
+      "id": 2145,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "PHEC 483: Telling Public Health's Story, With Khalilah LeGrand, EdD",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=PSeLfhudinU",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "PHEC 483: Telling Public Health's Story, With Khalilah LeGrand, EdD https://www.youtube.com/watch?v=PSeLfhudinU",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "PHEC 483: Telling Public Health's Story, With Khalilah LeGrand, EdD https://www.youtube.com/watch?v=PSeLfhudinU",
+          "chars": 111
+        }
+      }
+    },
+    {
+      "id": 2144,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "no-tracked-person",
+      "person": "(no tracked person)",
+      "is_ces": false,
+      "title": "East Texas Tonight: Longview professor brings consulting experience to political science classroom",
+      "has_text": true,
+      "url": "https://www.kltv.com/2026/11/17/east-texas-tonight-longview-professor-brings-consulting-experience-political-science-classroom/",
+      "source": "KLTV-TV",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "East Texas Tonight: Longview professor brings consulting experience to political science classroom https://www.kltv.com/2026/11/17/east-texas-tonight-longview-professor-brings-consulting-experience-political-science-classroom/",
+          "chars": 122
+        },
+        "bluesky": {
+          "text": "East Texas Tonight: Longview professor brings consulting experience to political science classroom https://www.kltv.com/2026/11/17/east-texas-tonight-longview-professor-brings-consulting-experience-political-science-classroom/",
+          "chars": 226
+        }
+      }
+    },
+    {
+      "id": 2135,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Claves para que estrategias de grassroots generen confianza",
+      "has_text": true,
+      "url": "http://www.balancefinanciero.com.mx/detColumna.php?id=19525",
+      "source": "Parallels H-Sphere",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Claves para que estrategias de grassroots generen confianza http://www.balancefinanciero.com.mx/detColumna.php?id=19525",
+          "chars": 83
+        },
+        "bluesky": {
+          "text": "Claves para que estrategias de grassroots generen confianza http://www.balancefinanciero.com.mx/detColumna.php?id=19525",
+          "chars": 119
+        }
+      }
+    },
+    {
+      "id": 2134,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "Open to Debate: Will Generative AI Enhance or Stunt College Learning?",
+      "has_text": true,
+      "url": "https://www.realclearpolitics.com/video/2026/11/16/open_to_debate_will_generative_ai_enhance_or_stunt_college_learning.html",
+      "source": "RealClearPolitics",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Open to Debate: Will Generative AI Enhance or Stunt College Learning? https://www.realclearpolitics.com/video/2026/11/16/open_to_debate_will_generative_ai_enhance_or_stunt_college_learning.html",
+          "chars": 93
+        },
+        "bluesky": {
+          "text": "Open to Debate: Will Generative AI Enhance or Stunt College Learning? https://www.realclearpolitics.com/video/2026/11/16/open_to_debate_will_generative_ai_enhance_or_stunt_college_learning.html",
+          "chars": 193
+        }
+      }
+    },
+    {
+      "id": 2132,
+      "date": "2026-11-16",
+      "week_start": "2026-11-16",
+      "person_id": "louis-hyman",
+      "person": "Louis Hyman",
+      "is_ces": true,
+      "title": "Has the U.S. economy always been this reliant on consumer spending?",
+      "has_text": true,
+      "url": "https://www.marketplace.org/story/2026/11/16/has-consumer-spending-always-powered-the-us-economy",
+      "source": "Marketplace",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Has the U.S. economy always been this reliant on consumer spending? https://www.marketplace.org/story/2026/11/16/has-consumer-spending-always-powered-the-us-economy",
+          "chars": 91
+        },
+        "bluesky": {
+          "text": "Has the U.S. economy always been this reliant on consumer spending? https://www.marketplace.org/story/2026/11/16/has-consumer-spending-always-powered-the-us-economy",
+          "chars": 164
         }
       }
     },

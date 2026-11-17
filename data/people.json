@@ -115,14 +115,14 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 140,
-    "mentions_in_digest": 55,
-    "reach_proxy": 1344,
+    "mentions_total": 142,
+    "mentions_in_digest": 57,
+    "reach_proxy": 1346,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-11-13",
+    "last_mention_date": "2026-11-16",
     "sentiment": {
       "positive": 26,
-      "neutral": 39,
+      "neutral": 41,
       "negative": 3,
       "unknown": 72
     },
@@ -206,8 +206,8 @@
       },
       {
         "week_start": "2026-11-16",
-        "count": 0,
-        "reach": 0
+        "count": 2,
+        "reach": 2
       }
     ]
   },
@@ -223,14 +223,14 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 114,
-    "mentions_in_digest": 54,
-    "reach_proxy": 1262,
+    "mentions_total": 115,
+    "mentions_in_digest": 55,
+    "reach_proxy": 1263,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-11-11",
+    "last_mention_date": "2026-11-17",
     "sentiment": {
       "positive": 13,
-      "neutral": 17,
+      "neutral": 18,
       "negative": 8,
       "unknown": 76
     },
@@ -244,11 +244,11 @@
         "count": 13
       },
       {
-        "source": "YouTube",
-        "count": 5
+        "source": "Youtube",
+        "count": 6
       },
       {
-        "source": "Youtube",
+        "source": "YouTube",
         "count": 5
       },
       {
@@ -314,8 +314,8 @@
       },
       {
         "week_start": "2026-11-16",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -971,24 +971,24 @@
       "Core Faculty"
     ],
     "is_ces": false,
-    "mentions_total": 49,
+    "mentions_total": 50,
     "mentions_in_digest": 35,
-    "reach_proxy": 98,
+    "reach_proxy": 99,
     "first_mention_date": "2026-07-08",
-    "last_mention_date": "2026-11-09",
+    "last_mention_date": "2026-11-16",
     "sentiment": {
       "positive": 9,
       "neutral": 12,
       "negative": 1,
-      "unknown": 27
+      "unknown": 28
     },
     "top_sources": [
       {
-        "source": "Substack",
-        "count": 5
+        "source": "Twitter",
+        "count": 6
       },
       {
-        "source": "Twitter",
+        "source": "Substack",
         "count": 5
       },
       {
@@ -1062,8 +1062,8 @@
       },
       {
         "week_start": "2026-11-16",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -1924,6 +1924,112 @@
     ]
   },
   {
+    "id": "no-tracked-person",
+    "name": "(no tracked person)",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 30,
+    "mentions_in_digest": 0,
+    "reach_proxy": 156,
+    "first_mention_date": "2026-11-16",
+    "last_mention_date": "2026-11-17",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 30
+    },
+    "top_sources": [
+      {
+        "source": "EUROPE SAYS",
+        "count": 4
+      },
+      {
+        "source": "MSN Brasil",
+        "count": 2
+      },
+      {
+        "source": "Youtube",
+        "count": 2
+      },
+      {
+        "source": "Bridger Valley Pioneer",
+        "count": 1
+      },
+      {
+        "source": "Combo Infinito",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-26",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-16",
+        "count": 30,
+        "reach": 156
+      }
+    ]
+  },
+  {
     "id": "louis-hyman",
     "name": "Louis Hyman",
     "kind": "faculty",
@@ -1935,14 +2041,14 @@
       "Core Faculty"
     ],
     "is_ces": true,
-    "mentions_total": 27,
-    "mentions_in_digest": 14,
-    "reach_proxy": 45,
+    "mentions_total": 28,
+    "mentions_in_digest": 15,
+    "reach_proxy": 46,
     "first_mention_date": "2026-07-10",
-    "last_mention_date": "2026-10-24",
+    "last_mention_date": "2026-11-16",
     "sentiment": {
       "positive": 6,
-      "neutral": 10,
+      "neutral": 11,
       "negative": 0,
       "unknown": 11
     },
@@ -1964,8 +2070,8 @@
         "count": 2
       },
       {
-        "source": "ARCHYDE",
-        "count": 1
+        "source": "Marketplace",
+        "count": 2
       }
     ],
     "weekly": [
@@ -2026,8 +2132,8 @@
       },
       {
         "week_start": "2026-11-16",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -3308,6 +3414,114 @@
     ]
   },
   {
+    "id": "emily-white",
+    "name": "Emily White",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Fellow, Impact Concerts & Data",
+    "profile_url": "https://snfagora.jhu.edu/directory/emily-white/",
+    "photo_url": "images/people/emily-white.jpeg",
+    "categories": [
+      "Continuing Faculty + Fellows"
+    ],
+    "is_ces": false,
+    "mentions_total": 11,
+    "mentions_in_digest": 3,
+    "reach_proxy": 11,
+    "first_mention_date": "2026-07-17",
+    "last_mention_date": "2026-11-16",
+    "sentiment": {
+      "positive": 2,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 9
+    },
+    "top_sources": [
+      {
+        "source": "WAND-TV",
+        "count": 5
+      },
+      {
+        "source": "The Berkshire Edge",
+        "count": 2
+      },
+      {
+        "source": "LinkedIn",
+        "count": 1
+      },
+      {
+        "source": "Substack (Friday Power Lunch)",
+        "count": 1
+      },
+      {
+        "source": "Youtube",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-31",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-26",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-16",
+        "count": 2,
+        "reach": 2
+      }
+    ]
+  },
+  {
     "id": "namesake-noise-match-johns-hopkins-university-president",
     "name": "Namesake/noise match: Johns Hopkins, University President",
     "kind": "unmatched",
@@ -3624,114 +3838,6 @@
         "week_start": "2026-11-16",
         "count": 0,
         "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "emily-white",
-    "name": "Emily White",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Fellow, Impact Concerts & Data",
-    "profile_url": "https://snfagora.jhu.edu/directory/emily-white/",
-    "photo_url": "images/people/emily-white.jpeg",
-    "categories": [
-      "Continuing Faculty + Fellows"
-    ],
-    "is_ces": false,
-    "mentions_total": 10,
-    "mentions_in_digest": 3,
-    "reach_proxy": 10,
-    "first_mention_date": "2026-07-17",
-    "last_mention_date": "2026-11-16",
-    "sentiment": {
-      "positive": 2,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 8
-    },
-    "top_sources": [
-      {
-        "source": "WAND-TV",
-        "count": 5
-      },
-      {
-        "source": "The Berkshire Edge",
-        "count": 2
-      },
-      {
-        "source": "LinkedIn",
-        "count": 1
-      },
-      {
-        "source": "Substack (Friday Power Lunch)",
-        "count": 1
-      },
-      {
-        "source": "Youtube",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-08-31",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-19",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-26",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-11-02",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-11-09",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-11-16",
-        "count": 1,
-        "reach": 1
       }
     ]
   },
@@ -4056,6 +4162,114 @@
         "week_start": "2026-11-16",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "jeremy-wallace",
+    "name": "Jeremy Wallace",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Professor of China Studies at Johns Hopkins School of Advanced International Studies (SAIS)",
+    "profile_url": "https://snfagora.jhu.edu/directory/jeremy-wallace/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 9,
+    "mentions_in_digest": 5,
+    "reach_proxy": 23,
+    "first_mention_date": "2026-08-14",
+    "last_mention_date": "2026-11-17",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0,
+      "unknown": 6
+    },
+    "top_sources": [
+      {
+        "source": "Dissent Magazine",
+        "count": 2
+      },
+      {
+        "source": "The New Republic",
+        "count": 2
+      },
+      {
+        "source": "Carbon Brief",
+        "count": 1
+      },
+      {
+        "source": "National Committee on U.S.-China Relations (NCUSCR)",
+        "count": 1
+      },
+      {
+        "source": "Twitter",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 3,
+        "reach": 8
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-26",
+        "count": 1,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-11-02",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-11-16",
+        "count": 1,
+        "reach": 9
       }
     ]
   },
@@ -4580,114 +4794,6 @@
         "week_start": "2026-11-02",
         "count": 0,
         "reach": 0
-      },
-      {
-        "week_start": "2026-11-09",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-11-16",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "jeremy-wallace",
-    "name": "Jeremy Wallace",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Professor of China Studies at Johns Hopkins School of Advanced International Studies (SAIS)",
-    "profile_url": "https://snfagora.jhu.edu/directory/jeremy-wallace/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 8,
-    "mentions_in_digest": 5,
-    "reach_proxy": 14,
-    "first_mention_date": "2026-08-14",
-    "last_mention_date": "2026-11-14",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 3,
-      "negative": 0,
-      "unknown": 5
-    },
-    "top_sources": [
-      {
-        "source": "Dissent Magazine",
-        "count": 2
-      },
-      {
-        "source": "The New Republic",
-        "count": 2
-      },
-      {
-        "source": "Carbon Brief",
-        "count": 1
-      },
-      {
-        "source": "National Committee on U.S.-China Relations (NCUSCR)",
-        "count": 1
-      },
-      {
-        "source": "WUNC",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 3,
-        "reach": 8
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-19",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-26",
-        "count": 1,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-11-02",
-        "count": 1,
-        "reach": 1
       },
       {
         "week_start": "2026-11-09",

@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-16T07:04:45-05:00",
-  "count": 101,
+  "generated_at": "2026-11-17T07:05:02-05:00",
+  "count": 102,
   "picks": [
+    {
+      "id": 120,
+      "mention_id": 2132,
+      "digest_date": "2026-11-16",
+      "person": "Louis Hyman",
+      "person_id": "louis-hyman",
+      "person_ids": [
+        "louis-hyman"
+      ],
+      "is_ces": true,
+      "punchy_title": "Consumers or businesses: who has really powered the U.S. economy?",
+      "headline": "Consumers or businesses: who has really powered the U.S. economy?",
+      "pull_quote": "back to the 19th century, the big spenders are businesses",
+      "rationale": "back to the 19th century, the big spenders are businesses",
+      "url": "https://www.marketplace.org/story/2026/11/16/has-consumer-spending-always-powered-the-us-economy",
+      "story_url": "https://www.marketplace.org/story/2026/11/16/has-consumer-spending-always-powered-the-us-economy",
+      "created_at": "2026-11-17 12:05:01",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Has the U.S. economy always leaned on consumer spending? Louis Hyman tells Marketplace that going back to the 19th century, the big spenders are businesses. https://www.marketplace.org/story/2026/11/16/has-consumer-spending-always-powered-the-us-economy",
+          "chars": 253,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Has%20the%20U.S.%20economy%20always%20leaned%20on%20consumer%20spending%3F%20Louis%20Hyman%20tells%20Marketplace%20that%20going%20back%20to%20the%2019th%20century%2C%20the%20big%20spenders%20are%20businesses.%20https%3A//www.marketplace.org/story/2026/11/16/has-consumer-spending-always-powered-the-us-economy"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Has the U.S. economy always leaned on consumer spending? Louis Hyman tells Marketplace that going back to the 19th century, the big spenders are businesses. https://www.marketplace.org/story/2026/11/16/has-consumer-spending-always-powered-the-us-economy",
+          "chars": 253,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Has%20the%20U.S.%20economy%20always%20leaned%20on%20consumer%20spending%3F%20Louis%20Hyman%20tells%20Marketplace%20that%20going%20back%20to%20the%2019th%20century%2C%20the%20big%20spenders%20are%20businesses.%20https%3A//www.marketplace.org/story/2026/11/16/has-consumer-spending-always-powered-the-us-economy"
+        }
+      ]
+    },
     {
       "id": 119,
       "mention_id": 2074,
