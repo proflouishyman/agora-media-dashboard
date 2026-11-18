@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-17T07:05:02-05:00",
+  "generated_at": "2026-11-18T07:05:37-05:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-11-17"
+    "end": "2026-11-18"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 2158,
-        "in_digest": 478,
-        "reach_proxy": 13154,
-        "people_covered": 224,
+        "mentions": 2169,
+        "in_digest": 484,
+        "reach_proxy": 13168,
+        "people_covered": 225,
         "people_tracked": 100,
-        "sources": 853,
+        "sources": 855,
         "negative": 17
       },
       "deltas": {
@@ -1006,9 +1006,16 @@
         },
         {
           "date": "2026-11-17",
-          "count": 9,
-          "reach": 134,
-          "in_digest": 1,
+          "count": 19,
+          "reach": 147,
+          "in_digest": 7,
+          "observed": true
+        },
+        {
+          "date": "2026-11-18",
+          "count": 1,
+          "reach": 1,
+          "in_digest": 0,
           "observed": true
         }
       ],
@@ -1275,23 +1282,23 @@
         },
         {
           "week_start": "2026-11-16",
-          "count": 48,
-          "reach": 208,
-          "in_digest": 6,
-          "people": 15,
+          "count": 59,
+          "reach": 222,
+          "in_digest": 12,
+          "people": 20,
           "sentiment": {
-            "positive": 1,
-            "neutral": 4,
+            "positive": 4,
+            "neutral": 5,
             "negative": 0,
-            "unknown": 43
+            "unknown": 50
           }
         }
       ],
       "sentiment": {
-        "positive": 134,
-        "neutral": 233,
+        "positive": 137,
+        "neutral": 234,
         "negative": 17,
-        "unknown": 1774
+        "unknown": 1781
       },
       "top_people": [
         {
@@ -1304,15 +1311,15 @@
         {
           "person_id": "snf-agora-institute",
           "name": "SNF Agora Institute",
-          "count": 142,
-          "reach": 1346,
+          "count": 144,
+          "reach": 1348,
           "is_ces": false
         },
         {
           "person_id": "anne-applebaum",
           "name": "Anne Applebaum",
-          "count": 115,
-          "reach": 1263,
+          "count": 118,
+          "reach": 1266,
           "is_ces": false
         },
         {
@@ -1344,18 +1351,18 @@
           "is_ces": false
         },
         {
+          "person_id": "henry-farrell",
+          "name": "Henry Farrell",
+          "count": 56,
+          "reach": 102,
+          "is_ces": true
+        },
+        {
           "person_id": "yascha-mounk",
           "name": "Yascha Mounk",
           "count": 56,
           "reach": 247,
           "is_ces": false
-        },
-        {
-          "person_id": "henry-farrell",
-          "name": "Henry Farrell",
-          "count": 55,
-          "reach": 101,
-          "is_ces": true
         },
         {
           "person_id": "lilliana-mason",
@@ -1368,20 +1375,20 @@
       "top_sources": [
         {
           "source": "Twitter",
-          "count": 346,
-          "reach": 6264,
+          "count": 348,
+          "reach": 6266,
           "is_other": false
         },
         {
           "source": "Youtube",
-          "count": 177,
-          "reach": 185,
+          "count": 178,
+          "reach": 186,
           "is_other": false
         },
         {
           "source": "LinkedIn",
-          "count": 62,
-          "reach": 65,
+          "count": 63,
+          "reach": 66,
           "is_other": false
         },
         {
@@ -1398,8 +1405,8 @@
         },
         {
           "source": "Substack",
-          "count": 50,
-          "reach": 63,
+          "count": 52,
+          "reach": 65,
           "is_other": false
         },
         {
@@ -1416,19 +1423,19 @@
         },
         {
           "source": "Other",
-          "count": 1345,
-          "reach": 6381,
+          "count": 1350,
+          "reach": 6389,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 1226
+          "count": 1231
         },
         {
           "source_type": "social network",
-          "count": 382
+          "count": 386
         },
         {
           "source_type": "blog",
@@ -1436,7 +1443,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 466
+          "count": 468
         }
       ],
       "negative_stories": [
@@ -1473,21 +1480,21 @@
           "row_label": "SNF Agora Institute",
           "person_id": "snf-agora-institute",
           "is_ces": false,
-          "positive": 26,
-          "neutral": 41,
+          "positive": 27,
+          "neutral": 42,
           "negative": 3,
           "unknown": 72,
-          "total": 142
+          "total": 144
         },
         {
           "row_label": "Anne Applebaum",
           "person_id": "anne-applebaum",
           "is_ces": false,
-          "positive": 13,
+          "positive": 14,
           "neutral": 18,
           "negative": 8,
-          "unknown": 76,
-          "total": 115
+          "unknown": 78,
+          "total": 118
         },
         {
           "row_label": "unknown",
@@ -1530,6 +1537,16 @@
           "total": 61
         },
         {
+          "row_label": "Henry Farrell",
+          "person_id": "henry-farrell",
+          "is_ces": true,
+          "positive": 5,
+          "neutral": 14,
+          "negative": 1,
+          "unknown": 36,
+          "total": 56
+        },
+        {
           "row_label": "Yascha Mounk",
           "person_id": "yascha-mounk",
           "is_ces": false,
@@ -1538,16 +1555,6 @@
           "negative": 2,
           "unknown": 35,
           "total": 56
-        },
-        {
-          "row_label": "Henry Farrell",
-          "person_id": "henry-farrell",
-          "is_ces": true,
-          "positive": 5,
-          "neutral": 14,
-          "negative": 1,
-          "unknown": 35,
-          "total": 55
         },
         {
           "row_label": "Lilliana Mason",
@@ -1580,6 +1587,16 @@
           "total": 39
         },
         {
+          "row_label": "Yuen Yuen Ang",
+          "person_id": "yuen-yuen-ang",
+          "is_ces": true,
+          "positive": 6,
+          "neutral": 10,
+          "negative": 0,
+          "unknown": 20,
+          "total": 36
+        },
+        {
           "row_label": "Hahrie Han",
           "person_id": "hahrie-han",
           "is_ces": false,
@@ -1597,16 +1614,6 @@
           "neutral": 0,
           "negative": 0,
           "unknown": 35,
-          "total": 35
-        },
-        {
-          "row_label": "Yuen Yuen Ang",
-          "person_id": "yuen-yuen-ang",
-          "is_ces": true,
-          "positive": 6,
-          "neutral": 10,
-          "negative": 0,
-          "unknown": 19,
           "total": 35
         },
         {
@@ -1633,11 +1640,11 @@
           "row_label": "Scott Warren",
           "person_id": "scott-warren",
           "is_ces": false,
-          "positive": 6,
+          "positive": 7,
           "neutral": 9,
           "negative": 0,
           "unknown": 16,
-          "total": 31
+          "total": 32
         },
         {
           "row_label": "(no tracked person)",
@@ -1780,6 +1787,16 @@
           "total": 12
         },
         {
+          "row_label": "Eliot Cohen",
+          "person_id": "eliot-cohen",
+          "is_ces": false,
+          "positive": 4,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 7,
+          "total": 11
+        },
+        {
           "row_label": "Emily White",
           "person_id": "emily-white",
           "is_ces": false,
@@ -1810,16 +1827,6 @@
           "total": 10
         },
         {
-          "row_label": "Eliot Cohen",
-          "person_id": "eliot-cohen",
-          "is_ces": false,
-          "positive": 4,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 6,
-          "total": 10
-        },
-        {
           "row_label": "Eugene Scott",
           "person_id": "eugene-scott",
           "is_ces": false,
@@ -1827,6 +1834,16 @@
           "neutral": 5,
           "negative": 0,
           "unknown": 4,
+          "total": 10
+        },
+        {
+          "row_label": "Jeremy Wallace",
+          "person_id": "jeremy-wallace",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 3,
+          "negative": 0,
+          "unknown": 7,
           "total": 10
         },
         {
@@ -1848,16 +1865,6 @@
           "negative": 0,
           "unknown": 5,
           "total": 10
-        },
-        {
-          "row_label": "Jeremy Wallace",
-          "person_id": "jeremy-wallace",
-          "is_ces": false,
-          "positive": 0,
-          "neutral": 3,
-          "negative": 0,
-          "unknown": 6,
-          "total": 9
         },
         {
           "row_label": "Namesake/noise match: Hopkins, Agora",
@@ -2682,6 +2689,16 @@
         {
           "row_label": "Denise Dresser (namesake: OpenAI chief revenue officer, not the SNF Agora affiliate)",
           "person_id": "denise-dresser-namesake-openai-chief-revenue-officer-not-the-snf-agora-affiliate",
+          "is_ces": false,
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 1,
+          "total": 1
+        },
+        {
+          "row_label": "Eliana Perrin",
+          "person_id": "eliana-perrin",
           "is_ces": false,
           "positive": 0,
           "neutral": 0,
@@ -3703,19 +3720,19 @@
       "source_type_sentiment_crosstab": [
         {
           "row_label": "online news",
-          "positive": 44,
-          "neutral": 140,
+          "positive": 45,
+          "neutral": 141,
           "negative": 5,
-          "unknown": 1037,
-          "total": 1226
+          "unknown": 1040,
+          "total": 1231
         },
         {
           "row_label": "social network",
-          "positive": 57,
+          "positive": 59,
           "neutral": 72,
           "negative": 1,
-          "unknown": 252,
-          "total": 382
+          "unknown": 254,
+          "total": 386
         },
         {
           "row_label": "blog",
@@ -3730,8 +3747,8 @@
           "positive": 24,
           "neutral": 12,
           "negative": 10,
-          "unknown": 420,
-          "total": 466
+          "unknown": 422,
+          "total": 468
         }
       ],
       "sentiment_examples": {
@@ -3953,6 +3970,36 @@
         },
         "positive": {
           "stories": [
+            {
+              "id": 2174,
+              "person": "SNF Agora Institute",
+              "person_id": "snf-agora-institute",
+              "is_ces": false,
+              "title": "False Binary Alert: Liberalism vs. Illiberalism",
+              "url": "https://radicalmoderatesguide.substack.com/p/false-binary-alert-liberalism-vs",
+              "source": "Substack",
+              "date": "2026-11-17"
+            },
+            {
+              "id": 2172,
+              "person": "Scott Warren",
+              "person_id": "scott-warren",
+              "is_ces": false,
+              "title": "LinkedIn post on Understanding this Moment of Generational Change panel",
+              "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7528496601846312963",
+              "source": "LinkedIn",
+              "date": "2026-11-17"
+            },
+            {
+              "id": 2171,
+              "person": "Anne Applebaum",
+              "person_id": "anne-applebaum",
+              "is_ces": false,
+              "title": "The Future of the Ukrainian State and Europe in General | A Conversation with Anne Applebaum",
+              "url": "https://www.youtube.com/watch?v=wAU_WcnB5vk",
+              "source": "YouTube",
+              "date": "2026-11-17"
+            },
             {
               "id": 2121,
               "person": "Emily White",
@@ -5301,7 +5348,7 @@
             },
             {
               "keyphrase": "democracy",
-              "count": 11
+              "count": 12
             },
             {
               "keyphrase": "author",
@@ -5310,6 +5357,14 @@
             {
               "keyphrase": "book",
               "count": 8
+            },
+            {
+              "keyphrase": "country",
+              "count": 6
+            },
+            {
+              "keyphrase": "person",
+              "count": 6
             },
             {
               "keyphrase": "campus",
@@ -5326,14 +5381,6 @@
             {
               "keyphrase": "civic engagement",
               "count": 6
-            },
-            {
-              "keyphrase": "person",
-              "count": 5
-            },
-            {
-              "keyphrase": "community",
-              "count": 5
             }
           ]
         }
@@ -5341,12 +5388,12 @@
     },
     "ces": {
       "totals": {
-        "mentions": 147,
-        "in_digest": 104,
-        "reach_proxy": 248,
+        "mentions": 149,
+        "in_digest": 105,
+        "reach_proxy": 253,
         "people_covered": 11,
         "people_tracked": 17,
-        "sources": 84,
+        "sources": 86,
         "negative": 1
       },
       "deltas": {
@@ -6340,8 +6387,15 @@
         },
         {
           "date": "2026-11-17",
-          "count": 0,
-          "reach": 0,
+          "count": 1,
+          "reach": 4,
+          "in_digest": 1,
+          "observed": true
+        },
+        {
+          "date": "2026-11-18",
+          "count": 1,
+          "reach": 1,
           "in_digest": 0,
           "observed": true
         }
@@ -6609,15 +6663,15 @@
         },
         {
           "week_start": "2026-11-16",
-          "count": 1,
-          "reach": 1,
-          "in_digest": 1,
-          "people": 1,
+          "count": 3,
+          "reach": 6,
+          "in_digest": 2,
+          "people": 3,
           "sentiment": {
             "positive": 0,
             "neutral": 1,
             "negative": 0,
-            "unknown": 0
+            "unknown": 2
           }
         }
       ],
@@ -6625,21 +6679,21 @@
         "positive": 23,
         "neutral": 42,
         "negative": 1,
-        "unknown": 81
+        "unknown": 83
       },
       "top_people": [
         {
           "person_id": "henry-farrell",
           "name": "Henry Farrell",
-          "count": 55,
-          "reach": 101,
+          "count": 56,
+          "reach": 102,
           "is_ces": true
         },
         {
           "person_id": "yuen-yuen-ang",
           "name": "Yuen Yuen Ang",
-          "count": 35,
-          "reach": 58,
+          "count": 36,
+          "reach": 62,
           "is_ces": true
         },
         {
@@ -6750,19 +6804,19 @@
         },
         {
           "source": "Other",
-          "count": 88,
-          "reach": 159,
+          "count": 90,
+          "reach": 164,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 77
+          "count": 78
         },
         {
           "source_type": "social network",
-          "count": 24
+          "count": 25
         },
         {
           "source_type": "blog",
@@ -6784,8 +6838,8 @@
           "positive": 5,
           "neutral": 14,
           "negative": 1,
-          "unknown": 35,
-          "total": 55
+          "unknown": 36,
+          "total": 56
         },
         {
           "row_label": "Yuen Yuen Ang",
@@ -6794,8 +6848,8 @@
           "positive": 6,
           "neutral": 10,
           "negative": 0,
-          "unknown": 19,
-          "total": 35
+          "unknown": 20,
+          "total": 36
         },
         {
           "row_label": "Louis Hyman",
@@ -6894,16 +6948,16 @@
           "positive": 13,
           "neutral": 26,
           "negative": 1,
-          "unknown": 37,
-          "total": 77
+          "unknown": 38,
+          "total": 78
         },
         {
           "row_label": "social network",
           "positive": 4,
           "neutral": 13,
           "negative": 0,
-          "unknown": 7,
-          "total": 24
+          "unknown": 8,
+          "total": 25
         },
         {
           "row_label": "blog",

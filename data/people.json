@@ -115,14 +115,14 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 142,
-    "mentions_in_digest": 57,
-    "reach_proxy": 1346,
+    "mentions_total": 144,
+    "mentions_in_digest": 59,
+    "reach_proxy": 1348,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-11-16",
+    "last_mention_date": "2026-11-17",
     "sentiment": {
-      "positive": 26,
-      "neutral": 41,
+      "positive": 27,
+      "neutral": 42,
       "negative": 3,
       "unknown": 72
     },
@@ -144,7 +144,7 @@
         "count": 5
       },
       {
-        "source": "Medium",
+        "source": "Baltimore Fishbowl",
         "count": 4
       }
     ],
@@ -206,8 +206,8 @@
       },
       {
         "week_start": "2026-11-16",
-        "count": 2,
-        "reach": 2
+        "count": 4,
+        "reach": 4
       }
     ]
   },
@@ -223,16 +223,16 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 115,
-    "mentions_in_digest": 55,
-    "reach_proxy": 1263,
+    "mentions_total": 118,
+    "mentions_in_digest": 57,
+    "reach_proxy": 1266,
     "first_mention_date": "2026-07-02",
     "last_mention_date": "2026-11-17",
     "sentiment": {
-      "positive": 13,
+      "positive": 14,
       "neutral": 18,
       "negative": 8,
-      "unknown": 76
+      "unknown": 78
     },
     "top_sources": [
       {
@@ -241,15 +241,15 @@
       },
       {
         "source": "Substack",
-        "count": 13
+        "count": 14
       },
       {
         "source": "Youtube",
-        "count": 6
+        "count": 7
       },
       {
         "source": "YouTube",
-        "count": 5
+        "count": 6
       },
       {
         "source": "Gazeta Wyborcza",
@@ -314,8 +314,8 @@
       },
       {
         "week_start": "2026-11-16",
-        "count": 1,
-        "reach": 1
+        "count": 4,
+        "reach": 4
       }
     ]
   },
@@ -744,6 +744,114 @@
     ]
   },
   {
+    "id": "henry-farrell",
+    "name": "Henry Farrell",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Institute Professor of International Affairs at SAIS",
+    "profile_url": "https://snfagora.jhu.edu/directory/henry-farrell/",
+    "photo_url": null,
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": true,
+    "mentions_total": 56,
+    "mentions_in_digest": 41,
+    "reach_proxy": 102,
+    "first_mention_date": "2026-07-04",
+    "last_mention_date": "2026-11-18",
+    "sentiment": {
+      "positive": 5,
+      "neutral": 14,
+      "negative": 1,
+      "unknown": 36
+    },
+    "top_sources": [
+      {
+        "source": "The New York Times",
+        "count": 6
+      },
+      {
+        "source": "Youtube",
+        "count": 6
+      },
+      {
+        "source": "Twitter",
+        "count": 5
+      },
+      {
+        "source": "Substack",
+        "count": 3
+      },
+      {
+        "source": "Folha de S.Paulo",
+        "count": 2
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-31",
+        "count": 15,
+        "reach": 34
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 4,
+        "reach": 4
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 4,
+        "reach": 15
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 2,
+        "reach": 4
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 4,
+        "reach": 14
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 2,
+        "reach": 4
+      },
+      {
+        "week_start": "2026-10-26",
+        "count": 2,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-11-02",
+        "count": 2,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-11-16",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "yascha-mounk",
     "name": "Yascha Mounk",
     "kind": "faculty",
@@ -843,114 +951,6 @@
         "week_start": "2026-11-09",
         "count": 1,
         "reach": 3
-      },
-      {
-        "week_start": "2026-11-16",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "henry-farrell",
-    "name": "Henry Farrell",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Institute Professor of International Affairs at SAIS",
-    "profile_url": "https://snfagora.jhu.edu/directory/henry-farrell/",
-    "photo_url": null,
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": true,
-    "mentions_total": 55,
-    "mentions_in_digest": 41,
-    "reach_proxy": 101,
-    "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-11-13",
-    "sentiment": {
-      "positive": 5,
-      "neutral": 14,
-      "negative": 1,
-      "unknown": 35
-    },
-    "top_sources": [
-      {
-        "source": "The New York Times",
-        "count": 6
-      },
-      {
-        "source": "Youtube",
-        "count": 6
-      },
-      {
-        "source": "Twitter",
-        "count": 5
-      },
-      {
-        "source": "Substack",
-        "count": 3
-      },
-      {
-        "source": "Folha de S.Paulo",
-        "count": 2
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-08-31",
-        "count": 15,
-        "reach": 34
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 4,
-        "reach": 4
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 4,
-        "reach": 15
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 2,
-        "reach": 4
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 4,
-        "reach": 14
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-10-19",
-        "count": 2,
-        "reach": 4
-      },
-      {
-        "week_start": "2026-10-26",
-        "count": 2,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-11-02",
-        "count": 2,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-11-09",
-        "count": 2,
-        "reach": 2
       },
       {
         "week_start": "2026-11-16",
@@ -1282,6 +1282,114 @@
     ]
   },
   {
+    "id": "yuen-yuen-ang",
+    "name": "Yuen Yuen Ang",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Alfred Chandler Chair Professor of Political Economy",
+    "profile_url": "https://snfagora.jhu.edu/directory/yuen-yuen-ang/",
+    "photo_url": "images/people/yuen-yuen-ang.jpg",
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": true,
+    "mentions_total": 36,
+    "mentions_in_digest": 28,
+    "reach_proxy": 62,
+    "first_mention_date": "2026-07-04",
+    "last_mention_date": "2026-11-17",
+    "sentiment": {
+      "positive": 6,
+      "neutral": 10,
+      "negative": 0,
+      "unknown": 20
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 5
+      },
+      {
+        "source": "YouTube",
+        "count": 3
+      },
+      {
+        "source": "Head Topics",
+        "count": 2
+      },
+      {
+        "source": "Revista Fórum",
+        "count": 2
+      },
+      {
+        "source": "Asia Times",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 2,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-10-26",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-16",
+        "count": 1,
+        "reach": 4
+      }
+    ]
+  },
+  {
     "id": "hahrie-han",
     "name": "Hahrie Han",
     "kind": "faculty",
@@ -1487,114 +1595,6 @@
         "week_start": "2026-11-09",
         "count": 9,
         "reach": 10
-      },
-      {
-        "week_start": "2026-11-16",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "yuen-yuen-ang",
-    "name": "Yuen Yuen Ang",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Alfred Chandler Chair Professor of Political Economy",
-    "profile_url": "https://snfagora.jhu.edu/directory/yuen-yuen-ang/",
-    "photo_url": "images/people/yuen-yuen-ang.jpg",
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": true,
-    "mentions_total": 35,
-    "mentions_in_digest": 27,
-    "reach_proxy": 58,
-    "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-10-29",
-    "sentiment": {
-      "positive": 6,
-      "neutral": 10,
-      "negative": 0,
-      "unknown": 19
-    },
-    "top_sources": [
-      {
-        "source": "Twitter",
-        "count": 5
-      },
-      {
-        "source": "YouTube",
-        "count": 3
-      },
-      {
-        "source": "Head Topics",
-        "count": 2
-      },
-      {
-        "source": "Revista Fórum",
-        "count": 2
-      },
-      {
-        "source": "Asia Times",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-19",
-        "count": 2,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-10-26",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-11-02",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-11-09",
-        "count": 0,
-        "reach": 0
       },
       {
         "week_start": "2026-11-16",
@@ -1827,13 +1827,13 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 31,
-    "mentions_in_digest": 22,
-    "reach_proxy": 2960,
+    "mentions_total": 32,
+    "mentions_in_digest": 23,
+    "reach_proxy": 2961,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-11-09",
+    "last_mention_date": "2026-11-17",
     "sentiment": {
-      "positive": 6,
+      "positive": 7,
       "neutral": 9,
       "negative": 0,
       "unknown": 16
@@ -1841,7 +1841,7 @@
     "top_sources": [
       {
         "source": "LinkedIn",
-        "count": 6
+        "count": 7
       },
       {
         "source": "Twitter",
@@ -1918,8 +1918,8 @@
       },
       {
         "week_start": "2026-11-16",
-        "count": 0,
-        "reach": 0
+        "count": 1,
+        "reach": 1
       }
     ]
   },
@@ -3414,6 +3414,112 @@
     ]
   },
   {
+    "id": "eliot-cohen",
+    "name": "Eliot Cohen",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 11,
+    "mentions_in_digest": 6,
+    "reach_proxy": 12,
+    "first_mention_date": "2026-08-01",
+    "last_mention_date": "2026-11-17",
+    "sentiment": {
+      "positive": 4,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 7
+    },
+    "top_sources": [
+      {
+        "source": "Substack",
+        "count": 2
+      },
+      {
+        "source": "Bambaram di Padida",
+        "count": 1
+      },
+      {
+        "source": "Civitas Institute",
+        "count": 1
+      },
+      {
+        "source": "Civitas Outlook",
+        "count": 1
+      },
+      {
+        "source": "Gazeta do Povo",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-26",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-11-16",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "emily-white",
     "name": "Emily White",
     "kind": "faculty",
@@ -3736,112 +3842,6 @@
     ]
   },
   {
-    "id": "eliot-cohen",
-    "name": "Eliot Cohen",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 10,
-    "mentions_in_digest": 6,
-    "reach_proxy": 11,
-    "first_mention_date": "2026-08-01",
-    "last_mention_date": "2026-11-09",
-    "sentiment": {
-      "positive": 4,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 6
-    },
-    "top_sources": [
-      {
-        "source": "Substack",
-        "count": 2
-      },
-      {
-        "source": "Bambaram di Padida",
-        "count": 1
-      },
-      {
-        "source": "Civitas Institute",
-        "count": 1
-      },
-      {
-        "source": "Civitas Outlook",
-        "count": 1
-      },
-      {
-        "source": "Gazeta do Povo",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-19",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-10-26",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-11-02",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-11-09",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-11-16",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
     "id": "eugene-scott",
     "name": "Eugene Scott",
     "kind": "faculty",
@@ -3946,6 +3946,114 @@
         "week_start": "2026-11-16",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "jeremy-wallace",
+    "name": "Jeremy Wallace",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Professor of China Studies at Johns Hopkins School of Advanced International Studies (SAIS)",
+    "profile_url": "https://snfagora.jhu.edu/directory/jeremy-wallace/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 10,
+    "mentions_in_digest": 5,
+    "reach_proxy": 24,
+    "first_mention_date": "2026-08-14",
+    "last_mention_date": "2026-11-17",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0,
+      "unknown": 7
+    },
+    "top_sources": [
+      {
+        "source": "Dissent Magazine",
+        "count": 2
+      },
+      {
+        "source": "The New Republic",
+        "count": 2
+      },
+      {
+        "source": "Twitter",
+        "count": 2
+      },
+      {
+        "source": "Carbon Brief",
+        "count": 1
+      },
+      {
+        "source": "National Committee on U.S.-China Relations (NCUSCR)",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 3,
+        "reach": 8
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-26",
+        "count": 1,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-11-02",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-11-16",
+        "count": 2,
+        "reach": 10
       }
     ]
   },
@@ -4162,114 +4270,6 @@
         "week_start": "2026-11-16",
         "count": 0,
         "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "jeremy-wallace",
-    "name": "Jeremy Wallace",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Professor of China Studies at Johns Hopkins School of Advanced International Studies (SAIS)",
-    "profile_url": "https://snfagora.jhu.edu/directory/jeremy-wallace/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 9,
-    "mentions_in_digest": 5,
-    "reach_proxy": 23,
-    "first_mention_date": "2026-08-14",
-    "last_mention_date": "2026-11-17",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 3,
-      "negative": 0,
-      "unknown": 6
-    },
-    "top_sources": [
-      {
-        "source": "Dissent Magazine",
-        "count": 2
-      },
-      {
-        "source": "The New Republic",
-        "count": 2
-      },
-      {
-        "source": "Carbon Brief",
-        "count": 1
-      },
-      {
-        "source": "National Committee on U.S.-China Relations (NCUSCR)",
-        "count": 1
-      },
-      {
-        "source": "Twitter",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 3,
-        "reach": 8
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-19",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-26",
-        "count": 1,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-11-02",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-11-09",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-11-16",
-        "count": 1,
-        "reach": 9
       }
     ]
   },
@@ -12342,6 +12342,96 @@
         "week_start": "2026-11-16",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "eliana-perrin",
+    "name": "Eliana Perrin",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 1,
+    "mentions_in_digest": 0,
+    "reach_proxy": 1,
+    "first_mention_date": "2026-11-17",
+    "last_mention_date": "2026-11-17",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 1
+    },
+    "top_sources": [
+      {
+        "source": "Newswise",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-26",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-16",
+        "count": 1,
+        "reach": 1
       }
     ]
   },

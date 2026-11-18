@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-17T07:05:02-05:00",
-  "count": 102,
+  "generated_at": "2026-11-18T07:05:37-05:00",
+  "count": 103,
   "picks": [
+    {
+      "id": 121,
+      "mention_id": 2169,
+      "digest_date": "2026-11-17",
+      "person": "Yuen Yuen Ang",
+      "person_id": "yuen-yuen-ang",
+      "person_ids": [
+        "yuen-yuen-ang"
+      ],
+      "is_ces": true,
+      "punchy_title": "Yuen Yuen Ang on why Xi’s APEC moment is shadowed by a new normal",
+      "headline": "Yuen Yuen Ang on why Xi’s APEC moment is shadowed by a new normal",
+      "pull_quote": "geoeconomic competition has become the new normal",
+      "rationale": "geoeconomic competition has become the new normal",
+      "url": "https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html",
+      "story_url": "https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html",
+      "created_at": "2026-11-18 12:04:48",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Johns Hopkins political economist Yuen Yuen Ang in the NYT on Xi's APEC moment: \"geoeconomic competition has become the new normal.\" https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html",
+          "chars": 191,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Johns%20Hopkins%20political%20economist%20Yuen%20Yuen%20Ang%20in%20the%20NYT%20on%20Xi%27s%20APEC%20moment%3A%20%22geoeconomic%20competition%20has%20become%20the%20new%20normal.%22%20https%3A//www.nytimes.com/2026/11/17/world/asia/xi-apec.html"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Johns Hopkins political economist Yuen Yuen Ang in the NYT on Xi's APEC moment: \"geoeconomic competition has become the new normal.\" https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html",
+          "chars": 191,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Johns%20Hopkins%20political%20economist%20Yuen%20Yuen%20Ang%20in%20the%20NYT%20on%20Xi%27s%20APEC%20moment%3A%20%22geoeconomic%20competition%20has%20become%20the%20new%20normal.%22%20https%3A//www.nytimes.com/2026/11/17/world/asia/xi-apec.html"
+        }
+      ]
+    },
     {
       "id": 120,
       "mention_id": 2132,

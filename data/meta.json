@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-17T07:05:02-05:00",
-  "generated_date": "2026-11-17",
+  "generated_at": "2026-11-18T07:05:37-05:00",
+  "generated_date": "2026-11-18",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-11-17",
+    "last_mention_date": "2026-11-18",
     "observed_dates": [
       "2026-07-02",
       "2026-07-03",
@@ -143,10 +143,11 @@
       "2026-11-14",
       "2026-11-15",
       "2026-11-16",
-      "2026-11-17"
+      "2026-11-17",
+      "2026-11-18"
     ],
-    "total_mentions": 2158,
-    "total_raw_documents": 13856,
+    "total_mentions": 2169,
+    "total_raw_documents": 14346,
     "total_tracked_people": 100,
     "total_ces_people": 17
   },
@@ -154,19 +155,19 @@
     "all": {
       "label": "SNF Agora Institute",
       "people": 100,
-      "mentions": 2158
+      "mentions": 2169
     },
     "ces": {
       "label": "Center for Economy and Society",
       "people": 17,
-      "mentions": 147
+      "mentions": 149
     }
   },
   "data_quality": {
-    "mentions_missing_url": 389,
+    "mentions_missing_url": 391,
     "mentions_no_text_captured": 90,
-    "mentions_sentiment_unknown": 1774,
-    "mentions_shareable": 1750,
+    "mentions_sentiment_unknown": 1781,
+    "mentions_shareable": 1759,
     "unmatched_persons": [
       {
         "person": "Johns Hopkins",
@@ -233,12 +234,12 @@
         "mentions": 12
       },
       {
-        "person": "Namesake/noise match: Johns Hopkins, University President",
+        "person": "Eliot Cohen",
         "mentions": 11
       },
       {
-        "person": "Eliot Cohen",
-        "mentions": 10
+        "person": "Namesake/noise match: Johns Hopkins, University President",
+        "mentions": 11
       },
       {
         "person": "Namesake/noise match: Hopkins, Agora",
@@ -470,6 +471,10 @@
       },
       {
         "person": "Denise Dresser (namesake: OpenAI chief revenue officer, not the SNF Agora affiliate)",
+        "mentions": 1
+      },
+      {
+        "person": "Eliana Perrin",
         "mentions": 1
       },
       {

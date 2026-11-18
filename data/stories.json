@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T07:05:02-05:00",
-  "count": 2158,
+  "generated_at": "2026-11-18T07:05:37-05:00",
+  "count": 2169,
   "stories": [
+    {
+      "id": 2177,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "(no text) Reddit comment",
+      "has_text": true,
+      "url": "https://www.reddit.com/r/slasherfilms/comments/1xz36yj/comment/19sswva2mdhj8/",
+      "source": "reddit.com/r/slasherfilms",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "(no text) Reddit comment https://www.reddit.com/r/slasherfilms/comments/1xz36yj/comment/19sswva2mdhj8/",
+          "chars": 48
+        },
+        "bluesky": {
+          "text": "(no text) Reddit comment https://www.reddit.com/r/slasherfilms/comments/1xz36yj/comment/19sswva2mdhj8/",
+          "chars": 102
+        }
+      }
+    },
     {
       "id": 2136,
       "date": "2026-11-17",
@@ -35,6 +61,32 @@
       "entity_sentiment": "unknown",
       "in_digest": false,
       "share": null
+    },
+    {
+      "id": 2169,
+      "date": "2026-11-17",
+      "week_start": "2026-11-16",
+      "person_id": "yuen-yuen-ang",
+      "person": "Yuen Yuen Ang",
+      "is_ces": true,
+      "title": "Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi's Big Moment?",
+      "has_text": true,
+      "url": "https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html",
+      "source": "New York Times",
+      "source_type": "online news",
+      "similar_mention_count": 4,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi's Big Moment? https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html",
+          "chars": 101
+        },
+        "bluesky": {
+          "text": "Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi's Big Moment? https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html",
+          "chars": 136
+        }
+      }
     },
     {
       "id": 2137,
@@ -111,6 +163,222 @@
         "bluesky": {
           "text": "Sarampo: como recorde de casos nos EUA e avanço do vírus nas Américas ameaçam eliminação da doença no Brasil https://www.europesays.com/pt/588955/",
           "chars": 146
+        }
+      }
+    },
+    {
+      "id": 2179,
+      "date": "2026-11-17",
+      "week_start": "2026-11-16",
+      "person_id": "eliot-cohen",
+      "person": "Eliot Cohen",
+      "is_ces": false,
+      "title": "(no text) Twitter reply",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 2178,
+      "date": "2026-11-17",
+      "week_start": "2026-11-16",
+      "person_id": "jeremy-wallace",
+      "person": "Jeremy Wallace",
+      "is_ces": false,
+      "title": "(no text) Twitter repost",
+      "has_text": true,
+      "url": null,
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": null
+    },
+    {
+      "id": 2176,
+      "date": "2026-11-17",
+      "week_start": "2026-11-16",
+      "person_id": "eliana-perrin",
+      "person": "Eliana Perrin",
+      "is_ces": false,
+      "title": "Keep the Holidays Merry, Bright and Safe for Kids with Tips from Johns Hopkins Children’s Center Experts",
+      "has_text": true,
+      "url": "https://www.newswise.com/articles/keep-the-holidays-merry-bright-and-safe-for-kids-with-tips-from-johns-hopkins-children-s-center-experts",
+      "source": "Newswise",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Keep the Holidays Merry, Bright and Safe for Kids with Tips from Johns Hopkins Children’s Center Experts https://www.newswise.com/articles/keep-the-holidays-merry-bright-and-safe-for-kids-with-tips-from-johns-hopkins-children-s-center-experts",
+          "chars": 128
+        },
+        "bluesky": {
+          "text": "Keep the Holidays Merry, Bright and Safe for Kids with Tips from Johns Hopkins Children’s Center Experts https://www.newswise.com/articles/keep-the-holidays-merry-bright-and-safe-for-kids-with-tips-from-johns-hopkins-children-s-center-experts",
+          "chars": 242
+        }
+      }
+    },
+    {
+      "id": 2175,
+      "date": "2026-11-17",
+      "week_start": "2026-11-16",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Zmierzch demokracji [Twilight of Democracy] Audiobook by Anne Applebaum",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=lSfsCQRk_b4",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "Zmierzch demokracji [Twilight of Democracy] Audiobook by Anne Applebaum https://www.youtube.com/watch?v=lSfsCQRk_b4",
+          "chars": 95
+        },
+        "bluesky": {
+          "text": "Zmierzch demokracji [Twilight of Democracy] Audiobook by Anne Applebaum https://www.youtube.com/watch?v=lSfsCQRk_b4",
+          "chars": 115
+        }
+      }
+    },
+    {
+      "id": 2174,
+      "date": "2026-11-17",
+      "week_start": "2026-11-16",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "False Binary Alert: Liberalism vs. Illiberalism",
+      "has_text": true,
+      "url": "https://radicalmoderatesguide.substack.com/p/false-binary-alert-liberalism-vs",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "False Binary Alert: Liberalism vs. Illiberalism https://radicalmoderatesguide.substack.com/p/false-binary-alert-liberalism-vs",
+          "chars": 71
+        },
+        "bluesky": {
+          "text": "False Binary Alert: Liberalism vs. Illiberalism https://radicalmoderatesguide.substack.com/p/false-binary-alert-liberalism-vs",
+          "chars": 125
+        }
+      }
+    },
+    {
+      "id": 2173,
+      "date": "2026-11-17",
+      "week_start": "2026-11-16",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "How does journalism shape democracy? A conversation with ABC News anchor Linsey Davis",
+      "has_text": true,
+      "url": "https://baltimorefishbowl.com/stories/how-does-journalism-shape-democracy-a-conversation-with-abc-news-anchor-linsey-davis/",
+      "source": "Baltimore Fishbowl",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "How does journalism shape democracy? A conversation with ABC News anchor Linsey Davis https://baltimorefishbowl.com/stories/how-does-journalism-shape-democracy-a-conversation-with-abc-news-anchor-linsey-davis/",
+          "chars": 109
+        },
+        "bluesky": {
+          "text": "How does journalism shape democracy? A conversation with ABC News anchor Linsey Davis https://baltimorefishbowl.com/stories/how-does-journalism-shape-democracy-a-conversation-with-abc-news-anchor-linsey-davis/",
+          "chars": 209
+        }
+      }
+    },
+    {
+      "id": 2172,
+      "date": "2026-11-17",
+      "week_start": "2026-11-16",
+      "person_id": "scott-warren",
+      "person": "Scott Warren",
+      "is_ces": false,
+      "title": "LinkedIn post on Understanding this Moment of Generational Change panel",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7528496601846312963",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "LinkedIn post on Understanding this Moment of Generational Change panel https://www.linkedin.com/feed/update/urn:li:ugcPost:7528496601846312963",
+          "chars": 95
+        },
+        "bluesky": {
+          "text": "LinkedIn post on Understanding this Moment of Generational Change panel https://www.linkedin.com/feed/update/urn:li:ugcPost:7528496601846312963",
+          "chars": 143
+        }
+      }
+    },
+    {
+      "id": 2171,
+      "date": "2026-11-17",
+      "week_start": "2026-11-16",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "The Future of the Ukrainian State and Europe in General | A Conversation with Anne Applebaum",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=wAU_WcnB5vk",
+      "source": "YouTube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "The Future of the Ukrainian State and Europe in General | A Conversation with Anne Applebaum https://www.youtube.com/watch?v=wAU_WcnB5vk",
+          "chars": 116
+        },
+        "bluesky": {
+          "text": "The Future of the Ukrainian State and Europe in General | A Conversation with Anne Applebaum https://www.youtube.com/watch?v=wAU_WcnB5vk",
+          "chars": 136
+        }
+      }
+    },
+    {
+      "id": 2170,
+      "date": "2026-11-17",
+      "week_start": "2026-11-16",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "How Does Congress Stop the War",
+      "has_text": true,
+      "url": "https://anneapplebaum.substack.com/p/how-does-congress-stop-the-war",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "How Does Congress Stop the War https://anneapplebaum.substack.com/p/how-does-congress-stop-the-war",
+          "chars": 54
+        },
+        "bluesky": {
+          "text": "How Does Congress Stop the War https://anneapplebaum.substack.com/p/how-does-congress-stop-the-war",
+          "chars": 98
         }
       }
     },
