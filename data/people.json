@@ -115,13 +115,13 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 144,
-    "mentions_in_digest": 59,
-    "reach_proxy": 1348,
+    "mentions_total": 145,
+    "mentions_in_digest": 60,
+    "reach_proxy": 1349,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-11-17",
+    "last_mention_date": "2026-11-18",
     "sentiment": {
-      "positive": 27,
+      "positive": 28,
       "neutral": 42,
       "negative": 3,
       "unknown": 72
@@ -133,7 +133,7 @@
       },
       {
         "source": "LinkedIn",
-        "count": 31
+        "count": 32
       },
       {
         "source": "Bluesky",
@@ -206,8 +206,8 @@
       },
       {
         "week_start": "2026-11-16",
-        "count": 4,
-        "reach": 4
+        "count": 5,
+        "reach": 5
       }
     ]
   },
@@ -223,21 +223,21 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 118,
+    "mentions_total": 120,
     "mentions_in_digest": 57,
-    "reach_proxy": 1266,
+    "reach_proxy": 1268,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-11-17",
+    "last_mention_date": "2026-11-18",
     "sentiment": {
       "positive": 14,
       "neutral": 18,
       "negative": 8,
-      "unknown": 78
+      "unknown": 80
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 32
+        "count": 34
       },
       {
         "source": "Substack",
@@ -314,8 +314,8 @@
       },
       {
         "week_start": "2026-11-16",
-        "count": 4,
-        "reach": 4
+        "count": 6,
+        "reach": 6
       }
     ]
   },
@@ -422,6 +422,114 @@
         "week_start": "2026-11-16",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "hahrie-han",
+    "name": "Hahrie Han",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Institute Professor of Political Science",
+    "profile_url": "https://snfagora.jhu.edu/directory/hahrie-han/",
+    "photo_url": "images/people/hahrie-han.jpg",
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 78,
+    "mentions_in_digest": 20,
+    "reach_proxy": 421,
+    "first_mention_date": "2026-07-02",
+    "last_mention_date": "2026-11-19",
+    "sentiment": {
+      "positive": 13,
+      "neutral": 7,
+      "negative": 0,
+      "unknown": 58
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 53
+      },
+      {
+        "source": "YouTube",
+        "count": 4
+      },
+      {
+        "source": "LinkedIn",
+        "count": 2
+      },
+      {
+        "source": "Substack",
+        "count": 2
+      },
+      {
+        "source": "Twitter (x.com)",
+        "count": 2
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 2,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-10-26",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-11-02",
+        "count": 4,
+        "reach": 10
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-11-16",
+        "count": 43,
+        "reach": 43
       }
     ]
   },
@@ -755,16 +863,16 @@
       "Core Faculty"
     ],
     "is_ces": true,
-    "mentions_total": 56,
-    "mentions_in_digest": 41,
-    "reach_proxy": 102,
+    "mentions_total": 57,
+    "mentions_in_digest": 42,
+    "reach_proxy": 103,
     "first_mention_date": "2026-07-04",
     "last_mention_date": "2026-11-18",
     "sentiment": {
       "positive": 5,
       "neutral": 14,
       "negative": 1,
-      "unknown": 36
+      "unknown": 37
     },
     "top_sources": [
       {
@@ -846,8 +954,8 @@
       },
       {
         "week_start": "2026-11-16",
-        "count": 1,
-        "reach": 1
+        "count": 2,
+        "reach": 2
       }
     ]
   },
@@ -1293,21 +1401,21 @@
       "Core Faculty"
     ],
     "is_ces": true,
-    "mentions_total": 36,
-    "mentions_in_digest": 28,
-    "reach_proxy": 62,
+    "mentions_total": 39,
+    "mentions_in_digest": 30,
+    "reach_proxy": 78,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-11-17",
+    "last_mention_date": "2026-11-18",
     "sentiment": {
       "positive": 6,
       "neutral": 10,
       "negative": 0,
-      "unknown": 20
+      "unknown": 23
     },
     "top_sources": [
       {
         "source": "Twitter",
-        "count": 5
+        "count": 6
       },
       {
         "source": "YouTube",
@@ -1384,116 +1492,8 @@
       },
       {
         "week_start": "2026-11-16",
-        "count": 1,
-        "reach": 4
-      }
-    ]
-  },
-  {
-    "id": "hahrie-han",
-    "name": "Hahrie Han",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Institute Professor of Political Science",
-    "profile_url": "https://snfagora.jhu.edu/directory/hahrie-han/",
-    "photo_url": "images/people/hahrie-han.jpg",
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 35,
-    "mentions_in_digest": 20,
-    "reach_proxy": 378,
-    "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-11-10",
-    "sentiment": {
-      "positive": 13,
-      "neutral": 7,
-      "negative": 0,
-      "unknown": 15
-    },
-    "top_sources": [
-      {
-        "source": "Twitter",
-        "count": 10
-      },
-      {
-        "source": "YouTube",
-        "count": 4
-      },
-      {
-        "source": "LinkedIn",
-        "count": 2
-      },
-      {
-        "source": "Substack",
-        "count": 2
-      },
-      {
-        "source": "Twitter (x.com)",
-        "count": 2
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 2,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-10-19",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-10-26",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-11-02",
         "count": 4,
-        "reach": 10
-      },
-      {
-        "week_start": "2026-11-09",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-11-16",
-        "count": 0,
-        "reach": 0
+        "reach": 20
       }
     ]
   },
@@ -1600,6 +1600,114 @@
         "week_start": "2026-11-16",
         "count": 0,
         "reach": 0
+      }
+    ]
+  },
+  {
+    "id": "scott-warren",
+    "name": "Scott Warren",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Fellow",
+    "profile_url": "https://snfagora.jhu.edu/directory/scott-warren/",
+    "photo_url": "images/people/scott-warren.jpg",
+    "categories": [
+      "Continuing Faculty + Fellows"
+    ],
+    "is_ces": false,
+    "mentions_total": 33,
+    "mentions_in_digest": 24,
+    "reach_proxy": 2962,
+    "first_mention_date": "2026-07-02",
+    "last_mention_date": "2026-11-18",
+    "sentiment": {
+      "positive": 8,
+      "neutral": 9,
+      "negative": 0,
+      "unknown": 16
+    },
+    "top_sources": [
+      {
+        "source": "LinkedIn",
+        "count": 8
+      },
+      {
+        "source": "Twitter",
+        "count": 5
+      },
+      {
+        "source": "Youtube",
+        "count": 3
+      },
+      {
+        "source": "Instagram",
+        "count": 2
+      },
+      {
+        "source": "American Enterprise Institute - AEI",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 1,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 2,
+        "reach": 7
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 8,
+        "reach": 2916
+      },
+      {
+        "week_start": "2026-10-26",
+        "count": 5,
+        "reach": 16
+      },
+      {
+        "week_start": "2026-11-02",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 2,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-11-16",
+        "count": 2,
+        "reach": 2
       }
     ]
   },
@@ -1816,114 +1924,6 @@
     ]
   },
   {
-    "id": "scott-warren",
-    "name": "Scott Warren",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Fellow",
-    "profile_url": "https://snfagora.jhu.edu/directory/scott-warren/",
-    "photo_url": "images/people/scott-warren.jpg",
-    "categories": [
-      "Continuing Faculty + Fellows"
-    ],
-    "is_ces": false,
-    "mentions_total": 32,
-    "mentions_in_digest": 23,
-    "reach_proxy": 2961,
-    "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-11-17",
-    "sentiment": {
-      "positive": 7,
-      "neutral": 9,
-      "negative": 0,
-      "unknown": 16
-    },
-    "top_sources": [
-      {
-        "source": "LinkedIn",
-        "count": 7
-      },
-      {
-        "source": "Twitter",
-        "count": 5
-      },
-      {
-        "source": "Youtube",
-        "count": 3
-      },
-      {
-        "source": "Instagram",
-        "count": 2
-      },
-      {
-        "source": "American Enterprise Institute - AEI",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 1,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 2,
-        "reach": 7
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-10-19",
-        "count": 8,
-        "reach": 2916
-      },
-      {
-        "week_start": "2026-10-26",
-        "count": 5,
-        "reach": 16
-      },
-      {
-        "week_start": "2026-11-02",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-11-09",
-        "count": 2,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-11-16",
-        "count": 1,
-        "reach": 1
-      }
-    ]
-  },
-  {
     "id": "no-tracked-person",
     "name": "(no tracked person)",
     "kind": "unmatched",
@@ -2041,14 +2041,14 @@
       "Core Faculty"
     ],
     "is_ces": true,
-    "mentions_total": 28,
-    "mentions_in_digest": 15,
-    "reach_proxy": 46,
+    "mentions_total": 29,
+    "mentions_in_digest": 16,
+    "reach_proxy": 47,
     "first_mention_date": "2026-07-10",
-    "last_mention_date": "2026-11-16",
+    "last_mention_date": "2026-11-18",
     "sentiment": {
       "positive": 6,
-      "neutral": 11,
+      "neutral": 12,
       "negative": 0,
       "unknown": 11
     },
@@ -2132,8 +2132,8 @@
       },
       {
         "week_start": "2026-11-16",
-        "count": 1,
-        "reach": 1
+        "count": 2,
+        "reach": 2
       }
     ]
   },
@@ -3628,6 +3628,114 @@
     ]
   },
   {
+    "id": "jeremy-wallace",
+    "name": "Jeremy Wallace",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Professor of China Studies at Johns Hopkins School of Advanced International Studies (SAIS)",
+    "profile_url": "https://snfagora.jhu.edu/directory/jeremy-wallace/",
+    "photo_url": null,
+    "categories": [
+      "Affiliated Faculty"
+    ],
+    "is_ces": false,
+    "mentions_total": 11,
+    "mentions_in_digest": 6,
+    "reach_proxy": 25,
+    "first_mention_date": "2026-08-14",
+    "last_mention_date": "2026-11-18",
+    "sentiment": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0,
+      "unknown": 7
+    },
+    "top_sources": [
+      {
+        "source": "Dissent Magazine",
+        "count": 2
+      },
+      {
+        "source": "The New Republic",
+        "count": 2
+      },
+      {
+        "source": "Twitter",
+        "count": 2
+      },
+      {
+        "source": "Youtube",
+        "count": 2
+      },
+      {
+        "source": "Carbon Brief",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 3,
+        "reach": 8
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-26",
+        "count": 1,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-11-02",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-11-16",
+        "count": 3,
+        "reach": 11
+      }
+    ]
+  },
+  {
     "id": "namesake-noise-match-johns-hopkins-university-president",
     "name": "Namesake/noise match: Johns Hopkins, University President",
     "kind": "unmatched",
@@ -3946,114 +4054,6 @@
         "week_start": "2026-11-16",
         "count": 0,
         "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "jeremy-wallace",
-    "name": "Jeremy Wallace",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Professor of China Studies at Johns Hopkins School of Advanced International Studies (SAIS)",
-    "profile_url": "https://snfagora.jhu.edu/directory/jeremy-wallace/",
-    "photo_url": null,
-    "categories": [
-      "Affiliated Faculty"
-    ],
-    "is_ces": false,
-    "mentions_total": 10,
-    "mentions_in_digest": 5,
-    "reach_proxy": 24,
-    "first_mention_date": "2026-08-14",
-    "last_mention_date": "2026-11-17",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 3,
-      "negative": 0,
-      "unknown": 7
-    },
-    "top_sources": [
-      {
-        "source": "Dissent Magazine",
-        "count": 2
-      },
-      {
-        "source": "The New Republic",
-        "count": 2
-      },
-      {
-        "source": "Twitter",
-        "count": 2
-      },
-      {
-        "source": "Carbon Brief",
-        "count": 1
-      },
-      {
-        "source": "National Committee on U.S.-China Relations (NCUSCR)",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 3,
-        "reach": 8
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-19",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-26",
-        "count": 1,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-11-02",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-11-09",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-11-16",
-        "count": 2,
-        "reach": 10
       }
     ]
   },

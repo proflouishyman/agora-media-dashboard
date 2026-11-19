@@ -1,7 +1,1385 @@
 {
-  "generated_at": "2026-11-18T07:05:37-05:00",
-  "count": 2169,
+  "generated_at": "2026-11-19T07:05:38-05:00",
+  "count": 2222,
   "stories": [
+    {
+      "id": 2189,
+      "date": "2026-11-19",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123308063868498426",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123308063868498426",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123308063868498426",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2188,
+      "date": "2026-11-19",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123370373236551783",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123370373236551783",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123370373236551783",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2187,
+      "date": "2026-11-19",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123379624792989740",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123379624792989740",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123379624792989740",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2180,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "yuen-yuen-ang",
+      "person": "Yuen Yuen Ang",
+      "is_ces": true,
+      "title": "Xi Jinping enfrenta una cumbre con tensiones comerciales y un invitado sorpresa",
+      "has_text": true,
+      "url": "https://www.infobae.com/america/the-new-york-times/2026/11/18/xi-jinping-enfrenta-una-cumbre-con-tensiones-comerciales-y-un-invitado-sorpresa/",
+      "source": "Infobae",
+      "source_type": "online news",
+      "similar_mention_count": 10,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Xi Jinping enfrenta una cumbre con tensiones comerciales y un invitado sorpresa https://www.infobae.com/america/the-new-york-times/2026/11/18/xi-jinping-enfrenta-una-cumbre-con-tensiones-comerciales-y-un-invitado-sorpresa/",
+          "chars": 103
+        },
+        "bluesky": {
+          "text": "Xi Jinping enfrenta una cumbre con tensiones comerciales y un invitado sorpresa https://www.infobae.com/america/the-new-york-times/2026/11/18/xi-jinping-enfrenta-una-cumbre-con-tensiones-comerciales-y-un-invitado-sorpresa/",
+          "chars": 222
+        }
+      }
+    },
+    {
+      "id": 2181,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "yuen-yuen-ang",
+      "person": "Yuen Yuen Ang",
+      "is_ces": true,
+      "title": "中美俄「三巨頭」坐在了一起，世界正滑向大國共管嗎？",
+      "has_text": true,
+      "url": "https://www.bbc.com/zhongwen/articles/cvglr9r243x6o/trad",
+      "source": "BBC",
+      "source_type": "online news",
+      "similar_mention_count": 5,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "中美俄「三巨頭」坐在了一起，世界正滑向大國共管嗎？ https://www.bbc.com/zhongwen/articles/cvglr9r243x6o/trad",
+          "chars": 49
+        },
+        "bluesky": {
+          "text": "中美俄「三巨頭」坐在了一起，世界正滑向大國共管嗎？ https://www.bbc.com/zhongwen/articles/cvglr9r243x6o/trad",
+          "chars": 82
+        }
+      }
+    },
+    {
+      "id": 2232,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "yuen-yuen-ang",
+      "person": "Yuen Yuen Ang",
+      "is_ces": true,
+      "title": null,
+      "has_text": true,
+      "url": "2123110947023733247",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123110947023733247",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123110947023733247",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2231,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123164061370060877",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123164061370060877",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123164061370060877",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2230,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123164475276808484",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123164475276808484",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123164475276808484",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2229,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123165023002616255",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123165023002616255",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123165023002616255",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2228,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123165164275155202",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123165164275155202",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123165164275155202",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2227,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123165387839996044",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123165387839996044",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123165387839996044",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2226,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123165978540621867",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123165978540621867",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123165978540621867",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2225,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123166969914708091",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123166969914708091",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123166969914708091",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2224,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123167608036032936",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123167608036032936",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123167608036032936",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2223,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123168905564684688",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123168905564684688",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123168905564684688",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2222,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123172990565171538",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123172990565171538",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123172990565171538",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2221,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123173173789438129",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123173173789438129",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123173173789438129",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2220,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123177098730959005",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123177098730959005",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123177098730959005",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2219,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123180840909672578",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123180840909672578",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123180840909672578",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2218,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123183447208608069",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123183447208608069",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123183447208608069",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2217,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123183458944249930",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123183458944249930",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123183458944249930",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2216,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123183610517664230",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123183610517664230",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123183610517664230",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2215,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123186327076364707",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123186327076364707",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123186327076364707",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2214,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123186348005732780",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123186348005732780",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123186348005732780",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2213,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123186747022459144",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123186747022459144",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123186747022459144",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2212,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123187928578805994",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123187928578805994",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123187928578805994",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2211,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123188214156480523",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123188214156480523",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123188214156480523",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2210,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123190149987111103",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123190149987111103",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123190149987111103",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2209,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123190990387220677",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123190990387220677",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123190990387220677",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2208,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123191529980166303",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123191529980166303",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123191529980166303",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2207,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123192039772692803",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123192039772692803",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123192039772692803",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2206,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123194875118247973",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123194875118247973",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123194875118247973",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2205,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123195746484695385",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123195746484695385",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123195746484695385",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2204,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123197430912926187",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123197430912926187",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123197430912926187",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2203,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123200225103770008",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123200225103770008",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123200225103770008",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2202,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123201708985565385",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123201708985565385",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123201708985565385",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2201,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123202338106011782",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123202338106011782",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123202338106011782",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2200,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123203907664982416",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123203907664982416",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123203907664982416",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2199,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123205288501313769",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123205288501313769",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123205288501313769",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2198,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123207296344048123",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123207296344048123",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123207296344048123",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2197,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123219534928892389",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123219534928892389",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123219534928892389",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2196,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123228248653902195",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123228248653902195",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123228248653902195",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2195,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123235671984705740",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123235671984705740",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123235671984705740",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2194,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123244531403391024",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123244531403391024",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123244531403391024",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2193,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123257636288418054",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123257636288418054",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123257636288418054",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2192,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123259083901816963",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123259083901816963",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123259083901816963",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2191,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "hahrie-han",
+      "person": "Hahrie Han",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123264696891724133",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123264696891724133",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123264696891724133",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2190,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": null,
+      "has_text": true,
+      "url": "2123264906807922863",
+      "source": "Twitter",
+      "source_type": null,
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": " 2123264906807922863",
+          "chars": 24
+        },
+        "bluesky": {
+          "text": " 2123264906807922863",
+          "chars": 20
+        }
+      }
+    },
+    {
+      "id": 2186,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "LinkedIn post: SNF Agora Institute symposium",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7528877056923938817",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "LinkedIn post: SNF Agora Institute symposium https://www.linkedin.com/feed/update/urn:li:ugcPost:7528877056923938817",
+          "chars": 68
+        },
+        "bluesky": {
+          "text": "LinkedIn post: SNF Agora Institute symposium https://www.linkedin.com/feed/update/urn:li:ugcPost:7528877056923938817",
+          "chars": 116
+        }
+      }
+    },
+    {
+      "id": 2185,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "scott-warren",
+      "person": "Scott Warren",
+      "is_ces": false,
+      "title": "LinkedIn post: Scott Warren and SNF Agora Institute",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7528856048204627969",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "LinkedIn post: Scott Warren and SNF Agora Institute https://www.linkedin.com/feed/update/urn:li:ugcPost:7528856048204627969",
+          "chars": 75
+        },
+        "bluesky": {
+          "text": "LinkedIn post: Scott Warren and SNF Agora Institute https://www.linkedin.com/feed/update/urn:li:ugcPost:7528856048204627969",
+          "chars": 123
+        }
+      }
+    },
+    {
+      "id": 2184,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "jeremy-wallace",
+      "person": "Jeremy Wallace",
+      "is_ces": false,
+      "title": "Why Did China Build Cities With No People?",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=u08Ecg7NwsI",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "positive",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Why Did China Build Cities With No People? https://www.youtube.com/watch?v=u08Ecg7NwsI",
+          "chars": 66
+        },
+        "bluesky": {
+          "text": "Why Did China Build Cities With No People? https://www.youtube.com/watch?v=u08Ecg7NwsI",
+          "chars": 86
+        }
+      }
+    },
+    {
+      "id": 2183,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "henry-farrell",
+      "person": "Henry Farrell",
+      "is_ces": true,
+      "title": "10 Days That Changed the World – The New York Times",
+      "has_text": true,
+      "url": "https://drwebdomain.blog/2026/11/18/10-days-that-changed-the-world-the-new-york-times/?share=mastodon",
+      "source": "DrWeb's Domain",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "10 Days That Changed the World – The New York Times https://drwebdomain.blog/2026/11/18/10-days-that-changed-the-world-the-new-york-times/?share=mastodon",
+          "chars": 75
+        },
+        "bluesky": {
+          "text": "10 Days That Changed the World – The New York Times https://drwebdomain.blog/2026/11/18/10-days-that-changed-the-world-the-new-york-times/?share=mastodon",
+          "chars": 153
+        }
+      }
+    },
+    {
+      "id": 2182,
+      "date": "2026-11-18",
+      "week_start": "2026-11-16",
+      "person_id": "louis-hyman",
+      "person": "Louis Hyman",
+      "is_ces": true,
+      "title": "‘No one asked for this’: AI is being pushed on people—and they’re sick of it",
+      "has_text": true,
+      "url": "https://www.fastcompany.com/91644146/no-one-asked-for-this-ai-is-being-pushed-on-people-and-theyre-sick-of-it",
+      "source": "Fast Company",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "neutral",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "‘No one asked for this’: AI is being pushed on people—and they’re sick of it https://www.fastcompany.com/91644146/no-one-asked-for-this-ai-is-being-pushed-on-people-and-theyre-sick-of-it",
+          "chars": 100
+        },
+        "bluesky": {
+          "text": "‘No one asked for this’: AI is being pushed on people—and they’re sick of it https://www.fastcompany.com/91644146/no-one-asked-for-this-ai-is-being-pushed-on-people-and-theyre-sick-of-it",
+          "chars": 186
+        }
+      }
+    },
     {
       "id": 2177,
       "date": "2026-11-18",

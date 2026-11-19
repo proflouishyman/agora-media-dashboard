@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-18T07:05:37-05:00",
-  "count": 103,
+  "generated_at": "2026-11-19T07:05:38-05:00",
+  "count": 104,
   "picks": [
+    {
+      "id": 122,
+      "mention_id": 2180,
+      "digest_date": "2026-11-18",
+      "person": "Yuen Yuen Ang",
+      "person_id": "yuen-yuen-ang",
+      "person_ids": [
+        "yuen-yuen-ang"
+      ],
+      "is_ces": true,
+      "punchy_title": "Ang on the new normal of geoeconomic rivalry at Xi's Shenzhen summit",
+      "headline": "Ang on the new normal of geoeconomic rivalry at Xi's Shenzhen summit",
+      "pull_quote": "geoeconómica se ha convertido en la nueva normalidad\", dijo Yuen Yuen Ang, profesora de economía política en la Universidad Johns",
+      "rationale": "geoeconómica se ha convertido en la nueva normalidad\", dijo Yuen Yuen Ang, profesora de economía política en la Universidad Johns",
+      "url": "https://www.infobae.com/america/the-new-york-times/2026/11/18/xi-jinping-enfrenta-una-cumbre-con-tensiones-comerciales-y-un-invitado-sorpresa/",
+      "story_url": "https://www.infobae.com/america/the-new-york-times/2026/11/18/xi-jinping-enfrenta-una-cumbre-con-tensiones-comerciales-y-un-invitado-sorpresa/",
+      "created_at": "2026-11-19 12:05:31",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "Yuen Yuen Ang of Johns Hopkins is quoted in the NYT on Xi's Shenzhen summit with Trump and Putin: geoeconomic rivalry is the new normal. https://www.infobae.com/america/the-new-york-times/2026/11/18/xi-jinping-enfrenta-una-cumbre-con-tensiones-comerciales-y-un-invitado-sorpresa/",
+          "chars": 279,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=Yuen%20Yuen%20Ang%20of%20Johns%20Hopkins%20is%20quoted%20in%20the%20NYT%20on%20Xi%27s%20Shenzhen%20summit%20with%20Trump%20and%20Putin%3A%20geoeconomic%20rivalry%20is%20the%20new%20normal.%20https%3A//www.infobae.com/america/the-new-york-times/2026/11/18/xi-jinping-enfrenta-una-cumbre-con-tensiones-comerciales-y-un-invitado-sorpresa/"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "Yuen Yuen Ang of Johns Hopkins is quoted in the NYT on Xi's Shenzhen summit with Trump and Putin: geoeconomic competition is the new normal. https://www.infobae.com/america/the-new-york-times/2026/11/18/xi-jinping-enfrenta-una-cumbre-con-tensiones-comerciales-y-un-invitado-sorpresa/",
+          "chars": 283,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=Yuen%20Yuen%20Ang%20of%20Johns%20Hopkins%20is%20quoted%20in%20the%20NYT%20on%20Xi%27s%20Shenzhen%20summit%20with%20Trump%20and%20Putin%3A%20geoeconomic%20competition%20is%20the%20new%20normal.%20https%3A//www.infobae.com/america/the-new-york-times/2026/11/18/xi-jinping-enfrenta-una-cumbre-con-tensiones-comerciales-y-un-invitado-sorpresa/"
+        }
+      ]
+    },
     {
       "id": 121,
       "mention_id": 2169,
