@@ -115,16 +115,16 @@
     "photo_url": null,
     "categories": [],
     "is_ces": false,
-    "mentions_total": 145,
+    "mentions_total": 146,
     "mentions_in_digest": 60,
-    "reach_proxy": 1349,
+    "reach_proxy": 1350,
     "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-11-18",
+    "last_mention_date": "2026-11-19",
     "sentiment": {
       "positive": 28,
       "neutral": 42,
       "negative": 3,
-      "unknown": 72
+      "unknown": 73
     },
     "top_sources": [
       {
@@ -133,7 +133,7 @@
       },
       {
         "source": "LinkedIn",
-        "count": 32
+        "count": 33
       },
       {
         "source": "Bluesky",
@@ -206,8 +206,8 @@
       },
       {
         "week_start": "2026-11-16",
-        "count": 5,
-        "reach": 5
+        "count": 6,
+        "reach": 6
       }
     ]
   },
@@ -223,16 +223,16 @@
       "Continuing Faculty + Fellows"
     ],
     "is_ces": false,
-    "mentions_total": 120,
-    "mentions_in_digest": 57,
-    "reach_proxy": 1268,
+    "mentions_total": 122,
+    "mentions_in_digest": 58,
+    "reach_proxy": 1270,
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-11-18",
+    "last_mention_date": "2026-11-20",
     "sentiment": {
       "positive": 14,
       "neutral": 18,
       "negative": 8,
-      "unknown": 80
+      "unknown": 82
     },
     "top_sources": [
       {
@@ -253,7 +253,7 @@
       },
       {
         "source": "Gazeta Wyborcza",
-        "count": 4
+        "count": 5
       }
     ],
     "weekly": [
@@ -314,8 +314,8 @@
       },
       {
         "week_start": "2026-11-16",
-        "count": 6,
-        "reach": 6
+        "count": 8,
+        "reach": 8
       }
     ]
   },
@@ -1284,6 +1284,114 @@
     ]
   },
   {
+    "id": "yuen-yuen-ang",
+    "name": "Yuen Yuen Ang",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "Alfred Chandler Chair Professor of Political Economy",
+    "profile_url": "https://snfagora.jhu.edu/directory/yuen-yuen-ang/",
+    "photo_url": "images/people/yuen-yuen-ang.jpg",
+    "categories": [
+      "Core Faculty"
+    ],
+    "is_ces": true,
+    "mentions_total": 40,
+    "mentions_in_digest": 31,
+    "reach_proxy": 80,
+    "first_mention_date": "2026-07-04",
+    "last_mention_date": "2026-11-19",
+    "sentiment": {
+      "positive": 6,
+      "neutral": 10,
+      "negative": 0,
+      "unknown": 24
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 6
+      },
+      {
+        "source": "YouTube",
+        "count": 3
+      },
+      {
+        "source": "Head Topics",
+        "count": 2
+      },
+      {
+        "source": "Revista Fórum",
+        "count": 2
+      },
+      {
+        "source": "Asia Times",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 2,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-10-26",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-16",
+        "count": 5,
+        "reach": 22
+      }
+    ]
+  },
+  {
     "id": "namesake-noise-match-higher-education-johns-hopkins",
     "name": "Namesake/noise match: Higher Education, Johns Hopkins",
     "kind": "unmatched",
@@ -1386,114 +1494,6 @@
         "week_start": "2026-11-16",
         "count": 0,
         "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "yuen-yuen-ang",
-    "name": "Yuen Yuen Ang",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "Alfred Chandler Chair Professor of Political Economy",
-    "profile_url": "https://snfagora.jhu.edu/directory/yuen-yuen-ang/",
-    "photo_url": "images/people/yuen-yuen-ang.jpg",
-    "categories": [
-      "Core Faculty"
-    ],
-    "is_ces": true,
-    "mentions_total": 39,
-    "mentions_in_digest": 30,
-    "reach_proxy": 78,
-    "first_mention_date": "2026-07-04",
-    "last_mention_date": "2026-11-18",
-    "sentiment": {
-      "positive": 6,
-      "neutral": 10,
-      "negative": 0,
-      "unknown": 23
-    },
-    "top_sources": [
-      {
-        "source": "Twitter",
-        "count": 6
-      },
-      {
-        "source": "YouTube",
-        "count": 3
-      },
-      {
-        "source": "Head Topics",
-        "count": 2
-      },
-      {
-        "source": "Revista Fórum",
-        "count": 2
-      },
-      {
-        "source": "Asia Times",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-19",
-        "count": 2,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-10-26",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-11-02",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-11-09",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-11-16",
-        "count": 4,
-        "reach": 20
       }
     ]
   },
@@ -2350,6 +2350,114 @@
     ]
   },
   {
+    "id": "peter-pomerantsev",
+    "name": "Peter Pomerantsev",
+    "kind": "faculty",
+    "tracked": true,
+    "title": "SNF Agora Senior Fellow",
+    "profile_url": "https://snfagora.jhu.edu/directory/peter-pomerantsev/",
+    "photo_url": "images/people/peter-pomerantsev.jpg",
+    "categories": [
+      "Continuing Faculty + Fellows"
+    ],
+    "is_ces": false,
+    "mentions_total": 22,
+    "mentions_in_digest": 12,
+    "reach_proxy": 42,
+    "first_mention_date": "2026-08-12",
+    "last_mention_date": "2026-11-20",
+    "sentiment": {
+      "positive": 4,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 18
+    },
+    "top_sources": [
+      {
+        "source": "Twitter",
+        "count": 8
+      },
+      {
+        "source": "Youtube",
+        "count": 2
+      },
+      {
+        "source": "ARCHYDE",
+        "count": 1
+      },
+      {
+        "source": "Adevarul.ro",
+        "count": 1
+      },
+      {
+        "source": "Alles over boeken en schrijvers",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-31",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 3,
+        "reach": 4
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 3,
+        "reach": 3
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-26",
+        "count": 2,
+        "reach": 5
+      },
+      {
+        "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-11-16",
+        "count": 1,
+        "reach": 1
+      }
+    ]
+  },
+  {
     "id": "ruth-braunstein",
     "name": "Ruth Braunstein",
     "kind": "faculty",
@@ -2439,114 +2547,6 @@
         "week_start": "2026-10-26",
         "count": 0,
         "reach": 0
-      },
-      {
-        "week_start": "2026-11-02",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-11-09",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-11-16",
-        "count": 0,
-        "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "peter-pomerantsev",
-    "name": "Peter Pomerantsev",
-    "kind": "faculty",
-    "tracked": true,
-    "title": "SNF Agora Senior Fellow",
-    "profile_url": "https://snfagora.jhu.edu/directory/peter-pomerantsev/",
-    "photo_url": "images/people/peter-pomerantsev.jpg",
-    "categories": [
-      "Continuing Faculty + Fellows"
-    ],
-    "is_ces": false,
-    "mentions_total": 21,
-    "mentions_in_digest": 11,
-    "reach_proxy": 41,
-    "first_mention_date": "2026-08-12",
-    "last_mention_date": "2026-11-09",
-    "sentiment": {
-      "positive": 4,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 17
-    },
-    "top_sources": [
-      {
-        "source": "Twitter",
-        "count": 8
-      },
-      {
-        "source": "Youtube",
-        "count": 2
-      },
-      {
-        "source": "Adevarul.ro",
-        "count": 1
-      },
-      {
-        "source": "Alles over boeken en schrijvers",
-        "count": 1
-      },
-      {
-        "source": "Comisarul.ro",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-08-31",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 3,
-        "reach": 4
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 3,
-        "reach": 3
-      },
-      {
-        "week_start": "2026-10-19",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-26",
-        "count": 2,
-        "reach": 5
       },
       {
         "week_start": "2026-11-02",
@@ -2996,6 +2996,112 @@
     ]
   },
   {
+    "id": "eliot-cohen",
+    "name": "Eliot Cohen",
+    "kind": "unmatched",
+    "tracked": false,
+    "title": "",
+    "profile_url": null,
+    "photo_url": null,
+    "categories": [],
+    "is_ces": false,
+    "mentions_total": 14,
+    "mentions_in_digest": 8,
+    "reach_proxy": 16,
+    "first_mention_date": "2026-08-01",
+    "last_mention_date": "2026-11-20",
+    "sentiment": {
+      "positive": 4,
+      "neutral": 0,
+      "negative": 0,
+      "unknown": 10
+    },
+    "top_sources": [
+      {
+        "source": "Substack",
+        "count": 3
+      },
+      {
+        "source": "Youtube",
+        "count": 2
+      },
+      {
+        "source": "Bambaram di Padida",
+        "count": 1
+      },
+      {
+        "source": "Civitas Institute",
+        "count": 1
+      },
+      {
+        "source": "Civitas Outlook",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week_start": "2026-08-31",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-07",
+        "count": 2,
+        "reach": 2
+      },
+      {
+        "week_start": "2026-09-14",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-09-21",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-09-28",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-05",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-12",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-10-19",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-10-26",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-11-02",
+        "count": 0,
+        "reach": 0
+      },
+      {
+        "week_start": "2026-11-09",
+        "count": 1,
+        "reach": 1
+      },
+      {
+        "week_start": "2026-11-16",
+        "count": 4,
+        "reach": 5
+      }
+    ]
+  },
+  {
     "id": "unattributed-institutional-keyword-only",
     "name": "Unattributed (institutional keyword only)",
     "kind": "unmatched",
@@ -3410,112 +3516,6 @@
         "week_start": "2026-11-16",
         "count": 0,
         "reach": 0
-      }
-    ]
-  },
-  {
-    "id": "eliot-cohen",
-    "name": "Eliot Cohen",
-    "kind": "unmatched",
-    "tracked": false,
-    "title": "",
-    "profile_url": null,
-    "photo_url": null,
-    "categories": [],
-    "is_ces": false,
-    "mentions_total": 11,
-    "mentions_in_digest": 6,
-    "reach_proxy": 12,
-    "first_mention_date": "2026-08-01",
-    "last_mention_date": "2026-11-17",
-    "sentiment": {
-      "positive": 4,
-      "neutral": 0,
-      "negative": 0,
-      "unknown": 7
-    },
-    "top_sources": [
-      {
-        "source": "Substack",
-        "count": 2
-      },
-      {
-        "source": "Bambaram di Padida",
-        "count": 1
-      },
-      {
-        "source": "Civitas Institute",
-        "count": 1
-      },
-      {
-        "source": "Civitas Outlook",
-        "count": 1
-      },
-      {
-        "source": "Gazeta do Povo",
-        "count": 1
-      }
-    ],
-    "weekly": [
-      {
-        "week_start": "2026-08-31",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-07",
-        "count": 2,
-        "reach": 2
-      },
-      {
-        "week_start": "2026-09-14",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-09-21",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-09-28",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-05",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-10-12",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-10-19",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-10-26",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-11-02",
-        "count": 0,
-        "reach": 0
-      },
-      {
-        "week_start": "2026-11-09",
-        "count": 1,
-        "reach": 1
-      },
-      {
-        "week_start": "2026-11-16",
-        "count": 1,
-        "reach": 1
       }
     ]
   },

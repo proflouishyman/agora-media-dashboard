@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-19T07:05:38-05:00",
-  "count": 104,
+  "generated_at": "2026-11-20T07:05:11-05:00",
+  "count": 105,
   "picks": [
+    {
+      "id": 123,
+      "mention_id": 2234,
+      "digest_date": "2026-11-20",
+      "person": "Peter Pomerantsev",
+      "person_id": "peter-pomerantsev",
+      "person_ids": [
+        "peter-pomerantsev"
+      ],
+      "is_ces": false,
+      "punchy_title": "Who is reporting on public service media? A new EBU study asks",
+      "headline": "Who is reporting on public service media? A new EBU study asks",
+      "pull_quote": "The study was authored by Dr Peter Pomerantsev of Johns Hopkins University",
+      "rationale": "The study was authored by Dr Peter Pomerantsev of Johns Hopkins University",
+      "url": "https://www.archyde.com/ebu-report-identifies-pressures-facing-public-service-newsrooms/",
+      "story_url": "https://www.archyde.com/ebu-report-identifies-pressures-facing-public-service-newsrooms/",
+      "created_at": "2026-11-20 12:05:08",
+      "posts": [
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "text": "New EBU report on the pressures facing public service newsrooms, authored by Peter Pomerantsev of Johns Hopkins. https://www.archyde.com/ebu-report-identifies-pressures-facing-public-service-newsrooms/",
+          "chars": 201,
+          "char_limit": 280,
+          "compose_url": "https://twitter.com/intent/tweet?text=New%20EBU%20report%20on%20the%20pressures%20facing%20public%20service%20newsrooms%2C%20authored%20by%20Peter%20Pomerantsev%20of%20Johns%20Hopkins.%20https%3A//www.archyde.com/ebu-report-identifies-pressures-facing-public-service-newsrooms/"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "text": "New EBU report on the pressures facing public service newsrooms, authored by Peter Pomerantsev of Johns Hopkins. https://www.archyde.com/ebu-report-identifies-pressures-facing-public-service-newsrooms/",
+          "chars": 201,
+          "char_limit": 300,
+          "compose_url": "https://bsky.app/intent/compose?text=New%20EBU%20report%20on%20the%20pressures%20facing%20public%20service%20newsrooms%2C%20authored%20by%20Peter%20Pomerantsev%20of%20Johns%20Hopkins.%20https%3A//www.archyde.com/ebu-report-identifies-pressures-facing-public-service-newsrooms/"
+        }
+      ]
+    },
     {
       "id": 122,
       "mention_id": 2180,

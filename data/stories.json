@@ -1,7 +1,215 @@
 {
-  "generated_at": "2026-11-19T07:05:38-05:00",
-  "count": 2222,
+  "generated_at": "2026-11-20T07:05:11-05:00",
+  "count": 2230,
   "stories": [
+    {
+      "id": 2236,
+      "date": "2026-11-20",
+      "week_start": "2026-11-16",
+      "person_id": "eliot-cohen",
+      "person": "Eliot Cohen",
+      "is_ces": false,
+      "title": "De quoi s’agit-il? The Moral Obligations of the Strategist",
+      "has_text": true,
+      "url": "https://smallwarsjournal.com/2026/11/20/the-moral-obligations-of-the-strategist/",
+      "source": "Small Wars Journal",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "De quoi s’agit-il? The Moral Obligations of the Strategist https://smallwarsjournal.com/2026/11/20/the-moral-obligations-of-the-strategist/",
+          "chars": 82
+        },
+        "bluesky": {
+          "text": "De quoi s’agit-il? The Moral Obligations of the Strategist https://smallwarsjournal.com/2026/11/20/the-moral-obligations-of-the-strategist/",
+          "chars": 139
+        }
+      }
+    },
+    {
+      "id": 2235,
+      "date": "2026-11-20",
+      "week_start": "2026-11-16",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "Anne Applebaum: Spotkanie Trumpa, Putina i Xi Jinpinga przynosi dobrą wiadomość",
+      "has_text": true,
+      "url": "https://wyborcza.pl/magazyn/7,124059,33142066,anne-applebaum-spotkanie-trumpa-putina-i-xi-jinpinga-przynosi.html#s=S.index-K.C-B.1-L.1.duzy",
+      "source": "Gazeta Wyborcza",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Anne Applebaum: Spotkanie Trumpa, Putina i Xi Jinpinga przynosi dobrą wiadomość https://wyborcza.pl/magazyn/7,124059,33142066,anne-applebaum-spotkanie-trumpa-putina-i-xi-jinpinga-przynosi.html#s=S.index-K.C-B.1-L.1.duzy",
+          "chars": 103
+        },
+        "bluesky": {
+          "text": "Anne Applebaum: Spotkanie Trumpa, Putina i Xi Jinpinga przynosi dobrą wiadomość https://wyborcza.pl/magazyn/7,124059,33142066,anne-applebaum-spotkanie-trumpa-putina-i-xi-jinpinga-przynosi.html#s=S.index-K.C-B.1-L.1.duzy",
+          "chars": 219
+        }
+      }
+    },
+    {
+      "id": 2234,
+      "date": "2026-11-20",
+      "week_start": "2026-11-16",
+      "person_id": "peter-pomerantsev",
+      "person": "Peter Pomerantsev",
+      "is_ces": false,
+      "title": "EBU Report Identifies Pressures Facing Public Service Newsrooms",
+      "has_text": true,
+      "url": "https://www.archyde.com/ebu-report-identifies-pressures-facing-public-service-newsrooms/",
+      "source": "ARCHYDE",
+      "source_type": "online news",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "EBU Report Identifies Pressures Facing Public Service Newsrooms https://www.archyde.com/ebu-report-identifies-pressures-facing-public-service-newsrooms/",
+          "chars": 87
+        },
+        "bluesky": {
+          "text": "EBU Report Identifies Pressures Facing Public Service Newsrooms https://www.archyde.com/ebu-report-identifies-pressures-facing-public-service-newsrooms/",
+          "chars": 152
+        }
+      }
+    },
+    {
+      "id": 2238,
+      "date": "2026-11-19",
+      "week_start": "2026-11-16",
+      "person_id": "eliot-cohen",
+      "person": "Eliot Cohen",
+      "is_ces": false,
+      "title": "The Godfather of American Realism",
+      "has_text": true,
+      "url": "https://keenon.substack.com/p/the-godfather-of-american-realism",
+      "source": "Substack",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "The Godfather of American Realism https://keenon.substack.com/p/the-godfather-of-american-realism",
+          "chars": 57
+        },
+        "bluesky": {
+          "text": "The Godfather of American Realism https://keenon.substack.com/p/the-godfather-of-american-realism",
+          "chars": 97
+        }
+      }
+    },
+    {
+      "id": 2233,
+      "date": "2026-11-19",
+      "week_start": "2026-11-16",
+      "person_id": "yuen-yuen-ang",
+      "person": "Yuen Yuen Ang",
+      "is_ces": true,
+      "title": "中美俄三巨头坐在了一起，世界正滑向大国共管吗?",
+      "has_text": true,
+      "url": "https://www.wailaike.net/article/3570521",
+      "source": "外来客网",
+      "source_type": "online news",
+      "similar_mention_count": 2,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "中美俄三巨头坐在了一起，世界正滑向大国共管吗? https://www.wailaike.net/article/3570521",
+          "chars": 47
+        },
+        "bluesky": {
+          "text": "中美俄三巨头坐在了一起，世界正滑向大国共管吗? https://www.wailaike.net/article/3570521",
+          "chars": 64
+        }
+      }
+    },
+    {
+      "id": 2240,
+      "date": "2026-11-19",
+      "week_start": "2026-11-16",
+      "person_id": "snf-agora-institute",
+      "person": "SNF Agora Institute",
+      "is_ces": false,
+      "title": "What are the new expectations we are setting for young people that is realistic ",
+      "has_text": true,
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7528214425753858048",
+      "source": "LinkedIn",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "What are the new expectations we are setting for young people that is realistic  https://www.linkedin.com/feed/update/urn:li:ugcPost:7528214425753858048",
+          "chars": 104
+        },
+        "bluesky": {
+          "text": "What are the new expectations we are setting for young people that is realistic  https://www.linkedin.com/feed/update/urn:li:ugcPost:7528214425753858048",
+          "chars": 152
+        }
+      }
+    },
+    {
+      "id": 2239,
+      "date": "2026-11-19",
+      "week_start": "2026-11-16",
+      "person_id": "anne-applebaum",
+      "person": "Anne Applebaum",
+      "is_ces": false,
+      "title": "In the paywalled article in The Atlantic by Anne Applebaum, she compares this su",
+      "has_text": true,
+      "url": "https://nomadicpolitics.blogspot.com/2026/03/one-nations-reckoning-true-story-of.html#comment-6961098457",
+      "source": "Comments",
+      "source_type": "comments",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": false,
+      "share": {
+        "x": {
+          "text": "In the paywalled article in The Atlantic by Anne Applebaum, she compares this su https://nomadicpolitics.blogspot.com/2026/03/one-nations-reckoning-true-story-of.html#comment-6961098457",
+          "chars": 104
+        },
+        "bluesky": {
+          "text": "In the paywalled article in The Atlantic by Anne Applebaum, she compares this su https://nomadicpolitics.blogspot.com/2026/03/one-nations-reckoning-true-story-of.html#comment-6961098457",
+          "chars": 185
+        }
+      }
+    },
+    {
+      "id": 2237,
+      "date": "2026-11-19",
+      "week_start": "2026-11-16",
+      "person_id": "eliot-cohen",
+      "person": "Eliot Cohen",
+      "is_ces": false,
+      "title": "Prof. Eliot A. Cohen on his new book \"The Strategist\": on The Mossad Files with Dan Raviv",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=ytkqRFETXm0",
+      "source": "Youtube",
+      "source_type": "social network",
+      "similar_mention_count": 1,
+      "entity_sentiment": "unknown",
+      "in_digest": true,
+      "share": {
+        "x": {
+          "text": "Prof. Eliot A. Cohen on his new book \"The Strategist\": on The Mossad Files with Dan Raviv https://www.youtube.com/watch?v=ytkqRFETXm0",
+          "chars": 113
+        },
+        "bluesky": {
+          "text": "Prof. Eliot A. Cohen on his new book \"The Strategist\": on The Mossad Files with Dan Raviv https://www.youtube.com/watch?v=ytkqRFETXm0",
+          "chars": 133
+        }
+      }
+    },
     {
       "id": 2189,
       "date": "2026-11-19",

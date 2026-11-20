@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-19T07:05:38-05:00",
+  "generated_at": "2026-11-20T07:05:11-05:00",
   "window": {
     "start": "2026-07-02",
-    "end": "2026-11-19"
+    "end": "2026-11-20"
   },
   "scopes": {
     "all": {
       "totals": {
-        "mentions": 2222,
-        "in_digest": 491,
-        "reach_proxy": 13234,
+        "mentions": 2230,
+        "in_digest": 496,
+        "reach_proxy": 13244,
         "people_covered": 225,
         "people_tracked": 100,
-        "sources": 859,
+        "sources": 861,
         "negative": 17
       },
       "deltas": {
@@ -1020,9 +1020,16 @@
         },
         {
           "date": "2026-11-19",
+          "count": 8,
+          "reach": 10,
+          "in_digest": 2,
+          "observed": true
+        },
+        {
+          "date": "2026-11-20",
           "count": 3,
           "reach": 3,
-          "in_digest": 0,
+          "in_digest": 3,
           "observed": true
         }
       ],
@@ -1289,15 +1296,15 @@
         },
         {
           "week_start": "2026-11-16",
-          "count": 112,
-          "reach": 288,
-          "in_digest": 19,
-          "people": 21,
+          "count": 120,
+          "reach": 298,
+          "in_digest": 24,
+          "people": 22,
           "sentiment": {
             "positive": 7,
             "neutral": 6,
             "negative": 0,
-            "unknown": 99
+            "unknown": 107
           }
         }
       ],
@@ -1305,7 +1312,7 @@
         "positive": 140,
         "neutral": 235,
         "negative": 17,
-        "unknown": 1830
+        "unknown": 1838
       },
       "top_people": [
         {
@@ -1318,15 +1325,15 @@
         {
           "person_id": "snf-agora-institute",
           "name": "SNF Agora Institute",
-          "count": 145,
-          "reach": 1349,
+          "count": 146,
+          "reach": 1350,
           "is_ces": false
         },
         {
           "person_id": "anne-applebaum",
           "name": "Anne Applebaum",
-          "count": 120,
-          "reach": 1268,
+          "count": 122,
+          "reach": 1270,
           "is_ces": false
         },
         {
@@ -1388,14 +1395,14 @@
         },
         {
           "source": "Youtube",
-          "count": 179,
-          "reach": 187,
+          "count": 180,
+          "reach": 188,
           "is_other": false
         },
         {
           "source": "LinkedIn",
-          "count": 65,
-          "reach": 68,
+          "count": 66,
+          "reach": 69,
           "is_other": false
         },
         {
@@ -1412,8 +1419,8 @@
         },
         {
           "source": "Substack",
-          "count": 52,
-          "reach": 65,
+          "count": 53,
+          "reach": 67,
           "is_other": false
         },
         {
@@ -1430,19 +1437,19 @@
         },
         {
           "source": "Other",
-          "count": 1354,
-          "reach": 6406,
+          "count": 1359,
+          "reach": 6412,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 1235
+          "count": 1240
         },
         {
           "source_type": "social network",
-          "count": 389
+          "count": 391
         },
         {
           "source_type": "blog",
@@ -1450,7 +1457,7 @@
         },
         {
           "source_type": "unresolved",
-          "count": 514
+          "count": 515
         }
       ],
       "negative_stories": [
@@ -1490,8 +1497,8 @@
           "positive": 28,
           "neutral": 42,
           "negative": 3,
-          "unknown": 72,
-          "total": 145
+          "unknown": 73,
+          "total": 146
         },
         {
           "row_label": "Anne Applebaum",
@@ -1500,8 +1507,8 @@
           "positive": 14,
           "neutral": 18,
           "negative": 8,
-          "unknown": 80,
-          "total": 120
+          "unknown": 82,
+          "total": 122
         },
         {
           "row_label": "unknown",
@@ -1594,6 +1601,16 @@
           "total": 46
         },
         {
+          "row_label": "Yuen Yuen Ang",
+          "person_id": "yuen-yuen-ang",
+          "is_ces": true,
+          "positive": 6,
+          "neutral": 10,
+          "negative": 0,
+          "unknown": 24,
+          "total": 40
+        },
+        {
           "row_label": "Namesake/noise match: Higher Education, Johns Hopkins",
           "person_id": "namesake-noise-match-higher-education-johns-hopkins",
           "is_ces": false,
@@ -1601,16 +1618,6 @@
           "neutral": 0,
           "negative": 0,
           "unknown": 39,
-          "total": 39
-        },
-        {
-          "row_label": "Yuen Yuen Ang",
-          "person_id": "yuen-yuen-ang",
-          "is_ces": true,
-          "positive": 6,
-          "neutral": 10,
-          "negative": 0,
-          "unknown": 23,
           "total": 39
         },
         {
@@ -1694,6 +1701,16 @@
           "total": 23
         },
         {
+          "row_label": "Peter Pomerantsev",
+          "person_id": "peter-pomerantsev",
+          "is_ces": false,
+          "positive": 4,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 18,
+          "total": 22
+        },
+        {
           "row_label": "Ruth Braunstein",
           "person_id": "ruth-braunstein",
           "is_ces": false,
@@ -1702,16 +1719,6 @@
           "negative": 0,
           "unknown": 8,
           "total": 22
-        },
-        {
-          "row_label": "Peter Pomerantsev",
-          "person_id": "peter-pomerantsev",
-          "is_ces": false,
-          "positive": 4,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 17,
-          "total": 21
         },
         {
           "row_label": "Amy Binder",
@@ -1754,6 +1761,16 @@
           "total": 14
         },
         {
+          "row_label": "Eliot Cohen",
+          "person_id": "eliot-cohen",
+          "is_ces": false,
+          "positive": 4,
+          "neutral": 0,
+          "negative": 0,
+          "unknown": 10,
+          "total": 14
+        },
+        {
           "row_label": "Unattributed (institutional keyword only)",
           "person_id": "unattributed-institutional-keyword-only",
           "is_ces": false,
@@ -1792,16 +1809,6 @@
           "negative": 0,
           "unknown": 12,
           "total": 12
-        },
-        {
-          "row_label": "Eliot Cohen",
-          "person_id": "eliot-cohen",
-          "is_ces": false,
-          "positive": 4,
-          "neutral": 0,
-          "negative": 0,
-          "unknown": 7,
-          "total": 11
         },
         {
           "row_label": "Emily White",
@@ -3730,16 +3737,16 @@
           "positive": 45,
           "neutral": 142,
           "negative": 5,
-          "unknown": 1043,
-          "total": 1235
+          "unknown": 1048,
+          "total": 1240
         },
         {
           "row_label": "social network",
           "positive": 62,
           "neutral": 72,
           "negative": 1,
-          "unknown": 254,
-          "total": 389
+          "unknown": 256,
+          "total": 391
         },
         {
           "row_label": "blog",
@@ -3754,8 +3761,8 @@
           "positive": 24,
           "neutral": 12,
           "negative": 10,
-          "unknown": 468,
-          "total": 514
+          "unknown": 469,
+          "total": 515
         }
       ],
       "sentiment_examples": {
@@ -5425,12 +5432,12 @@
     },
     "ces": {
       "totals": {
-        "mentions": 154,
-        "in_digest": 109,
-        "reach_proxy": 271,
+        "mentions": 155,
+        "in_digest": 110,
+        "reach_proxy": 273,
         "people_covered": 11,
         "people_tracked": 17,
-        "sources": 90,
+        "sources": 91,
         "negative": 1
       },
       "deltas": {
@@ -6438,6 +6445,13 @@
         },
         {
           "date": "2026-11-19",
+          "count": 1,
+          "reach": 2,
+          "in_digest": 1,
+          "observed": true
+        },
+        {
+          "date": "2026-11-20",
           "count": 0,
           "reach": 0,
           "in_digest": 0,
@@ -6707,15 +6721,15 @@
         },
         {
           "week_start": "2026-11-16",
-          "count": 8,
-          "reach": 24,
-          "in_digest": 6,
+          "count": 9,
+          "reach": 26,
+          "in_digest": 7,
           "people": 3,
           "sentiment": {
             "positive": 0,
             "neutral": 2,
             "negative": 0,
-            "unknown": 6
+            "unknown": 7
           }
         }
       ],
@@ -6723,7 +6737,7 @@
         "positive": 23,
         "neutral": 43,
         "negative": 1,
-        "unknown": 87
+        "unknown": 88
       },
       "top_people": [
         {
@@ -6736,8 +6750,8 @@
         {
           "person_id": "yuen-yuen-ang",
           "name": "Yuen Yuen Ang",
-          "count": 39,
-          "reach": 78,
+          "count": 40,
+          "reach": 80,
           "is_ces": true
         },
         {
@@ -6848,15 +6862,15 @@
         },
         {
           "source": "Other",
-          "count": 94,
-          "reach": 181,
+          "count": 95,
+          "reach": 183,
           "is_other": true
         }
       ],
       "source_types": [
         {
           "source_type": "online news",
-          "count": 82
+          "count": 83
         },
         {
           "source_type": "social network",
@@ -6892,8 +6906,8 @@
           "positive": 6,
           "neutral": 10,
           "negative": 0,
-          "unknown": 23,
-          "total": 39
+          "unknown": 24,
+          "total": 40
         },
         {
           "row_label": "Louis Hyman",
@@ -6992,8 +7006,8 @@
           "positive": 13,
           "neutral": 27,
           "negative": 1,
-          "unknown": 41,
-          "total": 82
+          "unknown": 42,
+          "total": 83
         },
         {
           "row_label": "social network",

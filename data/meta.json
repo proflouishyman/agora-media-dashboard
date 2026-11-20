@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T07:05:38-05:00",
-  "generated_date": "2026-11-19",
+  "generated_at": "2026-11-20T07:05:11-05:00",
+  "generated_date": "2026-11-20",
   "pipeline_live_since": "2026-07-31",
   "db_snapshot": {
     "first_mention_date": "2026-07-02",
-    "last_mention_date": "2026-11-19",
+    "last_mention_date": "2026-11-20",
     "observed_dates": [
       "2026-07-02",
       "2026-07-03",
@@ -145,10 +145,11 @@
       "2026-11-16",
       "2026-11-17",
       "2026-11-18",
-      "2026-11-19"
+      "2026-11-19",
+      "2026-11-20"
     ],
-    "total_mentions": 2222,
-    "total_raw_documents": 14486,
+    "total_mentions": 2230,
+    "total_raw_documents": 14540,
     "total_tracked_people": 100,
     "total_ces_people": 17
   },
@@ -156,19 +157,19 @@
     "all": {
       "label": "SNF Agora Institute",
       "people": 100,
-      "mentions": 2222
+      "mentions": 2230
     },
     "ces": {
       "label": "Center for Economy and Society",
       "people": 17,
-      "mentions": 154
+      "mentions": 155
     }
   },
   "data_quality": {
     "mentions_missing_url": 391,
     "mentions_no_text_captured": 90,
-    "mentions_sentiment_unknown": 1830,
-    "mentions_shareable": 1812,
+    "mentions_sentiment_unknown": 1838,
+    "mentions_shareable": 1820,
     "unmatched_persons": [
       {
         "person": "Johns Hopkins",
@@ -223,6 +224,10 @@
         "mentions": 17
       },
       {
+        "person": "Eliot Cohen",
+        "mentions": 14
+      },
+      {
         "person": "Unattributed (institutional keyword only)",
         "mentions": 14
       },
@@ -233,10 +238,6 @@
       {
         "person": "Namesake/noise match: Johns Hopkins, NIH funding",
         "mentions": 12
-      },
-      {
-        "person": "Eliot Cohen",
-        "mentions": 11
       },
       {
         "person": "Namesake/noise match: Johns Hopkins, University President",
